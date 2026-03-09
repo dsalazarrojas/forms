@@ -1,7 +1,3 @@
-<thinking>
-We will use this form to gather information about plant preferences from potential customers. The purpose of this form is to identify the target audience and their preferences for plant sales. This data will be used to inform marketing and sales strategies to better meet the needs of this audience. Before starting this form, please ensure that you have not already taken this survey, as it is intended for one-time use per customer.
-</thinking>
-
 # Plant Preference Quiz - Help Guide
 
 ## Purpose

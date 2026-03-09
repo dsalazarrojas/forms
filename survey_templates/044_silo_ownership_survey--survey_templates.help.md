@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is used to collect information about SILO (Storage In the Loop) ownership data for internal use. It's essential to ensure that the form is filled out accurately and consistently. To avoid errors, users should carefully review each field and its corresponding explanation before proceeding. The form is designed to be completed by one person per silo, and it's recommended to save the form after completion for future reference. Users should not duplicate efforts and ensure each field is filled out with the most up-to-date information. If there are any doubts or concerns, please contact the designated form owner or administrator for assistance...</thinking>
-
 # SILO Ownership Survey - Help Guide
 ## Purpose
 This form is used to collect information about SILO (Storage In the Loop) ownership data for internal use.

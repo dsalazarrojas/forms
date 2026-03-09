@@ -1,8 +1,3 @@
-<thinking>
-**Form Purpose:** The "Teacher Engagement Survey" form is designed to gauge the level of engagement and satisfaction among teachers in the school. It collects information about individual teacher's engagement level, frequency of meetings, meeting length, meeting attendance, collaboration and communication levels, and satisfaction with school administration. This data will help school administrators understand the overall engagement and satisfaction of their teachers, identify areas of improvement, and make informed decisions to enhance the teaching experience.
-**Duplicate Check:** Before filling out this form, please check if you have already filled it out in the recent past to avoid duplication of effort.
-</thinking>
-
 # Teacher Engagement Survey - Help Guide
 
 ## Purpose

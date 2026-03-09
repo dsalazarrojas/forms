@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for collecting information on youth risk behavior. It is assumed that the form will be filled out by students. The fields are likely to be related to demographic information, such as school ID, name, and date of birth, as well as information on risk factors that may be relevant to the study or analysis. It is also assumed that the parent and guardian consents are included to ensure the participation of minors in the survey. The form does not appear to be designed for data collection for a specific school or institution, as the fields for school ID and student ID are not required. The fields for risk factors are likely to be used for categorizing or grouping students based on their risk behavior.
-
-Please review the following help guide to ensure that you understand how to complete this form correctly and what each field is intended to capture.
-</thinking>
-
 # Youth Risk Behavior Survey - Help Guide
 
 ## Purpose

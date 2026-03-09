@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect nominations for an event decorator award. The form is used to gather information from event planners about the nominees and their respective nominators. Each field is essential in providing a comprehensive nomination that can be evaluated by the award committee. Please ensure you have all the necessary information before submitting the form.
-</thinking>
-
 # event_decorator_nomination_form - Help Guide
 
 ## Purpose

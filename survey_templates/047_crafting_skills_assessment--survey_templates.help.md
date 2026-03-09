@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess a user's skills and background in crafting, specifically in areas relevant to teaching or sharing their expertise with others. This form should only be filled out by users who are applying for or have been referred to a crafting position that involves teaching or sharing their skills with others. If you are unsure whether this form is relevant to you, please review your application or referral carefully before completing this form. 
-
-</thinking>
-
 # Crafting Skills Assessment - Help Guide
 ## Purpose
 The Crafting Skills Assessment form is a series of questions designed to evaluate a user's relevant skills and background when applying for or referring to a crafting position that involves teaching or sharing their expertise with others. This form will help us understand your qualifications and suitability for such roles.

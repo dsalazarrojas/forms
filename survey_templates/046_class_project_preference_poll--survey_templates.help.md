@@ -1,9 +1,3 @@
-<thinking>
-
-I'll create a user-facing help guide for this form based on the provided YAML fields.
-
-</thinking>
-
 # Class Project Preference Poll - Help Guide
 ## Purpose
 This form is designed to collect student preferences for a class project. It helps the class instructor understand individual students' interests, needs, and expectations for the project, ensuring that each student can work on a project that suits them best.

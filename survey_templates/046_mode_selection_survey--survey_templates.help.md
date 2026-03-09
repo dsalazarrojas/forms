@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about the user's preferences and mode of operation. It is intended to be used in a survey context, where the user is being asked to provide input on their habits and tendencies.
-Please note that this form is not intended to be filled out by users who have not provided explicit consent for data collection.
-</thinking>
-
 # Mode Selection Survey - Help Guide
 ## Purpose
 This form is designed to gather information about the user's preferences and mode of operation.

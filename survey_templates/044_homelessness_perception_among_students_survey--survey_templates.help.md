@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used as a survey for students to share their perceptions and thoughts on homelessness. The purpose of this form is to gather data and insights from students on their understanding of homelessness, what they believe can be done to help people who are homeless, and their experiences in learning about services and resources for people who are homeless. This survey aims to be a quick and easy way for students to contribute their thoughts and opinions, and the data collected will help in understanding and addressing the issue of homelessness.
-</thinking>
-
 # Homelessness Perception Among Students Survey - Help Guide
 ## Purpose
 The Homelessness Perception Among Students Survey is a tool designed to gather insights and opinions from students on homelessness. This survey aims to understand students' perceptions, knowledge, and experiences related to homelessness.

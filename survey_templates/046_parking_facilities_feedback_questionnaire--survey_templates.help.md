@@ -1,7 +1,3 @@
-<thinking>
-# The form is designed to gather feedback on parking facilities, asking users to rate their experience, satisfaction, and perception of the services, conditions, and accessibility of the parking facilities. This form is likely used to collect data for improvement or evaluation purposes. Ensure the form is filled out correctly and honestly to provide accurate insights.
-
-</thinking>
 # parking_facilities_feedback_questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback on parking facilities to help improve and evaluate their quality and services.

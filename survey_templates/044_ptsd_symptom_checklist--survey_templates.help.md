@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure accuracy, let's confirm that we're creating a help guide for the PTSD Symptom Checklist form. This form is designed to help individuals assess and document their symptoms related to post-traumatic stress disorder (PTSD). The form is not affiliated with, endorsed by, or derived from any form platform, but rather a generated original adaptation using public metadata. The goal of this form is to provide a standardized and user-friendly tool for tracking and reporting PTSD symptoms.
-</thinking>
-
 # PTSD Symptom Checklist - Help Guide
 ## Purpose
 The PTSD Symptom Checklist is a form designed to help individuals document and track symptoms associated with post-traumatic stress disorder (PTSD). It is not a diagnostic tool, but rather a tool to help individuals become more aware of their symptoms and potentially discuss them with healthcare professionals.

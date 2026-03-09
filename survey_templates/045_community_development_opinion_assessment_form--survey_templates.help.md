@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from residents regarding their opinions on community development, specifically on areas such as infrastructure, safety, and community services. The form collects various types of information, including personal contact details, assessment of neighborhood conditions, and opinions on community engagement and satisfaction. This form is designed to be completed by residents to provide valuable insights that can help the community better understand their needs and priorities.
-</thinking>
-
 # Community Development Opinion Assessment Form - Help Guide
 ## Purpose
 The Community Development Opinion Assessment Form is designed to gather opinions from residents on various aspects of community development, such as infrastructure, safety, and community services. This form helps the community understand the needs and priorities of its residents, which can inform decision-making and planning for future developments.

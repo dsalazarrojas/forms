@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to help public service staff and leadership track and evaluate key performance indicators of their service operations. It is designed to gather information on specific services and questions relevant to public service performance. Please note that the purpose of this form is not to evaluate individual staff performance but rather to assess the overall quality and efficiency of the services provided. This form should be filled out for each service area, and it's essential to provide clear and accurate information to facilitate meaningful analysis and reporting.
-
-To avoid duplication and ensure accurate tracking, please fill out this form only once for each service area, and make sure to update it whenever there's a significant change in service operations or performance.
-
-This guide will walk you through the steps and explanations for each field to ensure you can complete the form efficiently and accurately.
-</thinking>
-
 # Public Service Performance Report Form - Help Guide
 ## Purpose
 The Public Service Performance Report Form is a tool used to track and evaluate key performance indicators of public service operations. Its primary objective is to collect information on specific services and questions relevant to public service performance, allowing for a more informed and data-driven approach to service improvement.

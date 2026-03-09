@@ -1,9 +1,3 @@
-<thinking>
-This form is used for market sizing templates. The purpose of this form is to gather market sizing information for a particular market or product. It's essential to complete this form carefully, as the data collected will be used to inform business decisions.
-Please ensure that you have a good understanding of the market and product before filling out this form. If you're unsure or need clarification, review the internal documentation or consult with a colleague.
-Before filling out this form, make sure to check that you don't have any existing market sizing templates with the same title. This will prevent duplicate data.
-</thinking>
-
 # market_sizing_template - Help Guide
 ## Purpose
 This form is used for market sizing templates. The purpose of this form is to gather market sizing information for a particular market or product.

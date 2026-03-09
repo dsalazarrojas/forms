@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about an Mpox post-vaccination survey, likely for medical or research purposes. This form aims to capture details about the patient's vaccination date, site, symptoms, and other relevant information. The form is likely used in a clinical setting, such as a hospital or a medical facility, to track patient data after receiving the Mpox vaccine. Before filling out this form, please ensure you have a valid reason for using this survey template and that you're not duplicating effort with other forms or records already established for this purpose.
-
-</thinking>
-
 # Mpox Post-Vaccination Survey - Help Guide
 ## Purpose
 This form is designed to gather information about patients after receiving the Mpox vaccine.

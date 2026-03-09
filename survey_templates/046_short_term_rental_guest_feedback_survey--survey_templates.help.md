@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Short Term Rental Guest Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from guests who have stayed in short-term rental properties managed by our company. The purpose of this survey is to understand their experiences, identify areas for improvement, and provide a platform for guests to share their thoughts on their stay.

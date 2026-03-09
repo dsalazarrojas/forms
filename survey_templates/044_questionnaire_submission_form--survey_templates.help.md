@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for users to submit their answers to a questionnaire. The form is divided into multiple pages, each with its own set of questions. The user is required to answer all questions on the first page, but can choose to provide more information on subsequent pages. Each question is a field where the user can enter their response. Some fields are select boxes for choosing from multiple options, while others are single-select or text fields.
-This form is likely meant to capture user feedback or concerns, and the "Contact Information" field is intended to gather the user's contact details for follow-up conversations.
-The fields with "required: true" indicate that these fields must be filled out in order to submit the form. All other fields are optional.
-</thinking>
-
 # Questionnaire Submission Form - Help Guide
 ## Purpose
 This form is designed for users to submit their answers to a questionnaire. The form is divided into multiple pages, each with its own set of questions.

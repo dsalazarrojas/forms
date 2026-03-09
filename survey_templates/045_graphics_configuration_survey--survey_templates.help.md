@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user opinions on their graphics experience, focusing on GPU usage, display preferences, and satisfaction levels. It's crucial that this form is not filled out by individuals outside the target audience, as the collected data will inform the development of graphics-related features and settings. Please ensure that only relevant individuals with experience with graphics-related features complete this form.
-</thinking>
-
 # Graphics Configuration Survey - Help Guide
 ## Purpose
 This guide will walk you through the Graphics Configuration Survey form to help you provide valuable feedback on your graphics experience.

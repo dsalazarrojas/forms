@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Item Definition For Market Analysis" form. 
-
-The form is designed to collect information about an item for market analysis purposes. It is used by business users to define items for market analysis. The purpose of this form is to ensure that each item is properly defined and categorized for further analysis.
-
-Before starting, please check that the form is relevant to your task. This form should not be used for other purposes.
-
-This form is part of a larger system for managing market analysis data. If you are unsure about the form's purpose or have questions, please reach out to your supervisor or the system administrator.
-
-</thinking>
-
 # Item Definition For Market Analysis - Help Guide
 ## Purpose
 The "Item Definition For Market Analysis" form is used to collect detailed information about an item for market analysis purposes. This form helps to categorize and define each item in the system, enabling better analysis and decision-making.

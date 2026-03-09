@@ -1,7 +1,3 @@
-<thinking>
-Do you need help with writing a user-facing help guide for a form? This guide will walk through the steps to complete the form and explain each field in detail. The form in question is a "Teacher Evaluation Survey".
-</thinking>
-
 # Teacher Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to help evaluate teachers based on student feedback. The form has eight pages, each with its own purpose:

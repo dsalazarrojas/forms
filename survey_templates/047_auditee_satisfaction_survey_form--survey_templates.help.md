@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from auditees about their experience with an audit process. The purpose of this form is to help the audit team improve their professionalism, communication, and overall performance. The form will ask you to rate your satisfaction with various aspects of the audit, such as professionalism of the audit team, communication quality, and overall satisfaction. Please fill out this form to provide your honest feedback and suggestions for improvement.
-</thinking>
-
 # Auditee Satisfaction Survey Form - Help Guide
 ## Purpose
 

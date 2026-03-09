@@ -1,12 +1,3 @@
-<thinking>
-The "Customer Service Survey" form is designed to collect feedback from customers about their interactions with your company's customer service team. This form is intended to help identify areas of strength and weakness in your customer service operations, allowing your team to make data-driven decisions to improve their performance. To avoid duplication of effort, please ensure that this form is only filled out by customers who have had a recent interaction with your customer service team.
-
-Please note that this form is not intended to be a comprehensive feedback mechanism, but rather a tool to gather specific, quantifiable data that can be used to improve customer service.
-
-Before proceeding, please ensure that you have a clear understanding of the survey questions and their relevance to your recent interaction with our customer service team.
-
-</thinking>
-
 # Customer Service Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their interactions with our customer service team.

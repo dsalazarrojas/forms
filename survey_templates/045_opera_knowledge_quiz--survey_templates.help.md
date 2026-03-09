@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, we should check if the user has already completed a similar form in the past 24 hours. If they have, prompt them to complete this form only if it's different, otherwise, skip to the next instruction. If the user has not completed the form in the past 24 hours or it's their first time, proceed with the regular instructions.
-</thinking>
-
 # Opera Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge on the subject of Opera, including your interests, availability, and preferences.

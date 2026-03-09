@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect user data for internal purposes, likely for business intelligence or research. The form may be used for marketing, sales, or other similar activities. There might be similar forms in the system, but this one is specifically tailored for demographic data collection.
-</thinking>
-
 # Data Collection Survey - Help Guide
 ## Purpose
 This form is designed to collect demographic data from users, which will help our team to better understand our audience and improve our services. Your participation is crucial in providing us with valuable insights.

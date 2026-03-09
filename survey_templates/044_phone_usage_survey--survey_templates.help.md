@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather data on phone usage habits of users, including mobile operators, screen time, mobile devices, phone models, phone operating systems, screen usage categories, usage frequency, and most frequently used apps. This information will help in identifying trends and patterns in phone usage across the population being surveyed.
-The form will be useful for understanding phone usage patterns, which can inform the design of mobile apps and services to better meet user needs and preferences.
-</thinking>
-
 # phone_usage_survey - Help Guide
 ## Purpose
 The phone usage survey is designed to collect data on your phone usage habits, helping us understand how you use your phone and identify areas where we can improve our services.

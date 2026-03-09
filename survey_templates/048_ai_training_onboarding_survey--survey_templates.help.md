@@ -1,9 +1,3 @@
-<thinking>
-To provide clear guidance to users, we need to understand the form's purpose and requirements. This AI Training Onboarding Survey is designed to gather information from learners about their profile, learning goals, preferred format, availability, accessibility requirements, technology readiness, and expectations from the training. This form is crucial for the training team to tailor the content and schedule according to the learners' needs and preferences. We must ensure that users understand the importance of providing accurate and honest information to ensure they get the most out of the training.
-
-Before filling out this form, please check if you have already completed a similar survey or form. If you have any questions or doubts, please reach out to the training team for support.
-</thinking>
-
 # AI Training Onboarding Survey - Help Guide
 ## Purpose
 

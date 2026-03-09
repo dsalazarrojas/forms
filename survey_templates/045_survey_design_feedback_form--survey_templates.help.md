@@ -1,8 +1,3 @@
-<thinking>
-This form is used by designers and researchers to gather feedback on the effectiveness of surveys. It is designed to collect qualitative feedback that can be used to improve the survey design process. Please ensure that you understand the purpose of this form before proceeding. To avoid duplication, please fill this form only once per survey design. If you are unsure about any aspect of this form, please contact the survey team for clarification. 
-
-</thinking>
-
 # Survey Design Feedback Form - Help Guide
 ## Purpose
 The Survey Design Feedback Form is used to gather feedback from participants on the effectiveness of surveys. This form collects information on the participant's experience, survey rating, and comments, which can be used to improve the survey design process.

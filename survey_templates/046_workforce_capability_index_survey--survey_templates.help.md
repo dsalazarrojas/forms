@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and data on the workforce capability index of an organization, specifically targeting demographic information, manager information, skills and training needs, feedback, departmental development, role development, overall ratings and satisfaction, contact information, and specific selections (departments, roles, managers, and dates). This form should only be completed by authorized personnel, such as employees or managers, within the organization. Please ensure that you have the necessary permissions to complete this form before proceeding. Also, be aware that some fields are marked as required, which means that you must provide a value for these fields to submit the form. If you're not sure about any field or have questions, please ask your supervisor or HR representative for guidance.
-</thinking>
-
 # Workforce Capability Index Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and data on the workforce capability index of the organization, allowing for the assessment and improvement of departmental and role development.

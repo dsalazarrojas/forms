@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from participants in a program or event, likely to gauge their experience, satisfaction, and perceptions. The form is designed to gather open-ended and quantitative feedback on various aspects of the program, aiming to identify areas of improvement and potential future development.
-</thinking>
-
 # Participant Mid Point Survey - Help Guide
 
 ## Purpose

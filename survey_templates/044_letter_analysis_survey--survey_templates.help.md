@@ -1,7 +1,3 @@
-<thinking>
-This form is a "Letter Analysis Survey" designed to gather feedback from users on the clarity, tone, and overall effectiveness of a letter. The survey is likely used to evaluate the communication skills of writers or the quality of a letter sent to stakeholders. To avoid duplication of effort, it's essential to ensure that users understand the purpose and how to complete the form correctly. By providing clear instructions and explanations for each field, users can submit valuable feedback without confusion.
-</thinking>
-
 # Letter Analysis Survey - Help Guide
 ## Purpose
 The Letter Analysis Survey is designed to gather feedback on the clarity, tone, and overall effectiveness of a letter. It helps evaluate the communication skills of writers or the quality of a letter sent to stakeholders.

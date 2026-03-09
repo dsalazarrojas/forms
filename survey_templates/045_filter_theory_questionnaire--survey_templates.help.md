@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Filter Theory Questionnaire - Help Guide
 ## Purpose
 This form is designed to assess your level of familiarity and application of Filter Theory in various aspects of your work, including education, research, practice, industry, communication, decision-making, teaching, professional development, assessment, training, collaboration, innovation, consulting, criteria development, evaluation, pilot studies, case studies, and project planning.

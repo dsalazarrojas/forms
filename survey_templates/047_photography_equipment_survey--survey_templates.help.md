@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information on photography equipment usage and satisfaction levels. It is meant to be filled out by photographers who have used our company's photography equipment. The purpose of this form is to help us understand how our equipment performs in real-world use cases, identify areas for improvement, and inform future product development decisions. This form is not meant to be filled out by anyone who has not used our equipment.
-</thinking>
-
 # Photography Equipment Survey - Help Guide
 ## Purpose
 This form is designed to gather information on photography equipment usage and satisfaction levels to help us understand how our equipment performs in real-world use cases, identify areas for improvement, and inform future product development decisions.

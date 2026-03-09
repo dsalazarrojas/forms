@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and completion process of the Cultural And Entertainment Insights Survey form. This form is designed to collect information from users about their cultural and entertainment habits, preferences, and demographics. It is essential to ensure that each field is filled in accurately and relevantly to provide valuable insights.
-</thinking>
-
 # Cultural And Entertainment Insights Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your cultural and entertainment habits, preferences, and demographics. This information will help us better understand your interests and needs, and improve our services accordingly.

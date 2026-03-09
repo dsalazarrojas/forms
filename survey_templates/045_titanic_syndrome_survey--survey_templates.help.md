@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about the Titanic syndrome, which is a condition that affects the brain's ability to process information. This form will help gather data about the symptoms, frequency of practice, and other relevant details related to the condition.
 
 Before completing this form, please ensure that you have not previously filled out a Titanic syndrome survey. If you have already submitted a survey, please do not fill out this form again. This form is meant to be a comprehensive assessment of the condition, and redundant data will not be taken into account.

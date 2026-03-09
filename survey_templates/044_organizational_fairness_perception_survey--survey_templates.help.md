@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll first analyze the form's purpose and functionality. This form, "Organizational Fairness Perception Survey," appears to be designed to gauge employees' perceptions of their organization's fairness and transparency. The form asks about various aspects of the organization, such as decision-making processes, communication style, compensation, benefits, and employee satisfaction. The survey likely aims to identify areas where the organization may be lacking in fairness and transparency, providing valuable insights for improvement. The form's structure suggests it's intended for employees within the organization, likely to be used by HR or management to gather feedback.</thinking>
-
 # Organizational Fairness Perception Survey - Help Guide
 ## Purpose
 This survey aims to understand employees' perceptions of their organization's fairness and transparency, gathering insights to help identify areas for improvement.

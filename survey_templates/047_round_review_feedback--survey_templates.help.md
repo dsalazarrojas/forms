@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users after they have completed a round of training or review. It's meant to gauge the participant's overall experience and provide a way for the participant to share their thoughts on the training or review process. The form asks for the participant's name, the date of the event, and an overall rating of their experience. It also includes fields for comments and suggestions, as well as fields to track follow-up actions and review status. This form is likely used by trainers, instructors, or administrators to gather information and evaluate the effectiveness of the training or review process. This form may be used to identify areas for improvement and make necessary changes to future events.
-
-To prevent duplication, the system should check if a participant has already been reviewed and only display the form if necessary.
-</thinking>
-
 # Round_Review_Feedback - Help Guide
 ## Purpose
 This form is used to collect feedback from participants after a round of training or review. It helps gather information to improve the quality and effectiveness of future events.

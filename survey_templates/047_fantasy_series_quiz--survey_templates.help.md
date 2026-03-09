@@ -1,5 +1,3 @@
-<thinking>Let me first try to understand the purpose and functionality of this form. This seems to be a survey form designed to gather information from users about their favorite fantasy series. It includes various questions such as favorite character, book series, movie, etc. The user is presented with multiple choice and text input fields to provide their preferences. Each field is optional, indicating that the user can provide as much or as little information as they like. I will now create a help guide for this form based on this understanding.</thinking>
-
 # Fantasy Series Quiz - Help Guide
 ## Purpose
 This form is designed to help us understand what fantasy series you enjoy the most. Please answer the questions to the best of your ability and provide as much information as you like.

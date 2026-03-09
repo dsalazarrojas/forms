@@ -1,5 +1,3 @@
-<thinking>...to check the context and form purpose...</thinking>
-
 This help guide will assist users in understanding the purpose of the form and how to complete it.
 
 # Group Participation Poll - Help Guide

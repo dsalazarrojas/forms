@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather opinions and feedback about the festival headliners. This form is not intended to be a comprehensive evaluation tool, but rather a casual poll to gauge user interest and sentiment. Before proceeding, please ensure you have a genuine intention to provide feedback and are not duplicating efforts. If you're unsure about the purpose of this form or have already submitted feedback, please reconsider and start a new submission.
-</thinking>
-
 # Festival Headliner Poll - Help Guide
 ## Purpose
 The Festival Headliner Poll is a simple form designed to collect your thoughts and opinions about the festival headliners.

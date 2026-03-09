@@ -1,12 +1,3 @@
-<thinking> 
-This help guide is to assist end-users in understanding the purpose and usage of the 'Participant Networking Feedback Questionnaire' form. This form is designed to gather feedback from participants in events or activities, focusing on their networking experiences, opportunities, and suggestions for improvement. 
-
-To determine relevance, the form includes fields for basic participant information (Participant Name and Event ID), and fields for gathering feedback on networking experiences, opportunities, and suggestions. 
-
-To prevent duplication, the form includes a unique Event ID field, which should be the same for all participants in the same event.
-
-</thinking>
-
 # Participant Networking Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants in events or activities on their networking experiences, opportunities, and suggestions for improvement.

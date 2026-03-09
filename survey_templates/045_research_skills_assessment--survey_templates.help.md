@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to assess the research skills and capabilities of a research assistant. The form is part of a larger system that helps evaluate and improve the research process. To ensure that the information entered is accurate and relevant, please review this guide carefully.
-
-The form has 12 fields that are divided into several sections. Each field is labeled clearly, and the instructions below will guide you through what each field means and how to complete it correctly.
-
-</thinking>
-
 # Research Skills Assessment - Help Guide
 ## Purpose
 This form is used to assess the research skills and capabilities of a research assistant.

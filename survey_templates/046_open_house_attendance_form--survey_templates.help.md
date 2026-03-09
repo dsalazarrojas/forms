@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about visitors and events for attendance purposes. It's likely used to track and record data about visitors who attend open houses, events, or other gatherings. The purpose of this form is to gather relevant information from visitors to provide a clear picture of who attended, how they got there, and what they experienced. This information can be used for various purposes, such as event planning, marketing, and follow-up. It's essential to ensure that the form is filled out accurately and completely for the data to be reliable and helpful.
-</thinking>
-
 # Open House Attendance Form - Help Guide
 ## Purpose
 This form is designed to collect information about visitors and events for attendance purposes.

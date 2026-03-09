@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed for collecting information from participants in an organizational behavior study. It seems to be a part of a larger research project. The form collects data on general information, availability, consent, participant details, contact information, participant comments, researcher comments, participant signature, researcher signature, university signature, participant declaration, researcher declaration, and study conduct. Upon reviewing the fields, it's possible that this form is intended to be used for academic or research purposes, such as collecting data on participant behavior or experiences within an organizational setting. To avoid duplication, ensure that the participant has not already completed this form.
-
-</thinking>
-
 # Organizational Behavior Study Application - Help Guide
 
 ## Purpose

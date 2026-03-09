@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # political_policy_proposal_voting_form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-The primary purpose of this form is to collect passenger feedback on their in-flight experiences, specifically their preferences regarding flight and service quality. This form is designed to gather information to help improve the overall passenger experience. It is not intended for passengers to submit their contact information, as this information is already captured through other means. Therefore, fields that require contact information should be filled only if you wish to provide feedback on a specific flight. 
-
-The form has 13 pages, but only 2 pages are relevant for most users: the first one with the actual questions and the last one with personal contact information (email and phone number). All other pages contain redundant "comments" fields, likely for testing or debugging purposes. 
-
-This form will only be used for feedback purposes and not for real-time interaction.
-
-</thinking>
-
 # Passenger Inflight Service Preference Poll - Help Guide
 ## Purpose
 This form collects passenger feedback on their in-flight experiences, specifically their preferences regarding flight and service quality.

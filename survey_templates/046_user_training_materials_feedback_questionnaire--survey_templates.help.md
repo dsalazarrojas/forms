@@ -1,7 +1,3 @@
-<thinking>
-This guide is designed to ensure users understand the purpose of the "user_training_materials_feedback_questionnaire" form and can complete it effectively. This form is intended to collect feedback from users on their experience with training materials, focusing on the usefulness of the materials, the quality of instruction, and any additional comments or suggestions. The purpose of this guide is to provide clear explanations of each field and help users navigate the form without duplication or ambiguity.
-</thinking>
-
 # user_training_materials_feedback_questionnaire - Help Guide
 
 ## Purpose

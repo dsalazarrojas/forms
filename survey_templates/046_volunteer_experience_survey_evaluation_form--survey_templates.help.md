@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from participants or volunteers about their experiences with a program or initiative. It is meant to be used to evaluate and improve the program. 
-
-This form likely exists in multiple instances, and the goal is to ensure that everyone has the same experience and expectations. 
-
-The questions on this form are meant to gather data on the participant's role in the program, their experience frequency, and their thoughts about the program's value.
-
-</thinking>
-
 # Volunteer Experience Survey Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants or volunteers about their experiences with a program or initiative. The goal is to evaluate and improve the program.

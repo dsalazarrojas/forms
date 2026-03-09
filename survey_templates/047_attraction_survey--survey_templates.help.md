@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a candidate's attraction to an opportunity. It's meant to be used for job matching purposes, allowing the candidate to express their interests, skills, and preferences. Before you begin, please ensure you are filling out the correct form for your current or desired job search situation.
-
-The form has multiple sections, each with specific fields that cater to different aspects of a candidate's information and preferences. Please make sure to fill out all required fields accurately and thoroughly.
-
-</thinking>
-
 # Attraction Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a candidate's attraction to an opportunity for job matching purposes.

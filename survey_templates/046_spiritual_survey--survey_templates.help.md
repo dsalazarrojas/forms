@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's spiritual practices, beliefs, and experiences. It is intended to be completed by individuals who are interested in spirituality and would like to reflect on their current spiritual practices and beliefs. The form is meant to be a self-assessment tool to help individuals identify areas of their spiritual growth and development. 
-
-Please ensure that you have not already taken this survey before, as your answers will be used to track progress and identify areas where you would like to focus your efforts. 
-
-</thinking>
-
 # Spiritual Survey - Help Guide
 ## Purpose
 The Spiritual Survey is a self-assessment tool designed to help individuals reflect on their current spiritual practices and beliefs. It collects information on various aspects of spirituality, including beliefs, practices, and experiences. This guide will walk you through each section of the form and provide guidance on how to complete it.

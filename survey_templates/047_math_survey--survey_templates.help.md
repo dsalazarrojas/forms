@@ -1,11 +1,3 @@
-<thinking>
-
-The form "math_survey" is intended to gather information from students about their math abilities and interests. It's designed to be used by teachers to collect relevant data for educational purposes, such as to monitor students' progress or to understand their needs. Before filling out this form, please ensure that you are using it for its intended purpose and that you have permission to do so.
-
-To avoid duplication, please check if a similar form exists or if the data has already been collected.
-
-</thinking>
-
 # math_survey - Help Guide
 ## Purpose
 The math_survey form is a collection of questions designed to gather information from students about their math abilities and interests.

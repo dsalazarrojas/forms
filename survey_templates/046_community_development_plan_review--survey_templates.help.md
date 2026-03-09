@@ -1,12 +1,3 @@
-<thinking> 
-The purpose of this form is to collect feedback and reviews from community members on the development plan of the community center. This form aims to understand the community's sentiments, concerns, and ideas on the proposed development plan. It will help the community center to identify areas that require improvement and make informed decisions to better serve the community. 
-
-This form is designed to be completed by community members who will be providing their honest feedback and ratings on the development plan. The form consists of sections that cover various aspects of the plan, such as the areas that need the most attention, overall satisfaction, engagement, and ideas for improvement. 
-
-Please note that this form is not intended for internal use within the community center, but rather for external community members who are interested in providing feedback on the development plan. 
-
-Also, please ensure that you are not duplicating your efforts by checking if someone has already completed this form before starting the review process.</thinking>
-
 # Community Development Plan Review - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and reviews from community members on the development plan of the community center.

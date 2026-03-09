@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information about the availability of dispatchers for scheduling purposes. This form should be filled out by dispatchers or their representatives to indicate their availability, preferred shifts, and any scheduling constraints. It is essential to fill out this form accurately to ensure that dispatchers' availability is correctly reflected in the scheduling process. Please ensure that this form is filled out only once per individual and not duplicated.
-</thinking>
-
 # Dispatch Availability Survey - Help Guide
 ## Purpose
 The Dispatch Availability Survey is a form designed to gather information about the availability of dispatchers for scheduling purposes. It is essential to fill out this form accurately to ensure that dispatchers' availability is correctly reflected in the scheduling process.

@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-The purpose of this form is to gather information about LLM (Language Model) Hallucinations, a phenomenon where AI models generate responses that deviate from the provided input, often exhibiting characteristics of human-like thinking and creativity. This form is designed to help users provide detailed and accurate information about their experiences with LLM hallucinations, which can inform the development of more reliable and trustworthy AI models. Please ensure that you have a good understanding of the topic before proceeding, and that you have not completed this form before.
-
-</thinking>
-
 # LLM Hallucinations Quiz - Help Guide
 ## Purpose
 The LLM Hallucinations Quiz is designed to collect information about your experiences with LLM hallucinations. Your input will help us better understand the nature of LLM hallucinations and improve the performance of AI models.

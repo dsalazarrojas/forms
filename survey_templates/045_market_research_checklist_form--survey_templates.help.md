@@ -1,13 +1,3 @@
-<thinking>
-
-This form, "market-research-checklist-form", is designed to collect information about market research initiatives. The purpose of this form is to provide a comprehensive checklist for market researchers to gather and document relevant details about their projects.
-
-This form is intended to be used by market researchers to gather and document information about their projects in a structured and organized manner. The form is not meant to be a substitute for in-depth market research studies, but rather a tool to help researchers ensure they have considered all relevant factors and details.
-
-This form is not intended to be a one-size-fits-all solution, and researchers should feel free to adapt and modify the form to suit their specific project needs.
-
-</thinking>
-
 # market-research-checklist-form - Help Guide
 ## Purpose
 This form is designed to collect information about market research initiatives, providing a comprehensive checklist for researchers to gather and document relevant details about their projects.

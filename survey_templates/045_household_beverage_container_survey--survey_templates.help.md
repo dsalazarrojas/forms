@@ -1,5 +1,3 @@
-<thinking>...This form is meant to gather information from users about their household beverage container usage and preferences. The form should only be completed by users who have a household with a beverage container, such as a bottle, can, or jug. The goal is to understand how users use and care for these containers, and to gather data that can be used to improve product design and development.</thinking>
-
 # Household Beverage Container Survey - Help Guide
 ## Purpose
 This survey aims to collect information about your household's use and habits regarding beverage containers. Your responses will help us improve our products and services.

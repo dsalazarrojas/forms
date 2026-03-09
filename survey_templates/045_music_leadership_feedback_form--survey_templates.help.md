@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to provide feedback on the leadership qualities of music directors or leaders in the music industry. The purpose of this form is to help evaluate and improve the leadership performance and qualities of music directors, and it is intended to be completed by those who work under or interact with them, such as ensemble members, musicians, or other music industry professionals. This form is likely to be used in music schools, conservatories, or music departments within large institutions.
-
-This form is likely to be completed by those who have had direct experience with the music director, and the feedback provided will be used to inform future decisions about leadership roles or to support professional development.
-
-Please ensure that your feedback is specific, sincere, and based on your actual experience. The ratings and comments provided will be kept confidential and used only for the purpose of evaluating and improving the leadership qualities of the music director.
-</thinking>
-
 # Music Leadership Feedback Form - Help Guide
 ## Purpose
 This form is designed to provide feedback on the leadership qualities of music directors or leaders in the music industry.

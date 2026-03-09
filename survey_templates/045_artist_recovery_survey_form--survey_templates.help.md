@@ -1,7 +1,3 @@
-<thinking>... This form was generated using an AI, based on public survey topic metadata (title + industry/category) as inspiration. It's an original adaptation, not copied or derived from any proprietary form platforms. The Artist Recovery Survey Form is designed to gather information about the challenges faced by artists in various areas, such as financial difficulties, health and wellness issues, burnout, loss of creativity or inspiration, and personal or internal factors. It aims to assess the impact of these challenges on an artist's creative work, overall wellbeing, and financial stability, as well as identify potential contributing factors and resources for recovery. This form is intended to be used by art-related organizations or individuals seeking to better understand and support artists in need.
-
-</thinking>
-
 # Artist Recovery Survey Form - Help Guide
 
 ## Purpose

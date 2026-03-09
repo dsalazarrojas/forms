@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is designed to assess the respondent's perception and behavior related to audiovisual culture, specifically their viewing habits, preferences, and opinions on various aspects of the audiovisual industry. It is crucial that respondents answer this form accurately, as the data collected will help in understanding the current trends and preferences of the target audience. Please ensure that you complete this form only once, as repetitive submissions may lead to skewed results.
-
-</thinking>
-
 # Audiovisual Culture Assessment - Help Guide
 ## Purpose
 This form aims to gather information about your demographics, viewing habits, and opinions on audiovisual culture.

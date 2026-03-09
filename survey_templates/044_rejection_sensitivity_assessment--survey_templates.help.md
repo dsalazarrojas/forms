@@ -1,7 +1,3 @@
-<thinking>
-The Rejection Sensitivity Assessment form is used to evaluate an individual's sensitivity to rejection, which is an important aspect of emotional intelligence. It's essential to understand how often someone experiences, reacts to, and manages feelings of rejection in various situations. By filling out this form, you'll be able to gain insights into your own rejection sensitivity and develop strategies to cope with it.
-</thinking>
-
 # Rejection Sensitivity Assessment - Help Guide
 ## Purpose
 

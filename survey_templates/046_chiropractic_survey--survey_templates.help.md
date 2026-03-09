@@ -1,12 +1,3 @@
-<thinking>
-## Internal Reasoning and Duplication Check
-
-This help guide is designed to assist users in completing the "Chiropractic Survey" form. Before proceeding, please note that this form is an AI-generated form and does not contain any proprietary content from existing form platforms. It is intended to be a helpful resource for chiropractic practitioners to gather feedback from their patients.
-
-To ensure relevance and non-duplication, the form is designed to collect specific and focused information related to the chiropractic practice. Please review the form carefully to avoid duplicating any questions or providing unnecessary information.
-
-</thinking>
-
 # Chiropractic Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients about their experience at a chiropractic practice, including their overall satisfaction, wait time, and professionalism of the staff.

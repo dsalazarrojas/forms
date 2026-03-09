@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information about an individual's level of support for crime control and their preferences for engagement. The form will be used to collect contact details, the level of support the individual has for crime control, and their engagement preferences. The fields are designed to be completed by individuals who are interested in or already support crime control, and the data will be used to inform future strategies and initiatives.
-
-This form is not intended for internal use only. It's possible that this form has been filled out before by the same individual. Please ensure that each submission is accurate and unique.
-
-</thinking>
-
 # crime_control_support_fund_survey - Help Guide
 
 ## Purpose

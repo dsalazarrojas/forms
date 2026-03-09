@@ -1,11 +1,3 @@
-<thinking>
-The form "future_planning_questionnaire" is designed to help individuals reflect on their current and future goals, planning styles, and priorities. It's an AI-generated form based on public survey data and is not affiliated with any proprietary form platforms. The purpose of this form is to gather information about an individual's future planning habits, goals, and priorities.
-
-Before proceeding, please note that this form does not collect any sensitive or personal data. The questions are designed to be straightforward and easy to answer, and you can complete it at your own pace.
-
-To ensure the form's accuracy and consistency, please do not fill it out multiple times. Each answer should reflect your genuine thoughts and experiences.
-</thinking>
-
 # future_planning_questionnaire - Help Guide
 ## Purpose
 The future_planning_questionnaire form is designed to help you understand your future planning habits, goals, and priorities.

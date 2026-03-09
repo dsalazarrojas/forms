@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help organizations understand the expectations of their donors in regards to transparency. The purpose of this form is to gather information on what donors expect from their donations, which will help organizations tailor their communication and reporting to meet those expectations. This form is not intended to be used for any other purpose. Please only use this form for its intended purpose, and ensure that you are not duplicating efforts by using it for other purposes.
-
-</thinking>
-
 # Donor Transparency Expectation Poll - Help Guide
 
 ## Purpose

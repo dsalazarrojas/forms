@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information about restoration projects, specifically for voting purposes. The form is designed to capture the project name, contact email and phone number, a description of the project, and various voting-related information such as voting options, time, and date. The purpose of this form is to ensure that the restoration project has all the necessary information to be properly represented in the voting process. This form is part of a broader set of tools for managing restoration projects. To ensure accuracy and completeness, it's essential to fill out the form carefully and thoroughly. Please review the guidelines below to complete the form correctly.</thinking>
-
 # restoration_project_voting_form - Help Guide
 ## Purpose
 The restoration_project_voting_form is used to collect information about restoration projects for voting purposes. It ensures that each project has all the necessary data to be properly represented in the voting process.

@@ -1,7 +1,3 @@
-<thinking>**Form Purpose:**
-The "Company Profile And Market Insights Survey" form is designed to collect valuable information about a company's profile, market, and insights. This form aims to gather essential data points that will help in creating an original and accurate survey template. **Please note that you are not duplicating or copying any existing form platforms, and this form is an AI-generated adaptation.**
-</thinking>
-
 # Company Profile And Market Insights Survey - Help Guide
 ## Purpose
 This form is designed to collect comprehensive information about a company's profile and market insights. The data collected will help in creating a detailed survey template.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from new hires about their onboarding experience. The survey is intended to help managers and HR identify areas of improvement to refine the onboarding process and increase employee satisfaction. This form was generated using AI and is not affiliated with any specific form platform. It's released under the Creative Commons BY 4.0 license, allowing you to use, modify, and even sell forms derived from it, as long as you give credit.
-</thinking>
-
 # Employee Onboarding Experience Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from new hires about their onboarding experience, helping managers and HR to identify areas of improvement and refine the onboarding process.

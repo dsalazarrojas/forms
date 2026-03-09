@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from guests about their experiences at hotels, restaurants, rooms, or services. The form is divided into several sections, each with specific fields that aim to gather information on the guest's checkin date, checkout date, rating, comments, email address, phone number, category, subcategory, comment subcategory, comment details, rating score, comment, assigned tool, form ID, and output file. The form is intended for feedback purposes only, and it is not meant to collect demographic or personal data.
-Before filling out this form, please ensure that you are not duplicating a previous survey. If you have already provided feedback for the same stay or visit, please do not submit this form again.
-</thinking>
-
 # Guest Feedback Survey - Help Guide
 ## Purpose
 The Guest Feedback Survey is designed to gather feedback from guests about their experiences at hotels, restaurants, rooms, or services. It helps us understand your opinions and suggestions, which are essential for improving our services.

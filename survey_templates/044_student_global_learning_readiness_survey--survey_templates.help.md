@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess a student's global learning readiness, which refers to their ability to learn and adapt in a variety of contexts. The form is intended to measure several key aspects of a student's learning style, preferences, and behaviors. The questions cover their ability to work independently, collaborate with others, learn from failures, and preferential learning methods, among other topics. This form is not affiliated with any specific platform or organization, and its purpose is to provide an original adaptation of a public survey topic. It's essential to understand that the form's questions are not a definitive diagnostic tool, but rather a self-assessment tool to help students reflect on their learning habits and preferences. 
-
-Please note that the form's design is based on a publicly available survey topic and might not be exhaustive or specific to every individual's learning style. It's essential to review and modify the form according to your specific use case and needs.
-</thinking>
-
 # Student Global Learning Readiness Survey - Help Guide
 ## Purpose
 This survey is designed to help you, as a student, understand your global learning readiness by assessing your ability to learn and adapt in various situations.

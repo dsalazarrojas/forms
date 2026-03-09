@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # multilingual_family_needs_survey - Help Guide
 
 ## Purpose

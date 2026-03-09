@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "tracking_pixel_setup_survey" form is to gather information necessary for setting up tracking pixels for various platforms, such as Google and Facebook. This form helps ensure that all required details are collected and stored properly. To avoid duplication of effort, it's essential to complete this form carefully and accurately. This form is likely used by administrators or technical staff to set up and manage tracking pixels for their organization's online activities.
-</thinking>
-
 # tracking_pixel_setup_survey - Help Guide
 ## Purpose
 The "tracking_pixel_setup_survey" form is used to collect information for setting up tracking pixels for various platforms, such as Google and Facebook.

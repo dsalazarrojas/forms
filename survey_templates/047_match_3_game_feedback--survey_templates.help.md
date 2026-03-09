@@ -1,7 +1,3 @@
-<thinking>
-The form "Match 3 Game Feedback" seems to be designed for users to provide feedback on a match-3 puzzle game. It's likely used to collect information about the game's gameplay experience, any technical issues encountered, and suggestions for improvement. The form has five fields: "Gameplay", "Technical Issues", "Feature Preferences", "Suggestions", and "Comments". This form could be used by game developers or administrators to gather insights from players and make informed decisions about the game's development.
-</thinking>
-
 # Match 3 Game Feedback - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from players on their experience with the match-3 puzzle game, allowing game developers or administrators to identify areas for improvement and make informed decisions about the game's development.

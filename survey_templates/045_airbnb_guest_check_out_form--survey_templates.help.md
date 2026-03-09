@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the Airbnb Guest Check Out Form, designed to help guests provide accurate information about their departure experience. This form aims to gather essential details that can help hosts improve their properties and services. It's crucial to complete this form thoroughly and honestly to ensure that hosts can address any issues and create a better experience for future guests.
-</thinking>
-
 # Airbnb Guest Check Out Form - Help Guide
 ## Purpose
 

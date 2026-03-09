@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess the owner's trauma level, effectiveness, and support related to various aspects of their business. It appears to be a comprehensive survey to gather information about the owner's experiences, perceptions, and attitudes towards their business. This form likely helps owners understand their own emotional state and identify areas that need improvement. However, without more context, it's hard to say exactly why this form was created or its intended use case. It could be for HR, wellness, or other departments. I'll assume it's for a general business use case, but further clarification is required.
-
-To confirm, I'll create the help guide based on the provided fields. If more information is needed or the purpose is unclear, please provide it.
-
-</thinking>
-
 # Owner Trauma Assessment Survey - Help Guide
 ## Purpose
 This form is designed to help owners assess their emotional state and identify areas for improvement in their business. It gathers information about their experiences, perceptions, and attitudes towards various aspects of their business.

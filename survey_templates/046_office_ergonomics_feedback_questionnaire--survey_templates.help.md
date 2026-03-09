@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect feedback from employees on the comfort and ergonomics of their workspace. The purpose of this form is to help the office management identify areas that need improvements to create a more comfortable and efficient working environment.
-It's essential to fill out this form carefully to ensure that your feedback is accurate and helpful.
-The form consists of several sections that cover different aspects of the ergonomics of your workplace.
-</thinking>
-
 # Office Ergonomics Feedback Questionnaire - Help Guide
 ## Purpose
 ## How To Complete This Form

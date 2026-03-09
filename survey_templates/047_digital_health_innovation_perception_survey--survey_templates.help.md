@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users about their perception of digital health innovation. The form is part of a larger effort to gather insights and feedback on the current state of digital health innovation and its potential applications. To ensure that the form is completed accurately and effectively, we must consider the following:
-
-*   The form has a mix of single and multiple-choice questions, which require users to provide either a specific response or multiple responses, depending on the question.
-*   Some questions, such as "Age Range" and "Years of Experience," are designed to collect numerical data, while others, such as "Gender" and "Occupation," are multiple-choice or single-choice questions.
-*   The "Current Tool Usage" and "Digital Tool Usage" questions allow users to indicate how frequently they use digital tools, while "Innovation" is a question about the user's perception of innovation.
-*   There is no duplicate question, so users do not need to answer the same question multiple times.
-*   All questions are designed to be self-explanatory, so users should be able to understand each question without needing further clarification.
-
-</thinking>
-
 # Digital Health Innovation Perception Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is for submitting the Letter Guess Game, a game where contestants try to guess a randomly generated letter. The purpose of this form is to collect submissions from players who want to participate in the game. The game administrator will review and manage these submissions internally. It's essential to fill out this form correctly to ensure that your submission is considered for the game.
-</thinking>
-
 # Letter Guess Game Submission - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The "Seasonal Collection Feedback Poll" form is designed to gather feedback from customers about their experience with our seasonal collection. The form is meant to be a quick and easy way to collect data on customer opinions and suggestions, helping us to improve our product offerings and customer experience. To ensure that we are not duplicating efforts, please only submit one response per person.
-</thinking>
-
 # Seasonal Collection Feedback Poll - Help Guide
 ## Purpose
 This form is used to gather your opinion on our seasonal collection, helping us to improve and refine it for future seasons. Your input is invaluable to us!

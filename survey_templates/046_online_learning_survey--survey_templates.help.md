@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and preferences from end-users regarding their experience with online learning courses. This form is used to gauge the effectiveness of the online learning platform and understand what users find appealing or challenging about the courses available. 
-The responses will be used to optimize course content, format, and user experience to make online learning more engaging and effective. 
-Please ensure that you have not completed this survey before, as this will help us prevent duplication of responses and improve the overall validity of the data collected. 
-Please provide your genuine feedback and suggestions, as they will be taken into consideration when making improvements to the platform.
-</thinking>
-
 # Online Learning Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and preferences from end-users regarding their experience with online learning courses. The responses will be used to optimize course content, format, and user experience.

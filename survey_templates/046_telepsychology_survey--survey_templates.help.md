@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about a telepsychology survey, likely for research or analysis purposes. This form is likely used to gather data on various aspects of telepsychology, such as categories and descriptions. 
 
 </thinking>

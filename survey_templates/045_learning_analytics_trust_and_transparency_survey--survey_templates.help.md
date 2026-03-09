@@ -1,7 +1,3 @@
-<thinking>
-This form was created using a combination of public metadata from the category "survey_templates" and title "Learning Analytics Trust And Transparency Survey". It is an original adaptation and does not copy any proprietary content from other survey platforms. The purpose of this form is to collect information about trust and transparency in data collection for learning analytics.
-</thinking>
-
 # Learning Analytics Trust And Transparency Survey - Help Guide
 ## Purpose
 The purpose of this survey is to assess the level of trust and transparency that organizations have in the data they collect for learning analytics.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the verification process for scientific claims. It's intended to be completed by both users (the creators of the claim) and reviewers (the experts verifying the claim). The form is designed to gather essential information regarding the claim's status, evidence, and reviewer details. Before proceeding, please ensure that this is the correct form for your intended use and that you haven't already submitted this form previously.
-
-This guide will walk you through each section of the form, explaining what to expect and how to complete it accurately.
-</thinking>
-
 # Scientific Claim Verification Submission Form - Help Guide
 ## Purpose
 The Scientific Claim Verification Submission Form is designed for users to submit their scientific claims for review and verification by experts. This form collects information about the claim, including user inputs, reviewer inputs, and verification details. It's essential to fill out the form accurately to ensure a smooth verification process.

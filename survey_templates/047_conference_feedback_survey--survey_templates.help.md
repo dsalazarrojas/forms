@@ -1,13 +1,3 @@
-<thinking>**Internal Reasoning Block**
-
-This form is designed to gather feedback from conference attendees on their overall experience. The purpose of this form is to collect qualitative feedback on the conference's organization and logistics, speaker feedback, and suggestions for improvement. This feedback will help the organizers evaluate the conference's success and identify areas for improvement. 
-
-The form is divided into two main sections: attendee information (respondent name and email) and feedback sections. The feedback sections cover the overall event rating, session relevance, organization and logistics, value for money, networking value, speaker feedback, and suggestions for next year's conference. The form also includes an optional section for attendees to provide their email for follow-up communication.
-
-The form's questions are carefully crafted to elicit specific and actionable feedback, using a mix of select_one, text, and email fields to accommodate various types of responses. The select_one fields provide a structured way to collect ratings and opinions, while the text fields allow attendees to provide more in-depth comments. The email field enables attendees to opt-in for follow-up communication, ensuring that their feedback can be used to improve future conferences.
-
-</thinking>
-
 # Conference Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from conference attendees on their experience at the conference.

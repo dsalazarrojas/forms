@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to capture survey responses from customers about their preferences and expectations when it comes to handmade products. The purpose of this form is to collect data that can help us better understand what customers are looking for in a handmade product and tailor our product offerings accordingly. This form is intended for customers to provide their input on various aspects of handmade products, such as product types, materials, colors, and more. By completing this form, customers will be able to express their preferences and expectations, which will help us to improve our product development and customer experience.
-
-This form is not intended to be a mandatory or required form, meaning that customers can choose to fill it out or not. However, their input is valuable, and we encourage customers to provide their feedback to help us better serve them.
-
-Before proceeding, please ensure that you have read and understood the following:
-
-* This form is for customers to provide feedback on their preferences and expectations.
-* This form is not intended to be a required or mandatory form.
-* You can choose to fill out this form or not.
-* Your input is valuable and will help us improve our product development and customer experience.
-
-</thinking>
-
 # Handmade Product Style Survey - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-This form is a Housing Accessibility Satisfaction Survey, designed to gauge the satisfaction of users regarding the accessibility of their living space. This survey collects information on various factors affecting accessibility, including the presence of physical barriers, overall satisfaction levels, and other related concerns. It is crucial to fill this form accurately to provide reliable data for analysis. Please ensure you have not completed this survey previously before proceeding.</thinking>
-
 # Housing Accessibility Satisfaction Survey - Help Guide
 ## Purpose
 The Housing Accessibility Satisfaction Survey is a tool to measure the satisfaction of users regarding the accessibility of their living space.

@@ -1,7 +1,3 @@
-<thinking>**This form, "sports_league_rule_change_voting_form", is designed for collecting feedback on a rule change proposal within a sports league. Each field is carefully crafted to gather relevant information from users, ensuring that their opinions are heard and considered. To prevent duplication of efforts, this form will not allow users to vote multiple times.**
-
-</thinking>
-
 # sports_league_rule_change_voting_form - Help Guide
 ## Purpose
 This form is designed to collect feedback on a proposed rule change within a sports league. Your input will help inform the decision-making process.

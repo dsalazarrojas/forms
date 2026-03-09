@@ -1,11 +1,3 @@
-<thinking>
-**Internal reasoning block**
-The purpose of the Remote Work Efficiency Evaluation Form is to gather information about the types of work being done remotely, challenges faced, efficiency levels, and tools used to complete it. This form aims to evaluate the efficiency of remote work by collecting data on work type, hours spent, self-assessed efficiency level, common obstacles, productivity tools, primary communication methods, collaboration techniques, and working environment. This form will help in identifying patterns and areas for improvement in remote work processes. 
-
-Please note that some fields are optional, allowing users to fill in only the necessary information to complete their assessment. 
-
-</thinking>
-
 # Remote Work Efficiency Evaluation Form - Help Guide
 ## Purpose
 The Remote Work Efficiency Evaluation Form is designed to collect information about your work experience as a remote worker. It will help us understand the challenges you face, the tools you use, and your overall efficiency level in remote work.

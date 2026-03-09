@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting opinions on the financial planning service provided to customers. The form should be filled out by customers who have experienced the service firsthand. The form will ask for the customer's satisfaction level with the service and any suggestions they might have for improving it. This information will help the service provider to understand the customers' needs and make improvements.
-</thinking>
-
 # Financial Planning Service Opinion Poll - Help Guide
 
 ## Purpose

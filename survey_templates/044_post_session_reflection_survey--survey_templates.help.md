@@ -1,7 +1,3 @@
-<thinking>
-This form is a Post Session Reflection Survey, designed to gather feedback on the effectiveness of sessions. The purpose of this form is to understand how well the session was conducted and what aspects went well or not. The survey should be completed by the facilitator of the session and others who participated.
-</thinking>
-
 # Post Session Reflection Survey - Help Guide
 ## Purpose
 This form is intended to gather feedback on the effectiveness of sessions, which are conducted to facilitate learning, collaboration, or other objectives. The goal is to identify what went well, what did not go as planned, and what can be improved for future sessions.

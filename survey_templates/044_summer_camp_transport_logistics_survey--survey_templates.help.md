@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users about their transportation needs and preferences for a summer camp. It is essential to provide accurate and detailed information to ensure smooth transportation arrangements. Please ensure you have reviewed the form carefully before proceeding to avoid errors or duplicate submissions.
-
-This form is intended to be completed by the summer camp staff or administrators to gather information about individual participants' transportation needs. The data collected will be used to plan and coordinate transportation logistics for the summer camp.
-
-If you have already completed this form for another participant or have any other questions or concerns, please contact the summer camp staff or administrators before proceeding.
-
-</thinking>
-
 # Summer Camp Transport Logistics Survey - Help Guide
 ## Purpose
 This form is used to gather information about your transportation needs for the summer camp.

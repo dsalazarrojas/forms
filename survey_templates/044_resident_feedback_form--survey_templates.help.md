@@ -1,14 +1,3 @@
-<thinking>
-This form is a tool for residents to provide feedback and suggestions to improve their living community. 
-It is designed to be a simple and easy to use form that allows users to express their opinions and thoughts on the amenities, services, and overall experience of the community. 
-
-The form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using public survey topic metadata.
-It is released under a Creative Commons license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-
-Before completing the form, please ensure you have not already provided feedback on this topic before, as it may help prevent duplication of efforts and ensure that your comments are considered in a timely manner.
-
-</thinking>
-
 # Resident Feedback Form - Help Guide
 ## Purpose
 The Resident Feedback Form is designed to collect feedback and suggestions from residents to help improve their living community.

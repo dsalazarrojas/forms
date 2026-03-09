@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Historical Achievements Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the public's familiarity with historical events, their perceived impact on daily life, and other related aspects. It is essential to provide honest and accurate responses to help us better understand the historical context.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Orthopaedic Surgery Evaluation Survey - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is for holiday meal planning and gathering preferences from guests. It is meant to be used on an internal platform to collect information on user preferences before planning a holiday meal. This guide is intended for users who are completing the form to ensure they understand the purpose and requirements of the form.
-
-The form is designed to gather information on the type of holiday meal preferred, any dietary restrictions the user has, and additional comments or questions they may have. The purpose of the form is to help plan a meal that caters to everyone's needs and preferences.
-
-This guide is not intended for users who are familiar with the form and its purpose. However, it is designed for those who are new to the form and may be unsure about what information is being collected or how to complete the form.
-
-</thinking>
-
 # Holiday Meal Planning Form - Help Guide
 ## Purpose
 The Holiday Meal Planning Form is designed to collect information from users to plan a holiday meal that caters to everyone's needs and preferences.

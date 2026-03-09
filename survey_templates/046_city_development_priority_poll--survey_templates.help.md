@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather feedback and priorities from respondents about the development of their city. It is meant to be completed by residents, business owners, and frequent visitors to the city. This form will help the city officials understand what improvements are needed and how to prioritize them.
-
-The form is divided into several sections, each with a specific focus. The first section asks for basic information about the respondent, including their name and email. The next sections ask respondents to rate the importance of different development priorities, such as downtown revitalization, housing, transportation, and more. Respondents are also asked to select their preferred pace and type of development, as well as their top concerns. Additionally, there are sections for respondents to provide further feedback and suggestions.
-
-Please note that while this form is designed to be completed by multiple stakeholders, each with their own perspectives and needs, it is up to the respondents to answer honestly and accurately based on their own experiences and knowledge.
-</thinking>
-
 # City Development Priority Poll - Help Guide
 ## Purpose
 The City Development Priority Poll is a tool designed to gather feedback and priorities from residents, business owners, and frequent visitors to the city. This information will help city officials understand what improvements are needed and how to prioritize them.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I understand that creating a user-friendly help guide is crucial to ensure that end-users can complete the form accurately and efficiently. This guide will provide step-by-step instructions on how to complete the "Curbside Service Customer Feedback" form. I will carefully review each field to ensure that the explanations are clear and concise, taking into account the provided YAML fields. I will not invent unsupported business logic or assumptions, but rather focus on providing a practical and concrete explanation of each field's purpose and functionality.</thinking>
-
 # Curbside Service Customer Feedback - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers regarding the curbside service experience. This form helps us understand the customer's satisfaction with the service, identify areas of improvement, and provide opportunities for follow-up actions.

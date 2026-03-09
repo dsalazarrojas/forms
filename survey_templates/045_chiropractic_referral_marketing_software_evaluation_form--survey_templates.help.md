@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to evaluate the effectiveness and value of a chiropractic referral marketing software. This evaluation is intended to help clinics and practices assess whether the software meets their specific needs and provides a good return on investment. By completing this form, evaluators will be able to provide valuable feedback that will help in making informed decisions about whether to adopt and recommend this software. This form is meant to be completed by one person per clinic or practice, and is not intended to be duplicated or filled out multiple times.
-
-</thinking>
-
 # Chiropractic Referral Marketing Software Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the effectiveness and value of a chiropractic referral marketing software. 

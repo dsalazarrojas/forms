@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for an Outstanding Art Festival nomination. The form is intended to gather details about the artist and their artwork, including any relevant information that supports the nomination. This form is designed to be completed by the artist or their representative, and the information collected will be used to evaluate the nomination for inclusion in the festival.
-
-To ensure the form is completed correctly, please review the fields below to understand what information is required and how to fill it out.
-
-</thinking>
-
 # Outstanding Art Festival Nomination Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for an Outstanding Art Festival nomination. The form is intended to gather details about the artist and their artwork, including any relevant information that supports the nomination.

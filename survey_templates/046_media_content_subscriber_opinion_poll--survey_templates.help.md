@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather opinions from media content subscribers on specific topics. It is used to collect their thoughts and opinions on certain media content-related issues. This form is not affiliated with, endorsed by, or derived from any form platform, and its creation is based on public survey topic metadata from the provided title and industry/category. The form is released under CC BY 4.0 and can be used, modified, and even sold with proper credit. This form is designed to be completed by media content subscribers, and its purpose is to collect their opinions on media content-related topics.
-</thinking>
-
 # media_content_subscriber_opinion_poll - Help Guide
 ## Purpose
 This form is designed to collect opinions from media content subscribers on specific topics related to media content. It is used to gather their thoughts and opinions on certain media content-related issues.

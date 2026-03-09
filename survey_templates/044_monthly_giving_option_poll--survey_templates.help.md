@@ -1,10 +1,3 @@
-<thinking>
-We're creating a help guide for the "Monthly Giving Option Poll" form, a survey that aims to gather information on donors' preferences regarding their monthly giving options. This form is designed to be a simple and user-friendly way to collect feedback on what types of monthly giving options are most appealing to donors, which will help the organization make informed decisions about its fundraising efforts.
-
-The form is divided into a few sections, each of which focuses on a different aspect of monthly giving options. To ensure that the responses are accurate and helpful, please take a moment to review the following instructions and explanations.
-
-</thinking>
-
 # Monthly Giving Option Poll - Help Guide
 ## Purpose
 This form is designed to gather information about your preferences regarding monthly giving options. Your feedback will help us understand what types of options are most appealing to you, allowing us to better tailor our fundraising efforts to meet your needs.

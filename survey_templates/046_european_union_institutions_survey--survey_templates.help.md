@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support end-users in filling out the "European Union Institutions Survey" form. The form aims to collect information about the familiarity and experience users have with various European Union institutions. It will be used to gauge user awareness and interaction with these institutions, allowing for better understanding and improvement. Please make sure to fill out the form accurately, as incomplete submissions may affect the survey's reliability. This document serves as a guide to ensure a smooth and effective filling-out process.
-</thinking>
-
 # European Union Institutions Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your familiarity with European Union institutions. It consists of several questions about your knowledge and experience with these institutions.

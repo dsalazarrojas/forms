@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect user feedback and ratings for films in a film festival. It's intended for attendees to provide their opinions on the best film of the festival, along with some basic information about the film and themselves. This form is likely used by festival organizers to gather data on attendee preferences and opinions, which can be used to improve future film festival events. Please ensure that you have filled out the required fields before submitting the form, as they are marked as such in the form fields.
-</thinking>
-
 # Film Festival Best Film Voting Form - Help Guide
 ## Purpose
 

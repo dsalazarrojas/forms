@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is designed to help teams map and document their existing processes, identify challenges, and share improvement ideas. Its purpose is to gather information about a team's current processes, capture any challenges they are facing, and collect suggestions for improvement. This form is likely to be used by team leaders, process owners, or other team members to get a better understanding of the team's process flow, identify areas for improvement, and develop strategies to address these challenges.
-
-</thinking>
-
 # Team Process Mapping Survey - Help Guide
 ## Purpose
 The Team Process Mapping Survey is designed to help teams map and document their existing processes, identify challenges, and share improvement ideas.

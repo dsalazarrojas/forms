@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from park users about their park experiences and preferences. This help guide is intended to ensure that users understand the purpose and requirements of the form, as well as the meaning and intended use of each field.
-</thinking>
-
 # Park Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and information from park users to help us better understand their experiences and preferences regarding park usage. Your responses will help us improve the park's amenities and services to provide a better experience for everyone.

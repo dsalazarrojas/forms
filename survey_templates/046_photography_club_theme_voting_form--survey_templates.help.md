@@ -1,11 +1,3 @@
-<thinking>
-We're creating a help guide for the "Photography Club Theme Voting Form" to make it easy for users to understand its purpose and completion process. The form is a survey that gathers opinions on photography club themes. Its primary goal is to gather input from club members on their preferred themes for upcoming events. This form is likely used for internal planning and decision-making within the club.
-
-It's essential to note that some fields may be non-mandatory, which means users can skip them. This guide will clearly explain each field's purpose to ensure users understand what's required and what's optional.
-
-The form is structured into pages, each focusing on a different theme or aspect of the event. This guide will cover each page's specific fields and their explanations.
-</thinking>
-
 # Photography Club Theme Voting Form - Help Guide
 ## Purpose
 The purpose of this form is to gather opinions on photography club themes for upcoming events.

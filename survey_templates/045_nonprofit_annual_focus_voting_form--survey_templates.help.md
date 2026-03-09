@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nonprofit Annual Focus Voting Form - Help Guide
 
 ## Purpose

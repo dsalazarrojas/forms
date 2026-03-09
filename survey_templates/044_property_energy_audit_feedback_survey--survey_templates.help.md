@@ -1,8 +1,3 @@
-<thinking>
-The "property_energy_audit_feedback_survey" form is a critical component of our energy audit process, designed to gather feedback from property owners or managers on the energy consumption and audit results. This form is used to collect information on the overall property energy audit outcome, contact details, and additional comments. It's essential to fill out this form accurately to ensure that we have a complete and accurate picture of the property's energy profile.
-To confirm, this form is intended for property owners or managers who have undergone an energy audit on their property. Please fill out this form only once after your energy audit has been completed.
-</thinking>
-
 # property_energy_audit_feedback_survey - Help Guide
 ## Purpose
 The "property_energy_audit_feedback_survey" form is used to gather feedback from property owners or managers on the energy consumption and audit results after the energy audit process. This information will help us better understand the property's energy profile and improve our energy audit process.

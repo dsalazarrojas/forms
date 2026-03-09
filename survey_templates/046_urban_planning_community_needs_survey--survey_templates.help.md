@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from community members about their neighborhood's needs and priorities. This survey aims to help urban planners understand the concerns and expectations of community members, allowing them to create more effective and responsive plans for their neighborhoods. By completing this form, you will be providing valuable insights that will inform decisions about neighborhood development and community engagement.
-
-Before proceeding, please ensure you have reviewed the survey carefully and that your answers accurately reflect your opinions and experiences. If you have already taken a similar survey, please do not resubmit. Duplicate submissions can lead to inaccurate data and may cause unnecessary work for our teams.
-
-</thinking>
-
 # Urban Planning Community Needs Survey - Help Guide
 ## Purpose
 The Urban Planning Community Needs Survey is designed to collect information about community members' opinions and experiences regarding their neighborhood's needs and priorities.

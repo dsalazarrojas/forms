@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a patient health questionnaire and generalized anxiety disorder questionnaire. It is used to gather information about a patient's health and symptoms of generalized anxiety disorder. This form is likely to be used in a clinical or medical setting to assess the severity of anxiety symptoms and monitor patient progress. It is not immediately clear if this form is meant to be filled out by a patient themselves or if it is used by a clinician or healthcare professional to gather information for the patient.
-</thinking>
-
 # Patient Health Questionnaire And Generalized Anxiety Disorder Questionnaire - Help Guide
 ## Purpose
 This form is a patient health questionnaire and generalized anxiety disorder questionnaire used to gather information about a patient's health and symptoms of generalized anxiety disorder.

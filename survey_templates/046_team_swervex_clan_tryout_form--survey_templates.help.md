@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from team members about their experiences and preferences related to the Swervex Clan, a hypothetical organization or community. The form aims to gather feedback and opinions from team members on various categories, including "Team", "Clan", and "Tryout", and allow them to provide a brief "Description" of their answers. The form also collects contact information, such as "Name", "Email", and "Phone" numbers. 
-
-Before completing this form, ensure that you are providing accurate and relevant information. This form is meant to be completed by team members, and the data collected will be used to understand their perspectives and needs. It's crucial to fill in the correct category choices and provide a clear "Description" of your answers.
-
-</thinking>
-
 # team_swervex_clan_tryout_form - Help Guide
 ## Purpose
 The team_swervex_clan_tryout_form is designed to collect feedback and opinions from team members about their experiences and preferences related to the Swervex Clan.

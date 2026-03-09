@@ -1,9 +1,3 @@
-<thinking>
-
-This form is part of the Digital Wellness Education Series, and its purpose is to evaluate the effectiveness of the series based on feedback from participants. To ensure accuracy, we should only allow participants who have completed the series to fill out this form. This form is intended for users who have attended the workshops and want to share their opinions, suggestions, and experiences.
-
-</thinking>
-
 # Digital Wellness Education Series Evaluation Form - Help Guide
 ## Purpose
 This form is designed for users who have attended the Digital Wellness Education Series, allowing them to evaluate the effectiveness and quality of the series.

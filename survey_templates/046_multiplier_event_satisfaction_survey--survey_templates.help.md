@@ -1,12 +1,3 @@
-<thinking>
-**Survey Design Purpose**: 
-This survey is designed to gauge the attendees' satisfaction and experience with the "Multiplier Event" and gather feedback for improvement. It will help us understand what attendees enjoyed about the event, what they disliked, and areas where we can make changes for future events.
-
-**Non-Duplication Check**: 
-Before starting this form, please note that this is a satisfaction survey designed for attendees of the "Multiplier Event". Ensure you only fill out this form if you have attended the event. If you're an event organizer or not an attendee, please do not submit this form as it may lead to irrelevant responses.
-
-</thinking>
-
 # Multiplier Event Satisfaction Survey - Help Guide
 
 ## Purpose

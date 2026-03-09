@@ -1,16 +1,3 @@
-<thinking>
-The form purpose is to collect user preferences for men's grooming products, specifically inquiring about their current and ideal product usage frequencies, product preferences, and characteristics. This form aims to gather data that can be used to create tailored product recommendations or surveys.
-
-This form may be part of a larger marketing or product development process, helping businesses to better understand their target audience's needs and preferences. 
-
-This form is designed for individuals who are interested in providing feedback or input on men's grooming products. If you're looking to provide feedback on a specific product or product category, you're in the right place!
-
-Before we get started, please note that the form includes both required and optional fields. Required fields are marked as such, and you'll need to fill out these fields in order to submit the form. Optional fields are for your convenience, and you can skip them if you'd like.
-
-Please take your time, and answer the questions honestly. Your input will help us improve our products and services!
-
-</thinking>
-
 # Men's Grooming Preference Survey - Help Guide
 ## Purpose
 This form is designed to collect your preferences for men's grooming products. Your input will help us create tailored product recommendations or surveys that cater to your needs.

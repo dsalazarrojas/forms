@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect feedback on the occasion gift bag provided for an event. The purpose of this form is to gauge the quality and effectiveness of the gift bag in meeting the needs and expectations of the event attendees. This feedback will help us identify areas of improvement to better design and prepare for future events.
-
-Before completing this form, please ensure that you have filled out a survey or feedback form for this event, as duplicate submissions may not be processed. If you are unsure about which form to complete, please reach out to your event organizer for clarification.
-
-This form will be used by the event organizers to gather anonymous and confidential feedback. All responses will be reviewed and used to improve future events and occasion gift bags.
-</thinking>
-
 # occasion_gift_bag_feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback on the occasion gift bag provided for an event.

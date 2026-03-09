@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to guide the user in preparing a survey, which involves selecting a template, defining the survey objective, questions, scale, language, and other relevant details. This form is likely used in an academic or research setting to create a survey for collecting data. To avoid duplication, ensure that the survey preparation checklist form is not used for other purposes such as creating a survey for marketing purposes.
-</thinking>
-
 # survey_preparation_checklist_form - Help Guide
 ## Purpose
 The survey preparation checklist form is used to create a survey for data collection in an academic or research setting.

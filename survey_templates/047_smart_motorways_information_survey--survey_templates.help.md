@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to collect information and feedback from users about smart motorways, a technology used in some motorways to improve traffic flow by dynamically changing traffic speed limits. This survey aims to gather insights from users about their awareness, experiences, and suggestions for improvement. It's essential to ensure that users understand the purpose and scope of the survey to provide accurate and relevant feedback. To confirm, this is not a duplicate survey, and users will be providing new and unique insights.
-
-</thinking>
-
 # Smart Motorways Information Survey - Help Guide
 ## Purpose
 This survey is designed to gather information and feedback from users about smart motorways, with the goal of improving their functionality and user experience.

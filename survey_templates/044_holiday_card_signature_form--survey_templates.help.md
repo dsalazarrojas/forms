@@ -1,8 +1,3 @@
-<thinking>
-The goal of the "Holiday Card Signature Form" is to gather user input for holiday cards, which typically requires users to provide their name and a personal message for the card recipient. To ensure accuracy, we recommend checking that this form is not a duplicate of other existing forms or surveys in your company's database before proceeding. 
-
-</thinking>
-
 # Holiday Card Signature Form - Help Guide
 ## Purpose
 This form is designed to collect user information for holiday cards.

@@ -1,6 +1,3 @@
-<thinking>
-Is this form intended to capture the opinions and feedback from users regarding the shade structure in a building or facility? It seems like it's a structured survey with various sections to gather feedback on different aspects of the shade structure, such as its structure, canopy, comfort, and maintenance planning. I'm assuming it's designed to collect both qualitative and quantitative data to help in improving the shade structure's performance. I'd like to confirm that this form is not a repetition or an alternative of an existing form, and that its purpose is to gather feedback from users about the shade structure's condition, usability, and overall satisfaction.</thinking>
-
 # Shade Structure Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from users about the shade structure in a building or facility. It helps to gather information on different aspects of the shade structure, including its structure, canopy, comfort, and maintenance planning. The feedback collected will be used to improve the performance and usability of the shade structure.

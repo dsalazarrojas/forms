@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 We have a form titled "Education Professional Development Needs Assessment". This form is meant to gather information from users to assess their professional development needs in the education sector. It is likely that this form will be used by educators, administrators, or other staff within the education system to identify areas where they require further training, resources, or support. The form is designed to be completed by users with some knowledge of the school and role within it, as it requires some specific information about the school and user's position.
 
 Before filling out the form, please ensure that you have permission to complete it and that the information provided is accurate and up-to-date.

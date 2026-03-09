@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a Team Building Survey designed to gauge team members' perceptions, collaboration, and communication within a team. The questions focus on how well team members know each other, their work dynamics, and their satisfaction with the team. The form likely aims to improve team cohesion and performance by identifying areas of improvement.
-</thinking>
-
 # Team Building Survey - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect survey responses from participants regarding their perception of attractiveness. It gathers information on various aspects such as participant demographics, their definition of attractiveness, factors contributing to attractiveness, cultural and media influences, and personal experiences. The survey aims to collect data for research purposes and participants' consent is required for research participation.
-
-</thinking>
-
 # Attractiveness Survey - Help Guide
 
 ## Purpose

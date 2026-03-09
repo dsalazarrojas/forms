@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information from users about their experiences and opinions on a tennis tournament. It's intended to be a fun and quick way to collect feedback and ratings from users. Before proceeding, make sure you have completed this survey only once and for each unique tournament experience. If you have already completed the survey for the same tournament, your submission will be discarded and you will not be able to complete the survey again.
-</thinking>
-
 # Tennis Tournament Survey - Help Guide
 ## Purpose
 The Tennis Tournament Survey is designed to gather your thoughts and opinions on your experience at a tennis tournament. This form is meant to be a quick and easy way to provide feedback and ratings on your overall experience.

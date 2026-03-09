@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to help teams evaluate their own performance and dynamics. It collects feedback on various aspects of the team, including leadership, communication, collaboration, and adaptability. The goal is to provide a comprehensive understanding of the team's strengths and weaknesses, allowing teams to make informed decisions about areas for improvement.
-This form is likely to be used by team members or team leaders to evaluate their team's performance, and it may be part of a larger team development process.
-</thinking>
-
 # Team Evaluation Survey - Help Guide
 
 ## Purpose

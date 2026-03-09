@@ -1,7 +1,3 @@
-<thinking>
-This form is used for clearance requests within the organization. It is essential to fill it out accurately to ensure a smooth and efficient clearance process. Before proceeding, please make sure you have all the necessary information and that it is accurate. This form is used for both personal and background information as well as clearance requests. Please be honest and thorough in your responses to ensure the best possible outcome. This guide will walk you through the necessary steps to complete the form successfully.
-</thinking>
-
 # Clearance Form - Help Guide
 ## Purpose
 The Clearance Form is used to gather information necessary for clearance requests within the organization. It is designed to collect personal and background information, as well as details about the type of clearance requested. This form is essential for ensuring that all necessary steps are taken to grant clearance, and it helps to streamline the clearance process.

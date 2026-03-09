@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Travel Survey - Help Guide
 
 ## Purpose

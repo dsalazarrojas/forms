@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to first understand its purpose. This form is designed to gather opinions from customers on selected movies. The form likely aims to collect demographic data such as age, gender, income, etc., which can be used to analyze movie preferences and create targeted marketing campaigns.
-To avoid duplication and maintain the quality of the data collected, we need to ensure that customers don't answer the form multiple times for the same movie. We can implement a check to see if the customer has already filled out the form for a particular movie.
-</thinking>
-
 # Movie Selection Customer Opinion Assessment - Help Guide
 ## Purpose
 This form is designed to gather opinions from customers on selected movies. By filling out this form, you'll help us understand what you like and dislike about a movie, which will allow us to create more tailored content and recommendations.

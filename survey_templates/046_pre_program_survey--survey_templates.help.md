@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pre Program Survey - Help Guide
 ## Purpose
 The Pre Program Survey is a form used to collect information about a program's details, including its type, location, start date, and expected graduation date. This information is essential for planning and managing programs effectively.

@@ -1,5 +1,3 @@
-<thinking>Before we create the user-facing help guide, let's break down the form's purpose and requirements internally. This Substance Awareness Quiz form seems to be designed to gather information about an individual's awareness and experiences related to substance use. The form likely aims to assess the user's knowledge, confidence, and frequency of substance use, as well as their access to education and services. The form might also be used to evaluate the individual's understanding of substance use facts and programs. It's a comprehensive form that covers various aspects of substance awareness.</thinking>
-
 # Substance Awareness Quiz - Help Guide
 ## Purpose
 The Substance Awareness Quiz is a form designed to assess an individual's awareness and experiences related to substance use. It covers various aspects such as knowledge, confidence, frequency, and access to education and services.

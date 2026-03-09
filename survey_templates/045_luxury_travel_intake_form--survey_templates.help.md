@@ -1,9 +1,3 @@
-<thinking>
-
-**Luxury Travel Intake Form**: This form is designed to collect general information from clients about their luxury travel preferences and needs. It will be used to provide a comprehensive understanding of the client's requirements and to tailor a travel experience that meets their expectations. The form is used to collect information on travel dates, travel preferences, contact information, travel agency details, client information, and travel type, length, currency, and rate.
-
-</thinking>
-
 # Luxury Travel Intake Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-To ensure this help guide is accurate, I need to review the form's purpose and ensure it's not a duplicate. Based on the input schema, this form appears to be a voting system for a project, likely used by a team or organization. Its purpose is to collect feedback and opinions on projects. The fields seem to cover various aspects of the project, including title, description, status, category, rating, score, and other relevant details. The form also includes fields to capture comments, project contact information, and agreement or disagreement with the project. This is not a duplicate, as the form's structure and purpose are distinct from other forms I've encountered.
-</thinking>
-
 # Innovative Project Voting Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions on projects. It's intended to help project stakeholders understand the thoughts and feelings of team members, clients, or other stakeholders.

@@ -1,7 +1,3 @@
-<thinking>
-We should verify that this form is being used for its intended purpose and that the same form isn't being used twice. The purpose of this form is to collect data from car owners about their experiences and preferences for self-driving cars. This form will help us to identify the most popular features among car owners and get their feedback on the self-driving car. Please ensure that you have read this guide carefully to complete the form accurately.
-</thinking>
-
 # Self Driving Car Survey - Help Guide
 ## Purpose
 The Self Driving Car Survey is designed to collect your thoughts, experiences, and preferences about self-driving cars. Your input will help us to better understand your needs and preferences for future development of self-driving cars.

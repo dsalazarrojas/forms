@@ -1,7 +1,3 @@
-<thinking>
-To prevent non-duplication and ensure accurate completion, please make sure you only fill in the form if you have a genuine intention to propose new content or ideas for meetings. Avoid filling it out for fun or testing purposes. Also, double-check that your suggestions align with the company's values and goals before submitting them.
-</thinking>
-
 # Meeting Content Suggestions Survey - Help Guide
 
 ## Purpose

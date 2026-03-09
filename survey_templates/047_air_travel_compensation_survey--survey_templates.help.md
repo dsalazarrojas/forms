@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from passengers about their travel experiences with the airline. The purpose of this form is to gather data on how well the airline handled disruptions such as flight delays, cancellations, and other issues, as well as gather feedback on passenger satisfaction with the handling of these incidents. This information will help the airline improve its services and provide better support for passengers in future disruptions. 
-
-Before completing this form, please note that it is designed to be a neutral and objective assessment of your experience, and your input will be treated as a valuable contribution to the airline's improvement efforts. Please ensure that the information you provide is accurate and reflects your genuine experience. We will not duplicate your submission, so please do not worry about sharing your story multiple times. If you have already submitted a similar experience, please do not resubmit it. Thank you for taking the time to help us improve.
-
-</thinking>
-
 # Air Travel Compensation Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback from passengers about their travel experiences with the airline, with a focus on how the airline handled disruptions and their overall satisfaction with the service.

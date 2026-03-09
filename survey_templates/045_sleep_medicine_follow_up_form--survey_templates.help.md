@@ -1,12 +1,3 @@
-<thinking> 
-We want to make sure that the sleep medicine follow-up form is completed accurately and effectively by the end-users. This form is used to gather information on the patient's sleep difficulty, symptoms, diagnosis, and treatment progress, which is crucial for healthcare professionals to assess and provide appropriate care. 
-
-Before proceeding, please note that this form is not intended for patients to self-report their medical conditions, but rather for healthcare professionals to assess and document the patient's sleep medicine needs. 
-
-Please ensure that you are authorized to fill this form and that the information you provide is accurate and up-to-date. If you are unsure about any field, please consult with the healthcare professional managing your care.
-
-</thinking>
-
 # Sleep Medicine Follow Up Form - Help Guide
 
 ## Purpose

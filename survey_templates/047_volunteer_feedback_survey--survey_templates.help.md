@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from volunteers on various aspects of their volunteer experience. This feedback is meant to help organizations understand their volunteers' experiences, satisfaction levels, and areas for improvement. The goal is to collect data that can inform decisions on how to better support and engage volunteers in the future.
-
-Before proceeding, please ensure that the required fields are completed and that the feedback provided is as accurate as possible. The data collected will be anonymous, and individual responses will not be traceable.
-
-The fields in this form are designed to be clear and concise, but if you're unsure about any field, please don't hesitate to reach out to the form administrators for clarification.
-
-</thinking>
-
 # Volunteer Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from volunteers on their experiences and opinions about the volunteer program.

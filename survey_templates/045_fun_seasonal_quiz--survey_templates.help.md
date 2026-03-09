@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather user preferences and interests related to seasonal activities, hobbies, and demographics. The form is meant to collect data on users' favorite foods, seasons, holidays, and other fun facts. The purpose of this form is to provide a fun and engaging way for users to express their interests and preferences.
-</thinking>
-
 # Fun Seasonal Quiz - Help Guide
 ## Purpose
 The Fun Seasonal Quiz is a fun and interactive form that allows users to express their preferences and interests related to seasonal activities, holidays, and fun facts. The form is designed to collect data on users' favorite foods, seasons, holidays, and other fun facts.

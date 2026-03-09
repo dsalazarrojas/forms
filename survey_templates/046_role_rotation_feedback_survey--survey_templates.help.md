@@ -1,5 +1,3 @@
-<thinking>... (Form purpose: To gather feedback from individuals about their role rotation experience. This form is intended to be filled out by team members who are currently or have recently rotated into a new role. The purpose is to help identify areas of improvement for the rotation process, ensuring that future rotations are smoother and more effective.)...</thinking>
-
 # Role Rotation Feedback Survey - Help Guide
 ## Purpose
 The Role Rotation Feedback Survey is designed to gather feedback from individuals about their role rotation experience. This feedback helps identify areas of improvement for the rotation process, ensuring future rotations are smoother and more effective.

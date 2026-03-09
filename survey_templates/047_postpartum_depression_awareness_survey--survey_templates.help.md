@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help new mothers assess their risk of postpartum depression, understand their level of understanding about postpartum depression, identify their support systems, and provide feedback on postpartum care services. 
-</thinking>
-
 # Postpartum Depression Awareness Survey - Help Guide
 
 ## Purpose

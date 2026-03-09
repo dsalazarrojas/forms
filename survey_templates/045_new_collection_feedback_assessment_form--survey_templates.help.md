@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect feedback on a specific collection from users. The form asks questions that will help us understand what users think of the collection, what they like or dislike about it, and what they would like to see improved. This form is part of a larger survey, and by filling it out, you will be helping us improve the collection and create better experiences for users in the future. Please make sure to fill this form only if you have visited the collection and have a genuine opinion about it. If you have already filled a similar form for this collection, your response will be treated as an update and not as a new submission. If you have any questions or concerns, don't hesitate to reach out to us at form@gic.mx</thinking>
-
 # New Collection Feedback Assessment Form - Help Guide
 
 ## Purpose

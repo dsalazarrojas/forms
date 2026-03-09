@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from users for the purpose of generating astrology-related horoscopes. The form is intended to be a comprehensive tool for capturing user birth data, relationship status, and preferences for horoscope types and focus areas. The form is not affiliated with, endorsed by, or derived from any form platform, and its originality is a result of AI-generated code using public survey topic metadata as inspiration. The form's purpose is to provide users with the option to generate horoscopes tailored to their individual needs, and the collected data will not be used for any other purpose than generating these personalized horoscopes. Please ensure you have the necessary permissions or consents to collect such data from users.</thinking>
-
 # Astrology Site Data Form - Help Guide
 
 ## Purpose

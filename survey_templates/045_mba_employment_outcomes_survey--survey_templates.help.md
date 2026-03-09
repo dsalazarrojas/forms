@@ -1,7 +1,3 @@
-<thinking>
-We are providing a form to collect information about the employment outcomes of MBA graduates. This form is intended to help us understand the current employment status of our MBA graduates, their job titles, industries, job functions, and other relevant details. To ensure that we are getting accurate and relevant data, please only fill out the form if you are an MBA graduate or have knowledge about the employment outcomes of MBA graduates. We also encourage you to fill out the form only once for each MBA graduate, unless you are reporting updates or changes in their employment status. This will help us to get a comprehensive picture of the employment outcomes of our MBA graduates.
-</thinking>
-
 # MBA Employment Outcomes Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the employment outcomes of MBA graduates. Please fill out the form to help us understand the current employment status of our MBA graduates, their job titles, industries, job functions, and other relevant details.

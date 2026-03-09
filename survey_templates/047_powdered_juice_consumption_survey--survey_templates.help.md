@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # powdered_juice_consumption_survey - Help Guide
 ## Purpose
 

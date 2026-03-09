@@ -1,18 +1,3 @@
-<thinking>
-To create an effective help guide for the user-facing form, we must first understand the purpose and structure of the form. This form is designed to collect information from athletic trainers, sports medicine physicians, physical therapists, strength and conditioning coaches, sports coaches, administrators, students, and researchers on their usage and perceptions of various technologies in the field of athletic training. 
-
-The form is structured into sections that cover their demographic information (respondent name, email, role, and organization type), their usage of different technologies (electronic health records, injury tracking software, video analysis tools, wearable technology), and their perceptions on these technologies (satisfaction, effectiveness, ease of use, training received, and adequacy of training). 
-
-This information will help understand the current state of technology usage and its impact on patient care and efficiency in the athletic training field. 
-
-The form's fields are designed to be simple and straightforward, with clear labels and hints to help users navigate and complete it efficiently. 
-
-The fields are also categorized into different sections, such as "Demographics", "Technology Usage", "Perceptions", and "Future Interest and Concerns", which will make it easier for users to focus on one aspect at a time.
-
-The form's overall goal is to collect actionable data that can inform the development and improvement of athletic training technologies.
-
-</thinking>
-
 # Athletic Training Technology Usage Survey - Help Guide
 ## Purpose
 This form is designed to gather information from athletic trainers, sports medicine physicians, physical therapists, strength and conditioning coaches, sports coaches, administrators, students, and researchers on their usage and perceptions of various technologies in the field of athletic training. The information collected will help understand the current state of technology usage and its impact on patient care and efficiency in the athletic training field.

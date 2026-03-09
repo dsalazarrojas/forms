@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by staff members to check out technology equipment. The purpose of this form is to gather information about the equipment being checked out and the staff member's name. The form is likely used for inventory management and tracking purposes. Before completing this form, please ensure you are only checking out equipment that you are authorized to use and that you have a legitimate reason for doing so. Also, make sure to check the form carefully to avoid duplicate entries, as this can cause issues with inventory tracking.
-</thinking>
-
 # Pdy Staff Technology Checkout - Help Guide
 ## Purpose
 This form is designed to help staff members check out technology equipment, allowing for accurate inventory management and tracking.

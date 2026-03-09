@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the checkout experience of a beauty retail store. The purpose of this form is to gather information on the customer's visit, including store location, visit date, and time, as well as their experience with the checkout process. The form also asks about the customer's interactions with staff, including friendliness, helpfulness, and product knowledge. Additionally, the form asks about the store's environment, including cleanliness, lighting, and product visibility. The form will help the store understand their strengths and weaknesses and make necessary improvements. This form is intended for customers who have visited the store and are willing to provide feedback on their experience. 
-
-Please note that this form is not intended for customers who are looking to report a specific issue or complaint, but rather for general feedback and improvement purposes.
-
-</thinking>
-
 # Beauty Retail Checkout Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the checkout experience of a beauty retail store. By completing this form, you will help the store understand what works well and what can be improved to provide better service to customers.

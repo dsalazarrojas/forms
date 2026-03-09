@@ -1,5 +1,3 @@
-<thinking>...the purpose of this form is to collect feedback from users on the design of the State Seal, a symbol of the state's authority and identity. This form is used to gather opinions and suggestions from users on the design aspects of the State Seal. To complete this form, please ensure you have a clear understanding of the design elements you'd like to provide feedback on. If you've already submitted feedback on this form, please do not resubmit as it may be considered duplicate feedback. If you're unsure about any aspect of the form, please don't hesitate to ask for assistance... </thinking>
-
 # State Seal Design Feedback - Help Guide
 ## Purpose
 

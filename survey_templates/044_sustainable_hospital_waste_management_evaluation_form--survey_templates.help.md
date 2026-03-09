@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to evaluate the current state of waste management in hospitals. It is intended for hospital administrators or waste management teams to assess their current practices, processes, and policies. The goal is to identify areas for improvement and suggest recommendations for better waste management. 
-
-To ensure accurate and comprehensive results, please answer all questions carefully and honestly. If you are unsure about any question, please ask for clarification. 
-
-Please note that you will be asked to navigate through multiple pages to provide your input. Make sure to fill out each page completely before proceeding to the next.
-
-</thinking>
-
 # Sustainable Hospital Waste Management Evaluation Form - Help Guide
 ## Purpose
 

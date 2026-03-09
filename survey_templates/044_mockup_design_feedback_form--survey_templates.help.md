@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mockup_design_feedback_form - Help Guide
 ## Purpose
 

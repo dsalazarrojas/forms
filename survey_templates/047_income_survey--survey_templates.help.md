@@ -1,6 +1,3 @@
-<thinking>
-We have a form to collect income information from users. This form is intended for users to report their income levels, occupation, and other related data. We want to ensure that users understand the form's purpose and how to complete it accurately. The form collects data on income levels, occupation, employment status, monthly income, hourly wage, annual bonus, tax filing status, household members, annual bonus type, and employment type. This data will help us better understand user income demographics.</thinking>
-
 # Income Survey - Help Guide
 ## Purpose
 The Income Survey is a form designed to collect income-related information from users. It's essential to provide accurate and helpful data for our analysis and research purposes.

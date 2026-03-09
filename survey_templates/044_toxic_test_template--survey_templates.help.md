@@ -1,7 +1,3 @@
-<thinking>
-To provide a helpful and clear user guide for the "toxic_test_template" form, we need to understand its purpose and how it is used. This form is likely used to assess a person's behavior or traits related to toxic behavior, such as narcissism, sociopathy, or other related characteristics. It seems to be designed to collect data on how strongly someone agrees or disagrees with various statements related to these traits. The form is divided into sections, each focusing on a specific trait, and the user is asked to select from multiple-choice options for each section. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each section.
-</thinking>
-
 # toxic_test_template - Help Guide
 ## Purpose
 The "toxic_test_template" form is a set of questions designed to assess a person's behavior or traits related to toxic behavior. The form is divided into several sections, each focusing on a specific characteristic, and asks the user to select from multiple-choice options for each section.

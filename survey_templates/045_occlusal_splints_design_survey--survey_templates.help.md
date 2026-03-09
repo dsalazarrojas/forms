@@ -1,11 +1,3 @@
-<thinking>
-To determine if the form is relevant to the user, we should first consider the purpose and context of the "occlusal_splints_design_survey" form. This form is likely designed to gather feedback and input from users on the design of occlusal splints, which are orthodontic appliances used to protect the teeth and jaws during orthodontic treatment. 
-
-The form may be relevant if the user is an orthodontic professional or has experience with occlusal splint designs. If not, the user may not be aware of the specific context and goals of the form. 
-
-To avoid duplication of effort, we should ensure that the user has not already completed a similar form or survey in the past. This can be achieved by checking for existing records of similar surveys or forms completed by the user in the past. 
-</thinking>
-
 # occlusal_splints_design_survey - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-The National Cohesion Assessment form aims to understand the level of national cohesion and sense of belonging among its citizens. This form will help us gauge the respondents' feelings towards their region and the institutions that represent it. The form is designed to be filled out by citizens of the region, and its responses will help us in understanding the current state of national cohesion.
-
-To ensure that this form is completed accurately and relevantly, please note that:
-
-* This form is not intended for non-citizens of the region.
-* If you are a non-citizen, please do not complete this form.
-* If you have previously completed this form, you can skip it this time.
-
-</thinking>
-
 # National Cohesion Assessment - Help Guide
 ## Purpose
 The National Cohesion Assessment form is designed to gauge the level of national cohesion and sense of belonging among its citizens. It aims to understand the feelings and attitudes of citizens towards their region and the institutions that represent it.

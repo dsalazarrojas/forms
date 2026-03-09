@@ -1,10 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Social Impact Measurement Methods Survey" form. This form is designed to gather information on an organization's social impact measurement methods, focusing on aspects such as their approach, data collection methods, frequency of reporting, and characteristics of their impact area focus. Understanding the purpose of this form is essential for users to complete it effectively. This guide will walk users through the form's purpose, how to complete it, and provide a field-by-field explanation of each section and question.
-
-The form is not intended to be completed by users with a specific technical background or expertise in social impact measurement. Therefore, this guide will aim to provide clear and concise explanations of each field, making it accessible to a wide range of users.
-
-</thinking>
-
 # Social Impact Measurement Methods Survey - Help Guide
 ## Purpose
 This form is designed to gather information on your organization's social impact measurement methods, helping us better understand your approach, data collection methods, and reporting frequency. Please answer these questions to the best of your ability, and provide any additional information that you feel relevant to your organization's social impact measurement methods.

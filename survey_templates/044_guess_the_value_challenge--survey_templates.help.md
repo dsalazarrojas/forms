@@ -1,11 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for this form, which is used to gather information from teachers and teams. The form is called "Guess the Value Challenge". Its purpose is to collect data for a specific business use case, but the exact purpose is not explicitly stated in the YAML. We assume it's for quality control or data collection. To create the help guide, we need to extract the necessary information from the YAML and explain each field in a clear and concise way.
-
-We will follow the standard help guide structure: Purpose, How to Complete this Form, Field-by-Field Explanation, and Tips. Since the form has multiple pages, we will assume that the user will go through them sequentially.
-
-The purpose of this form is to gather information from teachers and teams for the "Guess the Value Challenge" project.
-</thinking>
-
 # guess_the_value_challenge - Help Guide
 ## Purpose
 The purpose of this form is to gather information from teachers and teams for the "Guess the Value Challenge" project.

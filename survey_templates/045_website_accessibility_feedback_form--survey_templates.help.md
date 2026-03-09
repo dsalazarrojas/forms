@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback on website accessibility issues. This allows the development team to identify and address potential problems, making the website more accessible and usable for all users. 
-The form is intended to be completed by users who have had a negative experience with the website's accessibility, such as encountering issues with screen readers, text size, or button or input accessibility. 
-</thinking>
-
 # Website Accessibility Feedback Form - Help Guide
 ## Purpose
 The website accessibility feedback form is a tool for users to share their experiences and help us improve the website's accessibility.

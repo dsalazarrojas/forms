@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a gaming-related survey. The purpose of this form is to gather data about games, including game titles, names, platforms, types, genres, player levels, ratings, and other relevant details. This form is likely used in a business or research setting, possibly for market analysis or product development purposes. The survey may be used to gather data for market research, user experience analysis, or game development projects. It's essential to fill out this form accurately and thoroughly to ensure the collected data is valuable and useful. To avoid duplication of effort, please only fill out this form once per game or project.
-</thinking>
-
 # gaming_survey - Help Guide
 ## Purpose
 This form is used to collect information about games, including game titles, names, platforms, types, genres, player levels, ratings, and other relevant details for market analysis, user experience analysis, or game development projects.

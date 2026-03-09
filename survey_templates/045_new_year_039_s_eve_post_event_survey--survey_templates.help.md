@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the "New Year's Eve Post Event Survey" form. The form is designed to collect feedback from attendees of a New Year's Eve event, which is likely a celebration or party held on December 31st. The survey aims to gather information on the event's overall satisfaction, attendees' experiences, and suggestions for improvement.
-Before filling out the form, please ensure that you have attended the New Year's Eve event and are providing honest feedback. If you have already filled out a similar survey, please do not resubmit your response, as your feedback will not be processed again.
-
-Please note that some fields may have been filled out by you in the past, so if you are resubmitting, you may be able to skip some questions.
-</thinking>
-
 # New Year's Eve Post Event Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees of a New Year's Eve event. It will help us understand your experience, satisfaction, and suggestions for improvement.

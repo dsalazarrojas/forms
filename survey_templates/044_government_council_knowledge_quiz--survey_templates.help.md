@@ -1,11 +1,3 @@
-<thinking>
-The "government_council_knowledge_quiz" form is used to collect information about the role of civic education in the democratic process, its impact on civic engagement, and the relationship between technology and civic participation. This form aims to gather knowledge from users about the effectiveness of various methods for evaluating civic education outcomes and the potential of technology in improving civic education.
-
-The form is divided into six sections, each focusing on a different aspect of civic education and its relationship with technology. The user will be presented with multiple-choice questions and open-ended text fields to provide detailed explanations for their answers.
-
-The form does not have any pre-requisites or prerequisites for completion, and it does not duplicate any existing forms. It is intended for general public use, and the information collected will be used to improve the understanding and effectiveness of civic education. 
-</thinking>
-
 # government_council_knowledge_quiz - Help Guide
 ## Purpose
 The "government_council_knowledge_quiz" form is designed to collect information about the role of civic education in the democratic process, its impact on civic engagement, and the relationship between technology and civic participation.

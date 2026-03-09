@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect data on animal abuse and neglect incidents, awareness of local animal welfare laws, and opinions on education and penalties for animal abuse. The goal is to gather information to better understand the prevalence of animal abuse, identify knowledge gaps among community members, and inform policy decisions. This survey is intended for individuals who have witnessed or are aware of animal abuse or neglect incidents. Respondents are asked to provide their personal experiences, perceptions, and opinions on the topic.
-
-</thinking>
-
 # Animal Abuse Survey - Help Guide
 ## Purpose
 This survey aims to collect data on animal abuse and neglect incidents, awareness of local animal welfare laws, and opinions on education and penalties for animal abuse. Your responses will help us better understand the prevalence of animal abuse, identify knowledge gaps among community members, and inform policy decisions.

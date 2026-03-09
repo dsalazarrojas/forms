@@ -1,10 +1,3 @@
-<thinking>
-This survey template is designed to collect information about a property's characteristics and features to better understand its lifecycle planning needs. 
-The goal of this survey is to gather specific and detailed information about the property, including its type, location, value, and features. 
-If you are planning or managing a property, this form will help guide you through the key questions to help you create a comprehensive property plan. 
-Please fill out this form carefully and accurately, and make sure to check each field carefully before submitting it.
-</thinking>
-
 # Property Lifecycle Planning Survey - Help Guide
 ## Purpose
 The Property Lifecycle Planning Survey is a tool to help you understand and plan the lifecycle needs of your property.

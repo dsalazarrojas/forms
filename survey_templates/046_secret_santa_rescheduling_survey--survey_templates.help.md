@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a survey for Secret Santa rescheduling purposes. It is likely created for a group or organization where participants can sign up to be Secret Santa, and this form helps to reschedule existing appointments or events. The form's purpose is to collect participant information, their availability, start and end dates, preferred dates, and other relevant details.
-</thinking>
-
 # Secret Santa Rescheduling Survey - Help Guide
 ## Purpose
 

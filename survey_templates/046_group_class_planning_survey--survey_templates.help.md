@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for planning a group class, and it's used to create and manage classes in a system. To ensure that we are collecting the correct data, please review this help guide to understand the purpose and requirements of each field in the form. This guide is meant to be used as a reference for end-users who need to use this form to plan and create classes. 
-Please make sure to follow the instructions carefully to avoid errors and ensure that the data collected is accurate. 
-</thinking>
-
 # Group Class Planning Survey - Help Guide
 ## Purpose
 The Group Class Planning Survey is a form used to collect information for planning and creating group classes in a system. It collects data such as class title, category, description, start and end time, questions, and more, to create and manage classes in the system.

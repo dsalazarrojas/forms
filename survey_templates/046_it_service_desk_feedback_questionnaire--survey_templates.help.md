@@ -1,5 +1,3 @@
-<thinking>...This form is designed to capture feedback from customers or users about their experience with an IT service desk. It aims to gather information about the type of feedback, date of the issue, contact information, resolution status, and other details related to the issue. This form is likely used by IT support staff to track and manage customer feedback, which can help them improve their services and provide better support in the future. Before filling out this form, please ensure that you have not already submitted feedback on this issue, as this form is intended to collect new feedback only. Please complete the form carefully, providing as much detail as possible, to help our support staff better understand and address your concerns... </thinking>
-
 # it_service_desk_feedback_questionnaire - Help Guide
 ## Purpose
 This form is designed to capture feedback from customers or users about their experience with an IT service desk.

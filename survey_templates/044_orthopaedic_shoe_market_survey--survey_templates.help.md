@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on the orthopaedic shoe market, focusing on the habits and preferences of customers. The form likely aims to gather information such as the type of orthopaedic shoes customers are most likely to buy, their purchasing habits, and demographic details like shoe size. This form will probably be used by business analysts or market researchers to gather insights on the market.
-</thinking>
-
 # Orthopaedic Shoe Market Survey - Help Guide
 ## Purpose
 The Orthopaedic Shoe Market Survey aims to gather data on customers' preferences and habits in the orthopaedic shoe market.

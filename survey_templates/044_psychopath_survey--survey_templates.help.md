@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect various types of information from the user. It appears to be a comprehensive survey form with a mix of text, number, date, time, select one, and select multiple input fields. The form may be used for research, analysis, or data collection purposes. Please ensure that this form is being used for its intended purpose and not for any other unrelated tasks. If you are unsure, please consult with the form's creator or the relevant authorities.</thinking>
-
 # psychopath_survey - Help Guide
 ## Purpose
 The psychopath_survey form is a collection of questions used for data collection and analysis.

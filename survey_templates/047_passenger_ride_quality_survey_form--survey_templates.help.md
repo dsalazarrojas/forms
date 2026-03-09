@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Passenger Ride Quality Survey Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from passengers about their experience with our transportation service. It is intended to help us understand how we can improve our service to better meet your needs.

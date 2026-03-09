@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # research_study_environment_feedback_report_form - Help Guide
 ## Purpose
 This form is intended for researchers to provide feedback on the environment and settings of their research studies. The form is used to collect information on the research studies conducted, site conditions, cohorts involved, milestone completion, time spent, and any additional feedback or comments. This information will be used to improve the study environment and settings for future research endeavors.

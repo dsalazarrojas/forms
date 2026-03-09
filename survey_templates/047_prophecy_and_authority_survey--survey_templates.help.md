@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is likely used to collect information about an individual's experiences with prophecy and their sense of spiritual authority. To determine the purpose of this form, let's look at the field names and types. The form contains fields for "Introduction", "Background On Prophecy", "Spiritual Authority", "Personal Experiences", "Final Comments", "Demographic Info" (which seems to be a numerical field for demographic information), "Survey End" (which might be a summary or final thoughts field). This form likely aims to collect qualitative and quantitative data about an individual's experiences and beliefs related to prophecy and spiritual authority.
 
 To confirm, this form is likely part of a research or survey project, and its main purpose is to gather insights and information about the user's perspectives on prophecy and spiritual authority. The required status of each field is not specified, so we will assume that all fields are optional unless otherwise stated.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from participants on the Critical Care Workshop, allowing organizers and instructors to evaluate the effectiveness and quality of the workshop. This feedback will help identify areas of improvement and ensure that future workshops meet the needs and expectations of participants.
-This form should only be completed by workshop participants who have attended the Critical Care Workshop. Please do not complete this form if you have not attended the workshop.
-</thinking>
-
 # Critical Care Workshop Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from workshop participants to help improve future workshops.

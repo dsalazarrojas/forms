@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information from users about their experience with spa services, including how they discover new spa services, what influences their choice of spa services, and what they like or dislike about their experience. This information will be used to improve the spa service discovery channel and better serve users in the future.
-</thinking>
-
 # Spa Service Discovery Channel Survey - Help Guide
 ## Purpose
 This form is designed to gather information from users about their experience with spa services. Your responses will help us understand how you discover new spa services, what influences your choice of spa services, and what you like or dislike about your experience.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a survey designed to gather information from stage lighting manufacturers. Its purpose is to collect data on the types of stage lighting products they offer, their capacity, target markets, challenges, and current trends in the industry. The survey is intended to be completed by stage lighting manufacturers, not end-users or consumers of stage lighting products.
-</thinking>
-
 # Stage Lighting Manufacturer Survey - Help Guide
 ## Purpose
 This survey is designed to gather information from stage lighting manufacturers to understand their product offerings, market focus, challenges, and current trends in the industry. Please take a few minutes to complete this survey and provide us with your valuable insights.

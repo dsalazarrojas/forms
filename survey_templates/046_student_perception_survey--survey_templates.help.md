@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to collect data about students' perceptions of their learning environment and experiences. This form is intended to gather information from students about their satisfaction with various aspects of their courses, including teacher support, course materials, classroom environment, and more. It is possible that you have already completed this form in the past. Please ensure that you are providing updated and accurate information.
-</thinking>
-
 # Student Perception Survey - Help Guide
 ## Purpose
 This form is designed to collect students' perceptions of their learning environment and experiences in a course. The goal is to gather information about students' satisfaction with various aspects of their courses, including teacher support, course materials, classroom environment, and more.

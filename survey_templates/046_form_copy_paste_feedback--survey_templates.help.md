@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on their experiences with copying and pasting content from our application. The form is intended to help us understand where users are facing issues, identify areas of improvement, and gather valuable insights to enhance our copy paste functionality. This form is not meant for submitting bug reports or technical issues, but rather for sharing general feedback and suggestions on how we can better serve our users.
-</thinking>
-
 # Form Copy Paste Feedback - Help Guide
 
 ## Purpose

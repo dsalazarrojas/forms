@@ -1,7 +1,3 @@
-<thinking>
-Please review this form, <sharepoint_feedback_form>, carefully to ensure it serves its intended purpose and does not duplicate any existing forms. This form is designed to collect feedback from users on their experience with Sharepoint, and its fields are carefully crafted to capture specific aspects of their interaction. The form should only be used for collecting feedback from users who have used Sharepoint, and its completion should not be required for users who have not used the platform.
-</thinking>
-
 # sharepoint_feedback_form - Help Guide
 ## Purpose
 The <sharepoint_feedback_form> is a survey template designed to collect feedback from users on their experience with Sharepoint. This form is intended to help us understand how users interact with the platform and what features they find useful or need improvement.

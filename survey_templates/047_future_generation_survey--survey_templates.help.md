@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions from users about their expectations, concerns, and experiences related to their future. It is intended to provide valuable insights into the thoughts and perceptions of the younger generation. The form is divided into several sections, each focusing on a different aspect of their future goals and expectations. Before filling out this form, ensure you have not completed it previously, as it's designed to collect unique and fresh responses.
-</thinking>
-
 # Future Generation Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from the younger generation on their expectations, concerns, and experiences related to their future.

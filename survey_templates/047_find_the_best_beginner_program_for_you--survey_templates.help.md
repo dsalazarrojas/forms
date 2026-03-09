@@ -1,7 +1,3 @@
-<thinking>
-This form is used to find a program that suits the user's needs as a beginner in the field of programming. The form is designed to help the user find a suitable program based on their goals, available time, level of experience, and preferences. The form is intended for users who are just starting to learn programming and are looking for a structured approach to learn and develop their skills. The user will be asked to input their goals, time commitment, experience level, format, and preferred language to find the best program suited for them. This form is a critical step in helping users get started with programming, and the information collected will help the user to make an informed decision about which program to choose.
-</thinking>
-
 # find_the_best_beginner_program_for_you - Help Guide
 ## Purpose
 

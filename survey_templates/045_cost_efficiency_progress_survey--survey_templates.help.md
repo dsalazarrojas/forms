@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect data on the progress of a project in terms of cost efficiency. The purpose of this form is to track the cost of a project, its duration, and the efficiency of the project management. The form is intended to be completed by project managers or team members who are familiar with the project details. 
-
-It is essential to fill out the form accurately and honestly, as the data collected will be used to evaluate the project's performance and identify areas for improvement. Please note that some fields are optional and can be filled out based on your discretion. 
-
-This form is part of a larger system that tracks project progress and efficiency. Please ensure that you fill out the form in a way that is consistent with the project's status and actual data.
-
-The form consists of several pages with different types of input fields. Please review each page carefully and fill out the required fields accurately.
-
-If you have any doubts or concerns about the form, please refer to the project manager or the system administrator for guidance.
-</thinking>
-
 # Cost Efficiency Progress Survey - Help Guide
 ## Purpose
 This form is designed to collect data on the progress of a project in terms of cost efficiency.

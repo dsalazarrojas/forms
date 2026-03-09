@@ -1,9 +1,3 @@
-<thinking>
-
-Before diving into the form, let's ensure its purpose and relevance. This form is designed to provide a fun and engaging personality assessment experience, exploring different aspects of a person's character, habits, and preferences. The "Bird Personality Assessment" offers insights into 12 questions, each targeting a different area of personality, from social interactions and problem-solving to learning, relationships, and decision-making. This form aims to help users discover their unique personality type, which is represented by a bird species that best aligns with their traits. Upon completing the assessment, users will receive a personalized result with their bird type, strengths, areas for growth, career matches, relationship style, and other relevant information.
-
-</thinking>
-
 # Bird Personality Assessment - Help Guide
 ## Purpose
 The Bird Personality Assessment is a 20-question survey designed to help you discover your unique personality type, represented by a bird species that reflects your traits and characteristics.

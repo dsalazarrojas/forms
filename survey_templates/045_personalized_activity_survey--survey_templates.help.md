@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their personal preferences and availability for activities. This form will help to create a personalized activity plan tailored to the user's needs. It is essential that the user provides accurate and consistent information to get an accurate assessment of their preferences. Please ensure that you fill out the form completely and accurately, as this information will be used to generate a customized activity plan for you.
-</thinking>
-
 # Personalized Activity Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your personal preferences and availability for activities. The information you provide will be used to create a customized activity plan tailored to your needs.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data about the current weather conditions in a specific location on a given date. This form is likely used in conjunction with other data collection forms to gather information about environmental factors. Before completing this form, ensure you are using it for its intended purpose and that the data is not already recorded.
-</thinking>
-
 # Daily Weather Record - Help Guide
 ## Purpose
 This form is designed to collect data about the current weather conditions in a specific location on a given date. It is intended for use in data collection and analysis.

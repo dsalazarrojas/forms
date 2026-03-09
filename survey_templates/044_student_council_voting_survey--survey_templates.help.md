@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Council Voting Survey - Help Guide
 
 ## Purpose

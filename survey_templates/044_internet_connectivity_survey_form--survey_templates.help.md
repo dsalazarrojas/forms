@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect data about the user's internet connectivity experience. The form should be completed by customers who use the internet service and want to provide feedback on their experience. 
-</thinking>
-
 # Internet Connectivity Survey Form - Help Guide
 ## Purpose
 This form is designed to collect information about your internet connectivity experience. Please answer the questions honestly to help us better understand your needs and improve our service.

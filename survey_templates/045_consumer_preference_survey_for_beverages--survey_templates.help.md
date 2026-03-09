@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear understanding of the purpose and functionality of the Consumer Preference Survey For Beverages form. The form is designed to collect data on consumer preferences for different types of beverages, including soft drinks, water, juice, coffee, tea, energy drinks, and more. The survey aims to gather information on demographics, consumption habits, flavor preferences, and health-conscious behavior. The guide will walk users through each field of the form, explaining its purpose and requirements.
-
-</thinking>
-
 # Consumer Preference Survey For Beverages - Help Guide
 ## Purpose
 This survey is designed to gather information on consumer preferences for different types of beverages. Your input will help us better understand your habits and preferences, which will be used to improve our offerings and create products that cater to your needs.

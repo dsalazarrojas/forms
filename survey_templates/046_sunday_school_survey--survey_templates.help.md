@@ -1,8 +1,3 @@
-<thinking>
-We're going to create a help guide for the "sunday_school_survey" form. This form is designed to collect feedback from participants about their experience at Sunday school. The purpose of this form is to gather insights on how well the Sunday school program is meeting the needs of its attendees. This guide will walk users through the steps to complete the form and explain each field in a clear and concise manner.
-
-</thinking>
-
 # sunday_school_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants about their experience at Sunday school. Your input will help us understand what we're doing well and what areas need improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from users for a specific purpose. It is essential to fill out the form completely and accurately to ensure that the collected data is helpful and not duplicate or outdated. The form has several fields that require specific information, and it's crucial to understand what each field is used for.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to collect specific information from users for various purposes. It is designed to be filled out completely and accurately to ensure that the collected data is helpful and not duplicate or outdated.

@@ -1,19 +1,3 @@
-<thinking>
-This guide will be used to assess the health of a club from the perspective of its members. The form is divided into sections that cover different aspects of club life, such as member information, member engagement, member retention, communication, inclusion, leadership, and concerns.
-
-To complete this form, follow these steps:
-
-1.  Answer the questions about your membership status and level of participation.
-2.  Rate your sense of belonging, how you feel valued as a member, and the opportunities for involvement and leadership in the club.
-3.  Evaluate the quality of club communication, how informed you are about club activities, and how your voice is heard in the club.
-4.  Rate the club's inclusiveness, diversity representation, and safety and respectfulness.
-5.  Assess the leadership effectiveness, the club's clear goals and direction, and the main concerns and improvement areas.
-6.  Share your main concerns about the club's health and provide suggestions for improvement.
-
-Please note that this form is designed to be completed by club members to provide feedback and insights about their experiences and perceptions of the club.
-
-</thinking>
-
 # Club Health Assessment - Help Guide
 ## Purpose
 The Club Health Assessment is a tool used to evaluate the health of a club from the perspective of its members. The form is designed to gather feedback and insights from members on various aspects of club life, including member information, engagement, retention, communication, inclusion, leadership, and concerns.

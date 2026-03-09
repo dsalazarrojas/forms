@@ -1,5 +1,3 @@
-<thinking>...The Study Streams Assessment Survey form is designed to collect feedback from course providers on the quality of teaching and learning within study streams. The form is used to assess the effectiveness of teaching methods, formats, and materials used in study streams. It aims to help identify areas of improvement and provide insights for future development of educational programs. This form is intended for use by instructors or course administrators to evaluate the teaching quality, support, and climate within their study streams. To avoid duplication of feedback, please fill out the form only once per study stream. Please ensure you have relevant information and permissions before providing feedback...</thinking>
-
 # Study Streams Assessment Survey - Help Guide
 ## Purpose
 The Study Streams Assessment Survey form is designed to collect feedback on the quality of teaching and learning within study streams. It aims to help identify areas of improvement and provide insights for future development of educational programs.

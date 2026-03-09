@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is filled out by the right people, at the right time, and with the right information. It's also a good idea to make sure that this form isn't duplicated or filled out for the wrong purpose. 
-</thinking>
-
 # Bulletin Submission Survey - Help Guide
 ## Purpose
 This form is for submitting announcements to be published on the bulletin system. Please fill out this form thoroughly to ensure your announcement is processed correctly and reaches its intended audience.

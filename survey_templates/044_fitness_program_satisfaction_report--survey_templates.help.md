@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users about the fitness programs offered by the organization. The purpose is to gather information on user satisfaction, fitness goals, and demographics. This form will help the organization understand what works and what doesn't in their fitness programs, allowing them to make improvements and better serve their customers. Please note that some fields in this form are not required, but completing them will provide more valuable feedback. Also, ensure that you're filling out this form once per program, to avoid duplication of responses.
-</thinking>
-
 # Fitness Program Satisfaction Report - Help Guide
 ## Purpose
 This form is a tool used to collect feedback from users about the fitness programs offered by our organization. By filling out this form, you will be helping us understand what works and what doesn't in our programs, allowing us to make necessary improvements.

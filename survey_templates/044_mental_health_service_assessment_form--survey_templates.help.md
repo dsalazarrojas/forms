@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's mental health service needs and goals. It's essential to fill out the form accurately to ensure the best possible support and care. Before proceeding, please note that this form is not intended for emergency situations. If you're in immediate need of help, please contact your local emergency services or a mental health professional directly.
-</thinking>
-
 # mental_health_service_assessment_form - Help Guide
 ## Purpose
 The mental health service assessment form is used to evaluate an individual's mental health needs and goals. This information helps professionals provide personalized support and care.

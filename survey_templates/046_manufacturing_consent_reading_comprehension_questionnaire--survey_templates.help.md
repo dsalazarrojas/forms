@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information about participants in a manufacturing consent reading comprehension questionnaire, which is a tool used to assess the effectiveness of training sessions. The form is designed to gather data on participant demographics, training experience, and contact information.
-The form has 25 fields, but most are not required, and some are used to store additional context or notes. To complete the form, follow the instructions below.
-</thinking>
-
 # Manufacturing Consent Reading Comprehension Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about participants in a manufacturing consent reading comprehension questionnaire.

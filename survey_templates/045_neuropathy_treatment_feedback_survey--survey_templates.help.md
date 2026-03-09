@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from individuals who have undergone neuropathy treatment. The purpose of this form is to gather information about their experience, pain levels, and overall satisfaction with the treatment. The form is divided into several sections, including an introduction and questions about their symptoms, treatment, and demographics.
-
-This form is intended to be completed by individuals who have undergone neuropathy treatment, including patients and healthcare professionals. It is not intended to be completed by anyone who has not received neuropathy treatment.
-
-Please note that this form is not meant to be a comprehensive assessment tool, but rather a way to gather general feedback and insights about the treatment.
-
-</thinking>
-
 # Neuropathy Treatment Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from individuals who have undergone neuropathy treatment. The purpose of this form is to gather information about their experience, pain levels, and overall satisfaction with the treatment.

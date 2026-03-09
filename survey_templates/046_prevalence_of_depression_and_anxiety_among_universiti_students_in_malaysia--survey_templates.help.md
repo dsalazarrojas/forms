@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information on the prevalence of depression and anxiety among Universiti students in Malaysia. The goal is to gather data on students' mental health experiences, providing valuable insights for researchers, policymakers, and educators to better understand and address this critical issue.
-
-Before proceeding, please note that this form is an original adaptation of public survey topic metadata and is not affiliated with, endorsed by, or derived from any form platform. The form is released under CC BY 4.0, allowing you to use, modify, and even sell forms derived from it, as long as you give credit.
-
-</thinking>
-
 # Prevalence Of Depression And Anxiety Among Universiti Students In Malaysia - Help Guide
 ## Purpose
 This form aims to gather data on the prevalence of depression and anxiety among Universiti students in Malaysia, providing insights to better understand and address this critical issue.

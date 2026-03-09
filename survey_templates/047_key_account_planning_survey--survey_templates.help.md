@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a comprehensive user-facing help guide for the "key_account_planning_survey" form.</thinking>
-
 # key_account_planning_survey - Help Guide
 
 ## Purpose

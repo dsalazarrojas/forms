@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive evaluation tool for assessing the importance and satisfaction of a job or task. It allows users to rate the importance and satisfaction of a job on various aspects, including frequency, rating scale, and comments. The purpose of this form is to gather user feedback and ratings on the importance and satisfaction of different jobs or tasks, which can help inform organizational decisions and improve overall job satisfaction. It's essential to complete this form accurately and thoroughly to provide valuable insights.
-</thinking>
-
 # job_importance_rating_survey - Help Guide
 ## Purpose
 The job_importance_rating_survey form is designed to evaluate the importance and satisfaction of jobs or tasks. It helps gather feedback and ratings on various aspects, such as frequency, rating scale, and comments, which can inform organizational decisions and improve job satisfaction.

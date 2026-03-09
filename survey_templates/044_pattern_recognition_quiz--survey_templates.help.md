@@ -1,9 +1,3 @@
-<thinking>
-This form is a Pattern Recognition Quiz, which aims to assess the ability to recognize patterns in various types of data. The form has 22 questions across 12 pages, covering different types of patterns such as text, date, time, and multiple-choice questions. To complete this form, users will be asked to answer questions that require them to identify patterns, similarities, or differences in the provided data. The questions are designed to be self-explanatory, and users should be able to complete the form with ease. However, to ensure the form's integrity, it is essential to fill out all required fields. Please review the form carefully before submitting.
-
-This help guide will walk you through the form's purpose, how to complete it, and what each field means.
-</thinking>
-
 # Pattern Recognition Quiz - Help Guide
 ## Purpose
 This form is a Pattern Recognition Quiz designed to test the ability to identify patterns in various types of data.

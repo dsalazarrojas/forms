@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the community development needs of an urban planning area. It's used to collect information about the overall condition of community infrastructure, community resources, the quality of public services, and potential improvements to be made in the area.
-</thinking>
-
 # Urban Planning Community Development Needs Assessment - Help Guide
 ## Purpose
 This form is designed to gather information from community members about the needs and priorities for community development in urban planning areas. It will help us understand the current state of community infrastructure, resources, and public services, as well as identify areas that require improvement.

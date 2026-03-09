@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather data about the Internet of Things (IoT) and its various applications. The form is intended for users who are familiar with the concept of IoT and can provide information about their experiences with smart devices and technologies. This form is not affiliated with, endorsed by, or derived from any form platform, and is released under CC BY 4.0 license.
-
-I will assume that the form will be used for legitimate purposes and will not be used for spam, phishing, or other malicious activities.
-
-I will provide a user-facing help guide for the form, assuming that it will be used as intended.
-
-</thinking>
-
 # Internet Of Things Survey - Help Guide
 ## Purpose
 The Internet of Things (IoT) survey is designed to gather information about your experiences with smart devices and technologies. Your input will help us better understand the trends, challenges, and opportunities in the field of IoT.

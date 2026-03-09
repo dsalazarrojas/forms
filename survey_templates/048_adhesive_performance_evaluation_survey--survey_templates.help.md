@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and performance evaluation data from users who have tested an adhesive formulation. The information collected will help us improve the formulation and performance of our adhesives. Please ensure that you have actually tested the product before answering these questions, as the data collected will be used to inform future product development and improvement. 
-
-</thinking>
-
 # Adhesive Performance Evaluation Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback and performance evaluation data from users who have tested an adhesive formulation. Your input will help us improve the formulation and performance of our adhesives.

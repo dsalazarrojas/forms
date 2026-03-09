@@ -1,7 +1,3 @@
-<thinking>
-The form "Food Processing Worker Health And Safety Survey" is designed to collect feedback and data from employees in the food processing industry. This form is meant to gather information about workplace hazards, near misses, root causes, and employee suggestions, aiming to improve the working conditions and safety measures within the industry. It is essential to ensure that each employee understands the purpose and content of this form to provide accurate and relevant information. To avoid duplication of efforts, please note that this form is for internal use and not intended for external sharing or commercial purposes.
-</thinking>
-
 # Food Processing Worker Health And Safety Survey - Help Guide
 ## Purpose
 The "Food Processing Worker Health And Safety Survey" is designed to gather feedback from food processing industry employees on their working conditions, hazards, and suggestions for improvement. It will be used to identify areas that require attention and enhance the working environment.

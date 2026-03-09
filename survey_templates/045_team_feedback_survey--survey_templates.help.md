@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Feedback Survey - Help Guide
 
 ## Purpose

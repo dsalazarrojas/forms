@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect information about the employment workload of university faculty members. The purpose of this form is to gather data on faculty workloads to help administrators understand the distribution of work among faculty members and make informed decisions about resource allocation and support. This form is meant to be completed by university faculty members and will be used to collect quantitative and qualitative data on their workloads.
-
-To complete this form, follow these steps:
-
-1.  The form is divided into multiple pages, each covering a different aspect of a faculty member's employment workload. The pages are designed to be completed by the faculty member, who should review each page carefully and answer the questions according to their actual work experiences.
-2.  On the first page, "Teaching Workload," faculty members will report their current teaching workload, including the number of hours they spend teaching. They should enter this information in a numerical format, taking into account the hours spent in the classroom or online and the number of students they are teaching.
-3.  On the second page, "Research Workload," faculty members will report their research activities and time spent on research projects. They should enter this information in hours and minutes, as accurately as possible.
-4.  On the third page, "Service Workload," faculty members will report their service activities, such as committee work, community service, or other service-related work. They should report this information in hours and minutes, as accurately as possible.
-5.  On the fourth, fifth, and sixth pages, faculty members will report the duration of their teaching, research, and service workloads, respectively. These fields should be entered as a range in hours and minutes, e.g., "10h 30m" for 10 hours and 30 minutes.
-6.  On the seventh, eighth, and ninth pages, faculty members will report their total teaching, research, and service hours, respectively. These fields should be entered in a numerical format, with no need for decimal points.
-7.  On the tenth page, "Other Workload," faculty members will select all that apply to their other workload categories, such as Academic Service or Administrative Work.
-8.  On the eleventh page, "Other Workload Details," faculty members should provide a brief description of their other workload, if applicable.
-9.  On the twelfth page, "Academic Leader," faculty members should indicate whether they hold an academic leadership position, such as department chair or director.
-10. On the final page, "Comments," faculty members can provide any additional comments or information about their workload that may be relevant to the survey.
-</thinking>
-
 # University Faculty Employment Workload Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the employment workload of university faculty members to help administrators understand the distribution of work among faculty members and make informed decisions about resource allocation and support.

@@ -1,7 +1,3 @@
-<thinking>
-This form's purpose is to gather information about dental graduates' interests and preferences. It is used to collect data on users' background information, education, work experience, and job preferences. This form should only be used for internal purposes and not for collecting sensitive or financial information. Ensure you have the necessary permissions to collect and use this data.
-</thinking>
-
 # Dental Graduates Interest Survey - Help Guide
 ## Purpose
 This form is designed to gather information about dental graduates' interests and preferences to help us better understand their needs and tailor our support services accordingly.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge the economic conditions and priorities of users, likely to inform business decisions or policy-making. The form likely serves as a feedback mechanism to understand how users perceive their current economic situation and what they think should be prioritized in the coming period. It's essential to ensure that the form is completed with accurate and honest information to provide valuable insights. Please ensure that the form is not filled out multiple times by the same user, as this may skew the results. 
-</thinking>
-
 # Economic Feedback Survey Form - Help Guide
 ## Purpose
 The Economic Feedback Survey Form is designed to gather information about your current economic situation and priorities.

@@ -1,5 +1,3 @@
-<thinking>Before creating this user-facing help guide, let me first understand the context and purpose of this form. This form appears to be a survey form designed for corporate retreat participants to provide feedback on their experience. It includes various questions to gauge their satisfaction with different aspects of the retreat, such as communication, materials, food and drinks, and overall experience. It also asks for additional comments and contact information. I will ensure that this help guide is clear, concise, and practical for the end-users to complete the form accurately and provide valuable feedback.</thinking>
-
 # corporate_retreat_feedback_assessment_form - Help Guide
 ## Purpose
 This form is designed for corporate retreat participants to provide feedback on their experience, allowing us to gauge the effectiveness of the retreat organizers and identify areas for improvement.

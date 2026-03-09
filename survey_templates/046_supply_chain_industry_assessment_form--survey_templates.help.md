@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the industry's supply chain, covering various aspects such as operations, logistics, transportation, warehouse, packaging, distribution, customer service, sustainability, certifications, risk management, quality control, safety control, environmental sustainability, and other related topics. The form consists of multiple pages, each focusing on different aspects of the supply chain. The goal is to gather information about the industry's performance and practices in these areas.
-To ensure accuracy and consistency, please note that this form is a part of a larger assessment process. If you have already completed a similar form related to the same topic, please do not submit this form again. Instead, review the previous form's submission and update your answers if necessary.
-</thinking>
-
 # supply_chain_industry_assessment_form - Help Guide
 ## Purpose
 The supply chain industry assessment form is designed to evaluate the performance and practices of the supply chain industry in various areas, including operations, logistics, transportation, warehouse, packaging, distribution, customer service, sustainability, certifications, risk management, quality control, safety control, environmental sustainability, and other related topics.

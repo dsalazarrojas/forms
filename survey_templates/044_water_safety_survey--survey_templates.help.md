@@ -1,39 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals who have participated in water activities, such as swimming or boating, to assess their safety knowledge and experience. The form is intended to be completed by participants themselves or by their rescuers, if applicable. The purpose of this form is to gather data for water safety research and education purposes.
-
-This form has 25 fields, which can be categorized into several sections:
-
-1. Participant Information:
-   - Participant Name
-   - Age
-
-2. Incident Information:
-   - Location of the incident (pool, beach, river)
-   - Participant's rescuer's location
-
-3. Safety Concerns:
-   - Types of safety concerns experienced (drowning, entrapment, other)
-   - Description of other safety concerns
-
-4. Rescuer Information:
-   - Rescuer's location
-   - Rescuer's contact information (phone number, email)
-
-5. Rescue Information:
-   - Whether the participant was rescued
-   - Time of rescue
-   - Rescuer's information (time of rescue)
-
-6. Watercraft Information:
-   - Types of watercraft used (e.g., boat, kayak)
-   - Size and length of the watercraft
-
-7. Additional Information:
-   - Participant's safety knowledge and experience
-
-</thinking>
-
 # Water Safety Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals who have participated in water activities to assess their safety knowledge and experience.

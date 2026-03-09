@@ -1,11 +1,3 @@
-<thinking>
-
-To create an effective user-facing help guide for this form, I will follow the structure and guidelines provided. Here's the internal reasoning block:
-
-This form is designed to collect data from first-time attendees of events, which can include conferences, workshops, or seminars. The form asks questions to gather information about the attendee's experience, their relationship with the event, and their contact details. The purpose of this form is to gather valuable insights and feedback from new attendees, which can help event organizers and sponsors tailor their events to better serve this audience. Before proceeding with the form, please ensure that you are a first-time attendee and that you have not already completed this survey. This will help us avoid duplication of responses and ensure that your input is valuable and relevant to our analysis.
-
-</thinking>
-
 # First Time Attendee Survey - Help Guide
 ## Purpose
 The First Time Attendee Survey is designed to gather valuable insights and feedback from new attendees of events, helping event organizers and sponsors tailor their events to better serve this audience.

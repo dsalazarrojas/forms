@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Digital Tracking Features Survey" form, we need to understand its purpose and how it's used. This form is likely used to gather information about users' preferences and interactions with digital features. The survey might be used to inform product development or to monitor user behavior. To confirm, let's review the form fields:
 
 - **Tracking Preferences**: A multiple-choice field where users can select their preferences for tracking features. This field is not required.

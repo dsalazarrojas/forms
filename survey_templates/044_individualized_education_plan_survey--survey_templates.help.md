@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for end-users of the "Individualized Education Plan Survey" form, which is used to collect information about a student's educational needs and progress. The purpose of this survey is to create a personalized plan tailored to a student's unique requirements, allowing educators, parents, and the student themselves to collaborate on identifying and addressing areas of support.
-This guide will cover the form's purpose, the steps to complete it, and a field-by-field explanation of each section.
-The survey will likely be used in educational settings to monitor student progress and develop targeted interventions to address individualized needs.
-Please ensure you have a clear understanding of the survey's context and purpose before proceeding. Ensure that the information provided is accurate and relevant to the student's situation, and that the survey is only completed once per student.
-</thinking>
-
 # Individualized Education Plan Survey - Help Guide
 
 ## Purpose

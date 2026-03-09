@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information about how parents are involved in their child's education, including their communication methods, meeting frequency, and volunteering habits. To ensure this form is completed accurately and effectively, it's essential to understand its purpose and requirements.
-
-Before proceeding, please review the form's sections and fields to confirm that this is the correct tool for your needs. If you're unsure or have completed a similar survey recently, please note that this form's data will be used to support the school's efforts to improve parental involvement and communication.
-
-This guide will walk you through the form's sections and fields, helping you complete it efficiently and accurately.
-</thinking>
-
 # School Survey For Parents - Help Guide
 ## Purpose
 The School Survey For Parents is designed to gather essential information about how parents are involved in their child's education. It helps the school understand how parents communicate with teachers, their meeting frequency, and volunteering habits.

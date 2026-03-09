@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for language school administrators to monitor student progress in a regular and standardized manner. By completing this form, educators can efficiently assess student growth, provide constructive feedback, and track student performance over time. To ensure accurate and consistent data collection, we recommend using this form for all students, regardless of their individual language learning goals and levels.
-
-To avoid data duplication, we suggest using unique student IDs for each student. If you're unsure about a student's ID, please ask the student to provide it or ask the language school administration for clarification.
-</thinking>
-
 # Language School Monthly Progress Check In - Help Guide
 ## Purpose
 The Language School Monthly Progress Check In form is a tool for language school administrators to track student progress, assess growth, and provide constructive feedback in a structured and standardized manner.

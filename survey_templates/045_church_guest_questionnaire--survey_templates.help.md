@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the Church Guest Questionnaire form's purpose and how to complete it. The form is designed to collect feedback and information from church guests to help the church improve their services and facilities. It is not affiliated with any specific form platforms and is an original adaptation created by AI.
-
-</thinking>
-
 # Church Guest Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback and information from church guests to help us improve our services and facilities. Your responses will help us understand your experience and provide better services for future visitors.

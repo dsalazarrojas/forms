@@ -1,20 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "values_alignment_reflection" form that explains the form purpose, how to complete it, and what each field means. The form is used for reflecting on personal values, current goals, self-assessment, reflection, growth goals, obstacles, values alignment, values drivers, and values stretch. To avoid confusion, we should ensure that the form is filled out in the correct order and that each field is completed with the intended purpose in mind.
-
-To create the form, follow the instructions below:
-
-1.  **Personal Values**: This is the first section of the form where you can list your personal values. Enter any personal values that are important to you.
-2.  **Current Goals**: In this section, list your current goals and objectives. Be as specific as possible.
-3.  **Self-Assessment**: This is where you reflect on your current self-assessment. Please enter your current self-assessment here.
-4.  **Reflection**: In this section, reflect on your current reflection. Enter your reflection here.
-5.  **Growth Goals**: This section is for listing your growth goals. Enter any growth goals you have.
-6.  **Obstacles**: In this section, list any obstacles that are preventing you from achieving your goals.
-7.  **Values Alignment**: This is where you reflect on your values alignment. Enter your values alignment here.
-8.  **Values Drivers**: This is the core section where you list what drives your values. Enter the things that drive your values here.
-9.  **Values Stretch**: In this section, enter how far you are currently stretching your values. Enter this in the numerical field as requested.
-</thinking>
-
-
 # values_alignment_reflection - Help Guide
 ## Purpose
 The "values_alignment_reflection" form is designed to help you reflect on your personal values, current goals, self-assessment, reflection, growth goals, obstacles, values alignment, values drivers, and values stretch. This form helps you identify areas for personal growth and development.

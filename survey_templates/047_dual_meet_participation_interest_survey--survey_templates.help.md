@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dual Meet Participation Interest Survey - Help Guide
 ## Purpose
 

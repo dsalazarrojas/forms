@@ -1,8 +1,3 @@
-<thinking>
-We will now create a help guide for the "Accounting Accuracy Perception Survey" form. This form is designed to gather feedback from accounting professionals about the accuracy of financial records within their companies. It consists of two main sections: "Respondent Information" and "Accuracy Perception." The "Respondent Information" section collects basic demographic information, while the "Accuracy Perception" section inquires about the accuracy and timeliness of financial reports, errors encountered, and process improvements.
-
-</thinking>
-
 # Accounting Accuracy Perception Survey - Help Guide
 ## Purpose
 This survey aims to gauge the accuracy of financial records within your company. Your feedback will help us understand the current state of accounting accuracy and identify areas for improvement.

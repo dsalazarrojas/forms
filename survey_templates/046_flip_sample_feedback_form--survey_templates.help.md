@@ -1,8 +1,3 @@
-<thinking>
-This form is used by team members to collect feedback on demos or pilot tests of Flip Sample, a product or feature that is still in development. The purpose of this form is to gather data on how well the team has implemented the new feature, whether it meets the expected standards, and what improvements are needed. The form is meant to be filled out by team members after a demo or pilot test, to provide valuable insights on the product's progress. 
-It's essential to ensure that the form is filled out for each demo or pilot test, as it helps the team track progress and make data-driven decisions. Please make sure to fill out this form for every demo or pilot test to help us improve Flip Sample.
-</thinking>
-
 # Flip Sample Feedback Form - Help Guide
 
 ## Purpose

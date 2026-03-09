@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide for the "Values Review Survey" form, let me first check if this form is indeed relevant to our organization's needs. Based on the form's title and field names, it appears to be a form designed to collect feedback on employee values, beliefs, and satisfaction within an organization. It's likely used for performance evaluation or organizational development purposes.</thinking>
-
 # Values Review Survey - Help Guide
 ## Purpose
 The Values Review Survey is a form designed to collect feedback on employee and organization values, beliefs, and satisfaction. This survey aims to help assess employee and leadership perceptions on various aspects of the organization, including engagement, retention, communication, and more.

@@ -1,7 +1,3 @@
-<thinking>
-The "Behavior Based Psychometric Assessment Questionnaire" form is designed to assess an individual's behavior in a workplace setting. This assessment is intended to be filled out by employees or individuals to help evaluate their preferences and tendencies in various aspects of work-related behavior, such as social interaction, decision-making, and risk tolerance. The form is meant to be completed honestly and is used to provide insights into individual behavioral patterns. Please ensure that the form is not filled out more than once per person.
-</thinking>
-
 # Behavior Based Psychometric Assessment Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to assess an individual's behavior in a workplace setting, helping to provide insights into their preferences and tendencies.

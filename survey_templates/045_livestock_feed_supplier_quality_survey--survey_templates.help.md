@@ -1,7 +1,3 @@
-<thinking>
-This form is a Livestock Feed Supplier Quality Survey, designed to collect information about the quality of the supplier's services. This information will be used to assess the quality of the livestock feed supplier and help the user make informed decisions about their business. The form should only be filled out once for each supplier, so please make sure to fill it out for each new supplier you are evaluating.
-</thinking>
-
 # Livestock Feed Supplier Quality Survey - Help Guide
 ## Purpose
 This form is used to collect feedback about the quality of services provided by livestock feed suppliers.

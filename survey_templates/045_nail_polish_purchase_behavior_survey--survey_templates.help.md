@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nail Polish Purchase Behavior Survey - Help Guide
 ## Purpose
 This survey aims to collect information about your nail polish purchase behavior, including your buying frequency, preferred shopping channels, favorite brands, color preferences, budget, brand loyalty, type of nail polish, reasons for purchase, and purchasing frequency. Your responses will help us better understand your habits and preferences when it comes to nail polish.

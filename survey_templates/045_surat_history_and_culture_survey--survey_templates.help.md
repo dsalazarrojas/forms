@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about Surat history and culture from users. The purpose of this form is to gather insights on the significance and impact of Surat history and culture, and to provide a platform for users to share their experiences and opinions. This information will be used to create a comprehensive picture of Surat's cultural heritage and to inform decision-making processes related to research, education, and local programming.
-
-This form is part of a larger survey template collection, and users may be filling out multiple forms as part of a larger survey series. Each field in this form is designed to collect specific information that will contribute to the overall understanding of Surat's history and culture. Please ensure that you complete the form accurately and thoroughly, as your input will help to create a rich and comprehensive dataset.
-
-Before starting the form, please ensure that you have a clear understanding of the questions and fields, and that you are not duplicating any information that you have already provided in previous forms or surveys.
-
-</thinking>
-
 # Surat History And Culture Survey - Help Guide
 ## Purpose
 The Surat History And Culture Survey is designed to collect information about Surat's history and culture from users. This form will help to create a comprehensive picture of Surat's cultural heritage and inform decision-making processes related to research, education, and local programming.

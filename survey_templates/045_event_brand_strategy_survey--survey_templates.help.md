@@ -1,8 +1,3 @@
-<thinking>
-This form will be used to gather input for event branding strategy, which is a crucial element in creating a strong brand image and promoting the event. This form is designed to help event planners and marketers understand the current state of their event's branding and identify areas for improvement. This form will help you gather data on the following areas: event category, subcategory, event name, brand performance, perception of the brand, future planning, and event promotion. Please note that this form is not intended to be a comprehensive branding strategy document and is meant to be a starting point for further discussion and analysis. 
-
-</thinking>
-
 # Event Brand Strategy Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your event's brand strategy. This information will help us understand your event's current branding state and identify areas for improvement. 

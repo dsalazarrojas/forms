@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about a self-mastery course. The purpose of this form is to gather information on the user's satisfaction with the course materials, instructors, and overall experience. This feedback will help the course creators to understand the user's perspective and make necessary improvements. Please note that this form is intended for users who have completed the self-mastery course, and the feedback will be used to improve future versions of the course. 
-If you're reading this guide, it means you've likely already been asked to fill out this form or will be soon. This guide will walk you through each field and provide you with an idea of what to expect. 
-</thinking>
-
 # self_mastery_course_feedback_survey - Help Guide
 ## Purpose
 The self_mastery_course_feedback_survey form is designed to collect feedback from users about a self-mastery course. This feedback will be used to improve future versions of the course.

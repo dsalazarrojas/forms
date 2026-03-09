@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect feedback and satisfaction data from customers who have made a purchase through an e-commerce retail service. The form is designed to gather information about the customer's experience, including their name, email, purchase details, and feedback. This data will help the service improve its overall quality and provide better services to its customers.
-
-The form is divided into several pages, each with its own set of fields. The required fields are marked with an asterisk (\*) and must be filled out for the form to be submitted. The optional fields are not marked with an asterisk and can be left blank.
-
-Before filling out the form, please make sure you have all the necessary information readily available. You may need to refer to your purchase receipt or other records to fill out some of the fields accurately.
-
-</thinking>
-
 # E Commerce Retail Service Satisfaction Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and satisfaction data from customers who have made a purchase through our e-commerce retail service.

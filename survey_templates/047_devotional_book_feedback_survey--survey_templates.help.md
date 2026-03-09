@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Devotional Book Feedback Survey - Help Guide
 ## Purpose
 The Devotional Book Feedback Survey is designed to gather feedback from customers on a devotional book. This feedback will help the publishing team understand the overall rating and satisfaction of the book, as well as identify specific areas for improvement. By providing feedback, customers will be able to help shape the future of the devotional book and improve the reading experience for others.

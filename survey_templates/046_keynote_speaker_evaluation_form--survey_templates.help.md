@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Keynote Speaker Evaluation Form - Help Guide
 
 ## Purpose

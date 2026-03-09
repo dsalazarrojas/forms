@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect input from historical society exhibit stakeholders for various themes, dates, time slots, and other relevant details. The purpose is to gather feedback and preferences on exhibit themes and dates, as well as collect contact information for follow-up communication. This form should only be filled out by users who have been assigned to a specific exhibit, and it's essential to ensure that each submission is unique and not a duplicate, as it will affect the exhibit's overall theme and schedule.
-</thinking>
-
 # historical_society_exhibit_theme_voting_form - Help Guide
 ## Purpose
 This form is used to collect feedback and preferences on exhibit themes and dates from historical society exhibit stakeholders. It's crucial to ensure that each submission is unique and not a duplicate, as it will impact the exhibit's overall theme and schedule.

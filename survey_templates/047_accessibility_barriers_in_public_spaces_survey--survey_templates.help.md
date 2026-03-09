@@ -1,7 +1,3 @@
-<thinking>
-We will design a user-facing help guide for the "Accessibility Barriers In Public Spaces Survey" form. The form aims to collect feedback on the accessibility of public spaces and facilities. It's designed to help us understand the barriers users face when navigating these areas and gather information to improve accessibility. This form will be used to gather data on specific locations, accessibility barriers, ease of navigation, and suggestions for improvement.
-</thinking>
-
 # Accessibility Barriers In Public Spaces Survey - Help Guide
 ## Purpose
 This survey is designed to help us gather information on accessibility barriers in public spaces and facilities, which will aid in improving the overall accessibility of these areas.

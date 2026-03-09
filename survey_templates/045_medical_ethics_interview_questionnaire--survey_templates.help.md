@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Ethics Interview Questionnaire - Help Guide
 ## Purpose
 

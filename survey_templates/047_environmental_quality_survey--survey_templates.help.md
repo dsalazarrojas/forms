@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about households' environmental quality and practices. The goal is to assess how individuals perceive and interact with their environment. However, this form seems to have a lot of repeated and overlapping questions, which might lead to data quality issues.
-
-It's essential to ensure that end users understand the purpose and the correct way to fill out the form to gather accurate and meaningful data. I will provide a clear and concise help guide for this form.
-
-</thinking>
-
 # Environmental Quality Survey - Help Guide
 ## Purpose
 This form is designed to collect information about households' environmental quality and practices. It aims to assess how individuals perceive and interact with their environment.

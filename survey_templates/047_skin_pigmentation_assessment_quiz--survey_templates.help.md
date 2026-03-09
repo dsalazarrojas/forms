@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from a user about their skin condition. This form is likely used in a medical or dermatology context to assess the skin pigmentation levels and concerns of a patient. To ensure this form is not duplicated, let's check if there are similar forms with similar fields and purposes. If the form purpose is similar, it's a duplication, and we should avoid submitting it.
-</thinking>
-
 # skin_pigmentation_assessment_quiz - Help Guide
 ## Purpose
 The skin_pigmentation_assessment_quiz form is used to collect user information about their skin condition, specifically their skin pigmentation levels and concerns.

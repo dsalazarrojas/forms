@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover a survey that aims to gather information about the experiences of individuals, particularly regarding racism and discrimination. The survey will collect demographic data from the respondents, including their race, ethnicity, religion, gender, age, education level, employment status, and experience with racism. The survey will also collect information about the perpetrator of the racist incident, including their demographic information and relationship with the respondent.
-</thinking>
-
 # Racism_Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your experiences with racism and discrimination.

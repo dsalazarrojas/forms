@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to collect demographic information about co-researchers, specifically to gather data on their age range, gender identity, education level, primary field of expertise, years of research experience, current institutional affiliation, country of residence, primary role in a research project, and whether they have collaborated with the team before. This information will be used for research demographic analysis. It is expected that the respondents will be co-researchers who are participating in a project. The form is designed to be completed by individuals with a high level of education and research experience, likely academics or professionals in a related field. The form is not intended for respondents who are not co-researchers or do not have the required level of education and experience.
-
-Please note that the form is not intended for respondents who are not co-researchers or do not have the required level of education and experience. Respondents who do not fit the target group may not be able to complete the form accurately and should not be asked to do so.
-
-The form is designed to be completed in a few minutes, and the questions are intended to be clear and straightforward. The form is intended to be a quick and easy way to collect demographic information from co-researchers.
-
-To avoid duplication of effort, please do not complete this form if you have already participated in a similar demographic survey in the past.
-
-This form is intended to be used for research purposes only and the information collected will be used to analyze demographics of co-researchers. The information will not be used for any other purpose.
-</thinking>
-
 # Co-Researcher Demographic Survey - Help Guide
 ## Purpose
 This form is designed to collect demographic information from co-researchers participating in a project.

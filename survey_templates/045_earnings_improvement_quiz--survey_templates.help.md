@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect demographic and financial information from users to help assess their financial stability and security. It's designed to be completed by individuals who are interested in improving their earnings and financial well-being. Please ensure that you are eligible to complete this form by checking your personal data and financial information. This form should not be used for any other purpose other than for internal assessment and analysis. Please note that your responses will be kept confidential and not shared with anyone outside of our organization. If you're unsure or have any concerns, please reach out to us for clarification.
-</thinking>
-
 # Earnings Improvement Quiz - Help Guide
 ## Purpose
 The Earnings Improvement Quiz is a tool designed to help assess individuals' financial stability and security. It gathers information about demographic and financial data to provide insights into users' earnings and financial well-being.

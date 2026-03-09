@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users on their experience with hospital care models. The form is intended to collect opinions on various aspects of the care models, including overall experience, satisfaction, and areas for improvement. It's meant to provide valuable insights for healthcare providers to refine their care models and better serve their patients.
-
-The following guide is to help users complete the form effectively and accurately.
-</thinking>
-
 # Hospital Care Models Feedback Survey - Help Guide
 
 ## Purpose

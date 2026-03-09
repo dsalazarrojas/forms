@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning block to explain the form purpose and check for relevance and non-duplication:
-This form is designed to collect information about social media usage and preferences from users. The form is meant to be completed by individuals who are familiar with social media platforms and are willing to provide information about their online behavior. The survey is not meant to be a comprehensive assessment of online activity, but rather a brief snapshot of how often users engage with social media and which platforms they prefer.
-Please ensure that the following information is up-to-date and accurate before proceeding with the survey. This form is not intended for use by minors (individuals under the age of 18).
-</thinking>
-
 # Social Media Survey - Help Guide
 ## Purpose
 

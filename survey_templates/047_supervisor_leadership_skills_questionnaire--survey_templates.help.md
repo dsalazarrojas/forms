@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supervisor Leadership Skills Questionnaire - Help Guide
 
 ## Purpose

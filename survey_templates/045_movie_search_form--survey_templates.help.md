@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's break down the form's purpose and fields to ensure the guide is relevant and accurate. The form is called "Movie Search Form" and is likely used to search for movies based on various criteria. The fields include search preferences, movie genre, rating, release year, director, rating system, movie title, synopsis, image, and ratings (1-15). The form also includes an email field. Given the form's structure, it seems to be designed for users to input their preferences and possibly rate movies. The purpose of the form is likely to collect data for movie recommendations or analysis. Let's create a help guide that explains each field's purpose and requirements.</thinking>
-
 # Movie Search Form - Help Guide
 ## Purpose
 This form is designed to collect your preferences for searching movies. You will be asked to choose various options to narrow down your search results. Fill out the form with your desired search criteria, and you will receive a list of movies that match your preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the cultural identity of individuals who identify as Bengali. The purpose of this form is to collect data on the cultural practices, traditions, and values of Bengali individuals, which will be used to better understand the community's needs and preferences. This form is intended for people who are familiar with Bengali culture and are willing to share their experiences and opinions. Please note that this form is for personal, non-commercial use only, and any data collected will be treated with respect and confidentiality.
-</thinking>
-
 # Bengali Cultural Identity Survey - Help Guide
 ## Purpose
 This guide is designed to provide you with a step-by-step explanation on how to complete the Bengali Cultural Identity Survey.

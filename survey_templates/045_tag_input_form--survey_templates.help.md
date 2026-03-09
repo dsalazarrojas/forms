@@ -1,7 +1,4 @@
-> <thinking>
-This form is used to gather tags and other relevant information for a specific event. Before filling out this form, ensure that you are not duplicating a previously created tag input form for this event. This form is designed to be simple and straightforward, with the following sections:
-</thinking>
-# Tag Input Form - Help Guide
+> # Tag Input Form - Help Guide
 ## Purpose
 This form is used to collect tags and other essential details for a specific event. Please note that it's essential to review existing forms for this event to avoid duplication.
 

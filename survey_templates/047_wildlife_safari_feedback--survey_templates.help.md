@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who are submitting feedback on their wildlife safari experience. The goal is to gather information on various aspects of the tour, including the guide's performance, safety measures, and overall experience. Please note that this form is optional, and users are not required to complete it. To ensure relevance, users should only fill out sections that pertain to their actual experience. If the user did not take a safari tour with this guide, they should not fill out the guide's name field.
-</thinking>
-
 # wildlife_safari_feedback_form - Help Guide
 ## Purpose
 This form is designed to gather feedback on your wildlife safari experience, including the guide's performance, safety measures, and overall experience. It will help us improve our services and provide a better experience for future clients.

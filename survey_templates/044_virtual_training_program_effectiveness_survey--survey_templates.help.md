@@ -1,5 +1,3 @@
-<thinking>... This form, "Virtual Training Program Effectiveness Survey," is used to gather feedback from participants on various aspects of virtual training programs. It is essential to complete this form to help improve the quality and effectiveness of future virtual training sessions. Before starting, please note that this form is designed to collect information from one participant, and answers will be recorded accordingly. Please ensure that you are filling out this form for your own session, and if you have participated in multiple sessions, please fill out the form multiple times, one time per session.</thinking>
-
 # Virtual Training Program Effectiveness Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants on various aspects of virtual training programs.

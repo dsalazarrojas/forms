@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect feedback and evaluation of a cosmetic nurse training course. This form is used to gauge the quality of the course, its outcomes, and the overall experience of the participants. The form will help in identifying areas of improvement for the training course and its trainers. It's essential to fill out this form thoroughly and accurately to ensure that your feedback is helpful. Please review the following sections to ensure you understand the context and relevance of this form to your experience.</thinking>
-
 # Cosmetic Nurse Training Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the Cosmetic Nurse Training Course. Your input will help us evaluate the course's quality, outcomes, and overall effectiveness.

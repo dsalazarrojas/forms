@@ -1,8 +1,3 @@
-<thinking>
-This form is a survey for nominating individuals or teams for excellence awards. The purpose of this form is to gather information about the nominees, including their company name, representative name, and contact information. The form will help to streamline the nomination process, ensuring that all required information is collected in a standardized format. Please make sure to fill out this form only if your company is eligible for the award and if you have a valid reason for the nomination. If you're unsure or need clarification, please reach out to the award committee before proceeding. Note that this form should not be used for duplicate nominations or to nominate individuals who have already been previously nominated. If you're unsure about any of the fields, please refer to the field explanations below.
-
-</thinking>
-
 # Excellence Awards Survey - Help Guide
 ## Purpose
 This form is a tool used to nominate individuals or teams for excellence awards. The survey is designed to gather relevant information from the nominator and nominee. Please fill out the form carefully and accurately to ensure that your nominee receives the consideration they deserve.

@@ -1,12 +1,3 @@
-<thinking>
-
-This form is designed to gather user feedback on the efficacy and safety of a particular product or service, which will help the business team to better understand how effective the product or service is in achieving its intended results and how safe it is for users. 
-It will be used in conjunction with other tools, such as analytics and sales data, to provide a comprehensive picture of the user experience. 
-This form should not be used as a sole source of information, and responses will not be used to make individual user recommendations. 
-Please ensure that you are only filling out this form once, as duplicate responses will not be considered.
-
-</thinking>
-
 # Efficacy And Safety Assessment Survey - Help Guide
 ## Purpose
 The Efficacy And Safety Assessment Survey is a form designed to gather user feedback on the effectiveness and safety of a particular product or service. This feedback will help our business team to better understand how well the product or service meets its intended goals and whether it is safe for users to use.

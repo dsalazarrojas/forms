@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cognitive Wellbeing Assessment Survey - Help Guide
 ## Purpose
 The Cognitive Wellbeing Assessment Survey is a tool designed to assess an individual's cognitive wellbeing, including their mental health, emotional regulation, social connections, physical health, and lifestyle factors. This survey is intended to help identify areas of strength and weakness in cognitive wellbeing, providing insights for personal development and improvement.

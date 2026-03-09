@@ -1,7 +1,3 @@
-<thinking>
-This form is used by editors to recommend changes to a content or project team. It provides a structured way for editors to document their suggestions, comments, and recommendations for content improvement. The form should only be filled out by editors, not by other stakeholders or users. Please ensure that you are filling out this form as an editor before proceeding.
-</thinking>
-
 # Editor Recommendation Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,4 @@
-# <thinking>... ( internal reasoning block )
-This form is intended for customers or potential customers to provide information about their reservations and goals. The Reservations And Goals Survey form is part of an organization's process for managing client relationships and ensuring that their expectations are met. By filling out this form, customers can provide critical information about their needs and preferences, which can aid in creating a tailored experience.
-
-This form is not intended to be used by internal users, so it does not require authentication or login details.
-
-The following form fields are optional, and respondents are free to choose to fill out as many or as few fields as they like. 
-
-</thinking>
-
-# Reservations And Goals Survey - Help Guide
+# # Reservations And Goals Survey - Help Guide
 ## Purpose
 The Reservations And Goals Survey form is designed to collect information from customers or potential customers about their reservations and goals. This information will be used to better understand their needs and preferences, and to tailor the experience accordingly.
 

@@ -1,5 +1,3 @@
-<thinking>... This form is designed to gather information about a gamer's habits and preferences, and will help us understand their behavior and interests in the gaming world. This information will be used to improve our services and products for gamers like you. We will only use this information for internal purposes and will not share it with any third parties. Please note that you are not required to provide any sensitive information, and you can always opt out of this survey if you feel that it is not relevant to you or if you have provided the same information before. We will only collect data from this form for as long as you are interacting with our services. If you have any concerns or questions, please don't hesitate to contact us. ...</thinking>
-
 # Gamer Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your gaming habits and preferences. We will use this information to improve our services and products for gamers like you.

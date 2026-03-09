@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to help organizations track and compare their emergency fundraising metrics with other organizations in their industry. By filling out this form, you will be providing valuable data that will help us understand the effectiveness of emergency fundraising efforts. Please only fill out this form if you are a legitimate organization that conducts emergency fundraising activities. Duplicate submissions will be automatically detected and removed.
-
-</thinking>
-
 # Emergency Fundraising Benchmarking Survey - Help Guide
 ## Purpose
 The Emergency Fundraising Benchmarking Survey is a tool to help organizations track and compare their emergency fundraising metrics with other organizations in their industry. By collecting data from various organizations, we can gain insights into the most effective emergency fundraising strategies and tactics.

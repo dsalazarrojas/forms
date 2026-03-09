@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from hotel guests during their check-out process. It's meant to gather feedback on their stay, including their arrival and departure dates, room number, and contact information. The form also includes fields for comments, room cleanliness and service surveys, and overall satisfaction ratings. This form should only be used for hotel guests who have stayed in the hotel, and it's not intended for staff or other non-guests. Please ensure you are completing this form for your own stay.
-</thinking>
-
 # Hotel Guest Check Out Form - Help Guide
 ## Purpose
 The Hotel Guest Check Out Form is designed to collect feedback from hotel guests to improve the quality of service and amenities provided during their stay. It's essential to provide accurate and honest feedback to help us understand your experience.

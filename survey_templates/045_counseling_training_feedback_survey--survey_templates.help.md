@@ -1,7 +1,3 @@
-<thinking>
-This form is a survey designed to gather feedback from participants after a counseling training session. It aims to assess various aspects of the session, such as session outcomes, participant engagement, session satisfaction, and trainer effectiveness, to name a few. The purpose of this feedback is to help improve future sessions and better serve participants' needs. This guide will help ensure that respondents understand each section and its intent to provide accurate feedback. To the best of my knowledge, this guide will not be duplicated in other contexts, as it is specific to this form's purpose and intent.
-</thinking>
-
 # Counseling Training Feedback Survey - Help Guide
 
 ## Purpose

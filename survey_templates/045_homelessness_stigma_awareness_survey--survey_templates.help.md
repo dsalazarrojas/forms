@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about people's attitudes and perceptions regarding homelessness, a complex and sensitive topic. The form is intended to gauge respondents' feelings, thoughts, and experiences related to homelessness stigma, which can have a significant impact on individuals and communities. The purpose of this survey is to gather data that can help identify areas for improvement in awareness and education initiatives to reduce homelessness stigma. By participating in this survey, you will be contributing to the development of more effective strategies to combat homelessness and promote greater understanding and empathy.
-
-The survey will not collect any sensitive or confidential information, and your responses will be treated with confidentiality and respect. Your participation in this survey is voluntary, and you can choose not to answer any questions that make you uncomfortable or that you do not want to answer. You have the right to withdraw your participation at any time, and your responses will not affect any personal or professional relationship with us.
-
-The survey has multiple sections, each focusing on different aspects of homelessness stigma. Please take your time to answer each question honestly and accurately, and feel free to skip or answer only the questions that you feel comfortable with. The form is not designed to be lengthy, and you can complete it in a few minutes.
-
-</thinking>
-
 # Homelessness Stigma Awareness Survey - Help Guide
 ## Purpose
 This form is designed to collect information about people's attitudes and perceptions regarding homelessness stigma.

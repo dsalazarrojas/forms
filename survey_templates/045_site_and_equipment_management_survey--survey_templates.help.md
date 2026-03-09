@@ -1,13 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the form "Site And Equipment Management Survey". The purpose of this guide is to provide clear instructions and explanations on how to complete the form, including an internal justification for why this form is necessary.
-
-The form has 19 fields, which we'll break down into sections to make it easier to read and understand. We'll cover the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-The form is designed to collect information about site and equipment management, including maintenance practices, safety practices, equipment condition, and other relevant details. This information will help the team to better understand the site's equipment management and make informed decisions.
-
-Please note that some fields are optional, but it's essential to complete all required fields to ensure the form is submitted correctly.
-
-</thinking>
 # Site And Equipment Management Survey - Help Guide
 
 ## Purpose

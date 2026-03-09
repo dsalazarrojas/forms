@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers on the real estate advisor service. The form is designed to gather information on the customer's experience, rating, and comments about the service quality and satisfaction level. The form is likely used by real estate companies to evaluate and improve their services.
-</thinking>
-
 # real_estate_advisor_feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers on the real estate advisor service, allowing the service provider to improve their offerings.

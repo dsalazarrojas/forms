@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gauge the user's experience with the gadget, including their satisfaction with it and the reasons for any dissatisfaction. This form should only be filled out by users who have actually used the gadget, and it's not intended to be filled out by people who haven't used it yet. If you're not sure whether to fill out this form, please ask yourself if you have personal experience with the gadget.
-
-</thinking>
-
 # Gadget User Experience Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather user feedback on their experience with our gadget. It aims to understand how users feel about using the gadget, their level of satisfaction, and areas for improvement.

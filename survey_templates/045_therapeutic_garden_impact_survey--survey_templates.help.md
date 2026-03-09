@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about the impact of a therapeutic garden on patients. The form is designed to collect data on various aspects of the garden, including the participant's well-being outcomes, feedback, contact information, and environmental factors such as the garden's size and description. This form is likely used in a healthcare setting to evaluate the effectiveness of therapeutic gardens in improving patient well-being and satisfaction.
-
-The following sections of the form are likely used to gather different types of data and should be reviewed for relevance and consistency with the overall purpose of the form.
-
-</thinking>
-
 # Therapeutic Garden Impact Survey - Help Guide
 ## Purpose
 This survey is used to gather information about the impact of a therapeutic garden on patients.

@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from managers regarding their team's performance and responsiveness in the organization. The purpose of this form is to identify areas of improvement and provide actionable insights to the team, ensuring that everyone is on the same page and working effectively towards the same goals. This feedback is essential for the organization's overall success, and the manager's input will help us better understand what is working well and what needs adjustments.
-
-By completing this form, you will be helping us understand how your team is performing, how responsive you are to feedback and communication, and how we can continue to improve our policies and procedures. Your input is invaluable, and every piece of feedback counts. Make sure to answer these questions as thoroughly as possible so we can get the most out of this survey. Don't worry about providing too much detail; it's okay to elaborate on your answers if you find that they don't fit perfectly into the provided text box.
-
-Please note that this form is meant to collect qualitative feedback, so don't worry about providing exact numbers or metrics. We're looking for your subjective perspective as a manager, and your answers will guide our next steps in improving our policies and procedures. 
-
-Before you start, take a moment to familiarize yourself with the form structure and what each field is meant to capture. Here's a breakdown of what each section is about:
-
-</thinking>
-
 # Manager Feedback Responsiveness Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from managers on their team's performance, responsiveness, and communication, which will help us refine our policies and procedures.

@@ -1,5 +1,3 @@
-<thinking>This form is used to assess an individual's pre-training skills and needs. It is used to gather information about the individual's background, skills, and expectations from the training session. The form is composed of several fields that need to be filled in by the individual, and it is required that all fields are filled in, except for "Training Goals" and "Training Expectations" which are optional.</thinking>
-
 # Pre Training Skills Assessment - Help Guide
 ## Purpose
 The Pre Training Skills Assessment form is used to gather information about an individual's background, skills, and expectations from the training session.

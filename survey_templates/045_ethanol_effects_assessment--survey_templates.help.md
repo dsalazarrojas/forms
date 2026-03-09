@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the effects of ethanol on users, likely for research or analysis purposes. It aims to collect information on the frequency and amount of ethanol consumption, as well as other related factors. To determine if this form has been filled out previously, it's likely that a unique identifier or user session is used to track submissions.
-</thinking>
-
 # Ethanol Effects Assessment - Help Guide
 ## Purpose
 

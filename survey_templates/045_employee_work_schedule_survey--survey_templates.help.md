@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect employee feedback on their work schedule. The goal is to understand the effectiveness of the current schedule, gather suggestions for improvements, and identify any issues or concerns that need to be addressed. This form is a crucial tool for managers to gain insights into employee satisfaction and make data-driven decisions to optimize the work schedule.
-The data collected from this form will be used by management to analyze employee feedback, identify trends, and develop strategies to improve the work schedule.
-</thinking>
-
 # employee_work_schedule_survey - Help Guide
 ## Purpose
 The employee work schedule survey is a tool designed to collect feedback from employees on their work schedule, allowing management to understand their opinions and preferences.

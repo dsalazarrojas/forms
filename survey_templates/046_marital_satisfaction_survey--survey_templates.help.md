@@ -1,8 +1,3 @@
-<thinking>
-This help guide is for the Marital Satisfaction Survey form. This form is designed to help users understand their relationship satisfaction levels. Please ensure you are filling this out for a real couple, and not as a replacement for individual self-reflection.
-The form has multiple pages with various types of fields (note, select_multiple, select_one, select, time, number) and does not require any input to be filled. Each field is optional, and answers are usually 'Yes' or 'No' for select fields.
-</thinking>
-
 # Marital Satisfaction Survey - Help Guide
 ## Purpose
 The Marital Satisfaction Survey is a tool to help you understand your relationship satisfaction levels. Please answer the questions as honestly as possible, and do not hesitate to provide feedback or comments about your spouse.

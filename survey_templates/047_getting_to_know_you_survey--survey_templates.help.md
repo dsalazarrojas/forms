@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect personal information and preferences from survey respondents. The primary goal is to gather demographic details and interests to better understand the target audience. Please ensure that you are filling this form only once, as repeated submissions may cause duplicate entries. Before proceeding, take a moment to review the fields and ensure you have all the required information ready.
-</thinking>
-
 # Getting To Know You Survey - Help Guide
 ## Purpose
 This form is designed to collect personal information and preferences from survey respondents to better understand the target audience.

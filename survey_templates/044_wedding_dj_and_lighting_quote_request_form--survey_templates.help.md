@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from clients or potential clients who are interested in hiring a DJ and lighting service for their wedding event. The form will help gather details about their wedding plans, including the date, location, number of guests, and specific services required. This information will be used to generate a quote for the services.
-To prevent duplicate entries, a check will be performed to verify if an entry with the same contact email and location already exists in the system. If it does, the user will be notified and asked to provide additional information or update the existing entry.
-</thinking>
-
 # Wedding DJ and Lighting Quote Request Form - Help Guide
 
 ## Purpose

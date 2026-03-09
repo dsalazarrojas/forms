@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the effectiveness and communication of the licensing campaign. It is intended for customers, partners, or potential clients. Please only fill out this form if you have actually participated in a licensing campaign with us. If you've filled out this form previously, your answers will be stored in the database and will not be duplicated. Please ensure that you have filled out the correct form for the specific campaign you are providing feedback on.
-</thinking>
-
 # Feedback Survey On Licensing Campaign - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback on the effectiveness and communication of our licensing campaign. Your input will help us improve our services and better serve you in the future.

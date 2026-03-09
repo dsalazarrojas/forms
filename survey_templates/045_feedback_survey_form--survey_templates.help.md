@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about a service provider. It is intended to gather information about user's experience, preferences, and behavior. This form may be used to identify areas of improvement for the service provider.
-Before filling out this form, please note that you will be asked to answer a series of questions and provide personal contact information. This information will help us understand your experience and preferences.
-This form has two main sections: questions and introduction. 
-The "Introduction" section is a note field where you can provide any general comments or feedback about your experience.
-The questions section has several fields that ask for specific information, such as how you rated the service, how much time you spent on it, how many times you visited the service, etc.
-Please answer all questions truthfully, and provide as much detail as possible.
-If you have any questions or need help with this form, please don't hesitate to contact us.
-</thinking>
-
 # Feedback Survey Form - Help Guide
 
 ## Purpose

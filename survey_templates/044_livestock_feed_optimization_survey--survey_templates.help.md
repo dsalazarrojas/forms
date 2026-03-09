@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-friendly help guide for the "livestock_feed_optimization_survey" form. To start, I will analyze the form's purpose and relevance, checking for duplication or redundancy. The form appears to be a comprehensive assessment of livestock feed optimization, gathering data on production and feed cost metrics. I do not see any duplication or unnecessary fields, and each field seems to contribute to a thorough understanding of livestock feed optimization.</thinking>
-
 # livestock_feed_optimization_survey - Help Guide
 ## Purpose
 The livestock feed optimization survey is designed to gather data on your current livestock feed production and cost metrics. This survey will help identify areas for improvement to optimize your feed production and cost savings.

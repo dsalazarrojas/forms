@@ -1,19 +1,3 @@
-<thinking>
-
-This form is a School Climate Survey, designed to gather feedback from students about their overall experience and satisfaction with their school environment. This guide will help users navigate the form and understand what information each field is meant to elicit.
-
-The purpose of this form is to collect data on how students perceive their school climate, which is the social and emotional atmosphere within the school. This data will help administrators and teachers better understand students' needs and make informed decisions to improve the school environment.
-
-This guide will cover the following topics: 
-
-* Purpose of the form 
-* How to complete the form 
-* Field-by-Field Explanation of each question 
-
-Please note that all questions are optional, and users can skip any questions they feel uncomfortable answering.
-
-</thinking>
-
 # school-climate-survey - Help Guide
 ## Purpose
 

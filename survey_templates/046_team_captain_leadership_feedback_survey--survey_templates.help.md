@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from team captains on their leadership skills and goals for the next season. The purpose of this form is to help the team's leadership identify areas where they need to improve and provide support to help them grow in their role. The feedback collected will be used to inform the team's leadership development plan and make data-driven decisions to enhance the team's performance.
-</thinking>
-
 # Team Captain Leadership Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from team captains on their leadership skills and goals for the next season. Please take 5-10 minutes to complete this survey, and we appreciate your honest feedback.

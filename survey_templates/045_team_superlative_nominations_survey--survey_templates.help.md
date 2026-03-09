@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Superlative Nominations Survey - Help Guide
 
 ## Purpose

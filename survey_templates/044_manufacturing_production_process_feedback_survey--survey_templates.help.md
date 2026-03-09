@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to support end-users in understanding the purpose of the Manufacturing Production Process Feedback Survey form. This guide will provide instructions on how to complete the form, explain each field in detail, and offer additional tips for successful form submission.
-
-The form is used to gather feedback from employees on the manufacturing production process, aiming to improve the process and identify areas of concern. This feedback will help management understand the effectiveness of the production process and make informed decisions to address any issues that may affect productivity and employee safety.
-
-Before starting, ensure you have read the purpose and instructions provided to avoid duplication and ensure accurate completion of the form.</thinking>
-
 # Manufacturing Production Process Feedback Survey - Help Guide
 ## Purpose
 The Manufacturing Production Process Feedback Survey form is designed to gather feedback from employees on the production process, allowing management to identify areas of improvement and make data-driven decisions to enhance the process.

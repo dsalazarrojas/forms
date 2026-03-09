@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication and ensure that users complete the form with meaningful feedback, we will be using this form to collect evaluations from students, teachers, and instructors about their experiences and perceptions of each class session. This form will help us to better understand the strengths and areas of improvement of our teaching methods and materials. 
-</thinking>
-
 # Class Session Evaluation Survey - Help Guide
 
 ## Purpose

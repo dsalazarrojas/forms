@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information from customers about their experiences with food trucks. The form is designed to gather data on how often customers visit food trucks, their favorite items, customer satisfaction, and other relevant details. This information can help us better understand customer behavior and preferences.
-
-To avoid duplication, please do not fill out this form if you have already filled out a similar survey in the past. If you have any questions or concerns, please contact us.
-
-This form should take approximately [insert time] to complete. Please answer each question to the best of your ability. If you are unsure about any question, feel free to ask.
-
-Please note that all information collected through this form will be kept confidential and used only for research purposes.</thinking>
-
 # Food Truck Market Research Survey - Help Guide
 ## Purpose
 This form is designed to collect data on customer experiences with food trucks, including frequency of visits, favorite items, satisfaction, and other relevant details.

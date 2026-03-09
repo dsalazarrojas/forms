@@ -1,7 +1,3 @@
-<thinking>
-This help guide is meant to guide end-users through the process of completing the ISP Sampling Survey form. The form is designed to collect data on various aspects of Internet Service Providers (ISPs), including their sampling interest, satisfaction levels, current ISP, and more. The purpose of this form is to gather information that can be used to evaluate and improve the quality of service provided by ISPs. It is essential to provide accurate and truthful information when filling out this form to ensure reliable results. Please ensure you complete the form in the correct manner and do not duplicate efforts.
-</thinking>
-
 # ISP Sampling Survey - Help Guide
 ## Purpose
 This form is designed to collect data on various aspects of Internet Service Providers (ISPs) to help evaluate and improve their quality of service.

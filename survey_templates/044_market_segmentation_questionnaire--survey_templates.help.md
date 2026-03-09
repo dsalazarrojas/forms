@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Market Segmentation Questionnaire - Help Guide
 ## Purpose
 The Market Segmentation Questionnaire is a tool used to help businesses identify and segment their target market. It is designed to gather information about the preferences, behaviors, and needs of potential customers to help inform product and market strategies. This questionnaire is crucial for understanding who your ideal customer is, what their needs are, and how to tailor your products and services to meet those needs.

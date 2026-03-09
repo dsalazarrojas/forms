@@ -1,7 +1,3 @@
-<thinking>
-We should create a user-facing help guide for the "whatsapp_automation_feedback_form" under the category "survey_templates". The goal is to provide a clear and concise guide that helps end-users understand the form's purpose, how to complete it, and each field's meaning. We'll assume that the form is intended to collect feedback on a WhatsApp automation service, focusing on its features, benefits, and overall user experience.
-</thinking>
-
 # whatsapp_automation_feedback_form - Help Guide
 
 ## Purpose

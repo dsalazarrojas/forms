@@ -1,22 +1,3 @@
-<thinking>
-This form is used to assess leadership skills of an employee. The assessment is used to evaluate an individual's leadership abilities and competencies in various areas such as communication, decision-making, problem-solving, conflict management, leadership ability, team management, time management, adaptability, emotional intelligence, strategic planning, results ownership, innovation, continuous learning, collaboration, accountability, integrity, and results focus. To complete this form, users will be required to answer a series of questions about their leadership skills and experiences. The form is likely to be used by HR or management personnel to evaluate employee performance and potential for leadership roles within the company.
-
-This form is likely to be filled out by employees, supervisors, or HR personnel and is an internal tool used for assessment and development purposes. Therefore, it is essential to ensure that the form is filled out accurately and thoroughly to provide a comprehensive understanding of an individual's leadership skills.
-
-Please note that this form does not seem to be related to any specific business process or project, so it is likely used for general leadership development and performance evaluation purposes.
-
-It is recommended that users fill out the form in a private setting, with access to their own thoughts and experiences. This will help ensure that the answers are accurate and honest, which is crucial for a fair and comprehensive assessment.
-
-The form can be completed in a sequence, page by page, or at once, depending on the user's preference. Each page will guide the user through the questions and fields that need to be filled out.
-
-Please make sure to answer all the questions and fields, and to fill out the form accurately and thoroughly. This will help ensure that the assessment is comprehensive and fair.
-
-It is essential to review the form carefully before submitting it, to ensure that all the questions and fields have been answered correctly.
-
-If any question or field is not clear or seems ambiguous, please do not hesitate to ask for clarification or assistance.
-
-</thinking>
-
 # Leadership Skills Assessment Form - Help Guide
 ## Purpose
 The leadership skills assessment form is used to evaluate an individual's leadership abilities and competencies in various areas such as communication, decision-making, problem-solving, conflict management, leadership ability, team management, time management, adaptability, emotional intelligence, strategic planning, results ownership, innovation, continuous learning, collaboration, accountability, integrity, and results focus.

@@ -1,18 +1,3 @@
-<thinking>
-This form is used for voting on the Mardi Gras Royalty, which includes the King, Queen, Duke, and Duchess. The purpose of this form is to collect votes for each of these positions. The form will likely be used by Mardi Gras attendees or organizers. There should be no duplication of votes as each person should only be able to vote once.
-
-It's assumed that the form is used during a Mardi Gras event or similar festival. The "krewes" and "event committees" fields may be related to specific organizations or groups associated with the Mardi Gras celebrations.
-
-It's also assumed that the "candidates for king" field is used to select a single candidate, and the "vote for king" field is used to cast a vote for that selected candidate.
-
-It would be beneficial to clarify the relationship between the "candidates" and "voting" fields, as it seems like the form is asking for both the selection of candidates and the casting of votes.
-
-Additionally, it would be helpful to ensure that the voting fields are mutually exclusive, so that a user can only select one option for each position.
-
-The form appears to be using a "select_multiple" type for most fields, which could be confusing for users who are not familiar with this type. It might be beneficial to use a more descriptive label or to include a clarification in the help guide.
-
-</thinking>
-
 # Mardi Gras Royalty Voting - Help Guide
 ## Purpose
 This form is used to collect votes for the Mardi Gras Royalty positions: King, Queen, Duke, and Duchess. 

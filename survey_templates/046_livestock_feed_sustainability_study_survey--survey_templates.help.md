@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a larger study aiming to understand the current practices and challenges faced by individuals in the livestock feed industry regarding sustainability. This helps the researchers to identify areas for improvement and provide support to the respondents. Before completing this form, consider whether you have already taken this survey, as this will help avoid duplication of effort and minimize the impact on the environment.
-</thinking>
-
 # Livestock Feed Sustainability Study Survey - Help Guide
 ## Purpose
 This form aims to gather information about your practices and challenges related to sustainable feed production and management. Your input will help us better understand the current state of the industry and support future improvements.

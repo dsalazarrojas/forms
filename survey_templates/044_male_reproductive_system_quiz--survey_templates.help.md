@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information and opinions from male individuals about the male reproductive system. The form is not affiliated with any form platform and is an original adaptation using public metadata as inspiration. It is released under the Creative Commons BY 4.0 license, allowing for free use, modification, and even sale with proper credit. The form is intended to be used as a quiz, and its content is focused on the male reproductive system.
-
-To ensure the form's integrity and consistency, it's essential to review the form's purpose and the information it aims to collect. This guide will walk you through each field and its intended use.
-
-</thinking>
-
 # Male Reproductive System Quiz - Help Guide
 ## Purpose
 This form is designed to collect information and opinions about the male reproductive system. It is not affiliated with any form platform and is an original adaptation using public metadata as inspiration.

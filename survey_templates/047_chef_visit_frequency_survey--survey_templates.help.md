@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from visitors to a chef-led culinary experience, gathering information on their visit frequency, preferences, and satisfaction with the food and chef interaction. This feedback will help the culinary team to better understand their customers' needs and improve their services.
-
-Before proceeding, please ensure you are completing this form for a valid reason and not duplicating your feedback. Your input will help shape the future of the culinary experience.
-</thinking>
-
 # Chef Visit Frequency Survey - Help Guide
 ## Purpose
 The Chef Visit Frequency Survey is designed to collect feedback from visitors to a chef-led culinary experience. This survey aims to understand your visit frequency, preferences, and satisfaction with the food and chef interaction.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the forest law knowledge of users, helping them gauge their understanding of the subject matter. 
-- The form consists of multiple pages, each addressing different aspects of forest law, such as basics, principles, cases, practice, legal consequences, and ecosystem impact.
-- The form's questions aim to identify the user's level of knowledge and potential areas for improvement.
-- It is crucial to answer all questions honestly, as the form's purpose is to provide an accurate assessment.
-</thinking>
-
 # Forest Law Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess the forest law knowledge of users, helping them gauge their understanding of the subject matter.

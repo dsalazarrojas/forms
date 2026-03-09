@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to create a new quiz template for assessing users' awareness of misinformation. The purpose of this template is to help users create a customizable and reusable quiz that can be used to educate and engage their audience on the topic of misinformation. This template is meant to be used by users who want to create engaging and interactive content for their website or application.
-The form will be used by users to create a new quiz template, which can be used to assess their audience's knowledge on the topic of misinformation. The form should only be filled out once and will be used as a starting point for creating multiple quizzes.
-</thinking>
-
 # Quiz On Misinformation Awareness - Help Guide
 ## Purpose
 The form is designed to create a new quiz template for assessing users' awareness of misinformation. The template will ask users questions related to the topic and provide answers and next steps for users to learn more.

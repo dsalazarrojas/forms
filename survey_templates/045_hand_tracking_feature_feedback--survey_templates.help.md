@@ -1,7 +1,3 @@
-<thinking>
-The "hand_tracking_feature_feedback" form is used to collect feedback on the hand-tracking feature, which is a critical component of a larger system used to track and manage team member workloads. This form is designed to be completed by team members to provide their feedback on the effectiveness and usability of the hand-tracking feature. It is essential to ensure that all team members complete this form thoughtfully, as the feedback collected will help inform design and development decisions. Please note that this form should only be completed once for each feature release, and it is recommended that team members review previous feedback forms before submitting their own to avoid duplicating feedback.
-</thinking>
-
 # hand_tracking_feature_feedback - Help Guide
 ## Purpose
 The hand_tracking_feature_feedback form is used to collect feedback on the hand-tracking feature from team members.

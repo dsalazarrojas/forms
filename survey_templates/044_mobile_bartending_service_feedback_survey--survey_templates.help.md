@@ -1,15 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Mobile Bartending Service Feedback Survey" form, I need to understand the form's purpose, how to complete it, and what each field means. Based on the provided YAML, here is my internal reasoning block:
-
-* The form's purpose is to collect feedback from customers about their experience with a mobile bartending service. This form aims to gather information about events, bartenders, venues, and overall feedback from customers.
-* The form is likely used by the mobile bartending service company to improve their services and build customer relationships.
-* To complete the form, users will need to provide information about the event details, bartender name, event date, venue name, event type, feedback, testimonial, and contact information.
-* Each field is designed to collect specific information, and the form's layout seems to be organized to make it easy for users to navigate.
-* The form is not affiliated with any form platform, so it's an original adaptation.
-* The form's fields can be completed in any order, as each field is optional.
-
-</thinking>
-
 # Mobile Bartending Service Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with a mobile bartending service. It helps us improve our services and build customer relationships.

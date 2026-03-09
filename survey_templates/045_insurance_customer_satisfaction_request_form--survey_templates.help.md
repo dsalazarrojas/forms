@@ -1,11 +1,3 @@
-<thinking>
-We want to ensure that this form is used correctly and that users understand its purpose and requirements. This form is intended to collect customer feedback on insurance-related matters, and it's essential to fill it out thoroughly and accurately to get the best results. Please make sure to complete the form only if you have a legitimate reason to do so, and avoid submitting duplicate forms if you've already provided feedback on the same issue.
-
-Also, please note that some fields are required or optional and have specific instructions for completion. Ensure that you answer each question truthfully and follow the instructions for each field.
-
-Before filling out this form, take a few minutes to read the instructions carefully and ask your supervisor or colleague if you need any clarification.
-</thinking>
-
 # Insurance Customer Satisfaction Request Form - Help Guide
 ## Purpose
 The Insurance Customer Satisfaction Request Form is designed to collect feedback from customers about their experiences with our insurance services. This form helps us to identify areas of improvement, address customer concerns, and provide better services to you and your colleagues.

@@ -1,5 +1,3 @@
-<thinking>This help guide is intended to assist users in completing the "Property Climate Resilience Survey", a form that gathers information on properties' resilience to climate change impacts. To be eligible for the survey, your property must be registered with us, and you have access to the survey through our online platform. If you're unsure if your property is registered, please contact us first.</thinking>
-
 # Property Climate Resilience Survey - Help Guide
 ## Purpose
 

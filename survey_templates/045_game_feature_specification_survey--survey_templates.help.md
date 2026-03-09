@@ -1,9 +1,3 @@
-<thinking>
-This form is used for a company to gather feedback and information about game features. It will help the team to better understand what features are important to players, how teams perform, and what areas need improvement.
-The form is used by game developers and team members to provide information about game features and their priorities. It is not a survey that players would fill out, but rather a tool for internal use.
-Before filling out this form, please make sure you have not filled it out before. Filling out this form multiple times can cause confusion and make it harder for the team to understand the data.
-</thinking>
-
 # Game Feature Specification Survey - Help Guide
 ## Purpose
 The Game Feature Specification Survey is a form used by game developers and team members to gather information about game features and their priorities. This form helps the team to better understand what features are important to players and how teams perform.

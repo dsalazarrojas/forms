@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to help individuals assess their level of public speaking fear. It is intended to be completed by individuals who are interested in identifying their public speaking fears and anxieties, and to gain insights that can help them improve their public speaking skills.
 
 ## Public Speaking Fear Survey - Help Guide

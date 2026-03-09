@@ -1,8 +1,3 @@
-<thinking>
-The form "Information Gathering Questionnaire" is designed to collect insights and feedback from users on various aspects of a product or service. This form is intended to be a general-purpose tool for gathering information from a specific audience, likely customers or users. The purpose of this form is to gather feedback on audience engagement, satisfaction, and retention.
-To ensure that we don't collect redundant or irrelevant information, please ensure that you have a clear understanding of the target audience and the specific goals of the form.
-</thinking>
-
 # Information Gathering Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from users on their experiences, thoughts, and feelings about a product or service. It is intended to gather feedback on audience engagement, satisfaction, and retention.

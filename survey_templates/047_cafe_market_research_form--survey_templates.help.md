@@ -1,7 +1,3 @@
-<thinking>
-We're creating a form to gather insights from cafe-goers on their preferences and habits related to coffee shops. This form is designed to collect information on age, occupation, consumption habits, visit frequency, reasons for visiting, average spend, favorite coffee-based drinks, dietary requirements, loyalty app usage, ambiance preferences, current favorite local cafe, potential gaps in the market, interest in a new cafe, and additional insights or willingness to participate in a paid focus group.
-</thinking>
-
 # Cafe Market Research Form - Help Guide
 ## Purpose
 This form aims to gather feedback and opinions from cafe-goers in your area on various aspects of their habits and preferences regarding local coffee shops. The data collected will help identify the needs and wants of the target audience and guide businesses in tailoring their services to meet those demands.

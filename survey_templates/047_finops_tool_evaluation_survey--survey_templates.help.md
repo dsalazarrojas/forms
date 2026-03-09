@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback and opinions from users on their experience with the FinOps tool. The purpose of this form is to collect data on the usability, functionality, and overall satisfaction of the tool. This form is a crucial part of the development process, and the collected data will help in identifying areas for improvement and making data-driven decisions for future development and maintenance of the tool.
-
-The following guide explains each field in detail to ensure that users can fill out the form accurately and effectively.
-
-</thinking>
-
 # FinOps Tool Evaluation Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather feedback and opinions from users on their experience with the FinOps tool.

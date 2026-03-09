@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect feedback from trainees on the ethics and compliance training they have received. The form might be used by training administrators to evaluate the effectiveness of the training program, identify areas that need improvement, and make data-driven decisions for future training sessions. Before completing this form, ensure that you have participated in the training program and are providing feedback on your experiences. This form is not intended for general feedback, so please only answer the questions that pertain to your specific training experience. If you have any questions or concerns, please contact the training administrator.
-</thinking>
-
 # Ethics and Compliance Training Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from trainees on their experiences with the ethics and compliance training program.

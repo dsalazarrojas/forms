@@ -1,13 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a help guide that explains the purpose and usage of the Job Application Experience Questionnaire form. To ensure accuracy, I will follow the provided YAML field structure and use the explanations based on the form's metadata.
-
-To confirm, the form is for gathering job application experiences from users, and its purpose is to collect information about their previous work history. This form will be used to collect relevant data for future job applications or other purposes.
-
-Before filling out this form, please make sure you have not filled it out before. Duplicate entries can cause data inconsistencies and may lead to errors in the analysis or processing of your responses.
-
-Please follow the instructions carefully to complete the form correctly.
-
-</thinking>
-
 # Job Application Experience Questionnaire - Help Guide
 ## Purpose
 The Job Application Experience Questionnaire is designed to collect information about your previous work experiences. This form will help us gather details about your job titles, company names, job start and end dates, job types, job statuses, work environments, and job locations.

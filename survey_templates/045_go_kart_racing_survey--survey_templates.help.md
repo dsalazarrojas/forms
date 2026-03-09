@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Go Kart Racing Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from customers who have visited a kart racing facility. The goal is to gather information about their experience, satisfaction, and any suggestions they may have for improvement. This will help the facility to understand their strengths and weaknesses and make necessary adjustments to provide a better experience for future visitors.

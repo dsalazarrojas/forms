@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect and track kaizen improvements, which are suggestions for small, continuous improvements that can be made to a process or product. The form is used to gather information about the employee ID, suggestion type, category, impact, benefit, resources required, and status of the kaizen improvement. The purpose of this form is to facilitate the improvement process by providing a structured way for employees to submit their suggestions and track their status.
-</thinking>
-
 # Kaizen Improvement Report Form - Help Guide
 ## Purpose
 The Kaizen Improvement Report Form is used to collect and track suggestions for small, continuous improvements.

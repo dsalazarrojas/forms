@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from patients about their experience with a healthcare provider. This feedback will help the provider to improve their services and better understand the needs and expectations of their patients. The form is not intended to be used for any other purpose, and it's essential that you answer this form only if you have experience with the healthcare provider. 
-
-Please do not fill out this form if you are not a patient of the healthcare provider or if you have not received care from them. This will ensure that your feedback is accurate and relevant to the care you received. If you have already provided feedback through this form, you do not need to fill it out again.
-
-</thinking>
-
 # prophets - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from patients about their experience with a healthcare provider.

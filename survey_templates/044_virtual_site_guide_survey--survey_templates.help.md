@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather feedback from users about their experience with the Virtual Site Guide. It will help us identify areas of improvement and provide a better user experience for future users.
 
 To complete this form, follow the instructions below:

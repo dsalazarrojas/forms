@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to request a press comment from users. This form will allow users to enter their first name, last name, email, and phone number. They will also be asked to provide comments or feedback, select a date and time for a press conference, and submit the form. Note that this form does not require users to submit an error name as this field is not applicable in normal use cases.
 </thinking>
 

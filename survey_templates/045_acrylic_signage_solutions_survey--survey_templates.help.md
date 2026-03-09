@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about their experiences with acrylic signage solutions. The form is used to understand their satisfaction with the durability, aesthetic appeal, and overall quality of the signage products or services provided. The information collected will be used to improve the acrylic signage solutions offered by the company. This form should only be filled out once by each user, as subsequent submissions will not be accepted. Please fill out this form carefully and thoroughly.
-
-</thinking>
-
 # Acrylic Signage Solutions Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback about your experiences with our acrylic signage solutions. Your input will help us understand what we do well and where we can improve.

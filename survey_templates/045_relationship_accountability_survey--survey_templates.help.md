@@ -1,5 +1,3 @@
-<thinking>How can I provide a comprehensive help guide that explains the purpose and usage of the "relationship_accountability_survey" form?</thinking>
-
 # relationship_accountability_survey - Help Guide
 ## Purpose
 This form is designed to help you gauge the quality of your relationship by asking questions about your communication style, conflict resolution, and accountability. It will provide you with insights on how you can improve your relationship dynamics and strengthen your bond with your partner.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to evaluate the quality of public services provided. It captures feedback from end users on various aspects of these services, such as their experience with the service provider, their level of satisfaction with the service, areas for improvement, and overall rating of the service. It is essential to fill out this form thoroughly and honestly to provide valuable insights for service improvement. Please ensure that this form is filled out only once per service provider and only for the service that is being evaluated. If you have already filled out this form for the same service provider, do not fill it out again to avoid duplication of effort.
-</thinking>
-
 # Public Service Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the quality of public services provided to you. Your input will help us identify areas of improvement and make informed decisions to enhance the services we offer.

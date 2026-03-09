@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback on invoices from customers. The purpose of this form is to gather information on the transparency of invoices, including details about the invoice number, date, amount, payment method, payment frequency, type of feedback, email, phone number, and any additional comments. This form is intended to be completed by customers who have received an invoice and wish to provide feedback on their experience.
-
-To ensure consistency and accuracy, this form should only be completed once per invoice. If a customer has already completed this form for an invoice, they should not complete it again.
-
-This form is designed to be user-friendly and easy to navigate. Please follow the instructions below to complete it successfully.
-
-</thinking>
-
 # Invoice Transparency Feedback Form - Help Guide
 ## Purpose
 The Invoice Transparency Feedback Form is designed to collect feedback from customers on the transparency of invoices. This form helps us understand how well our customers understand their invoices and identify areas for improvement.

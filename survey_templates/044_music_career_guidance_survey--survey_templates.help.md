@@ -1,13 +1,3 @@
-<thinking>
-This help guide is being designed to provide clarity and support to end-users who are filling out the "Music Career Guidance Survey" form. The goal is to ensure that users understand the purpose of the form, how to complete it, and what each field represents, making the process easier and less prone to errors.
-
-The form is meant to collect information about users' musical background and career goals. Each field is designed to gather specific details that will help users receive guidance on their music career path. 
-
-To complete this form, users will need to provide their First name, Last name, Email, instrument of choice, music style, music education, career goals, and age. Some fields are optional, allowing users to provide their preferred information.
-
-The main goal of this form is to provide users with tailored advice on their music career path, helping them make informed decisions about their future in the music industry.
-</thinking>
-
 # Music Career Guidance Survey - Help Guide
 ## Purpose
 The Music Career Guidance Survey is designed to gather information about your musical background and career goals to provide you with personalized guidance on your music career path. This survey will help you make informed decisions about your future in the music industry.

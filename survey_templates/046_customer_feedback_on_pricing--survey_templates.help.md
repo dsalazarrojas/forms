@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used to collect customer feedback on pricing strategies and product offerings. The form is designed to gather information on various aspects of customer perception and experience with a product or service. The fields in this form are used to collect feedback on price perception, value for money, pricing clarity, price sensitivity, customer experience, and other related aspects. This form may be used by businesses or organizations to gather insights into customer satisfaction and inform pricing decisions.
-
-To ensure this form is being used effectively, it's essential that users understand each field's purpose and how to fill it out correctly. This guide will walk users through the form's structure and explain each field in simple terms.
-</thinking>
-
 # Customer Feedback On Pricing - Help Guide
 ## Purpose
 This form collects customer feedback on pricing strategies and product offerings.

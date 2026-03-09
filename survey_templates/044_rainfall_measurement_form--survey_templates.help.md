@@ -1,7 +1,3 @@
-<thinking>
-The Rainfall Measurement Form is intended to collect data on rainfall measurements from various locations. This form is likely used by meteorologists, researchers, or weather enthusiasts to gather information on precipitation levels and patterns. To confirm, the purpose of this form is to collect data on rainfall measurements to aid in the understanding of weather patterns and help with weather-related tasks, such as forecasting, tracking, and monitoring. This form will be used for data collection and analysis. Please ensure that you are using this form correctly and that the data you enter is accurate and consistent. If you are unsure about any aspect of the form, please reach out to the form administrator.
-</thinking>
-
 # Rainfall Measurement Form - Help Guide
 
 ## Purpose

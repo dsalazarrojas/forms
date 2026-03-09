@@ -1,19 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, let's examine its structure and content. This form has several pages with various fields, including select-one and select-multiple options, text inputs, and free-form text fields. The fields are generally related to facilities cleaning services, with some fields indicating a level of satisfaction or quality, while others ask for comments or improvement areas. 
-
-The purpose of this form appears to be to gather feedback on the quality and satisfaction of facilities cleaning services. It seems to be used to benchmark or evaluate the effectiveness of these services.
-
-To ensure that this form is completed accurately and effectively, it's essential to review each field and its corresponding label to provide clear guidance on how to complete it. 
-
-The form does not have a clear "submit" or "next" button. It is likely that the user will need to navigate through the pages manually or by using a provided navigation.
-
-Given that some fields are marked as "required: false," users may choose to fill them in or not. This could lead to inconsistent data if not all fields are filled, which might impact the form's purpose and the quality of the collected data.
-
-To address these concerns, clear explanations and guidance for each field will be provided to ensure that users understand the importance of completing each section and the potential impact on the overall survey's purpose and quality.
-
-</thinking>
-
 # Facility Cleaning Service Benchmark Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the quality and satisfaction of facilities cleaning services. The collected data will help evaluate and improve these services.

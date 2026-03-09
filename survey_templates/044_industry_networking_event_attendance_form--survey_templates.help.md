@@ -1,12 +1,3 @@
-<thinking>
-This form is used to gather information from attendees of an industry networking event. The purpose of this form is to capture the details of the event, such as the title, participant information, networking opportunities, attendance confirmation, follow-up information, event host, and organization. This form is designed to be completed by attendees of the event, and the information gathered will be used to follow up with participants after the event.
-
-It is essential to complete this form accurately and thoroughly to ensure that the event organizers can effectively follow up with you and provide you with relevant information and resources. Please note that this form is designed to be completed by attendees, and the information collected will be treated as confidential.
-
-Before starting, please ensure that you have completed this form for the relevant event and not as a duplicate.
-
-</thinking>
-
 # Industry Networking Event Attendance Form - Help Guide
 ## Purpose
 The Industry Networking Event Attendance Form is designed to gather information from attendees of an industry networking event. This form helps event organizers to understand your interests, preferences, and expectations, and allows them to follow up with you after the event.

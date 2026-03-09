@@ -1,5 +1,3 @@
-<thinking>Before we begin with the help guide, let's briefly discuss the form's purpose. The "workplace_productivity_assessment_form" is designed to assess employee productivity in the workplace. It is intended to help managers and HR personnel evaluate an employee's performance, providing a comprehensive assessment of their work habits and productivity. The form is crucial for identifying areas of improvement and providing feedback to employees. To ensure you understand the form's purpose and relevance, please review the following guide.</thinking>
-
 # workplace_productivity_assessment_form - Help Guide
 ## Purpose
 The "workplace_productivity_assessment_form" is a tool used by managers and HR personnel to assess employee productivity. It helps evaluate an employee's performance, providing valuable insights into their work habits, strengths, and areas of improvement.

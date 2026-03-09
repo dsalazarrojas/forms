@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an individual's online social networking habits and preferences. It appears to be a survey designed to collect data on various aspects of online activities, such as social media platforms used, online shopping frequency, and time spent online. This form may be used for research or marketing purposes, but without further context, it's hard to determine its exact use case. It's essential to review the form carefully to ensure that the questions are clear and the responses are accurate. It's also a good idea to review the form's purpose and potential consequences of sharing the collected data.
-</thinking>
-
 # Online Social Networking Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about your online habits and preferences.

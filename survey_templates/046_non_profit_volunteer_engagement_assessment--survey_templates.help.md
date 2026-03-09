@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Non Profit Volunteer Engagement Assessment - Help Guide
 
 ## Purpose

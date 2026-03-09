@@ -1,5 +1,3 @@
-<thinking>As a neutral AI, I'll do my best to provide a clear and concise explanation of the form purpose and its fields, without assuming any internal business logic or proprietary information. This form appears to be a survey designed to gather feedback and opinions about a specific brand, likely for market research or customer satisfaction purposes. The form asks about the respondent's familiarity and relationship with the brand, their perception of the brand's quality, innovation, and customer service, as well as their overall experience and likelihood of recommendation.</thinking>
-
 # Brand Attributes Survey - Help Guide
 
 ## Purpose

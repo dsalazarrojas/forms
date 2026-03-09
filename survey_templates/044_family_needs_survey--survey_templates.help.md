@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect data about a family's needs and resources, specifically regarding their household income, expenses, and assets. The goal is to gather information that can be used to understand the current state of the household and provide assistance or guidance accordingly.
-This form should only be used for families who need help with their basic needs, such as food, shelter, medical care, and other essential services.
-The form should not be used for families who already have a stable income and resources.
-</thinking>
 # Family Needs Survey - Help Guide
 ## Purpose
 The Family Needs Survey is a tool designed to collect data about a family's needs and resources. This information will be used to determine the level of assistance or guidance required to support the family's well-being.

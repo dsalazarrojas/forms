@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect personal finance information from individuals or families to better understand their financial situation, habits, and preferences. The information collected will help us provide more accurate and relevant financial guidance and support. Please ensure you have the necessary permissions to complete this form on behalf of others. If you are unsure or have any questions, please contact our support team.
-
-</thinking>
-
 # Personal Finance Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your personal financial situation, including your income, employment status, and savings habits. The purpose of this form is to help us provide you with personalized financial guidance and support.

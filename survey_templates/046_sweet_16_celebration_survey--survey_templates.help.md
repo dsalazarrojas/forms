@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information for a Sweet 16 Celebration, which is a significant event in a person's life, typically a birthday or anniversary party. The form is intended to gather essential details from the party host or guests to ensure a successful and enjoyable celebration.
 
 The following fields are part of this form:

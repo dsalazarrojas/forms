@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information about a workshop's accessibility features and participant allergies for the purpose of accommodating participants with disabilities and ensuring a safe and inclusive environment. This form will help the workshop organizers and facilitators to better understand the needs of their participants and make necessary arrangements to provide a comfortable and enjoyable experience for all attendees. 
-Please note that this form has multiple pages and fields, so please review each field carefully to ensure you provide the required information. This form will not be duplicated in the system, so you can fill it out multiple times without worrying about data redundancy. 
-</thinking>
-
 # Workshop Accessibility And Allergy Survey - Help Guide
 ## Purpose
 The Workshop Accessibility And Allergy Survey is designed to gather information about a workshop's accessibility features and participant allergies to ensure a comfortable and enjoyable experience for all attendees.

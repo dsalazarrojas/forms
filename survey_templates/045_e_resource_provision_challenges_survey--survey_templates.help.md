@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # E Resource Provision Challenges Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback and information from library professionals about the challenges they face when providing resources to their users. This includes understanding the pain points they experience, their priorities for improvement, and potential access barriers they encounter. The survey is used by E-Resource Provision to better serve and support these professionals and their users.

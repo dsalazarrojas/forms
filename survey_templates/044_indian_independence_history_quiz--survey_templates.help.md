@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to create a quiz on Indian Independence History. The form is likely used in educational settings, such as schools, to test students' knowledge on the subject. Before proceeding, ensure that you have a clear understanding of the form's purpose and the expected outcome. This will help you fill out the form accurately and ensure that you don't end up filling out a form that is not relevant to your needs.
-</thinking>
-
 # Indian Independence History Quiz - Help Guide
 ## Purpose
 This form is designed to create a quiz on Indian Independence History, allowing you to test your knowledge on the subject. It is intended to be used in educational settings such as schools.

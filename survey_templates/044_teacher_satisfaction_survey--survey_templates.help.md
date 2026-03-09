@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the teacher_satisfaction_survey form. The form is used to gather feedback from teachers on their satisfaction with the course or educational program. The form is typically used by administrators or program coordinators to assess the effectiveness of the program and identify areas for improvement. The form is usually filled out by teachers after completing a lesson or program.
-
-Before proceeding, please ensure that this is the correct form for your specific use case. If you are unsure, please review the form purpose and content to ensure it aligns with your needs.
-
-Note that this guide is provided as a general help resource and might not cover specific business logic or requirements not present in the provided form YAML.
-
-</thinking>
-
 # teacher_satisfaction_survey - Help Guide
 ## Purpose
 The teacher_satisfaction_survey form is used to collect feedback from teachers on their satisfaction with the course or educational program. It's intended to gather valuable information to improve the program and enhance the teaching experience.

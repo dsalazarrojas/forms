@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the organic products forecasted for farming. This form is likely used by farming or agriculture-related teams to collect data on organic products, such as their type, quantity, and distribution frequency. The form is probably used to track and analyze the production and distribution of organic products, which is an essential part of sustainable agriculture. Before proceeding, ensure that you are completing this form for the correct purpose and do not duplicate your efforts by filling out this form if the information is already available in your existing records.</thinking>
-
 # Organic Product Forecasting Form - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking> 
-The form "post_occupancy_evaluation_survey" is likely used to evaluate the satisfaction and comfort level of occupants in a building or space after a certain period of time, typically at the end of a construction project or after a space has undergone renovations. This survey aims to gauge the occupants' feelings and opinions on various aspects of the building, such as comfort, functionality, and overall satisfaction. To ensure the survey provides actionable insights, it's essential to gather input from all occupants who have spent time in the space, and it's crucial to avoid duplication of input from the same respondent. Therefore, please complete the form honestly and only once if you are a valid respondent.</thinking> 
-
 # post_occupancy_evaluation_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from occupants on their experience in the building or space after a certain period of time. Your input will help us understand how well the space meets your needs and expectations.

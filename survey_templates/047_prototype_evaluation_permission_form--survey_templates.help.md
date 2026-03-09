@@ -1,7 +1,3 @@
-<thinking>
-The form "prototype_evaluation_permission_form" is designed to collect information from participants to evaluate their interest in participating in a prototype evaluation. This form is intended to assess whether the participant has the necessary information to provide a fair and informed evaluation. The purpose of this form is to ensure that participants understand the scope and goals of the prototype and are willing to provide their honest evaluation. This form is not intended to be used for collecting personal data or sensitive information.
-</thinking>
-
 # prototype_evaluation_permission_form - Help Guide
 ## Purpose
 This form is designed to collect information from participants to evaluate their interest in participating in a prototype evaluation.

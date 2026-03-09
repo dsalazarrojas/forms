@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be used for researchers to submit their study proposals for approval. It is a crucial step in the research approval process, and the information collected through this form will be used to evaluate and review the proposal. The form is a critical component of the research approval workflow, and it is essential to provide accurate and complete information to ensure a smooth review process.
-
-To avoid any duplication, please make sure to submit a new proposal if the research study has been previously submitted.
-
-</thinking>
-
 # research_study_approval_form - Help Guide
 ## Purpose
 The research study approval form is used for researchers to submit their study proposals for approval. The form captures essential information about the proposal, including study details, institution, funding, and review status.

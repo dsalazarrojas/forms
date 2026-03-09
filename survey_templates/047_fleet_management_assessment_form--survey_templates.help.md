@@ -1,13 +1,3 @@
-<thinking>Internal reasoning block:
-
-The Fleet Management Assessment Form is used to evaluate various aspects of fleet management, including vehicle performance, maintenance frequency, driver efficiency, and performance. This form is likely used by fleet managers, maintenance coordinators, or other personnel responsible for assessing and improving the fleet's overall management.
-
-This form is not designed to be a general purpose vehicle maintenance tracker, but rather a specific assessment tool aimed at evaluating various aspects of fleet management. Its fields are likely intended to be answered by someone with domain knowledge or experience in fleet management.
-
-Please note that the fields are mostly related to numerical values (e.g. Vehicle Maintenance 1-15), which suggests that they might be used for tracking and recording specific maintenance schedules or frequencies.
-
-</thinking>
-
 # Fleet Management Assessment Form - Help Guide
 ## Purpose
 The Fleet Management Assessment Form is used to evaluate various aspects of fleet management, including vehicle performance, maintenance frequency, driver efficiency, and performance.

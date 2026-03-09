@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the Landlord Survey form. The purpose of this form is to collect relevant information from landlords, which will be used to improve our services and ensure that we better understand their needs. Before proceeding, please ensure that you are a landlord and that you have not already completed this form. If you have any doubts, please contact our support team for assistance.
-</thinking>
-
 # Landlord Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information from landlords to help us better understand their needs and preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to express their preferences for fabric colors, textures, and weaves. The purpose of this form is to collect user feedback on their favorite fabric colors, textures, and weaves, which can be used to inform product development and design decisions. 
-</thinking>
-
 # Fabric Color Poll - Help Guide
 ## Purpose
 This form is intended to collect user preferences for fabric colors, textures, and weaves to inform product development and design decisions.

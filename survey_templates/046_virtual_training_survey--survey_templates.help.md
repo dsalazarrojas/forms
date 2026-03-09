@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is designed to be used for a virtual training session survey, allowing learners to provide feedback, suggestions, and input on the training content and experience. This form will gather information on the title of the virtual training session, input in tables or text fields, email and phone number input, date and time of completion, and notes for future reference. The form does not require any fields to be filled, making it optional for learners to provide as much or as little information as they see fit... </thinking>
-
 # Virtual Training Survey - Help Guide
 ## Purpose
 The Virtual Training Survey form is designed to gather feedback and input from learners on the virtual training session. This form allows you to understand what learners thought of the training content, experience, and any suggestions they may have.

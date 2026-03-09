@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees on their current workload, stress levels, and overall job satisfaction. This form will help managers and team leads understand the current workload capacity and stress levels of their team members. The form will also provide an opportunity for team members to provide feedback and comments on their workload, manager support, and team support. The information collected will help in identifying areas that require improvement and support to maintain a healthy work-life balance and ensure efficient workload management.
-</thinking>
-
 # Employee Workload Check In Survey - Help Guide
 ## Purpose
 The "Employee Workload Check In Survey" is a tool for employees to report their current workload and stress levels, as well as provide feedback on manager and team support. This information will help managers and team leads to identify areas that require improvement and provide necessary support to maintain a healthy work-life balance.

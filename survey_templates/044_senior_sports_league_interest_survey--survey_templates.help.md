@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **senior_sports_league_interest_survey - Help Guide**
 
 ## Purpose

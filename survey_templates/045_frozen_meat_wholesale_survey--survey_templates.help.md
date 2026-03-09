@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used as a survey for the frozen meat wholesale business. The purpose of this form is to collect information from buyers about their experience with the frozen meat wholesale business. The form is likely to be used to gather data on buyer feedback, supplier satisfaction, and other purchasing priorities.
-
-This form is relevant as it is a survey designed to collect information about buyers' experiences and preferences. It is not a form for internal use, but rather for external users to provide feedback and information.
-
-This form does not duplicate any other existing form in the business.
-
-</thinking>
-
 # Frozen Meat Wholesale Survey - Help Guide
 ## Purpose
 This form is designed to collect information from buyers about their experience with the frozen meat wholesale business.

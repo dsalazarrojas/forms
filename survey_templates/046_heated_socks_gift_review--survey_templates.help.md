@@ -1,7 +1,3 @@
-<thinking>
-The Heated Socks Gift Review form is designed to collect feedback from users after they have received a heated sock gift. This form is likely used by an online store or e-commerce platform to gather insights into their products and customer satisfaction. To ensure relevance and non-duplication, this help guide will only cover the specific fields present in this form.
-</thinking>
-
 # Heated Socks Gift Review - Help Guide
 ## Purpose
 This form is used to collect feedback about a heated socks gift. Your input will help us understand your satisfaction with the gift and provide suggestions for future product improvements.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect demographic information and preferences from social club members for the presidential election. This includes collecting first and last names, email and phone numbers, age, date of birth, time of day, any additional notes, and preferences for favorite colors and positions held within the club. The purpose is to gather data for the election process and to better understand the club members. The form is not intended to be a comprehensive registration or login form. The fields included are a mix of required and optional fields.
-</thinking>
-
 # Social Club Presidential Election Voting Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from respondents about their preferred method of receiving appointment reminders. The purpose of this form is to collect data on respondents' preferences for appointment reminders, including their preferred communication method, frequency, and timing. This information will help the organization better understand the needs and expectations of its clients and provide more effective services.
-</thinking>
-
 # Appointment Reminder Method Poll - Help Guide
 ## Purpose
 

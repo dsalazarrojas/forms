@@ -1,5 +1,3 @@
-<thinking>**This form is intended for users to report their skin care habits and preferences, providing insights into their treatment frequency and satisfaction levels. This information will help us understand the repeat frequency and preferences of our customers regarding skin care treatments. The form will not be duplicated or repeated for a single user. If a user has already completed this form, they will not be able to submit it again.**</thinking>
-
 # Skincare Treatment Repeat Frequency Survey - Help Guide
 
 ## Purpose

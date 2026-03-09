@@ -66,18 +66,6 @@ To complete this form, follow these steps:
 * Review and edit your responses to ensure that they are accurate and complete.
 * This form is designed to guide you in creating a strong value proposition. Don't hesitate to reach out if you need further assistance.
 
-<thinking>
-This form was created to help users create a strong value proposition, which is a clear and specific statement that highlights the benefits and value that a product or service provides to its customers. 
-To determine if this form is relevant for you, please consider the following:
-* If you are looking to create a value proposition for your company, product, or service, this form may be helpful.
-* If you are not looking to create a value proposition, this form may not be necessary.
-* This form is not a substitute for professional consulting services. If you need guidance on creating a value proposition, consider consulting with a professional.
-
-To avoid duplication of effort, please review the following:
-* If you have already created a value proposition, this form may not be necessary for you.
-* If you have created a value proposition in the past and are looking to update or revise it, this form may still be helpful.
-</thinking>
-
 # AI-Generated Form - Help Guide
 ## Purpose
 ## How To Complete This Form

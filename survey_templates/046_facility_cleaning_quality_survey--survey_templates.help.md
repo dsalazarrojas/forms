@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-The purpose of this form is to gather feedback on the quality of facility cleaning from various areas and overall perspectives. It is designed to be completed by staff or inspectors to rate the cleanliness of specific areas such as bathrooms, kitchen, hallways and corridors, common areas, and overall facility cleaning quality.
+> The purpose of this form is to gather feedback on the quality of facility cleaning from various areas and overall perspectives. It is designed to be completed by staff or inspectors to rate the cleanliness of specific areas such as bathrooms, kitchen, hallways and corridors, common areas, and overall facility cleaning quality.
 
 This form is meant to be used to track progress and identify areas that require improvement. The ratings are numerical, with 1 being the lowest and 5 being the highest.
 

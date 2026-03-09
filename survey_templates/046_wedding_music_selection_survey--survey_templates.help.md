@@ -1,9 +1,4 @@
-> <thinking>
-This form is designed to collect information about the user's preferences and choices for the music selection at different parts of a wedding event, including the first dance, second dance, third dance, special dances, father-daughter dance, mother-son dance, and wedding party. This form is meant to gather input from the user to create a comprehensive music playlist for the wedding event. The form is not affiliated with any form platform and is an original adaptation of public survey topic metadata.
-
-</thinking>
-
-# Wedding Music Selection Survey - Help Guide
+> # Wedding Music Selection Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your preferences and choices for the music selection at different parts of a wedding event.
 

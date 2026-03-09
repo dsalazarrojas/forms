@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to gather feedback from language school students about their experience with the course, which will be used to improve the course content, teaching methods, and overall student experience. This form is meant to collect opinions on the course content, quality of instruction, facilities, and overall satisfaction.
-The form consists of multiple pages, each with its own set of questions. To complete the form, users should first select the page they want to access by scrolling through the pages listed at the top of the form. Each page will have its own unique questions.
-For this form, the questions are mostly optional, but providing feedback is essential to help us improve our services.
-
-</thinking>
-
 # Language School Student Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect your feedback about the course you took at the language school. Your input will help us improve the course content, instruction, and overall student experience.

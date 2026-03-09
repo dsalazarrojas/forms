@@ -1,9 +1,3 @@
-<thinking>This form is intended to collect information about the research activities and impact of faculty members within a university. The purpose of this form is to gather data that will help assess the research impact of individual faculty members. This data will be used to evaluate the overall research impact of the university as a whole.
-
-It is crucial to ensure that each faculty member only submits the information for their own department, and that the submissions are not duplicated. If you are unsure about which department to submit for, please reach out to your supervisor or department head for clarification.
-
-Before completing this form, please review the following fields and ensure that your submission meets the requirements. If you have any questions or concerns, do not hesitate to contact us for assistance.</thinking>
-
 # University Faculty Research Impact Assessment - Help Guide
 ## Purpose
 This form is used to collect information about the research activities and impact of faculty members within a university. The data collected will be used to evaluate the overall research impact of the university.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be a comprehensive tool for users to share their birthday preferences, traditions, and experiences. The goal is to gather information on how individuals like to celebrate their birthday, what kind of celebrations they enjoy, and how they would like to be celebrated. This data will help us better understand our customers' needs and improve our services.
-
-This form will not ask for the same information twice. It is recommended to read through the form carefully before starting, and filling out the required fields first.
-
-</thinking>
-
 # Birthday Survey - Help Guide
 ## Purpose
 This form is designed to help us understand your birthday preferences, traditions, and experiences. Please take a few minutes to answer the questions honestly, and we'll use the information to improve our services.

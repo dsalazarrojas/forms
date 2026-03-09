@@ -1,7 +1,3 @@
-<thinking>
-A form like this could be used by a gym for understanding customer feedback and preferences, ensuring that they're offering services that meet their users' needs. This form could be used to gather information on users' overall experience, preferred social media channels, comments, and other relevant details. This form should be used to prevent duplication of effort and ensure that the same questions are asked each time, providing consistent and reliable data for analysis.
-</thinking>
-
 # Gym Survey Form - Help Guide
 ## Purpose
 This form is used to collect feedback and preferences from gym users, helping the gym to understand their overall experience, social media preferences, and other relevant details.

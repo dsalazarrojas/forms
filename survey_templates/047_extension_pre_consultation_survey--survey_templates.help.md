@@ -1,7 +1,3 @@
-<thinking>
-We are designing a form for the Extension Pre Consultation Survey. This form aims to gather essential information from users about their projects, which will help architects in providing valuable insights and recommendations during the pre-consultation process. Please ensure that the form is completed accurately to ensure that all relevant information is captured.
-</thinking>
-
 # Extension Pre Consultation Survey - Help Guide
 ## Purpose
 The Extension Pre Consultation Survey is designed to gather project-related information from users to facilitate a productive pre-consultation process with architects. It helps architects understand project goals, budget, scheduling preferences, and other key aspects, enabling them to provide more informed guidance.

@@ -1,32 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their weight loss goals and progress. It is intended to be used by individuals who are currently trying to lose weight or have lost weight in the past. The form will help users understand their current weight loss status, track their progress, and set realistic goals for the future.
-
-To determine the form's purpose and relevance to the user's needs, the following questions will be asked:
-
-* What is your age?
-* Do you have a medical condition that may affect your weight loss progress (e.g. diabetes, hypertension)?
-* What is your current height and weight?
-* What is your blood pressure and heart rate?
-* Do you take any medication that may impact your weight loss?
-* What is your physical activity level?
-* What type of diet do you follow?
-* What is your body mass index (BMI)?
-* Do you have a weight loss plan or goal?
-* When do you plan to start your weight loss journey?
-* How long have you been trying to lose weight?
-* What method(s) have you used to lose weight in the past?
-* Why do you want to lose weight?
-* How much weight have you lost in the past year?
-* How much weight do you expect to lose in the next year?
-* How much weight do you expect to lose in the next 2 years?
-* How much weight do you expect to lose in the next 5 years?
-* What is your goal weight?
-
-This form will help users understand their current weight loss status, track their progress, and set realistic goals for the future.
-
-Please note that some of the fields may not be directly relevant to your specific situation, and you may be able to answer some of them without providing any input. However, please answer all the questions to the best of your ability, as this will help you to get the most accurate picture of your current status and progress.
-</thinking>
-
 # Weight Loss Survey - Help Guide
 ## Purpose
 This form is designed to collect information from users about their weight loss goals and progress. It will help users track their current status, understand their progress, and set realistic goals for the future.

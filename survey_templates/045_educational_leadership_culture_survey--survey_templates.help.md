@@ -1,12 +1,3 @@
-<thinking>
-This form is used to assess the educational leadership culture within a school or district. The purpose of this form is to gather feedback and opinions from teachers, staff, parents, and other stakeholders on the leadership style and support provided by educational institutions. The survey aims to understand the level of support and leadership provided to teachers, parents, and staff, as well as the overall culture and climate of the institution.
-
-This form is designed to be completed by individuals who have direct experience with the educational institution, such as teachers, staff, and parents. It is not intended for completion by students or other external individuals.
-
-Please note that some questions are optional and do not require a response. However, providing as much information as possible will help in getting a comprehensive understanding of the institution's leadership culture.
-
-</thinking>
-
 # Educational Leadership Culture Survey - Help Guide
 ## Purpose
 The Educational Leadership Culture Survey is designed to assess the leadership culture within a school or district.

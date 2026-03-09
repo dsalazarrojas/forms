@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information about a partner organization's details. The purpose of this form is to gather essential data such as the partner organization's name, name of partnership, partnership type, start and end dates, reasons for ending a partnership, contact person's details, and organizational details. This information will be used to create a comprehensive dataset for future reference and analysis. 
-
-Please note that the form is not intended to be a comprehensive database for all partner organizations but rather a collection of information for the specific purpose of this project/initiative. 
-
-It's essential to ensure that the form is filled out correctly and accurately to avoid any duplication or inconsistencies in the data collected.
-</thinking>
-
 # partner_organization_form - Help Guide
 ## Purpose
 The partner_organization_form is designed to collect essential details about a partner organization's relationship with our organization.

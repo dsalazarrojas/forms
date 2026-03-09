@@ -1,7 +1,3 @@
-<thinking>
-This form is a product survey that collects information from customers about their interactions with a product. It is used to gather feedback and data about customer experiences, preferences, and behaviors. The form has 25 fields across 2 pages, with some fields required and others optional. Please note that this form is designed to collect detailed information from customers, so it is recommended to fill it out only if you have a clear understanding of the information being asked.
-</thinking>
-
 # Product Survey 13 18 - Help Guide
 ## Purpose
 This form is designed to collect information from customers about their interactions with a product, allowing us to gather feedback and data on customer experiences, preferences, and behaviors.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect information from guests staying at a vacation home. The purpose of this form is to gather feedback, comments, and other relevant details from the guests to improve the vacation home's services. 
-
-To determine if this form is relevant to the user, it is assumed that the guest is about to check out from a vacation home that they have rented. Therefore, it is expected that the user is familiar with the concept of vacation homes and the need for guest feedback. 
-
-To prevent duplication of effort, it is expected that the user has already interacted with the vacation home's staff and is now providing additional comments or feedback.
-
-</thinking>
-
 # Vacation Home Guest Check Out Form - Help Guide
 ## Purpose
 This form is used to collect feedback, comments, and other relevant details from guests staying at the vacation home. It helps us improve our services and ensure that you have a great experience.

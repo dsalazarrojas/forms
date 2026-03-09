@@ -1,11 +1,3 @@
-<thinking>Internal reasoning block to ensure this form is being used correctly and not duplicated.
-
-This form is designed to collect feedback from patients about their cardiac treatment experience. It should only be used for patients who have received cardiac treatment in the facility. If a patient has not received cardiac treatment, they should not be given this form.
-
-Please ensure that this form is not duplicated or used for any other purpose other than as intended.
-
-</thinking>
-
 # Cardiac Treatment Feedback Form - Help Guide
 ## Purpose
 This form is used to gather feedback from patients about their experience with cardiac treatment in the facility. It helps identify areas of improvement and ensures that the care provided is of high quality.

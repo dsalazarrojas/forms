@@ -1,7 +1,3 @@
-<thinking>
-This is a form for collecting student technology needs, likely as part of a larger effort to assess the technology infrastructure and requirements of a student body. The form is designed to gather demographic information (student ID, name, email, phone) and self-reported technology needs and preferences. To use this form, ensure you have the necessary permissions and consents in place to collect and store student data. Duplicate submissions may occur if students can access the form multiple times. Please use this guide to help students complete the form correctly.
-</thinking>
-
 # Student Technology Needs Survey - Help Guide
 ## Purpose
 This form is designed to collect demographic information and self-reported technology needs and preferences from students. It is intended to help the student body and technology administrators better understand their technology requirements and infrastructure needs.

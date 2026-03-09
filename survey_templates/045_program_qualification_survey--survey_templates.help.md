@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants about their qualifications and readiness for a program. The purpose of this form is to gather relevant details about the applicant's background, training, and experience in relation to the program. This form is intended for internal use by program administrators or admission officers to assess the applicant's qualifications and make informed decisions about their admission to the program. Please note that this form is not a substitute for the actual application process, and applicants must also submit a formal application and other required documents to be considered for admission.
-
-Before filling out this form, please ensure that you have read and understood the program's requirements and criteria. This form is not meant to be a lengthy or comprehensive survey, but rather a brief assessment of your qualifications. If you have any questions or concerns, please contact us at form@gic.mx.
-</thinking>
-
 # Program Qualification Survey - Help Guide
 ## Purpose
 This form is designed to collect relevant details about your background, training, and experience in relation to the program.

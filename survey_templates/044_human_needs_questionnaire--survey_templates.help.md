@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Human Needs Questionnaire is to help individuals identify and understand their basic psychological needs. This form is a tool used to evaluate and prioritize personal needs, which are fundamental to well-being and overall happiness. By assessing these needs, users can gain insight into their personal preferences and make informed decisions about their lives.
-</thinking>
-
 # Human Needs Questionnaire - Help Guide
 ## Purpose
 The Human Needs Questionnaire is a tool designed to help individuals understand their basic psychological needs. It assesses the level of importance each of 14 basic needs categories has in a person's life. Each category represents a fundamental aspect of human experience, including social, emotional, physical, and personal growth needs.

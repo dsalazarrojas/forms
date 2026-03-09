@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's ensure this form is relevant to the intended use case. The Aging Self Assessment Survey appears to be designed to gather information about an individual's physical and mental well-being, as well as their ability to perform daily activities. This form might be used in a healthcare or social services setting to assess the needs and challenges of older adults. If this is not the intended use case, please let me know, and I'll adjust the guidance accordingly. Also, double-check that the form's fields are not duplicated or unnecessary.</thinking>
-
 # Aging Self Assessment Survey - Help Guide
 ## Purpose
 This form is designed to help us understand your physical and mental well-being, as well as your ability to perform daily activities. It will ask you about your health, daily routines, and technology use. Your input will help us provide better support and services for older adults like you.

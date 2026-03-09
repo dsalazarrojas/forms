@@ -1,13 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "theater_viewing_experience_feedback_poll" form, we need to understand its purpose and the fields it contains. The form is intended to collect feedback from users about their experience at a theater, covering various aspects such as overall experience, seat comfort, sound quality, staff friendliness, and other related information. This form is likely designed to gather data for improvement and evaluation purposes.
-
-Given the form's structure, it appears to be a multi-page form with a mix of text, select multiple, select one, date, time, email, phone, and text fields. The fields are designed to capture specific details about the user's experience, such as their overall experience, seat comfort, sound quality, staff friendliness, and additional comments or feedback.
-
-Before proceeding with the help guide, let's review the fields and their corresponding labels to ensure we cover all aspects of the form.
-
-</thinking>
-
 # theater_viewing_experience_feedback_poll - Help Guide
 ## Purpose
 

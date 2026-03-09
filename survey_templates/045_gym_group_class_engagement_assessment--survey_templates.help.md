@@ -1,5 +1,3 @@
-<thinking>...thinking>...</thinking>
-
 # Gym Group Class Engagement Assessment - Help Guide
 ## Purpose
 The Gym Group Class Engagement Assessment form is designed to gather information about the engagement level of a group class in a gym. The form is used to track and analyze the progress, feedback, and performance of each class.

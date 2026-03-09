@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from yoga class attendees about their recent class experience. This form is designed to be completed by the person who attended the class and is meant to be used for assessment and improvement purposes. Please make sure that you only fill out this form once per class to ensure accurate and relevant feedback. Your responses will be kept confidential and anonymous.
-</thinking>
-
 # Yoga Class Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from yoga class attendees about their recent class experience.

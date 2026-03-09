@@ -1,9 +1,3 @@
-<thinking>
-This form was created by AI using only public survey topic metadata as inspiration. It is intended to be a survey about study time preferences, aiming to gather information on how individuals allocate their time for studying. This form does not collect any sensitive or personally identifiable information and does not require any registration or authentication. Users can fill out the form anonymously.
-
-Please note that the form is a general survey and its purpose is not to diagnose or treat any condition.
-
-</thinking>
 # Study Time Preferences Survey - Help Guide
 ## Purpose
 This form is designed to help researchers and educators understand how individuals allocate their time for studying. It will ask you about your study habits, preferred study environments, tools, and social media use.

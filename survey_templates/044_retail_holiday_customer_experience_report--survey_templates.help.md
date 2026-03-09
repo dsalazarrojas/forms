@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect feedback from customers about their experience at a retail store. The form is divided into multiple pages, each with a specific focus. The purpose of this form is to gather information about customers' opinions on various aspects of their visit, such as store location, staff interaction, product availability, and overall experience. This form will help the store management to identify areas of improvement and provide better services to their customers.
-
-</thinking>
-
 # Retail Holiday Customer Experience Report - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers about their experience at a retail store. This feedback will help the store management to identify areas of improvement and provide better services to their customers.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about the government store management. The fields are designed to help store managers provide feedback about their store's performance, operations, and challenges. To ensure that the form is completed accurately and consistently, please follow the guide below.
-</thinking>
-
 # Government Store Management Survey - Help Guide
 ## Purpose
 

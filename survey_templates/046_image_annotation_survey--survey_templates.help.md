@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the "image_annotation_survey" form is to collect information from users for the purpose of annotating images. This form is likely used in a research or data collection setting where images are being labeled or annotated for various tasks such as classification, identification, object detection, or segmentation. The form is designed to guide the user through the annotation process, ensuring consistency and accuracy in the collected data.
-
-Before filling out this form, please ensure that you have a valid image uploaded or a URL to a publicly accessible image to be annotated. Also, make sure to review the terms and conditions of the annotation task, as you will be asked to indicate your consent to agree or disagree with them.
-
-The following sections will guide you through the completion of the form. Please read each section carefully to ensure you understand the required information and the expected outcome.</thinking>
-
 # image_annotation_survey - Help Guide
 ## Purpose
 The "image_annotation_survey" form is a tool for annotating images and collecting metadata for research or data collection purposes.

@@ -1,7 +1,3 @@
-<thinking>
-We are trying to capture information from users about their experiences with fare changes. This form will gather data about the user's perception of fare changes and their effectiveness in communicating those changes. We want to ensure that we have a clear understanding of the impact of our fare increase communication and the reasons behind it. This form should be filled out for every fare change to provide a complete picture.
-</thinking>
-
 # Transportation Fare Change Feedback Report Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about changes in transportation fares. It helps us understand how effectively we communicated fare changes and the reasons behind them. Your input will help us improve our processes and communication.

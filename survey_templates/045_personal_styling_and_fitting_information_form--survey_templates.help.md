@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Styling And Fitting Information Form - Help Guide
 ## Purpose
 This form is used to collect client information for styling and fitting purposes. Please fill out this form to provide detailed information about the client, including their contact and measurement details.

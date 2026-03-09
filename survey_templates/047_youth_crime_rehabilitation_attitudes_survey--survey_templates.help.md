@@ -1,13 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll help you create a user-facing help guide for the <code>youth_crime_rehabilitation_attitudes_survey</code> form. After considering the provided YAML fields, I'll create a clear and concise help guide that explains the form's purpose, completion process, and field-by-field explanations.
-
-To create the help guide, I'll focus on the following:
-
-1.  Form Purpose
-2.  How to Complete This Form
-3.  Field-by-Field Explanation
-
-Please let me know if you'd like me to make any adjustments or additions before proceeding.</thinking>
-
 # youth_crime_rehabilitation_attitudes_survey - Help Guide
 ## Purpose
 

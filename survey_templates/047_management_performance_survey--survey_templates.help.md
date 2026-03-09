@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this survey template is used correctly and that the user understands the purpose and requirements of the form. To prevent duplication and ensure relevance, we need to review the form's purpose and fields carefully. This form appears to be designed to collect feedback on management performance, focusing on skills areas, agreements, and challenging skills. We need to verify that the form's title and fields accurately reflect this purpose. Additionally, we should confirm that the user can complete the form by following a clear and concise process. Finally, we should double-check that the field explanations cover all aspects of the form and provide a comprehensive guide for the end-user.
-</thinking>
-
 # Management Performance Survey - Help Guide
 ## Purpose
 This guide provides an overview of the Management Performance Survey form, which is designed to collect feedback on management performance, skills, and areas of improvement. The form is used to gather information on management strengths and weaknesses, allowing for informed decision-making and improvement.

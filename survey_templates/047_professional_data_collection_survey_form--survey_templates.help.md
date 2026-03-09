@@ -1,7 +1,3 @@
-<thinking>
-This form is a generic survey template for collecting professional data. The purpose of this form is to gather information about a professional or organization. It is not intended for personal or non-professional data collection. Please use this form to collect data for internal business purposes only. This form does not need to be completed by non-professionals or non-registered users.
-</thinking>
-
 # Professional Data Collection Survey Form - Help Guide
 ## Purpose
 This form is designed to collect professional data for internal business use. Please fill out this form to provide information about yourself or your organization.

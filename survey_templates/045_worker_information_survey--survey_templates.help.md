@@ -1,8 +1,3 @@
-<thinking>
-  This form is designed to collect information about an employee's personal and professional details, such as name, job title, department, date hired, employee ID, and contact information. This data will be used for internal record-keeping and may be used in conjunction with other employee data to inform business decisions.
-  Please verify that this form is not already being used for an identical purpose and that the data collected will not lead to any conflicts or duplications of existing records.
-</thinking>
-
 # Worker Information Survey - Help Guide
 ## Purpose
 The Worker Information Survey is designed to collect personal and professional details about employees for internal record-keeping purposes.

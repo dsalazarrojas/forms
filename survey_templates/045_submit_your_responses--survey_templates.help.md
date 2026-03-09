@@ -1,10 +1,3 @@
-<thinking>
-This form is a "submit_your_responses" form, which aims to collect user feedback and ratings. The form is likely used for customer satisfaction surveys, product feedback, or other types of feedback collection. Before proceeding, please ensure that you have not submitted your responses previously, as this form may not allow duplicate submissions.
-
-This form has several fields for users to input their ratings, text responses, and other information. Please review the explanations below for each field to ensure you complete the form accurately and efficiently.
-
-</thinking>
-
 # submit_your_responses - Help Guide
 ## Purpose
 The "submit_your_responses" form is designed to collect user feedback and ratings. Please provide honest and constructive feedback to help us improve our services or products.

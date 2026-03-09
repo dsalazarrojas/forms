@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather feedback from healthcare employees on various aspects of their work environment, including patient satisfaction, staff satisfaction, communication, and team dynamics. The goal is to identify areas where employees feel supported and where improvements can be made. This form should be completed by healthcare employees to provide honest and constructive feedback. To avoid duplication, this form should only be completed once per employee per cycle (e.g., quarterly or semi-annually).
-
-</thinking>
-
 # Healthcare Employee Satisfaction Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from healthcare employees on their experiences and perceptions of their work environment. It aims to identify areas where employees feel supported and where improvements can be made.

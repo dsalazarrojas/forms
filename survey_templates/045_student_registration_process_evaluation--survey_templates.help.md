@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from students to evaluate their registration process. The form is used to capture essential details such as student's personal information (name, date of birth, phone number, email, current address, and major or department), areas of interest (academic support, career guidance, or financial aid), and status of their registration (whether it is complete or not). The form also allows students to provide additional comments or feedback, if needed. The purpose of this form is to streamline the registration process and gather valuable insights to improve student experiences.
-
-</thinking>
-
 # Student Registration Process Evaluation - Help Guide
 ## Purpose
 This form is used to evaluate the student registration process, capturing essential details and areas of interest to improve student experiences.

@@ -1,8 +1,3 @@
-<thinking>
-The form's purpose is to gather information about the respondent's level of brand awareness, knowledge, and perception. This data can be used to gauge the respondent's familiarity with the brand, identify areas of opportunity for improvement, and inform future marketing strategies.
-The form collects data from multiple pages, each focusing on a specific aspect of brand awareness. The first page collects demographic information, while the second page inquires about brand awareness and the channels through which the respondent heard about the brand. The third page gathers information about brand knowledge, products, and values. The fourth page assesses the respondent's perception of the brand, their likelihood to purchase, and their overall impression. The final page solicits feedback and comments about the brand.
-</thinking>
-
 # Brand Awareness Survey - Help Guide
 ## Purpose
 This form is designed to collect data about your level of brand awareness, perception, and preferences. Your responses will help us understand your familiarity with our brand and inform our marketing strategies.

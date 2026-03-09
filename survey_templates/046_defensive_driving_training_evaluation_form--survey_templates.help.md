@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Defensive Driving Training Evaluation Form - Help Guide
 
 ## Purpose

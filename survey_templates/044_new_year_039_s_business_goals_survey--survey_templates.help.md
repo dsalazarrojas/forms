@@ -1,9 +1,3 @@
-<thinking>
-The New Year's Business Goals Survey is a form designed to help businesses identify and set goals for the upcoming year. It's meant to be completed by business owners or managers to assess their company's objectives, target market, financial goals, and marketing strategy. 
-
-This guide is intended to help users understand how to complete the form and what each field means. Please note that some fields may be optional, but they are all relevant to the purpose of the form.
-
-</thinking>
 # New Year's Business Goals Survey - Help Guide
 ## Purpose
 The New Year's Business Goals Survey is a tool for businesses to reflect on their objectives and set targets for the upcoming year. It's meant to be completed by business owners or managers to assess their company's progress and identify areas of improvement.

@@ -1,10 +1,3 @@
-<thinking>
-Internal reasoning block to check for relevance and non-duplication:
-The form "site_maintenance_team_task_risk_assessment" is designed to assess the risks associated with maintenance tasks performed by the site maintenance team. This form helps identify potential risks, their impact, and likelihood levels, allowing the team to prioritize tasks based on risk. The form is likely used in a maintenance or construction setting where tasks are performed with a level of risk involved.
-
-Form purpose: to evaluate and document the risks associated with maintenance tasks.
-</thinking>
-
 # site_maintenance_team_task_risk_assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the potential risks associated with maintenance tasks performed by the site maintenance team. This form helps identify and document risks to prioritize tasks and ensure a safe working environment.

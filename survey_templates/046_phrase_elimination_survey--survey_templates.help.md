@@ -1,7 +1,3 @@
-<thinking>
-A survey template is typically used to collect input from users, but before designing a survey, you want to ensure that it's not a duplicate, and the purpose is clear. This guide will help you complete the "phrase_elimination_survey" template effectively.
-</thinking>
-
 # phrase_elimination_survey - Help Guide
 ## Purpose
 The "phrase_elimination_survey" template is designed to collect information about phrases or words that are intended to be retired or replaced in a specific context. This survey aims to gather data on the phrases to be eliminated, the reason for retirement, and any suggested alternatives.

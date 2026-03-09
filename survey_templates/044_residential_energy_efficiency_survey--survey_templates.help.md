@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information about residential energy efficiency, likely for a study or assessment related to energy consumption and efficiency in homes. It might be used to gather data for a research project, a home energy audit, or a similar purpose. The fields are designed to collect various aspects of a home's energy efficiency, including contact information, square footage, and usage habits.
-
-To ensure the form is filled out accurately and completely, please review the following guidelines and field explanations.
-
-</thinking>
-
 # Residential Energy Efficiency Survey - Help Guide
 ## Purpose
 The Residential Energy Efficiency Survey is a tool used to gather information about the energy efficiency and usage habits of your home. This data will be used for research purposes to understand energy consumption patterns and identify areas for improvement.

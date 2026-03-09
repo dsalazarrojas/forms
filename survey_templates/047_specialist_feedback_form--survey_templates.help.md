@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Specialist Feedback Form - Help Guide
 ## Purpose
 The Specialist Feedback Form is a tool used to collect feedback from clients and specialists on a specific issue or case. This form helps in gathering valuable insights and comments from clients and specialists, which can be used to improve services, identify areas of improvement, and provide a better understanding of client needs and specialist feedback.

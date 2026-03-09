@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide users through a series of questions related to investment simulation, helping them understand their investment strategy and risk tolerance. It consists of four pages, each with its own set of questions. The form is not meant for any specific investment product or service, so the answers provided will not be used to sell or recommend any particular investment option. It's essential to complete each page sequentially to ensure the form's purpose is met. Please make sure to complete the form only if you have not already done a similar investment simulation survey in the past.
-</thinking>
-
 # Investment Simulation Survey - Help Guide
 
 ## Purpose

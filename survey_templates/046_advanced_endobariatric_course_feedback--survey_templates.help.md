@@ -1,5 +1,3 @@
-<thinking>Advanced Endobariatric Course Feedback is designed to gather feedback from attendees on the effectiveness of the course in meeting its learning objectives. To ensure that your feedback is relevant and helpful, we kindly request that you complete this form only once for each course attended. Please do not submit multiple forms if you have attended multiple courses, as this may lead to duplicate feedback.</thinking>
-
 # Advanced Endobariatric Course Feedback - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from attendees on the Advanced Endobariatric Course. Your feedback is crucial in helping us evaluate the effectiveness of the course in meeting its learning objectives.

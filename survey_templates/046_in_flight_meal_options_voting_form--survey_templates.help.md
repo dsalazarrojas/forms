@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # In Flight Meal Options Voting Form - Help Guide
 
 ## Purpose

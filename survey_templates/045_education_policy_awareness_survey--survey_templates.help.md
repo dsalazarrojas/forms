@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and insights from students, educators, and organizations about their understanding of educational policies. This form will help organizations make informed decisions by collecting insights from students and educators about their current knowledge and perceptions of educational policies. It will provide valuable information to help organizations tailor their policies and improve their educational programs.
-
-The form is designed to be completed by students, educators, and organizations. However, it is essential to confirm that the respondents are indeed from the relevant groups and not duplicates or fictitious entries.
-
-To prevent confusion and misinterpretation of data, it is vital to ensure that each respondent provides accurate and honest feedback. This form should not be used to manipulate or deceive the respondents.
-
-</thinking>
-
 # Education Policy Awareness Survey - Help Guide
 ## Purpose
 The Education Policy Awareness Survey is a tool designed to gather insights from students, educators, and organizations about their understanding of educational policies. This form aims to collect information that will help organizations make informed decisions and improve their educational programs.

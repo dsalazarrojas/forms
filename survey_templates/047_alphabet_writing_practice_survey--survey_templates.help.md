@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the "Alphabet Writing Practice Survey" form, which is intended to gather information about a student's writing skills and habits. The form is used to assess a student's progress and identify areas where they may need additional support or guidance. This guide will walk users through each field, providing clear explanations and examples to ensure accurate and efficient completion of the form.
-</thinking>
-
 # Alphabet Writing Practice Survey - Help Guide
 ## Purpose
 The Alphabet Writing Practice Survey is a tool used to assess a student's writing skills and habits. It is designed to help teachers, parents, and caregivers identify areas of strength and weakness, and to provide guidance for improvement.

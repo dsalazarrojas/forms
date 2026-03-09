@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from students on their experience in a laboratory experiment. The purpose of this form is to gather information on various aspects of the experiment, such as teaching method, difficulty level, instructor performance, and overall experience. This form is likely used by instructors or researchers to evaluate the effectiveness of their teaching methods and make adjustments for future experiments. The form is designed to be completed by students who have participated in a laboratory experiment.
-</thinking>
-
 # laboratory_experiment_feedback_questionnaire - Help Guide
 ## Purpose
 This form is used to gather feedback from students on their experience in a laboratory experiment.

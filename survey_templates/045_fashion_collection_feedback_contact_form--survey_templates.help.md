@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fashion Collection Feedback Contact Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to verify the resolution of issues reported to the helpdesk. It is intended to ensure that the issues are resolved and the customer is satisfied. To fill out this form, please ensure that you have completed any previous resolutions and that the issue is not being worked on by another technician.
-</thinking>
-
 # it_helpdesk_resolution_verification_form - Help Guide
 ## Purpose
 The it_helpdesk_resolution_verification_form is used to verify the resolution of issues reported to the helpdesk. This form helps ensure that issues are resolved and customers are satisfied with the outcome.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tea Making Knowledge Quiz - Help Guide
 ## Purpose
 The "Tea Making Knowledge Quiz" form is a self-assessment tool designed to evaluate your knowledge of tea making practices. This quiz will help you understand the different aspects of brewing and enjoying tea, from basic to advanced. Please answer the questions honestly, as the results will be used to suggest personalized recommendations to help you improve your tea making skills.

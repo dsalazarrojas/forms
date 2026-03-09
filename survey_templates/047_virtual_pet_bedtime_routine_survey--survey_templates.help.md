@@ -1,10 +1,3 @@
-<thinking>
-This form is for creating virtual pet bedtime routines. The purpose of this form is for users to input their virtual pet's bedtime routine data. This form is designed to collect various aspects of the routine, such as the type of activities included, how the user helps with the routine, and what data is being collected. Before filling out the form, please ensure you are familiar with the following fields and their purposes, as this form is designed to be a survey-style input tool.
-
-Please ensure you do not submit duplicates or unnecessary entries as some questions have multiple options, which are meant to provide context and not create duplicates.
-
-</thinking>
-
 # Virtual Pet Bedtime Routine Survey - Help Guide
 ## Purpose
 The Virtual Pet Bedtime Routine Survey is designed to collect data on a virtual pet's bedtime routine. It consists of various fields that allow users to input different aspects of the routine, such as activities, challenges, and satisfaction levels.

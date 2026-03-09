@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hand Sanitizer Stand Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with hand sanitizer stands. It will help us understand how often and where users use hand sanitizer stands, and what they think about their overall satisfaction with them. The goal is to improve our hand sanitizer stands' performance and user experience.

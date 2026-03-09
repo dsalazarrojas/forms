@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is intended to gather feedback from users on media content, specifically video, podcast, article, and campaign content. The form is designed to be optional and allows users to provide a rating, comments, and other relevant information such as email, phone number, and date submitted. The form will help content creators understand the user's perception of their content, which can aid in improving future content creation. This form is likely used by content teams or media companies to gather feedback on their media content.</thinking>
-
 # Media Content Feedback Survey - Help Guide
 ## Purpose
 This form is used to gather feedback from users on media content, specifically video, podcast, article, and campaign content. It allows content creators to understand how their content is perceived by users and make improvements for future content creation.

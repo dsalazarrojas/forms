@@ -1,5 +1,3 @@
-<thinking>What this form is meant to gather information from patients about their satisfaction with our healthcare services. It is meant to be filled out after a visit. The purpose of this form is to help us understand what we did well and what we need to improve. Please only fill out this form after your visit is complete. If you have any duplicate entries or visits, please use your last visit's entry for the most up-to-date information. This form will ask for general information such as patient name, contact information, and birthdate. The majority of the form will be about questions that assess patient satisfaction. These questions will help us identify areas of improvement and what we are doing right. Please answer them as truthfully as you can, providing as much detail as you need to fully answer each question.</thinking>
-
 # Patient Satisfaction Intake Form - Help Guide
 ## Purpose
 This form is designed to gather information from patients about their satisfaction with our healthcare services.

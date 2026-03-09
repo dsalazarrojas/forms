@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Profile Attributes Survey - Help Guide
 
 ## Purpose

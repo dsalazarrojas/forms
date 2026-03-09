@@ -1,7 +1,3 @@
-<thinking>
-This form is a public art installation voting form. It collects feedback from users about a particular public art installation. The form is used to assess the level of interest in the installation, gather information about the installation's location, artist, and image, and provide a space for users to share comments and vote on whether they would be interested in installing such a piece of art in their city. Please make sure to fill out the form accurately and thoroughly to help the organizers of the public art installation to better understand the community's opinions and preferences.
-</thinking>
-
 # Public Art Installation Voting Form - Help Guide
 ## Purpose
 This form is used to gather opinions and feedback about a public art installation. It will help the organizers of the public art installation to better understand the community's interest and preferences.

@@ -1,7 +1,3 @@
-<thinking>
-# The purpose of this form is to collect information from users about their pre-program experience. This form is likely used for administrative purposes, such as tracking user progress or evaluating user demographics. It's essential to ensure that each user only completes this form once to avoid duplication of information.
-</thinking>
-
 # pre_program_survey_template - Help Guide
 ## Purpose
 The pre-program survey template is a form used to collect information about users' pre-program experience. It's designed to gather details about the user's ID, name, contact information, and program-related data.

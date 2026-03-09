@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Investment Bonds Survey - Help Guide
 
 ## Purpose

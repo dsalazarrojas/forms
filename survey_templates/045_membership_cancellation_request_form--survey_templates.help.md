@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request cancellation of a membership. Before submitting this form, please ensure that you have a valid reason for cancelling your membership and that you have reviewed the terms and conditions of your membership agreement. If you have already submitted a cancellation request, please do not submit another one, as this may cause unnecessary processing and potential duplicate cancellation fees. Please review the form carefully before submission to ensure accuracy and completeness.
-</thinking>
-
 # Membership Cancellation Request Form - Help Guide
 ## Purpose
 The Membership Cancellation Request Form is used to submit a formal request to cancel a membership. This form ensures that your cancellation request is processed in a timely and organized manner.

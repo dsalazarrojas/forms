@@ -1,11 +1,3 @@
-<thinking>
-
-The "Daily Engagement Challenge" form is designed to collect information from participants about their daily engagement and reflection on a specific challenge or program. This form is used to gather data on various aspects of the challenge, including participant demographics, engagement levels, and reflection methods. The form is required for all participants and consists of multiple text and date fields.
-
-To avoid duplication and ensure accurate data collection, please only complete this form once per participant.
-
-</thinking>
-
 # Daily Engagement Challenge - Help Guide
 ## Purpose
 This form is designed to collect data on participant engagement and reflection on a challenge or program.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback and suggestions from festival-goers on their overall experience at the festival. The form is designed to be completed by attendees who have just experienced the festival and are able to provide a genuine and honest assessment of the event. This form is a crucial tool for the festival organizers to understand what worked well and what areas need improvement. It is essential to ensure that each field is completed thoroughly and accurately to provide valuable feedback. It is also a chance for attendees to share any suggestions for next year's festival.
-</thinking>
-
 # Festival Experience Request Form - Help Guide
 
 ## Purpose

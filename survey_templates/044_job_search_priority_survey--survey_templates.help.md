@@ -1,5 +1,3 @@
-<thinking>... The form is designed to collect information from candidates about their job search priorities, preferences, and requirements. It is intended for internal use, allowing us to understand the needs and expectations of our clients better. Before filling out this form, please ensure that you have not already submitted similar information. Each field is optional unless specified otherwise. Please fill in the fields as accurately and thoroughly as possible...)</thinking>
-
 # job_search_priority_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information from candidates about their job search priorities, preferences, and requirements. This will help us better understand their needs and provide more effective services.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to gather information about group trips, possibly for organizational or planning purposes. It is meant to collect relevant details such as trip name, start and end dates, location, participant names, emails, phone numbers, and whether they plan to attend. The form might be used by staff, event planners, or group administrators to streamline their process and gather necessary information in one place. To the best of my knowledge, there is no obvious reason why someone would not be able to complete this form, and it appears to be designed for a specific purpose.
-</thinking>
-
 # Group Trip Planning Survey - Help Guide
 ## Purpose
 This guide will walk you through completing the Group Trip Planning Survey form.

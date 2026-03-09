@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be completing the Technical Product Documentation Feedback Questionnaire. The purpose of this form is to gather feedback from users on the technical product documentation provided by the company. The feedback will help the company improve the quality and usability of the documentation. This guide will help ensure that the feedback provided is relevant and does not duplicate existing feedback. 
-
-This guide will walk users through the process of completing the form, explaining each field and its intended use. 
-
-The feedback will be used to identify areas of improvement and to develop new features and enhancements that meet the needs of users. 
-
-This guide will cover all 18 fields in the form, providing a clear and concise explanation of each field's purpose and expected input.
-
-</thinking>
-
 # technical_product_documentation_feedback_questionnaire - Help Guide
 
 ## Purpose

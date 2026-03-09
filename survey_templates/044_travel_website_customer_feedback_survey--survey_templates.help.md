@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather customer feedback on their experience with a travel website. It collects information on the type of travel, booking method, travel dates, travel destination, travel experience, website experience, and website features. The goal is to understand what customers like or dislike about the website and how they feel about their travel experience. To ensure accurate and relevant responses, please answer questions truthfully, and avoid duplication of answers. For example, if you select multiple options in a field, do not select the same option multiple times. Thank you for taking the time to provide valuable feedback!
-</thinking>
-
 # Travel Website Customer Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather your thoughts and opinions about our travel website. Your feedback will help us improve your experience and provide better services in the future.

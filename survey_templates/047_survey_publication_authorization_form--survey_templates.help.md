@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to obtain authorization for the publication of a survey. This process ensures that all necessary details are collected and documented before the survey is made public. By completing this form, you will be able to specify whether the participant has given their consent for the publication and other related details such as organization, email, phone, and publication status. Please ensure that you have all the required information before filling out the form to avoid any errors or duplication of effort.
-</thinking>
-
 # Survey Publication Authorization Form - Help Guide
 ## Purpose
 The Survey Publication Authorization Form is a crucial document that verifies the permission granted by participants for the publication of a survey. This form helps to ensure that the survey is published with the correct permissions and details of the participants involved.

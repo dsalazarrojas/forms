@@ -1,20 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from festival vendors to gauge their overall satisfaction with the festival experience, identify areas of improvement, and gather information on their future participation interest. This form ensures that the festival organizers can tailor their future events to better meet the needs and expectations of their vendors.
-
-To ensure data quality, this form should not be used if you have not attended the festival, if you are not a vendor, or if you have already completed this survey in a previous year. Please note that this form will not be completed more than once per vendor per festival.
-
-Before proceeding, ensure that you are a registered vendor for the festival and that you have attended the event.
-
-If you have already completed this survey in a previous festival season, your responses will be stored in the database. However, if you are unsure if this is your first time completing the survey, please clarify in the comments field.
-
-Please provide genuine feedback and input your responses accurately and concisely.
-
-Please answer all questions honestly, and if unsure, select "Undecided" for the future participation question.
-
-The following fields are optional. If you do not feel comfortable providing information for any of them, you can skip them without affecting your overall feedback.
-
-</thinking>
-
 # Festival Stallholder Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from festival vendors about their overall satisfaction with the festival experience and their willingness to participate in future festivals.

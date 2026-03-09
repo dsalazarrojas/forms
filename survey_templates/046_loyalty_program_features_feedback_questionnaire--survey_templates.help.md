@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form, "Loyalty Program Features Feedback Questionnaire," is intended to gather feedback and insights from customers about their experiences with our loyalty programs. The goal is to collect both quantitative and qualitative data that can help us identify areas of improvement and opportunities for growth.
 
 Before filling out this form, please make sure you have filled out this form for this specific question before. To avoid any duplication of effort and to ensure accurate representation of your feedback, please only fill out this form once for each loyalty program you have experience with.

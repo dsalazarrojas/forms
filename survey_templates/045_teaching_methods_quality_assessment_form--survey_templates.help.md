@@ -1,10 +1,3 @@
-<thinking>
-This form is used to assess the quality of teaching methods used in educational settings. It is intended to gather information on the effectiveness of different teaching methods, such as Lecture, Demonstration, Guided Practice, and Independent Practice. The form is meant to be completed by instructors or educators who have observed or experienced the teaching methods firsthand.
-To ensure that the form is completed accurately and efficiently, please review the following instructions carefully.
-
-The purpose of this form is to assess the quality of teaching methods, and each field is designed to gather specific information about the teaching methods used. Please ensure that you have a clear understanding of the form's purpose and the information it aims to collect before proceeding.
-</thinking>
-
 # Teaching Methods Quality Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the quality of teaching methods used in educational settings.

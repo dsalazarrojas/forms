@@ -1,9 +1,3 @@
-<thinking>
-This form is used by school administrators to gather input from parents about sending their children back to school after a prolonged closure. The form is designed to be simple and easy to fill out, with questions that help administrators understand parent concerns and preferences. By completing this form, parents can provide valuable feedback that will inform school decisions.
-
-Please note that this form should only be filled out by parents or guardians who are currently enrolled in the school. If you have already completed this form in the past, you may not need to fill it out again. However, if your circumstances have changed or you have new concerns, please feel free to fill it out again.
-</thinking>
-
 # Reopening School Survey - Help Guide
 ## Purpose
 

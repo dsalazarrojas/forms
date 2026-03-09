@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to provide a clear and concise help guide for end users to fill out the Measles Exposure Monitoring Survey form. This form is used to collect information about potential measles exposure cases, and it's essential to ensure that users understand the purpose and requirements of the form. To confirm, this form is used to monitor potential measles exposure cases, and it's crucial to gather accurate and relevant information to help prevent the spread of the disease. Before filling out the form, please review the following guide to ensure you understand the purpose and requirements of each field.</thinking>
-
 # Measles Exposure Monitoring Survey - Help Guide
 ## Purpose
 The Measles Exposure Monitoring Survey is a critical tool used to collect information about potential measles exposure cases. This form helps to identify and track individuals who may have been exposed to measles, allowing for prompt and effective action to prevent the spread of the disease.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their order tracking experiences. The feedback will help us understand how we are doing in terms of customer satisfaction and order fulfillment. This form should be used by customers to provide their honest feedback about their orders. Please only complete this form if you have an actual order that you would like to give feedback on. If you have multiple orders, please fill out this form for each order separately. If you have already given us feedback on this order, please do not fill out this form again as it will be considered a duplicate submission.
-</thinking>
-
 # Order Tracking Feedback Questionnaire - Help Guide
 ## Purpose
 The Order Tracking Feedback Questionnaire is designed to collect feedback from customers on their order tracking experiences. This feedback will help us understand how we are doing in terms of customer satisfaction and order fulfillment.

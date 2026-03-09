@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect user information in a structured and organized manner. This form is intended for collecting various types of information from users, including demographic data (e.g., name, date of birth), preferences (e.g., favorite color, food, music), and other personal details (e.g., hobby, favorite animal). The form is not intended for any specific business or commercial purpose. It is assumed that the form will be used for general knowledge or survey purposes. Please ensure that you are not duplicating this form for any other purpose that is not aligned with its intended use.
-
-Before proceeding, please make sure that you are not creating multiple instances of this form for the same user or group of users. This will help in maintaining data consistency and avoiding duplicate responses.
-</thinking>
-
 # Openings Knowledge Quiz - Help Guide
 ## Purpose
 The Openings Knowledge Quiz form is designed to collect user information for general knowledge or survey purposes. It is not intended for any specific business or commercial use.

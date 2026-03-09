@@ -1,12 +1,3 @@
-<thinking>
-This guide should help you complete the Recruitment Evaluation Survey form efficiently, ensuring you provide valuable feedback to the recruitment team.
-
-Before proceeding, please make sure you're in the right context. This survey aims to evaluate the recruitment process, and your input will help us improve it. Please don't fill out this form if you've already completed it recently or if you're not familiar with the recruitment process.
-
-Please take a few minutes to answer the questions honestly, and feel free to elaborate on your responses in the text fields. Your feedback is essential to us, and we'll use it to make the process better for everyone.
-
-Now, let's get started!</thinking>
-
 # Recruitment Evaluation Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback on the recruitment process. Your input will help us understand what worked well and where we can improve.

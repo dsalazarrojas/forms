@@ -1,10 +1,3 @@
-<thinking>
-To create a help guide for the "After School Program Student Development Impact Survey", I need to understand the purpose of the form, which is to assess the impact of an after-school program on student development. This form seems to be a comprehensive survey that covers various aspects of student development, including academic, social, emotional, and behavioral. The form is likely intended for parents or guardians to provide feedback on the student's progress and experiences in the program.
-
-Before we proceed, let's make sure this form is not a duplication of effort. In our organization, we have similar forms for different purposes. If you have any concerns or questions, please feel free to ask.
-
-</thinking>
-
 # After School Program Student Development Impact Survey - Help Guide
 ## Purpose
 The After School Program Student Development Impact Survey is a comprehensive tool designed to assess the impact of an after-school program on student development. It is intended to help parents or guardians provide feedback on their child's progress and experiences in the program.

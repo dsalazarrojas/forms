@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the workplace environment and worker's safety and health experiences. This form is designed to help identify potential issues and areas for improvement in the workplace. It's essential to complete this form honestly and thoroughly to ensure accurate results. Please make sure you have not already completed this form in the past to avoid duplication of responses.
-</thinking>
-
 # Workplace Health Safety Survey - Help Guide
 ## Purpose
 This form aims to gather your experiences, concerns, and perceptions regarding workplace health and safety. Your input will help us identify areas for improvement and provide a safe and healthy work environment.

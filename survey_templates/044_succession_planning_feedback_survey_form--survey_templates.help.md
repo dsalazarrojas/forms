@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect feedback and insights from employees about the current state of succession planning in their organization. Succession planning is a process used to identify, develop, and maintain a pool of potential successors for key roles within an organization. This form helps the succession planners understand the current effectiveness of their planning, identify areas for improvement, and gather feedback from employees on their experiences and opinions.
 
 Before proceeding, please ensure that you haven't filled out this form recently. If you've already submitted feedback, you don't need to fill it out again, and your previous responses will be taken into account.

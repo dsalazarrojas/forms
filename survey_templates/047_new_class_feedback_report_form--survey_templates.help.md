@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used to collect feedback from new class instructors or teachers about a class they have recently completed. The form is used to monitor the quality of new classes and identify areas for improvement. It should only be filled out for classes that have just finished, not for ongoing classes. Please make sure to fill out one form for each class.
 
 </thinking>

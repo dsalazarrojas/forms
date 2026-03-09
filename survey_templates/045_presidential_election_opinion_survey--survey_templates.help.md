@@ -1,7 +1,3 @@
-<thinking>
-  This form is intended to capture opinions on the presidential election. It is likely meant to be used by individuals, possibly students or employees, to express their views and opinions on the presidential election, its candidates, issues, and related matters. This form may be used for research, feedback, or educational purposes. To avoid duplication, please note that this form is not meant to be filled out by the same person more than once.
-</thinking>
-
 # Presidential Election Opinion Survey - Help Guide
 ## Purpose
 This form is designed to collect opinions and feedback on the presidential election from individuals. It is intended to be a comprehensive survey that covers various aspects of the election, including opinions on candidates, issues, and related matters.

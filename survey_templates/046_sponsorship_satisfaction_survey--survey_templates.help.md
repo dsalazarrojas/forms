@@ -1,18 +1,3 @@
-<thinking>
-We are introducing a new form for tracking feedback and comments from sponsors. This form will help us gather information about their experience with our organization. 
-
-Before filling out this form, please make sure you have not filled out this form before. Your feedback is valuable, and we want to ensure that you have the chance to share your thoughts. 
-
-To complete this form, please follow the steps below and provide your honest feedback. 
-
-Please note that the form is structured into several pages. 
-
-We have added this form to ensure that we capture all the necessary information from our sponsors. 
-
-Before we start, here is what each field means and how you can complete it:
-
-</thinking>
-
 # Sponsorship Satisfaction Survey - Help Guide
 
 ## Purpose

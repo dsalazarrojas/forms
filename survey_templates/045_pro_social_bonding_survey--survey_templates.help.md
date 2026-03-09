@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather information about an individual's social behavior and preferences, including demographic information, group size, frequency of participation in groups, type of groups, frequency of attendance, level of dedication, frequency of contribution, and other social media-related data. It's crucial to fill this form honestly and thoroughly, as the responses will be used to create a more accurate social graph. Please ensure that you are not duplicating this survey and that you have not previously submitted your data. Please take your time, and answer each question as accurately as possible.</thinking>
-
 # Pro Social Bonding Survey - Help Guide
 ## Purpose
 This survey aims to collect information about your social behavior and preferences, helping us better understand your social network and group dynamics.

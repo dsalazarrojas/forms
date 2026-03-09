@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a property, including its address, structure type, boundaries, charges, guarantee, features, notes, user contact details, and type. The purpose of this form is to gather data for a property survey, likely for real estate or construction purposes. Before proceeding, ensure that you have all necessary information about the property ready. If you're unsure about the type of form or its purpose, please clarify with your administrator to avoid duplicate or unnecessary submissions.
-</thinking>
-
 # Property Survey - Help Guide
 ## Purpose
 The Property Survey form is used to collect essential information about a property, which will be used for various purposes such as real estate or construction documentation.

@@ -1,5 +1,3 @@
-<thinking>This form is intended to gather feedback on the quality of care provided by the cardiac and neurological care services. Please ensure that you have actually visited these services before taking this survey, as it's only relevant for patients who have received care. This form is also meant to be used once per visit, so if you have multiple visits, please only fill out this form once for each visit. If you have already filled out this form, please do not fill it out again. Please be honest and thorough in your responses, as your feedback is valuable in helping us improve our services.</thinking>
-
 # Cardiac And Neurological Care Survey - Help Guide
 
 ## Purpose

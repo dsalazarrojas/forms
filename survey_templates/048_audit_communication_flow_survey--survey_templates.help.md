@@ -1,8 +1,3 @@
-<thinking>
-We are going to create a help guide for the "Audit Communication Flow Survey" form, designed to gauge the quality of communication during audits. This form captures information from auditors about their experiences with communication with the other party, including their name, department, and audit project reference, as well as their perceptions of the communication flow. We will cover the form's purpose, how to complete it, and each field's explanation in detail.
-
-</thinking>
-
 # Audit Communication Flow Survey - Help Guide
 
 ## Purpose

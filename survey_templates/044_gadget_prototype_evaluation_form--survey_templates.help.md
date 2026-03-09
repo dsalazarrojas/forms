@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather feedback and evaluations from users on gadget prototypes. It's crucial that the form's fields are understood correctly to avoid any confusion or errors.
-The form is designed to capture various aspects of the prototype, including overall rating and specific ratings for features such as ease of use, design, and usability. The user's feedback and time spent on the prototype are also collected. The form's purpose is to provide valuable insights for the development team to improve the prototype.
-To prevent duplication of effort, please ensure that all evaluations for the same prototype are submitted through this form. Any feedback or evaluations not submitted through this form will not be considered for review.
-</thinking>
-
 # Gadget Prototype Evaluation Form - Help Guide
 ## Purpose
 The Gadget Prototype Evaluation Form is a survey designed to gather feedback and evaluations from users on gadget prototypes. It helps the development team understand the user's perception of the prototype's usability, design, and overall rating.

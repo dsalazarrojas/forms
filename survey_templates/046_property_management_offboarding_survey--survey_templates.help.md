@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect information from tenants regarding their offboarding experience with a property managed by the Property Management department. It's essential to ensure that all necessary information is collected to facilitate a smooth transition for the tenant. 
-
-Before starting, please ensure you are authorized to access this form. If you've already completed this form for the same property or have access to its offboarding process, it's possible that this form may not be applicable to you. 
-
-Please review the form carefully to ensure you're providing the required information for a successful offboarding process.
-
-</thinking>
-
 # Property Management Offboarding Survey - Help Guide
 ## Purpose
 The Property Management Offboarding Survey is designed to gather feedback and information from tenants who are offboarding from a property managed by the Property Management department. This helps to ensure a smooth transition and gather essential details for future reference.

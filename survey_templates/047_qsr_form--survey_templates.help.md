@@ -1,15 +1,3 @@
-<thinking>
-## Form Purpose
-This form "qsr_form" is a survey template designed for collecting information about a user's experience at a restaurant. The form is intended to gather data on the user's name, contact information, specific feedback, and observations about their visit. The form's goal is to collect both quantitative data (e.g., date and time) and qualitative data (e.g., feedback and observations) to help restaurants understand their customer satisfaction and improve their services.
-
-### Form Design Considerations
-
-*   **Non-duplication**: This form was designed to be an original adaptation of public survey topics, avoiding any proprietary content from other form platforms.
-*   **Relevance**: The form's design and questions are based on the assumption that the user is a customer who has visited or plans to visit a restaurant.
-*   **User Experience**: The form is user-friendly, with clear label names and helpful hints to guide the user through the completion process.
-
-</thinking>
-
 # qsr_form - Help Guide
 ## Purpose
 This form is a restaurant experience survey designed to collect information about a user's dining experience.

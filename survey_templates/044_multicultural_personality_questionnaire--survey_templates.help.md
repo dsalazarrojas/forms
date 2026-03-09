@@ -1,9 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll help you understand the form purpose and explain it in a clear and concise way.
-
-This form is designed to administer the Multicultural Personality Questionnaire, a psychological test used to measure personality traits across different cultures. The form is divided into two main parts: questions about the participant's attitude and behavior towards cultural differences, and questions about their personal characteristics and preferences. By completing this form, participants will be able to provide valuable insights into their own personality and cultural orientation, which can be useful for research and personal development.
-
-</thinking>
-
 # Multicultural Personality Questionnaire - Help Guide
 ## Purpose
 The Multicultural Personality Questionnaire is a psychological test designed to measure personality traits across different cultures. It is used to understand individual differences in cultural orientation and preferences.

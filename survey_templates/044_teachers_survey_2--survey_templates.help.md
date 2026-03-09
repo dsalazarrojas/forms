@@ -1,12 +1,3 @@
-<thinking> 
-This form, "Teachers Survey 2," is designed to gather information about teachers' experiences, opinions, and perceptions regarding innovative practices in education. The purpose of this form is to collect data that can help inform and improve the teaching practices and innovation projects within an educational institution. 
-
-The form is divided into several sections, which cover various aspects of innovative teaching practices and projects. Before completing this form, please ensure that you have answered it in a way that accurately reflects your true feelings and experiences. If you have already completed a similar form in the past, please do not repeat the same responses. Your responses will be kept confidential, and the data collected will be used for the sole purpose of improving educational practices and innovation projects. 
-
-Please complete the form with the same amount of thought and care as you would in a normal situation.
-
-</thinking>
-
 # Teachers Survey 2 - Help Guide
 ## Purpose
 This form is designed to gather information about your experiences, opinions, and perceptions regarding innovative practices in education.

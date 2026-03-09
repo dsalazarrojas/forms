@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Building Instructions Feedback Form - Help Guide
 
 ## Purpose

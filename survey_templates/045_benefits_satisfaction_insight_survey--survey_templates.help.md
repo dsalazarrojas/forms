@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather insights on employee satisfaction with the benefits package offered by a company. The purpose of this form is to measure various aspects of the benefits, including satisfaction with different types of insurance, the quality of communication, ease of enrollment, and overall value for cost. The form also asks employees to indicate what benefits are most and least valued, as well as what benefits are missing. Additionally, the form solicits feedback on areas for improvement and whether or not the employee would recommend the benefits to others. This information can be used by HR and management teams to understand employee needs and preferences, identify areas of improvement, and make data-driven decisions to enhance the benefits package.
-
-Note that this form is part of an AI-generated template, but it is designed to be used in a real-world setting and is not a mockup. The form is not affiliated with any specific survey platform, and the data collected will be used to inform business decisions within the organization.
-
-Before filling out this form, please review the following:
-
-* This form is designed to be completed by individual employees.
-* Some questions are optional, but it's recommended that you answer all questions to provide a comprehensive understanding of your thoughts and opinions.
-
-This form is designed to be completed by individual employees. Please answer the questions honestly, and provide as much detail as possible in the text fields.</thinking>
-
 # Benefits Satisfaction Insight Survey - Help Guide
 
 ## Purpose

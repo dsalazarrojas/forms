@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's clarify the form's purpose and relevance. This "videoconferencing_product_survey" form is intended to gather information about users' experiences and preferences regarding video conferencing products. It's likely used in business settings, such as product development, sales, or marketing, to better understand customer needs and product usage patterns. This form is likely not a transactional form, but rather a survey to gather qualitative and quantitative data. The form's structure and fields suggest a focus on user behavior, product usage, and frequency of usage, which is consistent with the purpose of a product survey.</thinking>
-
 # videoconferencing_product_survey - Help Guide
 ## Purpose
 This form is designed to collect information about your experiences and preferences regarding video conferencing products. It will help us understand how you use these products and what features are important to you.

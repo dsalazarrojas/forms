@@ -1,8 +1,3 @@
-<thinking>
-To create a form that accurately represents the interests of users in wellness products, the form should cater to various aspects of wellness products such as types of products, pricing, frequency of subscription, and updates on new products. The purpose of this form is to gather user preferences, allowing the organization to better understand its customer base and tailor its offerings accordingly. This form was created based on the given metadata, ensuring that the questions are clear and relevant. The form does not duplicate existing forms, but rather serves as a distinct adaptation.
-
-</thinking>
-
 # Wellness Product Subscription Interest Survey - Help Guide
 ## Purpose
 This form is intended to help the organization understand user interests in wellness products, providing essential information to tailor subscription offerings effectively.

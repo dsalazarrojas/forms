@@ -1,11 +1,3 @@
-<thinking>
-
-The form "moment_reflection_survey" appears to be a reflection survey designed to gather information on an individual's thoughts, feelings, and experiences at a particular moment. The form includes a mix of text, select_one, select_multiple, and date fields, suggesting it is meant to capture both descriptive and categorical data. The options for each field are carefully curated to elicit specific responses that can provide valuable insights into the individual's state of mind.
-
-This form does not require any specific business logic, and the fields seem to be designed to be straightforward and easy to understand. However, it would be beneficial to confirm the form's purpose and usage context to ensure it is being used as intended.
-
-</thinking>
-
 # moment_reflection_survey - Help Guide
 ## Purpose
 The "moment_reflection_survey" form is designed to capture an individual's thoughts, feelings, and experiences at a particular moment. It is meant to gather information for reflection, self-awareness, and potentially for other purposes such as research or analysis.

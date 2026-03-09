@@ -1,14 +1,3 @@
-<thinking>
-We should create a user-facing help guide that clearly explains the purpose and usage of the "Engineering Final Exam Review Survey" form. This form is designed to collect feedback from students about their engineering review session experience. The form has 8 fields, and we need to make sure that users understand what each field means and how to complete it correctly. Before we proceed, let's ensure that the form's purpose and fields are well-aligned with the user needs and expectations.
-
-We'll use the provided YAML fields to explain each field's purpose and requirements. We'll start by explaining the form's purpose and how to complete it, followed by a detailed field-by-field explanation.
-
-To avoid duplication and confusion, we'll review the form's fields and make sure that each explanation is clear and concise.
-
-Form fields seem to be mostly self-explanatory, with some minor adjustments needed for clarity. Let's proceed to create the user-facing help guide.
-
-</thinking>
-
 # Engineering Final Exam Review Survey - Help Guide
 
 ## Purpose

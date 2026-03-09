@@ -1,13 +1,3 @@
-<thinking>
-This form is intended for requesting energy consumption benchmark data from facility managers or energy consultants who oversee energy-efficient buildings. The purpose of this form is to gather information about the energy consumption of a specific building, including its location, type, size, and energy consumption data. The form asks for various details such as first name, email, phone number, date and time of the benchmark, and other related information to provide a comprehensive picture of the building's energy consumption.
-This form is a crucial tool for collecting data and benchmarking energy consumption, and it is essential to fill it out carefully to ensure accurate and relevant data collection. Please make sure to fill out the required fields and provide correct information to avoid any errors.
-
-The form will be reviewed by the energy efficiency department, and we appreciate your cooperation in providing us with accurate information.
-
-Please note that filling out this form does not guarantee acceptance of your request, and the decision to collect data will be made on a case-by-case basis.
-
-Before submitting, please make sure to check the fields carefully to avoid any duplicates or errors.</thinking>
-
 # Energy Consumption Benchmark Request Form - Help Guide
 ## Purpose
 This form is for requesting energy consumption benchmark data from facility managers or energy consultants. It helps us collect and analyze energy consumption information for our energy efficiency department.

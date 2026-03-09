@@ -1,6 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form that gathers feedback on financial services. The form is designed to collect information on a customer's experience with a financial service provider. To avoid duplication and ensure relevance, we should first check if the form is being submitted for the right purpose and if it's not a duplicate submission. The form fields include customer information, service type, quality, staff attitude, communication skills, resolution time, overall experience, comments, rating, resolution date, feedback frequency, staff name, service branch, customer branch, customer address, postal code, resolution method, customer occupation, customer age, customer gender, contact method, staff email, and staff phone. Each field is crucial in understanding a customer's experience and identifying areas for improvement.</thinking>
-
 # Financial Service Experience Report Form - Help Guide
 ## Purpose
 The Financial Service Experience Report Form is designed to gather feedback on customers' experiences with financial service providers. This form helps identify areas for improvement and ensures that the financial service provider can provide the best possible experience for its customers.

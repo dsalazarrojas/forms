@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for users to vote on potential sponsors for cultural events. 
-The form is used to collect information about the events and potential sponsors for events. It is meant to be completed by multiple users, each of whom will be voting on different potential sponsors for the same event. 
-This form should only be used for cultural events, and any other type of event will not be relevant. 
-Please ensure that the information is up-to-date, and the form is not filled out multiple times by the same user.</thinking>
-
 # Cultural Event Sponsorship Voting Form - Help Guide
 ## Purpose
 The Cultural Event Sponsorship Voting Form is designed to collect votes from multiple users on potential sponsors for a cultural event. 

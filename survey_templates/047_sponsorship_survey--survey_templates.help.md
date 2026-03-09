@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be designed to collect information about sponsorship agreements, including contact details, budget, and terms and conditions. The form seems to be intended for use in a business or organizational setting, possibly for partnerships or collaborations. I'll provide a help guide for the user to understand the purpose and usage of the form.
-
-To determine the relevance and potential duplication of this form, it's essential to note that sponsorship agreements typically involve collaborations between entities, and this form appears to be a comprehensive tool for collecting all the necessary information about such agreements. However, without further context, it's difficult to say for certain whether this form is a duplicate of another form in the system or if it's a new addition. 
-
-</thinking>
-
 # Sponsorship Survey - Help Guide
 ## Purpose
 This form is designed to collect information about sponsorship agreements, including contact details, budget, and terms and conditions.

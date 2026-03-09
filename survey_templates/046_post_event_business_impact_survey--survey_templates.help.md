@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to be a survey to gather feedback from attendees about a specific event, in order to understand the business impact of the event. It asks for details such as event name, date, organizer, and attendee information, as well as feedback on the event's effectiveness, value, and areas for improvement. The form also asks for any recommendations or comments that the attendees may have. The questions are designed to be as specific as possible to gather relevant and actionable feedback. Please note that this form is only intended for events where the surveyor has a specific goal or objective in mind, and the feedback collected will be used to inform future event planning and improvement.
-
-Please make sure to complete this form only once for each event you attend.
-
-</thinking>
-
 # Post Event Business Impact Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback from event attendees to understand the business impact of the event.

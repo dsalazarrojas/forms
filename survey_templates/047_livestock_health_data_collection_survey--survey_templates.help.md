@@ -1,25 +1,3 @@
-<thinking>
-This form is designed to collect livestock health data from farms. The purpose of this form is to gather information about the overall health status of a farm's livestock, including disease management, vaccination history, and veterinary care. This form will help farmers and animal health professionals assess the health and productivity of their livestock.
-
-To complete this form, follow these steps:
-
-1. Choose whether the farm is at the start of the survey (`Survey Start`).
-2. Enter the farm's name, location, and size.
-3. Select the farm's health status and whether it manages diseases.
-4. Enter the farm's vaccination history, treatment administered, and veterinary care.
-5. Select the farm's biosecurity practices.
-6. Choose the type of animal species and breed on the farm.
-7. Enter the age range of the animals.
-8. Select the health status of the animals.
-9. Enter the mortality rate.
-10. Select the farm's operational status, the type of farm operator, and how long it has been in operation.
-11. Enter the name and contact information of the farm's contact person.
-12. Select whether a contact phone number is available.
-13. Enter the farm's contact email.
-14. Enter the farm's location coordinates and description.
-
-</thinking>
-
 # Livestock Health Data Collection Survey - Help Guide
 ## Purpose
 This form is designed to collect livestock health data from farms.

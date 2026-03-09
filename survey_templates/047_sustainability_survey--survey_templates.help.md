@@ -1,7 +1,3 @@
-<thinking>
-This form is a general purpose sustainability survey that aims to gather information on various sustainability topics. It consists of four sections with multiple text fields, asking users to report on what they saw, what they did, and other related information.
-</thinking>
-
 # Sustainability Survey - Help Guide
 ## Purpose
 This form is designed to gather responses on various sustainability topics, helping to understand people's perceptions and actions related to environmental and social responsibility. Please answer the questions honestly and thoroughly to provide valuable insights.

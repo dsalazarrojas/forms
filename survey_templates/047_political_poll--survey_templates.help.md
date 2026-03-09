@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect political views, parties, and candidate preferences from users. It is designed to gauge the political sentiment and opinions of the respondents. The form is not intended to be a comprehensive or scientifically valid measure of political views, but rather a lightweight and easy-to-use tool for gathering general feedback.
-
-To ensure that the form is filled out correctly, please review the following sections to understand what each field is for and how to complete it.
-
-</thinking>
-
 # Political Poll - Help Guide
 ## Purpose
 The Political Poll form is a survey designed to collect users' opinions on politics and government. It is not a formal scientific study, but rather a tool for gathering general feedback.

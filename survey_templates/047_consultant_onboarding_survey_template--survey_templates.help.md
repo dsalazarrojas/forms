@@ -1,8 +1,3 @@
-<thinking>
-This onboarding survey template is designed to help assess the quality and effectiveness of the onboarding process for new consultants. The goal is to gather feedback from the consultant on their overall onboarding experience, identifying areas of improvement, and providing suggestions for enhancement. This guide will walk you through each section and field of the survey, helping you understand what information is being collected and how to provide accurate and helpful feedback.
-
-</thinking>
-
 # Consultant Onboarding Survey Template - Help Guide
 
 ## Purpose

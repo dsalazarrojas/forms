@@ -1,19 +1,3 @@
-<thinking>
-
-To determine the purpose and relevance of this form, let's analyze the provided YAML. The form is for "Beta Tester Registration" which implies it is for individuals who want to participate in beta testing for a product. This is a form for collecting information from potential beta testers. Beta testing is a process where a limited number of users, often customers or enthusiasts, test a product or service to identify issues, bugs, or areas for improvement before its official release. The form appears to be designed to gather demographic and interest information from potential beta testers.
-
-The form is structured into several sections, including:
-
-1. Contact information (Full Name, Email Address, Phone Number, Mailing Address)
-2. Technical experience (Have you been a beta tester before, Primary Operating Systems Used, Specific Hardware Details)
-3. Availability and commitment (Time Commitment Weekly, Preferred Testing Areas)
-4. Interest and motivation (Why do you want to test our product)
-5. Legal and privacy agreements (Non-Disclosure Agreement, Privacy Policy Agreement)
-
-Non-duplication checks can be implemented through various ways such as email verification, phone number verification, etc.
-
-</thinking>
-
 # Beta Tester Registration Form - Help Guide
 ## Purpose
 The Beta Tester Registration Form is for individuals who want to participate in beta testing a product. It is used to collect demographic and interest information from potential beta testers to help the product team identify suitable candidates for the beta testing process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for a quiz about the European Monetary System (EMS), likely for users in the finance or economics field. The form is likely used to gather feedback or information about users' understanding of the EMS.
-</thinking>
-
 # European Monetary System Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge about the European Monetary System (EMS). The form will ask you questions about the EMS, its benefits, types, goals, and impact on your work or studies.

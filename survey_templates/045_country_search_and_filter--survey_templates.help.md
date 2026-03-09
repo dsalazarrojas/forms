@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a help guide for the "Country Search And Filter" form. The form is used to search and filter countries based on various criteria. The purpose of the form is to allow users to quickly find specific countries or filter a list of countries based on their preferences.
 
 The form is divided into two sections: searching and filtering. In the searching section, users can input a keyword in the "Search" field to find countries that match their search query. In the filtering section, users can choose to select one or multiple countries based on their preferences.

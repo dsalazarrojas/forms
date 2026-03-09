@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'd like to review the provided YAML fields and make sure I understand the form's purpose and requirements. The form seems to be designed for evaluating legal cases, collecting feedback and ratings from various stakeholders. It appears to be used to track and analyze case outcomes, case types, and other relevant information. Each field is related to the evaluation of a legal case, with some fields for collecting feedback and comments, and others for rating and categorizing the outcome.</thinking>
-
 # Legal Case Outcome Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help evaluate the outcome of legal cases, providing a structured way to collect feedback and ratings from various stakeholders, including case managers, lawyers, and clients. The form is essential for analyzing and improving the performance of case managers, lawyers, and the overall legal case process.

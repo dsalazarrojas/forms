@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Emergency Department Patient Satisfaction Survey - Help Guide
 
 ## Purpose

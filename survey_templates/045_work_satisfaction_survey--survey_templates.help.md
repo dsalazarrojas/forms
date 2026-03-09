@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to measure the overall satisfaction of employees with their job, management, company, and work environment. It is essential to fill it out accurately to provide valuable insights for HR department. Please ensure that you answer each question truthfully, and do not skip any questions. If you need help or clarification on any question, please ask your HR representative or the IT department.
-</thinking>
-
 # work_satisfaction_survey - Help Guide
 ## Purpose
 This form is designed to measure the work satisfaction of employees across various aspects, including job, management, company, and work environment. The information gathered will help the HR department to identify areas of improvement and make informed decisions for employee well-being and job satisfaction.

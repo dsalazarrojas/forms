@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about users' experiences and perceptions of virtual meetings. It is intended to measure collaboration fatigue, which is a common issue in modern remote work settings. The form will help identify potential areas for improvement in virtual meeting organization, duration, and communication. It should only be taken by individuals who have participated in virtual meetings in the past week, and it will not collect data on users who have not participated in virtual meetings.
-</thinking>
-
 # Online Collaboration Fatigue Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your experiences and perceptions of virtual meetings. It aims to identify potential areas for improvement in virtual meeting organization, duration, and communication.

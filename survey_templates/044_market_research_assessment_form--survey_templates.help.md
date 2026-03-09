@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # market_research_assessment_form - Help Guide
 ## Purpose
 

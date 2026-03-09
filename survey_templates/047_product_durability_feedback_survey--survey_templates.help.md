@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about the durability of a product. It's intended to assess how satisfied customers are with the product's quality, gather suggestions for improvement, and collect contact information for follow-up. 
-To avoid duplication and ensure accurate responses, please ensure that:
-- Each response is submitted with a unique identifier (e.g., unique email address or phone number).
-- The survey is filled out for the same product, without multiple submissions for the same product.
-- The responses are submitted with an honest and detailed account of the customer's experience.
-</thinking>
-
 # Product Durability Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about the durability of a product, including their level of satisfaction and suggestions for improvement.

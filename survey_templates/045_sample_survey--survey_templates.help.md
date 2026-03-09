@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers on their experience with our customer service. This form is used to gather information on their satisfaction with different types of customer service channels and what they would like to see more of in the future. This information will help us identify areas of improvement and make informed decisions on where to focus our resources.
-</thinking>
-
 # Sample Survey - Help Guide
 ## Purpose
 The Sample Survey is designed to collect feedback from customers on their experience with our customer service. We want to know what types of customer service they are most satisfied with and what they would like to see more of in the future.

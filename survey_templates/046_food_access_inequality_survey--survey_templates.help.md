@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess the food access inequalities in a given area. The purpose of this form is to collect information about the demographics of the household, their access to food sources, and the barriers they face in accessing food. This form is intended for households in a specific geographic area and is meant to be used to identify areas of inequality in food access. The form will be used to inform policy and program development to address these inequalities. 
-
-The form is structured to gather information on household demographics, access to food sources, and the distance and frequency of food source visits. The form also asks about the quality and cost of food sources, as well as any inpections (sic) encountered during food source visits.
-
-It is essential to provide accurate and honest information when completing this form. Please note that the information collected will be used to identify areas of food inequality and inform initiatives to address these disparities. If you have completed this form previously, please be aware that your information will not be duplicated, and any changes to your responses will be taken into consideration.
-
-Before starting, please note that some fields may be optional, but they all contribute to a better understanding of the food access landscape in the area.</thinking>
-
 # Food Access Inequality Survey - Help Guide
 
 ## Purpose

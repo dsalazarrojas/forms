@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Writing And Preaching Feedback Form - Help Guide
 
 ## Purpose

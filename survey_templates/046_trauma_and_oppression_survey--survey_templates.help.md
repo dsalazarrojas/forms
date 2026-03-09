@@ -1,9 +1,3 @@
-<thinking> 
-This form appears to be designed to collect information about traumatic experiences, specifically the types of traumatic events that a person may have undergone, as well as their feelings and emotions associated with these events. The form also aims to understand how the individual has accessed help and support for these experiences, both for themselves and others. 
-
-It is crucial that the respondent is aware that the answers provided will be used for survey purposes only, and their identity and responses will be kept confidential. 
-</thinking>
-
 # Trauma And Oppression Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect information about traumatic experiences, feelings, and emotions related to oppression and adversity.

@@ -1,9 +1,3 @@
-<thinking>... 
-
-This form is a "Ministry Satisfaction Survey" designed to gather feedback from the ministry's stakeholders. The purpose of this survey is to understand their satisfaction level with the ministry's services, programs, and community events. The feedback provided will help the ministry to identify areas of improvement and make data-driven decisions to enhance the quality of their services and events.
-
-</thinking>
-
 # Ministry Satisfaction Survey - Help Guide
 ## Purpose
 The Ministry Satisfaction Survey is a tool to gather feedback from ministry stakeholders to evaluate their satisfaction level with the ministry's services, programs, and community events. This information will help the ministry to understand what they are doing well and where they can improve.

@@ -1,5 +1,3 @@
-<thinking>...The form is designed for customers to provide feedback about their experience with the support team. The form collects information on the reason for contact, overall experience, satisfaction with issue resolution, preferences for email notifications, responsiveness, additional feedback, past support interactions, main issues contacted about, communication, and whether they would recommend the support team. This data will help the support team to identify areas for improvement and provide better service. Please ensure that you have filled out the form completely and honestly, as this will help us to better serve you in the future. Please note that some fields are optional, and you can provide any additional comments in the "additional feedback" field if you wish. This form will only be shared internally and will not be used for any external communication. If you have any questions or concerns, please feel free to contact us.</thinking>
-
 # Customer Support Feedback Survey - Help Guide
 
 ## Purpose

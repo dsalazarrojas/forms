@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Based Recycling Practices Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your recycling habits, practices, and suggestions for improving recycling in our community. The goal is to better understand the needs and challenges of our community members and identify opportunities for improvement.

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's briefly explain the purpose and requirements of this form: "Pre Installation Survey". The purpose of this form is to collect information from users before the installation of a system or application. This form is likely used by system administrators or IT personnel to gather details about the environment, system admin settings, user information, network, database, hardware, operating system, application, and other relevant details. It's essential to complete this form accurately to ensure a smooth and successful installation process. Please fill out the form carefully, and ensure you've reviewed all fields to avoid missing crucial information.</thinking>
-
 # Pre Installation Survey - Help Guide
 ## Purpose
 The Pre Installation Survey form is designed to collect information from users before the installation of a system or application. This information is crucial for a successful and smooth installation process.

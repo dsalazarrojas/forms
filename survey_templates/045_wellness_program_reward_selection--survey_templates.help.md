@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to allow users to select a reward for a wellness program. The purpose of the form is to gather information about the participant's preference for receiving a reward. The form has three pages: 1) "Select Reward", 2) "Delivery Details", and 3) "Participant Feedback". The form is not required to be completed in its entirety, but users are encouraged to provide as much information as possible. It's assumed that the user has already been enrolled in the wellness program and is now selecting their reward option.</thinking>
-
 # Wellness Program Reward Selection - Help Guide
 ## Purpose
 This form is designed to help you select a reward for your participation in a wellness program.

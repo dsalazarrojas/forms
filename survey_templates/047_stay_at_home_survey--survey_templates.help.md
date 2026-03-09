@@ -1,8 +1,3 @@
-<thinking>
-The goal of this form is to gather information about the experiences and attitudes of stay-at-home parents. The form is designed to be completed by parents who have chosen to stay at home to take care of their children, and it aims to understand their thoughts on various aspects of their lives, such as their favorite activities, work-from-home experiences, communication with family members, and overall happiness. By providing this information, the form will help identify patterns and trends in stay-at-home parents' lives.
-Please note that the form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created by AI using public survey topic metadata.
-</thinking>
-
 # Stay At Home Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about stay-at-home parents' experiences, thoughts, and attitudes towards their life at home. Your participation will help us better understand what it means to be a stay-at-home parent and how we can support you.

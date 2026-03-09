@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be a quiz about ocean geography, but its design and content suggest it might be more of a generic survey or questionnaire. I'll assume that the form is meant to gather information about the user's preferences, interests, and demographics. I'll aim to provide clear explanations for each field, but I'll also note that some of the fields might not be directly related to ocean geography.
-
-This form has 25 questions, and most of them seem to be unrelated to ocean geography. There might be some duplication or redundancy in the questions, which could be improved by refining the form's design or content.
-
-To provide a clear and concise help guide, I'll focus on explaining each field as is, without introducing unsupported business logic or making assumptions about the form's purpose.
-
-</thinking>
-
 # Ocean Geography Quiz - Help Guide
 ## Purpose
 This is a quiz/survey designed to gather information about your preferences, interests, and demographics. Please answer the questions to the best of your ability.

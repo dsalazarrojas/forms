@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who will be completing the "Training Effectiveness Survey" form. The purpose of this form is to gather feedback from users about the effectiveness of past training sessions. It is crucial that users complete the form honestly to provide valuable insights for improvement. If you have already completed this form, please do not submit it again.
-</thinking>
-
 # Training Effectiveness Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about the effectiveness of past training sessions. Your input will help us improve future sessions and provide better learning experiences.

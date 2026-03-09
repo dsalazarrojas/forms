@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students regarding their experiences with the winter assessment in your institution. The feedback is meant to be collected from students who have completed a specific program. The purpose of this form is to help instructors and administrators understand student perspectives and gain insights to improve the assessment process. Please ensure you've been assigned to a specific program before taking the survey, as the questions and comments are program-specific.
-
-Before starting, please make sure you're aware of the program you're taking and the instructor teaching it.
-
-This guide is intended to help you understand the survey questions and fields, which should be self-explanatory but might need a bit more context.
-</thinking>
-
 # Student Winter Assessment Survey - Help Guide
 ## Purpose
 The Student Winter Assessment Survey is designed to collect your thoughts and opinions about your experience with the winter assessment in the program you're taking. This survey aims to provide valuable insights to your instructor and the program administrators, helping them understand the strengths and weaknesses of the assessment process and make it more effective for future students.

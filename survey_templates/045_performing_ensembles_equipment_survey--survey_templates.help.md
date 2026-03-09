@@ -1,8 +1,3 @@
-<thinking>
-A user-facing help guide for the "Performing Ensembles Equipment Survey" form, which aims to collect data on instruments and equipment used by schools or organizations for performing ensembles. This form is likely used for inventory management, maintenance scheduling, and other organizational purposes. To avoid duplication, users should ensure that only one survey instance is created for each unique instrument and equipment item.
-
-</thinking>
-
 # Performing Ensembles Equipment Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the instruments and equipment used by performing ensembles in schools or organizations. This data will be used to maintain an inventory of equipment, schedule maintenance, and potentially inform future purchasing decisions.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pregnancy And Development Survey - Help Guide
 ## Purpose
 This form is designed to gather information about pregnancy and development-related experiences and outcomes. It includes fields for reporting pregnancy status, prenatal care habits, and various aspects of pregnancy, birth, and infant care. 

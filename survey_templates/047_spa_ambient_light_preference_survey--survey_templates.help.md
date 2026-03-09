@@ -1,8 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for a form that is used to collect feedback and preferences from spa visitors. This form is likely used to gather data on customer satisfaction and demographics.
-The form is composed of 17 fields, mostly multiple-choice questions and text fields. To ensure the form is completed correctly, it's essential to provide clear explanations for each field.
-</thinking>
-
 # Spa Ambient Light Preference Survey - Help Guide
 
 ## Purpose

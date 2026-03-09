@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect data about social media behavior and fatigue. It is intended to be completed by individuals who use social media platforms. The form has 20 questions, including multiple-choice questions and open-ended questions. The goal of this form is to gather information about social media usage habits, what motivates engagement, and how often participants use social media. This data will be used to understand and address social media fatigue.</thinking>
-
 # social_media_activism_fatigue_study - Help Guide
 
 ## Purpose

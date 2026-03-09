@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to support end-users in completing the Pet Brand Loyalty Study Survey form. To ensure that the form is completed accurately and efficiently, it is crucial to understand its purpose and structure.
-
-This form is designed to collect data on pet owners' behaviors, preferences, and perceptions related to their pet ownership. The survey aims to gather insights into the factors that influence pet owners' loyalty towards a particular brand, such as their purchase frequency, satisfaction with the brand, and the importance of various factors in their purchasing decisions. By completing this form, you will be contributing to the development of more effective marketing strategies for pet brands.
-
-Before starting, please note that this form consists of multiple pages, each focusing on a specific aspect of pet ownership and brand loyalty. Ensure that you complete all pages thoroughly, as the data collected will be used to inform business decisions. If you have any doubts or concerns, feel free to ask, and we will be happy to assist.
-
-To avoid duplication of answers and ensure accuracy, please complete each field according to the instructions below:
-
-</thinking>
-
 # Pet Brand Loyalty Study Survey - Help Guide
 ## Purpose
 This form is designed to gather data on pet owners' behaviors, preferences, and perceptions related to their pet ownership, in order to develop more effective marketing strategies for pet brands.

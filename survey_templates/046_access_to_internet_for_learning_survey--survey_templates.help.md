@@ -1,13 +1,3 @@
-<thinking>
-This form aims to gather information about students' access to the internet for learning purposes. To ensure the data collected is relevant and accurate, it's essential to follow these guidelines:
-
-* Only fill out this form if you are a student or have access to the internet for learning purposes.
-* Avoid duplication of responses as this form is meant to gather unique experiences and insights.
-
-This form will help us understand students' primary devices for schoolwork, their internet accessibility, internet speed, and how it affects their learning. By providing this information, you'll be contributing to our research on how to better support students' online learning needs.
-
-</thinking>
-
 # Access To Internet For Learning Survey - Help Guide
 
 ## How To Complete This Form

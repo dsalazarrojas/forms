@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # streaming_service_engagement_report_form - Help Guide
 ## Purpose
 

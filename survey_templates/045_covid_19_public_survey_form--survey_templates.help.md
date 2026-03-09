@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect demographic and opinion data from respondents regarding the COVID-19 pandemic and the COVID-19 vaccine. It aims to gather information on age group, location, and opinions on the vaccine's effectiveness and safety. The form also asks about vaccination status, intention to vaccinate, and concerns regarding the vaccine. Additionally, it explores trust in government health guidance, sources of COVID-19 information, and personal impact of the pandemic. Respondents are asked to provide their email address, as this information is required for survey submission. This form is designed for public use and is not affiliated with any particular survey platform.
-
-Before proceeding, please ensure that you haven't completed this form before, as it is meant for new respondents. If you are a repeat respondent, please do not submit this form again.
-
-This form is intended for general public use and is not affiliated with any particular organization or institution. If you are representing an organization, please do not submit this form on behalf of your organization.
-
-Please note that the email address provided will be used for survey submission tracking and will not be shared with any third party.
-</thinking>
-
 # COVID 19 Public Survey Form - Help Guide
 
 ## Purpose

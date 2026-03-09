@@ -1,7 +1,3 @@
-<thinking>
-The Pedestrian Safety Survey form is a tool used to collect information about pedestrian safety incidents. This form is designed to gather data on various aspects of pedestrian safety, including the identity of the pedestrian involved, the location and circumstances of the incident, and the severity of the injury. The purpose of this form is to provide insights for improving pedestrian safety.
-</thinking>
-
 # Pedestrian Safety Survey - Help Guide
 
 ## Purpose

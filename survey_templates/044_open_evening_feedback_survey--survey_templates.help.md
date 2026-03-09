@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Open Evening Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about an event, helping us understand their thoughts and feelings about the evening's activities, food, and overall experience. Please take a few minutes to complete this survey to provide us with valuable insights.

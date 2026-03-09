@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Academic Creativity In Teaching Survey - Help Guide
 ## Purpose
 This form is designed to understand your experiences and perspectives on creative teaching practices, aiming to gather insights on how teachers incorporate creativity in their lessons, the methods they use, and their challenges and successes in this area.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback from individuals about the perceived fairness of the recognition processes within the institution. The purpose of this form is to collect data on how individuals perceive the fairness of recognition processes, such as nominations, awards, and other forms of appreciation. This data will help the institution identify areas of improvement and make necessary adjustments to ensure that recognition processes are fair and unbiased. This form should only be completed by individuals who have personal experience with the institution's recognition processes, as their feedback will help the institution better understand their perceptions. Please ensure that you are providing feedback based on your personal experience and not on hearsay or general principles. If you've already provided feedback, please don't submit duplicate feedback.
-</thinking>
-
 # Academic Recognition Fairness Survey - Help Guide
 ## Purpose
 The Academic Recognition Fairness Survey is a feedback form designed to gather information on the perceived fairness of recognition processes within the institution. This survey will help the institution identify areas of improvement and make adjustments to ensure that recognition processes are fair and unbiased.

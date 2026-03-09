@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a survey template for a school system. The purpose of this form is to collect information about a school system from users. This information may include categorization, descriptions, and other relevant details. The form likely serves as a means to gather and organize data for administrative or planning purposes within the school system.
-</thinking>
-
 # School System Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a school system from users. It is meant to gather data for administrative or planning purposes within the school system.

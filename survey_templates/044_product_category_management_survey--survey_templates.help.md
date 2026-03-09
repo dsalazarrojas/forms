@@ -1,8 +1,3 @@
-<thinking>
-This form is used for product category management. It is meant to gather information from users about their preferences and ratings for specific product categories. The goal is to gain insight into user behavior and preferences for product development purposes.
-This form is a survey, and users should only fill it out once. If a user has already filled out this form, they should not be asked to do so again.
-</thinking>
-
 # product-category-management-survey - Help Guide
 ## Purpose
 This form is used to gather information from users about their preferences and ratings for specific product categories. This information will help us better understand user behavior and develop products that cater to their needs.

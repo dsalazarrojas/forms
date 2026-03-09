@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help organizations evaluate the effectiveness of their security measures in place. It is essential to regularly assess and improve security protocols to prevent data breaches and ensure the protection of sensitive information. This form will help identify areas of improvement and provide a clear understanding of the current security posture of the organization.
-
-Before completing this form, please ensure that the questions and responses are relevant to your organization's specific security measures. This form is not intended to be a one-time activity, but rather a continuous process to monitor and adjust security policies and procedures.
-
-Please answer the questions honestly and accurately, and provide specific examples or details when possible. The form is divided into two main sections: "Introduction" and "Conclusion." The questions in the "Introduction" section are designed to understand the current state of your organization's security measures, while the "Conclusion" section is meant to summarize the findings and provide recommendations for improvement.
-
-</thinking>
-
 # Security Measures Effectiveness Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help organizations evaluate the effectiveness of their security measures in place and identify areas for improvement.

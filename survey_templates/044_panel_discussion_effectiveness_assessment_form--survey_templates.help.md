@@ -1,10 +1,3 @@
-<thinking>
-This form was created to evaluate the effectiveness of a panel discussion, which is a type of presentation where a group of experts or stakeholders discuss and share their insights on a specific topic. The form is designed to gather feedback and opinions from participants on various aspects of the discussion, including the topic, presentation, panelists, engagement, overall effectiveness, and feedback.
-
-Before filling out this form, please ensure that you have not already completed it, as it may lead to duplication of effort and skew the results. This form should only be filled out by participants who have attended the panel discussion.
-
-</thinking>
-
 # Panel Discussion Effectiveness Assessment Form - Help Guide
 ## Purpose
 

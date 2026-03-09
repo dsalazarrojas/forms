@@ -1,7 +1,3 @@
-<thinking>
-The Volunteer Exit Survey is designed to gather information from departing volunteers about their reasons for leaving, experiences, and suggestions for improvement. This form is meant to help the organization understand the reasons behind the departure of volunteers and identify areas for improvement. It is recommended that volunteers complete this form after their departure to provide valuable feedback and insights to the organization. Please ensure that you are only completing this form if you have actually departed from the organization and are not planning to return.
-</thinking>
-
 # Volunteer Exit Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information from departing volunteers about their experiences, reasons for leaving, and suggestions for improvement.

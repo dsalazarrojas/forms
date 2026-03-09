@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Garage Door Opener Installation Survey - Help Guide
 ## Purpose
 This form is designed to collect information from customers about their garage door opener installation needs. This survey will help the service company to better understand the customer's preferences and requirements for the installation, ensuring a more efficient and personalized service.

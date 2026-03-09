@@ -1,7 +1,3 @@
-<thinking>
-This form collects visitor information for an art exhibition, ensuring that each visitor has a unique and engaging experience. By collecting data on visitor demographics, engagement, and overall impression, the form helps us understand who our visitors are, what they think of the exhibition, and how we can improve in the future. To avoid duplication, visitors are asked to fill out the form only once per visit.
-</thinking>
-
 # Art Exhibition Visitor Information Form - Help Guide
 ## Purpose
 This form is designed to collect information about visitors to the art exhibition, helping us understand their experiences and improve future exhibitions.

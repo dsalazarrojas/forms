@@ -1,7 +1,3 @@
-<thinking>
-We're creating a help guide for the "Academic Text Evaluation Survey" form. This form is designed to help evaluators assess and provide feedback on academic texts. The form collects information on the evaluator's credentials, the text being evaluated, and the evaluation criteria. This form will be used to gather feedback on various aspects of the text, including content relevance, argument quality, evidence support, writing clarity, originality, methodology, and conclusion validity. The evaluation process aims to provide a comprehensive assessment of the text, identifying both strengths and areas for improvement.
-</thinking>
-
 # Academic Text Evaluation Survey - Help Guide
 ## Purpose
 The Academic Text Evaluation Survey is a form designed to gather feedback on academic texts from evaluators. This form helps identify the strengths and weaknesses of a text, providing valuable insights for improvement.

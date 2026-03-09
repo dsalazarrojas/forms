@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Mid-Program Stress Assessment - Help Guide**
 ## Purpose
 This form is designed to assess the level of stress experienced by individuals or teams during a mid-program review. It helps to identify potential stress factors and their impact on overall performance. Completing this form ensures that we can better understand program stressors and identify areas for improvement.

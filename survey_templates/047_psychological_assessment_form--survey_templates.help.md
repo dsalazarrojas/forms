@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect data related to a person's mental state, goals, and experiences. This form is a survey template that gathers information on a person's psychological well-being, helping to identify patterns and trends in their mental health status. The questions cover various aspects of mental health, such as current feelings, goals, and duration of experiences. This form can be used by mental health professionals, researchers, or anyone interested in understanding mental health patterns.
-
-Please ensure that you are not filling out this form as part of a research or assessment process that may be conducted without your consent or proper informed consent. If you are unsure, please review the form carefully and ensure you understand its purpose and implications.
-
-This form may be subject to modification or extension based on feedback from users, and it does not claim to be exhaustive or definitive in its approach. If you have suggestions or concerns, please get in touch with the form author at form@gic.mx.
-
-</thinking>
-
 # Psychological Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect information on a person's mental state, goals, and experiences. It helps identify patterns and trends in mental health status.

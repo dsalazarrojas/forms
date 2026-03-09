@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Productivity System Setup Survey" form. The purpose of this form is to gather information about team productivity levels, current process improvements, and other aspects of the workplace that impact productivity. The form is designed to be completed by team members or administrators to gather feedback and insights that can help improve the productivity system in the organization. 
-
-This form should only be completed if you are a team member or administrator and have been authorized to do so. Please ensure that you have the necessary permissions to access and complete this form.
-
-Before starting, review the form carefully to ensure you understand the purpose and the questions being asked. If you have any doubts or concerns, please reach out to your supervisor or HR representative for clarification.
-
-Please note that the information collected through this form will be used to inform decisions and improvements to the productivity system. Your input is valuable, and we appreciate your participation.
-
-</thinking>
-
 # Productivity System Setup Survey - Help Guide
 ## Purpose
 The "Productivity System Setup Survey" form is designed to gather information about your team's productivity levels, current process improvements, and other aspects of the workplace that impact productivity. This information will help us understand areas for improvement and develop strategies to enhance the productivity system.

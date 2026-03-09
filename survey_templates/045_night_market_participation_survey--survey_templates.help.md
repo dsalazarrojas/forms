@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about users' experiences and feedback on a specific event held at night markets. The form is designed to capture various aspects of the event, such as event name, date, and time, as well as attendees' ratings and suggestions. This information will help event organizers better understand their audience and improve future events.
-To confirm, this form is a one-time submission, not a recurring or ongoing activity. It's essential to note that the form fields are designed to collect specific data points, and users should fill in the necessary fields to provide a comprehensive account of their experience. If a user has not attended the event, they can simply select "Attended" as "Option 2" or "Option 3", and provide feedback on other sections.
-</thinking>
-
 # Night Market Participation Survey - Help Guide
 ## Purpose
 The Night Market Participation Survey is designed to gather information about users' experiences and feedback on a specific event held at night markets. This data will help event organizers better understand their audience and improve future events.

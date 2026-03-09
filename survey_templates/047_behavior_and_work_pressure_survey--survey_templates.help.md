@@ -1,7 +1,3 @@
-<thinking>
-We are building a comprehensive survey to understand the behavior and work pressure experienced by employees in our organization. To ensure the survey remains focused on relevant and actionable data, please review the following questions and ensure you have not already provided similar feedback. This survey aims to gather your honest opinions and suggestions to help us improve the work environment and work-life balance for all employees.
-</thinking>
-
 # Behavior And Work Pressure Survey - Help Guide
 ## Purpose
 This survey is designed to gather information on your work pressure and behavior, including your workload manageability, stress factors, and suggestions for improvement. Your responses will help us understand your experiences and identify areas for organizational development.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supplier Evaluation Questionnaire - Help Guide
 ## Purpose
 The Supplier Evaluation Questionnaire is used to assess and document the performance of a supplier in various areas such as supplier performance, reliability, price, delivery time, communication, supplier information, contact person, payment terms, and order processing. This form helps in making informed decisions regarding supplier selection, evaluation, and improvement.

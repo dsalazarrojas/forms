@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for measuring and assessing the level of stress and burnout experienced by parents or caregivers. The purpose of this form is to help identify potential areas of stress and burnout in this population, providing valuable insights for caregivers to prioritize their own well-being and potentially seeking support systems. To complete this form, follow the steps below.
-</thinking>
-
 # Parent Stress And Burnout Survey - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Reactivation Survey - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As we create this help guide for the "Animal Healing Frequency Survey" form, we need to ensure that it's concise, concrete, and practical for end-users. We'll follow the provided YAML fields to provide a clear explanation of each field's purpose and requirements. This guide will help users understand the form's purpose, how to complete it, and what each field represents.</thinking>
-
 # Animal Healing Frequency Survey - Help Guide
 ## Purpose
 The "Animal Healing Frequency Survey" form is designed to gather information about your healing practices, experience, and work with animals. This survey aims to understand your frequency of conducting healing sessions, the types of animals you work with, and the benefits you commonly observe in your practice.

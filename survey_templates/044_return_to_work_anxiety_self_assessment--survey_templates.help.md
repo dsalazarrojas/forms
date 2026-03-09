@@ -1,10 +1,3 @@
-<thinking>
-As an expert form designer and technical writer, I've reviewed the provided YAML form structure and analyzed its purpose, fields, and requirements. This form is designed for a Return to Work Anxiety Self-Assessment, likely for employees or individuals returning to work after the COVID-19 pandemic. This form will help users gauge their feelings, concerns, and expectations before and after returning to the office. It also assesses their anxiety levels and provides space for suggestions and comments.
-
-To ensure that users provide accurate and relevant information, I will provide a clear and concise explanation of each field in the user guide below.
-
-</thinking>
-
 # Return To Work Anxiety Self Assessment - Help Guide
 ## Purpose
 This form is designed to help you assess your feelings and concerns before and after returning to the office after the COVID-19 pandemic. It will help you gauge your anxiety levels and provide valuable feedback for your organization's return to work strategy.

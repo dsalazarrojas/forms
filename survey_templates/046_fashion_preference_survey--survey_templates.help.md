@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to gather information on the fashion preferences of users. This form is meant to be a survey that asks users to express their opinions on various fashion-related topics. It is likely used for market research or to understand customer preferences.
-
-Please ensure that this form is not used for any other purpose that may compromise user data privacy or confidentiality. 
-
-This form should not be filled out if the user is not interested in fashion or does not want to participate in surveys.
-
-Before starting, please make sure you have not filled out this form before. If you have any questions or concerns, please do not hesitate to contact the form administrators.
-
-To fill out this form, please follow the instructions below.
-
-</thinking>
-
 # Fashion Preference Survey - Help Guide
 ## Purpose
 This form is designed to collect information on your fashion preferences. It includes questions about your favorite types of clothing, color schemes, price ranges, shopping frequency, preferred colors, styles, and purchase locations.

@@ -1,8 +1,3 @@
-<thinking>
-Form purpose: This form is for conducting a matrix evaluation survey, which is a type of assessment that involves evaluating multiple aspects of a performance area over a specific period. The form is designed to collect data and insights on the performance of various entities, such as teams, projects, or products, to help make informed decisions. The survey questions cover different aspects of the performance, including the evaluation period, evaluation start and end dates, score, and comments. The form is intended to help gather comprehensive information to analyze and improve performance.
-Relevance and non-duplication checks: Ensure that you are using the right form for your intended purpose. If you are looking to conduct a different type of survey, you might want to consider using a different form. Additionally, double-check that you have not already completed this form in the past.
-</thinking>
-
 # matrix evaluation survey - Help Guide
 ## Purpose
 The **matrix evaluation survey** form is designed to assess performance across various aspects and periods. It helps gather data and insights to make informed decisions.

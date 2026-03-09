@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to collect information about a person's technical personality, interests, and preferences in the field of technology. This information will be used to create a comprehensive profile of the individual's tech personality.
-
-To ensure this guide is useful and relevant, it's essential to confirm that the form is not being used for any other purpose.
-
-The Tech Personalty Quiz form has 18 questions that cover various aspects of a person's tech-related experiences and preferences. The form is designed to be completed by a single user at a time, and the results will provide valuable insights into their tech personality.
-
-To complete this form, follow the steps below:</thinking>
-
 # Tech Personalty Quiz - Help Guide
 ## Purpose
 The Tech Personalty Quiz is a form designed to collect information about a person's technical personality, interests, and preferences. The information collected will be used to create a comprehensive profile of the individual's tech personality.

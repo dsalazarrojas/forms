@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wine Survey - Help Guide
 
 ## Purpose

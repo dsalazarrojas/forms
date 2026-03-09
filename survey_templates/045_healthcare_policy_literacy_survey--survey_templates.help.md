@@ -1,10 +1,3 @@
-<thinking> 
-The goal of this form is to collect feedback and information regarding healthcare policies, ensuring that end users understand the purpose and requirements of the survey.
-This form is intended for healthcare professionals to provide their input and feedback on various aspects of healthcare policies, including their understanding, status, and recommendations.
-To prevent duplication, end users should not submit the form multiple times.
-
-</thinking>
-
 # Healthcare Policy Literacy Survey - Help Guide
 ## Purpose
 The Healthcare Policy Literacy Survey is designed to gather healthcare professionals' input and feedback on various aspects of healthcare policies. This survey is intended to improve policy understanding, provide status updates, and gather recommendations for policy improvements.

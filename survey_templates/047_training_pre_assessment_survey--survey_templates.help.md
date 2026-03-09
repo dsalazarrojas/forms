@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for the employee's training pre-assessment survey. This form is designed to gather details about the employee's training experience, including their skills, knowledge areas, and training status. The form is intended for employees who are undergoing training and helps track their progress and completion of training sessions. 
-To ensure accurate and complete data, it's essential to understand the purpose and relevance of each field. Please review each field carefully to provide the most accurate information.
-This form is meant for individual use, so please do not fill it out as part of a team or group project. Each employee should fill out this form independently to provide their personal data.
-</thinking>
-
 # training_pre_assessment_survey - Help Guide
 ## Purpose
 This guide is designed to help employees complete the training pre-assessment survey form accurately and efficiently.

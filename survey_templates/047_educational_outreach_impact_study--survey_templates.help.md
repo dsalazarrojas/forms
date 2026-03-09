@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about the impact of educational outreach activities on participants. The form has multiple sections and fields that gather data on participant details, activity ratings, feedback, and other relevant information. To ensure that this form is completed correctly and effectively, please read through the instructions and explanations provided below.
-
-</thinking>
-
 # Educational Outreach Impact Study - Help Guide
 ## Purpose
 The Educational Outreach Impact Study form is designed to assess the effectiveness of educational outreach activities in engaging participants and promoting learning.

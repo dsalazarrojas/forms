@@ -1,7 +1,3 @@
-<thinking>
-This is a form designed to collect feedback from guests who have attended a Friendsgiving event. The form is intended to gather opinions on various aspects of the event, including the guest feedback, rating of the food, comments, and willingness to attend future events. It's likely that this form will be used by event organizers to evaluate the success of the event and identify areas for improvement.
-</thinking>
-
 # Friendsgiving Event Survey - Help Guide
 ## Purpose
 This form is a post-event survey designed to gather feedback from guests who attended the Friendsgiving event. Your responses will help us understand your experiences and opinions about the event.

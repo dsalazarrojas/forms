@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 </thinking>
 
 # Refugee Status Assessment Survey - Help Guide

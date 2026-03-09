@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gaming Income Opportunities Survey - Help Guide
 ## Purpose
 This form is designed to collect information about gaming income opportunities. It's intended for gamers to provide details about their income streams, such as gaming channels, sponsorships, and other sources of income.

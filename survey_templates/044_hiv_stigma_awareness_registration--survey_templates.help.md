@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about HIV stigma awareness events and their attendants. It's crucial to gather accurate and relevant data to help organizations understand the effectiveness of their awareness campaigns and to provide valuable insights for future events. This form is not to be filled out for general events or non-HIV related events. Ensure that you're filling out this form for a relevant event.
-
-</thinking>
-
 # HIV Stigma Awareness Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information about HIV stigma awareness events, their attendance, and the needs and details of the attendees.

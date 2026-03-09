@@ -1,5 +1,3 @@
-<thinking>As a user-facing help guide, our goal is to provide clear and concise instructions for completing the Seasonal Collection Evaluation Form. This form is designed to assess the performance of seasonal collections in various aspects, such as overall feeling, rating, and other specific criteria. To ensure accurate and consistent responses, please carefully review each field and provide detailed and honest answers.</thinking>
-
 # Seasonal Collection Evaluation Form - Help Guide
 ## Purpose
 The Seasonal Collection Evaluation Form is used to evaluate the performance of seasonal collections, providing an assessment of their overall quality, features, and suitability. This form is essential for identifying strengths and weaknesses, making informed decisions, and driving improvements.

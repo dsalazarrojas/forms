@@ -1,11 +1,3 @@
-<thinking>As a financial analyst, I have worked with numerous forms related to personal finance and financial planning. While this form seems to cover a wide range of topics, I'll focus on understanding its purpose and structure. This form is designed to collect information about an individual's financial situation, goals, and strategies. It appears to be a comprehensive tool for assessing an individual's financial health and identifying areas for improvement. 
-
-However, I do not have more specific information about the context in which this form is used, such as the target audience or the specific financial services it is associated with. I assume it's meant to gather data for financial planning and advisory purposes. The form seems to be a general-purpose tool and may not be specific to any particular financial institution or service.
-
-The form consists of several fields that can be categorized into sections such as financial status, financial goals, financial planning, and financial institutions. There might be some redundancy or duplication in the fields, which could be due to different sections having overlapping or similar questions. 
-
-Before proceeding with writing the help guide, I will review each field in the form to ensure I understand its intended purpose and provide clear and concise explanations.</thinking>
-
 # Personal Finance Strategy Survey - Help Guide
 
 ## Purpose

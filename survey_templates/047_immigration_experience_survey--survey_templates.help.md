@@ -1,7 +1,3 @@
-<thinking>
-The form "Immigration Experience Survey" appears to be designed to collect information from individuals regarding their experiences with immigration-related services. This form may be used to gather feedback, identify areas of improvement, or monitor progress in the immigration process. To ensure that end-users understand the purpose and relevance of the form, it's essential to confirm that this is the correct form for them to fill out and that they are not duplicating their input elsewhere.
-</thinking>
-
 # Immigration Experience Survey - Help Guide
 ## Purpose
 The Immigration Experience Survey is a tool used to collect information about your experiences with immigration-related services. This form will help us understand your challenges, satisfaction levels, and the support you have received.

@@ -1,25 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the user's experience with our subscription service. We are interested in understanding their overall satisfaction with the service, how they interact with our service, and their preferences for products and services. The form has multiple pages, each with a specific set of questions that cover different aspects of the user's experience.
-
-When completing this form, please ensure that you provide as much detail as possible in the text fields. This will help us better understand your experience and preferences.
-
-Before we dive into the individual fields, let's clarify the form's structure. The form consists of 26 pages, but most of them have the same set of questions, with slight variations in the options or the question type. The pages are:
-
-1. Subscription Service Overview
-2. Contact Details
-3. Subscription Service Purchased (Date)
-4. Customer Relationship
-5. Customer Service Interaction
-6. Communication Channels
-7. Frequency of Communication
-8-10. More preferences and preferences-related fields
-
-This structure allows us to cover a wide range of topics while keeping the form concise and easy to fill out.
-
-To ensure that we don't miss any important information, please complete all the fields, especially the ones that are marked as "required". If you're unsure about any of the questions or options, please ask your support team for guidance.
-
-</thinking>
-
 # subscription_service_experience_questionnaire - Help Guide
 
 ## Purpose

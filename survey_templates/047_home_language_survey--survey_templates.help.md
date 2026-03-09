@@ -1,7 +1,3 @@
-<thinking>
-This form is a Home Language Survey, which is designed to collect information about a student's language proficiency, language spoken at home, language spoken outside the home, language first spoken, preferred language, additional languages spoken, age, grade level, school name, student ID, teacher name, subject, grade, student number, class, and school code. The survey is intended to help identify language usage patterns among students in schools. To ensure accurate and comprehensive data, it's essential that the form is filled out completely and correctly. It's crucial to note that some fields are required while others are optional, so make sure to fill out all the mandatory fields to avoid any issues. This form is meant to be completed by students, teachers, or other school staff, and the information collected will be used for educational research and development. Please refer to the specific fields below for more details on what each field entails.
-</thinking>
-
 # Home Language Survey - Help Guide
 
 ## Purpose

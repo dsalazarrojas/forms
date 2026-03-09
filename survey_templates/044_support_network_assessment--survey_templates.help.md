@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the support network of an individual, gathering information on their relationships and sources of support. This form is likely used in a social services or counseling context to evaluate the strength of an individual's support network. To prevent duplication, this form should only be filled out once per individual.
-
-</thinking>
-
 # Support Network Assessment - Help Guide
 ## Purpose
 The Support Network Assessment is a form used to gather information on an individual's relationships and sources of support. This information is crucial in understanding the strength and depth of their support network.

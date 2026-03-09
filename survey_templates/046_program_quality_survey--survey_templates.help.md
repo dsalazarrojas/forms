@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the quality of a program. It has 8 pages with text fields where users can provide their answers. The form is intended to gather information on the program's strengths and weaknesses, as well as suggestions for improvement.
-
-To avoid duplication, please ensure that you are filling out this form for a program you are familiar with.
-
-Please note that the form does not collect personal or identifying information. You can fill it out without worrying about your personal data being shared or used without your consent.
-
-</thinking>
-
 # Program Quality Survey - Help Guide
 ## Purpose
 The Program Quality Survey is designed to help us understand how well we're performing on our program. It's essential we hear from you to identify areas of improvement and what we do well.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about the app interface, gathering data on various aspects such as poll date, respondent details, app interface evaluation, and overall satisfaction. This form is likely used by developers or designers to assess the usability, accessibility, and user experience of their app interface. The form's structure and questions are likely based on common metrics used in user experience (UX) research and usability testing. Please note that the form's fields are quite granular, suggesting it's a comprehensive evaluation tool.</thinking>
-
 # App Interface Feedback Poll - Help Guide
 ## Purpose
 This form is designed to collect feedback on the app interface, covering aspects like poll date, user experience, and areas for improvement. 

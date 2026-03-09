@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fill In The Blank Survey - Help Guide
 ## Purpose
 The Fill In The Blank Survey form is designed to collect feedback and information from users in a simple and structured way. This form should be used when gathering opinions, preferences, or ratings from users, such as in market research, user engagement, or user experience surveys. **Please note that this form is not intended for collecting sensitive or personal data**.

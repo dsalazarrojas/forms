@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help users create a personal narrative writing guide that provides a structured approach to writing a story or essay. It appears to be a template for users to input their thoughts, experiences, and reflections in a series of text fields. This form might be used by writers, students, or individuals looking to reflect on their personal experiences. Before proceeding, please ensure you have not already created a similar form or template, as this form is likely intended to be a standardized guide for a specific use case.
-</thinking>
-
 # personal_narrative_writing_guide - Help Guide
 ## Purpose
 The personal narrative writing guide is a template for writing a story or essay by providing a structured approach to inputting thoughts, experiences, and reflections.

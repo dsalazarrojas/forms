@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # User Testing Survey - Help Guide
 
 ## Purpose

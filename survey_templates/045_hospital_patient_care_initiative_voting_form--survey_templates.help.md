@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospital Patient Care Initiative Voting Form - Help Guide
 ## Purpose
 This form is designed to collect opinions and feedback from hospital staff on the patient care initiative. The form aims to gauge the overall support among staff for the initiative and gather insights on how to improve patient care quality. Please complete this form to contribute to the improvement of patient care services in your hospital.

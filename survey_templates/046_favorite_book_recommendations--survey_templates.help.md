@@ -1,8 +1,3 @@
-<thinking>
-This form is for users to provide recommendations for books they have enjoyed reading. It is designed to collect information about the book's title, author, publisher, publication year, and other relevant details. This form is likely used by a library, bookstore, or online platform to gather data for book recommendations or book clubs.
-To ensure data quality and consistency, please ensure that you are providing accurate and relevant information.
-</thinking>
-
 # Favorite Book Recommendations - Help Guide
 ## Purpose
 This form is designed to collect information about books that users have enjoyed reading. It will help us understand their preferences and provide better recommendations.

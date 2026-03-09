@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for collecting information from investors about their experiences and opinions. It is designed to be completed by the investor themselves, and will help us understand their perspective and gather data for our internal analysis. This form should only be completed once per investor, and we recommend using it to survey a representative sample of investors to gather diverse perspectives. Please ensure that you do not duplicate surveys for the same investor.
-
-</thinking>
-
 # Investor Survey - Help Guide
 ## Purpose
 This form is for collecting information from investors about their experiences and opinions. It's designed to be completed by the investor themselves and will help us gather data for our internal analysis.

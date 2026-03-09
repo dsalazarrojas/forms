@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Chain Sale Event Voting Form - Help Guide
 ## Purpose
 The Retail Chain Sale Event Voting Form is designed to gather feedback from customers and employees on the success and organization of retail chain sale events. The data collected will help the store management team identify areas for improvement and make informed decisions for future events.

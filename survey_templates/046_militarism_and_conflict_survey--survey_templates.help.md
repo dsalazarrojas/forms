@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Militarism And Conflict Survey - Help Guide
 
 ## Purpose

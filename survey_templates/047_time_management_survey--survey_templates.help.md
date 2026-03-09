@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help employees assess their time management habits and preferences. It's crucial to understand the form's purpose and relevance to avoid duplication of similar surveys. If you have already filled this form, your responses are not saved, and the survey is not tracking your progress. Please ensure you have permission from your supervisor to fill this form and that it's not a part of a larger project with identical or similar surveys.
-</thinking>
-
 # Time Management Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your time management habits and preferences. This survey will help employees understand their time usage patterns and identify areas for improvement.

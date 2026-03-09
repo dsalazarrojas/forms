@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from players about their gameplay strategy and performance in a game. It is intended for players to provide insights on their playing style, strengths, and weaknesses. This form should be completed by players who have played the game and would like to offer feedback on their strategy and performance. 
-
-Please note that this form should not be filled out by players who have not played the game. 
-
-To ensure that your feedback is accurate and helpful, please do not submit duplicate responses. If you have already submitted feedback, you should not re-complete this form.
-</thinking>
-
 # Gameplay Strategy Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from players about their gameplay strategy and performance in a game. It is intended for players who have played the game and would like to offer insights on their playing style, strengths, and weaknesses.

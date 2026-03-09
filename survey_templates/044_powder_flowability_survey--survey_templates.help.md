@@ -1,14 +1,3 @@
-<thinking> 
-This form is designed to collect user feedback and input on powder flowability surveys. The purpose of the form is to gather data on the powder flowability of various powders, which is a measure of how well a powder can flow or move through a system, such as a hopper or a chute. This data will be used to help manufacturers and researchers improve the design and production of powders. 
-
-The form is divided into multiple pages, each with its own set of questions and fields. Each field is designed to collect specific information about the powder being evaluated. The form will help users provide detailed and accurate information about the powder's flowability.
-
-Please note that this form is not intended for production purposes, but rather for gathering feedback and input from users. It's essential to provide clear and concise answers to each question to ensure that the data collected is accurate and reliable.
-
-Before proceeding, please ensure that you have read and understood the purpose of this form and the instructions provided. If you have any questions or concerns, please don't hesitate to reach out to the form administrators.
-
-</thinking>
-
 # Powder Flowability Survey - Help Guide
 
 ## Purpose

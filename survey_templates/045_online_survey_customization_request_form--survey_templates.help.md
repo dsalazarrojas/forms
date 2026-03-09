@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Online Survey Customization Request Form - Help Guide**
 ## Purpose
 The Online Survey Customization Request Form is used to request customizations for online surveys. This form is intended for users to provide details about the specific customizations they need for their surveys. 

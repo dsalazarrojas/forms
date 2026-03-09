@@ -1,7 +1,3 @@
-<thinking>
-The Exit Interview Form is a critical component of the exit interview process. It serves as a structured questionnaire designed to gather information about the reasons behind an employee's departure from the company. This form is intended to identify areas of concern or potential improvements that can be addressed to prevent future similar departures. It's essential to complete this form accurately and thoroughly to gather relevant information and ensure that the exit interview process is carried out effectively. Please ensure that you are completing this form for your current or previous role and not duplicating efforts by submitting the form for the same position or employee.
-</thinking>
-
 # Exit Interview Form - Help Guide
 ## Purpose
 The Exit Interview Form is a survey designed to gather information about the reasons behind an employee's departure from the company.

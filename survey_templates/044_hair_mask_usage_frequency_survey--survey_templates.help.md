@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed to gather information on how often users use hair masks, what type they use, and what their satisfaction levels are with various aspects of hair masks. It appears to be collecting data for market research or customer feedback purposes. This form does not seem to be a redundant or duplicate effort, as it's likely to be a one-time or infrequent survey. I'll create a help guide based on the provided YAML fields.
-</thinking>
-
 # Hair Mask Usage Frequency Survey - Help Guide
 ## Purpose
 This survey is designed to gather your thoughts and experiences about hair masks. Your responses will help us understand your habits, preferences, and satisfaction levels with hair masks. Please answer the questions honestly, and feel free to provide any additional comments or feedback you may have.

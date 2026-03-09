@@ -1,7 +1,3 @@
-<thinking>
-The "Media Production Employment Flexibility Impact Survey" is designed to gather feedback from employees on their work-life balance and satisfaction with their job. This form aims to understand how various factors, such as flexible work arrangements, working hours, and job performance, affect the overall satisfaction and well-being of employees in the media production industry.
-</thinking>
-
 # Media Production Employment Flexibility Impact Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees on their work-life balance and satisfaction with their job. It's intended for employees in the media production industry who have a flexible work arrangement. The goal is to understand how various factors, such as work-life balance, job performance, and company performance, affect the overall satisfaction and well-being of employees in this industry.

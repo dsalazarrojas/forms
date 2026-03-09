@@ -1,5 +1,3 @@
-<thinking>Financial coaching feedback form is a structured form used by financial coaches to gather feedback from clients after a coaching session. This form is designed to be filled out by coaches to provide valuable insights into their coaching performance and client satisfaction. To ensure consistency and accuracy, it is essential to fill out this form for every coaching session. Please fill out the form for every coaching session, and do not duplicate or skip any fields without a valid reason.</thinking>
-
 # financial_coaching_feedback_form - Help Guide
 ## Purpose
 This form is used to gather feedback from clients after a coaching session, helping coaches to evaluate their performance and identify areas for improvement.

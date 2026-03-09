@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the form is to collect feedback on the IT tech resources, specifically to gauge the satisfaction and usage of the assigned tools, support frequency, and overall satisfaction of the respondents. This form is intended to gather information that will help in assessing the effectiveness of the IT tech resources and making necessary improvements.
-</thinking>
-
 # IT Tech Resources Satisfaction Employment Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on IT tech resources, including satisfaction, tool usage, and support.

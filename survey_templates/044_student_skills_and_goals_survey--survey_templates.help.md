@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about students' skills and goals. This form is designed to be completed by students to provide insight into their strengths and areas of improvement. Please ensure that you are completing this form to provide accurate and honest information about yourself. Completing this form multiple times with significantly different answers may indicate that you are not providing truthful information.
-
-This form is meant to be a self-assessment tool to help students identify their skills and goals and potentially aid in their personal and academic growth. This is not a test or a quiz, and you should feel free to answer in a way that makes you feel most comfortable.
-
-Before you begin, take a moment to review the form carefully. If you need any assistance or clarification, please reach out to the responsible authority.
-
-</thinking>
-
 # Student Skills And Goals Survey - Help Guide
 ## Purpose
 The Student Skills And Goals Survey is a self-assessment tool designed to help students identify their skills and goals. It is meant to be a personal and honest reflection of your strengths, areas of improvement, and objectives.

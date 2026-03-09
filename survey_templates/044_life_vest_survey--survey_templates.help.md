@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information about the user's interaction with life vests, specifically their ownership, usage frequency, and duration of use. It's essential to complete this form accurately to help us better understand how life vests are used in the wild.
-
-To avoid duplication of effort and ensure the collected data is reliable, please fill out the form only once you've been prompted to do so. This will help us maintain a consistent and accurate database.
-
-Before submitting the form, please review each field to ensure you've entered the correct information. If you're unsure about a particular field, you can ask for clarification.
-</thinking>
-
 # Life Vest Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your interaction with life vests, including how many you own, how frequently you use them, and for how long.

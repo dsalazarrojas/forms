@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about the household management systems and experiences of users. It is meant to provide insight into how users manage their household chores, who does them, and what tools or systems they use to manage tasks. The goal is to understand the current state of users' household management, identify pain points, and suggest potential improvements.
-
-This form is not intended to be filled out by users who do not have experience with household management or do not have a household with others. It is recommended that users with a household of one or without others do not fill out this form.
-
-Please note that this form is not a survey, but rather a collection of questions meant to gather information and opinions from users.
-
-</thinking>
-
 # Chore Management Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the household management systems and experiences of users. It is meant to provide insight into how users manage their household chores, who does them, and what tools or systems they use to manage tasks.

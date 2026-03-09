@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a survey designed to gather information about cryptographic communication. The form likely aims to collect data on the adoption and usage of cryptographic technology, including the importance and benefits of using it. The form's fields suggest that it will ask about the user's confidence in adopting cryptographic technology, the importance of it, and the obstacles and solutions related to its adoption. However, without further context, it's difficult to confirm the form's exact purpose. To avoid duplication, I will assume that the form is intended to collect data from a specific group of people, possibly related to a particular industry or organization.
-
-</thinking>
-
 # Cryptographic Communication Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your adoption and usage of cryptographic technology. The survey aims to understand your confidence in using cryptographic technology, its importance, and the obstacles and solutions related to its adoption.

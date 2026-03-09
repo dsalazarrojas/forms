@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Family Leave Benefits Survey - Help Guide
 
 ## Purpose

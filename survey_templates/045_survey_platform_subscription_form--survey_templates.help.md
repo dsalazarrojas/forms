@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their subscription to the survey platform. This form is designed to help us understand the user's preferences and categorize them accordingly. It's essential to fill out this form carefully to ensure accurate categorization. Please note that this form is not intended for users already subscribed to the platform. 
-</thinking>
-
 # Survey Platform Subscription Form - Help Guide
 ## Purpose
 The Survey Platform Subscription Form is designed to collect information from users about their subscription to the survey platform. This form helps us understand the user's preferences and categorize them accordingly. It is intended for new users who have not yet subscribed to the platform.

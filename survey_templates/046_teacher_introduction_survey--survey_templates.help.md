@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect introductory information about a teacher, such as their title, username, email, phone number, and a brief description. This form is likely used for administrative or organizational purposes, such as creating a database of teacher profiles or sending notifications to teachers.
-
-To determine the relevance of this form, I assume that it is part of a larger system for managing teacher information. If that's not the case, this form might be used for other purposes, such as collecting feedback or survey data.
-
-To avoid duplication of effort, let's make sure to review this guide for completeness and accuracy before proceeding.
-
-</thinking>
-
 # teacher-introduction-survey - Help Guide
 ## Purpose
 This form is used to collect introductory information about a teacher, including their title, username, email, phone number, and a brief description.

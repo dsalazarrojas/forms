@@ -1,7 +1,3 @@
-<thinking>
-This form is likely intended to gather information for procurement purposes, such as planning and budgeting for a potential purchase or acquisition. The form may be used by procurement teams within an organization to gather requirements and objectives for a new project or initiative. The questions on this form likely aim to elicit specific details about the scope, timeline, budget, and expected outcomes of the procurement process.
-</thinking>
-
 # Procurement Survey - Help Guide
 ## Purpose
 This form is used to gather information for procurement purposes, including planning and budgeting for a potential purchase or acquisition. It's intended for use by procurement teams within an organization.

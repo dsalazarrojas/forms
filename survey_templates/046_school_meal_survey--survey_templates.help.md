@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from students about their experience with school meals. The purpose of this form is to collect data on various aspects of the school meal program, including food quality, teacher rating, and mealtime. By filling out this form, students can provide valuable insights that can help school administrators make informed decisions to improve the meal program. This form is not intended to be a replacement for any existing form or survey, but rather a complement to gather additional information from students. Please ensure that the responses are accurate and genuine to help us better understand your experience.
-
-</thinking>
-
 # School Meal Survey - Help Guide
 ## Purpose
 The School Meal Survey is a tool to gather feedback from students about their experience with school meals. The data collected will help school administrators make informed decisions to improve the meal program.

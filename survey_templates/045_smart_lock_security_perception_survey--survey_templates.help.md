@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Lock Security Perception Survey - Help Guide
 
 ## Purpose

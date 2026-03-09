@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback on the effectiveness and usability of an audit checklist used in the field. This feedback is crucial for improving the audit process and making it more efficient and effective. To prevent duplication, this form should only be used by authorized reviewers who have completed the audit.
-
-To ensure accurate and reliable feedback, please read each section carefully and provide thorough explanations where necessary.
-</thinking>
-
 # Audit Checklist Review Survey - Help Guide
 
 ## Purpose

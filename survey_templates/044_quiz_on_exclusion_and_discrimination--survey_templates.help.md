@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be a collection of questions that aim to gauge the experiences of respondents with regard to exclusion and discrimination. It's not affiliated with, endorsed by, or derived from any form platform, but rather an original adaptation using AI-generated form schema. This form is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and even sell derivatives of it, as long as they give credit.
-
-This form seems to be designed for collecting personal accounts of exclusion and discrimination experiences, with 10 questions that ask respondents about their own experiences or observations of others. It's possible this form is intended for academic, research, or advocacy purposes, but without more information on the specific context, it's difficult to determine the exact use case.
-
-Before proceeding, it's crucial to ensure that this form is not duplicated or used for malicious purposes. Please review the form carefully to ensure it aligns with your goals and objectives.
-
-</thinking>
-
 # Quiz On Exclusion And Discrimination - Help Guide
 
 ## Purpose

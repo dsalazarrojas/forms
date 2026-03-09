@@ -1,5 +1,3 @@
-<thinking>This form is designed to evaluate the effectiveness of a disaster evacuation plan in a facility or organization. It's essential to understand the purpose and goals of the plan, which is to ensure that participants, employees, and emergency contact persons are safe and prepared in the event of an emergency. This form is not designed for emergency situations but rather for planning and assessment of the plan's efficiency and safety measures. Ensure that you have filled out all relevant sections before submitting the form. Ensure that the form's fields are accurately completed and that all questions are understood correctly. Please review and understand each field before proceeding.</thinking>
-
 # Disaster Evacuation Plan Evaluation Form - Help Guide
 
 ## Purpose

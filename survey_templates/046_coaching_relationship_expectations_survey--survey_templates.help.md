@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used to collect information about the expectations and preferences of coaching clients regarding their relationship with their coach. This information will help coaches understand the client's needs and boundaries, ensuring a positive and effective coaching experience.
-
-Before filling out this form, please check if you have already completed a similar survey in the past few months. If you have, this survey might be redundant, and you can skip it for now. However, if you are in the initial stages of coaching, this form will help your coach and you understand each other's expectations and needs better. Please take a few minutes to fill out this survey carefully, and don't hesitate to share any additional comments or concerns you may have.</thinking>
-
 # Coaching Relationship Expectations Survey - Help Guide
 ## Purpose
 This survey is designed to help you clearly communicate your expectations and preferences for your coaching relationship with your coach. It will help ensure that both you and your coach are on the same page, setting a strong foundation for a positive and productive partnership.

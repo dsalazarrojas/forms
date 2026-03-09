@@ -1,5 +1,3 @@
-<thinking>... internal logic dictates that this form is for capturing audio feedback from public room events. This form should be used by event organizers to gather feedback from attendees on the public room's audio quality, providing an opportunity for continuous improvement. This guide will walk users through the form's purpose and how to complete it effectively... </thinking>
-
 # public_room_audio_feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback on the audio quality of public rooms used for events. Event organizers use this form to collect information from attendees on the sound level and overall experience, helping to identify areas of improvement and ensure that the public room meets the expected standards.

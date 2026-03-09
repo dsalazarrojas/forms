@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Website Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from website visitors to improve the user experience and overall satisfaction with the website. The survey will ask questions about the website's design, functionality, and user experience to help us identify areas for improvement.

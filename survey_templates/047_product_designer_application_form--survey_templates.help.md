@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for individuals to apply for a Product Designer position. The form collects contact information, work history, and other relevant details for the applicant to demonstrate their qualifications and experience. 
-
-We want to attract top talent and avoid duplicate applications. Before submitting the form, please ensure that you are eligible and not already a registered user with us. 
-
-Note to self: This form should ideally be filled out by one person per user. 
-
-</thinking>
-
 # Product Designer Application Form - Help Guide
 ## Purpose
 This form is designed for individuals to apply for a Product Designer position at our company. Fill out this form to showcase your skills and experience in product design, and we'll review your application for potential future opportunities.

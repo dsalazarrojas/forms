@@ -1,9 +1,3 @@
-<thinking>
-This form is a Soccer Survey used to collect information about soccer players. The form is used to gather data on player info, position, height, game experience, game frequency, training hours, team name, and game day start time.
-This form is designed to be completed by soccer players and is not intended for general public use. The form data will be used for analysis and planning purposes.
-To ensure accurate data collection, please make sure to complete the form correctly.
-</thinking>
-
 # Soccer Survey - Help Guide
 ## Purpose
 The Soccer Survey form is designed to collect information about soccer players, which will be used for analysis and planning purposes.

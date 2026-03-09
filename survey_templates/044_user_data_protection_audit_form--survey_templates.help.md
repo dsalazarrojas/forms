@@ -1,8 +1,4 @@
-### <thinking>
-This form is used to assess the level of user data protection within an organization. It helps ensure that the company is meeting its obligations to safeguard personal and non-personal data. The form should only be filled out once per year, and it's essential to review the results to identify areas where the company may need to improve its data protection practices.
-</thinking>
-
-# User Data Protection Audit Form - Help Guide
+### # User Data Protection Audit Form - Help Guide
 ## Purpose
 
 The User Data Protection Audit Form is a self-assessment tool designed to help organizations evaluate their level of user data protection. It's a crucial step in ensuring that your organization is meeting its data protection obligations and identifying areas where improvement is needed.

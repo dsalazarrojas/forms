@@ -1,9 +1,3 @@
-<thinking>
-The form "explore_your_family_heritage" is intended for users to share their personal family history, tree, and relationships. This form will collect data to help users explore and understand their ancestral origins, family events, and connections with relatives. To ensure relevance and non-duplication of effort, please make sure to only fill out the form if you're genuinely interested in exploring your family heritage.
-
-Before filling out the form, consider that it's divided into sections, each focusing on a different aspect of your family history. Please complete the form in order, moving from the first to the last page.
-</thinking>
-
 # explore_your_family_heritage - Help Guide
 ## Purpose
 This form is designed to help you explore and understand your family's past, including their origins, events, and relationships.

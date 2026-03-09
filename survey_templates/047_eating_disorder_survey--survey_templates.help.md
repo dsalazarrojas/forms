@@ -1,7 +1,3 @@
-<thinking>
-This form aims to collect information from patients on their eating habits and behaviors. To determine the form's relevance, you should consider your personal experience, medical history, and current eating patterns. If you have already completed a similar survey or have concerns about your eating habits, please do not complete this form. This form was created using an AI tool and is intended to be an original work, based on publicly available information.
-</thinking>
-
 # Eating Disorder Survey - Help Guide
 ## Purpose
 

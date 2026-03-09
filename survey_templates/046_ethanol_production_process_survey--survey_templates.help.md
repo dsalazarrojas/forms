@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the ethanol production process from users. This form helps to gather data on plant location, production capacity, process type, production volume, production frequency, start and end dates, production time, production shift, operators involved, equipment used, production capacity units, ethanol quality, comments, assigned personnel, and phone numbers. This form is designed for internal use only and is not intended for external distribution. It's essential to fill out the form accurately and completely to ensure that the information collected is reliable and useful for the organization. Please note that some fields are optional, but it's crucial to provide as much detail as possible to ensure that the information gathered is comprehensive and valuable. This form is part of a larger survey process that aims to gather data on the ethanol production process across various plants and facilities.</thinking>
-
 # Ethanol Production Process Survey - Help Guide
 ## Purpose
 

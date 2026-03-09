@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be an End Of Year Survey designed to collect feedback and opinions from employees about their work environment, satisfaction with company culture and management, and communication with their managers. The form is likely used for employee engagement and to identify areas for improvement in the organization. Before proceeding, please ensure that you have the necessary approvals and permissions to complete this form. If you've already completed a similar survey, please do not repeat your responses. This form contains sensitive information and is intended for internal use only. Please provide honest and constructive feedback. If you're unsure about a question or option, please ask your manager or HR representative for guidance.</thinking>
-
 # End Of Year Survey - Help Guide
 ## Purpose
 This guide will walk you through the End Of Year Survey form. The survey is designed to collect feedback and opinions from employees about their work environment, satisfaction with company culture and management, and communication with their managers.

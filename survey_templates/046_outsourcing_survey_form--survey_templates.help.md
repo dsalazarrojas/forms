@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form? This form, titled "Outsourcing Survey Form", is used to gather information about the outsourcing partners and their progress. It seems to be used for tracking and monitoring the outsourcing process. The form has multiple pages with various fields for different aspects of the outsourcing, including survey questions, partner information, and progress tracking. Before proceeding, please ensure that you are filling out this form for the correct purpose and that you have the necessary information to complete it accurately.</thinking>
-
 # Outsourcing Survey Form - Help Guide
 
 ## Purpose

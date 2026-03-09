@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a game of Mafia, a popular social deduction group game. The purpose of this form is to allow players to submit accusations against other players, providing details about their reasoning and the host's position in the game. This form is intended for use in the context of online game sessions, where players may be anonymous or have limited interaction with each other. It's essential to fill out this form accurately and truthfully to ensure that the game host and other players receive the information they need to make informed decisions. Before submitting the form, please ensure that you're filling it out for a game session that you have participated in or have a valid reason for submitting the accusation. Duplicate submissions will not be accepted.
-</thinking>
-
 # Mafia Game Accusation Form - Help Guide
 ## Purpose
 The Mafia Game Accusation Form is designed to collect information about accusations made during a game of Mafia.

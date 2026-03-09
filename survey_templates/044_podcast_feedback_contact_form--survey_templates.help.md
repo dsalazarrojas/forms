@@ -1,11 +1,3 @@
-<thinking>
-This is a technical exercise to create a user-facing help guide for a podcast feedback contact form. The form's purpose is to collect feedback from users about their experience with a podcast. The form will be used to gather information about the episode they listened to, any issues they faced, and their name and email to send the feedback to the podcast team. The form is designed to be used by users who want to provide feedback, and the information gathered will be used to improve future episodes and the overall user experience.
-
-The form is structured into multiple pages, each with its own set of fields. Page 1 asks for the user's rating of the podcast, the episode they listened to, and their permission to contact them. Page 2 asks for their name, email, and message with their feedback. This structure allows the user to provide detailed and focused feedback.
-
-Before completing this form, please ensure you have a valid email address to send the feedback to, and please be as detailed as possible in your feedback. If you have any issues or concerns, please describe them in the "Message" field. If you give consent to be contacted, we will use the "Permission" field to keep you updated on any further changes or improvements made.
-</thinking>
-
 # Podcast Feedback Contact Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with a podcast. The information gathered will be used to improve future episodes and the overall user experience.

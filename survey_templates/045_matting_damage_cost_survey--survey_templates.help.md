@@ -1,9 +1,3 @@
-<thinking>**Internal Reasoning Block**
-
-To create a user-facing help guide for this form, I'll analyze the provided YAML fields. The form is for a "Matting Damage Cost Survey" which likely involves assessing the cost of matting damage, possibly related to carpet or upholstery damage. The form has three fields: "Damage Description" (a text field), "estimate" (a number field), and "Total Cost" (a number field). The form seems to be used for collecting information about damage and estimating or reporting its cost. The fields are not marked as required, so users may choose not to fill them if they don't have the necessary information. The purpose of this form is to collect data, so it's essential to provide clear instructions and explanations to ensure accurate and complete responses.
-
-</thinking>
-
 # Matting Damage Cost Survey - Help Guide
 ## Purpose
 This form is used to collect information about matting damage and estimate or report its cost. Please fill out the form to provide a detailed description of the damage and the total cost associated with it.

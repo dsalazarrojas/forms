@@ -1,5 +1,3 @@
-<thinking>Before creating this form's help guide, let's ensure that it's clear that this form is meant for users to assess their knowledge of accounting and IFRS standards. This guide will cover the purpose of the form, how to complete it, and a detailed explanation of each field. I will also check for any potential duplication of information and ensure that the guide is concise and practical.</thinking>
-
 # Accounting And IFRS Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to evaluate your knowledge of accounting and IFRS (International Financial Reporting Standards) standards. It will help you identify areas where you need to improve your understanding of these important financial standards.

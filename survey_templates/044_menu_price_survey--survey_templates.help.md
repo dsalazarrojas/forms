@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback and data about menu prices from restaurants. It is intended to help restaurants and business owners understand their menu price strategy and make informed decisions. It is not to be used for other purposes, such as general customer feedback or review purposes. This form is a one-time survey and does not need to be filled out by the same person multiple times.
-</thinking>
-
 # Menu Price Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect data about menu prices from restaurants. This form is intended to help restaurants understand their menu price strategy and make informed decisions.

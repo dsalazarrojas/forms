@@ -1,9 +1,3 @@
-<thinking>
-
-We designed this form to gather feedback and information from facility staff on their perceptions of facility modernization. This survey is part of our ongoing effort to improve facility management practices and services. Please answer the questions as honestly as possible, and feel free to provide any additional comments or feedback in the "Feedback" field if you have thoughts on how we can improve.
-
-</thinking>
-
 # Facility Management Modernization Survey - Help Guide
 ## Purpose
 This form is intended to gather information and feedback from facility staff on their perceptions of facility modernization. It is designed to help us understand your experiences and thoughts on our current facility management practices and services.

@@ -1,13 +1,3 @@
-<thinking>
-This form aims to collect participant demographics and perceptions on access to affordable care in their community. The form is designed to understand the challenges and barriers faced by participants in accessing healthcare services, including affordability, availability, and accessibility. The form's sections cover participant demographics, affordability perceptions, access to care, community barriers, and potential areas for improvement. 
-
-This form is an original adaptation of a public survey topic and not affiliated with any form creation or data collection platform. It is released under a Creative Commons license, allowing users to use, modify, and share it freely, as long as they provide credit.
-
-Please note that this form is for educational and research purposes only. It is not meant to replace official surveys or medical advice. The results of this form should not be used as a substitute for professional medical guidance. 
-
-Before starting, ensure that you have not filled this form before, as the results will not be linked to previous submissions. Each form submission will be treated as an individual response. 
-</thinking>
-
 # Access To Affordable Care Perception Survey - Help Guide
 ## Purpose
 This form aims to gather information on participants' perceptions and experiences with accessing affordable care in their community. The goal is to identify areas for improvement and provide insights on how local organizations can better serve their community.

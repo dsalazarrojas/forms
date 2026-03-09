@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about users' awareness and behavior related to ocean plastic pollution. This form will help us understand how often users visit the beach, their involvement in beach cleanups, use of reusable bags, avoidance of single-use plastic products, use of refillable water bottles, and support for organizations working to reduce plastic pollution. We will review the form to ensure that it is free of duplicated or irrelevant information. We will also double-check the form to ensure that it is complete and accurate in its current state. Please let us know if you have any questions or need further clarification on any aspect of this form. After reviewing the provided YAML file, we have a clear understanding of its purpose and structure.
-</thinking>
-
 # Ocean Plastic Awareness Survey - Help Guide
 ## Purpose
 This form is designed to collect information about users' awareness and behavior related to ocean plastic pollution.

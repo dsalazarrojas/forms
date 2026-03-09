@@ -1,8 +1,3 @@
-<thinking>
-To ensure the form is used for its intended purpose and to prevent unnecessary data collection, please verify that this form is being used to obtain participant consent for survey participation and that the survey participant information is not already collected.
-
-</thinking>
-
 # Survey Participation Permission Form - Help Guide
 ## Purpose
 The Survey Participation Permission Form is used to collect consent from participants for survey participation, ensuring you have the necessary permissions to include them in your survey.

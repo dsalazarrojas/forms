@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Modpack Development Survey - Help Guide
 ## Purpose
 The Modpack Development Survey is a form designed to collect feedback from users about the development process of Modpacks. This form is used to gather information on user satisfaction, development challenges, and submission quality. Your input is crucial in helping us improve the Modpack development process.

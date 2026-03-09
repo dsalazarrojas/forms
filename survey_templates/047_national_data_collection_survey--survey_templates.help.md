@@ -1,12 +1,3 @@
-<thinking>
-The National Data Collection Survey is a form designed to collect demographic and contact information from participants. The purpose of this form is to gather essential data about individuals who interact with your organization or institution. This form helps track and record relevant details to facilitate better communication and personalized experiences. 
-
-Please note that this form is an original adaptation created using public metadata and is not affiliated with any specific form platforms. It is released under CC BY 4.0, allowing users to freely use, modify, and distribute it.
-
-**Before proceeding, ensure that you are not duplicating this form. If you're unsure, please verify with your supervisor or the form's original author.**
-
-</thinking>
-
 # National Data Collection Survey - Help Guide
 ## Purpose
 The National Data Collection Survey is designed to collect demographic and contact information from participants. The gathered data will help your organization understand the audience better and improve communication.

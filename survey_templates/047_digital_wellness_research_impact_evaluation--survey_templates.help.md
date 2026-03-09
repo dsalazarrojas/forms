@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the impact of digital wellness on users. The form is intended to gather information on how often users engage in various digital activities, such as checking email, using social media, and accessing online tools for different purposes. This information will help us understand the frequency and habits of digital usage among users and inform our digital wellness program.
-</thinking>
-
 # Digital Wellness Research Impact Evaluation - Help Guide
 ## Purpose
 The Digital Wellness Research Impact Evaluation form is designed to gather information on your digital habits and how often you engage in various online activities. This information will help us understand the impact of our digital wellness program and inform future development.

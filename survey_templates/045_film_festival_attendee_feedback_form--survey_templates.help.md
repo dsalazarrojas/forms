@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Film Festival Attendee Feedback Form - Help Guide
 ## Purpose
 

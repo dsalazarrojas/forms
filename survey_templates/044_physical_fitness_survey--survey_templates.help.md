@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's physical fitness habits, health concerns, and demographics. The purpose of this form is to gather data to inform the development of a personalized fitness program. Please ensure that you answer these questions truthfully and accurately, as the data collected will be used to guide your fitness journey.
-</thinking>
-
 # Physical Fitness Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your physical fitness habits, health concerns, and demographics to inform the development of a personalized fitness program.

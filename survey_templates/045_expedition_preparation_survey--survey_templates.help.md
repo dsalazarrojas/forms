@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about the participant's past experience and health status. This information will help us understand their background and ensure their suitability for certain activities or events. It is essential to complete this form thoroughly and accurately to help us provide the best possible experience for you. Please note that this form will not be shared with any third party and is solely for our internal use.
-</thinking>
-
 # Expedition Preparation Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your past experiences and health status to help us tailor the expedition to your needs and ensure your safety.

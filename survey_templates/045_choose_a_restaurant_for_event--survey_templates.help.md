@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Choose A Restaurant For Event - Help Guide
 
 ## Purpose

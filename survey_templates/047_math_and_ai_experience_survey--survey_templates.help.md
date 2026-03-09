@@ -1,7 +1,3 @@
-<thinking>
-This form aims to gather information on users' experiences with Math and AI, specifically to understand their proficiency levels, comfort with integrating AI, and exposure to AI tools. This survey is designed to be completed by individuals who have experience with Math and AI to provide a snapshot of their current skills and expertise. Please complete this form only if you have relevant experience with Math and AI.
-</thinking>
-
 # Math And AI Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect information on your experience with Math and AI.

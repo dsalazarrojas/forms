@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from users about their experience with the access control system, providing valuable insights to improve the security and user experience of the system. This form will help identify areas of improvement, such as system reliability, ease of use, and overall satisfaction, as well as gather feedback on specific issues and suggestions for enhancement.
-
-</thinking>
-
 # Access Control Feedback Form - Help Guide
 ## Purpose
 The Access Control Feedback Form is designed to collect user feedback on the access control system, aiming to identify areas of improvement and suggest changes to enhance security and user experience.

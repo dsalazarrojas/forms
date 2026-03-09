@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback from participants in an interdisciplinary learning experience. This survey aims to capture the learners' satisfaction with various aspects of the learning experience, including course materials, instructions, learning activities, peer interactions, facilitators, and overall satisfaction. It also asks about their willingness to take the course again and whether they would recommend it to others.
-
-The survey is designed to be completed by learners who have participated in the course, and it is not meant to be taken by instructors or other stakeholders who were involved in the course design or delivery. This form is not intended to be taken by anyone who did not participate in the course.
-
-To ensure accurate and meaningful feedback, please answer the questions honestly and thoroughly, and provide any additional comments or suggestions you may have.
-
-</thinking>
-
 # Interdisciplinary Learning Satisfaction Survey - Help Guide
 ## Purpose
 

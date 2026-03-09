@@ -1,5 +1,3 @@
-<thinking> This form is used for research data usage authorization, allowing researchers to declare the usage of research data. It is a crucial step in ensuring that data is handled and used appropriately. To ensure accuracy, please fill out this form carefully and thoroughly. Before proceeding, ensure that you have already checked with your research team or department head to confirm that this form is relevant to your research project and has not been duplicated. If you are unsure, please seek guidance from your supervisor or department head. </thinking>
-
 # research_data_usage_authorization_form - Help Guide
 ## Purpose
 The research_data_usage_authorization_form is a critical form used to declare the usage of research data. It is essential to complete this form accurately to ensure that data is handled and used according to the guidelines and regulations set forth by your institution and research ethics board.

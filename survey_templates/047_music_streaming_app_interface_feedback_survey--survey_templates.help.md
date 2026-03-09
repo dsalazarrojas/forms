@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from users about the music streaming app interface. The purpose of this form is to gather information about the user's experience and opinions about the app's navigation, search function, profile page, and overall user interface. This form will help the development team to identify areas of improvement and make informed decisions about future updates and changes. It's essential to complete this form as accurately as possible to provide valuable feedback for the app's development.
-
-</thinking>
-
 # Music Streaming App Interface Feedback Survey - Help Guide
 
 ## Purpose

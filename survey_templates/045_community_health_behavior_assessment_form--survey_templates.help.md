@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to assess the health behavior of the respondent. It is intended to be completed by the individual themselves, and its purpose is to gather information about their demographic and health habits. The form is likely to be used in a health-related context, such as in a medical setting or a health survey. Please ensure that you are answering the questions honestly and to the best of your knowledge. 
-
-</thinking>
-
 # Community Health Behavior Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect information about your demographic and health habits to help us better understand your overall health behavior.

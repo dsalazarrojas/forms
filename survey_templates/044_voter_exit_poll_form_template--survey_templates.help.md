@@ -1,7 +1,3 @@
-<thinking>
-This form is a template for conducting exit polls, which is a survey method used to gauge the opinions and sentiments of respondents on various issues or topics. The purpose of this form is to gather information on specific topics, such as voting behavior, opinions, and demographic data.
-</thinking>
-
 # Voter Exit Poll Form Template - Help Guide
 ## Purpose
 This form is a template for conducting exit polls to gather information on specific topics, such as voting behavior, opinions, and demographic data.

@@ -1,8 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for a "Falling Kisses Feedback Form". This guide will walk users through the form's purpose, how to complete it, and a field-by-field explanation of each section. This form is used to collect feedback and ratings from customers about their experience with a service that offers falling kisses, a romantic gesture. The purpose of this form is to gather information on the quality of the service, overall satisfaction, and areas for improvement. The form is designed to be completed by customers who have received the falling kisses service, and the information gathered will be used to refine and improve the service.
-
-</thinking>
-
 # Falling Kisses Feedback Form - Help Guide
 ## Purpose
 The Falling Kisses Feedback Form is designed to gather information from customers who have received the falling kisses service. Your feedback will help us improve and refine our service to provide the best experience for you and our future customers.

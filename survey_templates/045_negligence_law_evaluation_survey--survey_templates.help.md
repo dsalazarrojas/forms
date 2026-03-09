@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help evaluate an organization's compliance with laws related to negligence, such as determining whether an organization has met the required duty of care standards. This form is a survey template that can be used to gather information on various aspects of negligence law evaluation. It is not intended for use in legal proceedings or as a substitute for professional legal advice. Please ensure you are using this form in the context of your organization's internal risk management and compliance processes.
-</thinking>
-
 # Negligence Law Evaluation Survey - Help Guide
 ## Purpose
 This survey is designed to help evaluate an organization's compliance with laws related to negligence. It is not intended for use in legal proceedings or as a substitute for professional legal advice.

@@ -1,5 +1,3 @@
-<thinking>...Internal use case: This form is used to collect feedback and suggestions from library users to improve the services provided. To ensure accurate and useful responses, it's essential that the form is completed with care and attention to detail. Please review this guide to understand the purpose and requirements of the form before starting to fill it out. If you have already completed a similar form in the past, you may find that this one is similar, but it's crucial to review each field carefully to ensure you're providing the most valuable feedback. This guide is meant to be a starting point; feel free to reach out to us if you have questions or need further clarification. ...</thinking>
-
 # Library Services Evaluation Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is a user-facing form to collect feedback on the software features and functions. It is intended to be a survey that gathers opinions on the features and their performance. To ensure relevance and non-duplication, this guide will focus on explaining each field in a way that is concrete, concise, and practical.
-</thinking>
-
 # Software Features And Functions Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the software features and functions. It aims to gather opinions on what features are available, how well they perform, and how easy they are to use.

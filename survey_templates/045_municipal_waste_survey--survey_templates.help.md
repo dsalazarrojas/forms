@@ -1,7 +1,3 @@
-<thinking>
-We will assume that the form is part of a larger system used to collect data on household waste habits, recycling practices, and other relevant information from residents. This form will help the municipality to gather insights on waste management, identify areas of improvement, and inform policy decisions. It is essential to ensure that the form is completed accurately and thoroughly, without duplication or irrelevant information. The data collected will be used to improve waste management services, and any errors or inconsistencies may affect the overall validity of the results.
-</thinking>
-
 # Municipal Waste Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information from residents on their household waste habits, recycling practices, and other related topics. This data will be used by the municipality to inform policy decisions and improve waste management services.

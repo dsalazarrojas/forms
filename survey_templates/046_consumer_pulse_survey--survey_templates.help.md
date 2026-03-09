@@ -1,11 +1,3 @@
-<thinking>
-We will be using this form to collect insights from consumers on their overall satisfaction, brand perception, and experience with our products and services. This form is designed to be a snapshot of their current feelings and perceptions, and will help us to identify areas of improvement and trends in our consumer base. The form is intended for both internal and external use, and will be used to inform business decisions and product development.
-
-To ensure the form is complete and accurate, it is recommended that only one survey is completed per individual. If a survey is completed multiple times, it may skew the results and make it difficult to draw meaningful conclusions.
-
-Before beginning, please ensure you have the required information and answer all questions truthfully to the best of your abilities.
-</thinking>
-
 # Consumer Pulse Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from consumers on their overall satisfaction, brand perception, and experience with our products and services. It is intended to provide insights that will help us improve our offerings and better serve our customers.

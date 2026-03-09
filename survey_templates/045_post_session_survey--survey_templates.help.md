@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for gathering feedback and data after a seminar has concluded, and it is used to track the progress and quality of the seminars. It helps organizers to understand the attendees' opinions and experiences of the seminar. Please ensure you are filling this form in relation to your attendance of the seminar. If you have already provided feedback on the same seminar, please do not provide duplicate feedback. 
-</thinking>
-
 # Post Session Survey - Help Guide
 ## Purpose
 This is a survey form designed to gather feedback and data from attendees after a seminar has concluded. It is used to track the progress and quality of the seminars.

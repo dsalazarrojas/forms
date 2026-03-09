@@ -1,17 +1,3 @@
-<thinking>
-This form "My Lmtsd Story" likely serves as a tool for gathering information about users, likely for the purpose of conducting a survey or collecting feedback. The form might be used in a business setting, educational institution, or research context. The form asks a mix of questions, including multiple-choice questions and open-ended text fields, which suggests it aims to collect both quantitative and qualitative data. 
-
-Given the variety of question types, it's possible that this form is designed to elicit a range of responses, from simple yes/no answers to more in-depth, personal stories.
-
-The form seems to be designed for individual respondents, as there's no indication of a group or team aspect. The questions cover different topics, including experiences, behaviors, and demographic information. 
-
-It appears that the form is not intended for high-stakes or critical data collection, as the questions and options are relatively simple and straightforward. The form's design might prioritize ease of use and respondent engagement over strict data accuracy or precision.
-
-Given the many "Yes/No" and "select_one/select_multiple" questions, it's possible that the form's primary focus is on quantifying opinions or behaviors rather than seeking detailed narratives.
-
-To avoid duplication of efforts and unnecessary questions, make sure to only fill out the form once for each relevant topic or issue being addressed.
-</thinking>
-
 # My Lmtsd Story - Help Guide
 ## Purpose
 This guide explains the "My Lmtsd Story" form, which is designed to collect information about your experiences, behaviors, and other relevant details.

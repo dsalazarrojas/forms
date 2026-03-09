@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to collect information from restaurant owners about their reopening plans, including their location, capacity, and customer service details.
-The purpose of this form is to gather accurate and up-to-date information about restaurants that have reopened after the COVID-19 pandemic, ensuring that public health measures are in place and that customer service meets expectations.
-This form is designed to be filled out by restaurant owners or their representatives, and should not be filled out by customers or others without permission.
-It is assumed that the restaurant has already been open to the public before and has a good understanding of its operations and customer base.
-</thinking>
-
 # restaurant_reopening_survey - Help Guide
 
 ## Purpose

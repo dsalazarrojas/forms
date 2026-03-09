@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to provide information about their usage habits and preferences related to flashcards, a type of digital tool used for learning and knowledge retention. The form gathers data on the platforms users employ, the types of content they use flashcards for, and how often they create, use, and share flashcards. This information is likely to be used to improve and tailor the development of flashcard-related services or features.
-</thinking>
-
 # Flashcard Creation Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your habits and preferences related to flashcards.

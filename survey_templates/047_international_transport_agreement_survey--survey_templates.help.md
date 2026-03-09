@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect information about international transport agreements between shippers and customers. It is a crucial tool for ensuring that all parties involved in the transport process are aware of the terms and conditions of the agreement. To ensure data consistency and prevent duplication, this form should only be used once per shipment.
-</thinking>
-
 # International Transport Agreement Survey - Help Guide
 ## Purpose
 This survey is used to collect information about international transport agreements between shippers and customers. The purpose of this survey is to ensure that both parties are aware of the terms and conditions of the agreement.

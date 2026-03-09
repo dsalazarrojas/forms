@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended for use in research or testing environments, specifically for conducting the Implicit Association Test (IAT) which is a widely-used tool for assessing implicit associations and attitudes. This form will help participants evaluate their personal attitudes and associations, potentially aiding in various psychological studies or tests.
-
-This form has been carefully designed to elicit accurate and honest responses from participants. By understanding the purpose and functionality of each field, participants can provide the most reliable results.
-
-Please ensure this form is being used appropriately and in line with the research or testing goals. If you are unsure about any aspect of this form, do not hesitate to reach out to the relevant authorities for clarification.
-
-</thinking>
-
 # Implicit Association Test Survey - Help Guide
 ## Purpose
 The Implicit Association Test Survey is a tool used to assess implicit attitudes and associations. It is designed to measure the unconscious associations between concepts, potentially helping researchers and testers understand underlying psychological processes.

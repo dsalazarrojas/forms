@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to complete the "Live Stream Content Feedback Survey" form. The purpose of this form is to collect feedback from viewers on their experience with live streams. This feedback is essential for identifying areas for improvement and making future live streams more engaging and enjoyable for viewers.
-
-Before starting, ensure that you have not completed this survey before, as it will be the same questions will appear on every survey. Your feedback is crucial for us to better understand your preferences and make adjustments accordingly.
-
-</thinking>
-
 # Live Stream Content Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather your feedback on your experience with our live streams. Your input will help us improve future live streams to better meet your expectations.

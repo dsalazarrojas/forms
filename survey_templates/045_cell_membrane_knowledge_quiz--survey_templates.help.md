@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to test the knowledge of users about the cell membrane, a crucial component of cellular structure. It assesses their understanding of its composition, structure, and functions, specifically regarding its fluidity, permeability, and transport mechanisms. 
-
-The form is composed of multiple sections, each covering a different aspect of cell membranes. The sections include participant information, membrane structure, proteins, transport, and membrane permeability. The questions are a mix of multiple-choice and free-response questions that test the user's knowledge and understanding of the subject matter. 
-
-This form is intended to help users gauge their knowledge of cell membranes and provide a self-assessment of their understanding. It can be used in educational settings to monitor students' learning progress or as a reference tool for researchers and scientists to evaluate their own knowledge. 
-
-Please note that this form is not affiliated with any specific form creation platform and is an original adaptation of the topic. It is released under a Creative Commons license, allowing users to modify and distribute the form freely, as long as they give credit.
-
-</thinking>
-
 # Cell Membrane Knowledge Quiz - Help Guide
 
 ## Purpose

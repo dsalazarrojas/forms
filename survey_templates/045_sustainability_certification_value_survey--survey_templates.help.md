@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about the sustainability certification values of a particular industry or organization. The form is meant to gauge the importance or significance of different certifications, such as "Certification 1," "Certification 2," and "Certification 3." By asking users to select which of these certifications is most relevant, the form aims to understand the relative value placed on sustainability certifications within that industry or organization.
-To complete this form, follow these steps:
-</thinking>
-
 # Sustainability Certification Value Survey - Help Guide
 
 ## Purpose

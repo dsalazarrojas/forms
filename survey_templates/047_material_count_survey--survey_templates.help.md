@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Material Count Survey - Help Guide
 ## Purpose
 The Material Count Survey is a form used to collect information about the quantity of materials available in a specific category, such as the number of metal, wood, or plastic materials. This form helps to gather data that can be used to track inventory levels and inform future procurement decisions.

@@ -1,7 +1,3 @@
-<thinking>
-This form, "Weekly Wellbeing Check In", is designed to gather information about an individual's mental health and wellbeing. It is intended to be a regular check-in to help individuals assess their mental state and identify any potential concerns that may require attention. This form is not intended to be a comprehensive diagnostic tool, but rather a brief and informal assessment.
-</thinking>
-
 # Weekly Wellbeing Check In - Help Guide
 ## Purpose
 The purpose of this form is to help individuals regularly check in with their mental wellbeing and identify any areas of concern. It is a brief, informal assessment to help individuals maintain their mental health and wellbeing.

@@ -1,12 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-
-This form, "Consumer Purchasing Habits Survey," is designed to collect information about consumers' shopping behaviors and preferences. The survey aims to gather data on demographic details such as age, gender, and household size, as well as shopping habits like frequency, channel, and preferred brands. It also explores shopping motivations, influences, and attitudes towards sustainability, return frequencies, and impulse buying. The survey's objectives include understanding how consumers make purchasing decisions, what they value most in products, and their attitudes towards promotional offers. The form is composed of 25 questions, divided into sections for demographic information, shopping habits, and purchasing behaviors.
-
-To ensure accurate data collection, please ensure respondents answer all required questions, as marked with a *asterisk*. Optional questions are meant to provide further insights but are not required for the survey's completion.
-
-</thinking>
-
 # Consumer Purchasing Habits Survey - Help Guide
 ## Purpose
 The Consumer Purchasing Habits Survey aims to collect data on consumers' shopping behaviors and preferences to better understand their purchasing habits and decision-making processes.

@@ -1,13 +1,3 @@
-<thinking>
-This help guide is for users who want to provide feedback on the Manga Reading Platform. The purpose of this form is to gather information from users about their experience with the platform. It should only be filled out by users who want to provide feedback on the platform, and not by users who are simply browsing or testing the platform.
-
-Before filling out this form, please ensure that you have used the Manga Reading Platform and are providing feedback based on your actual experience. This will help us improve the platform to better suit your needs.
-
-Please note that this form is meant to be filled out by users who are willing to provide feedback. If you are not willing to provide feedback, please do not fill out this form.
-
-Please fill out this form carefully and honestly, as it will help us improve the platform.
-</thinking>
-
 # Manga Reading Platform Feedback - Help Guide
 ## Purpose
 

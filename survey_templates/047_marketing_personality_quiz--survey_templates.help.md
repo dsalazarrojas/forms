@@ -1,10 +1,3 @@
-<thinking>
-We need to create a help guide for the "marketing_personality_quiz" form, which is part of the "survey_templates" category. The form is used to collect data on marketing personality traits, customer behavior, and other related metrics. This guide should cover the form's purpose, how to complete it, and a field-by-field explanation of each section. The form has 25 fields in total, including text, select_one, select_multiple, and number types. The form is not required, as indicated by the "required: false" property for all fields. We will assume that the form is intended to be completed by users who have a basic understanding of marketing principles and concepts. 
-
-To create the help guide, we will follow the provided YAML structure and provide explanations for each field in a concise and concrete manner.
-
-</thinking>
-
 # marketing_personality_quiz - Help Guide
 ## Purpose
 

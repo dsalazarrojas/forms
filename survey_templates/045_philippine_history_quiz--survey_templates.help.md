@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their knowledge and interests related to the Philippines' history. The purpose of this form is to gather data that can be used to create a quiz or assessment about the country's past. The form is not intended for commercial purposes, and the data collected will only be used for educational and research activities. To avoid duplication, users should not submit the same form more than once.
-
-</thinking>
-
 # philippine_history_quiz - Help Guide
 ## Purpose
 This form is designed to collect information from users about their knowledge and interests related to the Philippines' history. The form will use the data collected to create a quiz or assessment about the country's past.

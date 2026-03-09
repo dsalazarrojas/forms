@@ -1,8 +1,3 @@
-<thinking>
-Form "function_performance_feedback" is used to collect feedback from users about the performance of a specific function or feature. This form is intended to capture user opinions and suggestions on how to improve the performance of the function or feature. The form is part of an ongoing effort to continuously improve the service or product, and the collected feedback will be reviewed internally to identify areas of improvement.
-Please make sure that you are filling this form for a specific function or feature and not just providing generic feedback. If you've already filled this form for the same function or feature, your response will not be counted in the analysis.
-</thinking>
-
 # Function Performance Feedback - Help Guide
 ## Purpose
 ## How To Complete This Form

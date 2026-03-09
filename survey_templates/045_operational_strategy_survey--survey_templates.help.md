@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # operational-strategy-survey - Help Guide
 ## Purpose
 This form is designed to help organizations gather information about their operational strategy, which is the process of planning and organizing business activities to achieve goals and objectives. This survey aims to collect data on various aspects of an organization's operational strategy, such as company size, operational strategy score, business models' impacts, communication technologies, decision-making procedures, operational capacity, business continuity, operational planning, operational strategy score 2, feedback sources, and feedback mechanisms.

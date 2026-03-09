@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from learners who are interested in taking a Rubik's Cube lesson. The purpose of the form is to help instructors or organizers determine whether or not a learner is a good fit for the lesson based on their experience level, practice habits, and preferences. This information will be used to tailor the lesson to the learner's needs and goals.
-This form should only be completed by learners who are genuinely interested in taking a Rubik's Cube lesson.
-</thinking>
-
 # Rubik's Cube Lesson Quiz - Help Guide
 ## Purpose
 This form helps us understand your background and preferences to provide you a tailored lesson experience.

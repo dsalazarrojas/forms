@@ -1,7 +1,3 @@
-<thinking>
-The form is likely a part of a larger system used by real estate agencies or property management companies to collect inquiries from potential vacation rental clients. It's probably used to gather information about the clients' preferences, property requirements, and contact details. To ensure a valid and complete inquiry, users should not leave this field empty.
-</thinking>
-
 # Vacation Rental Inquiry Form - Help Guide
 
 ## Purpose

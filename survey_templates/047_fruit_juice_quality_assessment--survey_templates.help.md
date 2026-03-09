@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to assess the quality of a fruit juice. It has multiple sections, each with different fields related to various aspects of the fruit juice's quality, such as its taste, aroma, appearance, color, texture, consistency, packaging, price, fruit type, packaging material, production date, manufacturing location, certification, packaging weight, packaging size, storage condition, and notes. The user is required to select or input information for each field, with some fields being optional. The form's purpose is to gather data on the quality of the fruit juice from different perspectives. Please ensure that you have carefully reviewed the form's requirements and that the information entered is accurate and relevant.</thinking>
-
 # Fruit Juice Quality Assessment - Help Guide
 ## Purpose
 This form is designed to assess the quality of a fruit juice. It has multiple sections, each with different fields related to various aspects of the fruit juice's quality.

@@ -1,9 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "Third Party Risk Assessment Survey" form, we need to break down its purpose, completion instructions, and field-by-field explanation. This guide will help end-users understand the form's intent and fill it out accurately.
-
-</thinking>
-
 # Third Party Risk Assessment Survey - Help Guide
 ## Purpose
 The "Third Party Risk Assessment Survey" form is designed to evaluate the risk level of third-party vendors. It helps assess the potential risks associated with working with external parties that handle sensitive data or sensitive business processes. The survey is used to gather information about the vendor's IT infrastructure, security practices, and overall risk posture to determine the level of risk they pose to your organization.

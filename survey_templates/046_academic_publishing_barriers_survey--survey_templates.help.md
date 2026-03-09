@@ -1,11 +1,3 @@
-<thinking>
-
-This form aims to collect information about the challenges and obstacles faced by individuals in the academic publishing process, specifically in the context of open access publishing. The primary goal is to identify the key barriers to publishing and gather insights on how to mitigate or resolve them. This survey will help publishers, editors, and researchers understand the needs and attitudes of their audience and make informed decisions to improve the publishing process. The form is designed to be concise and easy to complete, with clear and concise questions that require minimal effort from the respondent. 
-
-Please note that this form is a public adaptation of the original survey metadata and does not aim to replicate or copy any proprietary content.
-
-</thinking>
-
 # Academic Publishing Barriers Survey - Help Guide
 ## Purpose
 This guide is designed to help you complete the Academic Publishing Barriers Survey form. The survey aims to collect information about your experiences and attitudes towards open access publishing, with the goal of identifying key barriers and gathering insights on how to mitigate or resolve them.

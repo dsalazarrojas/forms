@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation from users about an online platform. The form has multiple sections with different types of fields such as text, number, email, phone number, and select multiple/select one options. The purpose of this form is to gather information on the user's overall experience, issues encountered, suggestions, contact details, and overall satisfaction. This form should only be filled out by users who have used the online platform.
-
-To ensure data quality, the form has several repeat fields which are identical to the initial set of fields. This is to prevent users from skipping fields and to make sure that all required information is collected.
-</thinking>
-
 # Online Platform User Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluation from users about their experience with an online platform.

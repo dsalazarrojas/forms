@@ -1,8 +1,3 @@
-<thinking>
-The "Organic Social Media Feedback" form is designed to collect feedback from users about their experiences with our organic social media platforms. This form is intended to gather qualitative and quantitative feedback, allowing us to understand what features or content our users enjoy or find valuable on our platforms. The feedback collected will be used to inform future product development and improvement decisions.
-Before filling out this form, please ensure that you have not recently submitted feedback for a similar topic or product. If you have already submitted feedback, you might be able to find that feedback in our system and can use that instead of submitting again.
-</thinking>
-
 # Organic Social Media Feedback - Help Guide
 ## Purpose
 This form is used to collect feedback about your experiences with our organic social media platforms.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from hospitality industry professionals on their current trends and challenges, as well as their experiences with implementing and researching trends. This feedback will help us better understand the current landscape and identify areas for improvement in the industry. Before proceeding, please ensure that you have not already completed this form, as duplicate entries may skew the results and render them unreliable.
-</thinking>
-
 # Hospitality Industry Trend Poll - Help Guide
 
 ## Purpose

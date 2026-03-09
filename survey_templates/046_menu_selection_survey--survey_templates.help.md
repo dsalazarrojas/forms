@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their menu preferences and eating habits. It is meant to be a simple and user-friendly way to gather data on menu selection, eating habits, and personal details such as email and phone number. The form is not intended to be used for any other purpose other than gathering information for menu selection and eating habits survey.
-</thinking>
-
 # Menu Selection Survey - Help Guide
 ## Purpose
 The Menu Selection Survey is a form designed to gather information from users about their menu preferences and eating habits. It is meant to be a simple and user-friendly way to collect data on menu selection, eating habits, and personal details such as email and phone number.

@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information from salon customers about their preferred hours of operation and appointment scheduling preferences. The form should be relevant to salons that want to understand their customer's schedules and tailor their services to meet their needs. This form is not meant to be a comprehensive survey, but rather a brief poll to gather feedback from customers. It's possible that some fields may not be applicable to all users. Please review each field carefully and answer accordingly.
-</thinking>
-
 # salon-appointment-hours-poll - Help Guide
 ## Purpose
 This form is designed to collect information from salon customers about their preferred hours of operation and appointment scheduling preferences.

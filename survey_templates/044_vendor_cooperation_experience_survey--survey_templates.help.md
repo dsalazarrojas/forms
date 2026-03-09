@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect feedback on the cooperation experience with vendors. This form is intended to gather opinions and ratings from users on their satisfaction and experience with suppliers, including their satisfaction with the supplier's performance, the level of collaboration, and the effectiveness of communication.
 
 To complete this form, follow the guidelines below:

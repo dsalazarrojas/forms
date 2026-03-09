@@ -1,7 +1,3 @@
-<thinking>
-This survey template is designed to collect feedback and information from end-users on creating data tables. The template is likely to be used to understand the user's preferences, needs, and expectations when creating data tables. It's a multi-page form that covers various aspects of data table creation, including page layout, data entry, and table functionality.
-</thinking>
-
 # Data Table Creation Survey - Help Guide
 ## Purpose
 The Data Table Creation Survey is designed to collect feedback and information from end-users on creating data tables.

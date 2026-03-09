@@ -1,11 +1,3 @@
-<thinking>
-
-The form "Theatre Strategic Planning Survey" appears to be a survey instrument for gathering feedback and insights from stakeholders in the theatre sector. The purpose of this form is likely to gauge the current state of strategic planning in theatres, identify key challenges and priorities, and assess the effectiveness of certain strategies. This survey might be used to inform strategic decisions, resource allocation, or policy development within the theatre industry. 
-
-To ensure the information gathered is accurate and comprehensive, it's essential to ensure this form is completed by relevant stakeholders. Please check if there are any similar surveys or forms that cover the same topics or questions to avoid duplication of effort.
-
-</thinking>
-
 # Theatre Strategic Planning Survey - Help Guide
 ## Purpose
 This guide will walk you through the purpose and usage of the Theatre Strategic Planning Survey form. Please follow the instructions carefully to ensure you complete the form accurately and effectively.

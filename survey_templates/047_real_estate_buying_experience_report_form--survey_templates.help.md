@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect real estate buying experience reports from customers. The form gathers information about their experience with real estate transactions, specifically what drove their decision, why they chose their current property, and their overall satisfaction with the process. It also collects data on whether their expectations were met and if they purchased their desired real estate through an agent or office. 
-
-Before completing the form, please ensure that you are providing honest and accurate information. If you are unsure about any of the questions, please ask for clarification.
-
-Note to reviewer: This form should be reviewed to prevent duplicate questions and ensure that all necessary fields are being collected.
-
-</thinking>
-
 # Real Estate Buying Experience Report Form - Help Guide
 ## Purpose
 The Real Estate Buying Experience Report Form is a collection of questions designed to gather information about your real estate buying experience. Please answer these questions to provide us with valuable feedback and help us improve our services.

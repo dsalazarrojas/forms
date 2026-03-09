@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the digital learning experience of students. The purpose of this form is to gather information about the effectiveness of our courses and instructors, which will help us improve our educational content and services. This form is not intended for students who are currently enrolled in a course, but rather for instructors and administrators to collect feedback from past students. Please note that this form is not a substitute for formal course evaluations or student evaluations, but rather a supplement to those processes. To ensure accurate and relevant feedback, please only complete this form if you have actually participated in a course or learning experience.
-
-</thinking>
-
 # Digital Learning Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on your digital learning experience. We value your input and use it to improve our courses and services.

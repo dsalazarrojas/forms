@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect data on individuals' interests in nail-related topics such as nail type, shape, color, polish name, polish brand, and nail art. This survey is likely used by businesses or organizations in the beauty industry to gather insights on consumer preferences and behavior. It is essential to ensure that this form does not duplicate or copy any proprietary content from other platforms, and it is created to be used under the Creative Commons 4.0 license, allowing users to modify and distribute it freely.
-</thinking>
-
 # Nail Studio Clean Beauty Interest Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your interests in nail-related topics. Your responses will help us understand your preferences and behaviors in the beauty industry.

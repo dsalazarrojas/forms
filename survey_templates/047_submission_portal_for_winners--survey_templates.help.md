@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the submission portal for winners, we need to ensure that the form is clear and concise. Given the provided YAML, the form purpose is to collect information about submissions, winners, and related details. It seems that the form is designed to be a general-purpose submission portal for various types of submissions, with fields for user information, contact details, entry details, and other relevant information. However, it appears that some fields might be redundant or have unclear labels. For instance, "entry_name" and "winner_name" might be used interchangeably, while "entry_description" and "winner_comments" seem to be similar in purpose. To avoid duplication, we should ensure that each field is used consistently and accurately. Additionally, the "required" fields should be clear and not misleading. Let's break down the form into sections and provide clear explanations for each field.
-</thinking>
-
 # Submission Portal For Winners - Help Guide
 ## Purpose
 The Submission Portal for Winners is a form designed to collect and manage information about submissions and winners. It's intended to be a versatile tool for collecting and organizing various types of submission information.

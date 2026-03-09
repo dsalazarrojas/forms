@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for healthcare consumers to express their trust and satisfaction levels regarding various aspects of their care. The form's purpose is to gather data that can be used to measure and improve the quality of care provided by healthcare facilities. This form is likely to be used by healthcare administrators or researchers to collect feedback from patients. To ensure that this form is not used for any other purpose, it's essential to provide clear instructions and explanations for end-users. 
-</thinking>
-
 # Healthcare Consumer Trust Index Survey - Help Guide
 ## Purpose
 The Healthcare Consumer Trust Index Survey is a tool designed to gauge healthcare consumers' trust and satisfaction levels with various aspects of their care. It's essential to understand that this survey is for feedback purposes only and should not be used for any other reason.

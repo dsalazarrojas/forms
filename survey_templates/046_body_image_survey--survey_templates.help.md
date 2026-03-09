@@ -1,14 +1,3 @@
-<thinking>
-To determine if the form is being correctly applied and to ensure that the form purpose is understood, let's analyze the YAML file and determine the form's purpose. 
-
-This form appears to be a survey focused on collecting data on a person's body image, including satisfaction with different aspects of their body, media and social media influence, exercise motivation, body comparison frequency, general confidence level, body image impact on daily life, and additional comments. The form seems to be designed to assess a person's perception and feelings about their body, as well as the potential factors that may influence their body image.
-
-The form's purpose is likely to collect data for research or statistical analysis to better understand body image concerns and potential contributing factors. However, this is a weak conclusion, and it's essential to double-check with someone who has knowledge of the original context and goals of the form's creators. Please double-check this analysis with someone who knows more about the form's purpose.
-
-This analysis is also assuming the form is not being used for other purposes, such as medical or psychological evaluations, which might require different context and explanations.
-
-</thinking>
-
 # Body Image Survey - Help Guide
 ## Purpose
 This form is designed to collect data on a person's body image, including satisfaction with different aspects of their body, media and social media influence, exercise motivation, body comparison frequency, general confidence level, and additional comments.

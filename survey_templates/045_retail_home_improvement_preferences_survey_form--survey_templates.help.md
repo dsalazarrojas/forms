@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather data from end-users to understand their retail home improvement preferences. Before starting, please ensure that you have not filled this form before, as your previous responses will be automatically recorded. This form is intended to capture user insights to inform the development of our home improvement services and products.
-</thinking>
-
 # Retail Home Improvement Preferences Survey Form - Help Guide
 ## Purpose
 This form is designed to gather information about your preferences and habits related to retail home improvement. The data collected will help us better understand your needs and provide you with more tailored services and products.

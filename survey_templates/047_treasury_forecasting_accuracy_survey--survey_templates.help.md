@@ -1,9 +1,3 @@
-<thinking> 
-This form is designed to gauge the accuracy of forecasting methods used in a given treasury department. 
-The purpose of this form is to collect information on how well the forecasting methods are performing in terms of accuracy, challenges faced, and suggestions for improvement. This information will be used to help refine the forecasting methods and improve overall performance.
-To ensure consistency, please only fill out this form if you have direct experience with the forecasting methods in question.
-</thinking>
-
 # Treasury Forecasting Accuracy Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information on the accuracy and performance of forecasting methods used in a treasury department. It is essential to provide honest and accurate feedback to help improve the forecasting process.

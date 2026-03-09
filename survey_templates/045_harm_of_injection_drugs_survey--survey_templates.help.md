@@ -1,9 +1,3 @@
-<thinking>
-This form aims to gauge the harm caused by injection drugs, collecting information on demographics and six specific questions related to this topic. The form is designed to collect responses from individuals, providing a platform for understanding the effects of injection drugs. Before proceeding, please confirm that this form is relevant to your area of study or work and that you are not submitting duplicate responses.
-
-Please note that this form is a generated version and not directly affiliated with any form creation platform. The form's metadata and content are released under Creative Commons BY 4.0 license, allowing free use, modification, and sharing of the form and its derived forms.
-</thinking>
-
 # Harm Of Injection Drugs Survey - Help Guide
 ## Purpose
 The Harm of Injection Drugs Survey is designed to gather information on the demographics and opinions regarding the harm caused by injection drugs. This survey aims to collect feedback from individuals, providing valuable insights on the effects and consequences of injection drugs.

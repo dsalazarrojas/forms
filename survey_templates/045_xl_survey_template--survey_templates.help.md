@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for creating or editing a survey template with multiple pages, each with its own set of questions. The form allows users to input information about the template, including its title, category, description, assigned tools, email, phone number, date, and time. Some fields are required for each page, while others are optional. The form checks for duplicate templates with the same title and category combination, ensuring that users cannot create or edit duplicate templates.
-</thinking>
-
 # XL Survey Template - Help Guide
 ## Purpose
 The XL Survey Template form is used to create or edit survey templates with multiple pages, each with its own set of questions.

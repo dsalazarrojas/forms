@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is properly completed by users, and that they understand what is expected from them. This is a Photo Feedback And Personality Survey form, and users should be able to provide their demographic data, describe an image, provide personality traits and scores, report their emotions, give feedback, and state their photo preferences. To ensure this, let's break down each field and its purpose in simple, concrete terms.
-</thinking>
-
 # Photo Feedback And Personality Survey - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about heritage site management declarations. It appears to be a survey or questionnaire that aims to gather data from individuals or entities responsible for the management of cultural or historical sites. This form likely serves as a tool for assessing or monitoring the performance or progress of heritage site management.
-
-To confirm, I will create a help guide that matches the provided YAML specification. Please wait...</thinking>
-
 # Heritage Site Management Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect information about heritage site management declarations. It is intended to gather data from individuals or entities responsible for the management of cultural or historical sites.

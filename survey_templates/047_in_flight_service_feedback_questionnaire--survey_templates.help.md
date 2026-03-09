@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # In Flight Service Feedback Questionnaire - Help Guide
 ## Purpose
 The In Flight Service Feedback Questionnaire is designed to gather feedback from passengers about their recent flight experience. This form helps airlines collect valuable insights into their service quality, cabin conditions, food and beverage, seat comfort, and overall satisfaction. Your feedback will help us improve our services and provide better experiences for future passengers.

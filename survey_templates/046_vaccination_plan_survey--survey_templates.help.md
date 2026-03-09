@@ -1,12 +1,3 @@
-<thinking>
-To determine the purpose of this form, we need to analyze the provided YAML fields. The form is called "Vaccination Plan Survey", which suggests that it is used to collect information about vaccination plans. The "category" field is a select_one type field with options "Survey Templates" and "Other", which implies that the form might be part of a larger survey template collection.
-
-Looking at the fields, we can see that there are fields for category, description, vaccination status, notes, email, and phone. This suggests that the form is likely used to collect general information about a vaccination plan, including its category, a brief description, the status of vaccination, any additional notes, and contact information.
-
-The form does not have any fields that indicate data duplication or relevance checking, so we will assume that users can fill in this form without any restrictions. However, in practice, users should be aware that if they fill in the same form multiple times with the same information, it might lead to data duplication.
-
-</thinking>
-
 # Vaccination Plan Survey - Help Guide
 
 ## Purpose

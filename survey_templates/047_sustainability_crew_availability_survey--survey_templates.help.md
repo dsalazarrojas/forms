@@ -1,7 +1,3 @@
-<thinking>
-We are trying to avoid redundant data entry for users and ensure that each user's availability information is up to date. This form will be used to collect data on which crew members are available for sustainability initiatives. The form is designed to be simple and easy to fill out. Please ensure that you are only filling out this form if you have been asked to by a crew leader or if you are certain you have availability for a sustainability initiative.
-</thinking>
-
 # Sustainability Crew Availability Survey - Help Guide
 
 ## Purpose

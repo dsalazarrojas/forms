@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for the "UFF MAD Team Survey Unlock The Power Of Your Finances (no Rest Certificate)" form, which is likely used to gather information from team members regarding their participation and attendance in meetings, events, or training sessions. This form is meant to be a quick and efficient way to collect data on team members' engagement and understanding of the material presented.
-To confirm, this form does not require completion unless the relevant field options are explicitly set to required=true in the form definition.
-</thinking>
-
 # UFF MAD Team Survey Unlock The Power Of Your Finances (no Rest Certificate) - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will cover the purpose and use of the "Health Region Change Survey" form.
  
 The form is a tool used to collect information from users regarding their satisfaction with the current health region they are serving. The purpose of this form is to gather feedback from users on their experiences and concerns, which will help in identifying areas that need to be improved.

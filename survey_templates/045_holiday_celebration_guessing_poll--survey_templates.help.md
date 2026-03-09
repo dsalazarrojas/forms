@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from users on their experiences and opinions related to snowfall and winter activities. The purpose of the form is to gather data that will help inform decisions on winter-related marketing strategies. It's recommended to only fill out this form if you're participating in a winter-related study or campaign.
-
-The form includes a mix of questions that ask for information about different aspects of snowfall, such as snowfall amounts in various cities, favorite winter destinations, and snow-related activities. It also includes questions about the user's personal experiences and preferences, like the number of snowshoes owned and the region with most snowfall.
-</thinking>
-
 # Holiday Celebration Guessing Poll - Help Guide
 
 ## Purpose

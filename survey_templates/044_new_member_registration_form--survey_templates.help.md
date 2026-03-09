@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from new members in an organization. This form will help gather essential details such as their name, contact information, and other relevant data. It's essential to ensure the form is completed accurately and consistently to prevent duplication of entries or incomplete submissions. Please review the form carefully and ensure all required fields are filled out before submission.
-</thinking>
-
 # New Member Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from new members in our organization.

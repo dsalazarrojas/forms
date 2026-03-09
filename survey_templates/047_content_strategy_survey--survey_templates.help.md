@@ -1,9 +1,3 @@
-<thinking>
-  This form is a content strategy survey designed to gather information about user behavior, preferences, and expectations regarding online content. It asks respondents about their demographic information, content consumption habits, and how they perceive and interact with content. This form is intended to help businesses understand their target audience better and create content that resonates with them.
-  To ensure accuracy, it's essential to verify that the survey results do not duplicate or contradict other existing surveys. A quick review of the form's purpose and the collected data will help avoid unnecessary duplication.
-  This form was created using AI, but it's based on a specific topic and industry. Its primary purpose is to gather insights for content strategy and improve it accordingly.
-</thinking>
-
 # Content Strategy Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your online content preferences and behavior, helping us create more relevant and engaging content for our audience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Survey Consent Form - Help Guide
 ## Purpose
 The Survey Consent Form is a standardized template used to obtain consent from individuals or organizations before proceeding with a survey or research activity. This form helps ensure that all parties involved are aware of the purpose, scope, and implications of the survey, and provides a clear understanding of their rights and responsibilities.

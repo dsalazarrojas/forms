@@ -1,11 +1,3 @@
-<thinking>
-This form is used to gather feedback on the souvenir item and its accompanying story and photo. The goal is to understand what customers think about the product, its presentation, and the overall experience. This form will help us improve our souvenir products and provide a better experience for our customers. 
-
-Please make sure this is the correct form for the purpose you are trying to achieve, and that you have not already submitted feedback on this item. If you have previously submitted feedback, it will not be recorded again.
-
-To submit feedback, follow the steps below.
-</thinking>
-
 # Messages And Souvenir Feedback - Help Guide
 ## Purpose
 The "Messages And Souvenir Feedback" form is used to gather feedback on a souvenir item's presentation, story, and overall experience. This feedback will help us improve our souvenir products and provide a better experience for our customers.

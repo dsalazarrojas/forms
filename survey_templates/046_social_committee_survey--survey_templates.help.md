@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions from a social committee on various aspects of committee activities, events, and preferences. The form should be used to gauge committee member satisfaction, interests, and expectations from events, as well as gather information on past and future events. This form is intended to be completed by committee members, but it is also a good exercise to test the form's validity and usability to prevent duplication or redundancy.
-
-Please review the form and make sure it's clear and complete. If you're not sure about a field, feel free to provide feedback.
-</thinking>
-
 # Social Committee Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from a social committee on various aspects of committee activities, events, and preferences.

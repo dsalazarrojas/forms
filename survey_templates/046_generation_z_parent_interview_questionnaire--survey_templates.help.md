@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the online habits and behaviors of parents and their children, specifically focusing on Generation Z parents and their interactions with technology. This form is intended to help understand how parents participate in their children's online lives, their awareness and usage of technology, and how often they set limits on screen time and monitor their child's online activities. This form should only be completed by parents who are part of this demographic.
-
-Before proceeding, please note that this form is designed for a specific group of parents, and some questions may not apply to you. If you're not a parent of a child born between 1997 and 2012, this form is not intended for you. Additionally, please ensure that you're completing this form for the correct purpose, and not duplicating efforts. If you're unsure or have questions, please consult with your team or contact support.
-</thinking>
-
 # Generation Z Parent Interview Questionnaire - Help Guide
 ## Purpose
 

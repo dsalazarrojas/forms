@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # City Development Plan Approval Voting Form - Help Guide
 
 ## Purpose

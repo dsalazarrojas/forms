@@ -1,5 +1,3 @@
-<thinking>... internal reasoning and context: This form is designed to collect feedback from users on their perception and understanding of global warming. It is meant to gauge their level of awareness, concern, and suggested solutions for mitigating climate change. It's essential to complete this form accurately to help inform policy and public awareness initiatives. Before proceeding, please ensure you're not already taking this survey; duplicate responses won't contribute to meaningful analysis. Please read the instructions carefully and answer honestly. If you have any questions, feel free to ask... </thinking>
-
 # Global Warming Survey - Help Guide
 ## Purpose
 The Global Warming Survey is designed to gather information about your perception of global warming and climate change. Your honest responses will help inform policy and public awareness initiatives.

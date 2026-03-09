@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help individuals reflect on their daily experiences, thoughts, and feelings. It is meant to be a personal and introspective tool for self-awareness and personal growth. To ensure that you are using the form correctly, please note that:
-- Each question is meant to be completed on a daily basis, ideally at the end of each day.
-- Some fields have specific formats or options, such as multiple-choice answers for the "Morning Mood" field.
-- You are free to answer each question as thoroughly or briefly as you prefer, depending on your individual comfort level with self-expression.
-- The form has a "Submit" button at the end, which will save your responses for future reference.
-- If you are unsure about any field or question, please ask for clarification or guidance from your supervisor or administrator.
-</thinking>
-
 # Daily Reflection Journal - Help Guide
 
 ## Purpose

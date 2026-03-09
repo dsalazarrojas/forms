@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # food_product_trial_release_form - Help Guide
 ## Purpose
 The "food_product_trial_release_form" is used to collect participant consent and gather essential information for product trials. It is a crucial step in the food product trial process, ensuring that participants understand the purpose and scope of the trial, and that they provide necessary contact information.

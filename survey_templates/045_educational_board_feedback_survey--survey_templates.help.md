@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Educational Board Feedback Survey - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about hockey players' experiences, preferences, and habits related to training. The purpose of this survey is to gather data to improve the quality and effectiveness of hockey training programs. The form is divided into several sections, each focusing on a specific aspect of training, such as experience level, training frequency, equipment preferences, and feedback.
-
-To ensure accuracy and consistency in the collected data, it is essential that users understand the purpose and relevance of each question.
-
-</thinking>
-
 # Hockey Survey - Help Guide
 ## Purpose
 The Hockey Survey is designed to collect information about hockey players' experiences, preferences, and habits related to training. This information will help improve the quality and effectiveness of hockey training programs.

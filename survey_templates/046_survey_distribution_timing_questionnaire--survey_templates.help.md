@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a "Survey Distribution Timing Questionnaire." It seems to be a set of questions related to scheduling a survey or a task that may involve coordinating with others in different time zones. I'll provide a help guide for the user based on the provided YAML.
 
 # survey_distribution_timing_questionnaire - Help Guide

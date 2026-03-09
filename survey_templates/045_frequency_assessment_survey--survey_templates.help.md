@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Frequency Assessment Survey - Help Guide
 
 ## Purpose

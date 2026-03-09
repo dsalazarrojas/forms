@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions from users on local business decorations. The purpose of this form is to gauge public opinion on various aspects of local business decorations, such as the type of decoration, color scheme, and overall aesthetic. This form will help businesses understand what their customers think of their decorations, and identify areas for improvement. Please ensure that you are only completing this form once per business, and that you are providing feedback on a specific local business decoration.
-</thinking>
-
 # Local Business Decoration Voting Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from users on local business decorations.

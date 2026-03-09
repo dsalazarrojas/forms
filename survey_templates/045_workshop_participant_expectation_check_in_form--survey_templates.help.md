@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workshop Participant Expectation Check In Form - Help Guide
 ## Purpose
 This form is used to gather information from workshop participants on their expectations, preferences, and commitments. It's designed to help the facilitator better understand the participant's needs and tailor the workshop to their requirements. This information is not only useful for the facilitator but also for the participant themselves, as it serves as a reference point for their own preparation and engagement throughout the workshop.

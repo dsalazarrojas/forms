@@ -1,7 +1,3 @@
-<thinking>
-This form is an AI-generated survey template designed to collect users' preferences and opinions. The purpose of this form is to gather information on users' favorite things, including favorite foods, colors, movies, hobbies, sports, and music. The form is not affiliated with or endorsed by any form platform and is an original adaptation of public survey topic metadata.
-</thinking>
-
 # My Favorite Things Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect users' preferences and opinions on their favorite things.

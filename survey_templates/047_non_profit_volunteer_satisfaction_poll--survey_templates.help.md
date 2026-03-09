@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect feedback from non-profit volunteers on their satisfaction and engagement with the organization. The purpose is to understand their level of satisfaction, engagement, and any suggestions they may have for improvement. Please ensure that you're completing this form with the correct information to provide a comprehensive feedback.
-</thinking>
-
 # Non Profit Volunteer Satisfaction Poll - Help Guide
 ## Purpose
 This form is intended to collect feedback from non-profit volunteers on their satisfaction with the organization. The collected data will help us better understand their needs and improve our services.

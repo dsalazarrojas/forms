@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users regarding library services. It should only be filled out if users have specific feedback or concerns about library services, such as suggestions for improvement or issues they have encountered. Please ensure that you only submit this form if you have not already done so in the past, to avoid duplication of feedback.
-</thinking>
-
 # Library Services Community Feedback Form - Help Guide
 
 ## Purpose

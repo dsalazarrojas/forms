@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal Contextual Note:**
-This form is intended to gather feedback and consent from students and their parents regarding a language school program. The form asks for general feedback, ratings, comments, and information such as name, email, phone, course details, and consent status. The form is designed to collect data from both students and parents, and ensure that they have given their consent to participate in the program.
-
-</thinking>
-
 # Language School Feedback & Consent Form - Help Guide
 
 ## Purpose

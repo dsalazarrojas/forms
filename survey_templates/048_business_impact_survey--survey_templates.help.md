@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Impact Survey - Help Guide
 ## Purpose
 This survey aims to collect information on the impact of business disruptions on organizations. It is designed to gauge the severity of these disruptions and the measures taken to recover. This survey will help us understand the effects on operations, finance, employees, and customers, as well as the resilience measures taken and future concerns.

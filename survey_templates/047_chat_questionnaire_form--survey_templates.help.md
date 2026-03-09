@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a chat questionnaire designed to gather information about users' experiences with a chat app. The form is likely intended for users to provide feedback on their usage frequency, most frequently used features, satisfaction with the app's performance and reliability, overall satisfaction, likelihood to recommend the app, and additional feedback. It seems to be a comprehensive form that covers various aspects of the app's usability and functionality. To ensure consistency, I'll focus on providing clear and concise explanations for each field.
-
-This form does not have a "submit" or "next" button to transition between pages, as all fields are on a single page.
-
-</thinking>
-
 # Chat Questionnaire Form - Help Guide
 ## Purpose
 This form is designed to collect feedback about your experience with our chat app. Your responses will help us understand what features you use most, your satisfaction with the app's performance and usability, and how we can improve it.

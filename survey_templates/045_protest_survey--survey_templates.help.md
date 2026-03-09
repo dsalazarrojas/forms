@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Protest Survey - Help Guide
 
 ## Purpose

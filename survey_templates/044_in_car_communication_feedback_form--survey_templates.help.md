@@ -1,7 +1,3 @@
-<thinking>
-This form will be used by employees to provide feedback on the quality of in-car communication during a company-provided ride. The purpose of this form is to gauge the effectiveness of the communication between employees and management, ensuring that the experience is pleasant and efficient. Please ensure that you are not filling this form in duplicate, as it is intended for individual experiences.
-</thinking>
-
 # In Car Communication Feedback Form - Help Guide
 ## Purpose
 The In Car Communication Feedback Form is designed to collect feedback from employees about their experiences with in-car communication during company-provided rides. This form will help us understand how well we're communicating with you while you're on the road.

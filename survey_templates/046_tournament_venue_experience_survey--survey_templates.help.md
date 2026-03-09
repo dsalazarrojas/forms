@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect feedback from participants about their experience at a tournament venue. The form is designed to be completed by attendees after the event to provide insights on the venue's quality of service, staff, amenities, and overall satisfaction. This form will help the organizers of the tournament to evaluate the venue's performance and make improvements for future events.
-
-To ensure that the feedback is accurate and useful, it's essential to fill out the form carefully. Please make sure to answer all questions honestly, and if you have any additional comments or suggestions, use the "Additional Comments" field to provide more information.
-
-</thinking>
-
 # Tournament Venue Experience Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect your feedback about your experience at the tournament venue. Your responses will help us evaluate the venue's performance and make improvements for future events.

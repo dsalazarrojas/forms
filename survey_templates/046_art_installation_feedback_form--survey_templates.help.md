@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect feedback from visitors about art installations in a public space. The form is designed to gather information about their experience, including their name, the installation's name, their visit date, and their opinions about the installation's visual appeal, clarity of message, interaction level, and overall atmosphere. It also asks for their favorite part of the installation and any areas for improvement.
-The form will not collect any identifying information and is intended to be a user-friendly way to provide feedback on public art installations.
-</thinking>
-
 # Art Installation Feedback Form - Help Guide
 
 ## Purpose

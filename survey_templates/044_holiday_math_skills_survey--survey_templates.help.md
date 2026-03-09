@@ -1,17 +1,3 @@
-<thinking>
-The purpose of this form is to assess holiday makers' math skills, specifically their confidence in their math abilities and their practice with different math topics. It's possible that the form may be used to identify areas of improvement for individuals who may be struggling with their math skills, or to provide insights into how effective holiday math programs are.
-
-Before proceeding, let's check if this form is relevant and not a duplication:
-
-*   Is the form intended for a new type of user or a specific context?
-    This form appears to be a general assessment tool.
-*   Is the form part of a larger process or workflow?
-    This form could be part of a math education or training program.
-*   Is the form widely used or well-known within the organization?
-    This form's purpose and structure suggest it may be a custom or ad-hoc form.
-
-</thinking>
-
 # Holiday Math Skills Survey - Help Guide
 ## Purpose
 This form is designed to assess holiday makers' math skills, specifically their confidence in their math abilities and their practice with different math topics.

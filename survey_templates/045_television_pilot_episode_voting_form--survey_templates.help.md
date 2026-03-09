@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Television Pilot Episode Voting Form - Help Guide
 ## Purpose
 This form is used to collect feedback and ratings on a television pilot episode. It is intended for production team members and collaborators to provide their thoughts and opinions on various aspects of the episode, such as genre, director preference, and production budget.

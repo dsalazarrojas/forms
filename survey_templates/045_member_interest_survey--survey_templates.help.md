@@ -2,9 +2,7 @@
 ## Purpose
 The Member Interest Survey is designed to gather information about your preferences and habits. This survey aims to understand your interests, frequency of event attendance, and other personal details to help us better serve you.
 
-### <thinking>Internal Note: This form is for gathering survey responses and is not intended for internal use. It is assumed that this form will be filled out by actual users.</thinking>
-
-## How To Complete This Form
+### ## How To Complete This Form
 - Fill out the form completely, making sure to answer all required questions.
 - Enter your name and email address in the respective fields.
 - Choose your preferences for each question by selecting the relevant options.

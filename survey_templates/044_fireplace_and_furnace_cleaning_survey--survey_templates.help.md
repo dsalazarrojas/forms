@@ -1,8 +1,3 @@
-<thinking>
-The Fireplace And Furnace Cleaning Survey form is designed to gauge the satisfaction and feedback of customers or clients regarding the cleaning services provided by a business or organization for fireplaces and furnaces. The form's primary goal is to understand how customers perceive the quality of service and identify areas for improvement. This form is intended to be completed by customers or clients who have availed themselves of the fireplace and furnace cleaning services.
-To avoid confusion, let's ensure that this form is being filled out for a specific purpose and that the information is not duplicated or redundant. Please consider this form as a one-time survey to collect genuine feedback from customers.
-</thinking>
-
 # Fireplace And Furnace Cleaning Survey - Help Guide
 ## Purpose
 The Fireplace And Furnace Cleaning Survey is designed to collect feedback and satisfaction ratings from customers who have used the fireplace and furnace cleaning services. This form will help us understand how well we've met your expectations and identify areas for improvement.

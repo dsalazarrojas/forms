@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from dental patients about their experience at the clinic. The goal is to gather information on various aspects of their visit, including the quality of care, interaction with the staff, and overall satisfaction. This form will help the clinic to identify areas of improvement and provide better patient care. Please ensure this form is not used for any other purpose.
-</thinking>
-
 # Dental Patient Experience Survey - Help Guide
 ## Purpose
 

@@ -1,6 +1,4 @@
-> <thinking>As an expert form designer and technical writer, my primary goal is to create a user-facing help guide that is clear, concise, and practical. I will review the form's purpose and ensure it aligns with the provided YAML fields. Upon reviewing the form, I notice that it is a survey designed to gather user feedback and opinions on the usability of a learning platform. The form is intended to assess users' experiences with the platform, from how they start and navigate the platform to their satisfaction with the platform overall. I will ensure that the help guide reflects the form's purpose and provides clear explanations for each field, making it easy for users to complete the form accurately.</thinking>
-
-# Learning Platform Usability Questionnaire - Help Guide
+> # Learning Platform Usability Questionnaire - Help Guide
 ## Purpose
 The Learning Platform Usability Questionnaire is designed to gather user feedback on the usability of a learning platform. It assesses users' experiences with starting and navigating the platform, content quality, relevance, and overall satisfaction. By completing this form, you will be providing valuable input to help us improve the platform's usability.
 

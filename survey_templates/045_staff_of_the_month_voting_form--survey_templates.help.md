@@ -1,15 +1,3 @@
-<thinking>... 
-
-This form is intended to allow employees to rate their colleagues on various aspects of their performance, such as job knowledge, performance, helpfulness, dedication, communication, and email address. The purpose of this form is to identify an employee who stands out for their exceptional work and deserves to be recognized as "Employee of the Month". 
-
-The form will be filled out by employees who are familiar with the work and behavior of their colleagues and can provide an informed assessment of their peers' performance.
-
-Please note that this form is meant to be a subjective assessment and is not intended to be used as a formal performance evaluation. 
-
-The ratings will be collected and reviewed by management to determine the winner of the "Employee of the Month" award.
-
-...</thinking>
-
 # Staff Of The Month Voting Form - Help Guide
 ## Purpose
 The purpose of this form is to help identify an employee who stands out for their exceptional work and deserves to be recognized as "Employee of the Month".

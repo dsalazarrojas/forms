@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the overall appearance, design elements, and other key aspects of product packaging. It's essential to complete this form carefully, as the information collected will be used to inform design decisions and ultimately impact the final product packaging. Please review the form carefully to ensure you're providing accurate and relevant information. If you're unsure about any field, refer to this help guide.
-</thinking>
-
 # Product Packaging Design Assessment Form - Help Guide
 ## Purpose
 This form is used to gather feedback and assessment on the design of product packaging. It helps in evaluating the overall appearance, design elements, and other key aspects of the packaging.

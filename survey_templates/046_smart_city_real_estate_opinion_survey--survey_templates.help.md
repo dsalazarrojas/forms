@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather opinions from citizens on the features of a Smart City. The Smart City Real Estate Opinion Survey is intended to understand what citizens think are the most important features of a Smart City, how satisfied they are with the current state of these features, and what improvements they would like to see. This form should only be filled out by citizens who have some familiarity with the concept of Smart City and its features. Please note that some questions are repeated across multiple pages to allow for a more in-depth analysis of the subject.
-</thinking>
-
 # Smart City Real Estate Opinion Survey - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-  This form is designed to gather business profit data from business owners.
-  It is intended for businesses that are at least a year old.
-  This form will be used by internal staff to assist with providing services.
-  Please fill out this form only if you are a business owner.
-  If you are not, your input will be discarded.
-</thinking>
-
 # Business Profit Survey - Help Guide
 ## Purpose
 

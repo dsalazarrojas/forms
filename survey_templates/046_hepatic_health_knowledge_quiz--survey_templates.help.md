@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to assess the user's knowledge on the topic of Hepatic Health, likely used for educational or assessment purposes. The form is likely intended for users who have some level of background knowledge on the topic, and it's not meant for users who are completely new to the subject matter. This form is not a medical diagnostic tool, so it is not intended for users who are seeking actual medical advice or diagnosis. 
-
-The form consists of 4 pages with a series of questions that cover different aspects of hepatic health. Each question has multiple options, and users are expected to answer each question in turn. The form is designed to be completed in a sequential manner, with each question building on the previous one. 
-
-To avoid duplication of questions, please complete the form in the following order: 
-- Startpage (Page 1)
-- Questions 1-3 (Page 2)
-- Question 4 (Page 3)
-- Endpage (Page 4)
-
-The form requires no prior knowledge of the user to complete, but having some level of background knowledge on the topic would be beneficial.
-
-</thinking>
-
 # Hepatic Health Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge on the topic of Hepatic Health.

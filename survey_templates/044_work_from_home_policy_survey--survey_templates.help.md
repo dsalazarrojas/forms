@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about an employee's work-from-home policy, including the frequency and satisfaction of working from home. The goal is to understand the effectiveness of the current policy in place. This form should only be completed by employees who are currently working from home or have recently worked from home. Please do not complete this form if you do not have experience with the work-from-home policy.
-</thinking>
-
 # work_from_home_policy_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information from employees about their experiences with the work-from-home policy. This includes feedback on how often they work from home and their satisfaction with the policy.

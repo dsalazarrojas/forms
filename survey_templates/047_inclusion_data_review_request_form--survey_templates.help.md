@@ -1,14 +1,3 @@
-<thinking>
-The "Inclusion Data Review Request Form" appears to be a form for requesting and tracking reviews of data inclusion processes. This form likely serves as a centralized hub for stakeholders to gather necessary information for evaluation and decision-making purposes. 
-
-It's possible that this form is used to manage internal and external reviews, with fields for requesting reviews, tracking review cycles and due dates, and keeping track of approval statuses. It's also likely that this form is part of a larger process for evaluating and approving data inclusion requests.
-
-Before proceeding, ensure that the necessary permissions and access controls are in place to prevent unauthorized access or duplication of efforts. It's also crucial to verify that the form's purpose aligns with the organization's overall goals and objectives.
-
-To confirm, please review the form's fields and their labels for accuracy and clarity. If any fields or labels seem unclear or misaligned with the form's purpose, please provide additional context or clarification.
-
-</thinking>
-
 # Inclusion Data Review Request Form - Help Guide
 ## Purpose
 This form is used to request and track reviews of inclusion data processes. It helps stakeholders gather necessary information for evaluation and decision-making purposes.

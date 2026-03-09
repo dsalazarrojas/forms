@@ -1,7 +1,3 @@
-<thinking>
-We will be using this form to collect customer preferences on seasonal fashion trends. This information will help us better understand what customers are looking for in terms of clothing styles, categories, and price ranges. Please note that this form is not intended to be a comprehensive assessment of customer preferences, but rather a snapshot of what customers are currently looking for in the market. We will not use this form to identify individual customers, and all data will be aggregated for analysis. If you're a customer who has already completed this survey, please be assured that we will not use your personal data for any purpose other than analyzing trends. Please answer all questions honestly, and feel free to add any notes or comments you'd like to share with us at the end of the form. If you have already answered this survey before, your responses will not impact your personal data. Thank you for your participation.
-</thinking>
-
 # seasonal_fashion_trends_customer_preferences_survey - Help Guide
 ## Purpose
 This form is designed to collect customer preferences on seasonal fashion trends. Your input will help us understand what customers are looking for in terms of clothing styles, categories, and price ranges.

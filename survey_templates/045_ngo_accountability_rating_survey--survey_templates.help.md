@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # NGO Accountability Rating Survey - Help Guide
 ## Purpose
 The NGO Accountability Rating Survey is a tool to measure the performance of Non-Governmental Organizations (NGOs) in their transparency, engagement, accountability, governance, and financial practices. This survey helps stakeholders, such as donors, investors, or beneficiaries, to evaluate the level of accountability of NGOs and identify areas of improvement.

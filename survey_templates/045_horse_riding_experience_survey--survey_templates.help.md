@@ -1,7 +1,3 @@
-<thinking>
-This guide helps users understand that the Horse Riding Experience Survey is designed to gather feedback from users about their experience with a horse riding service. The survey aims to collect numerical ratings for various aspects of the experience, such as lesson quality, tour quality, safety, and facilities. Additionally, users can provide free-text comments and suggestions. This guide ensures that users understand what each question is asking and how to answer it accurately. It is recommended to complete the survey only once per user, to prevent duplication of feedback.
-</thinking>
-
 # Horse Riding Experience Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand your experience with a horse riding service. Your feedback is valuable for improving our service and providing the best possible experience for you and other customers.

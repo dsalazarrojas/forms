@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a survey designed to collect information about COVID-19 pandemic-related complaints. The form is intended for respondents who have experienced difficulties or concerns related to the pandemic and would like to share their experiences and suggestions for improvement. The purpose of this form is to gather data that will help identify areas where the pandemic response has been effective or ineffective, and to gather suggestions for improvement.
 
 Please note that this form is for informational purposes only, and responses will be kept confidential. All data collected will be reviewed to identify trends and areas for improvement.

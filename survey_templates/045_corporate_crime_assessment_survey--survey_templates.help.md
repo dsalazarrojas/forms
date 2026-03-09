@@ -1,11 +1,3 @@
-<thinking>Before we begin, let's make sure we have a clear understanding of the form's purpose and how to use it effectively. This "Corporate Crime Assessment Survey" is designed to assess the crime prevention and awareness levels within your organization. It's essential to fill out this form accurately to provide valuable insights that can help your organization improve its crime prevention and awareness strategies.
-
-The form consists of multiple sections with different types of questions. Please take your time to review each section carefully and answer each question truthfully. If you're unsure about a particular question, try to answer based on your best judgment.
-
-To fill out this form, you can navigate through the sections using the page numbers. Each page will have a brief description of the section and the questions it contains. Some questions are multiple-choice, while others require numerical ratings or text responses. Be sure to review each question carefully before selecting an answer or typing a response.
-
-Now, let's get started!</thinking>
-
 # Corporate Crime Assessment Survey - Help Guide
 ## Purpose
 This form is designed to help your organization assess its crime prevention and awareness levels. It includes questions about crime types, assessment frequency, risk levels, and other relevant aspects of crime prevention.

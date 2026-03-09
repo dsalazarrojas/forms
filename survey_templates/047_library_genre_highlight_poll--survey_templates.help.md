@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from library patrons on their reading preferences, such as their favorite book genres, preferred format, length, and other preferences. This data will be used to help library administrators understand the needs and interests of their patrons and make informed decisions about book collections and programming. This form should only be filled out once per person. If you have already completed this form, please don't worry about filling it out again.
-</thinking>
-
 # Library Genre Highlight Poll - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your reading preferences, so we can better understand what types of books you enjoy reading and what formats you prefer. This will help us provide better services and make informed decisions about our book collections.

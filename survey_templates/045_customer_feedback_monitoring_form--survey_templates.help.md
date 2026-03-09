@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about customer feedback on the monitoring process. This form is intended to be used by customers to provide feedback on their experience with our company's services, products, or support. It is meant to be a simple and easy-to-use form that can be completed online or offline. Before starting, please ensure that the form is not already completed by checking the "customer id" or other unique identifiers associated with the form.
-</thinking>
-
 # customer_feedback_monitoring_form - Help Guide
 ## Purpose
 The customer_feedback_monitoring_form is used to collect feedback from customers on their experience with our company's services, products, or support.
