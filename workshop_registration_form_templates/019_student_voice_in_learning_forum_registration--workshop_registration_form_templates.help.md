@@ -1,9 +1,3 @@
-<thinking>
-This is a form designed to collect data from students for registration purposes, likely for an event or workshop. The form's purpose is to gather relevant information from students, such as their name, email, interests, and any questions they may have. The form's fields are designed to be user-friendly and easy to fill out. However, it's essential to ensure that the form is completed by the right students, and not duplicate or incomplete submissions are made. Therefore, please verify that the student is eligible to register and that their submission is accurate before proceeding with the registration process.
-
-To verify this, you can check if the student's email address is correctly formatted and if they have a unique set of interests and questions. Additionally, you can check if the student has selected a valid option for signing up for the event.
-</thinking>
-
 # Student Voice In Learning Forum Registration - Help Guide
 ## Purpose
 This form is designed to collect information from students for registration purposes. The form will help gather data on student name, email, interests, and any questions they may have for the Student Voice In Learning Forum.

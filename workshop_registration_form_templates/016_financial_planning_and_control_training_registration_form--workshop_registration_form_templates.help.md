@@ -1,7 +1,3 @@
-<thinking>...
-This form is used for registering for the Financial Planning and Control Training, which aims to equip participants with knowledge and skills in financial planning and control. The form is designed to collect relevant information from participants, including their personal details, contact information, finance background, training interests, and available and preferred dates. 
-</thinking>
-
 # Financial Planning And Control Training Registration Form - Help Guide
 ## Purpose
 This form is a registration form for the Financial Planning and Control Training course. It is designed to collect necessary information from participants to ensure they have the required knowledge and skills in financial planning and control.

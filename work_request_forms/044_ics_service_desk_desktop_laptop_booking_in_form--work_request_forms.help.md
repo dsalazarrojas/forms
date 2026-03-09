@@ -1,7 +1,3 @@
-<thinking>
-This form is for submitting a service desk request for desktop and laptop repairs. It is not intended for emergency situations or critical issues. Please ensure you are submitting a valid request before filling out this form, as duplicate requests will not be processed. The form is designed to collect information about your name, contact details, and specific repair requirements. Please answer all fields accurately to ensure prompt resolution of your issue.
-</thinking>
-
 # ics_service_desk_desktop_laptop_booking_in_form - Help Guide
 ## Purpose
 The purpose of this form is to submit a service desk request for desktop and laptop repairs. Please fill out this form to inform our support team about your issue and allow them to assist you in resolving it.

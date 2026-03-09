@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to capture information for software development requests, and its primary purpose is to gather project details, priority, and other relevant information for efficient project management and tracking. The form is not designed for real-time submission; rather, it is a static form for recording and documenting project data. To ensure accurate and consistent data entry, please carefully review each field and its corresponding instructions.
-
-Before starting, please note that the project manager and development team fields are not mutually exclusive and are intended to be populated with multiple selections. The priority field is a yes/no selection, indicating whether the project has priority status or not.
-
-Also, please ensure that the deadline field is populated with a date in the correct format (YYYY-MM-DD).
-
-Before submitting, please double-check that all required fields have been filled in and that the form is accurate and complete.
-</thinking>
-
 # Software Development Request Form - Help Guide
 ## Purpose
 This form is designed to gather project details, priority, and other relevant information for efficient project management and tracking.

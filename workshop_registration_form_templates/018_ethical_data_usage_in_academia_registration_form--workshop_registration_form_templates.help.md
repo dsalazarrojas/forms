@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals about their use and handling of ethical data in academic settings. It ensures that all registered participants understand and agree to the ethical guidelines, and helps track who is actively using or handling ethical data within the institution. This form is a requirement for all students and staff. Please do not fill this form if you are not actively engaged with ethical data in your work or studies.
-</thinking>
-
 # ethical_data_usage_in_academia_registration_form - Help Guide
 ## Purpose
 This form is used to register users' involvement with ethical data in academic settings. It helps to track who is actively using or handling ethical data within the institution and ensures that all registered participants understand and agree to the ethical guidelines.

@@ -1,10 +1,3 @@
-<thinking>
-This form is for customers to register for a workshop focused on customer journey mapping. The purpose of the workshop is to help customers understand how customers interact with their business and identify areas for improvement. The form is intended to capture essential information from customers, including their contact details, workshop preferences, and registration details.
-
-Before filling out this form, please ensure you are registering for the correct workshop. Please note that if you have already registered for this workshop, you do not need to fill out this form again.
-
-</thinking>
-
 # Customer Journey Mapping Workshop Registration - Help Guide
 ## Purpose
 The Customer Journey Mapping Workshop Registration form is designed to collect information from customers to help us better understand their needs and preferences for the workshop.

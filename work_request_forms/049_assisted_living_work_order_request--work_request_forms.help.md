@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Assisted Living Work Order Request - Help Guide
 
 ## Purpose

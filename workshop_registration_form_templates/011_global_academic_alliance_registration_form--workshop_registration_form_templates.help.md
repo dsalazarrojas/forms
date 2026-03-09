@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from partners who wish to join the Global Academic Alliance. This form is designed to gather essential details about the partner, including their name, type, department name, contact person, and other relevant information. It is essential to ensure that the provided information is accurate and up-to-date to avoid duplication and duplication of effort.
-
-Please note that the form fields are designed to be optional, but providing accurate and complete information will help us better serve the partnership. If you're unsure about any field or would like to clarify any specific details, please don't hesitate to reach out to us.
-</thinking>
-
 # Global Academic Alliance Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information from partners who wish to join the Global Academic Alliance.

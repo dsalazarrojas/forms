@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect registration information for a workshop. A workshop is a collaborative work environment where participants come together to share knowledge and expertise. The Urban Guest Experience Lab is a workshop where guests can register for a specific workshop title and description. This form serves as a means to facilitate registration, ensuring that the workshop has the necessary details for each guest.
-The purpose of this form is to gather relevant information about each guest, such as their contact details, registration time, and workshop preferences. The form's data is intended to be used to organize and manage the guests' registrations.
-Before proceeding, ensure that you are registering for the correct workshop and that your information is accurate.
-</thinking>
-
 # urban-guest-experience-lab-registration-form - Help Guide
 ## Purpose
 This form is used to register for a workshop at the Urban Guest Experience Lab. It collects necessary details from each guest to ensure a successful and organized experience.

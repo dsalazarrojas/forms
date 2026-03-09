@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect registration data from participants of the Online Assessment Innovation Challenge. The form will be used to identify the participant's first name, last name, email, date of birth, phone number, preferred language, and any additional notes or comments. The form should not be used for any other purpose than registration, and each participant should only register once.
-</thinking>
-
 # Online Assessment Innovation Challenge Registration Form - Help Guide
 ## Purpose
 The Online Assessment Innovation Challenge Registration Form is a form used to collect registration data from participants of the Online Assessment Innovation Challenge.

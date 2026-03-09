@@ -1,7 +1,3 @@
-<thinking>
-Internal purpose: This form is part of the work health and safety management system, aimed at registering and tracking hazards in the workplace to ensure employee safety and compliance with regulations. It should be used to document all types of hazards, including but not limited to chemical spills, electrical hazards, and physical hazards. 
-</thinking>
-
 # Work Health & Safety Hazard Register Example - Help Guide
 ## Purpose
 This form is used to register and track hazards in the workplace, ensuring employee safety and compliance with regulations.

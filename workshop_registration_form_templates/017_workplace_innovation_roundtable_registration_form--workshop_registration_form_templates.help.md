@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information for the Workplace Innovation Roundtable. The purpose of this form is to gather essential details from attendees, such as their name, contact information, company, and role within the organization. The form also asks attendees to confirm their registration and provide event information. This form is typically used for events where multiple attendees are expected, and it's meant to be completed by each attendee separately. It's recommended that attendees only register themselves and not multiple people at once to ensure accurate and efficient registration processing. If an attendee has already registered for the event, they do not need to re-register.
-</thinking>
-
 # Workplace Innovation Roundtable Registration Form - Help Guide
 ## Purpose
 The Workplace Innovation Roundtable Registration Form is designed to collect registration information from attendees for events where multiple attendees are expected.

@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from students registering for a church class. The form is intended to gather essential details such as student name, contact information, course preferences, and learning objectives. It is crucial to understand that this form is a critical part of the registration process, and the information collected will be used to facilitate the class experience.
-
-Before starting, please ensure that you have read and understand the form's instructions and requirements. You must be registering for a class that aligns with your interests and needs. If you are unsure about any aspect of the form, please contact the relevant authorities or seek clarification before proceeding.
-
-It is essential to note that the form is divided into sections, each with its specific purpose. The first section collects personal details, while the second section focuses on course and section preferences. The last section confirms the registration and provides an opportunity to add any additional information or comments.
-
-To avoid duplication and ensure accuracy, please ensure that you have reviewed the form carefully and provided accurate information before submitting it. If you find any discrepancies or errors in your form submission, please contact the relevant authorities to rectify the situation.
-
-Please be aware that some fields are optional, but they are crucial in enhancing the class experience and providing relevant support. Please answer these questions truthfully and to the best of your abilities.
-
-</thinking>
-
 # Church Class Appointment Form - Help Guide
 ## Purpose
 This form is designed to facilitate the registration process for students interested in participating in church classes. It aims to collect essential information to ensure a smooth and effective class experience.

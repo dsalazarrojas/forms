@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Learning Space Renovation Request Form - Help Guide
 ## Purpose
 The Learning Space Renovation Request Form is designed to collect information about a school's learning space renovation needs. This form is used by school administrators to submit requests for renovations to the learning spaces within their school. 

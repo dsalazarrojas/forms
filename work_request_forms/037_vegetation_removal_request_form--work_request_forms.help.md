@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a guide to help users understand and complete the Vegetation Removal Request Form.
 
 ## Purpose

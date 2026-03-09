@@ -1,9 +1,3 @@
-<thinking>Before creating the user-facing help guide for the "Organizational Trust Building Program Registration" form, let's consider its purpose and ensure that the form is relevant and not duplicating any existing form or survey.
-
-Based on the provided YAML, the form appears to be for registering participants in an organizational trust building program. Each section of the form is designed to capture specific information from the participants, such as their details, expectations, scheduling preferences, and participant requirements.
-
-To confirm, I will create the help guide assuming the form is relevant and not duplicating any existing form or survey.</thinking>
-
 # Organizational Trust Building Program Registration - Help Guide
 ## Purpose
 This form is designed to gather information from participants who are interested in joining the Organizational Trust Building Program. By filling out this form, you will be able to register your interest and provide details about your expectations and participant requirements.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from workshop participants for the purpose of assigning them to a specific group or discussion session. This is a registration form for a weekly discussion session, where participants can select their topic interests, recurring session preferences, and other relevant information. The form helps to ensure that the right participants are assigned to the correct group, based on their preferences. 
-
-To avoid duplication of effort, this form is designed to be completed by each participant only once, and the information collected will be used to create a unique profile for each participant.
-</thinking>
-
 # Weekly_Discussion_Registration - Help Guide
 ## Purpose
 The Weekly_Discussion_Registration form is used to collect information from workshop participants for the purpose of assigning them to a specific group or discussion session.

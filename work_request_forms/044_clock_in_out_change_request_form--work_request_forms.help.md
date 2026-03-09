@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Clock In Out Change Request Form - Help Guide
 ## Purpose
 This form is used to request changes to time clock records, such as clock-in or clock-out time corrections. This form should be used when an employee needs to adjust their clock-in or clock-out time due to any of the reasons listed below. Please note that submitting a change request does not guarantee approval, and your supervisor may request additional information or clarification before processing the request.

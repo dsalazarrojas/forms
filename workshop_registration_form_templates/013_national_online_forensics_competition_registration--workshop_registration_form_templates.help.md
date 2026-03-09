@@ -1,10 +1,3 @@
-<thinking>
-This form is for registering participants for the National Online Forensics Competition. It is essential to ensure that the participant's details are accurate and complete for the registration process to be successful. Please note that this form is only for participants and coaches who have been invited to participate in the competition. If you are unsure about your eligibility or have already registered, please do not proceed with this form.
-
-Before starting the form, check that you have not already registered for the National Online Forensics Competition. This will ensure that your data is not duplicated in the system. If you have already registered, your details will not be accepted, and you will need to contact our team to resolve the issue.
-
-This form should not be used for any other purpose other than registering participants for the National Online Forensics Competition.</thinking>
-
 # National Online Forensics Competition Registration - Help Guide
 ## Purpose
 The National Online Forensics Competition Registration form is designed to collect necessary information from participants and their coaches to ensure a smooth and successful registration process.

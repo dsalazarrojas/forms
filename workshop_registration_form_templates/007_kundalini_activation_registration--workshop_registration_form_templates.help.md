@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is only used for kundalini yoga workshop registration and not for other purposes. This form should only be used by participants who have already expressed interest in attending the workshop. The fields should be filled out with accurate and complete information by the participant. The form should not be used for any other purpose than to collect information from participants for the kundalini yoga workshop. This form should only be used in an online setting, and the participant's data will be used solely for the purpose of workshop organization.
-</thinking>
-
 # kundalini_activation_registration - Help Guide
 ## Purpose
 This form is used to collect information from participants who have expressed interest in attending a kundalini yoga workshop. The form should only be used for this purpose and should not be used for any other reason.

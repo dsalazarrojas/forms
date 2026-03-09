@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Grant Writing Training Form - Help Guide
 
 ## Purpose

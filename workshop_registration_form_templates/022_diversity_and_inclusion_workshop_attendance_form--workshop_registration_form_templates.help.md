@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from attendees for a diversity and inclusion workshop. It is intended for workshop facilitators, organizers, and participants to gather essential details about the workshop name, dates, contact information, and preferences. The purpose of this form is to ensure that attendees can provide accurate and comprehensive data for planning and execution purposes. Before proceeding, please review the form to ensure you are providing the correct information and not duplicating your response.
-
-</thinking>
-
 # diversity_and_inclusion_workshop_attendance_form - Help Guide
 ## Purpose
 This form is used to collect information from workshop attendees for diversity and inclusion workshops. It is essential to provide accurate and comprehensive data for planning and execution purposes.

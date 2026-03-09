@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lift Truck Work Order Information Form - Help Guide
 
 ## Purpose

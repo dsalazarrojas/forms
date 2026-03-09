@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Social Impact Hackathon Registration Form", I'll follow the required structure and provide concrete, concise explanations for each field. This form collects essential information from participants about their workshop registration, aiming to ensure accurate and organized data collection. Before proceeding, let's review the form purpose and fields. 
-
-The form collects personal information, such as the participant's name, contact details, and role at their organization. The goal is to register participants for the social impact hackathon, ensuring that all required information is provided accurately and completely. This form will be used by participants to sign up for the event.
-
-The form includes fields for: First Name, Last Name, Email, Phone, Organization, Department, Job Title, Role, Role Options, Prophets (which seems like a typo and might be meant to be "Proposed Date"), Time, and Note. The form requires all fields except for Prophets and Time, which are optional.
-
-</thinking>
-
 # Social Impact Hackathon Registration Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from participants about their registration for the Social Impact Hackathon. Please fill out the form accurately to ensure a smooth and successful registration process.

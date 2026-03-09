@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for users to register for a Unity event. The event type, date, and time fields might not be necessary for all events, as they may not be relevant to a particular type of event or might be determined by the event organizer. The form also contains several confirm fields, which seem to be used to confirm certain information or actions. These confirm fields might be used to ensure that the user has reviewed or agreed to certain details before submitting the form.
-
-To prevent duplication, the form appears to be designed to prevent users from submitting duplicate entries based on certain criteria. This could be achieved through server-side validation or other mechanisms.
-
-</thinking>
-
 # Unity Event Registration - Help Guide
 ## Purpose
 The Unity Event Registration form is used to collect information from users who want to attend or participate in Unity events. This form helps event organizers collect relevant details from attendees, such as their names, email addresses, and roles within the event.

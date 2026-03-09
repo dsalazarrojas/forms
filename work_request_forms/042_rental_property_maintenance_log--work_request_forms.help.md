@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about the maintenance and repair needs of rental properties. The purpose of this form is to track and record maintenance requests, allowing users to keep a record of what needs to be done, what has been completed, and the status of ongoing work. The form should be used for properties owned or managed by the organization, and should not be used for non-property-related maintenance requests.
-
-To ensure that the form is completed correctly and efficiently, please check that all relevant fields are populated before submitting the form. The form should not be used to duplicate or repeat requests for the same issue or property. If you're unsure about the relevance or necessity of a field, please ask for clarification from the responsible maintenance team.
-
-</thinking>
-
 # Rental Property Maintenance Log - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sustainability Reporting Workshop Registration Form - Help Guide
 ## Purpose
 This form is used to register participants for the Sustainability Reporting Workshop. It collects information about each participant, including their name, email, phone number, and other relevant details.

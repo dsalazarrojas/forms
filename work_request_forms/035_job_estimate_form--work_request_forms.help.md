@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about a job estimate, which is an estimation of the time and resources required to complete a specific job or project. It will help the project owner to get an idea of the scope and timeline of the project, and to plan and manage their resources accordingly. 
-
-This form is intended to be filled out by project managers, team leads, or project coordinators, who have access to the necessary information about the project.
-
-Please make sure to fill out the form accurately and completely. If you're unsure about any of the fields, it's always best to ask for clarification from your team members or project manager before submitting the form.
-</thinking>
-
 # Job Estimate Form - Help Guide
 ## Purpose
 This form is designed to collect information about a job estimate, which is an estimation of the time and resources required to complete a specific job or project.

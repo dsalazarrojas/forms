@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this email_design_questionnaire form is to collect information from customers about their email needs and preferences. This form is designed to help the email designer understand what type of content and visuals to include in the email to best communicate with the customer. 
-
-The form is not intended to be a comprehensive survey, but rather a brief and focused collection of details to aid in email design. Please ensure that you complete this form only once and do not submit multiple responses.
-
-</thinking>
-
 # email_design_questionnaire - Help Guide
 ## Purpose
 The email_design_questionnaire form is a tool to gather information about customer preferences for their email communications.

@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for end-users who are not familiar with the form, to ensure they understand its purpose and how to complete it correctly. The form is designed to collect information from workshop attendees, specifically for a Sound Bath Registration Form. This guide will outline the purpose of the form, step-by-step instructions on how to complete it, and a field-by-field explanation of each section.
-
-The Sound Bath Registration Form is used to register attendees for a sound bath workshop. The form requires the attendee's personal information, including name, email, phone number, and health information. Additionally, it asks about the attendee's preferred session time and date. The form is meant to be completed by attendees who are interested in participating in the sound bath workshop.
-
-Please note that this form is not a formal medical form, but rather a registration form for a workshop. It is essential to provide accurate information as it will be used to communicate with attendees and provide them with the necessary information about the workshop.
-
-</thinking>
-
 # Sound Bath Registration Form - Help Guide
 ## Purpose
 The Sound Bath Registration Form is used to register attendees for a sound bath workshop. It collects personal and preference information to ensure a smooth and enjoyable experience for all attendees.

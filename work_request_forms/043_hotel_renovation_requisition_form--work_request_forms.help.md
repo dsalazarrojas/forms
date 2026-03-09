@@ -1,5 +1,3 @@
-<thinking>As a hotel's operations team, it's essential to have a system in place to manage and track renovation requests. This form, "Hotel Renovation Requisition Form," serves as a centralized platform to collect and organize renovation requests, ensuring that all necessary information is gathered and communicated effectively. Before proceeding, please ensure that you have not already submitted this form for the same renovation project. If you have, this form will not be processed. Please fill out the form accurately and thoroughly, providing all required information to ensure efficient processing and completion of the renovation request.</thinking>
-
 # Hotel Renovation Requisition Form - Help Guide
 ## Purpose
 The Hotel Renovation Requisition Form is designed to collect and manage renovation requests from the hotel's operations team. This form ensures that all necessary information is gathered and communicated effectively, streamlining the renovation process.

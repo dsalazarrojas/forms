@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Payroll Insight Workshop Registration - Help Guide
 ## Purpose
 This form is designed to collect information from users interested in attending the Payroll Insight Workshop. The form helps us understand the attendees' needs and preferences, allowing us to tailor the workshop content to their expectations.

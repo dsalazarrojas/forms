@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to register attendees for the Vision Board Workshop. This form collects information from attendees, including their registration details, personal preferences, and consent to attend the workshop. The form is designed to be user-friendly and straightforward, making it easy for attendees to provide their information accurately and efficiently.
-</thinking>
-
 # Vision Board Workshop Registration - Help Guide
 ## Purpose
 This form is used to register attendees for the Vision Board Workshop. It collects registration details, attendee preferences, and consent to attend the workshop.

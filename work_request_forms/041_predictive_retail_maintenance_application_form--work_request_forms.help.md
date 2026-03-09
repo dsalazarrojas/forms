@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information about predictive retail maintenance requests. Predictive retail maintenance involves analyzing historical data to identify potential issues before they happen, allowing retailers to take proactive measures to prevent downtime and reduce maintenance costs. The form is used to record and track these requests, providing a structured way to gather and analyze data.
-
-To ensure data consistency and accuracy, it's essential to fill out this form carefully and only once for each maintenance request. If you're unsure about any field, refer to this guide for clarification.
-
-</thinking>
-
 # Predictive Retail Maintenance Application Form - Help Guide
 ## Purpose
 This form is designed to collect and manage predictive retail maintenance requests. It helps store information about maintenance requests, including their details, location, priority, and status.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Film Set Prop Replacement Request Form - Help Guide
 
 ## Purpose

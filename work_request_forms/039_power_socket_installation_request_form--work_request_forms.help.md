@@ -1,20 +1,3 @@
-<thinking>
-This form is used for customers to request power socket installation. It will help customers provide necessary details for the installation process. Please ensure that only one request per customer is submitted. If you've already submitted a request, please don't submit it again. This guide will walk you through the process of completing the form. Please follow these steps:
-
-1. Provide your contact information.
-2. Schedule an appointment time for the installation.
-3. Specify the job details and any relevant notes.
-4. Enter the desired installation date.
-5. Leave a note for any additional comments.
-6. Add your email address.
-7. Enter your phone number.
-8. Enter your property address.
-9. If applicable, provide property manager information.
-10. Add any electrician contact information.
-11. Sign the form.
-
-</thinking>
-
 # Power Socket Installation Request Form - Help Guide
 ## Purpose
 This form is used to collect information from customers for power socket installation requests.

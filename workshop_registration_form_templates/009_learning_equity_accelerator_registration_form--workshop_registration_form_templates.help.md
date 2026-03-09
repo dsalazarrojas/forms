@@ -1,38 +1,3 @@
-<thinking>
-This form is designed to collect information from users for the "Learning Equity Accelerator Registration Form". The purpose of this form is to gather data related to the learning equity programs, funding, and related activities. 
-
-This form is intended to be filled out by individuals involved in the learning equity accelerator program. It is not intended for general public use. 
-
-Please ensure that you are filling this form correctly to provide accurate and relevant information. If you are unsure about any of the fields, it is recommended to refer to the provided documentation for guidance. 
-
-The form consists of 13 fields divided into different sections, each with its own purpose: 
-- First name 
-- Last name 
-- Email 
-- Phone number 
-- Workshop date 
-- Workshop time 
-- Workshop location 
-- Workshop details 
-- Learning equity programs 
-- Learning equity funding 
-- Learning equity objectives 
-- Learning equity outcomes 
-- Learning equity partners 
-- Learning equity funding status 
-- Learning equity funding amount 
-- Learning equity funding currency 
-- Learning equity funding frequency 
-- Learning equity funding source 
-- Learning equity funding destination 
-- Learning equity funding start date 
-- Learning equity funding end date 
-- Learning equity funding amount currency 
-- Learning equity funding amount frequency 
-- Learning equity funding amount 
-
-</thinking>
-
 # learning_equity_accelerator_registration_form - Help Guide
 ## Purpose
 The "Learning Equity Accelerator Registration Form" is a tool used to collect data related to the learning equity programs, funding, and other relevant activities.

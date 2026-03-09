@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to capture communication work requests from employees, ensuring that all relevant information is gathered for effective processing and fulfillment. This form serves as a central hub for requesting various types of communication support, such as press releases, social media content, email campaigns, and more. The form aims to streamline the communication work request process, reducing duplication and miscommunication. By providing detailed information, requesters can get the support they need in a timely and efficient manner. It is recommended to fill out this form thoroughly and accurately to increase the chances of prompt and effective response.
-</thinking>
-
 # Communication Work Request Form - Help Guide
 
 ## Purpose

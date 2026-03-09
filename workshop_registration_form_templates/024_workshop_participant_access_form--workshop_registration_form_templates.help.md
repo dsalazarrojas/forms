@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workshop Participant Access Form - Help Guide
 
 ## Purpose

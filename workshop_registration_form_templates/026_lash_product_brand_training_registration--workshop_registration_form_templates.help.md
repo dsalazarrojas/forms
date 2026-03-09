@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect registration information for a workshop on Lash Product Brand training. It's essential to understand that this form is a crucial part of the training process, and the data collected through it will be used to assign tools and create output files. 
-
-The form is divided into several sections, and each section corresponds to different stages of the training process. The purpose of this form is to gather accurate and relevant information from the attendees so that the trainers can tailor their sessions according to their needs and preferences.
-
-To prevent duplicate registrations, we will check for existing registrations based on the 'First Name', 'Last Name', and 'Email' fields. This is to ensure that each attendee has a unique identity in the system.
-
-</thinking>
-
 # Lash Product Brand Training Registration - Help Guide
 ## Purpose
 This form is used to register attendees for the Lash Product Brand training sessions. It is essential to complete this form accurately to ensure that the trainers can plan their sessions effectively.

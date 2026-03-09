@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-friendly help guide that clearly explains the Scroll Website Design Request Form. This form is designed to collect information from users who are requesting a website design service. The form is divided into multiple pages, each with its own set of fields. The fields are intended to gather essential details from the users, such as project details, required date, design type, file uploads, and confirmation of submission and email. This form is meant to be a helpful guide for users to understand what each field means and how to complete it correctly, ensuring they provide the necessary information to receive a well-designed website. I will now create a user-facing help guide that will help users understand the form's purpose, how to complete it, and what each field means.</thinking>
-
 # Scroll Website Design Request Form - Help Guide
 ## Purpose
 The Scroll Website Design Request Form is designed to gather information from users who are requesting a website design service. Please fill out this form to provide the necessary details about your project and preferences.

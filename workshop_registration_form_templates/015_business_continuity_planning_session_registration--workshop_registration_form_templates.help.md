@@ -1,7 +1,3 @@
-<thinking>
-We will be creating a help guide for the "Business Continuity Planning Session Registration" form. This form is designed to collect information from participants for a workshop or session focused on business continuity planning. The guide will walk the user through the form's purpose and how to complete it, as well as provide clear explanations for each field.
-</thinking>
-
 # Business Continuity Planning Session Registration - Help Guide
 ## Purpose
 The Business Continuity Planning Session Registration form is designed to collect information from participants for a workshop or session focused on business continuity planning. This guide will help you understand the form's purpose and walk you through the process of completing it.

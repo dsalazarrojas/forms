@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from clients to generate an estimate for a job. This form typically requires minimal information, including the client's name, address, city, state, zip, phone number, and email. Before proceeding, please ensure that you have permission from your clients to gather this information and that you do not duplicate efforts already made to contact this client.
-</thinking>
-
 # Job Estimate Request Form - Help Guide
 ## Purpose
 The Job Estimate Request Form is a tool for gathering essential information from clients to generate an estimate for a job. This form is designed to be as brief as possible while still collecting the necessary details needed for the estimate.

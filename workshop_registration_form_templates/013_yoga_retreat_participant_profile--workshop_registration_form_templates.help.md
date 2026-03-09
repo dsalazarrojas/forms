@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from participants attending a yoga retreat. The goal is to understand each participant's preferences, needs, and limitations so that the retreat organizers can provide personalized and inclusive experiences. The form collects contact information (name and email), health-related data (conditions, allergies, medical devices), and preferences for class timing, instructors, and class types. This form should only be completed by participants who have been approved to attend the retreat. To avoid duplication, participants should not reuse their account for multiple registrations.
-
-</thinking>
-
 # Yoga Retreat Participant Profile - Help Guide
 ## Purpose
 This form is designed to help us understand your preferences and needs so we can tailor your yoga retreat experience.

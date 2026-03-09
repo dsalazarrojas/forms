@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture the information of attendees for a Corporate Restructuring Symposium. It is likely used for registration purposes for employees or stakeholders from companies to attend the symposium. The goal is to collect relevant details about each attendee to better understand their background and interests. The form should not be completed multiple times, and each attendee should be registered only once. If you've already registered, please disregard this form.
-</thinking>
-
 # Corporate Restructuring Symposium Registration Form - Help Guide
 ## Purpose
 This form collects information about attendees for the Corporate Restructuring Symposium. Please provide accurate details to ensure a smooth registration process.

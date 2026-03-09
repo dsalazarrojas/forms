@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'd like to understand the form's purpose and how it's used in the context of "work_request_forms". This form appears to be related to electrical upgrades, and the fields suggest it's for collecting information for an upgrade request. The form seems to be asking for consent, approval, and other relevant details for the upgrade process.</thinking>
-
 # Electrical Upgrade Work Consent Form - Help Guide
 ## Purpose
 The Electrical Upgrade Work Consent Form is used to collect necessary information for electrical upgrades, including consent, approval, and other relevant details. This form is typically used to ensure that the necessary parties are aware of and agree to the upgrade process.

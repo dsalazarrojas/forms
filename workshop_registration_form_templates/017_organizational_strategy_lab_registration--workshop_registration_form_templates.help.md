@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Organizational Strategy Lab Registration - Help Guide
 ## Purpose
 This form is used to collect information from participants in the Organizational Strategy Lab. It helps us understand the goals, preferences, and other details of each participant, which will aid us in creating a productive and engaging experience for everyone. Please note that you must be registered as a participant in this lab to access this form. If you're not registered, you won't be able to access this form.

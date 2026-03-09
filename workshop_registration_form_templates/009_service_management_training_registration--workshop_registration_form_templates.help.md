@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Service Management Training Registration - Help Guide
 ==============================================
 

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "robotics_control_software_certification_registration_form" is to allow candidates to register for robotics control software certification. This form collects information from candidates to verify their identity, contact details, and agreement to certification requirements. This information will be used for certification processing and future correspondence with the candidate.
-To ensure the form is completed correctly, please review the following instructions carefully. This form is not designed for duplicate submissions, so please refrain from submitting multiple forms.
-</thinking>
-
 # robotics_control_software_certification_registration_form - Help Guide
 ## Purpose
 The robotics control software certification registration form is used to collect information from candidates for certification purposes. This includes details about the candidate, their contact information, certification requirements, and certification information. The form is designed to be filled out once for each certification attempt.

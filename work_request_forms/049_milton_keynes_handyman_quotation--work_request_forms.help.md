@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the "milton_keynes_handyman_quotation" form is to gather information for a quotation request from customers. This form is designed to be filled out by customers who require a handyman service quotation. The form collects details about the customer and their quotation request, including whether they have a previous quotation, their name, and address information. This form is meant to be completed by customers, not internal staff.
 
 ## Milton Keynes Handyman Quotation - Help Guide

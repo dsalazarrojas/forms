@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for equipment operators to request a replacement for their safety shield in case of loss, damage, or malfunction. The purpose of this form is to gather essential information about the equipment and the issue at hand, ensuring a prompt and efficient replacement process. It's essential that you complete this form only if you are the actual user of the equipment or have been authorized to make the request. Please note that submitting multiple requests for the same equipment may lead to delays or cancellations of the replacement process.
-</thinking>
-
 # Equipment Safety Shield Replacement Request Form - Help Guide
 ## Purpose
 The Equipment Safety Shield Replacement Request Form is a tool for equipment operators to request a replacement for their safety shield in case of loss, damage, or malfunction.

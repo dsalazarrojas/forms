@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and consistently. To prevent mistakes, let's review the form's purpose and required fields. The form is for registering participants for a butterfly preservation workshop. We need to gather information about the participants, including their contact details, experience level, and preferences. We should check that all required fields are completed, especially "participant_first_name", "participant_last_name", "participant_email", "participant_phone", "participant_type", "experience_level", "workshop_session", "registration_date", and "transportation_needed".
-</thinking>
-
 # Butterfly Preservation Workshop Registration - Help Guide
 ## Purpose
 This form is for registering participants for a butterfly preservation workshop. Please fill out the form below to provide your details and preferences for the workshop.

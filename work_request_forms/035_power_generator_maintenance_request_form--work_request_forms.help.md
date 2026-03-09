@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information related to maintenance requests for power generators. The form will guide users through a series of fields to provide details about the maintenance request, including facility-specific information, issue description, and maintenance status. To ensure data accuracy, please fill out the form carefully and accurately. Note that some fields are required, as indicated by the "required" flag in the form schema. This guide will walk you through each field to help you complete the form correctly.
-
-</thinking>
-
 # Power Generator Maintenance Request Form - Help Guide
 ## Purpose
 This form is used to collect information for power generator maintenance requests.

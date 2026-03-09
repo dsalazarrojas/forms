@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to register attendees for a digital transformation workshop. It captures the necessary information from attendees, including registration details, attendee preferences, payment information, and contact details. The form is divided into several sections, each focused on a specific aspect of the attendee's information. 
-
-Before starting this form, ensure that you are registering for the correct workshop and that you have all the required information at hand. You may need to refer to your workshop confirmation email for details specific to your attendance. 
-
-Please note that this form requires some redundant fields like email and phone numbers as it is designed for international attendees. You can fill out the form in any order, but it is recommended to fill it out in the following order: 1) Registration information, 2) Attendee details, 3) Payment information, 4) Preferences, and 5) Contact details. 
-
-The form will ask for redundant fields like email and phone numbers, please be aware of this and fill them out consistently throughout the form.</thinking>
-
 # Digital Transformation Workshop Registration Form - Help Guide
 ## Purpose
 This guide is designed to help you complete the Digital Transformation Workshop Registration Form accurately and efficiently.

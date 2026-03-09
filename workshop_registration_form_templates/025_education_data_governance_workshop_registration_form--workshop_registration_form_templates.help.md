@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to capture information from participants of an education data governance workshop. It's essential to have accurate and complete data to ensure that the workshop can be properly organized and executed. Please make sure that you have completed this form carefully and truthfully, as the information will be used to coordinate the workshop and communicate with participants.
-
-Before starting, please review the form carefully to ensure that you have all the necessary information. If you're unsure about any field, please don't hesitate to ask for clarification.
-
-Also, please note that some fields are optional, but providing accurate and complete information will help us to better serve you and your organization.
-
-This form has 25 fields, each with its specific purpose. Please read each field's explanation carefully to understand what information is required and how to fill it out correctly.
-
-</thinking>
-
 # education_data_governance_workshop_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from participants of an education data governance workshop.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a mobile home removal request. It is intended for individuals or their representatives who wish to report a mobile home on the site, providing details about the site, their contact information, reasons for removal, and any associated documents or evidence. The form is not intended to collect sensitive personal data.
-
-Before proceeding, please ensure you have all necessary information and approvals before filling this form. Additionally, be aware that filling this form will be considered a formal request for mobile home removal and may trigger further action or review by relevant authorities.
-
-</thinking>
-
 # mobile_home_removal_request - Help Guide
 
 ## Purpose

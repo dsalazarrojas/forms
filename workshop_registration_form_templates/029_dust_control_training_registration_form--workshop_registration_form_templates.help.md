@@ -1,7 +1,3 @@
-<thinking>
-  The "Dust Control Training Registration Form" is used to register participants for a dust control training program. This form collects information such as name, company, position, contact details (email and phone number), training date and time, attendance status, and any additional comments. The form is not mandatory for all fields, but some fields like "Attendance" are required to be filled out for successful registration. 
-</thinking>
-
 # Dust Control Training Registration Form - Help Guide
 ## Purpose
 This form is used to register participants for the dust control training program. Please fill out the form completely and accurately to ensure successful registration.

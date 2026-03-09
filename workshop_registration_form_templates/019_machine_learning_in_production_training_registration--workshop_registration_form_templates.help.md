@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect registration information from attendees for the Machine Learning In Production Training program. This form is used to gather demographic data, experience level, payment method, and payment amount from registrants. It is essential that the data collected is accurate and complete to ensure proper training preparation and payment processing.
 
 To avoid duplicate registrations, please ensure you are not submitting multiple forms with the same email address.

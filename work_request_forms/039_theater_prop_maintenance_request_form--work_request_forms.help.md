@@ -1,5 +1,3 @@
-<thinking>The purpose of this form is to submit a request for theater prop maintenance, which can include repairs, replacements, or new prop acquisitions. This form is used to track and manage these requests, including the status and priority of the request. Please note that this form is intended for internal use within the organization, and all fields should be filled out accurately and thoroughly to ensure efficient handling of the request. Before filling out this form, please ensure that you are not duplicating an existing request. If you are unsure, please check the 'Related Work Orders' field for any related existing requests.</thinking>
-
 # Theater Prop Maintenance Request Form - Help Guide
 ## Purpose
 The Theater Prop Maintenance Request Form is used to submit requests for theater prop maintenance, including repairs, replacements, or new prop acquisitions.

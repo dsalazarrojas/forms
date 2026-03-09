@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information from users for the "Interview Skills Workshop". The form should be completed by users to provide their details for the workshop registration. It's best to complete the form carefully to ensure accurate and complete information is provided. This form is not a duplicate of any other form in the system and should only be used for workshop registration purposes.
-</thinking>
-
 # Interview Skills Workshop Registration Form - Help Guide
 ## Purpose
 This form is used to register for the Interview Skills Workshop. It collects information such as name, email, phone number, and preferred workshop type.

@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended for registering participants in a workshop, gathering information about them, and tracking their attendance and preferences. It is not meant for other purposes. Please ensure you are filling out this form for the correct purpose.</thinking>
-
 # Nature Creative Workshop Registration - Help Guide
 ## Purpose
 The "Nature Creative Workshop Registration" form is designed to collect participant information and preferences for the Nature Creative Workshop. Fill out this form to register for the workshop.

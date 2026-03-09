@@ -1,11 +1,3 @@
-<thinking>
-To avoid confusion and unnecessary work, please review this form purpose and fields carefully before completing it.
-The Temperature Sensor Replacement Request Form is used to track and manage temperature sensor replacement requests across the organization. Each request contains information about the user who submitted the request, the asset affected (if any), and the status of the replacement process. The purpose of this form is to ensure that all relevant information about the sensor replacements is documented and communicated effectively.
-Before proceeding, please check the following:
-- Have you already submitted a similar request for this asset? If yes, please check its status first.
-- Are you sure that this request is not related to another issue with the asset that needs to be addressed first?
-</thinking>
-
 # Temperature Sensor Replacement Request Form - Help Guide
 
 ## Purpose

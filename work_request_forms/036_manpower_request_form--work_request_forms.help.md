@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request additional manpower for various roles within the organization. It's essential to fill out this form accurately and correctly to ensure that your request is processed efficiently. Before submitting this form, please make sure that you have not already submitted a similar request, as this may lead to unnecessary duplication of effort. If you're unsure about the form's purpose or have any questions, feel free to reach out to the relevant department for guidance.
-
-</thinking>
-
 # Manpower Request Form - Help Guide
 ## Purpose
 This form is designed to help you request additional manpower for various roles within the organization. It's used to gather information necessary to fulfill your needs.

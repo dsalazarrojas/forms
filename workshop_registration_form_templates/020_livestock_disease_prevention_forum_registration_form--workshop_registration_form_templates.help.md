@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering participants to the Livestock Disease Prevention Forum, a workshop aimed at educating farmers and ranchers on disease prevention methods for livestock. This form will collect essential information from participants, including their contact details, preferences, and workshop participation status. Before proceeding, please ensure that you have not already filled this form, as the workshop registration will be non-duplicative. 
-</thinking>
-
 # Livestock Disease Prevention Forum Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information for the Livestock Disease Prevention Forum workshop registration.

@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect information from clients about their creative design request. This information will be used to understand their needs and preferences for the design project...Please ensure that the form is filled out correctly and not duplicated. The form has been designed to be completed by one user at a time...</thinking>
-
 # Creative Design Request Form - Help Guide
 ## Purpose
 The Creative Design Request Form is designed to collect necessary information from clients about their creative design request. This form will help us understand their project requirements and preferences to provide an excellent outcome.

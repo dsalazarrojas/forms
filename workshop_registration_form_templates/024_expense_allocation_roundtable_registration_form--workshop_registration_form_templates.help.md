@@ -1,12 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Expense Allocation Roundtable Registration Form, we need to consider the following:
-
-* The form's purpose is to collect information about an expense allocation roundtable registration. This includes collecting personal details such as name, organization, role, and contact information (email, phone). Additionally, it collects information about the event type, budget, and expense category.
-* The form is used by users to register for the roundtable and provide their details.
-
-</thinking>
-
 # Expense Allocation Roundtable Registration Form - Help Guide
 ## Purpose
 The Expense Allocation Roundtable Registration Form is designed to collect information about users who want to register for the expense allocation roundtable. This form helps us gather details such as name, organization, role, and contact information, as well as event type, budget, and expense category.

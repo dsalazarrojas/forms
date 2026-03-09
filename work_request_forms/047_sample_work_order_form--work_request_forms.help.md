@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a sample work order. The purpose of this form is to gather data about the customer's details, work order type, address, specifications, and other relevant information. The form is not meant to be a comprehensive or final work order form, but rather a sample or placeholder form to help guide the user in creating a work order. Before completing this form, please ensure that you have a legitimate reason for creating a work order and that the information you provide is accurate and complete. To avoid duplication, please review the form carefully and only provide the required information.
-
-</thinking>
-
 # Sample Work Order Form - Help Guide
 ## Purpose
 The "Sample Work Order Form" is a template designed to collect essential details about a work order, helping ensure accuracy and completeness in the work order creation process. 

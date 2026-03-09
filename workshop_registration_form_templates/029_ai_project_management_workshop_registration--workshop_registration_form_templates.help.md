@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to allow attendees to register for the AI Project Management Workshop. It collects essential information about the registrant, including their name, email address, project management experience, goals for attending the workshop, preferred session format, dietary restrictions, and emergency contact details. This data will be used to tailor the workshop experience and facilitate communication with the registrants.
-
-Before proceeding, please ensure you have not already registered for this workshop. If you have any doubts or questions, feel free to contact us.
-
-</thinking>
-
 # AI Project Management Workshop Registration - Help Guide
 ## Purpose
 The AI Project Management Workshop Registration form is used to collect information from attendees to ensure a smooth and enjoyable experience during the workshop.

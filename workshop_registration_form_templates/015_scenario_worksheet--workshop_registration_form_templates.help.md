@@ -1,9 +1,3 @@
-<thinking>...
-
-As a form designer and technical writer, I will create a user-friendly help guide that explains the purpose and usage of the "Scenario Worksheet" form.
-
-</thinking>
-
 # Scenario Worksheet - Help Guide
 ## Purpose
 The "Scenario Worksheet" form is designed to collect information from workshop participants, specifically regarding their experience with a particular scenario or problem. The form helps to understand individual responses and team collaboration, and provides valuable insights for workshop facilitators to tailor their sessions accordingly.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a hinge installation request from an end user. The form is intended to gather relevant details such as request date, type of hinge, size of hinge, location of hinge, and other relevant details. The form will be used to track and manage hinge installation requests efficiently. Please ensure that you are submitting a new request for a new installation or update an existing one. Please do not submit duplicate requests.
-</thinking>
-
 # Hinge Installation Request Form - Help Guide
 ## Purpose
 The Hinge Installation Request Form is a tool used to collect and track information for hinge installation requests from end users.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering users for a plant management software training session. The form will ask for general information, contact details, training preferences, schedule and time preferences, location, and any additional notes. The form will not be used for duplicate registrations, and users will be able to confirm their information after submitting it.
-</thinking>
-
 # plant-management-software-training-registration-form - Help Guide
 ## Purpose
 This form is used for registering users for a plant management software training session.

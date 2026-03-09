@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information from workshop attendees, ensuring they have a smooth and enjoyable experience during the event. The purpose of this form is to collect necessary details such as name, contact information, and workshop preferences. The form will also allow attendees to choose from various scheduling options, providing an efficient way to manage workshop registrations.</thinking>
-
 # Responsive Workshop Registration Form - Help Guide
 ## Purpose
 This form is used to collect registration information from workshop attendees, including basic details and scheduling preferences.

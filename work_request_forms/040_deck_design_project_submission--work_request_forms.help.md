@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for end-users to submit project information for a deck design project. The form aims to collect all relevant project data, including project details, files, measurements, and other essential project information. The form is designed for both internal and external stakeholders, ensuring that project requirements are clearly captured.
-
-Before starting, ensure that you have all necessary project information ready. This will save time and reduce errors. Additionally, please double-check that you are not duplicating an existing project submission, as this may cause confusion and delay the project.
-
-</thinking>
-
 # Deck Design Project Submission - Help Guide
 ## Purpose
 This form is for project stakeholders to submit project information for a deck design project.

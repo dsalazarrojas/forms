@@ -1,7 +1,3 @@
-<thinking>Internal reasoning: The form is intended for attendees who want to register for the Companion Program Information Session, which is likely an optional or preparatory program for a main event. The form collects attendee information (name and email) and session specifics (date). It also allows registrants to indicate their interest in specific topics, guest numbers, and accessibility needs. The purpose of this form is to ensure accurate attendance tracking and provide attendees with relevant session information, while also allowing them to express their requirements and preferences.
-
-</thinking>
-
 # Companion Program Information Session Registration - Help Guide
 ## Purpose
 This form is for attendees who want to register for the Companion Program Information Session. It's an optional or preparatory program for the main event. Fill out this form to let us know your interest in attending, provide your contact details, and specify your session preferences.

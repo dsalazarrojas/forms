@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Personal Branding Workshop Booking Form - Help Guide
 ## Purpose
 The "Online Personal Branding Workshop Booking Form" is designed to collect essential information from participants who want to register for the online personal branding workshop. The form helps to easily manage workshop registrations and bookings.

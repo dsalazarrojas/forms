@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Phone Repair Form - Help Guide
 ## Purpose
 The Phone Repair Form is a self-service form used for customers to submit a phone repair request. Please fill out this form to describe your issue and we'll get back to you as soon as possible.

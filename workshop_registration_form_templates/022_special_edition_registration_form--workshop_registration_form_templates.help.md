@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users for a special edition workshop or event. It is likely used for internal purposes only, such as registration and tracking. To ensure data quality, please fill out the form carefully and accurately. Note that some fields are marked as "Required" and must be filled out to complete the form. Please make sure to fill out all required fields.
-</thinking>
-
 # Special Edition Registration Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from users for a workshop or event registration. It is a crucial part of the event planning process and helps organizers keep track of participants' details.

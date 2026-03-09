@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to facilitate the process of scheduling and documenting visits from the district council. This form is used to collect relevant information about the visit, such as the purpose and scope of the assessment, the location and date/time of the visit, and any additional notes or contact details. It is essential to fill out this form accurately to ensure that the council member has all the necessary information for a productive and effective visit. Before filling out this form, please ensure that you have not already submitted a similar request in the past and that the information provided is up-to-date and accurate.
-</thinking>
-
 # District Council Assessment Visit Form - Help Guide
 ## Purpose
 This form is used to schedule and document visits from the district council. It helps gather essential information about the visit, including the purpose, location, and contact details.

@@ -1,9 +1,3 @@
-<thinking>
-The Sustainable Logistics Council Registration Form is designed for users to register their interest in the Sustainable Logistics Council, a platform that promotes sustainable logistics and supply chain management practices. This form helps users provide their contact information, preferences, and additional details to get involved with the council. 
-The form is used to collect user data for various purposes such as providing updates on council events, research opportunities, and member benefits. The form is intended for anyone interested in sustainable logistics, including business leaders, academia, or individuals working in the logistics industry. However, to ensure the integrity of the user base, the council may review user data to validate the user's interest and ensure alignment with the council's objectives.
-The form's design and fields are intended to be user-friendly and straightforward, allowing users to provide their information efficiently. It is crucial to fill out the form accurately, as the information provided will be used to tailor communications and opportunities to the user's specific needs and interests.
-</thinking>
-
 # Sustainable Logistics Council Registration Form - Help Guide
 ## Purpose
 

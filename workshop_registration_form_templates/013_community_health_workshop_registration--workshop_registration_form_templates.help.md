@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to register for a Community Health Workshop. This guide will walk you through how to complete the registration process, including an explanation of each field. To register, please ensure you have a valid email address and select a preferred workshop session. If you are unsure about your role in healthcare, you may choose the "General public" option. Please provide consent to be photographed for event purposes. Lastly, note that this form is for registration only and not for making payment. Payment will be handled separately. 
-
-</thinking>
-
 # Community Health Workshop Registration - Help Guide
 ## Purpose
 The Community Health Workshop Registration form is designed for users to register for the workshop. It collects personal and workshop preferences to provide a smooth and organized experience for all attendees.

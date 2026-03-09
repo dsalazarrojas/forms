@@ -1,7 +1,3 @@
-<thinking>
-This form is likely designed for workshop registrants to provide their information in order to participate in a school-to-work workshop.
-</thinking>
-
 # School To Work Pathways Workshop Registration Form - Help Guide
 ## Purpose
 The School To Work Pathways Workshop Registration Form is designed for workshop registrants to provide their information in order to participate in a school-to-work workshop.

@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information for the Restaurant Management Workshop. It is intended for restaurant owners or management personnel to register for the workshop. The form does not require any pre-filled fields, so you can fill it out at any time.
-
-</thinking>
-
 # Restaurant Management Workshop Registration Form - Help Guide
 ## Purpose
 The Restaurant Management Workshop Registration Form is for restaurant owners or management personnel to register for the workshop.

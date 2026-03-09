@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to register and select sessions and tasks that they would like to attend. The form is meant for participants to provide their details and preferences. This form is a part of a workshop registration process, where participants can choose their sessions and tasks they find interesting.
-</thinking>
-
 # Session Registration And Task Selection - Help Guide
 ## Purpose
 This form is used for participants to register and select sessions and tasks for a workshop. It is an essential part of the workshop registration process.

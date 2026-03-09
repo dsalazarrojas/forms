@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants for a Social Innovation in Learning Cohort. The form is intended for individuals interested in joining the cohort, which likely provides a learning environment for social innovation. This form will be used to gather demographic information, program details, and application status. Before proceeding, please ensure you have not already registered or submitted an application for this cohort. If you're unsure, check our internal records to avoid duplicate submissions.
-</thinking>
-
 # Social Innovation in Learning Cohort Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants for the Social Innovation in Learning Cohort. It will help us gather essential details about you and your program preferences.

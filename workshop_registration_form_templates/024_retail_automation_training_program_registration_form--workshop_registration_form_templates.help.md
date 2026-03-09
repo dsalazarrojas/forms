@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from users who wish to register for the Retail Automation Training Program. This form is meant to gather relevant data from individuals or companies interested in the training program, allowing them to provide their name, contact information, company details, and training preferences. The form should not be completed by anyone who has already registered for the program or is not interested in attending. Ensure that each field is completed accurately and honestly to facilitate proper communication and program planning.
 
 # Retail Automation Training Program Registration Form - Help Guide

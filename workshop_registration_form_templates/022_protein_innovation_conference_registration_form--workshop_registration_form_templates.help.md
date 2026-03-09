@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used for registering attendees to the Protein Innovation Conference. It's crucial that the form is filled out accurately to ensure that attendees receive the correct information and updates about the conference. Please note that this form will not be used for any other purpose than the conference registration.
-
-</thinking>
-
 # Protein Innovation Conference Registration Form - Help Guide
 ## Purpose
 The Protein Innovation Conference Registration Form is a crucial tool for registering attendees for the Protein Innovation Conference. This form helps us collect essential information about each attendee, ensuring that they receive accurate and relevant information about the conference.

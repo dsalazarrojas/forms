@@ -1,14 +1,3 @@
-<thinking>
-This help guide will walk the user through the Shelter Management Workshop Registration Form.
-
-This form is designed for participants who wish to attend the Shelter Management Workshop. The purpose of the workshop is to provide training and education on shelter management techniques and best practices. The form is used to gather information from participants about their session preferences, contact information, and other relevant details.
-
-Please ensure that the form is filled out accurately and thoroughly to ensure that the participant is matched with the most suitable session options.
-
-Before starting the form, ensure that you have all necessary information readily available to prevent delays in processing.
-
-</thinking>
-
 # Shelter Management Workshop Registration Form - Help Guide
 ## Purpose
 The Shelter Management Workshop Registration Form is used to collect information from participants who wish to attend the workshop. This includes session preferences, contact information, and other relevant details.

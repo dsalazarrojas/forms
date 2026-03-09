@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a generic work ticket form, used to collect information from requesters for various tasks and requests. It should only be used for new work tickets and not for duplicate requests. The form is intended for internal use within the organization, and the information collected will be used to assign tasks to relevant teams or individuals.
-</thinking>
-
 # Work Ticket Form - Help Guide
 ## Purpose
 The Work Ticket Form is a tool used to collect information from requesters for various tasks and requests.

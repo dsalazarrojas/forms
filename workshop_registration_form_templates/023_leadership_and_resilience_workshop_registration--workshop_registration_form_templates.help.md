@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for workshop registration and is intended for individuals who wish to attend the "Leadership and Resilience Workshop". The form is used to collect relevant information from participants, including their name, contact details, and details about their organization and role within it. This form is part of the workshop registration process, which is used to organize and manage workshop attendees. Please ensure that you are completing this form for the correct workshop and that you have read and understand the workshop's terms and conditions before proceeding.</thinking>
-
 # leadership_and_resilience_workshop_registration - Help Guide
 ## Purpose
 The "Leadership and Resilience Workshop Registration Form" is used to collect information from individuals who wish to participate in the workshop. This form is required to ensure that we can manage and organize the workshop effectively.

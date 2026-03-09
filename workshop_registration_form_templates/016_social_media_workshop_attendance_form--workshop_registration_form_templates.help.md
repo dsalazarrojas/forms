@@ -1,8 +1,3 @@
-<thinking>
-This is a critical component of our social media strategy, requiring a user-facing help guide to ensure that end users understand and complete the form accurately.
-The form is a template for the Social Media Workshop Attendance Form and its content will be used to create a report about the workshops held in our company. The guide will help the users to understand the purpose and requirements of the form, how to fill it out, and what information is needed from each field.
-</thinking>
-
 # Social Media Workshop Attendance Form - Help Guide
 ## Purpose
 This guide will walk you through the fields and requirements of the Social Media Workshop Attendance Form to help you complete it accurately and effectively.

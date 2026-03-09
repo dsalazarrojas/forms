@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to register participants for a Machine Health Monitoring Training program. It collects information such as name, contact details, and category preferences. The form is used to track registrations and provide a way to categorize and manage training sessions.
-</thinking>
-
 # Machine Health Monitoring Training Registration Form - Help Guide
 ## Purpose
 The Machine Health Monitoring Training Registration Form is used to register participants for a Machine Health Monitoring Training program. It collects information such as name, contact details, and category preferences.

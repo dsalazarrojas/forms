@@ -1,7 +1,3 @@
-<thinking>
-We are designing a form for a holiday crafts workshop, where users will register as participants. The form will collect essential information about participants, including their personal details, event details, workshop details, participant permissions, emergency contact information, and participant declarations. The purpose of this form is to ensure accurate and complete registration data for the workshop organizers.
-</thinking>
-
 # holiday_crafts_workshop_registration - Help Guide
 ## Purpose
 This form is used for participant registration to provide accurate and complete data for the workshop organizers.

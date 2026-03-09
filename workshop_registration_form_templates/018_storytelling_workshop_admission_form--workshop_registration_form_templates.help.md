@@ -1,7 +1,3 @@
-<thinking>
-The Storytelling Workshop Admission Form is designed to collect information from users interested in attending a workshop on storytelling. This form will be used to track the registration process, ensuring that attendees provide accurate and relevant details. Please note that the form is not intended for duplicate submissions, and users can only submit their information once. If a user has already submitted the form, please do not attempt to re-submit. 
-</thinking>
-
 # Storytelling Workshop Admission Form - Help Guide
 ## Purpose
 The Storytelling Workshop Admission Form is a registration form for users interested in attending a workshop on storytelling. The form collects essential information to ensure a smooth and efficient workshop experience.

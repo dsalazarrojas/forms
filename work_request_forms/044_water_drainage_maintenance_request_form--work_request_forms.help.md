@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a critical component of the facility's maintenance system, designed to capture and track water drainage maintenance requests from residents or property managers. Its primary purpose is to provide a structured way to report issues related to water drainage problems, allowing for timely and effective allocation of maintenance resources. Before filling out this form, please ensure that the issue has not been reported previously.
-
-</thinking>
-
 # Water Drainage Maintenance Request Form - Help Guide
 ## Purpose
 The Water Drainage Maintenance Request Form is designed to collect information about water drainage issues that need maintenance in your facility. This form will guide you through a series of questions to provide us with essential details about the problem, so we can quickly resolve it.

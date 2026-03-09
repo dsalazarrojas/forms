@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request the installation of meeting room blinds. Meeting room blinds are essential for maintaining a comfortable and well-lit environment for occupants. This form is designed to collect essential details from users to process their requests efficiently. To ensure accurate processing, please ensure you are filling out the form with the most relevant and up-to-date information. Before submitting, review the form for any errors or missing fields to avoid delays in processing your request.
-
-</thinking>
-
 # Meeting Room Blinds Installation Request - Help Guide
 
 ## Purpose

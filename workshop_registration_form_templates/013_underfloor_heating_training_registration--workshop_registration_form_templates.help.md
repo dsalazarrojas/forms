@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's clarify the purpose and requirements of this form. This form is for registering participants for an underfloor heating training session. To complete it, users will need to provide information about the training provider, the attendee, and the training session details.</thinking>
-
 # Underfloor Heating Training Registration - Help Guide
 ## Purpose
 This form is for registering participants for an underfloor heating training session. Please fill in the required information to complete your registration.

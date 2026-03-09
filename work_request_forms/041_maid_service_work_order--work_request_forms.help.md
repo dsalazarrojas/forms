@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to create a work order for a maid service, which will be used to schedule a cleaning appointment for a customer. This form is likely to be used by a maid service representative or manager to collect relevant information from customers, including their name, address, appointment date, and other details. 
-
-To complete this form efficiently, ensure that all required fields (marked as "true") are filled out correctly and accurately. If any of the fields appear unnecessary for your particular scenario, you can leave them blank, but be aware that they may impact the form's functionality or accuracy.
-
-Please note that while this form has a "One-time" and "Recurring" service type options, the "Recurring" option might be best used for customers who require regular cleaning services, and the "One-time" option for customers who only need a single cleaning appointment. Similarly, the "Assigned To" field should be filled out with a name of a person responsible for completing the task.
-
-</thinking>
-
 # Maid Service Work Order - Help Guide
 ## Purpose
 This form is used to create a work order for a maid service, allowing you to schedule a cleaning appointment for a customer.

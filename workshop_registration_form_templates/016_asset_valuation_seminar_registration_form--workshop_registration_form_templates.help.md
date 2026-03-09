@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information for the Asset Valuation Seminar. This guide will walk you through the purpose and use of each field to ensure a successful registration process. Please review each field carefully to ensure you provide accurate and complete information.</thinking>
-
 # Asset Valuation Seminar Registration Form - Help Guide
 ## Purpose
 The Asset Valuation Seminar Registration Form is designed to collect participant information for the Asset Valuation Seminar. This form helps us ensure that you have a smooth and enjoyable experience at the seminar.

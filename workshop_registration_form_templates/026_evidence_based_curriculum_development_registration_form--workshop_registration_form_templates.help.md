@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for workshop registration for evidence-based curriculum development. 
-Please use this form if you want to register for a workshop on evidence-based curriculum development. 
-Ensure that you are not duplicating an existing registration. 
-</thinking>
-
 # Evidence Based Curriculum Development Registration Form - Help Guide
 ## Purpose
 This form is for registering for a workshop on evidence-based curriculum development. Please fill out the form to provide your details and register for the workshop.

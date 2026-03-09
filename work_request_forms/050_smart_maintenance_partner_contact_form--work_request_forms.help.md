@@ -1,20 +1,3 @@
-<thinking>... internal reasoning block to check relevance and non-duplication ...
-
-The purpose of the Smart Maintenance Partner Contact Form is to collect information about a maintenance partner, including their contact details and the details of the work request. This form is designed to be completed by a partner who wants to provide their information for a maintenance request.
-
-The form is divided into several sections, each with a specific purpose:
-
-* The first section, "First Name", "Last Name", and "Email" are used to collect the contact details of the partner.
-* The second section, "Phone", "Company", and "Partner Name" are used to collect additional contact information and company details.
-* The third section, "Contact Method", allows the partner to choose how they want to be contacted.
-* The fourth section, "Message" and "Partner Company" are used to collect a description of the work request and the partner's company.
-* The fifth section, "Location" is used to select the location of the work request.
-* The sixth section, "Date" and "Time" are used to schedule the maintenance visit.
-* The seventh section, "Assigned To" allows the partner to indicate if they want to be assigned a specific tool.
-* The last section, "Category", "Description", "Tags", "Form ID", "Created By", "Updated By", "Created At", "Updated At", "User ID", "Partner Email", "Partner Phone" are used for internal purposes, such as tracking and organization.
-
-This form is designed to be completed by a partner who wants to provide their information for a maintenance request. The information collected will be used to contact the partner and schedule the maintenance visit.</thinking>
-
 # Smart Maintenance Partner Contact Form - Help Guide
 ## Purpose
 The Smart Maintenance Partner Contact Form is used to collect information about a maintenance partner, including their contact details and the details of the work request.

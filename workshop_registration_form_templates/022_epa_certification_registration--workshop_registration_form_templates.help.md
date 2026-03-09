@@ -1,8 +1,3 @@
-<thinking>
-This form is used for employees to register for their Employee Professional Association (EPA) certification. It captures essential details about the employee's training and certification process. 
-To ensure data accuracy, please ensure that you have the necessary information before submitting the form. This form should not be filled out if you have already submitted a registration for this certification.
-</thinking>
-
 # epa_certification_registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information from employees about their Employee Professional Association (EPA) certification process. This form is used to track and manage employee certification registrations, ensuring that all required details are captured and stored accurately.

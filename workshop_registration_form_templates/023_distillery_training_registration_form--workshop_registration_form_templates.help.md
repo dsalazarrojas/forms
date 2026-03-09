@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Distillery Training Registration Form - Help Guide
 ## Purpose
 This form is intended for registering participants in a workshop or training event hosted by the distillery. To ensure accurate registration, please complete the form carefully and thoroughly.

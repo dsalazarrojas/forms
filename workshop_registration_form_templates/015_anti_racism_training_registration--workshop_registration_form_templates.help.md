@@ -1,10 +1,3 @@
-<thinking>
-This form is used for registration of participants in anti-racism training programs. The training programs aim to address and reduce racial disparities and biases in the workplace. The form gathers participant information, such as name, email, phone number, organization affiliation, job role, and other relevant details. This information is used to confirm participant registration and facilitate communication. It's essential that participants fill out the form accurately to ensure proper processing of their registration.
-
-To avoid duplicates, it's recommended to check if there are any previous submissions before filling out the form.
-
-</thinking>
-
 # Anti Racism Training Registration - Help Guide
 ## Purpose
 This form is used to register participants for anti-racism training programs. It collects personal and professional details to confirm and process participant registration.

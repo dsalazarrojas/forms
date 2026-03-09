@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for users to register for the Creative Assessment Practice Exchange, a platform where creative professionals can share their experiences, learn from others, and collaborate on creative projects. The form requires users to provide personal and professional information, including their name, email address, experience level, interest areas, and other relevant details. The purpose of this form is to ensure that participants are correctly matched with suitable projects and that the platform can tailor content and resources to their specific needs.
-
-Before filling out this form, please make sure you have read and understood the terms of participation. This form is not a duplicate, and each submission will be reviewed and verified by the platform administrators.
-
-</thinking>
-
 # Creative Assessment Practice Exchange Registration - Help Guide
 ## Purpose
 The Creative Assessment Practice Exchange is a platform where creative professionals can share their experiences, learn from others, and collaborate on creative projects. This form is used to register for the platform and provide personal and professional information.

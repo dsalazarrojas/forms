@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mechanical Services Shift Report Form - Help Guide
 
 ## Purpose

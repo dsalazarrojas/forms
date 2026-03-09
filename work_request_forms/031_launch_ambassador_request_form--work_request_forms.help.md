@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a request form for launching a new product or service, likely for ambassadors or influencers to promote. The form likely serves as a gateway for companies or brands to gather information from potential ambassadors or influencers. The form seems to ask for basic contact information (name, phone number, email), details about the launch (launch date, launch time, location), and a message. There is also a field for selecting a role (ambassador, influencer, etc.) and a field for submitting the request. Additionally, there are checkboxes for terms and conditions and privacy policy, likely due to legal compliance. A contact person and their email are also required fields. The form is designed to be simple and straightforward, making it easy for users to provide the necessary information.
-
-To avoid duplication, the form's fields for company and contact person might be considered redundant, as the contact person likely represents the company. It is essential to review the form's fields to ensure that they are not duplicating information and are clear and concise for the users' understanding.
-
-Considering the form's simplicity and structure, it seems that the form's purpose is to collect necessary information for a product or service launch, likely for ambassadors or influencers to promote. It would be beneficial to double-check that all required fields are clear and understandable for the end-users, and remove any redundancy in the fields.</thinking>
-
 # Launch Ambassador Request Form - Help Guide
 ## Purpose
 

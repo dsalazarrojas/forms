@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, the purpose of this form is likely to gather registration information from users interested in attending the Occupational Therapy Innovation Forum. This form aims to collect contact, forum, event, and registration details from users. It might be used for event management purposes or to create a database of attendees.</thinking>
-
 # Occupational Therapy Innovation Forum Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from users interested in attending the Occupational Therapy Innovation Forum. It will help us create a record of attendees and organize the event more effectively.

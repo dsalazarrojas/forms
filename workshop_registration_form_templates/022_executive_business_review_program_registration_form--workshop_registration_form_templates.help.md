@@ -1,19 +1,3 @@
-<thinking>
-This form is intended to collect information for the Executive Business Review Program registration process. It appears to be a comprehensive form gathering various details about the registrant, including personal and professional information, contact details, and upload capabilities. The form seems to be designed for both personal and business use, as some fields are required while others are optional. It's essential to review the form carefully and ensure that all required fields are completed accurately to avoid any potential issues during the registration process.
-
-To confirm, this form includes fields for:
-- Program name
-- Personal details (first name, last name, email, phone number)
-- Company and job title (optional)
-- Address and location (city and zip code)
-- Nationality and passport details (for international registrants)
-- File upload capabilities
-
-To avoid any potential duplicates, please ensure that you only submit one registration form per individual. If you are registering on behalf of someone else, please ensure that you have their permission to do so.
-
-Please review the form carefully and ensure that all required fields are completed accurately. If you have any questions or concerns, feel free to reach out to us.
-</thinking>
-
 # Executive Business Review Program Registration Form - Help Guide
 ## Purpose
 The Executive Business Review Program Registration Form is designed to collect information for the registration process of the Executive Business Review Program.

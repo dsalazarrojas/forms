@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who wish to register for a corporate optimization planning session. The form is intended for attendees to provide their personal and professional details, as well as their goals and preferences for the session. It is not intended for general public use or for sharing with external parties.
-</thinking>
-
 # Corporate Optimization Planning Session Registration Form - Help Guide
 ## Purpose
 This form is used to gather information from individuals who wish to attend a corporate optimization planning session.

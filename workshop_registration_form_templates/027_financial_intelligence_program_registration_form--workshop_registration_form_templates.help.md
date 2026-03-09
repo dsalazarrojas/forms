@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to register participants for the Financial Intelligence Program. It gathers information about the participant's selection of modules, the program date, time, and duration, as well as their contact details. Please ensure you are filling out this form for the correct purpose and not duplicating your registration.
-</thinking>
-
 # Financial Intelligence Program Registration Form - Help Guide
 ## Purpose
 This form is used to register participants for the Financial Intelligence Program. It collects information about the participant's selection of modules, program details, and contact information.

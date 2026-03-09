@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to register a mother and her daughter for a specific retreat event. The purpose of this form is to collect essential details about the event, including the event details, dates attending, and any special needs. The event details will help organizers to prepare for the event, and the dates attending will help them to schedule the event accordingly. Special needs are any requirements or conditions that the mother or daughter may have, such as accessibility needs or specific accommodations. This form is designed to be completed by the mother, and it is recommended that she provides accurate and clear information to ensure a smooth and enjoyable experience for both her and her daughter.
-</thinking>
-
 # Mother Daughter Retreat Registration - Help Guide
 
 ## Purpose

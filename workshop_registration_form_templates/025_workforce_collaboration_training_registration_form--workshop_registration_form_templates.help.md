@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees for workforce collaboration training purposes. Before filling out the form, please note that it's crucial to ensure that the data submitted is accurate and up-to-date. This form should not be used for duplicate registrations or to register the same employee multiple times. Please make sure to review your company's existing records to avoid any confusion or errors.
-</thinking>
-
 # Workforce Collaboration Training Registration Form - Help Guide
 ## Purpose
 This form is used to register employees for workforce collaboration training sessions. It collects essential information about the employee, their job status, training location, and other relevant details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # work_approval_form - Help Guide
 
 ## Purpose

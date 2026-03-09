@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from attendees of a workshop event. The purpose of this form is to facilitate check-in and provide essential details for event organization and follow-up. It is intended for use by workshop organizers, facilitators, or participants to record their arrival, event information, and follow-up status. This form is not affiliated with any form platforms, and its content is derived from public metadata related to workshops and events.
-
-Please ensure you complete this form accurately and thoroughly, as the information collected will be used for internal event management and communication purposes. If you have any doubts or concerns, kindly contact form@gic.mx.
-
-</thinking>
-
 # University Workshop Check In Form - Help Guide
 ## Purpose
 The University Workshop Check In Form is designed to collect essential information from attendees, such as their arrival time, event details, and follow-up status. This form is used for internal organization and management of workshop events.

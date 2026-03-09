@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a workshop presentation registration. 
-</thinking>
-
 # Glasswork Presentation Registration - Help Guide
 ## Purpose
 The Glasswork Presentation Registration form is used to collect attendee information for a workshop presentation. This form is used to gather essential details such as name, email, phone number, event information, and more. 

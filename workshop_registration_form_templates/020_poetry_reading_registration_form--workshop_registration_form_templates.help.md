@@ -1,7 +1,3 @@
-<thinking>
-This form is likely being used to gather information from users who want to participate in a poetry reading event. The purpose of this form is to collect user, performer, and event details, as well as contact and performance information. This form is not affiliated with, endorsed by, or derived from any form platform, and was created using AI-generated form design based on public metadata from the survey topic "Poetry Reading Registration Form" in the "workshop_registration_form_templates" category.
-</thinking>
-
 # Poetry Reading Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from users who want to participate in a poetry reading event. It will help the organizers and event staff to prepare for the event by gathering details about the users, the performers, and the event itself.

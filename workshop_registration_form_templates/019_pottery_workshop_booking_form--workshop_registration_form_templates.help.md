@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to collect information from students and instructors for a pottery workshop. The purpose of this form is to gather details about the workshop, such as the registration date, instructor name, class time, and payment method. This form is used for workshop registration and to manage the workshop's details.
-
-This form should only be used for workshop registration and not for other purposes.
-
-Please note that this form is not a payment processing form, and payment details should be filled out after the form is submitted.
-
-The following information is used to determine the status of the workshop booking. 
-</thinking>
-
 # Pottery Workshop Booking Form - Help Guide
 ## Purpose
 This form is used to register for a pottery workshop.

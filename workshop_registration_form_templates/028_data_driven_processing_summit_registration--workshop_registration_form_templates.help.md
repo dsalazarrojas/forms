@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from participants for the Data Driven Processing Summit, a workshop where attendees will be learning about data-driven processing techniques. To avoid duplication of work and ensure accurate data collection, it's essential to follow the guidelines below when filling out this form. Please make sure to read through the form carefully and fill it out completely before submitting it. This form is meant to be filled out by individuals who are planning to attend the summit, and their responses will be used to tailor the event experience to their needs.
-</thinking>
-
 # Data Driven Processing Summit Registration - Help Guide
 ## Purpose
 The Data Driven Processing Summit Registration Form is designed to collect necessary information from participants for the event. This form includes fields to gather details such as name, email, phone number, attendance preferences, dietary restrictions, and payment method, as well as any additional information or special requests.

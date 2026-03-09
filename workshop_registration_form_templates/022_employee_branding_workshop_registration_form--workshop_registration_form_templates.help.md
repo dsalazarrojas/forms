@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from workshop participants for the Employee Branding Workshop. It is essential to fill this form accurately and completely to ensure that the correct data is captured for workshop planning and execution. Please verify that all fields are filled in correctly before submitting the form.
-</thinking>
-
 # Employee Branding Workshop Registration Form - Help Guide
 ## Purpose
 This form is used to register participants for the Employee Branding Workshop. It gathers essential information about each participant, including name, email, job title, department, and other relevant details. The information collected will be used for workshop planning and execution.

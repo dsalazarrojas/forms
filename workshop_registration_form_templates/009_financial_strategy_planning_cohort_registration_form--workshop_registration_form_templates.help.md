@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Financial Strategy Planning Cohort Registration Form - Help Guide
 ## Purpose
 This form is designed for registering participants in Financial Strategy Planning cohorts. It is intended to capture essential information from each participant, including their name, email, phone number, and other relevant details. 

@@ -1,22 +1,3 @@
-<thinking>
-This guide is for the work_request_forms category and is titled "windshield_claim_form". It is intended for end-users to submit claims related to windshields on their vehicles.
- 
-The purpose of this form is to gather information from users about windshields that need repair, replacement, or other issues. Users will fill out a form with details about their vehicle and the claim they are making.
- 
-The form will have multiple pages, each with different fields to collect information such as vehicle make, claim type, and date and time of the issue. Users are not required to fill out every field, but some fields are marked as required to ensure that essential information is collected.
- 
-This guide will help users understand what each field on the form means and how to complete it correctly.
- 
-The user can fill out this form by following the "How To Complete This Form" section below.
- 
-Each field has been designed to help the user provide the best information possible for the windshields claim.
- 
-Users can refer to the "Tips" section for extra guidance on how to fill out the form efficiently and effectively.
- 
-Please make sure to fill out all required fields and follow the instructions for each section to ensure that your windshields claim is submitted correctly.
- 
-</thinking>
-
 # windshield_claim_form - Help Guide
 
 ## Purpose

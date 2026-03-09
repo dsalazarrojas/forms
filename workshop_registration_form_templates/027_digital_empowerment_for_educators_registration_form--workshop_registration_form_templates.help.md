@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for teachers to register for the Digital Empowerment program for educators. The purpose of this form is to gather information about the teacher's registration, including their personal details, teaching background, and interests. By using this form, the teacher can express their interests in participating in the program and provide information about their current situation.
-
-Before proceeding, please ensure that you have not registered for this program before. If you are unsure, please contact the administration team for clarification.
-
-</thinking>
-
 # Digital Empowerment For Educators Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from teachers to register for the Digital Empowerment for Educators program. This program aims to provide teachers with resources and support to enhance their teaching practices and stay updated with the latest technology.

@@ -1,9 +1,3 @@
-<thinking>
-This is a form that allows end-users to submit special handling requests.
-It is a one-time entry form for users to enter specific request details.
-This form should not be duplicated for the same customer within 7 days.
-</thinking>
-
 # Special Handling Request Form - Help Guide
 ## Purpose
 The Special Handling Request Form is used by customers to submit their requests for special handling of their deliveries. The form allows customers to provide details about their requests, including delivery dates, locations, and methods.

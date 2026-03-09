@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are interested in attending a care coordination improvement session. Before you start, please ensure that you haven't already registered for this session by checking your email inbox for a confirmation message. If you're still unsure, reach out to the organizers for clarification.
-</thinking>
 # Care Coordination Improvement Session Registration - Help Guide
 ## Purpose
 This form is used to collect registration information from participants for a care coordination improvement session. It's essential to provide accurate and complete information to ensure a smooth and enjoyable experience.

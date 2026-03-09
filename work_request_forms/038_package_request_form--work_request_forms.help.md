@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about package requests from users. The form has multiple sections, each with its own set of questions. Before filling out the form, please ensure you have all the necessary information and that you're not requesting a package that has already been submitted. If you're unsure about the purpose or any field, please consult with the package team.
-
-</thinking>
-
 # Package Request Form - Help Guide
 ## Purpose
 The Package Request Form is used to collect information from users about their package requests. This form is typically used by package requesters to submit their requests for new packages.

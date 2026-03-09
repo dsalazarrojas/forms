@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Farm To Retail Innovation Registration Form", we will need to consider the following:
 
 - The form is intended for registration of innovations related to farm-to-retail products.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for registering members for the Commercial Resilience Council. This is an internal registration form used to capture relevant information about an individual's work profile. The form captures the essential details about the member's personal and professional information, including name, contact details, job profile, and commercial resilience. Please ensure that you have the required permissions to complete this form, and that you have not already registered with the Commercial Resilience Council before.
 
 # Commercial Resilience Council Registration Form - Help Guide

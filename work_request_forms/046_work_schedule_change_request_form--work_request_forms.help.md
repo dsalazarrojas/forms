@@ -1,9 +1,3 @@
-<thinking>
-  This form is used to request changes to an employee's work schedule, allowing employees to provide necessary information for their shift changes. This is a critical form that helps the management team assess and process employee schedule change requests efficiently. 
-  To avoid duplication of work, please ensure that you have discussed and submitted a schedule change request before submitting this form. 
-  Before completing this form, verify that you have all necessary information and permissions.
-  </thinking>
-
 # work_schedule_change_request_form - Help Guide
 ## Purpose
 The purpose of this form is to request changes to an employee's work schedule, allowing employees to submit their requests in a structured and organized manner.

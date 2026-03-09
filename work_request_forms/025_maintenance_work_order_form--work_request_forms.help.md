@@ -1,8 +1,3 @@
-<thinking>
-  This form is designed to collect information for maintenance work orders, including equipment details, maintenance type, work requestor, and schedule information.
-  It should not be used for other purposes. Please ensure the form is used correctly and consistently.
-</thinking>
- 
 # Maintenance Work Order Form - Help Guide
 
 ## Purpose

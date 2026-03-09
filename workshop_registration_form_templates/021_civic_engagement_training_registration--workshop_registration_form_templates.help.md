@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from participants who want to register for a Civic Engagement Training program. This form will help to ensure that participants provide accurate and complete information, which in turn will help the training organizers to prepare and follow up with the participants accordingly. This form is typically used for registration purposes only and not for any internal business logic or decision-making process.
-</thinking>
 # Civic Engagement Training Registration - Help Guide
 ## Purpose
 The Civic Engagement Training Registration form is designed to collect essential information from participants who wish to register for a Civic Engagement Training program. The form gathers details such as participant name, organization, contact email, training date, role in the community, accommodation requirements, payment status, emergency contact, consent for photos, and submission date. This information helps the training organizers to manage registrations and provide necessary support to the participants.

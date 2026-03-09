@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # emotional_intelligence_workshop_admission_form - Help Guide
 
 ## Purpose

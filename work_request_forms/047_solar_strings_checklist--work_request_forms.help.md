@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Solar Strings Checklist - Help Guide
 ## Purpose
 This form is designed to be a comprehensive checklist for tracking and documenting solar string information. It is intended to be used by technicians in the field to record key details about the solar strings they have completed. This form should not be used to record new work requests, but rather to confirm that existing work requests have been completed.

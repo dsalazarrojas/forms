@@ -1,7 +1,3 @@
-<thinking>
-This form is used for on-site team reporting, where team members can report their shifts, activities, and progress. The purpose of this form is to gather information about the team's work schedule, tasks completed, and any relevant notes or updates. This form is likely used by team leaders or supervisors to track team performance and stay informed about ongoing projects.
-</thinking>
-
 # on_site_team_report - Help Guide
 ## Purpose
 This form is designed to collect information about on-site team activities, progress, and status.

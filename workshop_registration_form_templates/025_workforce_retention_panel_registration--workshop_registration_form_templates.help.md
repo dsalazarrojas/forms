@@ -1,5 +1,3 @@
-<thinking>Workforce Retention Panel Registration form is designed to collect data from participants to help the workforce retention panel better understand the needs and concerns of its members. This information will be used to identify areas where support and resources are needed to improve job satisfaction and reduce turnover. Please note that this form is only for participants who have been invited to join the workforce retention panel and have received a unique participant ID. If you are not sure if you are eligible, please contact your HR representative.</thinking>
-
 # Workforce Retention Panel Registration - Help Guide
 ## Purpose
 This form is designed to collect demographic information and areas of expertise from participants to help the workforce retention panel better understand its members' needs and concerns.

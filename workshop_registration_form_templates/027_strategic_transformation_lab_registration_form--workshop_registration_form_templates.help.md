@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from participants for the Strategic Transformation Lab, a workshop that aims to help employees or individuals transform their careers and personal lives. The purpose of this form is to gather necessary details about participants, including their contact information, preferences, and attendance schedule. This information will be used to ensure effective communication and coordination for the workshop.
 
 </thinking>

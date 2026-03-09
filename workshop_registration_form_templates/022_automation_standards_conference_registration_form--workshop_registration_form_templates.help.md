@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from attendees, speakers, sponsors, and exhibitors for the Automation Standards Conference. It will be used to organize and track attendees' data, including their registration details, dietary restrictions, and accessibility needs. The form is composed of several sections that correspond to different aspects of the conference, such as attendee information, registration details, session selections, and preferences and interests. By understanding these sections, users can ensure that all required information is provided and that the submission process is smooth and efficient.
-
-To use this form, please follow the instructions below.
-
-Please note that some fields are marked as required, meaning that you must provide information in those fields in order to submit the form. Non-required fields are optional and can be left blank if not applicable.
-</thinking>
-
 # Automation Standards Conference Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from attendees, speakers, sponsors, and exhibitors for the Automation Standards Conference.

@@ -1,10 +1,3 @@
-<thinking>
-This form is a user-facing work request form. It is meant for workers to submit requests for work tasks and projects that require specific tools or resources. To ensure that the form is completed for the right purpose and not duplicated, please verify that:
-- You have read this form's help guide thoroughly.
-- Your request is for a new work order, and not an update to an existing one.
-- You have the necessary permissions to submit a work request.
-</thinking>
-
 # Work Order Request Form - Help Guide
 ## Purpose
 The Work Order Request Form is used to submit requests for work tasks and projects that require specific tools or resources. This form is intended for authorized personnel only.

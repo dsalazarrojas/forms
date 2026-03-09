@@ -1,5 +1,3 @@
-<thinking>Before creating this form, let's first consider the purpose and context of this "Data Driven Instruction Workshop Registration" form. This form is likely used for registering participants to a workshop or training program, gathering essential information about each participant, and facilitating the management of registrations. It's a form meant to be completed by workshop organizers, coordinators, or administrators. To ensure the form is filled out correctly, let's review each field and its associated label to provide clear guidance to the user.</thinking>
-
 # Data Driven Instruction Workshop Registration - Help Guide
 ## Purpose
 This form is used to register participants to a workshop or training program. It gathers essential information about each participant, including their school name, contact person, email, phone number, and other relevant details.

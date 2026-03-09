@@ -1,23 +1,3 @@
-<thinking>
-This help guide is intended to inform users about the Travel Sustainability Hackathon Registration Form, which is used to collect information from participants for the Travel Sustainability Hackathon event. This form is part of an internal process, and users should only be granted access to it if they have been invited. 
-
-This form is used to collect personal, contact, travel, registration, emergency contact, payment, payment method, and terms and conditions information from users. 
-
-The form consists of multiple pages: Personal Info, Contact Info, Travel Info, Registration Info, Emergency Contact, Payment Info, Payment Method, and Terms and Conditions. 
-
-Before starting the form, please note that some fields are not mandatory. However, the user needs to fill out a minimum of 3 pages to successfully submit the form.
-
-Please ensure that you are not registering multiple participants with the same email address. 
-
-Please note that the payment method selection options might not be available for all users. 
-
-Also, be aware that the payment method selection will impact the payment method that will be used for payment processing. 
-
-The form is designed to be simple and easy to fill out. 
-
-If you need help or have questions while filling the form, feel free to contact the support team.
-</thinking>
-
 # Travel Sustainability Hackathon Registration Form - Help Guide
 ## Purpose
 This form is used to register participants for the Travel Sustainability Hackathon event.

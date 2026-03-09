@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the Asset Risk Evaluation Workshop Registration form is completed correctly and consistently, it is crucial to review the form carefully before submission. This form collects information about participants to help us better understand their background, interests, and expectations. It is recommended that participants fill out the form accurately and honestly, providing us with the correct information so we can serve them better. Please note that some fields are marked as required, meaning that they must be filled in order to proceed. Ensure that you fill out all required fields to avoid delays or issues with your registration. If you have any questions or concerns about this form, feel free to reach out to us for assistance.
-</thinking>
-
 # Asset Risk Evaluation Workshop Registration - Help Guide
 ## Purpose
 This form is designed to collect information from participants for the Asset Risk Evaluation Workshop. It is crucial to fill out this form accurately and honestly to ensure that we can tailor the workshop experience to meet your needs and expectations.

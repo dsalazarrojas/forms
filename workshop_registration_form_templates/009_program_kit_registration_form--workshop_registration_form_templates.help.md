@@ -1,10 +1,3 @@
-<thinking> 
-We need to ensure that the form is used correctly and that participants understand what is expected of them. The form, "Program Kit Prophetsorm," is a workshop registration form designed to collect information about program kits and their participants. This form should not be used for other purposes as it is a specialized tool for program kit-related activities. 
-
-To avoid duplication, the form should only be used for new program kits and not for editing or updating existing kits.
-
-</thinking>
-
 # Program Kit Prophetsorm - Help Guide
 ## Purpose
 This form is designed to collect information about program kits and their participants. It is used to register new program kits and gather essential details for their successful implementation.

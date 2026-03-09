@@ -1,7 +1,3 @@
-<thinking>
-The Pedagogical Storytelling Initiative Registration form is designed to collect relevant information from users for a workshop registration. This information will be used to categorize and filter participants according to their roles, experience, and motivations. It's essential to provide accurate and honest information in order for us to have a successful and diverse workshop with all participants.
-</thinking>
-
 # Pedagogical Storytelling Initiative Registration - Help Guide
 ## Purpose
 This form is used to register for the Pedagogical Storytelling Initiative workshops. Please follow the instructions below to provide your relevant information.

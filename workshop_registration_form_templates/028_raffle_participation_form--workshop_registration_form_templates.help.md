@@ -1,7 +1,3 @@
-<thinking>
-We will need to ensure that the form purpose is to register participants for a raffle drawing. The "raffle_participation_form" should be used for individuals who wish to participate in a raffle and provide their contact information for the purpose of being contacted for further communication. To check for duplication, we will ask users to enter their participant information as it is likely to be unique to each individual. 
-</thinking>
-
 # raffle_participation_form - Help Guide
 ## Purpose
 This form is designed to collect participant information for a raffle drawing. Participants are asked to provide their name, contact email, phone number, and contribution amount (if any) in order to participate. Once the form is submitted, the participant's details will be stored and they will be contacted for further information.

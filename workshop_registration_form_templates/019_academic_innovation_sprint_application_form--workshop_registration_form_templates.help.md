@@ -1,13 +1,3 @@
-<thinking>
-This form was created to support the registration process for an academic innovation sprint. The purpose of the form is to gather information from applicants about their project ideas, team members, and other relevant details. 
-
-The form will be used by organizers of the sprint to review and evaluate applications, and will help them determine which projects to accept for the innovation sprint.
-
-Before filling out this form, please make sure to review the form carefully and make sure you have not submitted an application for this project in the past. Duplicate applications will not be accepted.
-
-Please note that you can modify the form to suit your needs, but you must give credit to the original creator.
-</thinking>
-
 # Academic Innovation Sprint Application Form - Help Guide
 ## Purpose
 The Academic Innovation Sprint Application Form is a tool used to gather information from applicants for an academic innovation sprint. It is used to review and evaluate applications and select projects for the innovation sprint.

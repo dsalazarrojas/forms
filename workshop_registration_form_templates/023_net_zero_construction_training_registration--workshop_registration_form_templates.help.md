@@ -1,7 +1,3 @@
-<thinking>
-This form will be used to collect information from workshop attendees about their interest in attending net-zero construction training sessions. The purpose of the form is to help the training team determine which attendees are interested in attending the training sessions and to gather information about their requirements. This form will be used to create a schedule for the training sessions based on the attendee's preferences.
-</thinking>
-
 # net_zero_construction_training_registration - Help Guide
 ## Purpose
 This form is used to collect information from workshop attendees about their interest in attending net-zero construction training sessions. The training team will use this information to create a schedule for the training sessions based on the attendee's preferences.

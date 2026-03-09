@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help customers or users submit a Fast Easy Offer, which is likely a quick and efficient way to present an offer or proposal to a real estate-related service or business. The purpose of this form is to collect relevant information from the user, such as their offer information, contact details, and real estate-related specifics. The form likely serves as a starting point for further communication or action between the user and the company. 
-
-Before proceeding, please ensure that you are filling out this form for the correct purpose and that you have not already submitted an offer or proposal through this form in the past, as duplicate submissions might cause confusion and lead to unnecessary communication.
-
-</thinking>
-
 # Fast Easy Offer - Help Guide
 ## Purpose
 The Fast Easy Offer form is designed to collect information for a quick and efficient offer or proposal to a real estate-related service or business. Please use this form to submit your offer or proposal and our team will follow up with you for further details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration form for attendees to provide their details and information for a financial governance session. The form is designed to collect relevant data from attendees, which will be used to manage the session effectively. To ensure that the form is completed correctly, please read the following guide carefully. If you have already registered for the session, please do not fill out this form again as it may cause duplication of data.
-</thinking>
-
 # Financial Governance Session Registration Form - Help Guide
 ## Purpose
 This form is intended for attendees to provide their details and information for a financial governance session.

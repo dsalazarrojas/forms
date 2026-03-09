@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual CPR/BLS Registration - Help Guide
 ## Purpose
 This form is designed to collect information from participants for virtual CPR/BLS (Cardiopulmonary Resuscitation/Basic Life Support) registration. It helps us understand who's attending, their details, and session preferences.

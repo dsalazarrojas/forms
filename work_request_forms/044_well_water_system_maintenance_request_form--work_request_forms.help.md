@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Well Water System Maintenance Request Form - Help Guide
 ## Purpose
 This form is used to request maintenance for the well water system. It collects information about the maintenance request, such as the type of maintenance needed, the location where it will be performed, and the person responsible for submitting the request.

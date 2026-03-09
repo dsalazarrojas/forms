@@ -1,7 +1,3 @@
-<thinking>
-Is this form used to request amenities or services from a resort? Does it duplicate another form, such as a standard request form? Is it used by guests, staff, or both? Is it used for both new and ongoing requests, or just one or the other? Is it intended for internal staff use or for external guests to complete? Are there any other relevant details I should know?
-</thinking>
-
 # Resort Amenities Requisition Form - Help Guide
 ## Purpose
 The Resort Amenities Requisition Form is used to request amenities or services from the resort. This form is intended for guests to submit requests for amenities and services they would like to receive during their stay.

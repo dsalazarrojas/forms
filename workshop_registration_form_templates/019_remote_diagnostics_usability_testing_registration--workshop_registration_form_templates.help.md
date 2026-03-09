@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for remote diagnostics usability testing registration. The form collects information from participants and schedule participants for remote diagnostics testing. It is used to gather data for diagnostics studies. The form is divided into several sections, each covering a different aspect of the testing process. To confirm that this form is relevant and not a duplication, we will review the provided YAML fields and ensure that the form's purpose is to register participants and schedule them for remote diagnostics testing.
-
-</thinking>
-
 # Remote Diagnostics Usability Testing Registration - Help Guide
 ## Purpose
 This form is designed to register participants and schedule them for remote diagnostics testing. It is intended for individuals who have been invited to participate in a diagnostics study.

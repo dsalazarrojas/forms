@@ -1,9 +1,3 @@
-<thinking>
-
-This form was created to gather information for computer repair work orders. It is designed to be a simple and straightforward way to submit repair requests and track resolution status. This form is intended for internal use only and should not be used for external communication. Please ensure that all required fields are filled out completely before submitting the form.
-
-</thinking>
-
 # Computer Repair Work Order Form - Help Guide
 ## Purpose
 This form is used to submit repair requests for computer-related issues. It is essential to provide accurate and complete information to ensure efficient processing and resolution.

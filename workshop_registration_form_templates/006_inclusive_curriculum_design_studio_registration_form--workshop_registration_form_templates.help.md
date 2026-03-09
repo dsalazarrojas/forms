@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This block of thinking is used to check if the form has already been explained in previous documentation or if there are any specific requirements for this particular form. In this case, the form has no previous explanations or special requirements.
 
 </thinking>

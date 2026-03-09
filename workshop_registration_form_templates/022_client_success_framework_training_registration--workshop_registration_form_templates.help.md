@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals interested in attending the Client Success Framework Training. It collects contact information, personal details, and preferences for the training. The form is used to understand the trainee's background, goals, and expectations from the training. This information will help us tailor the training experience and ensure that it meets the needs of all attendees.
-
-Before we dive into the form fields, please note that this form is not intended to be a duplicate registration for the same training. If you have already registered for this training, please do not fill out this form again. 
-
-</thinking>
-
 # Client Success Framework Training Registration - Help Guide
 ## Purpose
 This form is designed to gather information from individuals interested in attending the Client Success Framework Training. It collects contact information, personal details, and preferences for the training.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from participants regarding their participation in a digital literacy workshop. The form includes contact details, emergency information, accessibility needs, and other relevant information about the workshop. It is designed to ensure that participants understand their responsibilities and expectations for the workshop.
-</thinking>
-
 # Digital Literacy Workshop Participation Consent Form - Help Guide
 ## Purpose
 This form is used to collect participant information and obtain consent for participation in the digital literacy workshop. It ensures that participants understand their role and responsibilities during the workshop.

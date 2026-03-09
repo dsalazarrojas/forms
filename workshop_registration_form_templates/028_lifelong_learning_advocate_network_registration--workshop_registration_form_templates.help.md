@@ -1,16 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the Lifelong Learning Advocate Network Registration form. This guide will help users understand the purpose of the form, how to complete it, and what each field means. The form is designed to collect information from potential registrants of the Lifelong Learning Advocate Network.
-
-The form is intended to be used by individuals who want to join the Lifelong Learning Advocate Network, a platform that connects individuals and organizations dedicated to promoting lifelong learning. The form will help us to understand their interests, motivations, and agreement to participate in the network.
-
-The form will not be shared with any form platforms or used for any other purpose other than the Lifelong Learning Advocate Network.
-
-The form was created using AI-generated code and is released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-
-This guide will be a help guide for users to fill out the form correctly and understand the purpose and usage of each field.
-
-</thinking>
-
 # Lifelong Learning Advocate Network Registration - Help Guide
 ## Purpose
 The Lifelong Learning Advocate Network Registration form is designed to collect information from potential registrants who are interested in joining the network. It will help us understand their interests, motivations, and agreement to participate in the network.

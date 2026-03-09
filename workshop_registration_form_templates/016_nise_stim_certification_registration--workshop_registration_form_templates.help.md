@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # nise_stim_certification_registration - Help Guide
 ## Purpose
 This form is for registering for a certification program provided by the National Institute for Safety and Technology (NISEST) Stimulation (STIM) program. The form is used to collect information from applicants, including their details, training history, and preferred certification date and time. This information will be used to process and validate certification applications.

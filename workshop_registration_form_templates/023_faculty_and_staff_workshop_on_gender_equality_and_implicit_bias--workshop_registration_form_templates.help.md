@@ -1,7 +1,3 @@
-<thinking>
-To ensure that this workshop registration form serves its purpose, let's first clarify the form's purpose and check for relevance and non-duplication. The "Faculty And Staff Workshop On Gender Equality And Implicit Bias" is likely a workshop focused on promoting awareness and education on gender equality and implicit bias among faculty and staff. This form is probably used to register participants for the workshop, gather their information, and prepare for the event. It's essential to verify that there is no other form with a similar purpose in the system to avoid duplication. If there is an existing form with similar content, we should either merge the information or replace this form with the unified version. With this clarity, let's proceed with creating the user-facing help guide.
-</thinking>
-
 # Faculty And Staff Workshop On Gender Equality And Implicit Bias - Help Guide
 
 ## Purpose

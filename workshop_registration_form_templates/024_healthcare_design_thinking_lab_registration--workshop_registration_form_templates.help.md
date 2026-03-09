@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for the registration process of a workshop on "Healthcare Design Thinking Lab". It is intended for attendees to provide their personal and team-related information, as well as their role and affiliation within the workshop. This form is a crucial part of the registration process, and it helps to ensure that the right people are registered and that the necessary information is collected. Please ensure that you fill out this form accurately and completely.
-
-</thinking>
-
 # ประก Healthcare Design Thinking Lab Registration - Help Guide
 ## Purpose
 This form is used for the registration process of the "Healthcare Design Thinking Lab" workshop. It is designed to collect personal and team-related information from attendees.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect registration information from workshop participants. The purpose of this form is to ensure that the workshop staff and trainers are aware of the attendee's session date, start time, and other relevant details for the workshop. 
-</thinking>
-
 # RSO Online Training Registration Form - Help Guide
 ## Purpose
 The RSO Online Training Registration Form is used to collect registration information from workshop participants.

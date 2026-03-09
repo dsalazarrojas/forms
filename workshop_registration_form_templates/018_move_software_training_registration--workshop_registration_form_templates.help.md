@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to register users for a software training session. The form is designed to collect information from users, including their contact details and preferences for the training session. Before proceeding, please ensure that you are not already registered for the same session, as duplicate registrations may cause issues with training session management. This form is only intended for new registrations.
-</thinking>
-
 # MOVE Software Training Registration - Help Guide
 ## Purpose
 The purpose of this form is to register users for a software training session.

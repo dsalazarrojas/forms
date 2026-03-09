@@ -1,5 +1,3 @@
-<thinking>As I review the form fields, I see that it's for the Smart Lodging Technology Workshop Registration. I will explain each field in a way that makes it easy to follow and understand for the end-users.</thinking>
-
 # Smart Lodging Technology Workshop Registration - Help Guide
 ## Purpose
 This form is designed to collect information from workshop registrants to ensure smooth workshop organization and facilitation. It gathers details on registrant's preferences, interests, and technical skills for a better workshop experience.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information about the deployment of health links in a deployment request. The purpose of this form is to gather relevant details about the deployment, such as the start and end dates, planned duration, and other important deployment settings. 
-
-Before starting, please ensure you are submitting a new request for deployment and that this is not a duplicate request. 
-</thinking>
-
 # health link deployment request - Help Guide
 ## Purpose
 This form is used to collect information about the deployment of health links in a deployment request.

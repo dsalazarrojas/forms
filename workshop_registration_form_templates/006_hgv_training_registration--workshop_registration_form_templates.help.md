@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are interested in HGV (Heavy Goods Vehicle) training. This form is used to gather contact details, schedule preferences, and other relevant information from the users. The purpose of this form is to provide a structured way to collect data from users who want to register for HGV training. By filling out this form, users can easily provide their details and preferences, making it simpler for training providers to follow up with them.
-</thinking>
-
 # HGV Training Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect contact details and schedule preferences from users who are interested in HGV training. This information will be used by training providers to follow up with the users.

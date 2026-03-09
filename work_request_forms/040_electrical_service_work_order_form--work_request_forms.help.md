@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document and track electrical service work orders. It captures relevant information about a job, including its status, description, and completion dates. This form is intended to be filled out by field technicians or supervisors to record the progress and completion of electrical service work. It's used to ensure that all necessary information is documented and reported accurately.
-</thinking>
-
 # Electrical Service Work Order Form - Help Guide
 ## Purpose
 The Electrical Service Work Order Form is used to document and track electrical service work orders. It's essential to accurately capture all relevant information about a job, including its status, description, and completion dates.

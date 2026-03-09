@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workshop Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from individuals interested in enrolling in our workshops. It's a crucial part of our enrollment process to ensure that we have accurate contact details, payment information, and other necessary data to facilitate a smooth and enjoyable workshop experience for all participants.

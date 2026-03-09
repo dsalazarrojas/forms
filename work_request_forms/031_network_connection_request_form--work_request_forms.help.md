@@ -1,9 +1,3 @@
-<thinking>
-This form is used for requesting network connections for various purposes. Before submitting this form, please review the following guidelines to ensure that your request is not a duplicate and that you have all the necessary information. 
-Please note that this form is intended for employees who need access to company resources and networks for work-related purposes. 
-The form helps in tracking and managing network connection requests efficiently.
-</thinking>
-
 # Network Connection Request Form - Help Guide
 ## Purpose
 The Network Connection Request Form is designed to facilitate the process of requesting network connections for various purposes. This form ensures that all necessary information is collected and documented for efficient management of network connections.

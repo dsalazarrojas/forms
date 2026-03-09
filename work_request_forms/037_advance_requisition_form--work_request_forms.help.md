@@ -1,7 +1,3 @@
-<thinking>
-This form is an Advance Requisition Form, which is used to request resources, services, or items from the administration. It captures the details required for the requisition process, including requester information, item or service specifics, justification, and approval.
-</thinking>
-
 # Advance Requisition Form - Help Guide
 ## Purpose
 The purpose of this form is to request resources, services, or items from the administration. You can use this form to ask for office supplies, IT hardware, software licenses, professional services, or travel expenses. 

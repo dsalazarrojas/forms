@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect registration information from individuals interested in attending the Veterinary Supply Chain Workshop. The form's purpose is to gather essential details from potential attendees, including their name, contact information, and event preferences. This information will be used to tailor the workshop experience and ensure attendees receive relevant content and updates. Before proceeding, please ensure that the information you provide is accurate and up-to-date. This form should not be completed multiple times, as each submission will be treated as a unique registration.
-
-</thinking>
-
 # Veterinary Supply Chain Workshop Registration - Help Guide
 ## Purpose
 This form is designed to collect registration information from individuals interested in attending the Veterinary Supply Chain Workshop. The collected information will be used to tailor the workshop experience and keep attendees informed about the event.

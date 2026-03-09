@@ -1,25 +1,3 @@
-<thinking>
-This help guide aims to assist users in completing the Counseling Skills Workshop Enrollment Form. The form is intended to collect information from participants for the workshop. Before proceeding, please ensure you are filling it out for the correct purpose and not duplicating the process.
-
-The form collects the following information:
-- First name
-- Last name
-- Date of birth
-- Workshop code
-- Email
-- Phone number
-- Participant status (Active, Inactive, or Pending)
-- Workshop type (Basic, Advanced, or Expert)
-- Workshop date
-- Workshop time
-- Workshop location
-- Any additional notes
-- Assigned tool
-- Created by
-
-The form is designed to be completed for each participant, and the information will be used for the workshop enrollment process. Please fill out the form accurately and thoroughly.
-</thinking>
-
 # Counseling Skills Workshop Enrollment Form - Help Guide
 ## Purpose
 The Counseling Skills Workshop Enrollment Form is used to collect information from participants for the workshop enrollment process. Please fill out the form accurately and thoroughly.

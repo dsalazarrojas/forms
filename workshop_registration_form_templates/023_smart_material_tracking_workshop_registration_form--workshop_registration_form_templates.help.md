@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users interested in attending a workshop on smart material tracking. The form is not a part of a larger registration process, it is a standalone form for gathering contact and workshop preference information. The form is not intended for internal use only, so it's possible that the collected data might be shared with the workshop organizers and other relevant parties. Please make sure you only register for the workshop if you have a genuine interest in attending. Duplicate registrations will be removed.
-</thinking>
-
 # Smart Material Tracking Workshop Registration Form - Help Guide
 ## Purpose
 This form is for users interested in attending a workshop on smart material tracking. It's a one-time registration form to collect your contact and workshop preference information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information from attendees for enablement training programs. The form is intended for internal use within the organization and is not publicly accessible. The purpose of this form is to gather essential details about the attendees, including their personal and professional information, as well as their preferences for training programs. This information will be used to tailor the training content and ensure that the training programs meet the needs of the attendees. Please note that all fields are optional and are intended to be filled in according to the attendee's preference.
-</thinking>
-
 # Enablement Training Registration Form - Help Guide
 ## Purpose
 The Enablement Training Registration Form is designed to collect essential information from attendees for enablement training programs. The form is for internal use only and is intended to help tailor the training content according to attendee preferences.

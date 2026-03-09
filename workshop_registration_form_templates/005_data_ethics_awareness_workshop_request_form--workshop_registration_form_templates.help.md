@@ -1,11 +1,3 @@
-<thinking>
-
-This form's primary purpose is for users to express interest in attending a Data Ethics Awareness Workshop. This form is not a commitment and is for informational purposes only. It's essential to ensure that users provide accurate and relevant information to help us tailor the workshop content and logistics to their needs.
-
-Before proceeding, please ensure that you have not already submitted a workshop request in the past year, as our workshop content and dates may have changed since then. This will help us avoid duplicating effort and provide the best experience for everyone.
-
-</thinking>
-
 # Data Ethics Awareness Workshop Request Form - Help Guide
 
 ## Purpose

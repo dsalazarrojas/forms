@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration details and interests from attendees for a material innovation workshop. This form is designed to be completed by workshop participants to provide essential information for workshop organizers and facilitators.
-</thinking>
-
 # material_innovation_workshop_registration - Help Guide
 ## Purpose
 The material innovation workshop registration form is a tool for workshop organizers to collect relevant information from attendees. By completing this form, you will help the workshop team understand your registration details and interests, ensuring a smooth and engaging experience for all participants.

@@ -1,5 +1,3 @@
-<thinking>...The form purpose is to collect information regarding modifications to a workspace, allowing users to submit their requests with optional attachments and details on priority, status, facility request, and assigned information. The form is meant to be completed by users who wish to request modifications to a workspace... </thinking>
-
 # Workspace Modification Request Form - Help Guide
 ## Purpose
 The Workspace Modification Request Form is designed to collect information regarding modifications to a workspace. This form is used by users to submit their requests for modifications with optional attachments and details on priority, status, facility request, and assigned information.

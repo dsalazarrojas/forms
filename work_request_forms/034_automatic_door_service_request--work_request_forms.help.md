@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who are requesting service for their automatic door systems. The form is meant to be filled out by customers who need assistance with their doors, whether it's for repair, maintenance, inspection, or other services. The form will help service technicians understand the customer's needs and provide the necessary information to complete the job efficiently.
-
-This form is part of the service workflow, and its completion is necessary for the service team to understand the customer's requirements and provide the best service possible.
-
-Before filling out the form, make sure you are submitting it for the correct purpose and not duplicating a previous request.
-
-</thinking>
-
 # Automatic Door Service Request - Help Guide
 ## Purpose
 This form is designed to collect information from customers who are requesting service for their automatic door systems. It will help the service team understand the customer's needs and provide the necessary information to complete the job efficiently.

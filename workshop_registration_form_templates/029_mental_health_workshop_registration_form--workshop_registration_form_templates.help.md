@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to be completed by individuals who wish to register for a mental health workshop, providing essential details about themselves, their workshop preferences, and emergency contacts. The form aims to collect crucial information in a structured and efficient manner. Please ensure you're filling out this form for its intended purpose and not for any other reason. If you need to register for a different type of workshop or have other questions, please contact the relevant organization directly.</thinking>
-
 # mental_health_workshop_registration_form - Help Guide
 ## Purpose
 This form collects essential information from participants registering for a mental health workshop. It's designed to be completed by workshop attendees to ensure we have the necessary details for planning and organization.

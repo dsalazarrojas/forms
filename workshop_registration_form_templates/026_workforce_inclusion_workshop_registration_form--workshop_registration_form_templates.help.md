@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect relevant information from individuals who want to attend a workforce inclusion workshop. This form helps the workshop organizers to tailor their content and preparation based on the attendees' backgrounds, interests, and requirements. 
-The form collects information on contact details, demographic data, and personal preferences to ensure that the workshop can provide an inclusive experience for all participants.
-Please fill out this form to ensure that you can participate in the workshop and receive relevant information about the event.
-The fields in the form are designed to collect the necessary data to ensure that your experience at the workshop is valuable and effective.
-Please make sure to fill out the form completely and accurately.
-</thinking>
-
 # Workforce Inclusion Workshop Registration Form - Help Guide
 ## Purpose
 The Workforce Inclusion Workshop Registration Form is a crucial tool to help us tailor our workshop content and preparation to your needs. By filling out this form, you will be able to participate in a workshop experience that is relevant and meaningful to you.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from attendees who want to register for the Construction Safety Workshop. This form will help us to gather essential details such as the attendee's name, contact information, workshop preferences, and payment details. Please fill out the form accurately to ensure that we can process your registration efficiently. This form is not intended for repeat registrations or cancellations. Please do not fill out this form if you have already registered or if you need to cancel your registration.
-</thinking>
-
 # Construction Safety Workshop Booking Form - Help Guide
 ## Purpose
 The Construction Safety Workshop Booking Form is designed to collect registration information from attendees who want to participate in the Construction Safety Workshop.

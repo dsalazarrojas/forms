@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals who report issues or concerns regarding sewer or pest problems in their area. It's meant to be completed by residents, property managers, or maintenance crew members who need to report a problem or request follow-up on a previously reported issue. The form aims to collect relevant details such as the location, description, and status of the problem. To ensure accurate and efficient processing, it's crucial to fill out this form only for valid issues. Duplicate submissions for the same problem will not be processed.
-
-Please note that the following fields are not mandatory but will help in providing more information: report_problem_photo, report_attachment, report_sewer_photo_attachment, report_pest_photo_attachment, report_notes.
-</thinking>
-
 # Sewer Issues And Pest Control Request - Help Guide
 ## Purpose
 This form is designed to report and track sewer or pest issues in your area. Use this form to inform maintenance crew members of problems such as clogs, blockages, or pest sightings.

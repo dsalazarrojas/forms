@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from individuals who are interested in or have already registered for the Cultural Responsiveness Training, which is designed to educate individuals on cultural awareness and sensitivity. This training is likely intended for individuals who work with diverse populations, such as healthcare professionals, educators, or social workers. The form is likely used to ensure that attendees have the necessary permissions and preferences set for the training session.
-
-Before we proceed, let's verify that this form is being filled out for the correct purpose and not being duplicated. This form should only be filled out by individuals who are interested in attending the Cultural Responsiveness Training or have already registered for it.
-
-</thinking>
-
 # Cultural Responsiveness Training Registration - Help Guide
 ## Purpose
 The Cultural Responsiveness Training Registration form is designed to collect necessary information from attendees who are interested in or have already registered for the Cultural Responsiveness Training. This form helps ensure that attendees have the necessary permissions and preferences set for the training session.

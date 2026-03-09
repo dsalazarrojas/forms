@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for submitting a request to make changes to the performance venue layout. It is used to gather information about the changes to be made, including the reason for the change, the date and time of the change, and the person submitting the request. The form is used to keep track of all requests for changes to the performance venue layout, so it is essential to complete it accurately and thoroughly to ensure that the request is processed efficiently. Before submitting this form, please ensure that you have not already submitted a similar request, as duplicate requests may cause confusion and delay the processing of your request.
-
-</thinking>
-
 # Performance Venue Layout Change Request Form - Help Guide
 ## Purpose
 The purpose of this form is to submit a request to make changes to the performance venue layout. 

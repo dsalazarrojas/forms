@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a Skilled Trade Service Request form, used to submit service requests for electricians, plumbers, and HVAC technicians. Before proceeding, ensure that you have not submitted a request with similar details recently. To avoid duplication, please check our internal records or ask a team member if you have any doubts.
-
-</thinking>
-
 # Skilled Trade Service Request - Help Guide
 ## Purpose
 This form is designed for customers to request services from our skilled trade team, including electricians, plumbers, and HVAC technicians. Please use this form to provide us with the necessary information about your service request.

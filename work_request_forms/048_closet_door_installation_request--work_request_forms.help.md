@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather information from customers who are requesting installation services for closet doors. It is designed to collect relevant details about the customer's closet space, preferences, and needs. This form will help our team to better understand the customer's requirements and provide the best possible service.
-
-Before you start filling out this form, please note that the information you provide will be used to create an estimate for the closet door installation services you are requesting. This form is not intended for marketing purposes, and your submission will be treated as a formal request for services.
-
-To complete this form, please provide the following information:
-
-</thinking>
-
 # Closet Door Installation Request - Help Guide
 ## Purpose
 The purpose of this form is to gather information from customers who are requesting installation services for closet doors. It is designed to collect relevant details about the customer's closet space, preferences, and needs.

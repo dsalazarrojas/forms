@@ -1,7 +1,3 @@
-<thinking>
-We're creating a help guide for the "Prop Trading Intensive Registration" form, which is used to capture participant details and program information. This form is crucial for the prop trading intensive program, and it's essential to ensure that users understand its purpose and how to complete it correctly.
-</thinking>
-
 # Prop Trading Intensive Registration - Help Guide
 ## Purpose
 The "Prop Trading Intensive Registration" form is used to collect participant details and program information for the prop trading intensive program. This form helps us to understand the participant's experience level, goals, contact information, and program details, which enables us to provide a tailored experience for each participant.

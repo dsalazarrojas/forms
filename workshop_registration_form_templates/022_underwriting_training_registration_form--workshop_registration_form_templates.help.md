@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "underwriting_training_registration_form" is a form designed to register participants for the Underwriting and Training Program. This form collects the necessary information to identify the participant, their training details, and their preferred training topics.
 
 Before completing this form, please ensure that you are registering for a specific training session and that you have not already registered for this training. To complete this form, please follow the instructions below.

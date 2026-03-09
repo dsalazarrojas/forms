@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to register their interest in attending a Financial Strategy Analysis Training session. The form is designed to collect attendee's session preferences, details, and any special requirements. It is intended to be completed by users who have been invited to the training session. Please ensure you have received an invitation before completing this form. If you are unsure or have questions, reach out to the training organizers.
-</thinking>
-
 # Financial Strategy Analysis Training Registration - Help Guide
 ## Purpose
 This form is for registration of attendees to the Financial Strategy Analysis Training session. It is designed to gather essential information to tailor the session to your needs.

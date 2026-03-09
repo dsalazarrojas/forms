@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information about individuals who are interested in attending digital health ethics training, which aims to provide knowledge and skills on handling digital health data in an ethical manner. To ensure that users understand the form's purpose and requirements, please read this help guide carefully. This guide will help you complete the form correctly and avoid any errors or omissions. Note that this form has multiple pages with various fields, each with specific information and requirements.</thinking>
-
 # Digital Health Ethics Training Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information about individuals who are interested in attending digital health ethics training. The training focuses on handling digital health data in an ethical manner.

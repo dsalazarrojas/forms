@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect reservations for the Civic Engagement Workshop, a series of sessions focused on community building and civic engagement. The form is intended for individuals interested in attending the workshop and provides space for them to register and provide necessary information for organization purposes. This guide will walk users through the form and each field to ensure a smooth and accurate submission. To complete this form, please carefully review the fields below, making sure to provide accurate and relevant information for each section. This form will help us understand your needs and preferences for the workshop, and ensure that we can accommodate your group's attendance.
-
-</thinking>
-
 # Civic Engagement Workshop Reservation Form - Help Guide
 ## Purpose
 This form is designed to collect reservations for the Civic Engagement Workshop. To complete this form, please carefully review the following instructions and provide accurate information for each field.

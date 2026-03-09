@@ -1,9 +1,3 @@
-<thinking>
-We want to ensure that the Artificial Intelligence In Learning Forum Registration Form is used correctly and effectively by its participants. This form is designed to gather information from educators, researchers, and industry professionals interested in AI applications in learning. It will help us understand their background, expertise, and interests, which will enable us to create a valuable and engaging experience for all attendees.
-
-Before proceeding, please check that this form applies to your situation and that you are not duplicating your registration. If you have already registered for this event, please do not register again. If you are unsure, contact us at [insert contact info].
-</thinking>
-
 # Artificial Intelligence In Learning Forum Registration Form - Help Guide
 
 ## Purpose

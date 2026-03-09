@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information for building renovation projects. Please ensure that you have a legitimate reason to submit this form and that you are not duplicating an existing request. If you are unsure, please contact the relevant authorities before submitting this form.</thinking>
-
 # Building Renovation Approval Request Form - Help Guide
 ## Purpose
 This form is intended to collect information for building renovation projects. It will help the relevant authorities assess the project's details and requirements.

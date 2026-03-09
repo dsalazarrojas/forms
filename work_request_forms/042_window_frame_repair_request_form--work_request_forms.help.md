@@ -1,10 +1,3 @@
-<thinking>
-This form is a Window Frame Repair Request Form designed to collect contact information from users requesting repair services for their window frames. Before proceeding, please note that:
-* This form is meant to be used for customers requesting window frame repair services from a company.
-* If you are a vendor or supplier of window frame products, please use a different form.
-
-</thinking>
-
 # Window Frame Repair Request Form - Help Guide
 
 ## Purpose

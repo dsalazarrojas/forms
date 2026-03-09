@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential panelists for a sustainability forum. This form is intended for individuals or organizations interested in participating in the forum as experts in their field. The form should only be submitted by individuals or organizations that have not already participated in previous forums. To avoid duplication of effort and ensure accuracy, please review this form carefully before submitting it.</thinking>
-
 # Sustainability Forum Panelist Registration Form - Help Guide
 ## Purpose
 The Sustainability Forum Panelist Registration Form is designed to collect essential information from potential panelists for the sustainability forum. This form is a crucial step in the registration process, and its completion is required to participate in the forum.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Youth Interactive Workshop Registration Form - Help Guide
 ## Purpose
 The Youth Interactive Workshop Registration Form is designed to collect participant information for a workshop, which is a series of interactive activities for young people. This form helps us to understand your preferences and needs for the workshop.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Workshop Registration Form - Help Guide
 
 ## Purpose

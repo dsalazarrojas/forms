@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who wish to register for the Corporate Workplace Innovation Program. The form is used to gather contact and demographic details of the user, as well as their interests and areas of focus within the innovation program. It appears to be a general registration form without any specific validation or submission actions defined. It is assumed that the data collected will be used for internal purposes only. Please review the form carefully before proceeding, ensuring all required and optional fields are filled out accurately.
-</thinking>
-
 # Corporate Workplace Innovation Program Registration Form - Help Guide
 ## Purpose
 The Corporate Workplace Innovation Program Registration Form is designed to collect information from users who wish to register for the Corporate Workplace Innovation Program. The form gathers contact details, demographic information, and areas of interest within the program.

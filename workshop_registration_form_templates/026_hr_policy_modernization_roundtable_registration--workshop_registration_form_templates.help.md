@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in registering for the HR Policy Modernization Roundtable, a workshop focused on modernizing HR policies. The form is designed to collect information about the registrant's personal and professional details, as well as their preferences for the workshop sessions. By filling out this form, users can provide the necessary information to participate in the roundtable discussions and gain the most out of the workshop experience.
-
-Before starting, please ensure that you have not already registered for this workshop. Duplicate registrations will be reviewed on a case-by-case basis, but we cannot guarantee that they will be accepted.
-
-The purpose of this form is to gather information about your identity and preferences to facilitate a smooth and engaging workshop experience. Please fill out the form accurately and thoroughly, and do not hesitate to reach out to the workshop organizers if you have any questions or concerns.</thinking>
-
 # HR Policy Modernization Roundtable Registration - Help Guide
 ## Purpose
 The HR Policy Modernization Roundtable Registration form is designed to collect personal and professional information from workshop registrants. This will enable us to provide a tailored experience for each participant, accommodate any accessibility needs, and ensure that everyone is properly informed about the sessions they will be attending.

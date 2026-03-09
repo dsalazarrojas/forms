@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Multicultural Classroom Development Registration Form - Help Guide
 ## Purpose
 

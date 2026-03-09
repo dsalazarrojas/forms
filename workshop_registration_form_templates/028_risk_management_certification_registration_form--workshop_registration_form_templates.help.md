@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for registering for a Risk Management Certification program. It is intended to collect information about the participant's registration details, exam schedule, exam location, certification information, risk information, and any other relevant details. Please ensure that you have all necessary information ready before completing this form, as you will not be able to save incomplete forms. 
-
-To avoid duplication of effort, please do not register multiple times as this may lead to incorrect or duplicate records in the system.
-
-</thinking>
-
 # Risk Management Certification Registration Form - Help Guide
 ## Purpose
 The Risk Management Certification Registration Form is a document that helps the participant register and collect information necessary for the Risk Management Certification program. The form is designed to gather details about the participant's registration, exam schedule, location, certification, and other relevant information.

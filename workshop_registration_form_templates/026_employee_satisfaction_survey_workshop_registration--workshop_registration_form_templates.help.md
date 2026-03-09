@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information from employees who are interested in attending a workshop on employee satisfaction. The form is intended to be completed by employees who want to register for the workshop and provide their personal details, dietary requirements, preferred date and time of the workshop, and other relevant information. The form is not intended for general feedback or discussion, but rather for specific workshop registration. Before proceeding, please ensure that you are registering for the correct workshop and that you have all the necessary information to complete the form accurately.</thinking>
-
 # Employee Satisfaction Survey Workshop Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information for the Employee Satisfaction Survey Workshop. This form is for employees who are interested in attending the workshop and want to provide their details, dietary requirements, and preferences.

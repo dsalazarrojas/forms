@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture essential information for technical projects and work orders. The purpose of this form is to gather details such as project description, priority, start and end dates, assignees, and other relevant information to facilitate project management and communication. 
-It should not be used for non-project related work requests, such as internal meetings or non-technical tasks. Please review the form and ensure that you are submitting a technical project for work order. 
-</thinking>
-
 # Technical Project Work Order Form - Help Guide
 ## Purpose
 The Technical Project Work Order Form is designed to collect essential information for technical projects and work orders. This form helps in capturing project details, prioritization, and resource allocation to ensure effective project management and communication.

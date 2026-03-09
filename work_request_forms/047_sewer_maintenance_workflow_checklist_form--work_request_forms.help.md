@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help field technicians complete a sewer maintenance workflow checklist. This form captures key information such as work order details, site checks, safety reviews, and other relevant details required for sewer maintenance. This helps ensure that all necessary steps are taken during the process, reducing potential errors and improving overall maintenance efficiency.
-</thinking>
-
 # Sewer Maintenance Workflow Checklist Form - Help Guide
 ## Purpose
 The purpose of this form is to guide field technicians through a thorough and structured workflow for maintaining sewers. It is essential to provide accurate and complete information for efficient sewer maintenance.

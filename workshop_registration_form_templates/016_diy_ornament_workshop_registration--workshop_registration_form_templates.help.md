@@ -1,10 +1,3 @@
-<thinking>
-This form is used for individuals to register for a DIY Ornament Workshop. It is intended for end-users who want to attend the workshop. The form is designed to collect essential information about the workshop and the registrants. 
-
-To prevent duplicate registrations and ensure accurate workshop planning, the form will only be processed for unique registrations.
-
-</thinking>
-
 # DIY Ornament Workshop Registration - Help Guide
 ## Purpose
 This form is used to register for a DIY Ornament Workshop. Please complete the form accurately and thoroughly to ensure your spot in the workshop.

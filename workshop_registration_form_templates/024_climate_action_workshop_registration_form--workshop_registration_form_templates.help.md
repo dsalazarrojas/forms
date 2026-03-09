@@ -1,16 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Climate Action Workshop Registration Form, we need to consider the following:
-
-* The form is used to gather information from individuals interested in attending the Climate Action Workshop, which aims to educate and engage people in climate action initiatives.
-* The form is divided into several sections, each focusing on a specific aspect of the registration process.
-* The form requires personal information such as name, email, and contact number, as well as details about the individual's organization and job title.
-* The form also asks about the individual's experience and level of knowledge about climate action, as well as their primary areas of interest.
-* The form includes options for specifying dietary requirements and accessibility needs.
-* The form concludes with questions about the individual's expectations and goals for attending the workshop.
-* To ensure that each section is filled out correctly, we need to carefully explain each field and its purpose.
-
-</thinking>
-
 # Climate Action Workshop Registration Form - Help Guide
 ## Purpose
 The Climate Action Workshop Registration Form is used to register for the Climate Action Workshop, which aims to educate and engage individuals in climate action initiatives. The form collects information about the individual's personal details, workshop preferences, and expectations from the workshop.

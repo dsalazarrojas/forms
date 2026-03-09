@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals registering for the Sustainable Workforce Program. It is crucial to ensure that each field is filled out correctly to avoid any issues with processing the registration. Before proceeding, please review each field carefully to ensure you are providing the correct information. 
-</thinking>
-
 # Sustainable Workforce Program Registration Form - Help Guide
 ## Purpose
 This form is intended for registration in the Sustainable Workforce Program. Please fill out the necessary fields accurately to ensure a smooth registration process.

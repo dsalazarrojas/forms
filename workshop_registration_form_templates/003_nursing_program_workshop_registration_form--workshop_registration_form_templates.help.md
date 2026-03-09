@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information from applicants for a Nursing Program Workshop. The form is typically used by organizers to manage the attendance and details of the workshop for a specified date and time. It is likely intended for use in a professional setting, such as an educational institution or healthcare organization. Before filling out the form, please make sure you are not already registered for this workshop, as duplicate registrations will not be allowed. 
-</thinking>
-
 # Nursing Program Workshop Registration Form - Help Guide
 
 ## Purpose

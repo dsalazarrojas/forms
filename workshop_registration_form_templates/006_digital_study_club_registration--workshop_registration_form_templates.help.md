@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Study Club Registration - Help Guide
 ## Purpose
 This form is designed to collect information from users who wish to register for a digital study club. The form gathers details about the user's membership type, interests, format preferences, session format, preferred date and time, session preferences, email, phone number, and any additional notes.

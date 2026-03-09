@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for attendees to register for a Property Staging Workshop. It collects information about the attendee, their payment details, and other relevant details. This form is intended for internal use and is not meant for public submission. Please ensure that you are filling out this form accurately and truthfully. If you are unsure about any of the fields, please ask your supervisor or the workshop organizers for clarification.
-</thinking>
-
 # Property Staging Workshop Registration Form - Help Guide
 ## Purpose
 This form is used to register for the Property Staging Workshop. It collects attendee information, payment details, and other relevant details for the workshop.

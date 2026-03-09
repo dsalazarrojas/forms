@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for requesting security alarm reconfiguration, which is a process to modify or change the current security alarm settings for a specific reason. This form ensures that all relevant details are gathered from the requestor before proceeding with the reconfiguration.
-Before starting the reconfiguration process, please ensure that you are not duplicating a previous request, as this might lead to unnecessary work. To prevent this, kindly check the "Relevant Work Orders" section on our internal system for any existing requests related to your current request.
-The form consists of several pages with different fields, which will guide you through the entire process.
-</thinking>
-
 # Security Alarm Reconfiguration Request Form - Help Guide
 ## Purpose
 The purpose of this form is to gather all necessary information for security alarm reconfiguration, including details about the alarm settings, requestor information, and reconfiguration specifics.

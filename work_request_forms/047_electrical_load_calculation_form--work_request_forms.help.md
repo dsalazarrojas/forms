@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to calculate electrical load requirements for various electrical equipment and systems. It's intended for users to input specific details about the equipment and devices they are working with, including the device operating hours, power requirement, and other relevant factors. The form will guide users through a series of questions to determine the electrical load calculation based on the provided information. It's essential to fill out the form accurately to ensure the calculated values are reliable and applicable to the specific equipment or system being evaluated.
-
-Before proceeding, double-check that you have all the necessary information and details to fill out the form correctly. This form has been designed to be self-explanatory, so you should be able to navigate through it easily.
-
-To avoid any confusion or errors, ensure you have the correct device rating and power factor values. You can refer to the standard power and device ratings if you're not sure. If you have any doubts or concerns, please reach out to the relevant authorities or experts in the field for further guidance.
-
-</thinking>
-
 # Electrical Load Calculation Form - Help Guide
 ## Purpose
 This form is designed to calculate electrical load requirements for various electrical equipment and systems. It will help you determine the electrical load calculation based on the provided information.

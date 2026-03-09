@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register for the Sustainability Leadership Course. It's a form that captures the basic contact information of the participant and their preferences for the course. The purpose of this form is to ensure that the right course type is selected for the participant's needs. Please fill out this form carefully, ensuring that you have selected the correct course type and provided accurate contact information. If you have any questions or concerns, please contact the course administrators.
-</thinking>
-
 # Sustainability Leadership Course Registration Form - Help Guide
 ## Purpose
 The Sustainability Leadership Course Registration Form is used to register for the Sustainability Leadership Course. It's a form that captures the basic contact information of the participant and their preferences for the course.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture relevant information from individuals who are interested in participating in a workshop. The purpose of this form is to gather personal, contact, and workshop-related details from applicants. To ensure that the workshop is a good fit for them, it is essential to have a clear understanding of each applicant's background and expectations. This form is intended to be used by workshop organizers to assess potential participants' suitability for the workshop. Please note that the form should not be used to collect sensitive or highly personal information, and users should be advised about data privacy and collection procedures.
-
-</thinking>
-
 # workshop-application-form - Help Guide
 ## Purpose
 The workshop-application-form is designed to collect information from individuals interested in participating in a workshop. This form will help workshop organizers assess applicants' suitability for the workshop.

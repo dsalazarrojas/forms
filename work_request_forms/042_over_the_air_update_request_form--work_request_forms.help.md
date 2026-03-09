@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request an over-the-air update for a device. It is intended for internal use within an organization and should only be used when an over-the-air update is required for a specific device. To ensure accuracy and efficiency in processing, please make sure to submit a new form for each new over-the-air update request. Do not submit multiple forms for the same device or update.
-</thinking>
-
 # over-the-air-update-request-form - Help Guide
 ## Purpose
 This form is used to request an over-the-air update for a device. It is intended for internal use within an organization and should only be used when an over-the-air update is required for a specific device.

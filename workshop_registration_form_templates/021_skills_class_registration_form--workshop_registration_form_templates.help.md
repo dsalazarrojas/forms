@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users regarding their skills class registration. This form is likely used in a workshop or training setting to gather user details, class preferences, and other relevant information to facilitate the registration process.
-
-To avoid duplication of efforts, please ensure that you are not registered for the same class with the same training provider and instructor before submitting this form.
-
-</thinking>
-
 # skills_class_registration_form - Help Guide
 ## Purpose
 The skills class registration form is designed to collect user information, class preferences, and other relevant details to facilitate the registration process for a workshop or training session.

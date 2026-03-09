@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that artists and customers understand the correct usage of this form to facilitate a smooth and error-free experience. The form is designed to collect information about digital art commissions, including the artist's name, commission type, price, image count, and contact information. It's essential to review each field carefully to avoid any misinterpretation.
-</thinking>
-
 # Digital Art Commission Form - Help Guide
 
 ## Purpose

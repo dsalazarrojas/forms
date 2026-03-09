@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about an Operational Sustainability Program. The purpose of this form is to gather details about the program, including its name, date, time, location, and duration. This information will be used to create a schedule and track the program's progress.
-
-Before you begin, please note that this form is for registering an Operational Sustainability Program. If you are not affiliated with or responsible for managing such a program, this form may not be relevant to you.
-
-Also, please be aware that some fields are optional, but providing accurate information will help with the program's management and scheduling.
-</thinking>
-
 # Operational Sustainability Program Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information about an Operational Sustainability Program, which is a structured initiative aimed at ensuring the long-term sustainability of business operations.

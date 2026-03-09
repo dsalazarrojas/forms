@@ -1,11 +1,3 @@
-<thinking>
-
-We will be creating a user-facing help guide for the "Smart Energy System Training Registration" form. This form is used to collect information from participants who are interested in attending a training session on Smart Energy Systems. The form will ask for session details, participant details, session choices, consent, and contact information. The form is designed to be completed by participants who want to register for the training session.
-
-Before starting the form, ensure that you are not duplicating your registration. If you have already registered for this session, please do not complete this form again.
-
-</thinking>
-
 # Smart Energy System Training Registration - Help Guide
 ## Purpose
 This form is used to register for the Smart Energy System Training session. Please fill in the required information to complete your registration.

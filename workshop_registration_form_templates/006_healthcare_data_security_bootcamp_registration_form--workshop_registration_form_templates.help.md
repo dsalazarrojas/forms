@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Data Security Bootcamp Registration Form - Help Guide
 ## Purpose
 This form is used for registering participants to the Healthcare Data Security Bootcamp. 

@@ -1,5 +1,3 @@
-<thinking>**Internal Note: This form is designed to collect information about Interdisciplinary Research Clusters. Before proceeding, please ensure this form is applicable to your specific use case. Duplicate or redundant registrations may be deleted to avoid confusion. Ensure that all required fields are accurately completed to ensure proper processing.</thinking>
-
 # Interdisciplinary Research Cluster Registration Form - Help Guide
 ## Purpose
 This form is used to register and gather information about Interdisciplinary Research Clusters. It provides a structured way to collect relevant details about the cluster, its leader, and associated projects.

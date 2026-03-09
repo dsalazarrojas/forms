@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block: This form is for registering users for a workforce data intelligence training program. It is designed to collect contact information, session details, and any relevant submission and payment information from users. This form ensures that all required fields are clearly labeled and explained, making it easier for users to understand what is needed and avoid any confusion. 
-</thinking>
-
 # Workforce Data Intelligence Training Registration Form - Help Guide
 ## Purpose
 This form is used to register users for a workforce data intelligence training program. It collects necessary information for the training process.

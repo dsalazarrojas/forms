@@ -1,7 +1,3 @@
-<thinking>
-The form "Concussion Clinical Mastery Registration" is designed for individuals to register for a workshop on concussion clinical mastery, likely a professional development event for medical professionals. To confirm relevance and avoid duplication, you can check with your internal stakeholders or review your organization's registration process. This form aims to collect essential information from participants, including their name, professional details, email address, session preferences, and payment status, while also allowing them to provide any necessary dietary requirements and special accommodations. By filling out this form, participants can ensure they receive the correct materials and confirmation for the workshop.
-</thinking>
-
 # Concussion Clinical Mastery Registration - Help Guide
 ## Purpose
 This guide will walk you through the Concussion Clinical Mastery Registration form, explaining each field and its importance in the registration process.

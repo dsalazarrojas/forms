@@ -1,9 +1,3 @@
-<thinking>
-This help guide assumes that the form is for registering participants to an "Academic Equity In Leadership Training" and that users need to provide their personal details, professional experience, and training preferences to be able to attend the workshop. To ensure that the form is properly completed, users should only submit the form if they are actually interested in attending the workshop and if all the required fields (Full Name, Email Address, Current Position, Preferred Session Format, and Emergency Contact Name/Phone) are filled out.
-
-The form is divided into several sections, and users need to complete each section carefully to ensure that their information is accurate and complete.
-</thinking>
-
 # Academic Equity In Leadership Training Registration Form - Help Guide
 ## Purpose
 This form is for registering participants to the Academic Equity In Leadership Training. Please fill out the form carefully to ensure that your information is accurate and complete.

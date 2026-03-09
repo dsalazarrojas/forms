@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering participants for a workshop on parenting skills, and it is designed to collect essential information about each participant. The form should only be used for this specific workshop, and its fields are intended to be filled out carefully to ensure that we can tailor the workshop experience to each participant's needs.
-</thinking>
-
 # Parenting Skills Workshop Registration Form - Help Guide
 ## Purpose
 

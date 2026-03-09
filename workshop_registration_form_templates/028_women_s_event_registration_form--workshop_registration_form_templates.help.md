@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information from participants in women's events. It's intended for individuals or organizations planning events related to women's activities. The form is used to ensure accurate and comprehensive registration data for event planning and management purposes. Please note that you should only fill this form once for each event, to avoid duplicate registrations. 
-</thinking>
-
 # Women's Event Registration Form - Help Guide
 ## Purpose
 The Women's Event Registration Form is used to collect registration information from participants in women's events.

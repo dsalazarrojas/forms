@@ -1,7 +1,3 @@
-<thinking>
-  This form appears to be a comprehensive registration form for a workshop focused on birdwatching. The primary purpose of this form is to collect information from participants, including their workshop preferences, personal details, and contact information. To ensure accurate and efficient processing of the data, it is essential to understand the form's requirements and the meaning behind each field. This guide aims to clarify the form's intent and help users fill it out correctly.
-</thinking>
-
 # Birdwatching Workshop Registration Form - Help Guide
 ## Purpose
 This form is for registering for a birdwatching workshop. It consists of several sections that gather essential information from participants, which is necessary for workshop organization and management.

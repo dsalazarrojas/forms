@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from attendees for a Retail Growth Strategy Session. The purpose of this session is to provide attendees with a comprehensive overview of retail growth strategies. The goal is to understand attendees' backgrounds and preferences to tailor the session content and ensure a beneficial experience for everyone.
 
 The session will be held on <date> and will cover topics such as [session topics, e.g. marketing, customer acquisition, etc.].

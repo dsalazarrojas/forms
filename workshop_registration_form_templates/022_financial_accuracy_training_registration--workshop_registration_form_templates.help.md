@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is for attendees to register for financial accuracy training sessions. This form is intended for users to provide their personal details, session preferences, and other relevant information. Before filling out this form, please ensure you have a valid reason for attending the financial accuracy training session and that you have checked the training session schedule to select the correct date and time for your attendance.
-
-To avoid duplication of effort, please check if you have already registered for the same session before submitting this form. If you have any doubts or questions about the form or the session, please contact the session organizer for assistance.
-</thinking>
-
 # Financial Accuracy Training Registration - Help Guide
 ## Purpose
 This form is for registering for financial accuracy training sessions.

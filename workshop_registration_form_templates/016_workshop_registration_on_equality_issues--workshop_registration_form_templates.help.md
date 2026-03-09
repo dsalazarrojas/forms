@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users who want to register for a workshop on equality issues. It is used to gather details about participants' preferences and needs for the workshop. The form should be completed by workshop organizers to ensure that they have the necessary information to provide an inclusive and accessible experience for all participants.
-</thinking>
-
 # Workshop Registration On Equality Issues - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users who want to register for a workshop on equality issues. This information is used by workshop organizers to tailor the workshop experience to meet the needs of all participants.

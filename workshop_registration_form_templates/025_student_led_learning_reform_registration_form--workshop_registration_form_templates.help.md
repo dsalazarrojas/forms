@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Led Learning Reform Registration Form - Help Guide
 
 ## Purpose

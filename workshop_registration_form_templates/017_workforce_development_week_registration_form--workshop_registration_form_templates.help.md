@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's quickly review the form's purpose and ensure we're on the same page. This form is for registering participants for the Workforce Development Week, a professional development event. It's essential that we understand the form's intention and avoid duplicating efforts. The form's fields are designed to collect various details about each participant, including their name, contact information, role, job title, and relationships with emergency contacts. By filling out this form accurately and completely, you'll help us better organize and manage the event.</thinking>
-
 # Workforce Development Week Registration Form - Help Guide
 ## Purpose
 This form is for registering participants for the Workforce Development Week, a professional development event. Please fill it out accurately and completely to ensure we can better manage the event.

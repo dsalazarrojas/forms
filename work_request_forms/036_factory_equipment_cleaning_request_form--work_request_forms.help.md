@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for a Factory Equipment Cleaning Request. It is not meant to be used for other purposes, so please fill it out only for this specific request. Please ensure that you are not duplicating a request already submitted. If you are unsure about the status of a similar request, please check the internal database first before submitting this form.
-</thinking>
-
 # Factory Equipment Cleaning Request Form - Help Guide
 ## Purpose
 This form is used to request cleaning for factory equipment. Fill out this form to submit a request for cleaning, providing details about the equipment and the desired cleaning schedule.

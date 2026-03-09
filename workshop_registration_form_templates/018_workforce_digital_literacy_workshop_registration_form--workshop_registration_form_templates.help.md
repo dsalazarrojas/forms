@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather essential information about participants and workshops for the Workforce Digital Literacy Workshop. It is crucial to ensure the accuracy of the data collected, so please make sure to double-check your input before submitting the form. 
-</thinking>
-
 # workforce_digital_literacy_workshop_registration_form - Help Guide
 ## Purpose
 This form is designed to collect participant and workshop information for the Workforce Digital Literacy Workshop. It is used to gather essential details about each participant, including their name, contact information, workshop preferences, and more.

@@ -1,19 +1,3 @@
-<thinking>
-This form is designed for registering a Strategic Workforce Planning Program. The purpose of this form is to collect information from attendees who want to participate in the program. The form is used to gather essential details such as the program name, program type, dates, time, attendee name, email, phone number, session selection, and team information. 
-
-Please note that the form is designed to be completed by one attendee at a time. If multiple attendees are registering together, please fill out the form multiple times. 
-
-This form will help us understand who is participating in the program, their preferences, and needs. It will also enable us to provide the best experience for the attendees.
-
-Before filling out this form, please ensure that you are registering for the correct program and session. If you have any questions or concerns, do not hesitate to contact us.
-
-Please fill out this form carefully and accurately. If you need to make any changes, please let us know as soon as possible.
-
-To avoid duplication, please do not register for the same program and session multiple times.
-
-If you are unsure about any of the fields, you can refer to this help guide for guidance.
-</thinking>
-
 # Strategic Workforce Planning Program Registration - Help Guide
 ## Purpose
 This form is used to register for the Strategic Workforce Planning Program.

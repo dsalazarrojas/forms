@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to register attendees for the Veterinary Imaging Technology Seminar, which is a training session for veterinary professionals to learn about the latest advancements in veterinary imaging technology. This form will help the event organizers to gather information about the attendees' preferences and interests, which will be used to tailor the session to their needs.
-To ensure the form's relevance and non-duplication, we will ask attendees to provide their name, email, and phone number, which will be used to verify their registration and communicate with them. The form also includes fields to gather information about their preferences for the session, such as whether they would like to attend the session or receive more information about it.
-</thinking>
-
 # Veterinary Imaging Technology Seminar Registration - Help Guide
 ## Purpose
 The Veterinary Imaging Technology Seminar Registration form is designed to gather information from veterinary professionals who want to attend the seminar. It helps the event organizers to tailor the session to their needs and preferences.

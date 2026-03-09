@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or organizations registering for a workshop or training session focused on renewable process engineering. The form will likely be used by workshop organizers to track attendance, gather demographic information, and collect any necessary details for the attendees. To ensure the form is completed correctly, please review the fields carefully to provide accurate and relevant information.
-
-Before starting, ensure you have all the required and optional fields filled out, even if you are unsure about a particular field. This form is designed to be flexible, so please feel free to provide additional information that might be relevant to your registration.
-
-To complete the form, start by filling out the required fields and then move on to the optional ones. If you're unsure about a field, try to provide the best possible information you can.
-
-The fields are designed to be user-friendly, with clear labels and explanations. Take a moment to review each field and its explanation to ensure you understand its purpose and relevance.
-</thinking>
-
 # Renewable Process Engineering Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals or organizations registering for a workshop or training session focused on renewable process engineering. It will help workshop organizers track attendance, gather demographic information, and collect necessary details for the attendees.

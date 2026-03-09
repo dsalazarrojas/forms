@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a workshop. It is intended to be used by organizers and staff to provide details about a workshop, including its title, description, category, time, date, location, and other relevant information. This form should not be used to collect sensitive or personal data about individuals.
-
-</thinking>
-
 # Workshop Information Form - Help Guide
 ## Purpose
 This form is used to collect and store information about a workshop, which will be displayed to attendees and staff.

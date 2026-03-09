@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Upholstery Service Request - Help Guide
 
 ## Purpose

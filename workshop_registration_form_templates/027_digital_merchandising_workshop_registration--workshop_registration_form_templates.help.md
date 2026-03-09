@@ -1,15 +1,3 @@
-<thinking>
-This form is for the registration of a Digital Merchandising Workshop. Before proceeding, ensure that the workshop has not been previously registered, and that the form is intended for a single or multiple session. If the purpose is to register a single session, enter the start and end dates of the session. If the purpose is to register multiple sessions, provide a start and end date for the first session. 
-
-The session name and type must be provided. The session will be held at the specified location, and the contact person's information is required. 
-
-Required attendees and their contact information must be listed. 
-
-The registration form has two types of sessions: single and multi-session. 
-
-Ensure that all required fields are accurate and complete to ensure a successful submission.
-</thinking>
-
 # Digital Merchandising Workshop Registration - Help Guide
 ## Purpose
 The Digital Merchandising Workshop Registration form is used to register a workshop with the following details:

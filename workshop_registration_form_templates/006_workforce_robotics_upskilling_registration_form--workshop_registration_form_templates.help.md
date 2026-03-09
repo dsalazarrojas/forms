@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for participants to register for a workforce robotics upskilling program. The primary purpose of the form is to collect relevant information about the participant's job title, role, and contact details, as well as their training and workshop preferences. The form will help the program organizers to better understand the participants' needs and tailor the program content accordingly. Before proceeding, please ensure you have read and understood the form instructions and requirements.
-</thinking>
-
 # Workforce Robotics Upskilling Registration Form - Help Guide
 ## Purpose
 This form is for participants to register for a workforce robotics upskilling program. It gathers information about the participant's job title, role, contact details, and training and workshop preferences.

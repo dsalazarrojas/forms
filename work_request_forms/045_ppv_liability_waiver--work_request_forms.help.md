@@ -1,11 +1,3 @@
-<thinking>
-
-The PPV Liability Waiver form is used to gather information from clients about their payment for PPV (Pleural Puncture Vehicle) services. This form is typically used to track client payments and agreements for services rendered. The form requires clients to provide their contact information, payment details, and agreement to the terms of service.
-
-Before filling out this form, please note that you should only fill it out once per service visit. If you need to complete another form for a different service visit, please do not fill out this form again. This form is intended to be a single-use form, and repeating this process can cause data duplication and confusion.
-
-</thinking>
-
 # PPV Liability Waiver - Help Guide
 ## Purpose
 The PPV Liability Waiver form is used to track client payments and agreements for services rendered.

@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to collect registration information from students for an electronics course. This form is designed to gather details such as student's name, course choices, payment information, email, phone number, and expected date of attendance. The form type is likely a workshop or training registration form.
-
-Before filling out this form, please make sure you are eligible for this course and you have not already registered. The form is not designed for internal employees or existing customers.
-
-</thinking>
-
 # Electronics Course Registration - Help Guide
 ## Purpose
 This form is intended to collect registration information from students for an electronics course.

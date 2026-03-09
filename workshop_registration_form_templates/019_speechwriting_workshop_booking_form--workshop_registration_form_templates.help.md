@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to book and register for a Speechwriting Workshop. It collects information about the customer, such as name, contact details, and workshop preferences. The purpose of this form is to ensure that the workshop organizers have accurate and complete information about the attendees, allowing them to plan and prepare for the workshop. This form is meant for customers who want to attend one of the three available workshops: Workshop 1, Workshop 2, or Workshop 3. The form should not be used for other purposes or by non-attending workshop staff. Please ensure that the form is not filled out in duplicate or for the wrong purpose.
-</thinking>
-
 # Speechwriting Workshop Booking Form - Help Guide
 ## Purpose
 This form is designed for customers to book and register for a Speechwriting Workshop.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to be used by internal staff to create a help guide for an end-user facing form, specifically the "Lean Production Certification Registration" form. This form is likely to be used for registering participants for a Lean production certification training session. The guide will provide a step-by-step explanation of the form's purpose, how to complete it, and a field-by-field explanation of each field's purpose and required fields.
-</thinking>
-
 # Lean Production Certification Registration - Help Guide
 ## Purpose
 The "Lean Production Certification Registration" form is designed to collect participant registration information for Lean production certification training sessions. This information includes participant details, session preferences, and other relevant data.

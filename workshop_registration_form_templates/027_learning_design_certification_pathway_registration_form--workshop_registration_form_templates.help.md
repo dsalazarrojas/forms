@@ -1,10 +1,3 @@
-<thinking>
-Please note that this form seems to be designed for registration of users in a learning pathway or certification program. The form appears to be used for tracking user information, program details, and submitter information. 
-
-To confirm, I will create a help guide for this form.
-
-</thinking>
-
 # Learning Design Certification Pathway Registration Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This help guide will provide a clear understanding of the Employee Productivity Webinar Registration Form for users.
-The form is designed to collect relevant information from employees, including their details, company information, job function, and preferences.
-This guide will cover the purpose, step-by-step completion, and field-by-field explanations for a seamless user experience.
-</thinking>
-
 # Employee Productivity Webinar Registration Form - Help Guide
 ## Purpose
 The Employee Productivity Webinar Registration Form is designed to collect relevant information from employees to provide valuable insights for company-wide productivity improvement. This form helps us understand the needs and preferences of our employees, ensuring that our webinars cater to their needs and provide effective support for their growth and development.

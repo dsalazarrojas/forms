@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants attending an Open Education Policy Workshop. The form should only be used for registering workshop participants and not for any other purpose. Ensure you are registering for the correct workshop session. The form fields are designed to collect participant details, session preferences, and other relevant information. Please review each field carefully to ensure accurate and complete input.
-</thinking>
-
 # Open Education Policy Workshop Registration - Help Guide
 ## Purpose
 This form is intended to collect information from participants attending the Open Education Policy Workshop. It helps us understand your preferences and needs, allowing us to provide a better experience for you during the workshop.

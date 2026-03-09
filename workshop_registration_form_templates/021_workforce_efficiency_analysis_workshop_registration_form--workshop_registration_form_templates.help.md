@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workforce Efficiency Analysis Workshop Registration Form - Help Guide
 
 ## Purpose

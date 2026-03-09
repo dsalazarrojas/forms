@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for end-users to register for a DIY workshop. It captures basic information such as workshop name, instructor name, email, phone number, and participant details. The purpose of this form is to streamline the workshop registration process and reduce administrative tasks. Please ensure to fill it out accurately and thoroughly.
-</thinking>
 # DIY Workshop Signup Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants to register for a DIY workshop.

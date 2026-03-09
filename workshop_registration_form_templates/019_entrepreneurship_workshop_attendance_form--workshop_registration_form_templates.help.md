@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from individuals planning to attend an entrepreneurship workshop. It is likely that this form will be used to keep track of registered participants and gather necessary details for event organization and management purposes. To avoid duplication, it's crucial that participants fill out this form with accurate and consistent information.
 
 </thinking>

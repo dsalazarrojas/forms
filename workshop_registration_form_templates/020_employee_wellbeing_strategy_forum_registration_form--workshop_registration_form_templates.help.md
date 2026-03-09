@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Wellbeing Strategy Forum Registration Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and requirements of the Multilingual Instruction Research Group Registration Form. The form is designed to collect information about research groups, including their names, descriptions, leaders, languages, and status. It is crucial that users complete the form accurately and thoroughly to ensure that the data is up-to-date and reliable.
-
-Before starting the form, ensure that you have the necessary permissions and approvals to submit the information on behalf of your research group. Also, double-check that you have not already submitted this form for the same research group to avoid duplication of effort.
-
-This guide will walk you through each field of the form, explaining the purpose and requirements of each section.</thinking>
-
 # Multilingual Instruction Research Group Registration Form - Help Guide
 ## Purpose
 The Multilingual Instruction Research Group Registration Form is designed to collect information about research groups that conduct multilingual instruction research. This form helps administrators and researchers to track and manage the registration of these groups.

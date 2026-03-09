@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow speakers to release their content or intellectual property, including their name, likeness, and any intellectual property rights, to be used in a workshop setting. This form is not affiliated with or derived from any other form platform, and it's an original creation based on public survey topic metadata. The form was created using AI and is released under a Creative Commons BY 4.0 license. Users can use, modify, or even sell forms derived from this one, as long as they give credit.
-</thinking>
-
 # Speaker Release Form - Help Guide
 ## Purpose
 The Speaker Release Form is a document that allows speakers to release their intellectual property, including their name, likeness, and any other proprietary rights, for use in a workshop setting. This form helps to establish a clear understanding between the speaker and the workshop organizers, ensuring that all parties are aware of the terms and conditions.

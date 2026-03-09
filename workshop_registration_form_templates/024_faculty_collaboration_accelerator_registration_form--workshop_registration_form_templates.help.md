@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for faculty to register for the Faculty Collaboration Accelerator program. It is intended to collect information about the faculty member's interest in collaborating with other departments and programs on campus. The form is used to facilitate collaboration and facilitate the sharing of resources and expertise. 
-
-Before starting, please note that this form is intended for faculty members. If you are not a faculty member, please contact the relevant department for guidance on how to proceed. 
-
-The form has a total of 13 fields and is divided into sections for easy navigation. Please follow the instructions below for completing each field accurately and efficiently.
-
-</thinking>
 # Faculty Collaboration Accelerator Registration Form - Help Guide
 ## Purpose
 The Faculty Collaboration Accelerator Registration Form is a tool for faculty members to express their interest in collaborating with other departments and programs on campus. This form helps to facilitate resource sharing and expertise collaboration among faculty members.

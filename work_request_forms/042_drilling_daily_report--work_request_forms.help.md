@@ -1,5 +1,3 @@
-<thinking>...The purpose of this "Drilling Daily Report" form is to gather information about a drilling operation, including the date, location, equipment used, and status of the drilling. This form helps users provide a detailed account of their drilling activities, which can be useful for record-keeping, reporting, and decision-making. Please fill out this form only if you are an authorized employee or contractor working on a drilling project. Please ensure that you do not submit duplicate entries for the same drilling operation...</thinking>
-
 # Drilling Daily Report - Help Guide
 ## Purpose
 This form is designed to collect information about drilling operations for record-keeping and reporting purposes.

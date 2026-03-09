@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help facility managers, architects, and other stakeholders collaborate on improving the layout of a warehouse. By completing this form, users can provide detailed information about the current state of their warehouse, identify areas of improvement, and propose solutions. This guide will help ensure that you understand the form's purpose and use it effectively. Please make sure you are familiar with the warehouse's current layout and issues before filling out this form.
-</thinking>
-
 # Warehouse Layout Redesign Application Form - Help Guide
 ## Purpose
 This form collects information about the current state of the warehouse and your proposed changes to the layout. The goal is to gather input from users to help inform improvements to the warehouse's layout.

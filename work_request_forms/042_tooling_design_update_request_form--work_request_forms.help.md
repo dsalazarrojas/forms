@@ -1,9 +1,3 @@
-<thinking>
-This form is used to submit requests for tooling design updates. To ensure that your request is properly reviewed, please make sure to complete all required fields. Additionally, please note that if you are submitting a request for an existing tool, please make sure to specify the current status of the tooling design update request (e.g., Major, Minor, or Completed) in the "change_type" field. If you are unsure about the purpose or any of the fields, please contact the tooling team for guidance.
-
-This form will ask for information about the tooling design update request, including the category, description, date, time, and other relevant details. Please ensure that you submit all required fields to help the tooling team review and process your request efficiently.
-</thinking>
-
 # Tooling Design Update Request Form - Help Guide
 ## Purpose
 This form is used to submit requests for tooling design updates to the tooling team. It allows you to specify the category, description, date, and time of the update request, as well as other relevant details.

@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to capture essential information from users who want to register for the VLSI Training Program. It gathers details about the participant, their session preferences, and other relevant information. The form is designed to be completed by users who want to attend the training program, allowing us to better understand their needs and preferences.
-
-Before proceeding, please note that:
-
-* This form is not intended for duplicate registrations.
-* Ensure that you have not registered for the same session before.
-</thinking>
-
 # VLSI Training Program Registration - Help Guide
 ## Purpose
 The VLSI Training Program Registration form is used to gather information from users who want to register for the program. Please complete this form carefully to ensure that we have an accurate understanding of your needs and preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who will be registering for a retail inventory forecasting webinar. The form is designed to collect information from attendees, including their personal details, company information, and job titles. It is meant to ensure that the attendees have the necessary information to get the most out of the webinar.
-</thinking>
-
 # Retail Inventory Forecasting Webinar Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information for the Retail Inventory Forecasting Webinar. Please complete the form accurately to ensure that you receive the necessary materials and have a great experience during the webinar.

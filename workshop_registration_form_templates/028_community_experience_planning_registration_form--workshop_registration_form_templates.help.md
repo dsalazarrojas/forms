@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to register for a community experience planning event. To avoid duplicates, ensure you're not registering multiple individuals with the same email address. If you're registering on behalf of a group, please ensure all members have the same email address for payment and communication purposes. This form requires accurate information to ensure proper registration and event planning.
-</thinking>
-
 # Community Experience Planning Registration Form - Help Guide
 ## Purpose
 This form is for registering participants for a community experience planning event. Please fill it out accurately to ensure proper registration and event planning.

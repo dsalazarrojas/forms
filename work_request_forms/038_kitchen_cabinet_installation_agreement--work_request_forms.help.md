@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to capture essential information related to kitchen cabinet installation agreements between customers and contractors. It is used to gather details about the customer and the job requirements, as well as the customer's authorization and signature. The form aims to provide a smooth and secure way to manage kitchen cabinet installations while maintaining transparency and accountability.
-
-This form is likely to be used for internal purposes within a company, and its completion may be mandatory for certain roles or tasks. It's recommended to review the form carefully before providing any information or completing it.
-
-Please make sure you are familiar with the purpose and requirements of this form before proceeding. If you're unsure, consult with the relevant personnel or the original form creator for further clarification. If you have already completed a similar form, be sure to check if the information you provided is up-to-date and accurate.
-
-To avoid duplication of effort, please ensure you have not completed this form recently or have a duplicate record in the system.
-
-After double-checking, if you still need to complete this form, please follow the instructions below.
-
-</thinking>
-
 # kitchen_cabinet_installation_agreement - Help Guide
 ## Purpose
 This form is designed to gather essential information related to kitchen cabinet installation agreements between customers and contractors. It captures details about the customer, job requirements, customer authorization, and signature.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Insights Academy Registration Form - Help Guide
 ## Purpose
 The Customer Insights Academy Registration Form is designed to collect information about individuals who wish to participate in the Customer Insights Academy, a platform providing valuable insights and knowledge on customer behavior and preferences. This form helps us understand your interests, goals, and background to tailor our resources and services to better support your needs.

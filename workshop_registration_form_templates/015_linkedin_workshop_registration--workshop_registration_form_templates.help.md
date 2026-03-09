@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information from workshop attendees for a workshop registration process. The form is meant to capture essential details about the attendees, the workshop they are registering for, and their contact and payment information. This form is likely to be used by workshop organizers or administrators to gather necessary data for logistics, attendee tracking, and other organizational purposes.
-
-This form appears to be a simplified version and does not include any conditional logic or dynamic fields, which means it's a straightforward and easy-to-use form that can be completed by end-users with basic understanding of the required fields.
-
-To prevent duplication or unnecessary data collection, ensure that the same form is not used for duplicate registrations. If the same attendee is attempting to register for the same workshop multiple times, their previous registration will be taken as the most up-to-date information and subsequent registrations will be treated as duplicate entries.
-
-Please note that this form does not contain any sensitive fields or data collection mechanisms that would be a concern from a data privacy perspective.
-
-</thinking>
-
 # linkedin_workshop_registration - Help Guide
 ## Purpose
 This form is designed to collect registration information from workshop attendees for a workshop registration process.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed for users to register their group and provide information about their meeting, including the date, time, and duration of the meeting. The form is intended to be completed by the individual or group representative who will be attending the meeting. Each section of the form is designed to gather specific information and ensure that all required fields are completed correctly. This guide will walk you through each section and field of the form to help ensure you complete the form accurately and efficiently.
-
-</thinking>
-
 # Curriculum Co Creation Group Registration Form - Help Guide
 ## Purpose
 The Curriculum Co Creation Group Registration Form is a tool used to register and provide information about your group and meeting details. This form helps to keep track of your group's registration and ensures that all necessary information is captured accurately.

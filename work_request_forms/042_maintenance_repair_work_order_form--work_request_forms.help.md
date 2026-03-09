@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Maintenance Repair Work Order Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is for registering for workforce scheduling training, which is a program designed to help employees develop their scheduling skills and knowledge. This form is used to capture essential information from trainees to facilitate their registration process. Before filling out this form, please ensure that you have not already registered for this training session.
-
-Note that this form includes various fields for different types of information, including text, email, phone number, date, time, select options, notes, and decimal/integer fields. Some fields are required, while others are optional. Please complete the form accurately and thoroughly.
-
-</thinking>
-
 # Workforce Scheduling Training Registration Form - Help Guide
 ## Purpose
 This form is used to register for the Workforce Scheduling Training program. Please complete it accurately to ensure a smooth registration process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering a child for a workshop, allowing parents or guardians to provide personal and child information, select a workshop session, and provide emergency contact details. To ensure accurate and successful registration, please review each field carefully and complete them as instructed. This form should only be filled out once per child registration.
-</thinking>
-
 # Childcare Workshop Registration Form - Help Guide
 ## Purpose
 This form is designed to gather necessary information for registering a child for a workshop.

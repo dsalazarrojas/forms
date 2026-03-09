@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals seeking certification in the Lash industry. The form is intended to be filled out by workshop attendees or interested parties looking to become certified in lash technology. The purpose of this form is to gather relevant information about the individual's previous training, experience, and other details necessary for certification. This information will be used to verify the individual's eligibility for certification and to facilitate the certification process. Please note that this form should only be completed once for each individual, and repeated submissions should be avoided.
-</thinking>
-
 # Lash Industry Certification Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information for certification in the Lash industry. It is meant to be filled out by individuals seeking certification, including workshop attendees or those looking to become certified in lash technology.

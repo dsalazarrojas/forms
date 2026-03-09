@@ -1,9 +1,3 @@
-<thinking>
-This help guide is designed for end-users to understand the purpose and functionality of the "effective_questioning_workshop_registration" form. 
-The form is intended to collect participant information for workshops, focusing on workshop registrations, participant details, and payment processing. 
-Before proceeding, please ensure that you have all the necessary information and permissions to register participants. 
-</thinking>
-
 # effective_questioning_workshop_registration - Help Guide
 ## Purpose
 The "Effective Questioning Workshop Registration" form is designed to register participants for workshops, collect their information, and manage payment details. This form is used to organize and track workshop registrations, ensuring that participants are accurately accounted for and payment methods are recorded.

@@ -1,7 +1,3 @@
-<thinking>
-  This help guide is intended to assist users in completing the "sda_request_form" form, which is a work request form used to gather information from users regarding their work-related requests. This form ensures that work requests are properly documented and submitted to the relevant personnel for processing. To avoid duplication, users must ensure that their requests are not resubmitted if they have already made a similar request in the past.
-</thinking>
-
 # sda_request_form - Help Guide
 ## Purpose
 The "sda_request_form" is a form used to gather work-related requests from users. This form is designed to collect necessary information to ensure that requests are properly documented and submitted for processing.

@@ -1,7 +1,3 @@
-<thinking>
-Please ensure that this form is only filled out by authorized personnel and that each registration is unique. The form should not be filled out multiple times for the same person. It's essential to understand the purpose of this form before proceeding. This guide will walk you through each section of the form to help you complete it accurately.
-</thinking>
-
 # Critical Pedagogy Study Group Registration Form - Help Guide
 ## Purpose
 The Critical Pedagogy Study Group Registration Form is used to gather information from participants interested in joining the study group. This form is designed to collect relevant details, including name, contact information, and preferences.

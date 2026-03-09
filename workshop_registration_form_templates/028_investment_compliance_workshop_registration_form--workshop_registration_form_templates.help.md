@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To help ensure that our workshop registration process is accurate and efficient, we will be using a standard form for participant registration. This form is designed to collect basic contact and workshop participation information. Please note that all required fields are marked with an asterisk (\*). If you are unsure about any information, please do not hesitate to reach out to us for clarification.
 
 # investment_compliance_workshop_registration_form - Help Guide

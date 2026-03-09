@@ -1,6 +1,4 @@
-## <thinking>...</thinking>
-
-The Large Format Printing Estimate Request Form is intended for customers to request large format printing estimates for their projects. It is meant to gather information about the project details, paper type, and other relevant details to help the customer's printing representative provide an accurate quote. This form should only be completed by a customer or a representative for the customer. Please note that this form is not intended for internal use by printing staff, as they will likely have access to more detailed information about available printing options and costs.
+## The Large Format Printing Estimate Request Form is intended for customers to request large format printing estimates for their projects. It is meant to gather information about the project details, paper type, and other relevant details to help the customer's printing representative provide an accurate quote. This form should only be completed by a customer or a representative for the customer. Please note that this form is not intended for internal use by printing staff, as they will likely have access to more detailed information about available printing options and costs.
 
 </thinking>
 

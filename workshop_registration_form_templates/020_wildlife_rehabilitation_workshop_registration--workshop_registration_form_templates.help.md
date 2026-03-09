@@ -1,10 +1,3 @@
-<thinking>
-
-The purpose of the Wildlife Rehabilitation Workshop Registration form is to collect information from individuals interested in registering for the Wildlife Rehabilitation Workshop. This form will be used to gather necessary details from attendees to ensure a smooth and successful event. To complete this form, please follow the instructions below.
-
-
-</thinking>
-
 # Wildlife Rehabilitation Workshop Registration - Help Guide
 ## Purpose
 This form is intended to collect registration information from interested individuals for the Wildlife Rehabilitation Workshop. 

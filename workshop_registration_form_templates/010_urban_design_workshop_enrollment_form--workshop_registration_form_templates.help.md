@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to capture enrollment data for the Urban Design Workshop. The purpose of the form is to collect relevant information from workshop attendees, including their contact details, workshop participation status, and assigned tool. This form will help in efficiently tracking and managing workshop enrollments.
-
-The form will be completed by workshop attendees, who should provide accurate and complete information to ensure successful enrollment processing.
-
-</thinking>
-
 # Urban Design Workshop Enrollment Form - Help Guide
 ## Purpose
 The Urban Design Workshop Enrollment Form is used to collect enrollment data for the Urban Design Workshop. This form gathers information from workshop attendees, including their contact details, workshop participation status, and assigned tool.

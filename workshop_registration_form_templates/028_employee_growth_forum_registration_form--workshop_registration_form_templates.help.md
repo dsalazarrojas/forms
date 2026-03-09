@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from employees for an Employee Growth Forum, which is likely a workshop or event focused on employee development and growth. This form is designed to gather essential details from participants, including their personal and contact information, event details, and registration specifics. To ensure accurate and relevant data, please only register once for each workshop. If you have already registered for this workshop, your existing registration will be updated with the new information. If you are unsure about your registration status or need to update your information, please contact your HR or event organizer for assistance.
-</thinking>
-
 # Employee Growth Forum Registration Form - Help Guide
 ## Purpose
 The Employee Growth Forum Registration Form is designed to collect information from employees for an Employee Growth Forum workshop or event.

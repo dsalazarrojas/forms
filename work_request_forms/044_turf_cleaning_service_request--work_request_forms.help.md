@@ -1,20 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Turf Cleaning Service Request form, I'll need to understand the form's purpose and the fields it contains. The form seems to be for requesting a service for turf cleaning, which likely involves cleaning or maintenance of grass or turf areas. The form may be used by customers or users to schedule an appointment for this service.
-
-The form contains fields for:
-
-* Title: likely a placeholder for the form title
-* Schedule Appointment: a field for selecting a date and time for the appointment
-* Name: a field for the customer's name
-* Email: a field for the customer's contact email
-* Phone: a field for the customer's phone number
-* Service Request: a field for specifying the specific service request or instructions
-* Preferred Appointment: a field for selecting a preferred appointment date and time
-
-To avoid duplication, the form should only allow the user to submit one appointment schedule at a time, and the "Service Request" field should be a free-text field for users to provide any additional information or instructions for the service.
-
-</thinking>
-
 # Turf Cleaning Service Request - Help Guide
 ## Purpose
 The Turf Cleaning Service Request form is for requesting a service for cleaning or maintenance of grass or turf areas. Users can submit a single request for a scheduled appointment, including their name, contact information, and specific service request details.

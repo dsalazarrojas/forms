@@ -1,16 +1,3 @@
-<thinking>
-
-This form is used for registering attendees for a training session on Social Security Benefits. The purpose of the form is to collect information from attendees, including contact details, session preferences, and any additional comments.
-
-Before filling out the form, please ensure that:
-
-* You are registered for the correct session using the session ID provided.
-* You have not already registered for this session.
-
-If you have any doubts or concerns, please contact the session administrators before completing the form.
-
-</thinking>
-
 # Social Security Benefits Training Registration - Help Guide
 ## Purpose
 The purpose of this form is to register attendees for a training session on Social Security Benefits. Fill out the form to let us know you're attending the session and provide your contact information.

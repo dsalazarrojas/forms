@@ -1,5 +1,3 @@
-<thinking>...This form is used to register participants for the HR Analytics Masterclass. It is a multiple-page form that captures relevant information from the participants. The fields include selecting whether the participant is attending the workshop ('Yes' or 'No'), providing their name and job title, choosing their experience level (High or Low), selecting preferred session preferences ('Yes' or 'No'), providing their email address, and listing their phone number. This form is not designed for submission to any third party and is intended solely for internal use within the company. Please ensure to fill it out accurately and honestly to receive relevant communication and updates about the workshop. Please also note that filling this form does not guarantee registration or confirmation but rather helps with organizing the workshop... </thinking>
-
 # HR Analytics Masterclass Registration - Help Guide
 ## Purpose
 The HR Analytics Masterclass Registration form is used to collect information from participants for internal organization and communication purposes. It is not a public-facing form and its responses are not submitted to any third party.

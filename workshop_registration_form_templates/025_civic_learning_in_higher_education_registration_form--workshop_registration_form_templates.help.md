@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for individuals seeking to register for the "Civic Learning In Higher Education Registration Form". Please ensure you are using this form for its intended purpose and not duplicating your efforts. If you are unsure about any field or requirement, please contact the relevant authority for clarification.
-</thinking>
-
 # Civic Learning In Higher Education Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from students to facilitate their participation in civic learning programs and activities in higher education. It is used to record student details for training sessions, accommodate special needs, and gather consent for media use.

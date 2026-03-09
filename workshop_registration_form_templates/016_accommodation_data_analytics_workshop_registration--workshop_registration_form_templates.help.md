@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect registration information for an accommodation data analytics workshop. The purpose of this form is to gather demographic and preference information from attendees to better understand their interests and needs. Please note that this form is part of a larger workshop registration process, and the information collected here will be used to tailor the workshop experience to the attendees' needs.
-
-Before starting, ensure that you have the necessary permissions and approvals to access and use the gathered data.
-
-This form is divided into sections, each covering a specific aspect of the attendee's information. Each section is explained below.
-
-</thinking>
-
 # Accommodation Data Analytics Workshop Registration - Help Guide
 ## Purpose
 This form is used to collect registration information for the Accommodation Data Analytics Workshop.

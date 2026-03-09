@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who wish to participate in a creative program. The form is meant to be used by program administrators to gather relevant data for planning and execution of the program. The fields in this form are intended to capture the necessary information for a participant to express their interest in the program, including their name, email, program type, program details, desired date and time of participation, location, and a brief description of their expectations. This form is not affiliated with any specific form platforms, but rather a creative adaptation inspired by public survey metadata. 
-</thinking>
-
 # Creative Program Participation Request Form - Help Guide
 ## Purpose
 This form is for individuals wishing to participate in a creative program. Please fill out this form to share your interest and preferences for the program.

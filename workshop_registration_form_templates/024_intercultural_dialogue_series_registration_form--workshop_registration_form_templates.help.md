@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a registration form for an Intercultural Dialogue Series event, which aims to facilitate discussions and exchange between people from different cultural backgrounds. The form collects information from participants to help the organizers manage the event efficiently and ensure a smooth experience for all attendees. The fields on this form should not be duplicated or filled out incorrectly, as this can lead to inaccurate data and potential conflicts with other registered participants. The following help guide will assist users in completing the form accurately and efficiently.
-</thinking>
-
 # Intercultural Dialogue Series Registration Form - Help Guide
 ## Purpose
 The Intercultural Dialogue Series Registration Form is a tool used to collect information from participants and help the organizers manage the event.

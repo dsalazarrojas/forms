@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect registration information for attendees of the Livestock Care Conference. It's intended for individuals who want to attend or participate in the conference as speakers or sponsors. 
-This form is not a duplicate of any other form used for the same purpose in our organization.
-
-</thinking>
 # livestock_care_conference_registration_form - Help Guide
 ## Purpose
 This form is for registering attendees, speakers, or sponsors for the Livestock Care Conference. 

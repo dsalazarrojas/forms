@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to submit a request for a drone mission, providing essential details about the mission requirements, user information, and other relevant aspects. This form should be used for requesting drone missions for official or non-official purposes, ensuring that the user provides all necessary information to facilitate the mission's execution. To avoid duplication, please ensure that you have not already submitted a similar mission request before submitting this form.
-</thinking>
-
 # Drone Mission Request Form - Help Guide
 ## Purpose
 The Drone Mission Request Form is designed to collect information for drone missions, ensuring that all necessary details are gathered to facilitate the mission's execution. Please use this form to provide a comprehensive overview of your mission requirements and relevant information.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to track attendance and gather feedback from participants who attend a community hobby workshop. The form will help staff to monitor attendance numbers, track participant demographics, and identify areas for improvement in the workshop sessions. This guide will walk you through how to complete the form accurately and effectively.
-
-</thinking>
-
 # Community Hobby Workshop Attendance Form - Help Guide
 ## Purpose
 

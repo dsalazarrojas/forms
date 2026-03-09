@@ -1,6 +1,3 @@
-<thinking>
-This form is for registering a workshop. The purpose of this form is to gather relevant information about the workshop. This form is part of a larger system, please ensure that you are filling out this form correctly so that it can be properly synced with other systems in the workshop planning and management ecosystem. Before proceeding with this form, please review the following fields and their respective requirements carefully. This form will help you to provide accurate and complete information for the workshop you are trying to register.</thinking>
-
 # Packaging Circularity Workshop Registration - Help Guide
 ## Purpose
 This form is used to register a workshop. Please fill out the form with the required information to ensure accurate and complete registration.

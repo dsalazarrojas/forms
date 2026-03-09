@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from participants for the HR Modernization Seminar. The fields in this form will help us gather details such as participant's name, contact information, seminar details, and payment information. It is recommended that participants fill in the form accurately and completely. 
-</thinking>
-
 # HR Modernization Seminar Registration Form - Help Guide
 ## Purpose
 This form is a registration form for the HR Modernization Seminar. It gathers relevant information from participants, including contact details, seminar details, and payment information.

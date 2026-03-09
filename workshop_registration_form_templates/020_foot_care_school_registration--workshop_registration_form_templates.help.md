@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect registration information from users for a workshop focused on foot care. The purpose of this form is to gather details about the user, their course interests, and payment information. The form has multiple pages, each with various fields for collecting different types of information. The fields include user information, course information, contact information, payment details, and other relevant details. To complete this form, the user will navigate through each page, entering their details in the required fields. It is essential to ensure that the user understands the purpose and scope of each field to provide accurate and relevant information.
-
-Before starting, please note that the form has the following fields:
-* User Information: This page requires details about the user, including any other information that might be relevant.
-* Course Information: This page is where users can select the courses they are interested in attending.
-* Contact Information: This page is for providing contact details, including phone numbers and email addresses.
-* Payment Information: This is where users can enter their payment details.
-* Additional Information: This page is for any additional comments or details.
-
-To complete this form, the user will navigate through each page, entering their details in the required fields. Each field has a label and a type (e.g., text, email, date, time), which indicates what type of information is expected. For example, the "Email" field is for entering an email address, while the "Date" field is for selecting a date.
-
-Please ensure that you provide accurate and relevant information in each field, following the instructions and guidelines below.
-</thinking>
-
 # Foot Care School Registration - Help Guide
 ## Purpose
 The Foot Care School Registration form is designed to collect registration information from users for a workshop focused on foot care. The form has multiple pages with various fields for collecting different types of information.

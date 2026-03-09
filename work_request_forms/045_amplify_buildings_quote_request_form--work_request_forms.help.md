@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect project information and requirements for a construction project. It is crucial to ensure that the information provided is accurate to enable us to effectively quote and execute the project. Before proceeding, please ensure that you are not already working with another company on this project, and that the information provided is up-to-date. If this is a repeat project, please do not fill out this form multiple times. Please fill out this form carefully, and if you have any questions or concerns, contact us directly.
-</thinking>
-
 # Amplify Buildings Quote Request Form - Help Guide
 ## Purpose
 The Amplify Buildings Quote Request Form is designed to collect essential project information and requirements for a construction project. This form helps us understand your project needs and enables us to provide an accurate quote for your construction project.

@@ -1,14 +1,3 @@
-<thinking>
-This guide is intended to be used by end-users who need to register for the Ethical Research In Education Workshop. The form is designed to collect relevant information about the attendee, their preferences, and any special requests they may have. The purpose of this form is to ensure that the attendee has the best possible experience at the workshop.
-
-This guide will cover the following sections: 
-* Purpose: This section explains the purpose of the form and its intended use.
-* How to Complete This Form: This section outlines the steps to fill out the form.
-* Field-by-Field Explanation: This section provides a detailed explanation of each field in the form.
-* Tips: This section offers additional tips and information for the user to keep in mind while filling out the form.
-
-</thinking>
-
 # Ethical Research In Education Workshop Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect necessary information from attendees to provide them with a great experience at the workshop. Please note that some fields are optional and will not affect your registration. Fill out the form as completely as possible to ensure we can tailor the workshop to your needs.

@@ -1,10 +1,3 @@
-<thinking>
-To avoid duplication or incorrect submission of workshop registration forms, we will use this form to collect information about workshop preferences and participant details. This form is for registering participants for an organizational agility workshop. It's essential to fill it out carefully, providing accurate and complete information to ensure a smooth and effective workshop experience.
-
-We will use this form to collect data on participants' interests, preferences, and details. Please ensure that you have all the necessary information before submitting the form. If you're unsure about any field, please refer to this guide for clarification.
-
-</thinking>
-
 # Organizational Agility Workshop Registration - Help Guide
 
 ## Purpose

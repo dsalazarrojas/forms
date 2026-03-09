@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information from attendees for a workshop focused on medical AI regulation awareness. The purpose of this form is to gather essential details about attendees, including their role, expectations, contact information, and medical licensing status, among other things. This information will be used to tailor the workshop content and ensure that attendees are aware of and in compliance with relevant medical regulations.
-
-Before filling out this form, it's essential to ensure that it's being filled out for the correct purpose and not for other related workshops or events. This form is designed for a specific workshop, and filling it out for other purposes might lead to confusion and incorrect information.
-
-Please carefully read through the form and understand the purpose it's meant for before proceeding.
-
-</thinking>
-
 # Medical AI Regulation Awareness Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from attendees for the Medical AI Regulation Awareness Workshop.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # nonprofit_tech_skills_training_registration_form - Help Guide
 
 ## Purpose

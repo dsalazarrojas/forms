@@ -1,33 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in participating in a Collaborative Teaching Residency program. This residency program is a professional development opportunity for teachers to work closely with experienced mentors and peers to enhance their teaching practices. The form is intended to gather necessary details about the applicant's background, interests, and preferences to determine their eligibility and fit for the program.
-
-Before proceeding, please ensure that you have not previously submitted this form. Duplicate submissions will be considered invalid and may delay the application process.
-
-The following fields are required to complete the form accurately:
-
-* A valid email address
-* A phone number
-* A specific residency term
-* A preferred grade level
-* A primary subject focus
-* The name of the university or teacher preparation program they are affiliated with
-* Their expected graduation date
-* A valid GPA
-* A preferred mentoring schedule
-* Their preferred school type
-* A valid contact phone number for an emergency contact
-* A valid contact name for an emergency contact
-
-Please note that the following fields may be optional:
-
-* Prior teaching experience
-* Location preference
-* Availability schedule
-
-Ensure that you answer all the required fields to ensure a smooth and efficient application process. If you have any questions or concerns, please feel free to reach out to the program organizers for guidance.
-
-</thinking>
-
 # Collaborative Teaching Residency Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in participating in a Collaborative Teaching Residency program.

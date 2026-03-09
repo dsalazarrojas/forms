@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Urban Land Use Conference Registration Form - Help Guide
 
 ## Purpose

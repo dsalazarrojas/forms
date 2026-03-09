@@ -1,5 +1,3 @@
-<thinking>...The overtime work request form is used by employees to notify their managers of their intention to work beyond their regular working hours, allowing managers to review and approve or deny the request. This form is designed to be completed by employees who need to work overtime on a specific job or project. To prevent duplicate submissions, employees should only submit one request at a time. Please ensure that you have reviewed the submission guidelines before proceeding.</thinking>
-
 # overtime_work_request_form - Help Guide
 ## Purpose
 The "overtime_work_request_form" is used to submit a request to work beyond regular working hours for a specific job or project.

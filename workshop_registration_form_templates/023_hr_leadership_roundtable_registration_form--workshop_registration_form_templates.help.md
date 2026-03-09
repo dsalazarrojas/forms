@@ -1,13 +1,3 @@
-<thinking>
-
-We are creating a help guide for an HR leadership roundtable registration form, which is designed to collect information from attendees about their interest and ability to attend a leadership roundtable event. The primary goal of this form is to determine who will attend and what they are interested in discussing. The form is organized into several pages, each with specific questions or topics to be addressed. To complete the form, users will need to navigate through each page, providing answers or selections as prompted. 
-
-The form is structured in the following pages: Form Page 1 (Introduction), Topics (selecting applicable topics), Attendee Information (selecting attendees), Contact Information (selecting contact information), and 25 other Form Pages with no specific questions or topics.
-
-Before proceeding, please ensure that you have read the provided guidance on how to complete each page, and only answer the questions that apply to you or your organization.
-
-</thinking>
-
 # HR Leadership Roundtable Registration Form - Help Guide
 ## Purpose
 The HR Leadership Roundtable Registration Form is designed to collect information from attendees about their interest and ability to attend a leadership roundtable event.

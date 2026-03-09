@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information for maintenance requests related to AR (Augmented Reality), VR (Virtual Reality), and AI (Artificial Intelligence) equipment. To ensure that your request is properly processed, please complete the form accurately and thoroughly. 
-
-The form should only be submitted once for each issue, and please note that duplicate requests will not be entertained. This form is intended for use in a work-related environment where equipment maintenance is required. If you are unsure about the purpose or process of this form, please contact form@gic.mx for assistance.
-
-Please ensure that you have the necessary permissions or approvals before submitting this form, especially if the issue is related to sensitive or confidential equipment. 
-
-Also, please be aware that the urgency level of the issue will determine the priority level of the maintenance request. The sooner the issue is reported, the faster it can be addressed.
-</thinking>
-
 # AR/VR/AI Maintenance Request Form - Help Guide
 ## Purpose
 The AR/VR/AI Maintenance Request Form is a tool for reporting maintenance issues related to Augmented Reality (AR), Virtual Reality (VR), and Artificial Intelligence (AI) equipment. This form is designed to collect relevant information to expedite the maintenance process and ensure that your issue is addressed promptly.

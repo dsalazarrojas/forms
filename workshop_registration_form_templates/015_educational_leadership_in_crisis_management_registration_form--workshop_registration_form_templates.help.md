@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to be used for registering participants in educational leadership crisis management workshops. To ensure that the intended purpose is met and to prevent duplication, please use this form for its intended use case only, i.e., for workshops focused on educational leadership crisis management. Do not use this form for other purposes.
-
-</thinking>
-
 # Educational Leadership In Crisis Management Registration Form - Help Guide
 ## Purpose
 This form is designed to register participants in educational leadership crisis management workshops. It collects essential information from individuals, including their name, contact details, and department affiliation.

@@ -1,13 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Service Request Work Order" form, we should consider the following:
-
-* The form's purpose is to collect and manage service requests from customers or users, likely for internal service or support teams to respond and provide solutions.
-* The form might be used for internal service requests, such as IT support, field support, or other service departments.
-* The form is likely used to capture essential information about the service request, including category, location, time, and other relevant details.
-* Some fields may be optional or have specific requirements based on the internal business rules or regulations.
-* The form should be designed to guide the user through the process of submitting a service request in a clear and concise manner.
-</thinking>
-
 # Service Request Work Order - Help Guide
 
 ## Purpose

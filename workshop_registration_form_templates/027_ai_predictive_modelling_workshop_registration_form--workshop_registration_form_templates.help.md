@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from attendees for the AI Predictive Modelling Workshop. The form aims to capture essential details such as attendee's name, email address, experience level with predictive modelling, programming languages familiarity, session preferences, and dietary restrictions. This information will help the workshop organizers to better prepare for the attendees' needs and preferences.
-
-To avoid duplication, this form is not affiliated with any proprietary form platforms, and its creation is based on public survey topic metadata.
-
-This form will guide you through the registration process. Please read carefully and ask if you have any doubts.
-
-</thinking>
-
 # AI Predictive Modelling Workshop Registration Form - Help Guide
 ## Purpose
 The AI Predictive Modelling Workshop Registration Form is designed to collect essential information from attendees to ensure a successful and enjoyable experience for all participants.

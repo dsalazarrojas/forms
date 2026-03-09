@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants for a Women's Winter Study session. It should only be used for participants who have not been previously registered. The purpose of this form is not for internal use and should not be filled out by internal staff members. This form is intended for external participants, and its completion is required to accurately reflect on participant preferences and demographics. Please ensure that this form is filled out correctly to avoid confusion and misrepresentation.
-</thinking>
-
 # Women's Winter Study Registration - Help Guide
 ## Purpose
 The Women's Winter Study Registration form is designed to collect information from external participants for a Women's Winter Study session. It is intended to gather participant preferences and demographics.

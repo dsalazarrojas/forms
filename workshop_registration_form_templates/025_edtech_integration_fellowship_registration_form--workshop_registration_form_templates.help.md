@@ -1,12 +1,3 @@
-<thinking>
-This is a form for registering for the EdTech Integration Fellowship, a program aimed at promoting educational technology integration in various countries. Before proceeding, please ensure you have a clear understanding of the program's goals and benefits. Note that this form is only for individuals genuinely interested in joining the fellowship. Do not complete this form if you have already registered for the EdTech Integration Fellowship or do not intend to commit to the program's requirements.
-
-Also, this form collects personal details and sensitive information, so ensure you are comfortable sharing this data with the EdTech Integration Fellowship team. If you have any doubts or concerns, please contact us for clarification.
-
-Before starting, note that some fields are optional and do not affect your eligibility or participation in the fellowship.
-
-</thinking>
-
 # EdTech Integration Fellowship Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from potential participants of the EdTech Integration Fellowship program. Please fill out this form accurately and completely to ensure a smooth application process.

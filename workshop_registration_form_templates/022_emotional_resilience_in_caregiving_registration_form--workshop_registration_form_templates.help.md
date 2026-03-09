@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to help caregivers and individuals who provide emotional support and care for others. The form's purpose is to collect information about the registrant's emotional resilience, contact details, and other relevant information for the workshop on "Emotional Resilience In Caregiving".
-
-To complete this form, follow the steps below:
-1. Fill in the required information in each field.
-2. Provide accurate and truthful answers to the best of your ability.
-3. Review your submission before submission.
-
-</thinking>
-
 # Emotional Resilience In Caregiving Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from caregivers and individuals who provide emotional support and care for others. The information collected will be used to facilitate the workshop on "Emotional Resilience In Caregiving".

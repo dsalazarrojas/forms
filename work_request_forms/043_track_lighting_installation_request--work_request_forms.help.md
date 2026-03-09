@@ -1,7 +1,3 @@
-<thinking>
-This form is used by clients or users to request the installation of lighting equipment at a facility. The form collects information necessary to facilitate this process, including customer contact details, installation preferences, and facility equipment requirements. To ensure accurate and prompt processing of the request, please ensure that the form is completed correctly and thoroughly. Please fill out the form only once for each new installation request. 
-</thinking>
-
 # Track Lighting Installation Request - Help Guide
 
 ## Purpose

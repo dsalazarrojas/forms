@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # NGO Educational Workshop Donation Form - Help Guide
 ## Purpose
 This form is designed to collect information and donations for an NGO educational workshop. It's essential to understand that the form is intended for workshops, not for other types of events or activities. If you are not registering for a workshop, please do not use this form.

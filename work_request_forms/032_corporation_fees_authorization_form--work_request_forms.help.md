@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for a company to request an authorization for corporation fees related to vendor purchases. The form is designed to gather information about the company seeking authorization, including their name, contact person, and contact details. The form also includes fields for a date, amount, vendor name, and purchase order number, which will likely be used to track the vendor and purchase related to the corporation fees. It's recommended that users fill out the form with as much detail as possible to ensure accurate processing of their request. To fill out the form, users should start by providing the required information (e.g., company name, contact person, email, and vendor name). The date field is likely to be optional as it might not be required in all cases. Users should use the date field when the authorization request is related to a specific date.
-
-</thinking>
-
 # Corporation Fees Authorization Form - Help Guide
 ## Purpose
 This form is used to request an authorization for corporation fees related to vendor purchases.

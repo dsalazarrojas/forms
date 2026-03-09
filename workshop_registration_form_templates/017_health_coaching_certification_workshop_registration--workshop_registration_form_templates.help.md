@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from participants who are registering for the Health Coaching Certification Workshop. This form will likely be used by the workshop organizers to manage participant registrations, track participant preferences, and ensure agreement with the terms and conditions of the workshop. Before proceeding, we should confirm that this form is not a duplicate, and that the participant is not already registered for this workshop. If this is not the case, we will need to adjust the form design and content accordingly.
-</thinking>
-
 # Health Coaching Certification Workshop Registration - Help Guide
 ## Purpose
 This form is used to collect information from participants who are registering for the Health Coaching Certification Workshop.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect user information for creating an Instagram campaign. It is essential that the user provides accurate and relevant details to ensure that the campaign is set up correctly and meets the required standards. Please ensure that you have read and understood the guidelines before submitting the form. If you have previously submitted a campaign with similar details, it is not necessary to submit another one. 
-
-</thinking>
-
 # instagram_campaign_request_form - Help Guide
 ## Purpose
 The instagram_campaign_request_form is a form used to collect information for creating an Instagram campaign.

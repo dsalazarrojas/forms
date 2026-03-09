@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is clear and understandable for the end users. This form is for registering participants in the Global Literacy Innovation Exchange. The form collects information necessary for registration, including participant's email address, contact phone number, date and location of the event, method of payment, and more. To avoid duplication of efforts, we should check if a participant is already registered before allowing them to register again. This will help us keep track of the participants and their details accurately.
-</thinking>
-
 # Global Literacy Innovation Exchange Registration Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-
-This form is designed to collect information from coordinators and participants for translation sessions. It helps in ensuring that all necessary details are captured to facilitate a smooth and productive session. Please ensure that the form is filled out accurately and completely to avoid any confusion or miscommunication. Also, please note that this form will not be used to store or process any sensitive or confidential information.
-
-</thinking>
-
 # Translation Session Registration - Help Guide
 ## Purpose
 The Translation Session Registration form is used to collect information from coordinators and participants for translation sessions. This form helps in ensuring that all necessary details are captured to facilitate a smooth and productive session.

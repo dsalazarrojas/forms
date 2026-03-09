@@ -1,7 +1,3 @@
-<thinking>
-The UX workshop registration form is intended to collect information about upcoming workshops. It's used by workshop organizers to gather data on workshop attendees, such as workshop names, dates, times, locations, capacities, types, and any additional comments or notes. This form should not be used for duplicate or non-relevant registrations; please ensure that your workshop name, date, time, location, and type are correctly entered.
-</thinking>
-
 # ux-workshop-registration-form - Help Guide
 ## Purpose
 The UX workshop registration form is a tool for workshop organizers to collect information about upcoming workshops. This form helps organizers gather relevant data about workshop attendees, including workshop names, dates, times, locations, and other important details.

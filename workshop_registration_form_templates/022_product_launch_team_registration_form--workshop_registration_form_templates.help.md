@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to register team members for a product launch team. It is intended for internal use by team members and is not meant to be filled out by external parties. Please ensure you are filling out this form to register yourself or someone else for a legitimate purpose related to the product launch team. To avoid duplication, please do not register team members multiple times.
-</thinking>
-
 # Product Launch Team Registration Form - Help Guide
 ## Purpose
 This form is used to register team members for the product launch team. It helps the team to have a clear understanding of who is joining the team and their roles and skills.

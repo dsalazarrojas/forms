@@ -1,14 +1,3 @@
-<thinking>
-To avoid unnecessary duplication and ensure accurate registration, this form is designed to collect essential information from workshop participants and organizers. The form will be used to track workshop attendance, preferences, and other relevant details. This guide will walk you through each section of the form to help you complete it accurately and efficiently.
-
-Please note that this form is for registration purposes only and is not intended for general contact or sales outreach. By filling out this form, you are acknowledging that the information provided will be used for workshop planning and administration purposes.
-
-Before proceeding, please ensure that you have not already registered for this workshop. If you have any doubts, please contact us at [insert contact information].
-
-To complete this form, follow the steps below:
-
-</thinking>
-
 # Retail Innovation Lab Registration Form - Help Guide
 ## Purpose
 The Retail Innovation Lab Registration Form is designed to collect information from workshop participants and organizers. This form helps us track attendance, preferences, and other relevant details to ensure a smooth and enjoyable experience for all.

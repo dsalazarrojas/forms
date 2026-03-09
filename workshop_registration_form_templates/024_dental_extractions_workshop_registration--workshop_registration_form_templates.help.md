@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from attendees who are registering for a dental extractions workshop. It is assumed that the workshop is a medical procedure-focused event where attendees will be undergoing dental extractions. The form is intended to gather attendee details, payment information, medical information, and other relevant details to ensure a safe and successful experience for all attendees. This form should not be used for non-medical workshops.
-</thinking>
-
 # dental_extractions_workshop_registration - Help Guide
 ## Purpose
 This form is for registering attendees for a dental extractions workshop. The workshop is a medical procedure where attendees will be undergoing dental extractions.

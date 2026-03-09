@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cross Functional Management Workshop Registration Form - Help Guide
 
 ## Purpose

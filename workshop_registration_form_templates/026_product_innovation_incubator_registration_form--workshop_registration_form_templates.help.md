@@ -1,13 +1,3 @@
-<thinking>
-
-The form is used to collect information from potential applicants to the Product Innovation Incubator program. The purpose of the form is to gather relevant details about the applicant's product or idea, including the founder's name, email, and team location. The form also asks about the idea's status, target market, product stage, program type, and other relevant aspects. 
-
-This form is designed to be used by potential applicants to the program, and it will help us understand their product or idea, which will aid us in our selection process. Before starting, make sure to check that you are eligible to apply for the program and that you haven't already submitted an application. 
-
-Also, note that some fields are optional, but they might be required for the selection process, so make sure to fill them in accordingly. If you have any questions or concerns, please do not hesitate to contact us. 
-
-</thinking>
-
 # Product Innovation Incubator Registration Form - Help Guide
 ## Purpose
 The Product Innovation Incubator Registration Form is used to collect information from potential applicants to the Product Innovation Incubator program.

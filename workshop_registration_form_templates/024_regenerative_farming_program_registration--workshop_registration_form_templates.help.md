@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Regenerative Farming Program Registration - Help Guide
 
 ## Purpose

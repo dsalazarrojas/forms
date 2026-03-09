@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for registering for a virtual shopping assistant demo. The form is designed to gather user information and preferences for the demo. 
-
-The purpose of this form is to ensure that the demo is tailored to the user's needs and interests. 
-
-Please ensure that this form is not filled out by users who are not participating in the demo.
-
-</thinking>
-
 # virtual_shopping_assistant_demo_registration - Help Guide
 ## Purpose
 This form is used for registering for a virtual shopping assistant demo. The form is designed to gather user information and preferences for the demo.

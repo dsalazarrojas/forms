@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Data Literacy For Teachers Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from teachers who wish to register for the Data Literacy Program. It helps us understand their interest in the program, gather relevant details, and ensure they are eligible to participate. Please fill out the form accurately to ensure we can contact you and schedule the program according to your needs.

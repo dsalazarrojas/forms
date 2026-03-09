@@ -1,7 +1,3 @@
-<thinking>
-This form template is likely used for registering participants for a webinar or online seminar. The form is designed to collect basic information about the participant, including their name, contact details, and preferences. It also includes select one, select multiple, and date/time fields, which might be used to gather more specific information or preferences from the participants. To ensure that the form is completed correctly, it's essential to understand the purpose and relevance of each field.
-</thinking>
-
 # webinar_entry_form_template - Help Guide
 ## Purpose
 The webinar_entry_form_template is designed to collect information about participants for a webinar or online seminar.

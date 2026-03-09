@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registering participants, speakers, and organizers for a policy innovation workshop. Its primary purpose is to collect information about workshop attendees, such as their type, workshop preferences, and other relevant details. This form helps the workshop organizers to better understand the demographics of the attendees and to make informed decisions about workshop organization and logistics. It also serves as a central hub for storing and managing registration data. This form should not be used for other purposes or for storing sensitive information that requires a separate registration process or higher level of security.
-</thinking>
-
 # policy_innovation_workshop_registration_form - Help Guide
 ## Purpose
 The policy innovation workshop registration form is designed to collect information from workshop participants, speakers, and organizers. It serves as a central hub for storing and managing registration data.

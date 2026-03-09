@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather information from participants for a quality benchmarking session. The goal is to collect data on the participant's details, topic interests, session time, and any additional comments. The form will be used to facilitate the organization and facilitation of the quality benchmarking session.
-</thinking>
-
 # Quality Benchmarking Session Registration - Help Guide
 ## Purpose
 This form is designed to gather information from participants for a quality benchmarking session. It will help us understand your details, topic interests, and session preferences to better organize and facilitate the session.

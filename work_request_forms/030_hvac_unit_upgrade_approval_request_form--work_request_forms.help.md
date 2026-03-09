@@ -1,7 +1,3 @@
-<thinking>
-This form is used to facilitate the upgrade request process for HVAC units. The goal is to streamline communication between property managers, facility teams, and owners. It ensures that all relevant information is collected and recorded in a structured format, reducing the risk of miscommunication and errors. Before filling out this form, please ensure that you have discussed the upgrade request with the relevant parties and that this form accurately reflects the agreed-upon details. 
-</thinking>
-
 # hvac_unit_upgrade_approval_request_form - Help Guide
 ## Purpose
 The "hvac_unit_upgrade_approval_request_form" is designed to collect information and facilitate the upgrade request process for HVAC units. This form is used to gather essential details from property managers, facility teams, and owners to ensure a smooth and efficient upgrade process.

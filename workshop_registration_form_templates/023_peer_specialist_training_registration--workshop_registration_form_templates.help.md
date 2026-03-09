@@ -1,12 +1,3 @@
-<thinking>
-To ensure that this help guide is accurate and helpful, I need to understand the purpose of the form. Based on the provided YAML, it appears that this form is used for users to register for a peer specialist training program. The form captures various user information, contact details, and training-related data. 
-
-I also assume that the form is being used within an organization, as some fields are only applicable to certain roles or positions within the organization. However, this assumption may not be accurate, and further clarification is required to provide a more informed explanation.
-
-With this understanding, I can now proceed with creating a user-facing help guide.
-
-</thinking>
-
 # Peer Specialist Training Registration - Help Guide
 ## Purpose
 This form is designed to collect information from users for the peer specialist training program. Please fill out this form to register for the training program.

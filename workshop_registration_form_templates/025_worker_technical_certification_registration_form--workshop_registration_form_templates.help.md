@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Worker Technical Certification Registration Form - Help Guide
 
 ## Purpose

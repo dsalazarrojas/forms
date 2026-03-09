@@ -1,7 +1,3 @@
-<thinking>
-The Laminate Floor Refinishing Request Form is designed for individuals or property managers to request laminate floor refinishing services for their properties. To ensure that the correct information is collected and the work is completed efficiently, it's essential to fill out the form accurately. Before proceeding, please verify that you haven't submitted this request previously. If you're unsure about the form purpose or have questions, please contact the form administrator or the company providing the service.
-</thinking>
-
 # Laminate Floor Refinishing Request Form - Help Guide
 ## Purpose
 The Laminate Floor Refinishing Request Form is designed to collect information about your property and the services you need for your laminate floor. It will help the contractor or service provider to prepare for the job, ensuring that your floor is refinished correctly and on time.

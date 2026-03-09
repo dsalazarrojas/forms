@@ -1,12 +1,3 @@
-<thinking>
-To create this form, I'll follow the provided YAML structure and ensure that the user has a clear understanding of the form's purpose and fields.
-
-The form, "Mini Album Class Registration", is designed for users to register for a mini album class. The form will capture the necessary information from the user, including their personal details and course registration details. The fields are divided into two pages, and each field is explained below.
-
-The form's purpose is to collect data for course registration, which will be used to create a mini album class.
-
-</thinking>
-
 # Mini Album Class Registration - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to register participants for a tenancy rights awareness workshop. The purpose of this form is to collect information from participants about their details, reasons for joining the workshop, consent to updates, contact details, and signature. This form is designed to be completed by workshop participants to provide their information and consent. It is crucial to understand that this form is for awareness purposes only and may not be applicable in all jurisdictions or situations.
-
-Please note that this form does not require any specific fields to be filled, making it an optional form. However, filling out all the fields will help ensure that the participant's details are accurately recorded. The form is intended to be used by workshop participants and is not designed for other purposes. If you are unsure about any of the fields, please do not hesitate to reach out to the workshop organizers or administrators for clarification.
-
-</thinking>
-
 # tenancy_rights_awareness_registration_form - Help Guide
 ## Purpose
 The tenancy rights awareness registration form is used to register participants for a workshop focused on tenancy rights awareness. The form collects information from participants about their details, reasons for joining, consent to updates, contact details, and signature.

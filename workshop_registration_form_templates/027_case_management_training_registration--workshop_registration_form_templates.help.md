@@ -1,14 +1,3 @@
-<thinking>
-We are creating a help guide for the "Case Management Training Registration" form, which is used for registering participants for case management training programs. This form collects information from potential attendees, including personal and professional details, training preferences, and payment information. The primary goal of the form is to gather necessary data for efficient registration and to ensure that participants are aware of and agree to the terms and conditions of the training.
-
-Before completing the form, please verify that the information is accurate and up-to-date, as some fields are marked as required. If you have already registered for a training program with us in the past, please make sure you are not duplicating your registration.
-
-Please note that some fields are specifically designed for continuing education units (CEUs) and certifications, which are relevant for professionals seeking credit for their training.
-
-Before proceeding with the registration, please ensure that you have reviewed all the sections carefully and have completed all required fields correctly.
-
-</thinking>
-
 # Case Management Training Registration - Help Guide
 ## Purpose
 This form is used to register for case management training programs. It collects essential information from potential participants, including contact details, professional background, training preferences, and payment information.

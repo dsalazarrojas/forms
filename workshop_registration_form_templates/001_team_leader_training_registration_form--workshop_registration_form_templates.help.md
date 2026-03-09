@@ -1,12 +1,3 @@
-<thinking>
-This form is a registration form for a Team Leader Training program. It is designed to collect information from team leaders who want to participate in the training session. The form should be completed by team leaders who are interested in improving their leadership skills.
-
-Before filling out this form, please make sure you are not already registered for the same training session. If you are unsure, you can check the training schedule or contact the training organizers for confirmation.
-
-Please note that this form is for general information purposes only and is not a binding contract.
-
-</thinking>
-
 # Team Leader Training Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from team leaders who want to participate in the Team Leader Training program.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect participant information and preferences for the Workplace Agility Training program. The form is used to gather essential details about the participants, including their contact information and session preferences. This helps the training team to better understand the participants' needs and provide a more effective and enjoyable experience.
-</thinking>
-
 # Workplace Agility Training Registration - Help Guide
 ## Purpose
 This form is designed to collect participant information and preferences for the Workplace Agility Training program. Please note that this form is not to be filled out by participants who have already registered or have attended the training in the past.

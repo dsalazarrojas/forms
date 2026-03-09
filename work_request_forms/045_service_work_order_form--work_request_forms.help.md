@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers requesting a service. The form is not affiliated with any specific form platform, and its creation was inspired by public survey topic metadata. This form is an original adaptation, not a copy or extract from any form creation, data collection, or survey platform. It can be used and modified freely, but please give proper credit.
-</thinking>
-
 # Service Work Order Form - Help Guide
 ## Purpose
 The Service Work Order Form is designed to collect information from customers for a service work order. This form will help us understand the customer's needs and provide them with a proper service.

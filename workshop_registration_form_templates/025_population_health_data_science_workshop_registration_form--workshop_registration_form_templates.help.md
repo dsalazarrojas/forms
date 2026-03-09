@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to register users for a population health data science workshop. It collects basic contact and demographic information, such as name, email, phone number, and date of birth. Additionally, it captures more specific information like time zone and workshop attendance preferences. The form should only be filled out if the user intends to participate in the workshop.
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for workshop registrations. It captures essential information about the workshop attendees, including their names, contact details, team size, and preferences. This form ensures that organizers can gather accurate and comprehensive data for the event planning process. By filling out this form, attendees can register for the workshop, providing their details and expressing their interests.
 
 </thinking>

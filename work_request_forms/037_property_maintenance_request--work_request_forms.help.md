@@ -1,7 +1,3 @@
-<thinking>
-This form is used by property owners, managers, and other stakeholders to submit and manage property maintenance requests. To ensure the form is completed correctly, please check that all required fields are filled in before submitting. It's also a good idea to review the form before submitting to ensure that the information entered is accurate and complete.
-</thinking>
-
 # Property Maintenance Request - Help Guide
 ## Purpose
 The Property Maintenance Request form is used to submit and manage property maintenance requests. It's essential to fill in all required fields accurately to ensure that the request is processed correctly.

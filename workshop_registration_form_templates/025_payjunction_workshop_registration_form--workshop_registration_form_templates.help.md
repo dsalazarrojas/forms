@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is not duplicated in our documentation. This form is used for workshop registration, a crucial step in the payment processing workflow. It allows participants to provide their information, select options, and submit their registration. The form includes fields for name, email, phone, select options, and other relevant details. We'll cover how to complete the form and explain each field in this help guide.
-</thinking>
-
 # PayJunction Workshop Registration Form - Help Guide
 
 ## Purpose

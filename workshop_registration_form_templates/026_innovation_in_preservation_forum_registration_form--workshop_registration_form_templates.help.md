@@ -1,8 +1,3 @@
-<thinking>
-  The form is designed for users to register their general details and contact information for the Innovation in Preservation forum. The purpose of the form is to gather necessary information for communication and interaction within the forum. Please ensure that you have all the necessary information before proceeding and review the form carefully to avoid duplication of registration.
-
-</thinking>
-
 # innovation_in_preservation_forum_registration_form - Help Guide
 ## Purpose
 The innovation_in_preservation_forum_registration_form is used to register your details for the Innovation in Preservation forum.

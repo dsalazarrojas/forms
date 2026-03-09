@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect user information for the Health Equity Symposium, a conference or event focused on promoting health equity and addressing various barriers to health equity. The form is intended to capture user details, session interests, accessibility needs, and other relevant information to ensure a smooth and inclusive experience for all attendees. To avoid confusion, the form is divided into sections, and each field should be filled out according to the provided explanations.</thinking>
-
 # Health Equity Symposium Registration - Help Guide
 ## Purpose
 The Health Equity Symposium Registration form is designed to collect essential information from attendees to create a positive and inclusive experience at the event.

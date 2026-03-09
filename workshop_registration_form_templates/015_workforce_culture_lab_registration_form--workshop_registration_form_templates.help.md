@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Workforce Culture Lab Registration Form, let's break down the form's purpose, the step-by-step process for completing it, and an explanation of each field.
-
-The form is intended to capture information for workshop registrations, including participant details, workshop specifics, and registration information. This form is not meant to be a comprehensive or complex data capture exercise, but rather a straightforward way to collect necessary data for organizing and running workshops.
-
-The form's purpose is likely to support the planning and execution of workshops within the Workforce Culture Lab. By understanding the form's structure and each field's meaning, users can quickly and efficiently complete the form.
-
-Before proceeding, please ensure that you are registering for a valid workshop type, as this information will be used to track and manage workshop activities.
-
-</thinking>
-
 # Workforce Culture Lab Registration Form - Help Guide
 ## Purpose
 This form captures essential details for workshop registrations, supporting the planning and execution of workshops within the Workforce Culture Lab.

@@ -1,9 +1,3 @@
-<thinking>
-
-Before creating the user-facing help guide, I'd like to clarify the form's purpose and relevance. The form is likely used to collect information for vehicle inspections, which could be used for maintenance, servicing, or other purposes. This form might be part of a larger system or workflow for tracking vehicle inspections, and the goal is likely to ensure accuracy and consistency in data collection. Let's assume that this form is part of a digital platform or application for managing vehicle inspections.
-
-</thinking>
-
 # Vehicle Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information for vehicle inspections, which is used to track and document vehicle condition, maintenance, and servicing activities.

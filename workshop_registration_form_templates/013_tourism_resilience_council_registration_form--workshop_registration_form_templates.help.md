@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants in the Tourism Resilience Council, allowing them to register for workshops, share their contact details, and provide any additional information. This form is used to streamline the registration process, ensuring that all necessary data is collected for future reference and communication. It's essential to fill out this form accurately and completely, as it will help us better understand your needs and provide a more personalized experience.
-
-Before proceeding, please ensure you haven't completed this form before, as duplicate registrations are not accepted. Also, be honest and accurate with your responses, as this information will be used to tailor the workshops to your preferences and needs.
-
-If you're unsure about any field or have any questions, don't hesitate to reach out to us.
-
-</thinking>
-
 # Tourism Resilience Council Registration Form - Help Guide
 ## Purpose
 The Tourism Resilience Council Registration Form is designed to collect information from participants to provide a more personalized experience during the workshops.
