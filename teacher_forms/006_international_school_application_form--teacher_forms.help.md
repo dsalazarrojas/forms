@@ -1,10 +1,3 @@
-<thinking> 
-The form "international_school_application_form" is designed for students to apply to international schools. This form aims to collect essential information from students and their guardians to facilitate the application process. The form is divided into several sections, each focusing on a specific aspect of the applicant's profile. 
-
-Before proceeding, it is crucial to ensure that the form is filled out accurately and thoroughly. Please review the form carefully to avoid duplication or incomplete information. 
-
-</thinking>
-
 # international_school_application_form - Help Guide
 ## Purpose
 This form is designed to collect information from students applying to international schools.

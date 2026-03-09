@@ -1,7 +1,3 @@
-<thinking>
-This form is used by employees to submit tax-related information to the accounting department. The submission date, type, and status fields are used to track the progress of tax submissions. The document count field is used to track the number of documents attached to the submission. The tax year field is used to specify the tax year being reported. The tax type field is used to specify the type of tax being reported. The submission notes field is used to provide additional information or context for the submission. All fields are optional and can be completed at the user's discretion.
-</thinking>
-
 # Dropbox Tax Submission Form - Help Guide
 ## Purpose
 The Dropbox Tax Submission Form is used to submit tax-related information to the accounting department. This form is used to track the progress of tax submissions and provide additional context for the submissions.

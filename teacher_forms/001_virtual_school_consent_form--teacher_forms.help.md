@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their virtual school attendance and consent. This form should be used by parents or guardians to provide details about their child's virtual school experience, including user and student information. Before proceeding, ensure that you are using this form for its intended purpose and that you have not already created a similar form within our platform.
-</thinking>
-
 # virtual_school_consent_form - Help Guide
 ## Purpose
 This form is designed to collect essential information from parents or guardians about their child's virtual school attendance and provide consent for their participation in the virtual school program. It is crucial to provide accurate and up-to-date information to ensure a smooth and successful virtual school experience for the child.

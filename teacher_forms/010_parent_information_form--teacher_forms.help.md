@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect parent information for a student. The form likely serves as a template for a teacher or school administrator to gather essential details about a student's parent, such as their contact information, student's grade and grade level, school and room number, and notes. The information collected will likely be stored and used internally for record-keeping purposes. 
-
-The form does not appear to be designed for a specific student, so it might be a template for new students or an update for existing ones. The form's fields suggest that it's intended for a teacher or school staff to input information about multiple students. 
-
-The purpose might also include creating a centralized repository of student parent information for future reference, such as for communication or emergency contact purposes. 
-
-The form does not appear to have any conditional logic or dynamic fields that would suggest it's part of a larger workflow or process. It's primarily a data collection tool.
-
-It's worth noting that the form fields suggest a basic level of personal and student information that could be used for various purposes, such as contacting parents, sending reminders, or sharing important updates with them.
-</thinking>
-
 # parent_information_form - Help Guide
 ## Purpose
 The purpose of this form is to collect parent information for a student.

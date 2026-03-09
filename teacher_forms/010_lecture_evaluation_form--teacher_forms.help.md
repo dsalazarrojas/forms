@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lecture Evaluation Form - Help Guide
 
 ## Purpose

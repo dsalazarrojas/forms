@@ -1,7 +1,3 @@
-<thinking>
-The Teacher Observation Form is used by administrators and observers to collect data on teacher performance and practice in the classroom. This form is meant to gather feedback and insights from observers on a teacher's instructional strategies, classroom management, and overall teaching quality. By filling out this form, observers can provide specific examples of what they have observed, allowing teachers to receive constructive feedback and identify areas for growth and development. This form can be completed by any observer who has witnessed a teacher's instruction, including administrators, peers, or mentors. The data collected from this form can be used to inform teacher support, professional development, and evaluation. Please ensure that the form is completed accurately and thoroughly, and that the information provided is specific to the teacher being observed and the specific lesson or class period being observed.
-</thinking>
-
 # Teacher Observation Form - Help Guide
 ## Purpose
 The Teacher Observation Form is used by administrators and observers to collect data on teacher performance and practice in the classroom.

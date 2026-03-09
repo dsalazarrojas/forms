@@ -1,12 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the Teacher Metacognition Survey form, I will first analyze the form's purpose and requirements. The form is designed to gather information about teachers' metacognition practices, which is a crucial aspect of teaching effectiveness and student learning outcomes. Metacognition refers to the ability to think about one's own thinking and learning processes. This survey aims to understand how teachers engage in metacognitive practices, their frequency, and the impact on their students. 
-
-The form will help teachers reflect on their current metacognitive practices, identify areas for improvement, and provide suggestions for future development. It will also help educators understand how often they engage in metacognitive practices, such as planning, questioning, and self-reflection. This information will aid in developing targeted professional development programs and improving teaching quality.
-
-To ensure that the form is relevant and not duplicative, I will focus on explaining each field in a clear and concise manner, highlighting the importance of each question and its relevance to metacognition practices.
-
-</thinking>
-
 # Teacher Metacognition Survey - Help Guide
 ## Purpose
 The Teacher Metacognition Survey is designed to help teachers reflect on their current metacognitive practices, identify areas for improvement, and understand how often they engage in metacognitive practices that impact student learning outcomes. This survey aims to aid in developing targeted professional development programs and improving teaching quality.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from students who are interested in applying to a virtual school. The form is designed to collect essential details about the student, their contact information, educational background, program of interest, and other relevant aspects of their application. To complete this form, students should provide accurate and truthful information, as it will be reviewed and evaluated by the admissions team. Please ensure that you have read and agreed to the terms and conditions before submitting your application. If you are unsure about any part of the form, please do not hesitate to contact the virtual school administration for guidance. Note that this form will not be used for any other purpose other than the processing of your virtual school application.
-
-Before starting the form, please ensure that you are not duplicating an existing application. You can check the virtual school's website or contact the administration to confirm your application status.
-</thinking>
-
 # Virtual School Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from students who are interested in applying to a virtual school. The form is divided into different sections, each with specific fields that require completion. Please read through the form carefully to ensure you provide accurate and truthful information.

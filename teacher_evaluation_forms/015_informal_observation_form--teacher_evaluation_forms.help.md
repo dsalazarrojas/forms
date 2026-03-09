@@ -1,7 +1,3 @@
-<thinking>
-The informal observation form is designed to evaluate teachers' performance based on specific criteria. The form aims to gather feedback from observers on various aspects of a teacher's practice, including their teaching skills, subject matter knowledge, communication skills, classroom management, and overall impact. Observers will assess these qualities and provide a rating to indicate their level of satisfaction.
-</thinking>
-
 # informal_observation_form - Help Guide
 ## Purpose
 The "informal observation form" is a tool used for teachers' performance evaluation. The form collects feedback from observers on various aspects of a teacher's practice to assess their teaching skills, subject matter knowledge, and overall impact.

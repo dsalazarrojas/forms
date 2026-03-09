@@ -1,8 +1,3 @@
-<thinking> 
-This form is used for teachers to create or edit a competition entry in the school competition management system. The form is designed to collect information about a school competition, including its schedule, registration details, and status. The form can be used to add new competitions or modify existing ones. To ensure accurate and efficient data entry, it's essential to follow the instructions in this help guide carefully.
-
-</thinking>
-
 # School Competition Entry Form - Help Guide
 
 ## Purpose

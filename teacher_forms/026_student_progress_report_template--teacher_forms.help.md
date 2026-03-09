@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to help teachers track the progress of their students in a subject. The purpose of the form is to collect information about a student's current grade level, progress, and any comments or concerns the teacher may have. This form is intended for use by teachers to monitor student performance and identify areas where students may need extra support.
-
-</thinking>
-
 # Student Progress Report Template - Help Guide
 ## Purpose
 This template is designed to be used by teachers to track student progress in a subject.

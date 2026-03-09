@@ -1,8 +1,3 @@
-<thinking>
-The Student Council Nomination Form is used to gather information from students who are interested in running for a position in the Student Council. This form helps to ensure that all relevant information is collected for the nomination process, making it easier to review and select the best candidates. It's crucial to fill out the form accurately to avoid duplication of nominations and to provide a complete picture of a student's qualifications. Please make sure to fill out all the required fields and be honest in your self-nomination. The nomination process is an internal process and will not be publicly visible to the general student body.
-
-</thinking>
-
 # Student Council Nomination Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from students who are interested in running for a position in the Student Council.

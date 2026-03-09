@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Faculty Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help students evaluate their faculty members, providing a structured means to assess the quality of instruction, department support, and overall performance of faculty members.

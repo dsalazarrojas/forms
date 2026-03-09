@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect and track student behavior data. This form is designed to monitor students' general behavior and specific hours spent on various activities. It is likely used in educational settings to gather insights on students' habits, interests, and progress. This guide will walk you through the steps to complete the form effectively.
-</thinking>
-
 # Student Behavior Tracking Form - Help Guide
 ## Purpose
 The Student Behavior Tracking Form is a tool used to collect and track student behavior data in educational settings. This form helps monitor students' general behavior and specific hours spent on various activities, providing valuable insights for educators to make informed decisions.

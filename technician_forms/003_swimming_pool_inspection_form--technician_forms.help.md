@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to help pool inspectors gather information for pool inspections. The purpose of this form is to capture data on pool locations, types, and conditions for maintenance and safety purposes. It's intended for both pool inspectors and management to track and analyze inspection data. Note that this form does not include all possible fields related to pool inspections, such as specific defect descriptions or repair schedules. This form should not be used in isolation; it's part of a larger pool inspection process.</thinking>
-
 # swimming_pool_inspection_form - Help Guide
 ## Purpose
 The swimming_pool_inspection_form is designed to gather information for pool inspections, including pool location, type, and condition, for maintenance and safety purposes.

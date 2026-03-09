@@ -1,12 +1,3 @@
-<thinking>
-To provide a user-friendly guide for end users, especially for teachers to register their extracurricular activities, I must first consider the form's purpose and how it can be completed in a way that is clear and concise. 
-
-This form is designed to help teachers register their extracurricular activities with relevant details. The form will ask for information that is essential for the administration to process the activity registration. 
-
-Before proceeding, ensure that you are registering for a valid activity. 
-
-</thinking>
-
 # extracurricular_class_registration_form - Help Guide
 ## Purpose
 The extracurricular class registration form is designed to help teachers register their extracurricular activities with essential details to facilitate processing by the administration.

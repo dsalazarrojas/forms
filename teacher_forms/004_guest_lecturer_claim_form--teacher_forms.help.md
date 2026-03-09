@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to allow guest lecturers to claim their expenses or compensation related to their visit to an institution. The form should only be filled out if you are a guest lecturer who has visited an institution and would like to receive compensation or reimbursement for your expenses. The purpose of this form is to provide the necessary information for processing your claim. Please only fill out this form if you are a guest lecturer who meets the form's requirements. If you are unsure, please refer to your visit agreement or contact the institution's accounting department for clarification.
-</thinking>
-
 # Guest Lecturer Claim Form - Help Guide
 ## Purpose
 The Guest Lecturer Claim Form is a document used to submit claims for compensation or expenses related to your visit to an institution. This form is for guest lecturers who have visited an institution and wish to receive reimbursement for their expenses.

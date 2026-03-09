@@ -1,7 +1,3 @@
-<thinking>... This form is used by prospective parents who are interested in enrolling their child in a preschool program. The form collects basic contact information and relevant demographic data to help the preschool identify the child's eligibility and prepare for the application process. Please ensure you are filling out this form for the first time and that you have not submitted an application before. The form is only for new students and should not be used for updates or changes to existing applications. 
-
-</thinking>
-
 # Preschool Initial Application Form - Help Guide
 ## Purpose
 The Preschool Initial Application Form is a form for prospective parents to provide basic contact information and demographic data to help the preschool identify the child's eligibility and prepare for the application process.

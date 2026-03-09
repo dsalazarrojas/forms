@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be a communication tool for parents and teachers to exchange messages, share information, and potentially attach documents. The fields suggest that it is used for scheduling meetings, setting up events, or other types of communication that require coordination between parents and teachers. The form includes fields for personal details (parent and teacher names, emails, and phone numbers), scheduling (date, time, and start/end times), and attachments. It also includes various select fields for options and preferences. This form may be used for both sending and receiving messages between parents and teachers.
-
-</thinking>
-
 # Parent Communication Form - Help Guide
 ## Purpose
 This form is designed for parents and teachers to communicate with each other. It allows for sharing personal details, scheduling, and attachments.

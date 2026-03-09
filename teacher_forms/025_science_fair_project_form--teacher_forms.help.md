@@ -1,7 +1,3 @@
-<thinking>
-This form is a template for a science fair project submission, designed for students or researchers to document and showcase their scientific investigation projects. The form asks for basic project information such as the project's category, title, and description, as well as its objectives, procedures, and results. It also requires a conclusion and references. Some fields are optional.
-</thinking>
-
 # science_fair_project_form - Help Guide
 ## Purpose
 This form is designed to collect information about a science fair project, including its category, title, description, objectives, procedures, results, conclusion, and references. It is meant to be completed by students or researchers who want to showcase their scientific investigation projects.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for teachers and observers/administrators who need to complete the Classroom Walkthrough Template form to document observations of a teacher's classroom and instruction. The template is used to gather information on the teacher's teaching practices, classroom environment, and student engagement. It is essential to ensure that the form is completed thoroughly and accurately, as the feedback and observations captured will be used to support teacher growth and development.
-</thinking>
-
 # Classroom Walkthrough Template - Help Guide
 ## Purpose
 The Classroom Walkthrough Template is a tool designed to help observers/administrators document and provide feedback on a teacher's instruction and classroom environment. This guide will walk you through each section of the form, explaining the purpose and how to complete each field.

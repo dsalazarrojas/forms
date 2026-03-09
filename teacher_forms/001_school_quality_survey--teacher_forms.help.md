@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to be used by end-users to understand and complete a school quality survey form. The purpose of this form is to gather feedback from students regarding their overall experience with their school. The form will be used to gather opinions on various aspects of the school, such as overall quality, teacher support, facilities and equipment, communication, and school safety.
-
-To ensure that the form is completed accurately and thoroughly, it's recommended that users review the form carefully and answer all the questions to the best of their ability. It's also essential to note that answers should be honest and sincere, as they will be used to improve the school's services and make informed decisions.
-
-Before beginning, make sure that the form is completed on the correct environment and that all questions are understood clearly.
-
-</thinking>
-
 # School Quality Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from students about their overall experience at their school. Your input will help us understand what we're doing well and where we can improve.

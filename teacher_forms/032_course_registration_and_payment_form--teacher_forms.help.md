@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Course Registration And Payment Form - Help Guide
 ## Purpose
 The Course Registration And Payment Form is used to collect information from individuals registering for a course, including their name, contact information, payment method, and payment amount. This form is an essential part of the course registration process, allowing course administrators to track attendance and manage course finances.

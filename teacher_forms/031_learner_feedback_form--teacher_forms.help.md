@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from learners about their experiences with a course. The form is used to gather information on the course's relevance, effectiveness, and overall impact. It is meant to be completed by learners who have taken or are taking the course.
-</thinking>
-
 # learner_feedback_form - Help Guide
 ## Purpose
 The learner_feedback_form is a tool used to gather feedback from learners about their experiences with a course. It helps instructors and course creators understand the course's strengths and weaknesses, allowing them to make improvements and provide better learning experiences.

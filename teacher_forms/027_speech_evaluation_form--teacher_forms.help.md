@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for teachers to evaluate the communication skills of their students in a speech evaluation context. It's likely used in an educational setting to assess students' ability to communicate effectively with their peers and instructors. Given the provided YAML, this form is a straightforward and structured assessment tool. There is no apparent duplication or overlap of questions, and the form should serve its purpose well for gathering the required information. The form's simplicity and clarity of purpose suggest that it was designed with ease of use in mind.
-
-</thinking>
-
 # Speech Evaluation Form - Help Guide
 ## Purpose
 The Speech Evaluation Form is a tool used by teachers to assess their students' communication skills in a speech evaluation context.

@@ -1,13 +1,3 @@
-<thinking>
-
-The "Teacher Observation Form" is used to assess a teacher's performance during an observation. It's essential to complete this form accurately to provide a fair and comprehensive evaluation. Please ensure that you're filling out this form only when observing a teacher in their regular classroom setting and that you've reviewed our school's observation protocol.
-
-Before you start, make sure you have all the necessary information and that you've observed the teacher in a similar context to what they would normally teach. This will help ensure that your observations are relevant and unbiased.
-
-Also, take note that some fields are optional, but providing as much detail as possible will help in creating a comprehensive evaluation.
-
-</thinking>
-
 # Teacher Observation Form - Help Guide
 ## Purpose
 This form is designed to provide a comprehensive assessment of a teacher's performance during an observation. It's essential to complete it accurately to ensure a fair evaluation.

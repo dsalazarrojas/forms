@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback and suggestions from students about their learning experience in a particular class or school. It is intended to gather information about the teacher's performance, class environment, and overall satisfaction with the school. This form will help teachers evaluate their teaching methods and make necessary adjustments to improve student satisfaction and learning outcomes.
-
-Before filling out this form, please ensure that you have not already provided feedback for this class/school. Duplicate feedback may not be submitted.
-
-</thinking>
-
 # Student Questionnaire - Help Guide
 ## Purpose
 The Student Questionnaire is designed to collect feedback and suggestions from students about their learning experience. This form helps teachers evaluate their teaching methods and make necessary adjustments to improve student satisfaction and learning outcomes.

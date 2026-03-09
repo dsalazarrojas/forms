@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # learning_facilitator_feedback_form - Help Guide
 ## Purpose
 The "learning_facilitator_feedback_form" is a form designed to collect feedback from learning facilitators about their experience with teachers in a specific department. This form is used to gather information on the effectiveness of the teacher's teaching style, the quality of the lesson, and the overall satisfaction with the department's management of the learning experience.

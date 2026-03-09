@@ -1,7 +1,3 @@
-<thinking>
-The goal of the Parent Self Efficacy Survey is to gauge a parent's self-efficacy in various aspects of parenting. This survey aims to measure a parent's belief in their ability to handle everyday situations, respond to their child's needs, and make decisions about their child's education. It is essential to understand that self-efficacy is a crucial factor in a parent's ability to provide optimal care and support for their child. This survey will help in understanding the parent's self-efficacy in specific situations, such as what happens in school, what parents believe, how often they feel certain emotions, and how often they experience specific feelings. This is a crucial step in identifying potential areas where parents may need support or resources to strengthen their self-efficacy.
-</thinking>
-
 # Parent Self Efficacy Survey - Help Guide
 
 ## Purpose

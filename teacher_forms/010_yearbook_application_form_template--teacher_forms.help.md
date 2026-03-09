@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, let's analyze its title and field names. The "Yearbook application form template" suggests that it might be related to student evaluations or assessments. The field names, such as "student_details", "student_info", and "student_evaluations", further support this assumption. This form is likely used to gather information about students from teachers or instructors.
-
-To confirm, let's check for potential duplicates or similar forms within the same category. Since this form is an original adaptation and not a copy or derivative of any other form, it's likely to be a unique form. However, it's worth noting that similar forms might exist within the "teacher_forms" category, but without further information, it's difficult to say for certain.
-
-For this reason, I'll provide guidance on how to complete the form based on my best understanding of the field names and purpose.
-
-</thinking>
-
 # Yearbook Application Form Template - Help Guide
 ## Purpose
 The Yearbook application form template is designed to collect information about students from teachers or instructors. It's likely used for student evaluations or assessments.

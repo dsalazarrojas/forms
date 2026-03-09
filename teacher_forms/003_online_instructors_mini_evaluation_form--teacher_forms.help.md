@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help instructors receive feedback on their teaching performance. The purpose of this form is to gather information about the instructor's communication style, organization, and course content. The form is divided into five sections, each covering a different aspect of the instructor's performance. Please fill out this form to provide constructive feedback to the instructor.
-</thinking>
-
 # Online Instructors Mini Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help instructors improve their teaching skills by providing them with feedback on their communication style, organization, and course content. The feedback will help them to better understand what works and what needs improvement.

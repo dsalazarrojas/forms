@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students and teachers for the Virtual Summer School Registration process. The form is designed to gather essential details such as student and teacher contact information, enrollment status, and other relevant details for the summer school program.
-
-To avoid duplication of efforts, please note that this form should not be completed by both students and teachers simultaneously. It is essential to fill out the form carefully, ensuring that all required fields are completed accurately.
-
-This form is typically filled out by students and teachers who have already expressed interest in participating in the Virtual Summer School program.
-
-</thinking>
-
 # Virtual Summer School Registration Form - Help Guide
 ## Purpose
 The Virtual Summer School Registration Form is designed to collect essential information from students and teachers for the summer school program.

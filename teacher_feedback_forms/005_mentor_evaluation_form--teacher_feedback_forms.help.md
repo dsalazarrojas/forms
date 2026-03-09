@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for evaluating a mentor, which is typically a teacher or educator, to gather feedback on their performance and areas for improvement. The form is used to capture the evaluation's title, mentor's name, the date of the evaluation, a rating and feedback from the evaluator, any challenges encountered, and specific areas for improvement. To ensure the form is filled out correctly, we'll provide a step-by-step guide to help end-users understand what each field is used for and what type of input is expected.
-</thinking>
-
 # Mentor Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on a teacher or educator's performance as a mentor.

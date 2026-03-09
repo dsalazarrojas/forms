@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from parents on their experience with a school or educational institution. It's meant to be completed by parents to provide their input and suggestions for improvement. To ensure that the form is filled out correctly, please make sure to review the following steps and guidelines.
-</thinking>
-
 # parent_feedback_form - Help Guide
 ## Purpose
 The parent_feedback_form is designed to collect feedback from parents about their experience with a school or educational institution. This form helps the institution understand their students' and parents' needs and make informed decisions to improve the learning environment.

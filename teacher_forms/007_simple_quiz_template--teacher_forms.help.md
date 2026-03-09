@@ -1,5 +1,3 @@
-<thinking>What if I'm creating a help guide for a simple quiz template form, which is used for assessing user performance or knowledge. This form will be used by various stakeholders, so it's essential to clarify the purpose and usage of the form to prevent duplication and ensure accurate results. The form is called "Simple Quiz Template" and its primary function is to collect user responses to a series of questions, which will be used to calculate a score based on the answers provided. To use this form correctly, users should fill in the required fields as accurately as possible, and the form will automatically tally up the scores.</thinking>
-
 # Simple Quiz Template - Help Guide
 ## Purpose
 This form is designed to assess your knowledge or performance by asking a series of questions. Please fill in the required fields as accurately as possible to get a correct score.

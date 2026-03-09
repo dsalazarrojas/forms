@@ -1,7 +1,3 @@
-<thinking>
-This form is used by technicians to request equipment repairs. Before completing this form, please ensure that you have permission to request repairs and that the issue has not already been reported. If you have previously submitted a request for the same equipment, you can review and update your previous request instead of submitting a new one.
-</thinking>
-
 # Equipment Repair Request Form - Help Guide
 ## Purpose
 The Equipment Repair Request Form is used by technicians to report equipment malfunctions, damage, or other issues that require attention.

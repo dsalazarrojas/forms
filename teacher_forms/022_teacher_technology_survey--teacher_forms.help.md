@@ -1,9 +1,3 @@
-<thinking> 
-The form purpose is to help teachers evaluate their technology needs and preferences for teaching. The form will be used to identify which tools and equipment are required to support teaching activities, and to gather information about the technology used in the classroom. This information will help in making informed decisions about providing the necessary support and resources to teachers.
-This form should only be filled out by teachers who are using the technology in their classroom, and should not be used to request resources for non-educational purposes. 
-The form will be used to support the development of technology-related initiatives and projects, and will be used to gather data on the types of technology being used, the costs associated with it, and other relevant details.
-</thinking>
-
 # teacher_technology_survey - Help Guide
 ## Purpose
 The purpose of this form is to help teachers evaluate their technology needs and preferences for teaching, providing information that will support the development of technology-related initiatives and projects.

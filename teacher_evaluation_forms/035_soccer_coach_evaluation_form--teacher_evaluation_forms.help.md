@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed to evaluate a soccer coach's performance, likely used by team administrators or parents to provide feedback on a coach's abilities and areas for improvement. This form is likely used to assess the coach's communication skills, leadership skills, and overall performance. The form might be used to help the coach develop and grow in their role. It appears that the form is not strictly necessary for the coach to complete, as several fields are marked as optional. The form also asks for additional comments and an email address, suggesting that the coach's contact information is important for follow-up or communication.
-</thinking>
-
 # Soccer Coach Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback on a soccer coach's performance, helping to identify areas of strength and weakness. The form is intended to be used by team administrators or parents to provide constructive feedback.

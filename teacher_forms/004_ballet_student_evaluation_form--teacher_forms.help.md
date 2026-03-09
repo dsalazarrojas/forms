@@ -1,5 +1,3 @@
-<thinking>**Form Purpose:** The Ballet Student Evaluation Form is a comprehensive assessment tool used by dance instructors to evaluate the technical and artistic progress of ballet students. This form provides an objective and standardized way to measure student development and provide actionable feedback for improvement. **Context:** It is intended for use during specific terms or semesters to evaluate student performance, providing a benchmark for their growth and readiness for level advancement. This form ensures consistency in evaluations across different instructors and classes, facilitating data-driven decision-making and student support.</thinking>
-
 # Ballet Student Evaluation Form - Help Guide
 ## Purpose
 The Ballet Student Evaluation Form is a comprehensive assessment tool used to evaluate the technical and artistic progress of ballet students. It provides instructors with an objective and standardized way to measure student development and provide actionable feedback for improvement.

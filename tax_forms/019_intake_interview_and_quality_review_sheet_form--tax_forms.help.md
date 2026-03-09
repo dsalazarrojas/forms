@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Intake Interview And Quality Review Sheet Form - Help Guide
 
 ## Purpose

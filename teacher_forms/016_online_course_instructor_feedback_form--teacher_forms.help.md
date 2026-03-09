@@ -1,7 +1,3 @@
-<thinking>
-We are creating this form to gather feedback from instructors about their online courses. This form is designed to be completed by instructors themselves, providing a quick and easy way to collect their thoughts on the course they are teaching. By filling out this form, instructors can give us valuable insights into the course's strengths and weaknesses, allowing us to make improvements for future iterations.
-</thinking>
-
 # online-course-instructor-feedback-form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather data from observers on the teaching practices and effectiveness of a classroom environment. This information will help identify areas of strength and opportunities for improvement for teachers. To ensure the integrity of the data, please note that each field is carefully designed to elicit specific feedback. Observers should answer based on their own observations and not rely on secondary information.
-
-Please check that you are using this form to gather data from a specific classroom observation and not for any other purpose. Also, make sure to complete all required fields for accurate and thorough analysis.
-
-</thinking>
-
 # Classroom Observation Form - Help Guide
 ## Purpose
 The purpose of this form is to help observers gather data from a specific classroom observation.

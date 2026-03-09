@@ -1,7 +1,3 @@
-<thinking>
-This is a form designed to collect feedback from students who are taking a distance learning class. The form is intended to gather information about the student's experience with the class, including their thoughts on the class material, instructor, and overall quality of the class. This form will help the instructor to evaluate the effectiveness of the class and make improvements for future students. 
-</thinking>
-
 # Distance Learning Feedback Form For Students - Help Guide
 
 ## Purpose

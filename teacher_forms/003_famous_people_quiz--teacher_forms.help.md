@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # famous_people_quiz - Help Guide
 ## Purpose
 The "famous_people_quiz" form is designed to collect information about historical figures. It is used to gather data on their birth dates, occupations, and notable periods of time in history.

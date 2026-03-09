@@ -1,7 +1,3 @@
-<thinking>
-The "First Aid Kit Inspection Form" is a crucial document used to assess the contents and condition of first aid kits in various facilities. This form ensures that first aid kits are properly stocked, maintained, and inspected regularly. It's essential for maintaining a safe and healthy environment, especially in facilities where emergencies might arise.
-</thinking>
-
 # First Aid Kit Inspection Form - Help Guide
 ## Purpose
 The purpose of this form is to inspect and record the contents and condition of first aid kits in facilities. It's a critical document used to maintain accurate records and ensure compliance with health and safety regulations.

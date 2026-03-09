@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "New Hardware Request" form. This form is used to request new hardware for technicians to use in their daily work. To ensure that the form is completed correctly, we should clarify the purpose, the steps to complete it, and what each field means.
-
-</thinking>
-
 # New Hardware Request - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-
-To ensure that the Course Audit Request Form is used correctly and efficiently, we need to make sure that users understand its purpose and how to complete it. The form is intended to collect information for course audits, which are evaluations of student progress and performance in a course. 
-
-The form will likely be used by students to request an audit for a course they have completed or are currently taking. To avoid duplication, it's essential to ensure that each request is unique and that students do not submit duplicate requests for the same course or reason.
-
-</thinking>
-
 # Course Audit Request Form - Help Guide
 ## Purpose
 The Course Audit Request Form is used by students to request an audit for a course they have completed or are currently taking. This form helps instructors and administrators evaluate a student's progress and performance in the course.

@@ -1,5 +1,3 @@
-<thinking>As a designer of user-facing forms, I need to consider the purpose of the "Student Media Release Form" and ensure that I create a clear and concise guide to help end-users understand its intent and usage. Based on the YAML schema, it appears that this form is designed to collect student information and consent for media releases, including photo, video, and audio permissions. The form likely serves as a means to obtain parental or guardian consent for students to participate in media activities, such as taking photos or recording videos, and to gather contact information and other relevant details. To avoid duplication, I will aim to explain each field clearly and concisely, focusing on the essential information required for the form's purpose.</thinking>
-
 # Student Media Release Form - Help Guide
 ## Purpose
 The Student Media Release Form is a document that collects student information and consent for media releases, including photo, video, and audio permissions. It helps schools or organizations obtain parental or guardian consent for students to participate in media activities.

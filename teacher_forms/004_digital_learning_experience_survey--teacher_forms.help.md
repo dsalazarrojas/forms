@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect feedback and experiences of the users about their digital learning experience. This form will help us better understand what you expect from a digital learning experience and how we can improve it for future users.
-Please fill out this form carefully and truthfully, as it is a crucial source of information for us. This form should not be filled out if you're already a frequent user of our digital learning system. We want to gather feedback from users who are new or have not had much interaction with our digital learning platform.
-</thinking>
-
 # Digital Learning Experience Survey - Help Guide
 ## Purpose
 This survey is designed to collect your feedback and experiences about our digital learning platform. Your input will help us understand what you expect from a digital learning experience and how we can improve it for future users.

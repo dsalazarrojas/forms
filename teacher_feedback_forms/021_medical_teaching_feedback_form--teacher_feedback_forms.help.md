@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for providing feedback on medical teaching. The purpose of this form is to gather information on what was given to students during a medical teaching session and what was received from them. This form is used by teachers to assess their own teaching and identify areas for improvement.
-
-To avoid duplication of effort and ensure that teachers are able to provide accurate and helpful feedback, we recommend using this form for every medical teaching session. This form should be completed by the teacher after each session, and the feedback given and received should be as specific and detailed as possible.
-
-Please note that some fields are optional, so you only need to fill in the information that is relevant to you.
-
-</thinking>
-
 # medical_teaching_feedback_form - Help Guide
 ## Purpose
 This form is used for providing feedback on medical teaching sessions.

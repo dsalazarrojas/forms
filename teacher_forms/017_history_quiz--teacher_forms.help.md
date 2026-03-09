@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to assess a student's knowledge of historical events and figures. The form consists of multiple pages, each with various fields that the student must complete to demonstrate their understanding of historical time periods, figures, and events.
-
-The form is designed to be completed by students, but it may also be used by educators or administrators to evaluate or review historical knowledge.
-
-Before filling out this form, please ensure that you have not previously completed it, as this will ensure that your answers are not duplicated and that your historical knowledge is accurately assessed.
-
-</thinking>
-
 # History Quiz - Help Guide
 ## Purpose
 The History Quiz form is designed to evaluate a student's knowledge of historical events and figures.

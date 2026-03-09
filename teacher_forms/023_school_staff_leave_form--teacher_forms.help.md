@@ -1,9 +1,3 @@
-<thinking>
-
-This form seems to be related to tracking staff leave requests, where staff members can report their leave details, such as leave dates, times, reasons, and frequency. This form likely aims to gather relevant information for HR or HR-related tasks. Before completing this form, please verify that you have a legitimate reason for taking leave. If you have already submitted a leave request, avoid duplicating your request.
-
-</thinking>
-
 # School Staff Leave Form - Help Guide
 ## Purpose
 The School Staff Leave Form is designed to help staff members report their leave details, including leave dates, reasons, and frequency. This form will help the management or HR team to track and process leave requests efficiently.

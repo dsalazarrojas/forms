@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sunday School Attendance Form - Help Guide
 ## Purpose
 This form is used to collect attendance information from students in a Sunday school setting. It is intended for teachers to record and track the attendance of their students, including the number of students attending each service, the date, and any comments they may have.

@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Hot Work Permit Form Template, which is used to request a hot work permit for a job. Hot work involves electrical or other types of work that can ignite flammable materials or create a fire hazard. This form is used to ensure that necessary safety precautions are taken before commencing work that involves hot work.
-To complete this form, users must fill out the required information, which includes the job number, work area, job description, permit date, permit time, work hours, job type, supervisor name, supervisor phone number, and supervisor email address. The form is divided into multiple pages, allowing users to easily navigate and fill out the information for each job.
-</thinking>
-
 # Hot Work Permit Form Template - Help Guide
 
 ## Purpose

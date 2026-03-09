@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback and evaluation information from teachers regarding their GTA (Graduate Teaching Assistant) experiences. This form is used to gather data on the GTA's performance, feedback, and rehire decision. It is essential to complete this form accurately to ensure that the evaluation is thorough and fair. Please note that the form fields are specifically designed to collect information on the GTA's name, feedback, performance, GTA ID, rehire decision, evaluation date, and work hours. This form was created using AI-generated form design, ensuring that it is original and not affiliated with any form creation platform.
-</thinking>
-
 # eecs gta evaluation - Help Guide
 ## Purpose
 This form is used to collect feedback and evaluation information from teachers about their Graduate Teaching Assistant (GTA) experiences.

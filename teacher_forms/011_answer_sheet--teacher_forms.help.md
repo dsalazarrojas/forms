@@ -1,5 +1,3 @@
-<thinking>...To confirm relevance and non-duplication, this form is intended for teachers to create an answer sheet for their students, which is a document that outlines the answers to a set of questions, typically used for assessments and evaluations. This form is not for other purposes, such as student registration or course enrollment. This helps ensure that the form is completed correctly and efficiently...</thinking>
-
 # Answer Sheet - Help Guide
 ## Purpose
 The Answer Sheet form is designed to help teachers create a document with answers to a set of questions for their students. It is a tool for assessments and evaluations.

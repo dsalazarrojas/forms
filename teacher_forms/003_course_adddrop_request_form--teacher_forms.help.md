@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to allow students to request to add or drop courses in their program. The form will be used by students to provide the necessary information to the administration team to process their course add/drop requests. To ensure that the form is completed correctly and efficiently, the following checks will be performed:
-* The form will only be displayed to students who are currently enrolled in a program.
-* The form will only be displayed to students who have not already submitted a course add/drop request for the current academic term.
-* The form will only be displayed to students who are not currently on a hold status.
-</thinking>
-
 # Course AddDrop Request Form - Help Guide
 ## Purpose
 This form is designed to be used by students to request to add or drop courses in their program. To submit a request, fill out the form with accurate and up-to-date information.

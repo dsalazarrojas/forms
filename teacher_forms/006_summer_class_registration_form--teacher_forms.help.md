@@ -1,10 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the Summer Class Registration Form, we first need to understand the purpose of the form and how it will be used. This form is intended for registering students in a summer class, and it likely needs to be filled out by students or their parents/guardians. The form should be completed with the student's basic information, class details, and some additional settings.
-
-Before proceeding, it is essential to check if the form has been filled out before, to prevent duplicate submissions and ensure that the user understands the purpose of the form.
-
-</thinking>
-
 # Summer Class Registration Form - Help Guide
 ## Purpose
 The Summer Class Registration Form is designed to register students in a summer class. This form collects the student's basic information, class details, and additional settings to ensure a smooth registration process.

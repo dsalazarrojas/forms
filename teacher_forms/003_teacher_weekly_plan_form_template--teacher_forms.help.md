@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "Teacher Weekly Plan Form Template," is to gather information about a teacher's weekly planning activities, allowing them to document their teaching plans and class details efficiently. This form is not affiliated with, endorsed by, or derived from any form platform, and its creation was based on public survey topic metadata from the education category. 
-</thinking>
-
 # Teacher Weekly Plan Form Template - Help Guide
 
 ## Purpose

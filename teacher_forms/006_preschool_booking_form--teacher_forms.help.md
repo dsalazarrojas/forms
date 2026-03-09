@@ -1,11 +1,3 @@
-<thinking>
-This guide will help users understand the purpose and usage of the Preschool Booking Form. 
-
-The Preschool Booking Form is used to collect information from parents or guardians for their child's preschool booking. This form helps in gathering essential details such as parent and child contact information, child's date of birth, and booking schedule preferences.
-
-Please ensure that you have all the necessary information before filling out this form. This form should only be filled out once per booking.
-</thinking>
-
 # Preschool Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information from parents or guardians for their child's preschool booking. 

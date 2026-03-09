@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be a straightforward order form for an elementary school to purchase books. It likely contains fields to collect information about the school and its staff, including the school name, teacher name, grade level, number of students, contact information, and order date. The form may be used by school administrators or teachers to place orders for educational materials, and its purpose is to ensure accurate and efficient communication of order details. To avoid duplication of effort, I will assume that this form is intended for use within the school's internal systems and processes.
-
-</thinking>
-
 # Elementary School Book Order Form - Help Guide
 
 ## Purpose

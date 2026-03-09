@@ -1,5 +1,3 @@
-<thinking>...This form is designed to gather information from teachers to help them better understand the curriculum and their own role in the educational process. The form will ask for various details such as their role, level of expertise, and preferences. This information will be used to improve the curriculum and provide relevant support. It is essential that the information is accurate and comprehensive to ensure the best possible outcomes. Please review the form carefully before submitting it. If you have any doubts or concerns, please reach out to the administrators...</thinking>
-
 # Curriculum Survey - Help Guide
 
 ## Purpose

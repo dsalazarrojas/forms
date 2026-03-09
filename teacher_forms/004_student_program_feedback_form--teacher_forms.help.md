@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students regarding the programs they have participated in. It is likely used by teachers or program administrators to gauge student satisfaction and identify areas for improvement. The form should only be completed by students who have participated in a program. The form does not need to be completed if the student is still in the program or if they have not yet received feedback. Please ensure you only complete this form once, as duplicate submissions may cause confusion and skew the data.
-
-This form is used to gather information about your experience with the program. Please be as detailed as possible when providing feedback to help us improve.
-
-Before starting, make sure you have all the necessary information handy.
-
-Please note that this form has multiple pages. You will need to click 'Next' to move through the pages and provide your feedback.
-
-</thinking>
-
 # Student Program Feedback Form - Help Guide
 ## Purpose
 The Student Program Feedback Form is designed to collect feedback from students on their experience with the program. This form helps teachers and program administrators to assess student satisfaction and identify areas for improvement.

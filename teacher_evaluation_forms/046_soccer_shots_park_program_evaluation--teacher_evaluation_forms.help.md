@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is for evaluating the Soccer Shots Park Program, which likely involves assessing the effectiveness and quality of a soccer program or coaching provided by multiple individuals. The form likely gathers feedback on the coaching performance, program structure, and overall experience for future improvement and development. I will ensure that the form fields are accurately described to help users understand the purpose and process of completing it.
-</thinking>
-
 # soccer_shots_park_program_evaluation - Help Guide
 ## Purpose
 The Soccer Shots Park Program Evaluation form is designed to collect feedback on the coach's performance, program structure, and overall experience. This form will help us assess the effectiveness of the program and identify areas for improvement.

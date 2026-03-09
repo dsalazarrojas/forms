@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is intended to help technicians collect and track information related to emergency exit light inspections. The purpose of this form is to gather data on general information, lighting schedule, inspection status, maintenance records, next scheduled inspection, notes, assigned technician, assigned date, completed date, and completed time. This form is likely used in a work environment, such as a facility or industrial setting, where emergency exit lights are critical for safety and security. To ensure accurate and comprehensive data collection, the form includes a mix of text, select options, and date/time fields. Each field should be completed with the relevant information to support the maintenance and upkeep of emergency exit lights.
-
-</thinking>
-
 # Emergency Exit Light Inspection Form - Help Guide
 ## Purpose
 The Emergency Exit Light Inspection Form is a tool used to collect and track information related to emergency exit light inspections. This form is designed to help technicians gather data on the status and maintenance of emergency exit lights, ensuring they are functioning correctly and are not a safety hazard.

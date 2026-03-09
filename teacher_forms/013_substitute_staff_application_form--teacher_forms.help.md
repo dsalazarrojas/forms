@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Substitute Staff Application Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-The Tool Issue Form is used to report issues related to tools or equipment that are not functioning correctly or need repair/replacement. This form helps technicians quickly identify the problem and take action to resolve it. The form is divided into multiple pages, each containing various fields to collect relevant information about the issue.
-
-Before filling out this form, please ensure that you are submitting a new issue and not duplicating an existing one. To confirm, check the form's "status" field for any open issues. If you are reporting an issue that has already been reported, please do not submit this form again. 
-
-Please ensure that the issue is accurately described, and all required fields are completed.
-</thinking>
-
 # Tool Issue Form - Help Guide
 ## Purpose
 The Tool Issue Form is used to report issues with tools or equipment that need repair or replacement.

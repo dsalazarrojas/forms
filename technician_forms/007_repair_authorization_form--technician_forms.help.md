@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Repair Authorization Form - Help Guide
 
 ### Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from parents or guardians to register their child with our nursery school. The form is designed to capture relevant details about the child, including their name, contact information, and age. This form is intended for parents or guardians to provide accurate and up-to-date information about their child. Please ensure you only complete this form once for each child. If you have any questions or concerns, please contact our nursery school administration.
-</thinking>
-
 # nursery_school_registration_form - Help Guide
 ## Purpose
 This form is designed to help us gather essential information about your child in order to provide the best possible care and education.

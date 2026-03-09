@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect basic information from users, including their name, contact details, and preferences. It's intended for general use cases where a simple and straightforward data collection is required. Before proceeding, ensure that you're using this form for its intended purpose and not duplicating other forms that collect similar data.
-</thinking>
 # quiz_form - Help Guide
 ## Purpose
 The quiz_form is a basic form designed to collect user information, including their name, contact details, and preferences.

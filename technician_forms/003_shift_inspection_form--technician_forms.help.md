@@ -1,7 +1,3 @@
-<thinking>
-The form "Shift Inspection Form" is likely used to inspect shifts worked by employees, checking if they are working their assigned shifts or not. This form is probably completed by supervisors or team leaders to ensure employees are fulfilling their schedule commitments. The form is likely used to track employee attendance and shift adherence. It's likely that the form has fields for selecting if an employee is present/absent during their shift, selecting the date and time of the shift, and taking notes about any issues or events during the shift. This form may not require any specific format for the date and time fields, so these might be free-form fields. The form might be used in a variety of contexts, such as in manufacturing, retail, or healthcare settings where shift work is common. The form likely has a "shift inspection" page with options for "Yes" or "No" for whether the employee was present or not, an "employee" page with options for selecting multiple employees, and fields for recording the date and time of the shift.
-</thinking>
-
 # Shift Inspection Form - Help Guide
 ## Purpose
 The Shift Inspection Form is used to inspect shifts worked by employees, checking if they are working their assigned shifts or not.

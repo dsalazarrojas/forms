@@ -1,7 +1,3 @@
-<thinking>
-This form was created by AI as an original adaptation of public survey metadata, and does not copy or use proprietary content from any form creation platform. The form is not affiliated with or endorsed by any platform, and is released under a Creative Commons Attribution 4.0 license. The form is designed to collect information about students and their families, likely for educational or administrative purposes. It may be used by schools or educational institutions to gather data about students' backgrounds, contacts, and other relevant details.
-</thinking>
-
 # School Enrollment Survey - Help Guide
 ## Purpose
 The School Enrollment Survey is a form designed to collect information about students and their families. It is intended for use by schools or educational institutions to gather data for administrative or educational purposes.

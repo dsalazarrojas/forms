@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to track the attendance of students for a class or lesson, allowing teachers to record the status of each student, the date and time of the lesson, and any relevant reasons for absence. This form is likely used in a educational setting, perhaps for a school or university, and is intended to provide a clear and concise way for teachers to keep track of student attendance. 
-
-Before completing this form, ensure that you are not duplicating efforts by checking that a similar form for the same student and lesson has not already been filled out. 
-</thinking>
-
 # Student Attendance Tracking Form - Help Guide
 
 ## Purpose

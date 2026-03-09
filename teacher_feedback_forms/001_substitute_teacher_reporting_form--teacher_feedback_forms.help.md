@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for teachers to report on their experience and observations when subbing for another teacher in a classroom setting. It helps to gather detailed information about how the lesson went, any issues that arose, and any notable student behaviors or absences. This form is meant to be a standardization of reporting procedures to ensure consistency and accuracy in the data collected. By using this form, teachers can provide valuable insights for the absent teacher and help improve the overall classroom environment.
-
-</thinking>
-
 # Substitute Teacher Reporting Form - Help Guide
 ## Purpose
 The Substitute Teacher Reporting Form is a tool designed to gather information from substitutes about their experience and observations when subbing for a regular teacher in a classroom setting. This form will help the absent teacher stay informed and prepared for their return, and also assist in maintaining consistency and quality in the classroom environment.

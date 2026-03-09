@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from students applying to a program or institution. It is used by teachers to gather relevant data from students to process their applications efficiently. This form should only be filled out once per student and is not intended for repeat submissions.
-</thinking>
-
 # Student Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from students applying to a program or institution. It's meant to be filled out once per student to ensure efficient processing of their applications.

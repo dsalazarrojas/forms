@@ -1,22 +1,3 @@
-<thinking>
-I will create a user-facing help guide for the Teacher Autonomy And Creativity Survey form. This guide will help end users understand the purpose of the survey, how to complete it, and what each field means.
-
-First, let's analyze the form fields:
-
-- **School Administration (Page 1)**: This field is likely used to gauge the degree of autonomy teachers have in school administration.
-- **Decision Making (Page 2)**: This field is probably used to measure the level of decision-making freedom teachers have.
-- **Teaching Style (Page 3)**: This field will ask about the teaching style that is commonly adopted in the school, which could be traditional, collaborative, inclusive, flexible, or autonomous.
-- **Innovation (Page 4)**: This field measures the degree of innovation in the school environment.
-- **Support (Page 5)**: This field is used to gauge the level of support provided by the school for teachers.
-- **Feedback (Page 6)**: This field is probably used to measure how often teachers receive feedback on their performance.
-- **Autonomy (Page 7)**: This field will ask about the level of autonomy teachers have in decision-making.
-- **Creativity (Page 8)**: This field will measure the degree of creativity encouraged in the school.
-
-This form is likely used to gather insights into teacher satisfaction with the school environment. The fields ask about the levels of autonomy and creativity teachers experience in their work. The results will help the school administration understand areas where they need to improve.
-
-Please note that the required fields are marked as "required: false" in the form YAML, so these are optional.
-</thinking>
-
 # Teacher Autonomy And Creativity Survey - Help Guide
 ## Purpose
 The Teacher Autonomy And Creativity Survey is designed to gather insights into teacher satisfaction with the school environment, specifically regarding autonomy and creativity.

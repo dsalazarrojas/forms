@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for graduate research presentation submissions. It is intended to gather data from both the researcher and the submitter (the person submitting the research presentation). The form is used to ensure that all required information is collected and that the presentation meets the necessary institutional review and approval requirements. To be eligible for submission, the research presentation should be original, not previously presented or published, and not currently under review. The submitter and researcher should both acknowledge their involvement in the presentation.
-
-</thinking>
-
 # Graduate Research Presentation Submission Form - Help Guide
 
 ## Purpose

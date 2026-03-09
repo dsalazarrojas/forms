@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect feedback from users about a presentation, providing an opportunity for speakers to improve their skills and for presenters to understand how their presentation was received. The form should not be completed by presenters or speakers, but rather by attendees who have received the presentation. This form is intended to be completed in a timely manner after the presentation has ended, while the experience is still fresh in the minds of the attendees. Please note that some fields in this form may be optional, but providing feedback and answers where possible is encouraged... </thinking>
-
 # Presentation Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about a presentation, providing an opportunity for speakers to improve their skills and for presenters to understand how their presentation was received.

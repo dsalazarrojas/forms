@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the Application Form For University. The form is designed to collect information from applicants to our university, and the provided YAML fields define the structure and requirements of the form. This guide is meant to be used by the end-user, the applicant, to understand what is expected of them when filling out the form.
-
-The form is used to collect personal and educational information from applicants, and it is divided into sections based on different topics. This guide will explain each field in the form to ensure that the applicant understands what is expected of them and can provide accurate and complete information.
-
-</thinking>
-
 # Application Form For University - Help Guide
 ## Purpose
 The Application Form For University is used to collect personal and educational information from applicants to our university. This information is used to assess the applicant's eligibility and qualifications for admission to our university.

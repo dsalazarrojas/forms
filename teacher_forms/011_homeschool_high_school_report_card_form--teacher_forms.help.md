@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for homeschool high school students to provide report card information to their teachers. It is meant to be completed by the student and their teacher, and is used to track progress and grades throughout the year. This form should only be used for homeschool high school students, and should not be used for other types of students or purposes.
-
-To avoid confusion, please make sure to use this form for its intended purpose and to only include accurate and truthful information. If you are unsure about any of the fields or have questions, please reach out to the relevant authority for clarification.
-</thinking>
-
 # Homeschool High School Report Card Form - Help Guide
 ## Purpose
 The Homeschool High School Report Card Form is a document used to track the progress of homeschool high school students. It is completed by both the student and their teacher, and provides a way to evaluate student learning and achievement throughout the year.

@@ -1,7 +1,3 @@
-<thinking>
-We're checking if the form purpose and fields are relevant and not duplicated in our system.
-</thinking>
-
 # course_approval_form - Help Guide
 ## Purpose
 The course approval form is used to submit courses for approval by the course administration team. It ensures that courses are properly vetted and validated before being made available to students. Fill out this form to submit your course for review, and a member of the team will review and act on it accordingly.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess a teacher's sensitivity and awareness towards cultural and ethnic differences. It is used to evaluate their ability to recognize and appreciate diversity in the classroom, and to identify areas where they may need additional support or training. This form is intended to be completed by teachers who work with students from diverse backgrounds.
-
-The form is composed of multiple sections, each with its own set of questions or fields. The sections include: Introduction, Questions, Self Reflection, Sensitivity, Cultural Differences, and multiple questions related to cultural differences.
-
-To ensure that this form is completed correctly and accurately, it is essential to understand each section and question individually.
-
-</thinking>
-
 # sensitivity_toward_cultural_and_ethnic_differences_assessment_form - Help Guide
 ## Purpose
 This form is designed to assess a teacher's sensitivity and awareness towards cultural and ethnic differences.

@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to conduct an inspection of switchgear items. Switchgear is a critical component in electrical systems, and regular inspections are necessary to ensure they are functioning correctly and safely. This form is used to record the results of these inspections.
-
-Before completing this form, ensure that you are authorized to access and inspect the switchgear item in question. This form should only be used for inspections that are relevant to the current state of the switchgear item. 
-
-The inspection results should be accurately and truthfully recorded, as they will be used to inform maintenance and repair decisions. 
-
-Please review the fields below to understand the specific questions being asked.
-
-</thinking>
 # Switchgear Inspection Form - Help Guide
 ## Purpose
 This form is for conducting an inspection of switchgear items to ensure they are functioning correctly and safely.

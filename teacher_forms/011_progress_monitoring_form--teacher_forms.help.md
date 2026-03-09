@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for teachers to monitor the progress of their students' projects. The form is intended to collect relevant information about the project's title, teacher and student information, progress status, date, notes, and final evaluation. 
-The purpose of the form is to facilitate easy tracking and monitoring of project progress and outcomes. 
-The form is not affiliated with or endorsed by any specific survey platform, it was generated using AI to create an original adaptation. 
-Please note that some form fields might seem unclear or weak, but we'll provide a clear explanation for each field below. 
-</thinking>
-
 # Progress Monitoring Form - Help Guide
 ## Purpose
 The Progress Monitoring Form is designed to collect essential information about a student's project, including project title, teacher and student information, progress status, and final evaluation.

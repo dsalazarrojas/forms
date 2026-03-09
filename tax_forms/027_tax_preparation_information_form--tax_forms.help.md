@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect general information related to tax preparation, including tax information, company details, tax year, tax return, employee names, payment information, tax filing status, tax filing deadline, a note section for additional comments, email address, and phone number. It's likely intended for use by a tax preparation service or accounting firm to gather necessary information from clients or customers. This form may be used for various purposes, such as tax planning, tax filing, or tax consulting.
-</thinking>
-
 # Tax Preparation Information Form - Help Guide
 
 ## Purpose

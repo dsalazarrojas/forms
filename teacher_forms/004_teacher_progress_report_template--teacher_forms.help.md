@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information from teachers on the progress of their students. The form is intended to collect data on student name, student ID, teacher name, student grade level, subject area, grade level, teacher comments, date, time, student comments, student progress, and teacher signature. This form is useful for teachers to document and track student progress, provide feedback, and communicate with parents or administrators.
-</thinking>
-
 # Teacher Progress Report Template - Help Guide
 ## Purpose
 This form is designed to gather information from teachers on the progress of their students. It is used to document student progress, provide feedback, and communicate with parents or administrators.

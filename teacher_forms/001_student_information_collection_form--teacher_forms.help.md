@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # student_information_collection_form - Help Guide
 
 ## Purpose

@@ -1,16 +1,3 @@
-<thinking>
-A form with this structure is used for teachers to submit feedback on lesson plans. It is likely intended for use by teachers to evaluate and improve their teaching practices. The form is probably used by school administrators or curriculum designers to gather feedback from teachers about the effectiveness and content of lesson plans.
-
-It's essential to ensure that the form is filled out correctly to avoid duplication of effort and ensure that the feedback is relevant and useful. Therefore, it's crucial to understand the purpose and structure of the form before filling it out.
-
-This form should only take a few minutes to complete, and it's recommended to answer each question briefly and concisely, providing specific examples or details when possible.
-
-Before filling out this form, make sure to review the questions and provide thoughtful and constructive feedback. The answers should be based on personal experience and observations during the lesson.
-
-This form is meant to be a helpful tool for teachers to improve their teaching practices, and the feedback provided will be used to inform future lesson plan development and teacher training.
-
-</thinking>
-
 # Lesson Plan Feedback Form - Help Guide
 ## Purpose
 The Lesson Plan Feedback Form is designed to gather feedback from teachers on the effectiveness and content of lesson plans. This form is used to help teachers identify areas of improvement and provide constructive suggestions for future lesson plans.

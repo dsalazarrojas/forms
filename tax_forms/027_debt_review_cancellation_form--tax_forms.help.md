@@ -1,9 +1,3 @@
-<thinking> This form is designed to guide users through the process of canceling debt. Upon reviewing the inputSchema, it appears that the form is a multi-page form with various sections to collect information about the debt review cancellation process. The form includes fields for user input, reason for cancellation, date of enrollment, date of service, and other relevant details. The form also includes a select option for the reason for cancellation, which could potentially lead to duplication of effort or confusion if not properly implemented. To avoid this, it's essential to clearly explain the purpose and how to complete the form, including the correct usage of the select options.
-
-The form seems to be focused on collecting detailed information about the debt review cancellation process, possibly to facilitate communication or further investigation. The fields like "Reason for Cancellation" and "Reason for Denial" suggest that the form is also used in a context where debt is reviewed and potentially denied or canceled. This form could be used by financial institutions, credit counseling agencies, or other organizations involved in debt management.
-
-To ensure that users understand the purpose and usage of the form, it's crucial to provide clear and concise explanations for each field, including the select options. This will guide users through the process and minimize confusion or errors.</thinking>
-
 # Debt Review Cancellation Form - Help Guide
 
 ## Purpose

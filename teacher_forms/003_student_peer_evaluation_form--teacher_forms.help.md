@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be filled out by students in a class or workshop setting to evaluate their peers' performance. It's meant to assess a student's ability to work collaboratively, communicate effectively, and demonstrate overall performance. This form should only be used to evaluate students who are part of a group project or have direct interaction with peers. 
-</thinking>
-
 # Student Peer Evaluation Form - Help Guide
 ## Purpose
 The Student Peer Evaluation Form is a tool for students to evaluate their peers' performance in a group setting or workshop. It helps to assess a student's collaboration, communication, and overall performance. This form is typically used to gather feedback from students on their peers.

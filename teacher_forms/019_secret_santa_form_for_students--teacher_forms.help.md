@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information from students for the Secret Santa gift exchange. The purpose of this form is to gather students' details such as their name, email, phone number, and other preferences (e.g., gift preference, budget, and teacher's name) to facilitate a smooth Secret Santa gift-giving experience. To avoid duplication and ensure accurate representation of student data, it's essential to ensure each student fills out the form only once. </thinking>
-
 # Secret Santa Form For Students - Help Guide
 ## Purpose
 The Secret Santa Form For Students is used to collect information from students to facilitate a Secret Santa gift exchange. This form helps us gather essential details such as name, email, phone number, and other preferences to ensure a smooth and enjoyable gift-giving experience.

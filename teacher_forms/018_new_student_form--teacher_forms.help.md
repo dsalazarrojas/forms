@@ -1,5 +1,3 @@
-<thinking>As a teacher, you likely want to create new student records with accurate and detailed information. This form is used to collect data about a new student, including identifying information like teacher ID, name, and email, as well as their course section enrollment status. This guide will walk you through the process of filling out the form step-by-step, ensuring you provide accurate and relevant information for each field.</thinking>
-
 # new_student_form - Help Guide
 ## Purpose
 This form is used to create a new student record, providing essential details about the student, teacher, and course sections they are enrolled in.

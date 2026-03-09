@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture repair information for wheelchairs. It is used to collect data about the type of wheelchair, customer name, date of birth, repair type, and status of the repair. The form will help technicians to quickly and accurately record the repair information, making it easier to manage and track wheelchair repairs. It is essential to complete this form accurately to ensure that the repair process is efficient and effective.
-</thinking>
-
 # Wheelchair Repair Form - Help Guide
 ## Purpose
 This form is designed to collect information about wheelchair repairs, including the type of wheelchair, customer details, and repair status. It helps technicians to record repair information accurately and efficiently.

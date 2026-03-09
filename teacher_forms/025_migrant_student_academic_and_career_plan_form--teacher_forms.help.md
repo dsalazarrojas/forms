@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a migrant student's academic and career aspirations. It is used to understand their background, interests, and goals, which can help identify their needs and provide guidance for a successful academic and career plan. Before filling out this form, please ensure you have not completed it previously to avoid duplicate entries.
-
-This form is designed to be completed by migrant students. If you are a teacher or staff member, please guide the students through the form to ensure accurate and complete information.
-
-Please ensure you answer all required fields to ensure the form is complete and submitted correctly.
-</thinking>
-
 # Migrant Student Academic And Career Plan Form - Help Guide
 ## Purpose
 This form is designed to gather information about a migrant student's academic and career aspirations.

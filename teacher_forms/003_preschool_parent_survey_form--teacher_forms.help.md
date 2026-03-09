@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Preschool Parent Survey Form - Help Guide
 
 ## Purpose

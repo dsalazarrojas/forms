@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the performance of various staff members of a Sunday school program, including students, teachers, parents, and staff. The form is meant to gather feedback on specific aspects of the program, such as student feedback, subject name, teacher name, parent feedback, and overall rating, among other fields. The form does not require a specific date and time of completion.
-</thinking>
-
 # Sunday School Evaluation Form - Help Guide
 ## Purpose
 This form is used to collect feedback on Sunday school program performance. It gathers information from students, teachers, parents, and other staff members to help improve the program.

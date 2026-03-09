@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form? The Student Observation Form is used to record and report observations and recommendations regarding students, typically in an educational setting such as a school or university. This form provides an opportunity for teachers or observers to document their observations and notes on a student's behavior, performance, or progress, which can be used for support, assessment, or other purposes. Before completing this form, please ensure that you are using it for a legitimate reason and not duplicating efforts. If you are unsure, please reach out to your supervisor or the form's administrator for clarification.</thinking>
-
 # Student Observation Form - Help Guide
 ## Purpose
 The Student Observation Form is used to document observations and recommendations regarding students in an educational setting. This form helps teachers or observers to record and report on a student's behavior, performance, or progress.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help teachers create and plan courses by providing a structured framework for defining course objectives, lesson plans, and resources. The form aims to streamline the process of creating a course that meets specific learning outcomes and timeframes. The form does not collect any sensitive or personally identifiable information, and it is intended for internal use only within an educational institution.
-</thinking>
-
 # Course Planning Form - Help Guide
 ## Purpose
 The Course Planning Form is designed to guide teachers in developing a comprehensive course plan that aligns with the specific learning objectives and outcomes of the course. It provides a structured approach to defining course content, lesson plans, and resources required to achieve the course goals.

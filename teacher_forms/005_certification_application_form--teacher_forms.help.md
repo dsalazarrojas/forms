@@ -1,12 +1,3 @@
-<thinking>
-The Certification Application Form is designed to gather information from applicants for a certification program in education. This form is intended for individuals seeking to obtain a certification in various fields of education, such as Early Childhood Education, Elementary Education, Secondary Education, Special Education, Administrative Leadership, or Instructional Technology. 
-This form is a comprehensive application process that requires applicants to provide personal and professional information, including their name, contact details, employment status, years of experience, and educational background. 
-The form also includes questions about background checks, criminal history, and professional references. 
-Applicants must agree to the program requirements and acknowledge the truthfulness of their application. 
-The form is designed to be completed by the applicant, and it is crucial to provide accurate and truthful information to ensure a smooth and efficient evaluation process. 
-Please review the form carefully and answer the questions truthfully to avoid any issues during the application process. 
-</thinking>
-
 # Certification Application Form - Help Guide
 ## Purpose
 The Certification Application Form is a comprehensive application process designed to gather information from applicants for a certification program in education. This form is used to evaluate applicants' qualifications, experience, and background to determine their eligibility for the certification program.

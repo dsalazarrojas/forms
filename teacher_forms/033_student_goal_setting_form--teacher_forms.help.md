@@ -1,5 +1,3 @@
-<thinking>As we strive to provide a clear and concise user interface, it's essential to ensure that our forms are designed with the end-user in mind. This help guide is intended to be a step-by-step walkthrough on how to complete the "Student Goal Setting Form". It's crucial to keep in mind that forms are not just a collection of fields but serve a specific purpose - in this case, guiding teachers in setting goals for their students. By completing this form, teachers can effectively outline goals for students, gather feedback, and track progress.</thinking>
-
 # Student Goal Setting Form - Help Guide
 
 ## Purpose

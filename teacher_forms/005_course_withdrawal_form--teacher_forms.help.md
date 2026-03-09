@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow students to officially withdraw from a course. This form must only be used for course withdrawals that do not involve any fees or penalties, or when a student is withdrawing before the course has started. If a student is leaving due to fees or penalties, they should use a separate form for financial withdrawals.
-</thinking>
-
 # Course Withdrawal Form - Help Guide
 ## Purpose
 The Course Withdrawal Form is used by students to officially withdraw from a course. This form is intended for course withdrawals that do not involve any fees or penalties, or when a student is withdrawing before the course has started.

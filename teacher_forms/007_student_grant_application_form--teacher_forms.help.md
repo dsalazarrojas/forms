@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Grant Application Form - Help Guide
 ## Purpose
 The Student Grant Application Form is designed to collect information from students to support their grant applications. This form aims to gather relevant details about the students, their goals, and their financial requirements to ensure that the grant committee has an accurate and comprehensive understanding of each applicant's needs.

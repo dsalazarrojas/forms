@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to allow students to submit answers to assignments, providing a structured and organized way to collect and review student responses. This form is designed to minimize errors and ensure that all necessary information is captured correctly. To prevent data duplication, please verify that you are not already submitting duplicate responses before proceeding. If you have previously submitted a response, you may be required to update or modify it instead of creating a new one.
-</thinking>
-
 # Student Answer Submission Form - Help Guide
 ## Purpose
 This form is designed for students to submit their answers to assignments, providing a structured and organized way to collect and review student responses.

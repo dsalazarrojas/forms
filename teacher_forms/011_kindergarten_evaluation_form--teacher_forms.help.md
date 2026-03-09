@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used in the kindergarten education setting to assess and evaluate student progress. It's likely used by teachers to document student's individual development and growth in a kindergarten setting. This form is not affiliated with any form creation platform, and it's an original adaptation created using public survey topic metadata. 
-</thinking>
-
 # kindergarten_evaluation_form - Help Guide
 ## Purpose
 The kindergarten evaluation form is a tool used by teachers to document and assess student progress in a kindergarten setting.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Field Trip Payment Form - Help Guide
 
 ## Purpose

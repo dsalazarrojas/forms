@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and only by authorized personnel. To prevent unauthorized access or manipulation of the form, please verify that you are an authorized teacher or staff member before using this form. Additionally, please ensure that you have reviewed and understand the purpose and fields of this form before proceeding. If you are unsure about any aspect of the form, please reach out to your administrator or support team for clarification. 
-
-This form appears to be for student registration purposes, collecting information such as name, email, phone number, address, date of birth, program of study, course ID, class ID, start and end dates, status, program status, additional info, teacher notes, and school name. To complete this form accurately and efficiently, please review each field carefully. 
-</thinking>
-
 # Tutorial Student Registration Form - Help Guide
 ## Purpose
 The Tutorial Student Registration Form is used to collect and manage student information for registration purposes. It is essential to provide accurate and complete data to ensure efficient processing and accurate records.

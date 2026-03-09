@@ -1,10 +1,3 @@
-<thinking>
-The hvac_maintenance_checklist_form form is designed to help HVAC technicians conduct regular maintenance checks on various components of a heating, ventilation, and air conditioning system. This form ensures that the technician systematically inspects and records the condition of key areas, including thermostats, air filters, compressors, electrical connections, and system leaks, among others. This form will help identify potential issues and provide a comprehensive report for future reference and troubleshooting purposes. Please note that this form is not intended for use as a certification or compliance tool, but rather as an internal checklist for technicians to ensure accurate and thorough maintenance.
-
-To avoid duplication of effort, we recommend using this form for general maintenance checks, not for certification or testing purposes. If you're unsure about the relevance or applicability of this form, please consult with a supervisor or experienced technician for guidance.
-
-</thinking>
-
 # hvac_maintenance_checklist_form - Help Guide
 ## Purpose
 The hvac_maintenance_checklist_form is designed to help HVAC technicians conduct regular system checks, ensuring that all components are functioning correctly and making any necessary adjustments or repairs.

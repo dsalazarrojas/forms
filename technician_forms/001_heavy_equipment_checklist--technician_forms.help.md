@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by technicians to inspect and report on the condition, status, and maintenance history of heavy equipment. It is crucial to ensure the equipment is functioning correctly and identify any issues that need to be addressed before it can be used. To avoid duplication of effort, please note that the form is meant for a one-time or periodic inspection and report, and any subsequent inspections should only be completed after a new or modified piece of equipment has been installed or when a significant change has occurred.
-</thinking>
-
 # Heavy Equipment Checklist - Help Guide
 ## Purpose
 

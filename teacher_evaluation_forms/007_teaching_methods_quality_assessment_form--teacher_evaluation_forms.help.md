@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to evaluate the teaching methods used in a particular class or course. The purpose of this form is to gather feedback from students on their learning experience and help teachers identify areas for improvement in their teaching methods.
-
-Before completing this form, please ensure you have a clear understanding of your learning experience and have reviewed the relevant materials and resources provided. Also, please note that some fields may have limited options or be optional, depending on the context and purpose of this form.
-
-To avoid duplication of effort, please ensure that you have not already provided feedback on this teaching method previously.
-
-</thinking>
-
 # teaching_methods_quality_assessment_form - Help Guide
 ## Purpose
 This form is designed to evaluate the teaching methods used in a particular class or course.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from teachers for registration purposes, ensuring that all required fields are completed accurately. To confirm, please note that this form is intended for teachers to provide their personal details and role information. Please ensure you are filling out this form for yourself or someone who is a teacher or instructor. Duplicate submissions will be removed to maintain data accuracy.
-</thinking>
-
 # Teacher's Registration Form - Help Guide
 ## Purpose
 The Teacher's Registration Form is used to collect necessary information from teachers for registration purposes.

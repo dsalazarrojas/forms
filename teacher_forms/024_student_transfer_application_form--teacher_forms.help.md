@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## student_transfer_application_form - Help Guide
 ## Purpose
 This form is designed to help students apply for transfers to different schools. It is used to gather information from students who are interested in transferring to another school within the same institution.

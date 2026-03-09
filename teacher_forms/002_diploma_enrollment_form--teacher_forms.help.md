@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from teachers regarding their diploma enrollment details. The purpose of this form is to gather the necessary data for the teacher's enrollment process, which includes personal details such as user name, email, and phone number, as well as diploma-specific information like date of birth, enrollment date, and type. The form also includes fields for selecting a payment method and status, and a field for additional notes. This form is intended for internal use within the organization, and the collected data will be used to facilitate the enrollment process.
-</thinking>
-
 # Diploma Enrollment Form - Help Guide
 ## Purpose
 The Diploma Enrollment Form is used to collect information from teachers for the purpose of their diploma enrollment. This form helps to streamline the enrollment process and ensures that all necessary details are collected in a structured and organized manner.

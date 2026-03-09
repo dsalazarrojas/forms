@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to assess the needs and requirements of educators for educational technology resources and support. This form is intended to gather information on the types of technology that teachers and staff need to effectively integrate technology into their teaching practices, as well as their experience with and opinions on current technology resources and tools. By providing accurate and relevant information, this form will help inform decisions on how to best support educators and improve educational technology infrastructure.
-Please ensure that you are completing this form for the intended purpose, and not duplicating effort or submitting outdated information.
-</thinking>
-
 # Educational Technology Needs Survey - Help Guide
 ## Purpose
 The Educational Technology Needs Survey is designed to gather information on the educational technology needs and requirements of teachers and staff. Please answer the questions in this form honestly, and provide as much detail as possible.

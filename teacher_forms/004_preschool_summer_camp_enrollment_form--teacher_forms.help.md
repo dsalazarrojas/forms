@@ -1,11 +1,3 @@
-<thinking>
-The form is designed to gather information from parents or guardians of children who wish to enroll in a preschool summer camp. The purpose of this form is to collect essential details about the child, their parent or guardian, and the enrollment period. This includes the child's name, parent's contact information, child's birthdate, enrollment start and end dates, payment method, emergency contact information, and any medical notes or special needs. It is crucial to fill out this form accurately and thoroughly to ensure a smooth enrollment process.
-
-To avoid any confusion or duplication, please note that you must fill out the form for each child separately, even if they are siblings. Please make sure to fill out the form completely and submit it once you have finished.
-
-Also, ensure that the parent's email address is entered correctly, as it will be the primary contact method for communication.
-</thinking>
-
 # preschool summer camp enrollment form - Help Guide
 ## Purpose
 This form is for enrolling your child in the preschool summer camp. Please fill out this form to provide us with essential information about your child and yourself.

@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to collect information about a vehicle's condition and inspection results. It appears to be used for a multi-point vehicle inspection, which is a comprehensive examination of a vehicle's various systems and components. This form likely serves as a checklist or report to document the vehicle's condition, helping technicians or mechanics to identify potential issues or areas that require attention.
-
-To determine the relevance and potential duplication of this task, I will assume that the form is used within a specific context, such as a garage, repair shop, or dealership. The form's purpose is to gather detailed information about a vehicle's condition, which can be used for maintenance, repair, or inspection purposes.
-
-With this understanding, I will proceed to create a user-facing help guide for the form.
-
-</thinking>
-
 # Multi Point Vehicle Inspection Form - Help Guide
 ## Purpose
 The Multi Point Vehicle Inspection Form is a comprehensive checklist used to document a vehicle's condition and inspection results. This form helps technicians or mechanics to identify potential issues or areas that require attention.

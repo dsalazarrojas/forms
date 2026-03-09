@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Assessment Upload Form" which is intended for teachers to upload assessments and related files. This form is crucial for tracking and storing assessment data, which will help teachers and administrators make informed decisions about student performance and areas of improvement. To ensure accurate and consistent data entry, we'll aim to minimize duplication and ensure that each teacher fills out the form correctly. This guide will help users understand the purpose and usage of the form, how to fill it out, and what each field entails. Let's get started!
-
-</thinking>
-
 # Assessment Upload Form - Help Guide
 ## Purpose
 The Assessment Upload Form is a crucial tool for teachers to upload assessments and related files, allowing for the collection and analysis of assessment data. This data helps in making informed decisions about student performance and areas of improvement.

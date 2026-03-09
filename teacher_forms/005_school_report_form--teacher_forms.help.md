@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from teachers about student progress, behavior, and other relevant details. The form is intended to be used for school reporting purposes, likely for teachers to provide updates on student performance. The form's structure suggests that it is meant to be completed by teachers for school administrators or other educators to review. 
-</thinking>
-
 # School Report Form - Help Guide
 
 ## Purpose

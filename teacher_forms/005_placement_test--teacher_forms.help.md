@@ -1,5 +1,3 @@
-<thinking>This is a form designed to assess an individual's ability to perform specific tasks or exhibit certain behaviors in a given context, possibly for placement, selection, or evaluation purposes. It's likely used for assessing skills, knowledge, or attitudes that are relevant to the placement process. The form likely has multiple sections and multiple questions per section, allowing for a comprehensive assessment of a candidate's qualifications. Given the presence of select_one, select_multiple, number, and other input types, it's a mix of categorical, quantitative, and qualitative data collection. The high number of questions suggests that this form is designed to elicit a wide range of information from the candidate.</thinking>
-
 # Placement Test - Help Guide
 ## Purpose
 The Placement Test form is designed to assess an individual's ability to perform specific tasks or exhibit certain behaviors in a given context. This form is used for evaluating skills, knowledge, or attitudes relevant to the placement process.

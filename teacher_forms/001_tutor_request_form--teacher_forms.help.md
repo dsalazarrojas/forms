@@ -1,10 +1,3 @@
-<thinking>
-The Tutor Request Form is a tool designed to collect information from students who are seeking tutoring services. This form is intended for students to request assistance from available tutors and provide details about their requirements. It is not associated with any specific tutoring platform or service, and the information collected will be used to match students with suitable tutors.
-
-Before proceeding, ensure that you are not duplicating a request that has already been made by checking the "Available Tutors" field for any matching results. This will save time and effort for both students and tutors.
-
-</thinking>
-
 # Tutor Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from students seeking tutoring services to match them with suitable tutors.

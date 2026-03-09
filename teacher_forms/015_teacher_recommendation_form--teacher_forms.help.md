@@ -1,7 +1,3 @@
-<thinking>
-To begin with, this form is intended for a teacher to submit a recommendation for a student. The purpose of this form is to gather information about the student and their teacher's relationship, including the student's name, email, and other relevant details. The form also includes fields for the teacher's name, department, and years of service. The teacher must select the relevant fields to complete the form accurately. This form is not intended to be filled out by the student themselves, but rather by a teacher who is familiar with the student's abilities and character.
-</thinking>
-
 # Teacher Recommendation Form - Help Guide
 ## Purpose
 

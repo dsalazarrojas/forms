@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from teachers to apply for a school audition. This form is used to collect contact information, school details, and audition specifics, which will be reviewed by the school administration to evaluate the applicant's qualifications and suitability for the audition. 
-
-The form is designed to be filled out by teachers who wish to participate in the school audition, and it is recommended to be completed accurately and truthfully to ensure a smooth evaluation process. 
-
-To avoid duplication, please note that only one teacher per school can be uploaded at a time, so please ensure that you have the necessary permissions and clearances before submitting the form.
-
-</thinking>
-
 # School Audition Application Form - Help Guide
 
 ## Purpose

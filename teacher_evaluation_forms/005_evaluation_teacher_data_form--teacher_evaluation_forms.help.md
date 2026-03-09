@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and use of the Evaluation Teacher Data Form. The form is used to collect information from teachers, gathering essential details such as their name, school, email, department, subject area, performance rating, comments, recommendations, evaluation date, evaluation time, submitted by information, submission date, submitted time, evaluation method, and who the evaluation was submitted to. This form is a crucial tool for administrators and evaluators to assess and improve teacher performance and provide valuable feedback to teachers.
-
-</thinking>
-
 # Evaluation Teacher Data Form - Help Guide
 ## Purpose
 The Evaluation Teacher Data Form is a critical tool used to gather essential information about teachers, providing valuable insights for evaluation and feedback.

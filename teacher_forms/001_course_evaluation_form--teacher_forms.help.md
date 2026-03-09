@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from students about their experience with a particular course. It's meant to be completed by students to provide their evaluation and assessment of the course, including how they rate the course and instructor, what they learned from it, and whether they would take it again. This form is not meant to be used for other purposes, such as course selection or instructor evaluation. Please ensure that you fill it out only when you have taken the course.
-</thinking>
-
 # Course Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from students about their experience with a particular course.

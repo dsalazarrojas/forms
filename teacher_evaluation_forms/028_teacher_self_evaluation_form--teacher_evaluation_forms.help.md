@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to help teachers evaluate their own performance and reflect on their teaching practices. This form is designed to be a self-assessment tool for teachers to identify their strengths and areas for improvement, set goals and objectives, and track their progress over time. It is essential to note that this form is meant to be a personal reflection tool, not a formal evaluation form. The questions and fields are designed to be thoughtful and relevant to the teaching profession. Please ensure that you are familiar with the form's purpose and the fields it contains before completing it. If you are unsure about any of the fields or questions, refer to this guide for clarification. 
-
-</thinking>
-
 # Teacher Self Evaluation Form - Help Guide
 ## Purpose
 The Teacher Self Evaluation Form is a self-assessment tool for teachers to evaluate their performance, reflect on their teaching practices, and identify areas for improvement. It is designed to help teachers set clear goals and objectives, track their progress, and develop a growth mindset.

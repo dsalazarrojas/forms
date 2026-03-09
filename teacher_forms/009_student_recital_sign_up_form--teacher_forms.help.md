@@ -1,7 +1,3 @@
-<thinking>
-The form "Student Recital Sign Up Form" is intended for teachers to sign up students for a recital, providing their name and email address for communication purposes. This guide will walk through the steps to fill out the form correctly.
-</thinking>
-
 # Student Recital Sign Up Form - Help Guide
 ## Purpose
 The Student Recital Sign Up Form is used by teachers to register their students for a recital. This form captures the teacher's name and email address for communication and administrative purposes.

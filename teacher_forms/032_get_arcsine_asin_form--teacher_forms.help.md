@@ -1,17 +1,3 @@
-<thinking>...
-
-To create a user-facing help guide for the "Get Arcsine (asin) Form", we need to understand the form's purpose and the required information. 
-
-From the input schema, we see that the form has four fields: "User Input", "Asin Value", "Result", and "Category". The form likely collects user information to perform some sort of calculation or filtering based on Asin values and categories. 
-
-However, the required status of each field is set to "false", meaning that all fields are optional. This suggests that users may be required to fill out as many or as few fields as necessary to get the desired result. 
-
-Before proceeding, let's assume that the Asin Value field should be filled out if the User Input field is empty, and vice versa. 
-
-The "Category" field is a multiple-choice field with two options, "Teacher Forms" and "Other". This likely indicates that the form is related to educational materials, but we can't determine the specific use case without more information. 
-
-</thinking>
-
 # Get Arcsine (asin) Form - Help Guide
 
 ## Purpose

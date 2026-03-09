@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from students about their Sunday school experience. This form is designed to be a quick and easy way for students to express their opinions and feelings about the Sunday school. It's meant to be completed by students, likely in a physical or digital format, and will help teachers and other stakeholders understand their students' views.
-
-Before proceeding, please make sure you're completing this form for the right purpose and not duplicating your answers. The form has multiple sections, and each field is designed to gather specific information about your Sunday school experience. Please answer accordingly, and feel free to skip sections that don't apply to you.
-
-</thinking>
-
 # sunday_school_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from students about their Sunday school experience, providing valuable insights for teachers and other stakeholders.

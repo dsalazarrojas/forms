@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather data on the career aspirations and interests of students, particularly in the field of aerospace and related sciences. This form is designed to be completed by both teachers and parents to provide a comprehensive understanding of the students' career goals. The form will help to identify areas of interest and provide insights for guidance and support.
-</thinking>
-
 # kids_career_survey - Help Guide
 ## Purpose
 This form is designed to help teachers and parents understand the career aspirations and interests of students in the field of aerospace and related sciences.

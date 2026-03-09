@@ -1,5 +1,3 @@
-<thinking>As a form designer, my primary objective is to create a user-friendly interface for users to input relevant data. I'll analyze the provided YAML structure to ensure it meets the required standards of usability and clarity. Upon examining the YAML, I notice that the form is designed to collect course completion data from students or teachers. It includes fields for course name, student ID, grade, course progress, completion date, and more. The form is likely used for tracking student progress in courses. To create a comprehensive help guide, I'll break down each field and its purpose.</thinking>
-
 # course_completion_form - Help Guide
 ## Purpose
 This form is used to track and record course completion information for students. It helps teachers and administrators monitor student progress and completion status in their courses.

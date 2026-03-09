@@ -1,7 +1,3 @@
-<thinking>
-To determine the form purpose and ensure it's not duplicated, let's analyze the inputSchema. The form appears to be a student database form, and its purpose is likely to collect information about students. To avoid duplication, we'll focus on providing clear and concise instructions to help users understand the form's fields and their requirements.
-</thinking>
-
 # Student Data Base Form - Help Guide
 ## Purpose
 The Student Data Base Form is used to collect and store information about students. This form helps administrators gather necessary details to manage student data effectively.

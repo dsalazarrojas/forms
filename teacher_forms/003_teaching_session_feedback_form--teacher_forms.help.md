@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # teaching_session_feedback_form - Help Guide
 ## Purpose
 The "Teaching Session Feedback Form" is a tool used by students to provide feedback on a teaching session they have attended. The form is designed to gather information about the session, the student's experience, and their overall rating of the session.

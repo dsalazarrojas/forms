@@ -1,9 +1,3 @@
-<thinking>
-To create an effective user-facing help guide, I'll need to understand the purpose and requirements of the "Work Study Application Form". From the provided YAML, I'll infer that this form is likely used by teachers or educators to apply for work study programs. The form appears to collect information about a work study program, including its title, type, start and end dates, status, and student's name and ID. The fields also suggest that the program status can be either 'Active' or 'Inactive', and students can choose multiple options, but no specific options are specified in the YAML.
-
-To ensure this form is completed correctly and efficiently, I'll break down the steps into three sections: Purpose, How To Complete This Form, and Field-by-Field Explanation.
-</thinking>
-
 # Work Study Application Form - Help Guide
 ## Purpose
 The Work Study Application Form is designed for teachers or educators to apply for work study programs. This form collects essential information about the program, enabling the relevant authorities to review and process the application efficiently.

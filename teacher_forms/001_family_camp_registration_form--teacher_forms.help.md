@@ -1,7 +1,3 @@
-<thinking>
-Form purpose is to collect data about family information, medical conditions, and other relevant details from families registering their campers for a camp program. This form is designed to ensure that all necessary data is collected efficiently and effectively to provide a safe and enjoyable experience for all campers.
-</thinking>
-
 # Family Camp Registration Form - Help Guide
 ## Purpose
 The Family Camp Registration Form is designed to collect information about your family members who will be attending the camp program. This form helps us to understand your family's needs and ensure that we can provide a safe and enjoyable experience for all campers.

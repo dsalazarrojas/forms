@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information from customers for teleopto services. It is intended to be completed by customers who are seeking teleopto services. The form is designed to be optional, but it is recommended that customers complete it to ensure accurate and efficient service delivery.
-
-This form is not meant to be used for other purposes, such as marketing or general inquiries. If customers are not seeking teleopto services, they do not need to fill out this form.
-
-</thinking>
-
 # Teleopto Services Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # digital_teaching_story_submission_registration_form - Help Guide
 ## Purpose
 This form is designed to collect submissions for digital teaching stories from educators. It is meant to gather information about the user, including their name, email, and submission details such as subject, date, and time.

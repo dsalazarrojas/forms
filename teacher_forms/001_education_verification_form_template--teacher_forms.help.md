@@ -1,9 +1,3 @@
-<thinking>
-To confirm, you want me to generate a help guide for the provided YAML fields, focusing on the "Education Verification Form Template" within the "teacher_forms" category. The form seems to be designed for verifying an employee's educational background. I'll review the fields to provide a clear and concise explanation of the form's purpose, how to complete it, and what each field means.
-
-Upon examining the YAML, I noticed that the form has various fields related to educational verification, including fields for employee information, educational background, and verification details. I will use this information to create a comprehensive help guide for end-users.
-</thinking>
-
 # Education Verification Form Template - Help Guide
 ## Purpose
 The Education Verification Form Template is a form used to verify an employee's educational background, including their high school, college, and university education.

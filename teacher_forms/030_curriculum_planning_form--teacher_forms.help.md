@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help teachers plan their curriculum for a specific period. It's meant to gather information about the subjects to be taught, number of classes, class names, and other relevant details such as assignment, dates, venue, and expected outcomes. To ensure accuracy, the form requires specific details like period assignment and class venue. This form is a comprehensive tool for teachers to plan and manage their classes efficiently.
-</thinking>
-
 # Curriculum Planning Form - Help Guide
 ## Purpose
 The curriculum planning form is a tool designed to aid teachers in planning their classes and curriculum for a specific period.

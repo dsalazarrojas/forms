@@ -1,6 +1,3 @@
-<thinking> 
-The purpose of this form is to collect feedback from teachers on their experience and satisfaction with certain aspects of their work environment, including their school's resources, communication with administrators and colleagues, and overall satisfaction. The form will help school administrators understand the areas where the teachers are facing challenges and where they can improve, allowing for more effective support and resources to be directed towards the teachers. This form should not be submitted by teachers who have not been working at the school or have not interacted with the administrators, as the feedback may not be relevant to the school's context. Please ensure that you have worked at the school and interacted with the administrators before submitting this form.</thinking>
-
 # teacher_satisfaction_survey - Help Guide
 ## Purpose
 The teacher satisfaction survey is designed to collect feedback from teachers on their experience and satisfaction with certain aspects of their work environment at the school.

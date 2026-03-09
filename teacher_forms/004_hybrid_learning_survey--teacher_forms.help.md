@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and opinions from teachers about hybrid learning, which is an educational approach that combines traditional face-to-face learning with online or digital components. This form aims to gauge their level of familiarity with hybrid learning, their opinions on its effectiveness, and gather any suggestions or comments they may have. It also asks for their contact information to provide a way for them to receive follow-up communication. 
-This form is designed to be a quick and easy way for teachers to share their thoughts and ideas about hybrid learning, and the collected data will be used to inform future educational initiatives. It is essential to ensure that the form is filled out by teachers who are familiar with hybrid learning or have some experience with it, as the purpose is to gather opinions from those with relevant knowledge. 
-Please note that this form is not intended to be filled out by non-teachers or those without any experience with hybrid learning.
-</thinking>
-
 # Hybrid Learning Survey - Help Guide
 
 ## Purpose

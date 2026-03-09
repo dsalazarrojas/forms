@@ -1,7 +1,3 @@
-<thinking>
-This form is for instructors to apply for grade changes for a student. The form should be used for legitimate reasons such as errors in calculation, grade recalculation, or other valid administrative errors. Instructors should only fill out this form if they are certain of the grade change and can provide a valid reason for the change. The form will be reviewed by a designated reviewer who will ensure the change is valid and accurate.
-</thinking>
-
 # grade_change_application_form - Help Guide
 ## Purpose
 The grade change application form is a tool for instructors to request grade changes for a student. This form is to be used for legitimate reasons, such as calculation errors or other administrative errors, and should not be used to inflate a student's grade.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for course registration purposes. This form is used to create a record of course enrollment in the system. It is a required form to ensure accurate and up-to-date records. Please note that this form is only to be filled out once for each course registration.
-</thinking>
-
 # Course Registration Form - Help Guide
 ## Purpose
 The Course Registration Form is used to collect information from users for course registration purposes.

@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a Tax Information Form used to collect information related to taxes, income, and business-related data. It seems to be a comprehensive form with various fields to gather details such as income, tax identification number, occupation, business ownership, address, tax year, tax rate, business entity, phone, email, notes, tax deductible, business type, accountant, and financial adviser. The purpose of this form is likely for tax-related purposes, such as submitting tax returns, claiming deductions, or verifying business details. To avoid duplication of effort, it's essential to review and understand each field carefully to ensure that all required information is provided accurately and completely. It would be best to use this form for individuals or businesses that need to provide tax information for official purposes.
-
-</thinking>
-
 # Tax Information Form - Help Guide
 ## Purpose
 This form is used to collect tax-related information for official purposes, such as submitting tax returns or verifying business details.

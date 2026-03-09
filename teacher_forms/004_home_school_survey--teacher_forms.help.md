@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home School Survey - Help Guide
 
 ## Purpose

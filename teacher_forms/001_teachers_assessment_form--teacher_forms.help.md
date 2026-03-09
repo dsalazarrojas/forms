@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about teachers' assessments, which is a crucial part of evaluating their performance and providing constructive feedback. To ensure the form is completed accurately, please review each field carefully and provide clear responses. This form should not be used for other purposes, such as creating student profiles or scheduling events. 
-</thinking>
-
 # Teachers Assessment Form - Help Guide
 ## Purpose
 This form is meant to assess a teacher's performance based on their strengths, weaknesses, institutional standing, teaching practice, and institutional achievements. The assessment is used to provide feedback and help teachers grow professionally.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the leadership qualities of teachers in early education settings. It appears to be focused on assessing the leadership abilities of a teacher at a school, likely to help administrators, mentors, or peers understand the strengths and areas of improvement of the teacher. The form is likely part of a larger evaluation process, possibly as a periodic assessment or as part of a more comprehensive evaluation framework. Given the presence of select_multiple fields, it's possible that this form is used to gather ratings on different aspects of leadership, such as communication and inspiration. However, without further context, it's difficult to determine the specific goals and usage of this form. It's possible that this form is used as a standalone evaluation tool or part of a larger performance evaluation process. I'm assuming it's part of a larger process to help teachers grow and improve their leadership skills.
-</thinking>
-
 # Leadership Assessment For Early Education - Help Guide
 ## Purpose
 The Leadership Assessment For Early Education form is designed to gather feedback on a teacher's leadership qualities. This feedback is intended to help teachers grow and improve their leadership skills, potentially as part of a larger performance evaluation process.

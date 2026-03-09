@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for students to enroll themselves in a course or program offered by a school or educational institution. The purpose of this form is to collect essential information about the student, including personal details, course enrollment information, and payment details. This form should only be used by students to enroll themselves and not for any other purpose.
-Please note that each page in this form has a unique ID and name. For example, page 1 is "student_name" and page 2 is "email". This form is designed to be user-friendly and easy to navigate.
-Please ensure that you fill out each page according to your relevant information. If you have any issues or doubts while filling out the form, please contact your school administrator or support team.
-</thinking>
-
 # Student Enrollment Form - Help Guide
 
 ## Purpose

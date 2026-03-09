@@ -1,12 +1,3 @@
-<thinking>
-This form is a registration form for Cub Scouts, which is a youth organization that aims to develop character, citizenship, and physical skills in kids. The purpose of this form is to collect information from parents or guardians about their child's registration details. The form asks for basic contact information, personal details, and emergency contact information.
-
-To ensure that the information provided is accurate and complete, please review the fields carefully before submitting. Note that some fields are optional, but please provide any relevant information that you can.
-
-Please ensure that the child's information is accurate to the best of your knowledge, and that any emergency contact information is up to date.
-
-</thinking>
-
 # Cub Scout Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from parents or guardians about their child's registration details for Cub Scouts.

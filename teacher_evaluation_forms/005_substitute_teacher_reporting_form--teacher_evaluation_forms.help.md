@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for teachers to report on the behavior and performance of students during a substitute teacher's lessons. The form is designed to gather information on the student's engagement, behavior, and overall performance. This form is typically used by teachers to communicate their observations and feedback to the regular teacher or school administrators.
-The form is not intended for use as a formal assessment or evaluation tool, but rather as a means of informal feedback and communication. It is essential to complete the form accurately and honestly to ensure that it effectively serves its purpose.
-Before proceeding, please check that this form is not already in use for a different purpose or context.</thinking>
-
 # Substitute Teacher Reporting Form - Help Guide
 ## Purpose
 This form is intended for teachers to report on the behavior and performance of students during a substitute teacher's lessons. It is designed to gather information on the student's engagement, behavior, and overall performance for the regular teacher or school administrators.

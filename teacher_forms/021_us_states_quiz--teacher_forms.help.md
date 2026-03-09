@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to generate a simple quiz on US states. It is not affiliated with or endorsed by any form platform, and its content is original and generated using public survey topic metadata. The form consists of two pages with five fields. The first page asks a question about the capital of California, and the second page asks a question about the capital of New York. Both questions are simple text inputs, and the form does not have any options or validation. The "Result" field is a free-text field where users can enter their answers. The form does not track or store any user data.
-</thinking>
-
 # US States Quiz - Help Guide
 ## Purpose
 The US States Quiz form is designed to test knowledge of US state capitals. It consists of two pages with two questions and a result field. Fill in the blanks for each question, and the form will not track or store any user data.

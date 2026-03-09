@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for technicians to record notes and details of refrigeration services provided to customers. It should only be used for this purpose and not for any other type of service report.
-
-The form captures essential details of a refrigeration service visit, including customer contact information, service date and time, technician signature, and customer signature (if applicable). This helps maintain accurate records of services performed and can be used to track customer communication and follow-up.
-
-Please make sure to only use this form for refrigeration services. Do not use it for other types of service reports. If you're unsure, please reach out to your supervisor or support team for guidance.
-</thinking>
-
 # Refrigeration Service Report Form - Help Guide
 ## Purpose
 This form is intended for technicians to record notes and details of refrigeration services provided to customers.

@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning for this form is to collect information about a student registering for a music school, including their name, preferred class days, start time, instrument, email, teacher's name, and phone number. This form should be used when a student is signing up for music lessons at the school. The form does not require any information to be filled out, so it's likely used to gather information from students who are interested in taking music lessons but have not yet committed to a class schedule.
-</thinking>
-
 # music_school_registration_form - Help Guide
 ## Purpose
 This form is used to collect information from students who are interested in signing up for music lessons at the school.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from faculty members about their teaching experience in a class. It aims to understand their level of satisfaction with the class, the difficulty level, the teaching style of the instructor, and other relevant factors. The form is intended to be completed by the faculty members and their feedback will be used to improve the teaching quality and overall class experience. Before proceeding, please ensure that this form is not already completed by the same faculty member for the same class or semester. Completing this form multiple times can lead to duplicate responses that may skew the overall data and analysis.
-</thinking>
-
 # Faculty Satisfaction Survey - Help Guide
 ## Purpose
 The Faculty Satisfaction Survey is designed to gather feedback from faculty members about their teaching experience in a class. This feedback helps the institution to understand the strengths and weaknesses of the class and make informed decisions to improve the teaching quality and overall class experience.

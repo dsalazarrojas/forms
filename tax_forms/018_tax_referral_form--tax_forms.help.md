@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of this form, we must understand the context in which it's being used. This form is likely used for tax referrals, where an individual or organization is seeking to refer someone to a tax professional or firm. This form would typically be used by an individual or a representative of a tax firm to collect information about themselves and their referral. The fields included in the form appear to be focused on collecting contact information, such as name, email, and phone number, as well as information about the referral source, including their name, firm, and contact details. This form might be used by tax firms or professionals to track and follow up on referrals, or to provide a structured way for individuals to refer their contacts to tax services. The form might also be used to gather feedback on how the person being referred knew about the tax firm, providing insights into marketing and outreach efforts.
-</thinking>
-
 # Tax Referral Form - Help Guide
 ## Purpose
 The Tax Referral Form is a tool for individuals and tax firms to collect information about themselves and their referrals to a tax professional or firm.

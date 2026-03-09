@@ -1,5 +1,3 @@
-<thinking>...this form is a GED practice test booking form for students to schedule tests with teachers. It is not intended for students to book tests for themselves, but rather for teachers to book tests for their students. This form is likely to be used in an educational setting where teachers can easily and efficiently book tests for their students. I will not output any internal logic or business rules as this form is intended for end-users to understand how to fill it out...</thinking>
-
 # ged-practice-test-booking-form - Help Guide
 ## Purpose
 This form is used by teachers to schedule practice tests for their students. It allows teachers to select a test date and time, choose the type of test, and assign a tool to the student.

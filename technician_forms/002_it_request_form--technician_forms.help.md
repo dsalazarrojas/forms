@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect IT requests from users, allowing them to report incidents or issues related to software, hardware, or other IT-related matters. The form is intended to be used by users to submit their requests in a structured and organized manner, providing the necessary information to facilitate the IT team's ability to efficiently address and resolve these issues. 
-
-</thinking>
-
 # IT Request Form - Help Guide
 ## Purpose
 The IT Request Form is a tool used to collect and document IT requests from users. This form helps the IT team to efficiently address and resolve issues related to software, hardware, and other IT-related matters.

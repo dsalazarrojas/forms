@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used by teachers to evaluate the progress of their students in a course. The form aims to gather information on various aspects of student performance, including course progress, student engagement, motivation, teacher support, course materials, student strengths, weaknesses, and overall course progress. This information will be used to identify areas of improvement and provide recommendations for course development and student support.
 
 </thinking>

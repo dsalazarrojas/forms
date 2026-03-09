@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for inspectors and technicians to conduct a weld inspection on production lines, ensuring that welds are up-to-date and compliant with quality and safety standards. 
-The form's purpose is to collect and track information on the production process, welding method, equipment condition, production status, and inspection results. The goal is to maintain accurate and consistent records, preventing potential defects and ensuring efficient production.
-The form should not be used for other purposes, such as reporting general production data or tracking inventory. If you're looking for other forms, please refer to our [form library](https://example.com/form-library).
-</thinking>
-
 # welding_inspection_form - Help Guide
 ## Purpose
 The welding inspection form is designed for weld inspections on production lines, focusing on ensuring quality and safety standards are met.

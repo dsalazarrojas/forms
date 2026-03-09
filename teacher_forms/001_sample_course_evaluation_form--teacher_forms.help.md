@@ -1,7 +1,3 @@
-<thinking>...
-This help guide will provide a detailed explanation of the Sample Course Evaluation Form. This form is used to gather feedback from teachers about their course. The purpose of this form is to help educators understand how teachers perceive their courses, and what areas need improvement.
-</thinking>
-
 # Sample Course Evaluation Form - Help Guide
 ## Purpose
 

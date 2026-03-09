@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on a person's listening habits, specifically their preferences and behaviors related to music, podcasts, and other audio content. The goal is to gather data on how individuals approach listening to different types of content, including the frequency and duration of listening, favorite channels, and preferred times of day. This information can be useful for various applications such as content creation, marketing, and user experience research.
-</thinking>
-
 # listening_skills_survey - Help Guide
 ## Purpose
 The listening_skills_survey form is a tool to understand an individual's preferences and behaviors related to music and podcast listening. The data collected will help us create better experiences for users.

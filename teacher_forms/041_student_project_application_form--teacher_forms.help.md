@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Project Application Form - Help Guide
 
 ## Purpose

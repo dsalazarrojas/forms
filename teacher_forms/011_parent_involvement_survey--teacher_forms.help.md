@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from parents about their preferred method of communication and involvement in their child's education. The form is designed to ensure that parents are informed and engaged in their child's activities and progress, and that their needs and preferences are taken into account. This form is not intended to be used for official communication or reporting, but rather as a way for parents to express their individual preferences.
-</thinking>
-
 # Parent Involvement Survey - Help Guide
 ## Purpose
 This survey aims to understand your preferred method of communication and involvement in your child's education.

@@ -1,7 +1,3 @@
-<thinking>
-The running for student council petition form is used to collect information and endorsements from students and teachers to support a student's candidacy for student council. The form is designed to gather the necessary details to validate the student's support and ensure that the student meets the qualifications and requirements to hold a position in the student council. This form is intended to be filled out by students who are seeking to be elected to the student council, and it is expected that a student will not fill out this form for someone else or fill out multiple instances of this form.
-</thinking>
-
 # running_for_student_council_petition_form - Help Guide
 ## Purpose
 The running for student council petition form is used to collect information and endorsements from students and teachers to support a student's candidacy for student council.

@@ -1,9 +1,3 @@
-<thinking>...checking the provided YAML to ensure form purpose and field accuracy...
-
-This form is designed for teachers to create a comprehensive adult learning plan for their students. The form collects relevant information about the student, including their profile, name, learning goals, prior education, learning style, available study time per week, support requirements, target completion date, and instructor notes. The form is intended to be completed by the teacher and used to inform their instruction and planning for the student's adult learning experience.
-
-</thinking>
-
 # Adult Learning Plan Form - Help Guide
 ## Purpose
 The Adult Learning Plan Form is a tool for teachers to create a comprehensive learning plan for their adult students. This form collects information about the student's learner profile, learning goals, and other relevant details to inform instruction and planning.

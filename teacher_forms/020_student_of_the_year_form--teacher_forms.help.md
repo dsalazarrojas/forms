@@ -1,14 +1,3 @@
-<thinking>
-To determine the purpose of this form, we need to analyze the fields and the structure provided in the YAML. The form is titled "Student Of The Year Form" which suggests that it is related to nominations or recognition of a student for academic achievements. This form has multiple pages, each likely containing different types of information related to the student.
-
-Upon further review, we can see that the form includes fields such as "Name", "Email", "Phone", "Nomination Date", "Nomination Time", "Student Grade Level", "Student Subject Area", "Teacher Name", "Teacher Email", "Teacher Phone", and "Nomination Comments". These fields suggest that the form is designed to collect data about a student's academic performance, nomination details, and contact information of the teacher or nominee.
-
-There are also fields with "Other" or "Additional" prefixes, which may indicate that there are additional teachers or nominees that need to be listed. The presence of fields like "Student Id" and "Teacher Id" further supports the idea that this form is used for tracking and managing student nominations.
-
-In general, this form appears to be used for tracking and managing student nominations, possibly for academic awards or recognition programs.
-
-Given the structure and fields, this form is likely used within an educational institution or school to gather information about students who excel in certain areas. The form can be completed by teachers, administrators, or other educators to provide a detailed account of a student's achievements.
-</thinking>
 # Student Of The Year Form - Help Guide
 ## Purpose
 This form is designed to collect and document student nomination information for academic achievements.

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to be used by fire department personnel to conduct regular inspections of fire pumps. It ensures that all fire pumps are in good working condition and meets the necessary safety standards. 
-This form will help inspectors to quickly and easily record the status of each pump, and provide valuable information for maintenance and repair purposes. 
-Please note that this form is not intended for emergency situations or immediate use in fire suppression situations. 
-Ensure that each field is filled accurately and completely to provide the required information.
-</thinking>
-
 # Fire Pump Inspection Form - Help Guide
 ## Purpose
 The Fire Pump Inspection Form is a tool used by fire department personnel to inspect and document the status of fire pumps. This form helps to ensure that all fire pumps are in proper working condition, meet safety standards, and provide critical information for maintenance and repair.

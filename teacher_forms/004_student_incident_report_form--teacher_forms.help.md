@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for teachers to report incidents involving students, such as behavioral issues or incidents that require attention from school administrators. The form is likely used to gather information about the incident, including the student's involvement, the teacher's reaction, and any additional details or comments. This form may be used by teachers to report incidents to school administrators, who can then use the information to address the issue and take necessary actions.
-</thinking>
-
 # Student Incident Report Form - Help Guide
 ## Purpose
 The Student Incident Report Form is a tool for teachers to report incidents involving students, allowing administrators to track and address issues promptly.

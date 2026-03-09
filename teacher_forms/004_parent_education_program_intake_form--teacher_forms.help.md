@@ -1,9 +1,3 @@
-<thinking>
-
-The Parent Education Program Intake Form is designed to collect information from parents and caregivers about their child's needs and goals for the education program. This form is used to gather contact details, educational preferences, and other relevant information to provide an accurate and personalized experience for the child. **Before completing this form, please ensure you have already been matched with a child through our matching process and have received a unique match ID.**
-
-</thinking>
-
 # Parent Education Program Intake Form - Help Guide
 ## Purpose
 The Parent Education Program Intake Form is a crucial document that helps us understand your child's needs and goals for the program. It is essential to provide accurate and personalized support for your child.

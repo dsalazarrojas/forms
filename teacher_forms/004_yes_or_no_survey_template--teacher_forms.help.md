@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # yes_or_no_survey_template - Help Guide
 
 ## Purpose

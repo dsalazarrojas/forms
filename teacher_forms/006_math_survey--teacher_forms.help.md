@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to collect information about teachers and their mathematical abilities and interests. It is likely used for administrative or research purposes, such as for school districts or education departments to understand the demographics and skills of their teaching staff. Before filling out this form, please ensure you have not already submitted this information to us previously. If you are unsure, please review our previous records or consult with your department administrator.
-</thinking>
-
 # Math Survey - Help Guide
 ## Purpose
 The Math Survey is a form designed to collect information about your mathematical abilities and interests. This information will help us better understand the strengths and weaknesses of our teaching staff.

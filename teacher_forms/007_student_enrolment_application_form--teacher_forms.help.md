@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to explain the form purpose and checks for relevance and non-duplication...
-
-The Student Enrolment Application Form is designed to collect essential information from students applying for enrollment in a school or educational institution. This form is intended to be completed by the student or a parent/guardian on behalf of the student. The form's purpose is to verify the student's details, including their contact information, address, and enrolment preferences. The form will be reviewed by the institution's admissions team to assess the student's eligibility and to ensure accurate record keeping.
-
-Before starting this form, please ensure you have all necessary documents and information readily available. It's also recommended to review the form carefully to ensure you complete it accurately and completely. If you have any concerns or questions, please do not hesitate to contact the admissions team.
-
-</thinking>
-
 # Student Enrolment Application Form - Help Guide
 ## Purpose
 The Student Enrolment Application Form is a document used to collect information from students applying for enrollment. It is used to verify the student's details and assess their eligibility.

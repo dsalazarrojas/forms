@@ -1,7 +1,3 @@
-<thinking>
-The Perfect Attendance Form is designed to capture information about attendees attending a meeting or event. It is intended for use in a professional setting, such as a school, office, or conference, where tracking attendance is crucial. The form is likely to be used by teachers, staff, or administrators to record the attendance of students or participants. The form should not be used for casual or social gatherings, such as parties or events.
-</thinking>
-
 # Perfect Attendance Form - Help Guide
 ## Purpose
 The Perfect Attendance Form is designed to record the attendance of attendees at a meeting, event, or gathering. This form collects information on the attendees' names, start and end dates of the event, and a note field for any additional comments or signatures.

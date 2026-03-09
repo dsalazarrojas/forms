@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather information from teachers about their emotional well-being and support needs. The purpose of this form is to identify areas where teachers may be experiencing emotional distress or need support, and to provide resources and services to help them manage their mental health. 
-
-To determine the relevance of this form, we must consider that mental health support is crucial for teachers to maintain their well-being and perform their duties effectively. This form is intended to be filled out by teachers themselves, providing them with a platform to express their feelings and needs in a confidential and safe environment. 
-
-This form is not intended to be a substitute for in-depth evaluations or assessments by mental health professionals. Its primary goal is to encourage teachers to seek support when needed and to provide school administrators with the information they require to offer targeted support. 
-
-To prevent duplication, this form should only be filled out once, and the responses will not be used to create a duplicate record. 
-</thinking>
-
 # Teacher Emotional Health Support Request Form - Help Guide
 ## Purpose
 The Teacher Emotional Health Support Request Form is designed to help you, as a teacher, express your feelings and needs regarding your emotional well-being. This form will gather information about your current emotional state, concerns, and support requirements within the school environment. The information gathered will help us better understand how to provide you with the necessary support.

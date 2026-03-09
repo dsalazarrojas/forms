@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's ensure that the form is being used correctly and that the data entered is not duplicating existing records. Please confirm that the form is being used to declare the completion of a course, and that the data entered is not a duplicate of an existing record. This guide is intended for end-users who are not familiar with the form.</thinking>
-
 # Course Completion Declaration Form - Help Guide
 ## Purpose
 

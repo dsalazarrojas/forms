@@ -1,12 +1,3 @@
-<thinking>
-The School Model Survey form is designed to collect information from teachers to understand their preferences and opinions about their school model. The form will help to identify areas of strength and weakness of the current school model and provide insights to improve it.
-
-The form will not be used for any other purpose. The form is not a replacement for any existing process and will not affect any existing data or systems.
-
-To ensure data quality, it is essential to fill out the form accurately and completely. Please take your time to carefully read the form instructions and make sure you understand each field's purpose and requirements. If you have any questions or need clarification, do not hesitate to reach out to the relevant authorities.
-
-</thinking>
-
 # School Model Survey - Help Guide
 ## Purpose
 The School Model Survey is designed to collect information from teachers about their current school model. This information will be used to identify areas of strength and weakness and help improve the school model.

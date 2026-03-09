@@ -1,5 +1,3 @@
-<thinking>Before designing the help guide, let's break down the form purpose and fields. This form is for university admission, likely used by students or applicants to provide necessary information for the admission process. Each field is a crucial part of the process and requires accurate input to ensure a smooth application. We should also check for any duplication or redundancy in the fields, but based on the provided YAML, it seems that each field serves a distinct purpose.</thinking>
-
 # University Admission Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from students for the university admission process. It will help the admissions team to get in touch with you and guide you through the next steps of your application.

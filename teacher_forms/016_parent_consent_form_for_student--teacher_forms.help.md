@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to obtain consent from parents or guardians for student activities, programs, or events. It is usually used by schools, educational institutions, or organizations to ensure parental involvement and approval. Before filling out this form, ensure you are aware of the event or activity details and that you have the necessary permissions to proceed. This form should be completed by parents or guardians and submitted to the relevant authority for review and processing.
-
-</thinking>
-
 # Parent consent form for student - Help Guide
 ## Purpose
 This form is used to obtain consent from parents or guardians for student activities, programs, or events. It ensures parental involvement and approval for the student to participate.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are seeking assistance from a service technician. It is intended for users to submit a request for support with a service technician, specifying their name, contact information, and a description of the problem they are experiencing. It is not necessary to fill out all fields, as they are all optional. However, providing a detailed description of the problem will help service technicians better understand the issue and provide more accurate assistance. Please fill out the form with the required and optional information, and be as detailed as possible when describing the problem you are experiencing.
-</thinking>
-
 # Service Technician Request Form - Help Guide
 ## Purpose
 The Service Technician Request Form is a tool for users to submit a request for support with a service technician. It is a simple form that collects information about the user, including their name, contact information, and a description of the problem they are experiencing.

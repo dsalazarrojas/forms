@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to record students' physical education fitness log, which helps track their progress and performance in a physical education class. This form is typically used by students to report their exercises completed, sets and reps done, and any additional comments from their teacher. The form is used to gather data for the teacher to monitor and evaluate student performance.
-
-</thinking>
-
 # Physical Education Fitness Log Form - Help Guide
 ## Purpose
 The Physical Education Fitness Log Form is used by students to report their exercises completed, sets and reps done, and any additional comments from their teacher during a physical education class. This form is essential for tracking student progress and evaluating their performance.

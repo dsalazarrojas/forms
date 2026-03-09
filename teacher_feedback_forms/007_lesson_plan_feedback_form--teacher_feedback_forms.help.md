@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to be used internally by employees who need to complete the Lesson Plan Feedback Form. Please note that this form is a general tool and may be used for various purposes within the organization. To confirm, the Lesson Plan Feedback Form is designed to gather feedback on lessons plans. The form's purpose is to allow teachers to share their experiences and insights after completing a lesson plan with students. This form is not a replacement for more comprehensive feedback mechanisms or performance evaluations.
-
-Before starting, make sure that the information provided in this guide is accurate and relevant to your specific use case. If you're unsure, refer back to the original context or contact the form's administrators for clarification.
-</thinking>
-
 # Lesson Plan Feedback Form - Help Guide
 ## Purpose
 

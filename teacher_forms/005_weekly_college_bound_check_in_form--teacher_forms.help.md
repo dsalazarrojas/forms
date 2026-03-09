@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's quickly review the form's purpose and ensure it's relevant and not duplicated. The Weekly College Bound Check In Form is designed to gather information about students who are bound for college. This form seems to be a comprehensive check-in tool for tracking student progress, meeting details, and follow-up activities. I'll make sure to cover all the fields and provide a clear, concise explanation for end-users.</thinking>
-
 # Weekly College Bound Check In Form - Help Guide
 
 ## Purpose

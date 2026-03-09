@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sunday School Registration Form - Help Guide
 ## Purpose
 The Sunday School Registration Form is used to collect information from students and their parents/guardians for Sunday School purposes. This form helps us understand the student's details, schedule, and preferences, ensuring they can attend and engage with the Sunday School program efficiently.

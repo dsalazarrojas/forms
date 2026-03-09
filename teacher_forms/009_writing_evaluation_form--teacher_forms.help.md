@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for evaluating a student's writing quality, clarity, organization, grammar, and creativity. It's meant to be filled out by an instructor or educator to provide feedback on a student's writing assignment. This form ensures that the evaluation is comprehensive and fair, providing specific, actionable feedback to the student. It is not meant to be filled out by students themselves.
-</thinking>
-
 # Writing Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate a student's writing quality, clarity, organization, grammar, and creativity. It is filled out by an instructor or educator to provide feedback on a student's writing assignment.

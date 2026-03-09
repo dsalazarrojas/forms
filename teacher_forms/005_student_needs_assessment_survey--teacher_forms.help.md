@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess the needs of students, which could be a useful tool for educators or administrators to understand what students require to succeed in a learning environment. The form is likely used in a school or academic setting to gather information about student needs and concerns. The form has a mix of required and non-required fields, suggesting that some information is essential to collect while others are optional or supplementary. The fields include text input for various student needs and hints.
-
-</thinking>
-
 # Student Needs Assessment Survey - Help Guide
 ## Purpose
 This form is designed to gather information about student needs and concerns. It aims to help educators and administrators understand what support students require to succeed in a learning environment.

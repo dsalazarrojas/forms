@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information about a missing assignment from a student and their parent/guardian. The purpose of this form is to ensure that students and their parents/guardians can communicate and confirm the absence of a student from school. This form is designed to be completed by a student and their parent/guardian, and it serves as a template to standardize the collection of necessary information. Before starting, please ensure that you have reviewed the form's purpose and that you are not duplicating an existing process.
-</thinking>
-
 # Missing Assignment Form Template - Help Guide
 
 ## Purpose

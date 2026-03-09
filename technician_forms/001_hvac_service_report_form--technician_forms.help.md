@@ -1,13 +1,3 @@
-<thinking>
-To determine the purpose of this form, we need to analyze the field types and labels. The form seems to be related to HVAC (Heating, Ventilation, and Air Conditioning) service reports. It appears to be a form for technicians to document the status of a system, likely after performing maintenance or repairs. The fields include various details about the system, such as its make, model, year of manufacture, and serial number, as well as notes and comments from the technician and customer. The form also includes fields for collecting customer information, such as their name, address, phone number, and email. This suggests that the form is used for reporting and tracking purposes, rather than for real-time troubleshooting or emergency services.
-
-Checking for duplication:
-After analyzing the form, it seems that there might be some duplication of fields. For example, "System Notes" and "Customer Comment" both seem to collect similar information. However, the primary difference appears to be that "System Notes" is for the technician to add notes, while "Customer Comment" is for the customer to add their thoughts. 
-
-However, there might be better ways to organize or combine these fields to improve usability and reduce duplication. 
-
-</thinking>
-
 # hvac_service_report_form - Help Guide
 ## Purpose
 The HVAC Service Report Form is designed for technicians to document the status of a HVAC system after performing maintenance or repairs. This form collects information about the system, customer, and other relevant details to ensure accurate reporting and tracking.

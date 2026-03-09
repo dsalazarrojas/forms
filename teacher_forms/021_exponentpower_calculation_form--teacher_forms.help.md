@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to facilitate the calculation of exponentiation, a mathematical operation involving raising a base number to a power. This calculation is essential in various mathematical contexts, such as evaluating exponential functions, calculating powers of roots, and solving equations involving exponents. This form will help users input the base and exponent numbers and select the desired calculation type (base to exponent or exponent to base). To ensure that users provide accurate data, the form will not allow them to proceed unless the base and exponent numbers are both entered.
-</thinking>
-
 # ExponentPower Calculation Form - Help Guide
 ## Purpose
 This form is designed to calculate the result of raising one number to the power of another, a crucial operation in mathematics. It allows users to input two numbers and select whether to calculate from base to exponent or from exponent to base.

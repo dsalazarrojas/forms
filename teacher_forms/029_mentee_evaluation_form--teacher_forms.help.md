@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mentee_evaluation_form - Help Guide
 ## Purpose
 The mentee evaluation form is used to record and track the progress and performance of mentees in various programs such as mentoring and project-based programs. This form helps mentors and administrators assess the mentees' progress, identify areas of improvement, and provide constructive feedback.

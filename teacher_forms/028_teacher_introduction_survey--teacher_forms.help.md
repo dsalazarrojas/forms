@@ -1,11 +1,3 @@
-<thinking>
-To ensure that this form's purpose, usage, and field explanations are relevant and consistent with the provided YAML, I'll assume that this form is designed for teachers to introduce themselves, share their experience, and highlight their areas of expertise. The form might be used in a scenario where teachers need to be matched with students or peers based on their skills and experience. The form's purpose is to gather essential information about the teacher's background, job title, email address, years of experience, subject area, and other relevant details to facilitate effective matching. This form is likely to be used by administrators or coordinators to populate a database or system for teacher pairing or resource allocation.
-
-To avoid duplication, the form might be designed to collect similar information for different schools or institutions, allowing teachers to be matched with specific schools or programs.
-
-Given the form's structure and fields, I'll provide a user-facing help guide to ensure that end-users understand its purpose and usage.
-</thinking>
-
 # teacher_introduction_survey - Help Guide
 ## Purpose
 This form is designed to help teachers introduce themselves by providing essential information about their background, experience, and areas of expertise. It will be used to populate a database or system for teacher pairing or resource allocation.

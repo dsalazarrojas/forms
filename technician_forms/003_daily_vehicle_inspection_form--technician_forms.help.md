@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture data from technicians performing daily vehicle inspections. The form likely serves as a means of tracking the inspection of vehicles, including the vehicle's ID, inspection date, and inspection results. It's possible that this form is part of a larger system used for fleet management or asset tracking. To confirm, please ensure that this form is not being used as a general-purpose vehicle registration form or a form for capturing inspection data for vehicles not subject to regular inspections.
-</thinking>
-
 # Daily Vehicle Inspection Form - Help Guide
 ## Purpose
 The Daily Vehicle Inspection Form is used to track the inspection of vehicles, capturing relevant information such as vehicle ID, inspection date, and inspection results.

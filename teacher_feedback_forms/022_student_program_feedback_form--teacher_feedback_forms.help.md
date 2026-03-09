@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students on the effectiveness of a program or course. The form is meant for teachers to gather insights on how well they've met the needs of their students, identify areas of improvement, and make data-driven decisions to enhance the learning experience. It's essential to complete this form accurately to provide valuable insights for future program development and evaluation. Please ensure you're filling it out only once per program or course. If you've already completed this form for the same program or course, your feedback will be recorded, and you should not fill it out again.
-
-The form consists of several sections, each designed to collect specific types of feedback. Please read through each section carefully and fill out the form accordingly.
-
-</thinking>
-
 # Student Program Feedback Form - Help Guide
 
 ## Purpose

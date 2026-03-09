@@ -1,13 +1,3 @@
-<thinking>
-
-The form is designed to collect feedback from peers for presentations made during meetings, workshops, or other group discussions. This feedback is intended to help presenters identify areas of improvement and make future presentations more effective. Presenters will be able to receive feedback on the clarity, relevance, and overall quality of their presentation.
-
-When completing this form, please provide your honest and constructive feedback, keeping in mind that it will be shared with the presenter to aid their growth and development.
-
-Before proceeding, ensure that the form is not a duplicate of another feedback form you have already submitted. If you're unsure, please refer to your organization's policies and procedures to determine the appropriate form to use.
-
-</thinking>
-
 # Presentation Peer Feedback Form - Help Guide
 ## Purpose
 The Presentation Peer Feedback Form is designed to collect constructive feedback from peers on presentations made during meetings, workshops, or other group discussions. This form helps presenters identify areas of improvement and make their presentations more effective.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from parents on various aspects of the school's performance, including climate, facilities, services, teacher performance, student performance, and safety. The form is meant to help the school understand the parent's perspective and make informed decisions to improve their experience. This form is a collection of text boxes and select boxes that allow parents to provide their honest feedback. 
-
-Before filling out this form, please ensure that you are providing accurate and sincere feedback. If you have filled out this form before, please review your previous feedback to ensure consistency and avoid duplication. 
-
-Please take your time to fill out each field carefully, and if you have any questions or concerns, do not hesitate to reach out to the school. 
-
-</thinking>
-
 # Parent Feedback Form - Help Guide
 ## Purpose
 

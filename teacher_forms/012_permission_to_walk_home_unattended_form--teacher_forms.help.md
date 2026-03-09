@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to grant permission to students to walk home unattended from school. It is intended for use by school administrators, teachers, or other authorized personnel to document the permission given to students. Before filling out this form, please confirm that you are authorized to do so and that it is not being used for any other purpose or context. This form is not a substitute for proper supervision and monitoring of students during school events.
-</thinking>
-
 # Permission To Walk Home Unattended Form - Help Guide
 ## Purpose
 This form is designed to grant permission to students to walk home unattended from school. It is intended for use by school administrators, teachers, or other authorized personnel to document the permission given to students.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report incidents that occur on the school premises. The purpose of this form is to gather necessary information from students, staff, and responders to investigate and address incidents efficiently. To avoid duplication of efforts, please ensure that the form is filled out accurately and completely. If you have already submitted an incident report, do not submit another one unless the incident is a recurrence or a new development.
-</thinking>
-
 # School Incident Report Form - Help Guide
 ## Purpose
 The School Incident Report Form is a tool to collect and document incidents that occur on school premises. It is essential to provide accurate and detailed information to facilitate effective investigation and resolution of incidents.

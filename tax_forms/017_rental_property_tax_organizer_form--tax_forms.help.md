@@ -1,8 +1,3 @@
-<thinking>
-The form design should cater to users who need to organize and provide information for rental property tax purposes. The form should be easy to navigate and understand, with clear labeling and required fields for essential tax information. The purpose of the form is to guide users through the process of inputting their rental property tax data accurately and efficiently. This form aims to reduce errors and improve the quality of tax submissions. It's essential to ensure that the form is accessible and user-friendly, especially for those who may not be familiar with tax procedures. The form should be designed to accommodate users with varying levels of tax knowledge, making it a valuable tool for both individuals and tax professionals. The form's layout should be well-structured and organized, with each field's description clearly indicating its purpose and relevance to the tax calculation process.
-
-</thinking>
-
 # Rental Property Tax Organizer Form - Help Guide
 ## Purpose
 This form is designed to help users accurately and efficiently provide rental property tax information. It guides users through the collection of essential tax details, ensuring that all required fields are filled out correctly.

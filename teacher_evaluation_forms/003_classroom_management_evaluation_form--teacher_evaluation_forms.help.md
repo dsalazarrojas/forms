@@ -1,30 +1,3 @@
-<thinking>
-
-The Classroom Management Evaluation Form is designed to assess the quality of a teacher's classroom management skills. This form is intended to be used by evaluators to provide an objective assessment of a teacher's ability to manage a classroom effectively. It is crucial to complete this form accurately and thoroughly to provide a fair evaluation of the teacher's performance.
-
-To ensure that the form is completed correctly, please follow these steps:
-
-1.  Fill out your name as the evaluator on the first field.
-2.  Provide the name of the teacher being evaluated on the second field.
-3.  Enter the classroom's location, or the room number, in the third field.
-4.  Select the date of the evaluation in the fourth field.
-5.  Choose the grade level of the class from the options in the fifth field.
-6.  Enter the subject area being taught in the sixth field.
-7.  Rate the classroom environment on the seventh field, using the provided options.
-8.  Assess the level of student engagement during instruction on the eighth field.
-9.  Evaluate the teacher's behavior management effectiveness on the ninth field.
-10.  Determine the smoothness of class transitions on the tenth field.
-11.  Assess the effectiveness of instructional time usage on the eleventh field.
-12.  Evaluate the quality of student-teacher interactions on the twelfth field.
-13.  Determine if the classroom rules are clearly posted and understood on the thirteenth field.
-14.  List the teacher's strengths in classroom management on the fourteenth field.
-15.  Suggest areas where improvement is needed on the fifteenth field.
-16.  Add any additional comments or recommendations on the sixteenth field.
-
-This form should be completed by one evaluator per observation. The answers should be based on your direct observation of the teacher's classroom management during the evaluation period. If you are unsure about any of the questions, please consult with your supervisor or refer to the provided instructions for clarification.
-
-</thinking>
-
 # Classroom Management Evaluation Form - Help Guide
 ## Purpose
 The Classroom Management Evaluation Form is designed to assess the quality of a teacher's classroom management skills.

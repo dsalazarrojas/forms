@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for technicians to report their daily activities, maintenance tasks, completed work orders, and other relevant information for documentation and tracking purposes. The form captures details about the technician's activities, including whether maintenance tasks were performed, whether work orders were completed, and other key events that occurred during their shift. The purpose of this form is to provide a clear and concise record of the technician's work, which can be used for various operational and administrative functions. It is essential to ensure that all required fields are filled in for accurate reporting.
-
-Before filling out this form, please review the fields below to understand what information is required and how to complete each section.
-</thinking>
-
 # Daily Technician Report - Help Guide
 ## Purpose
 The Daily Technician Report is a form designed to document the activities and events that occurred during a technician's shift. This form is used to track progress, identify areas for improvement, and provide insights for administrative and operational purposes.

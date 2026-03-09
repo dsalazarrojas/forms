@@ -1,20 +1,3 @@
-<thinking>... internal reasoning block to ensure the form purpose and structure are understood without duplication...
-
-The "Consent To Disclose Tax Return" form is a crucial document that enables individuals or organizations to request access to tax return information from the Internal Revenue Service (IRS) on behalf of a taxpayer. This form is used to obtain permission from the taxpayer to disclose their tax return information to a third party. 
-
-The purpose of this form is to:
-
-*   Obtain the taxpayer's consent to disclose their tax return information to a third party for a specific purpose.
-*   Establish the limitations on the disclosure, including the type of information to be disclosed.
-*   Acknowledge the taxpayer's rights under the Internal Revenue Code Section 7216.
-*   Record the taxpayer's electronic signature, indicating their consent and agreement to the terms of the disclosure.
-
-The form has two main sections: "Taxpayer Information" and "Disclosure Authorization". The "Taxpayer Information" section is used to collect information about the taxpayer, including their name, identification number, and address. The "Disclosure Authorization" section is used to specify the third party's name and address, the purpose of the disclosure, and the type of information to be disclosed. 
-
-The form requires the taxpayer's electronic signature, which serves as acknowledgment of their consent and agreement to the terms of the disclosure.
-
-The following sections provide a detailed explanation of each field in the form:</thinking>
-
 # Consent To Disclose Tax Return - Help Guide
 ## Purpose
 The "Consent To Disclose Tax Return" form is used to obtain the taxpayer's consent to disclose their tax return information to a third party for a specific purpose.

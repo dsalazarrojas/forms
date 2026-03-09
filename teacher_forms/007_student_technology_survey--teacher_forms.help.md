@@ -1,8 +1,3 @@
-<thinking>
-This is a survey designed to gather data on students' and teachers' experiences, attitudes, and behaviors related to technology in educational settings. The form is intended to provide insight into how technology is being used in schools and its impact on student and teacher performance. This information can help educators and administrators better understand the needs of their students and teachers, identify areas of improvement, and make informed decisions about technology integration.
-The main purpose of this survey is to gather qualitative data through open-ended questions, allowing respondents to provide detailed responses about their experiences with technology. This form is part of a larger study on technology in education and its effects on students and teachers.
-</thinking>
-
 # Student Technology Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about students' and teachers' experiences, attitudes, and behaviors related to technology in educational settings.

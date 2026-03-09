@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for educators to input their data for collaboration purposes. The purpose of this form is to collect information about the user, their institution, and their collaboration preferences. It is expected that only one instance of the form will be created per user. Please ensure that you fill out the form correctly to avoid duplication of effort and confusion.
-
-</thinking>
-
 # Global Educator Collaboration Application - Help Guide
 ## Purpose
 The Global Educator Collaboration Application is designed to collect information about educators for collaboration purposes. This form helps us gather essential data about you and your institution to facilitate effective collaboration and communication among educators.

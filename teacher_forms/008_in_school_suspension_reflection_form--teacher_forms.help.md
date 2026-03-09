@@ -1,5 +1,3 @@
-<thinking>...This is the internal reasoning block that explains the form purpose and checks for relevance and non-duplication...</thinking>
-
 # In School Suspension Reflection Form - Help Guide
 ## Purpose
 This form is used to document and reflect on incidents involving student suspension. It gathers information on the student's name, incident details, and teacher's comments, as well as the duration and date of the suspension. This form helps teachers and administrators to better understand the incidents and make informed decisions.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be completed by a mentor to evaluate the progress and performance of a mentee in a mentorship program. This form is used to track and record evaluations for both mentors and mentees. It is recommended to complete this form at the end of each evaluation period (e.g., monthly, quarterly, semi-annually, or annually). Please note that if you are re-evaluating a mentee who has had multiple evaluations, you will need to fill out a new evaluation form for each period.
-
-Before starting, please make sure that the previous evaluation form has been submitted. This will help ensure that your evaluation is not a duplicate and that you are evaluating the mentee's progress from the correct starting point.
-</thinking>
-
 # Mentor Evaluation Form - Help Guide
 ## Purpose
 The Mentor Evaluation Form is a tool for tracking and recording the progress and performance of mentees in a mentorship program. It allows mentors to provide feedback and evaluations at regular intervals (e.g., monthly, quarterly, semi-annually, or annually).

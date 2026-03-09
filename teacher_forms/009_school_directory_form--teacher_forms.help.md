@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Directory Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from users on their experience with remote learning, specifically their experience with different technologies used for remote learning. This feedback is essential for us to understand how to improve our services and make remote learning more accessible and effective for everyone.
-
-Before starting the survey, please note that this is a completely optional form, and you are free to answer as many or as few questions as you feel comfortable with. Your feedback will help us create better experiences for future users.
-
-Also, please keep in mind that some questions are multiple-choice or numerical, while others are open-ended and allow you to provide detailed feedback. We appreciate your honesty and willingness to share your thoughts.
-
-</thinking>
-
 # Technology Survey For Remote Learning - Help Guide
 ## Purpose
 This form is designed to gather feedback from users on their experience with remote learning and different technologies used for remote learning.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for teachers to record informal observations of their own teaching practice. The purpose of this form is to collect feedback and suggestions on how to improve teaching effectiveness. This form is typically filled out by teachers for their own self-reflection or by administrators for coaching or mentoring purposes.
-</thinking>
-
 # Informal Observation Form - Help Guide
 ## Purpose
 The Informal Observation Form is a tool for teachers to collect feedback and suggestions on how to improve their teaching effectiveness.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from teachers about the school lunch program, specifically their feelings and satisfaction with the lunch options available. It is intended to gather data on their preferences and opinions about the lunch program, which can help inform decision-making for the school administration. This form should only be filled out by teachers who are currently working at the school, and the data collected will be used to improve the lunch program for students. If you have already filled out this form, please do not submit it again.</thinking>
-
 # Packing School Lunch Survey - Help Guide
 
 ## Purpose

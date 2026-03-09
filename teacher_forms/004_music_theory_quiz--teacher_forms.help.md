@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from music enthusiasts about their musical experience, preferences, and interests. This quiz will help us better understand your musical background and what aspects of music theory might be of interest to you.
-
-Please make sure to answer these questions honestly and to the best of your ability. Your responses will help us create more targeted and effective resources for music theory education.
-
-This form does not collect any sensitive or personal identifiable information and will not be used for commercial purposes.
-</thinking>
-
 # Music Theory Quiz - Help Guide
 ## Purpose
 

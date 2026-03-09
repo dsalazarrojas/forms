@@ -1,9 +1,3 @@
-<thinking>
-The Teacher Engagement Survey is a tool used to gather information about how engaged teachers are with their school, colleagues, and the overall school environment. This form is likely used by school administrators or HR departments to assess the level of engagement among teachers and identify areas for improvement.
-
-To prevent duplication of effort, it's essential to ensure that teachers are not asked to complete this form multiple times. This form should only be completed once per teacher, and the data collected will be used to inform school policies and support teacher well-being.
-</thinking>
-
 # Teacher Engagement Survey - Help Guide
 ## Purpose
 The Teacher Engagement Survey is a tool used to gather information about how engaged teachers are with their school, colleagues, and the overall school environment. This form is likely used by school administrators or HR departments to assess the level of engagement among teachers and identify areas for improvement.

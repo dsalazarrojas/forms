@@ -1,5 +1,3 @@
-<thinking>... The purpose of this form is to gather information from teachers about their class enhancements, including feedback from parents, comments from teachers, and action plans for the class. This form should only be filled out when the class has received feedback from parents, which means the teacher will have a specific instance of the class they are providing the information for. This form will not be used for general feedback or to assign tasks to other users without feedback. If you're not sure if this form applies to your class, please check with your department or manager first. ...</thinking>
-
 # Montessori School Class Enhancement Form - Help Guide
 ## Purpose
 This form is used by teachers to provide feedback from parents, comments from teachers, and action plans for a specific class that has received feedback.

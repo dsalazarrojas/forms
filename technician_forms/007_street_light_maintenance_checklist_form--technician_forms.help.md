@@ -1,9 +1,3 @@
-<thinking>
-This form is used by street light maintenance technicians to collect and document information about the status of street lights. 
-This form is intended to be completed during regular street light maintenance checks, and it should only be filled out once for each street light. 
-Please ensure that you are using this form for its intended purpose and do not duplicate efforts by filling out this form for the same street light multiple times.
-</thinking>
-
 # Street Light Maintenance Checklist Form - Help Guide
 ## Purpose
 This form is used by street light maintenance technicians to collect and document information about the status of street lights. It is intended to be completed during regular street light maintenance checks.

@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and ratings from learners after an e-learning session. The purpose of this form is to gather information about the quality and effectiveness of the session, as well as suggestions for improvement. It is meant to be a quick and easy way to provide feedback that can help instructors refine their teaching methods and materials.
-
-To complete this form, simply follow these steps:
-
-1. Select the e-learning session for which you are providing feedback.
-2. Provide a brief description of your feedback.
-3. Rate the session on a scale from 1 to 5.
-4. If you have any additional comments, please provide them.
-5. If you have any suggestions for improvement, please provide them.
-
-</thinking>
-
 # e_learning_session_feedback_form - Help Guide
 ## Purpose
 

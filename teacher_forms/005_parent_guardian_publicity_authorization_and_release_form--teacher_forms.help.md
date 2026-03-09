@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to first understand the purpose of the form and the requirements for completing it. This form is likely used for obtaining authorization and release from parents, guardians, and teachers for certain project uses, such as publicity, which may involve sharing student or school information with external parties. The form's purpose is to ensure that all parties involved are aware of and agree to the project's terms and conditions.
-
-Before proceeding, please ensure that you have the necessary permissions from all relevant parties. If you are a parent or guardian, please complete this form with your child's information. If you are a teacher, please complete this form with your student's information. If you are a school representative, please complete this form with school information. Please note that this form is only required for project uses that involve publicity.
-
-</thinking>
-
 # Parent Guardian Publicity Authorization And Release Form - Help Guide
 ## Purpose
 The Parent Guardian Publicity Authorization And Release Form is a document that allows parents, guardians, and teachers to authorize and release their students' information for publicity purposes.

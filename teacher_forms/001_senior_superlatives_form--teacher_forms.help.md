@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from students who are nominating a senior student for the title of "Senior Superlative". The purpose of the form is to allow students to vote for and submit reasons why they believe a particular student deserves the honor. The form will be used to tally the votes and determine the winner of the Senior Superlatives award.
 
 # Senior Superlatives Form - Help Guide

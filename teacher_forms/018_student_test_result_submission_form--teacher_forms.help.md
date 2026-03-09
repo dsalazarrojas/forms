@@ -1,7 +1,3 @@
-<thinking>
-This form is used to submit test results for students, ensuring that all required information is accurate and up-to-date. To prevent duplication, please ensure that each submission is unique and not a repeat of an existing record. Please note that the fields provided are minimal and essential for the system to process and store the test results.
-</thinking>
-
 # Student Test Result Submission Form - Help Guide
 ## Purpose
 This form is designed to collect and store test results for students in a standardized format, facilitating efficient and accurate record-keeping.

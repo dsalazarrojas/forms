@@ -1,11 +1,3 @@
-<thinking>
-
-Form 1040 is a tax return form used by individuals and businesses to report their tax income and claim deductions. The form helps taxpayers to calculate their tax liability and claim eligible tax credits. The form is used for reporting income, tax withheld, and payments made. It is essential for ensuring accurate tax reporting and compliance with tax laws and regulations.
-
-To complete Form 1040, it is crucial to understand each field clearly. The fields on the form are designed to guide you through a step-by-step process of collecting and reporting your income, tax withheld, and tax payments.
-
-</thinking>
-
 # Form 1040 - Help Guide
 ## Purpose
 Form 1040 is a tax return form used by individuals and businesses to report income and claim deductions. It helps taxpayers calculate their tax liability and claim eligible tax credits.

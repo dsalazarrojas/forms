@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers for online course orders. It is designed to be a template that can be used in a variety of situations, such as when a new course is launched or updated, or when a customer is requesting a course for a specific purpose. To avoid duplication of information and ensure accuracy, please make sure to review existing records before filling out this form. It's a good idea to review any relevant policies or guidelines for the course you're interested in to get a better understanding of the requirements and any specific details that may be needed.
-</thinking>
-
 # E Learning Course Order Form Template - Help Guide
 ## Purpose
 This form is a template for customers to order e-learning courses. It is used to gather necessary information for course registration, payment, and submission.

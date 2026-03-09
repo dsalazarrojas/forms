@@ -1,15 +1,3 @@
-<thinking>
-This is a form for enrolling a student in a music school. The form is intended for teachers to provide information about their students, including their name, contact information, instrument, level of proficiency, and class time. This form is used to manage student enrollment and ensure that all necessary information is captured for the music school's records.
-
-To ensure the form is filled out correctly, please review the following instructions:
-
-*   The student's name, email, and teacher's name and email are required fields.
-*   Student's phone number is not required but can be useful for communication.
-*   The student's instrument and level of proficiency must match the school's offerings.
-*   The class time must be one of the school's scheduled class times.
-
-</thinking>
-
 # Music School Enrollment Form - Help Guide
 ## Purpose
 This form is for enrolling a student in a music school by providing necessary information about the student and their learning status.

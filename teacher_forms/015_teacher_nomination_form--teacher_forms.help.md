@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect teacher nominations for recognition or awards. It's intended for school administrators, staff, or colleagues to nominate a teacher for their outstanding work and contributions. Please ensure that you have the necessary permission to nominate someone before filling out this form. Also, please check that a nomination for the same teacher has not been submitted already.
-</thinking>
-
 # Teacher Nomination Form - Help Guide
 ## Purpose
 This form is a teacher nomination form that allows you to recognize and reward teachers for their outstanding work and contributions. It's used to collect information about the teacher you'd like to nominate, the reason for the nomination, and your own contact information.

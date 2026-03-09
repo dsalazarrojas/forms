@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from vehicle owners or technicians for a vehicle glass quotation request. It will help gather essential details to create a quote for repairing or replacing vehicle glass (windscreen, side glass, or rear glass). The form should be filled out by the vehicle owner or the person requesting the quotation.
-The form will guide the technician through the process of providing a quote for the required services.
-The form will be used to create a quote for the services, and it will also be used to store and manage the quotation status.
-This form will help the technician in providing accurate information for the quotation, and it will also help in managing the quotations and tracking the status of the quotations.
-The form will help in reducing the time taken to create the quotations and in providing accurate and complete quotations to the customers.
-This form will be used by the technicians in the workshop to create and manage quotations for repairing or replacing vehicle glass.
-</thinking>
-
 # Vehicle Glass Quotation Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from vehicle owners or technicians for a vehicle glass quotation request.

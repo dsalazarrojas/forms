@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Re Enrollment Form - Help Guide
 
 ## Purpose

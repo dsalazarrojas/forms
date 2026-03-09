@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Monthly Childcare Activity Report Form - Help Guide
 
 ## Purpose

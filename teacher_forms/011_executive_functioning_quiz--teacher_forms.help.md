@@ -1,5 +1,3 @@
-<thinking>...To confirm that the Executive Functioning Quiz form is for assessing a student's executive functioning abilities, which include cognitive skills such as working memory, planning, and problem-solving, to identify areas of strength and weakness. The form aims to help teachers provide accurate and individualized support to students with executive functioning deficits. Please ensure you have reviewed the form's purpose before proceeding to avoid duplicating efforts and ensure the correct data is collected for the intended purpose.</thinking>
-
 # Executive Functioning Quiz - Help Guide
 ## Purpose
 The Executive Functioning Quiz is designed to assess a student's executive functioning abilities, such as working memory, planning, and problem-solving. This quiz helps teachers to identify areas of strength and weakness and provide accurate and individualized support.

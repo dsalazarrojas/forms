@@ -1,11 +1,3 @@
-<thinking>
-
-A teacher may be requesting a donation for a variety of reasons, such as purchasing classroom supplies or funding for a specific project. This form is meant to collect information from the donor regarding the teacher's request.
-
-To ensure that the donation request is legitimate, it's essential to provide a clear and organized form for the teacher to fill out. This guide will walk you through each field of the form to help the teacher understand what information to provide and how to use the form effectively.
-
-</thinking>
-
 # Teacher Donation Request Form - Help Guide
 ## Purpose
 The Teacher Donation Request Form is a tool for teachers to request donations for their classrooms. This form is meant to help gather necessary information from teachers and ensure their requests are processed efficiently.

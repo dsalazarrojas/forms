@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Triangle Area Calculator - Help Guide
 
 ## Purpose

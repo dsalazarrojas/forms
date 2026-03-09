@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a "Grade Request Form" used by teachers to request grades for students. This form is likely used to facilitate the grade request process, ensuring accuracy and fairness in the evaluation process. The form might be used by teachers to provide a standardized way of requesting grades, reducing the chance of human error and ensuring consistency in the evaluation process. Before proceeding, let's ensure that the form is being used in the correct context and that the user is aware of the form's purpose and requirements.
-
-</thinking>
-
 # Grade Request Form - Help Guide
 ## Purpose
 The Grade Request Form is a tool used by teachers to request grades for students in a standardized and efficient manner.

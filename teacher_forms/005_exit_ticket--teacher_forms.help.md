@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for teachers to provide feedback and assessment on a student's work or project. The form likely serves as a way to document and communicate the student's progress and understanding of the material. To ensure that you complete the form correctly, please review the following instructions:
-
-The purpose of this form is to collect information about a student's work or project from the teacher, providing them with an opportunity to assess and provide feedback. To avoid duplication of effort, please only complete this form if you are a teacher and have a specific student's work or project in mind.
-
-</thinking>
 # Exit Ticket - Help Guide
 ## Purpose
 This form is used by teachers to provide feedback and assessment on a student's work or project.

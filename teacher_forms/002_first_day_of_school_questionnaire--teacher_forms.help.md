@@ -1,7 +1,3 @@
-<thinking>
-The First Day Of School Questionnaire is designed to collect information about the student's background, family, and educational details. This form is intended to be completed by teachers and school administrators to gather insights into the student's previous years of schooling, favorite subjects, hobbies, interests, and other relevant information. It's essential to fill out this form accurately and completely to ensure that the data collected is reliable and useful for decision-making purposes.
-</thinking>
-
 # First Day Of School Questionnaire - Help Guide
 ## Purpose
 The First Day Of School Questionnaire is a form designed to collect information about the student's background, family, and educational details.

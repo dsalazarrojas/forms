@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assist taxpayers in claiming the Advance Child Tax Credit. This form collects information about the taxpayer, the child or dependent, and the claim details. The form is designed to guide users through the process of providing accurate and complete information to ensure a successful claim. This form should only be completed by the taxpayer or their representative, and it is essential to read and understand each section carefully to ensure accurate completion. 
-</thinking>
-
 # Advance Child Tax Credit Form - Help Guide
 ## Purpose
 The Advance Child Tax Credit Form is a tax credit form designed to help taxpayers claim the Advance Child Tax Credit. The form is divided into several sections, each with its own specific purpose and requirements.

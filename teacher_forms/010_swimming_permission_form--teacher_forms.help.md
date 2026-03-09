@@ -1,16 +1,3 @@
-<thinking>... internal reasoning and form purpose checks ...
-The form is designed to collect information from parents or guardians of a swimmer to provide necessary permissions and details about the swimmer's health, skill level, and other relevant information.
-
-To determine the relevance of this form, I consider the following points:
-
-*   The form is categorized under "teacher_forms" which implies its purpose is to provide necessary information for a swimming lesson or program.
-*   The form contains fields about swimmer's health, skill level, and medical information, which is consistent with a swimming program.
-*   The form is not redundant and does not duplicate any known forms in the organization, as there are no obvious duplicate fields or forms.
-
-After considering these points, the form seems to be relevant and purposeful. The form's purpose is to collect information from parents or guardians to ensure the swimmer's safety during swimming lessons or programs.
-
-</thinking>
-
 # Swimming Permission Form - Help Guide
 ## Purpose
 The Swimming Permission Form is designed to collect information from parents or guardians of a swimmer to provide necessary permissions and details about the swimmer's health, skill level, and other relevant information.

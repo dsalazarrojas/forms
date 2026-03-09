@@ -1,5 +1,3 @@
-<thinking>As a form expert, my goal is to create a user-friendly guide that will help end-users understand the purpose and completion process of this "Self Assessment For Teaching Programs" form. I will focus on breaking down the form into sections and explaining each field in a clear and concise manner, ensuring that users can navigate the form with ease. I will also check for duplication and relevance of fields to prevent unnecessary complexity. This guide will be based on the provided YAML fields, which seem to cover a wide range of information about the teacher's background and teaching experience. I will use plain language to explain the intent behind each field, even if the label is weak or unclear. My goal is to make this form accessible to all users, regardless of their background or technical expertise.</thinking>
-
 # Self Assessment For Teaching Programs - Help Guide
 ## Purpose
 This form is designed to gather information about your teaching experience and background. Please answer the questions honestly and thoroughly to help us assess your fit for our teaching programs.

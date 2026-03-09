@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to capture information from PhD students about their background, research interests, education, contact information, date of birth, time of day, and any additional notes or comments they may have. The form is meant to be completed by PhD students as part of the survey process for a specific research project or program. It is not intended for use as a template for other types of forms or data collection exercises.
-The form consists of 8 sections, each with a unique purpose and requirements.
-The form's structure and fields are designed to be clear and easy to understand.
-The fields and their options are meant to elicit specific information from the users to support the research goals.
-The form is not designed to collect sensitive or confidential information.
-The form is intended for use by a specific group of users (PhD students) and not a general audience.
-The form's fields and their options are not overly complex or technical.
-</thinking>
-
 # phd-student-survey - Help Guide
 ## Purpose
 The phd-student-survey form is designed to collect information from PhD students about their background, research interests, and other relevant details.

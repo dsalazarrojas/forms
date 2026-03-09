@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for an Earth Day Quiz, which is intended to gather user responses and feedback on various aspects related to Earth Day. To ensure relevance and non-duplication, please note that the form should only be submitted for the purpose of participating in the Earth Day Quiz, and not for any other reason.
-
-</thinking>
-
 # Earth Day Quiz - Help Guide
 ## Purpose
 This form is designed to collect user responses and feedback on various aspects related to Earth Day, a global event celebrating environmental awareness and conservation.

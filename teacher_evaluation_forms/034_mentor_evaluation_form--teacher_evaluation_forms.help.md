@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mentor_evaluation_form - Help Guide
 
 ## Purpose

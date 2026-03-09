@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used to evaluate the online instructors for quality of teaching, communication, and overall satisfaction of course content. The form should only be filled out for students who have attended an online course with a specified instructor. This will help instructors identify areas where they need to improve their teaching skills. The form has a few fields that need to be filled out. 
-</thinking>
-
 # online_instructors_mini_evaluation_form - Help Guide
 ## Purpose
 This form is designed to be used by students to evaluate their online instructor's performance in delivering their online course. The purpose of this form is to help instructors identify areas of improvement in their teaching methods and communication with students.

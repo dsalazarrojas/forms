@@ -1,5 +1,3 @@
-<thinking>This form is used to facilitate the equipment release process for technicians. The form allows users to request equipment for a specific period, providing details such as equipment type, name, and status. The form also includes fields for the technician's name, date issued, expected return date, comments, and other relevant information. This form is designed to be completed by the person submitting the equipment request, and it should only be used for genuine equipment release requests. Please ensure you only complete this form for actual equipment release requests and not for testing or demonstration purposes.</thinking>
-
 # Equipment Release Form - Help Guide
 ## Purpose
 The Equipment Release Form is used to request and document equipment release from the inventory. This form ensures that the correct equipment is released to the right person and that all relevant information is captured.

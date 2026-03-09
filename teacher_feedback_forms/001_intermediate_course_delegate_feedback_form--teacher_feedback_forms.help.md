@@ -1,5 +1,3 @@
-<thinking>This form is designed for gathering feedback from course providers and participants in an intermediate course. The form should be completed by the participant, providing their input and feedback on the course provider and the course itself.</thinking>
-
 # Intermediate Course Delegate Feedback Form - Help Guide
 ## Purpose
 The Intermediate Course Delegate Feedback Form is used to gather feedback from course providers and participants in an intermediate course. This form helps course providers to understand the strengths and weaknesses of their courses and to improve their delivery. Participants are asked to provide their input and feedback on the course provider and the course itself.

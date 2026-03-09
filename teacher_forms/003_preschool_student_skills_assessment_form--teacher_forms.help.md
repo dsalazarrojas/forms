@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the skills of preschool students in various areas such as pre-academic, social, communication, problem-solving, language, art, fine motor, gross motor, math, and emotional intelligence. The form is intended to be completed by educators or caregivers who are familiar with the student's abilities and characteristics. The purpose of this form is to provide a comprehensive picture of a preschool student's skills and abilities, which can be helpful for educational planning and assessment. The form should be completed for each student, and the results can be used to track progress over time. Please make sure to only complete this form for a student who is currently in a preschool program and is between the ages of 3-5 years old.
-</thinking>
-
 # Preschool Student Skills Assessment Form - Help Guide
 ## Purpose
 The Preschool Student Skills Assessment Form is a tool used to evaluate the skills and abilities of preschool students. It helps educators and caregivers understand each student's strengths and weaknesses in various areas, making it easier to develop effective educational plans and strategies for supporting their growth and development.

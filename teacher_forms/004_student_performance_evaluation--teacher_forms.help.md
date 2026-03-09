@@ -1,10 +1,3 @@
-<thinking>
-This form is a Student Performance Evaluation form, designed to help teachers assess and record student performance. It is used to provide a brief but structured overview of a student's capabilities, progress, and areas of improvement. 
-
-Given that the form structure is minimal, I'll guide the user through a basic understanding of how to use it and explain each field's purpose, assuming there's no complex business logic.
-
-</thinking>
-
 # Student Performance Evaluation - Help Guide
 ## Purpose
 

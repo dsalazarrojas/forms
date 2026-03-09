@@ -1,13 +1,3 @@
-<thinking>
-
-The E Learning Student Performance Evaluation Form is used to evaluate the performance of students in an online learning environment. This form is used to collect data on student progress, submission dates and times, and other relevant information that helps to assess a student's performance and identify areas where improvement is needed.
-
-This form is designed to be used by teachers to evaluate student performance, and it is expected to be filled out after each assignment submission. The information collected through this form will help teachers make informed decisions about student progress, identify areas of strength and weakness, and provide feedback to students to help them improve.
-
-To ensure accurate and consistent data collection, it is essential to follow the guidelines and instructions in this help guide.
-
-</thinking>
-
 # E Learning Student Performance Evaluation Form - Help Guide
 ## Purpose
 The E Learning Student Performance Evaluation Form is used to collect data on student progress, submission dates and times, and other relevant information that helps to assess a student's performance and identify areas where improvement is needed.

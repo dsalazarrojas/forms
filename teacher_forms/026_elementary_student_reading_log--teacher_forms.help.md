@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # elementary_student_reading_log - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Physics Quiz - Help Guide
 
 ## Purpose

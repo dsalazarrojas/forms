@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mentor Selection Form - Help Guide
 
 ## Purpose

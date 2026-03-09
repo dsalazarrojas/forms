@@ -1,11 +1,4 @@
-# <thinking>... 
-We're going to evaluate a student innovation project, which is a form used to assess student projects, particularly those focused on innovation, creativity, and problem-solving. This form is used to gather feedback and insights from teachers on the projects' strengths and areas for improvement. 
-
-Before starting, let's confirm that this form is intended for projects in a classroom setting and that you're a teacher evaluating a student's work.
-
-</thinking>
-
-# Student Innovation Project Evaluation Form - Help Guide
+# # Student Innovation Project Evaluation Form - Help Guide
 ## Purpose
 The Student Innovation Project Evaluation Form is used by teachers to assess and provide feedback on student innovation projects. This form helps to identify areas of excellence and potential areas for improvement in each project.
 

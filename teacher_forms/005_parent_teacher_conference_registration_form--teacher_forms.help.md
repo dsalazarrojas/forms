@@ -1,22 +1,3 @@
-<thinking>
-This form is designed for teachers and parents to register for parent-teacher conferences. It is crucial that you understand the purpose and process of completing this form to ensure accurate and timely communication. Before proceeding, please review the form to understand what information is required and how it will be used. This guide is designed to walk you through each section of the form and provide clarity on what each field represents.
-
-Please note that this form requires specific information from both teachers and parents. Ensure you have the necessary details before starting the registration process.
-
-Before filling out this form, please make sure you have the following information readily available:
-
-* The parent's name
-* The teacher's name
-* Email address of both parent and school
-* Phone number of both parent and school
-* Preferred conference day and time
-* Notes or comments for the conference
-* Conference date and time for both parent and teacher
-
-Having this information will save time and reduce errors during the registration process.
-
-</thinking>
-
 # Parent Teacher Conference Registration Form - Help Guide
 ## Purpose
 The Parent Teacher Conference Registration Form is designed to streamline the process of scheduling parent-teacher conferences for students. This form is used to collect information from both parents and teachers to facilitate effective communication and organization of conferences.

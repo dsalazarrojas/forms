@@ -1,10 +1,3 @@
-<thinking>
-# This form is for teachers to request an excused absence for a student.
-The form is used to document an absence from school, providing details about the student and reason for the absence.
-The form may be sent to parents, teachers, and other staff members to facilitate communication and decision-making.
-The following guide helps you complete this form correctly.
-</thinking>
-
 # excused_absence_form - Help Guide
 ## Purpose
 This form is used to request an excused absence for a student, providing details about the student and reason for the absence.

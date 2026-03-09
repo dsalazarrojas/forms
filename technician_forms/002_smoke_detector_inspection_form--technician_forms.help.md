@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smoke Detector Inspection Form - Help Guide
 ## Purpose
 This form is for inspecting and reporting on the condition and functionality of smoke detectors in a building. It helps to ensure that smoke detectors are working properly and alerts the relevant authorities in case of any issues.

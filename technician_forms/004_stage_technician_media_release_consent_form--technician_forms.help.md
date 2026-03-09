@@ -1,8 +1,3 @@
-<thinking> 
-The Stage Technician Media Release Consent Form is a crucial document that ensures that stage technicians have given their consent to the use of their likeness, voice, and media content in a specific context. This form is essential for various reasons, including legal and regulatory compliance, risk management, and public relations. The form must be completed accurately and thoroughly to avoid confusion and misrepresentation.
-
-This form is designed to capture specific information about the technician, including their name, contact details, consent date, release type, and other relevant details. The form should not be filled out for non-existent or fictional individuals, as it is a legal document that requires real-world applications.</thinking>
-
 # Stage Technician Media Release Consent Form - Help Guide
 ## Purpose
 The Stage Technician Media Release Consent Form is a document that captures essential information about stage technicians and their consent to the use of their likeness, voice, and media content.

@@ -1,5 +1,3 @@
-<thinking>This form is intended to be used as a tool to collect feedback from students about their experience in a given course. The purpose of this form is to gather data on various aspects of the course, including its content, teaching quality, learning experience, methods, outcome, instructor support, student resources, class size, course hours, and format. This form is likely to be used by educators or course administrators to assess and improve the course based on student feedback. Please ensure that you are completing this form under the correct context and circumstances.</thinking>
-
 # Course Evaluation Survey - Help Guide
 ## Purpose
 This form is used to collect feedback from students about their experience in a course.

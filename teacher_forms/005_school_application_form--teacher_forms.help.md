@@ -1,15 +1,3 @@
-<thinking>
-This form is used to collect information from students applying to a school. The purpose of this form is to gather relevant details about the student's academic history, family background, medical history, and other relevant information. This information will be used to process the student's application and make informed decisions about their enrollment. 
-Please ensure that you are only filling out this form if you are a student applying to the school. If you are a parent or guardian filling out this form for a student, please make sure to provide accurate and complete information about the student.
-
-This form is a series of individual fields that are used to collect specific information from students. Please take your time and fill out each field carefully and truthfully. 
-
-Here's how to complete this form:
-1. Start at the first page, and fill out all the fields in sequence.
-2. Be as complete and accurate as possible when filling out each field.
-3. Use the options for select_multiple fields to select all relevant choices.
-</thinking>
-
 # School Application Form - Help Guide
 ## Purpose
 This form is used to collect information from students applying to a school for admission.

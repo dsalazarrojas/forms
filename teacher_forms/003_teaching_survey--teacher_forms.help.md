@@ -1,7 +1,3 @@
-<thinking>...
-We need to ensure that the form is only filled out by teachers who have a genuine interest in sharing their teaching experiences. To prevent duplication, we should validate the user's email address to check if they have already filled out this form. This will help us to avoid receiving unnecessary data and maintain data quality. The form is designed to collect demographic information from teachers, including their first name, email address, and teaching experience, which will help us to better understand their needs and provide more effective support.
-</thinking>
-
 # Teaching Survey - Help Guide
 ## Purpose
 The Teaching Survey is a form designed to collect demographic information from teachers to better understand their needs and provide more effective support.

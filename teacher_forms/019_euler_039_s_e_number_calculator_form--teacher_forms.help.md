@@ -1,7 +1,3 @@
-<thinking>
-This form is used to calculate Euler's E-number, a mathematical expression used in algebraic geometry and number theory. This form is intended for educational purposes, allowing users to input their understanding of the E-number concept and check their results. To ensure accurate calculations, please enter the correct inputs for the E-number, number of terms, base value, and other relevant fields. Note that this form does not guarantee precise results, as the calculations are based on theoretical assumptions. The form's goal is to provide a simplified, educational experience for understanding the E-number concept.
-</thinking>
-
 # eulers_e_number_calculator_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for voting on exam dates, providing a way for students to indicate whether they are available to take an exam on a given date or not. The form is designed to be simple and straightforward, allowing students to easily express their availability. The main goal is to collect data on student availability for upcoming exams, helping instructors to plan and schedule exams effectively.
-</thinking>
-
 # Exam Date Voting Form - Help Guide
 ## Purpose
 The Exam Date Voting Form is a tool for students to vote on exam dates, helping instructors to plan and schedule exams that accommodate the majority of students' needs.

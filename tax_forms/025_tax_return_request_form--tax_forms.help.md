@@ -1,10 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Tax Return Request Form" that is clear, concise, and practical. The form's purpose is to gather information about a tax return request, including tax payer information, tax return status, and other relevant details. This guide will help users understand the form's requirements and how to complete it correctly.
-
-Before we begin, let's review the form's fields to ensure that we cover all the necessary information.
-
-</thinking>
-
 # Tax Return Request Form - Help Guide
 ## Purpose
 The "Tax Return Request Form" is used to gather information about a tax return request, including tax payer information, tax return status, and other relevant details. This form is essential for processing tax returns and ensuring that all necessary information is provided.

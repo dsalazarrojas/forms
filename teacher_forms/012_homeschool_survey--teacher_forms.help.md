@@ -1,11 +1,3 @@
-<thinking>
-This guide will be used to educate users on how to properly fill out the Homeschool Survey form.
-The form is intended for homeschooling students to input their demographic information. 
-The form will be submitted to track student data for the homeschool program. 
-Please only submit this form once, and do not resubmit without changes. 
-Please note that all fields with asterisk (\*) are required.
-</thinking>
-
 # Homeschool Survey - Help Guide
 ## Purpose
 The Homeschool Survey form collects demographic information from homeschooling students, providing valuable data for the homeschool program.

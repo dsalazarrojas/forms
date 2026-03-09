@@ -1,5 +1,3 @@
-<thinking>Second Term Childcare Program Registration Form is used to register a child with the Childcare Program. This form is not required for all users, but rather for specific use cases where a child requires additional support. For example, a child with special needs or a child who has been experiencing difficulty with their current teacher may be required to register. This form is used to provide additional information about the child and their current teacher, which will be used by program administrators to determine the best course of action.</thinking>
-
 # Second Term Childcare Program Registration Form - Help Guide
 ## Purpose
 The Second Term Childcare Program Registration Form is used to register a child with the Childcare Program. This form is used to provide additional information about the child and their current teacher, which will be used by program administrators to determine the best course of action.

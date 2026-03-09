@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to ensure students understand and commit to upholding academic honesty, which is a crucial aspect of academic integrity in institutions of higher learning. The form is meant to verify students' understanding of what constitutes academic dishonesty, plagiarism, citation practices, collaboration boundaries, and the consequences of academic dishonesty. By signing this form, students confirm their commitment to maintaining academic honesty in all their coursework. This form helps to prevent academic dishonesty and maintains the integrity of academic work.
-</thinking>
-
 # Academic Honesty Form - Help Guide
 ## Purpose
 The Academic Honesty Form is a mandatory pledge that students must sign to confirm their understanding and commitment to maintaining academic honesty in all their coursework.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a user-facing help guide for the "tax_exemption_form" form.
 
 **Purpose**

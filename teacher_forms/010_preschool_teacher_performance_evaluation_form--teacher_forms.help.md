@@ -1,15 +1,3 @@
-<thinking>
-This form is intended for the evaluation of a preschool teacher's performance. It is a multi-page form that gathers information from the school administration to assess the teacher's general information, their performance, comments, student feedback, teacher feedback, and other relevant details such as email and phone number.
-
-Before filling out this form, please ensure that the information you provide is accurate and relevant. Please avoid repeating information or providing unnecessary details as this will only confuse the evaluator.
-
-Please note that this form is meant to be a comprehensive evaluation of the teacher's performance, so please answer the questions honestly and thoroughly.
-
-Also, please make sure to fill out all required fields and do not skip any sections.
-
-The form is designed for both the school administration and the teacher to provide their feedback, hence, it's a two-way communication channel.
-</thinking>
-
 # Preschool Teacher Performance Evaluation Form - Help Guide
 ## Purpose
 The Preschool Teacher Performance Evaluation Form is designed to gather information from the school administration to assess a preschool teacher's performance. The form is used to evaluate the teacher's overall performance, provide feedback, and gather comments and student feedback.

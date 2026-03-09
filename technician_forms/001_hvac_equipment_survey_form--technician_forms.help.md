@@ -1,10 +1,3 @@
-<thinking>
-
-The form is used to gather information from technicians when servicing equipment on-site. The purpose of this form is to ensure that all necessary details are recorded accurately, which helps the service team to make informed decisions on how to proceed with repair or replacement. This data is used to update inventory and asset management systems.
-
-
-</thinking>
-
 # hsvc_survey_form - Help Guide
 ## Purpose
 

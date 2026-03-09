@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students and teachers to create a yearbook. The purpose of this form is to gather data about students, including their ID, name, student number, email, phone number, grade level, subjects, clubs and activities, comments, and contact information for their teachers. This form is likely used by school administrators to create a yearbook that is comprehensive and accurate. To avoid duplication, this form should only be filled out by students and teachers who are part of the school's yearbook committee or have been authorized by the school administration.
-</thinking>
-
 # Yearbook Survey - Help Guide
 ## Purpose
 This form is designed to collect information from students and teachers to create a yearbook for the school.

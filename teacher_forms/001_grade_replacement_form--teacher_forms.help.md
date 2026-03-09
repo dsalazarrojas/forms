@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to facilitate the process of replacing a student's grade in a specific course. The form requires the following information:
-- Student ID
-- Name of the teacher who can verify the original grade
-- Reason for the replacement
-- Original grade that needs to be replaced
-- New grade to be assigned
-- Semester and year the grade needs to be replaced for
-- The student's name, to verify that the correct student is being replaced
-
-This form helps the teacher in verifying the original grade, understanding why the grade needs to be replaced, and assigning the new grade accordingly. It reduces the need for manual verification processes and streamlines the replacement process.
-
-Note that some form fields are optional, but providing all required information can improve the accuracy and efficiency of the replacement process. This form was created using AI and is not affiliated with any specific form platform.
-</thinking>
-
 # Grade Replacement Form - Help Guide
 ## Purpose
 This form is used to request a grade replacement for a student. It collects information necessary to verify and replace the original grade.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information about users' preferences and interests. Its purpose is to gather data about what books, favorite colors, and foods users enjoy. This form was generated using AI algorithms and public survey metadata, and it does not contain any proprietary content from other form platforms. It is an original creation and can be freely used, modified, and distributed. This guide will walk you through the form's structure and how to fill it out.
-
-</thinking>
-
 # trivia_quiz - Help Guide
 ## Purpose
 The trivia quiz form is designed to collect information about your preferences and interests. It's a fun and engaging way to learn more about yourself and others.

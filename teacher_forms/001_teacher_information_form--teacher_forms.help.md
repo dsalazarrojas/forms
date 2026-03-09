@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect information about a teacher's details. The form is intended to be completed by the teacher themselves or their representative. It is used to update and maintain the teacher's profile in our system. This form will ask for personal details such as first name, last name, email address, and phone number, as well as professional details like subject area, school, department, position, date of birth, experience, and other relevant information. It will also ask for a profile picture, CV, and resume for further verification and completeness.
-</thinking>
-
 # Teacher Information Form - Help Guide
 ## Purpose
 The Teacher Information Form is a crucial document for teachers to provide their essential details to our system. This form will help us understand who you are, what you do, and your relevant experiences.

@@ -1,14 +1,3 @@
-<thinking>
-The "elementary_student_evaluation_form" form is designed to be used by teachers to evaluate the progress of their elementary students. This form is meant to be completed by teachers to track and document their observations, notes, and feedback for students' development. 
-
-To ensure that this form is used consistently and effectively, it's essential to understand its purpose and how to complete it correctly.
-
-The form has eight fields that need to be completed by the teacher. Each field has a specific label and is categorized as either text, number, or note type. 
-
-Before filling out this form, the teacher should first understand the context and the specific student they're evaluating. 
-
-</thinking>
-
 # elementary_student_evaluation_form - Help Guide
 ## Purpose
 The "elementary_student_evaluation_form" is a tool used by teachers to track and document their observations, notes, and feedback for students' development. It is meant to be used during regular intervals to monitor students' progress and identify areas of improvement.

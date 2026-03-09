@@ -1,9 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block:** This form is designed to collect feedback or responses from teachers on the listening skills of their students. The form is divided into several sections, each with a specific purpose. The goal is to gather data that can be used to improve the teaching and learning process.
-
-</thinking>
-
 # Listening Quiz - Help Guide
 ## Purpose
 This form is designed to collect feedback or responses from teachers on the listening skills of their students. It helps to gather data that can be used to improve the teaching and learning process.

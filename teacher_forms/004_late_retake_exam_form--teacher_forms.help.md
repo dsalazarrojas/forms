@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block explaining the form purpose and checks for relevance and non-duplication...
-
-The purpose of this form, "Late Retake Exam Form", is to request a late retake for an exam. This form is used to gather information from students about their need for a late retake, which can be submitted to support their request. To ensure accuracy, we want to make sure this form is filled out correctly.
-
-</thinking>
-
 # Late Retake Exam Form - Help Guide
 ## Purpose
 The Late Retake Exam Form is used to request a late retake for an exam. This form helps you to provide the necessary information for your request, ensuring a smooth and efficient process.

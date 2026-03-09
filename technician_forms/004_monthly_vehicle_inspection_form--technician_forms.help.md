@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for technicians to record information about a vehicle's condition during a monthly inspection. The purpose of this form is to gather data on the vehicle's year, make, model, registration, color, condition, and inspection date. The form is designed to be completed by a single user, and the fields are intended to be filled out with accurate and relevant information. To ensure accuracy, each field should be filled out carefully and thoroughly. Before starting, please ensure that the form is relevant to your vehicle inspection task. If you have completed this form before, you may want to review the current version to ensure you are not duplicating information.
-</thinking>
-
 # Monthly Vehicle Inspection Form - Help Guide
 ## Purpose
 The Monthly Vehicle Inspection Form is a tool for technicians to record information about a vehicle's condition during a monthly inspection. This form helps to gather data on the vehicle's year, make, model, registration, color, condition, and inspection date.

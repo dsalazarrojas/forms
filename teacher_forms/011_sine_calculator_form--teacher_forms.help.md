@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by educators or math students to calculate and explore the properties of sine waveforms. The form's internal logic should be able to handle various input configurations to provide accurate and relevant results. To avoid duplicate calculations, it's essential to ensure that each input combination is unique. This form might be part of a larger curriculum or project that involves understanding and manipulating waveforms in physics or engineering contexts. Let's assume it's being used to teach students about sine wave properties in a classroom setting.
-</thinking>
-
 # sine_calculator_form - Help Guide
 
 ## Purpose

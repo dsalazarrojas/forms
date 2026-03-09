@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for evaluating presentations, presumably used by instructors or educators to assess the quality and effectiveness of presentations given by students, peers, or others. The form likely serves as a framework for providing feedback and guidance on areas for improvement. It is likely used in educational settings, such as universities or corporate training programs.
-</thinking>
-
 # Presentation Evaluation Form - Help Guide
 ## Purpose
 The Presentation Evaluation Form is designed to help you provide constructive feedback on presentations given by others. This form guides you through the key aspects of a presentation, allowing you to evaluate its content, organization, and overall effectiveness.

@@ -1,14 +1,3 @@
-<thinking>
-The purpose of the "Teacher Performance Appraisal Assessment Form" is likely to assess the performance of teachers in the educational system, possibly for promotion, tenure, or other evaluation purposes. This form is designed to gather information on various aspects of a teacher's performance, including their strengths and weaknesses, areas of improvement, and overall evaluation date and time. To determine if this form is relevant, let's consider the following: 
-
-*   Is the form used in a school setting or educational institution? 
-*   Is it used for assessing teacher performance? 
-*   Are the fields such as 'performance_areas', 'evaluation_date', 'evaluation_time', 'school_name', 'school_location', and 'form_type' indicative of a formal assessment process? 
-
-Given the structure and fields of the form, it seems this form is indeed relevant and likely used in an educational context.
-
-</thinking>
-
 # Teacher Performance Appraisal Assessment Form - Help Guide
 ## Purpose
 

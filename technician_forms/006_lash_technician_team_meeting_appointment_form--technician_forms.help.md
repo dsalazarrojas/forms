@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Lash Technician Team Meeting Appointment Form - Help Guide
 ## Purpose
 This form is designed for lash technicians to schedule and coordinate team meetings. Fill out this form to create a new meeting appointment and provide essential information to ensure a smooth and productive meeting experience.

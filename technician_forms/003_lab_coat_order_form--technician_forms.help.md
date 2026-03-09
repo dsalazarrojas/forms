@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to manage lab coats for technicians. It is used in an internal context, likely within a healthcare or medical facility. The form is used to capture order information and specifications for lab coats, including the type of order, quantity, size, color, fabric, thread count, sleeve style, order date, order time, and the technician's name who is placing the order. This form is likely used by technicians to place orders for lab coats that need to be prepared or customized for their use.
-
-</thinking>
-
 # Lab Coat Order Form - Help Guide
 ## Purpose
 The Lab Coat Order Form is used to capture order information and specifications for lab coats for technicians.

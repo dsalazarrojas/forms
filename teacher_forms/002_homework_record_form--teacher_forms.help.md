@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to record and track student homework assignments and their completion status. It captures basic information such as student name, assignment name, due date, and completion date. The form is a simple tool for teachers to maintain a record of homework submissions. To ensure accurate and efficient use, please review each field carefully and ensure that you are entering the correct information.
-
-</thinking>
-
 # Homework Record Form - Help Guide
 ## Purpose
 The purpose of this form is to record and track student homework assignments and their completion status.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to allow teachers to request permission to conduct testing in various settings. The form will be reviewed and approved by the relevant authorities before the testing can commence. It is essential that the teacher completes all required fields and provides accurate information to ensure a smooth review process.
-Please ensure that you are submitting this form for the correct purpose. If you have already submitted this form for the same testing event, do not submit again, as it may cause confusion in the review process.
-</thinking>
-
 # Permission To Test Form - Help Guide
 ## Purpose
 The Permission To Test Form is designed to allow teachers to request permission to conduct testing in various settings. To complete this form, please follow the instructions below.

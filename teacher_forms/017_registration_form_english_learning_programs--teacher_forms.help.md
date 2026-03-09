@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Registration Form English Learning Programs - Help Guide
 ## Purpose
 This form is designed to collect information from teachers about their English learning programs. The form helps us to understand teacher details, program specifics, and availability for the language programs they offer. Please fill out the form carefully to ensure accuracy and completeness of your program information.

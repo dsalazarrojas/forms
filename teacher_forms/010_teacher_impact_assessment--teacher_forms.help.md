@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess the impact of a teacher's actions or decisions on students, colleagues, or the school as a whole. The assessment is likely used to evaluate a teacher's performance, identify areas for improvement, and inform decisions related to personnel actions such as promotions, tenure, or disciplinary actions. Before completing this form, please ensure you have a clear understanding of the specific context and goals of the assessment. Please review the form carefully and answer the questions honestly and thoroughly.
-</thinking>
-
 # Teacher Impact Assessment - Help Guide
 ## Purpose
 The Teacher Impact Assessment is a form used to evaluate a teacher's performance, identify areas for improvement, and inform decisions related to personnel actions.

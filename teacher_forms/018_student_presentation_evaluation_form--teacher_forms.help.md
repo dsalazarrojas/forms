@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to evaluate a student's presentation. The purpose of this form is to provide a structured feedback mechanism for instructors to assess a student's performance in terms of content, delivery, and overall impression. This form should be used to assess the quality of the presentation, identify areas for improvement, and provide suggestions for the student to work on. It's intended to be used by instructors to provide constructive feedback that will help students improve their presentation skills.
-
-</thinking>
-
 # Student Presentation Evaluation Form - Help Guide
 ## Purpose
 This form is designed to provide instructors with a structured way to evaluate a student's presentation. It assesses the student's performance in several areas, including content, delivery, and overall impression.

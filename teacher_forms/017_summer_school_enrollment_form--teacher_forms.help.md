@@ -1,16 +1,3 @@
-<thinking>
-This form is for students to enroll in a summer school program. It is likely used by administrators or teachers to collect information from students who are applying for or enrolling in the program. This form is a general template, and its purpose and use may vary depending on the specific context in which it is used.
-
-To confirm the form's purpose and ensure it is being used correctly, please consider the following:
-
-* Is this form intended for student applicants or teachers to collect information from students?
-* Is the form part of a larger process, such as a program application or enrollment process?
-* Are there any specific requirements or deadlines associated with this form?
-
-If you are still unsure about the form's purpose or use, please contact the relevant authority for clarification.
-
-</thinking>
-
 # Summer School Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect information from students who are enrolling in the summer school program.

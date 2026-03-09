@@ -1,11 +1,3 @@
-<thinking> 
-
-This form seems to be designed for collecting feedback on science simulations or experiments, likely for educational purposes. The form is intended to gather information from both students and teachers, with various fields to collect details such as student and teacher names, grades, ratings, comments, and submission status.
-
-To avoid duplication, we should check if the form is being filled out by the same user, or if the user has already filled out the same form. If so, a warning or confirmation message should be displayed to the user.
-
-</thinking>
-
 # science_simulation_feedback_form - Help Guide
 ## Purpose
 The science simulation feedback form is designed to collect feedback from students and teachers on science simulations or experiments.

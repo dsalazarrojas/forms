@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Teacher Cadet Education Quote Evaluation Form - Help Guide
 ## Purpose
 The Teacher Cadet Education Quote Evaluation Form is used to gather feedback and evaluation from teachers regarding a teacher cadet's performance, specifically in terms of their educational activities, meetings, and interactions.

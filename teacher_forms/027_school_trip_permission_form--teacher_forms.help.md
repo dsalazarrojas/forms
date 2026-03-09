@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the School Trip Permission Form, used by teachers to obtain permission for students to attend school trips. This form ensures that parents are informed and give consent for their child's participation. The form is intended to be completed by parents or guardians, and the teacher will review and process the form before the trip.
-</thinking>
-
 # School Trip Permission Form - Help Guide
 ## Purpose
 The School Trip Permission Form is a required document that must be completed and submitted by parents or guardians before their child participates in a school trip. The form helps to obtain permission for the student to attend the trip and ensures that the school has informed consent from the parent/guardian.

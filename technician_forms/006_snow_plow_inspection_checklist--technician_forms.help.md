@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to be a checklist for inspecting the condition and functionality of snowplows. The purpose of this form is to evaluate the overall condition of the equipment, including the plow's ability to perform its intended function. This form is intended for technicians to use in the field, and the information gathered here will help in making decisions about maintenance and repairs.
-
-The form appears to be a comprehensive inspection checklist for snowplows, covering various aspects such as equipment condition, operational functionality, and potential issues that need to be addressed. The form includes multiple select_one fields, which are used to evaluate the condition of different parts and systems, and two text fields for general comments and photo uploads.
-
-To avoid duplication, this form's design and content are original and not based on any proprietary or copyrighted materials.
-
-</thinking>
-
 # Snow Plow Inspection Checklist - Help Guide
 ## Purpose
 The Snow Plow Inspection Checklist is designed to help technicians evaluate the condition and functionality of snowplows, ensuring they are in good working order and identifying any potential issues that need to be addressed.

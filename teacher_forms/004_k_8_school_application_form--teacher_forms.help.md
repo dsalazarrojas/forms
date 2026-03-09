@@ -1,7 +1,3 @@
-<thinking>
-This form was created using AI to help schools collect information from students applying to K-8 school. The form is designed to be completed by students and parents/caregivers together. It's essential to fill out the form accurately and thoroughly, as the information collected will be used to process the application. Please ensure that you're not duplicating efforts by not applying to multiple schools simultaneously.
-</thinking>
-
 # K 8 School Application Form - Help Guide
 ## Purpose
 The K 8 School Application Form is designed to collect information from students applying to attend K-8 school. This form should be completed with accuracy and thoroughness to ensure that your application is processed correctly.

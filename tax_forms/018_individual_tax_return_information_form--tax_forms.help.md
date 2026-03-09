@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Individual Tax Return Information Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Representative Nomination Form - Help Guide
 
 ## Purpose

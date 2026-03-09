@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback and information about online learning experiences from users. The form should be completed by users who have had some form of online learning experience. Please ensure that you have had online learning experience before completing this form. If you are unsure about any of the questions, please answer based on your best understanding of the experience. This guide is provided to assist you in completing the form correctly and to ensure that you provide accurate and relevant information.
-</thinking>
-
 # Online Learning Survey - Help Guide
 
 ## Purpose

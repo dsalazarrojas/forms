@@ -1,8 +1,4 @@
-## <thinking>
-We're assuming that the form's purpose is likely to gather information about the user's preferences and behaviors related to Easter. The "Easter Quiz" form may be used to gather insights for a marketing campaign, survey, or other business purpose. We're also assuming that the form is not meant for actual assessment or evaluation, as the required fields are mostly options-based and not score-based. We'll focus on providing a clear and concise user-facing help guide for the form, avoiding unnecessary complexity.
-</thinking>
-
-# Easter Quiz - Help Guide
+## # Easter Quiz - Help Guide
 ## Purpose
 The Easter Quiz is a form designed to gather information about your interests and behaviors related to Easter. This guide will help you navigate the form and provide clear explanations for each field.
 

@@ -1,5 +1,3 @@
-<thinking>As this form is designed to collect feedback and ratings from students about their instructors, it is intended for use in academic settings, such as universities. The form can be used to evaluate the performance of instructors in various aspects, including teaching effectiveness, engagement, and overall experience. This form should only be used within the specified university and should not be used in other contexts. To ensure accurate feedback, please complete the form with attention to detail. This form was generated using AI technology, but all the information and logic used are derived from public survey topics, making it an original creation. You are free to use, modify, or sell this form, but give credit to the original creator. Contact form@gic.mx for any questions or concerns.</thinking>
-
 # university_faculty_performance_feedback_form - Help Guide
 ## Purpose
 This form is designed to gather feedback and ratings from students about their instructors' performance in a university setting.

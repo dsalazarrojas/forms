@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from school administrators, teachers, or staff about the school system's performance, policies, and practices. It is likely used to gather data for evaluation, improvement, or reporting purposes. To ensure accuracy, please review each section carefully and only provide information that is relevant to your role or department within the school system.
-</thinking>
-
 # School System Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the school system's performance, policies, and practices. It is intended to gather data for evaluation, improvement, or reporting purposes.

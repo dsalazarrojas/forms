@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for teachers to submit applications for an online summer school program. This form is for informational purposes only, and the data collected will help us plan and organize the summer school program better. Please make sure to fill in all relevant fields and double-check your inputs before submitting the form. This form should not be used for other purposes or duplicated for the same summer school application.
-</thinking>
-
 # Online Summer School Application Form - Help Guide
 
 ## Purpose

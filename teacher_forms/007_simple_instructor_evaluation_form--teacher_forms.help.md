@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the performance of instructors, likely for academic or professional settings. It likely aims to collect specific, quantifiable ratings and written comments for each instructor, allowing for objective and data-driven assessment. The form should be completed by an authorized person, such as a supervisor or department head, to prevent duplication or misassignment of evaluations.
-</thinking>
-
 # Simple Instructor Evaluation Form - Help Guide
 
 ## Purpose

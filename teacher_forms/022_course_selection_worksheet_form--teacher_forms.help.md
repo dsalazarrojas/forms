@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to assist users in selecting courses for a specific purpose, possibly for academic or professional development. The form is structured to gather information from users across multiple pages, with each page representing a distinct section of the selection process. It is likely intended for educational institutions or organizations seeking to create a comprehensive course selection worksheet for students, instructors, or staff.
-
-Given the structure of the form, it appears that users will be navigating through 25 pages, each containing a "Page X" label, with no clear indication of the form's overall purpose or how the pages are connected. The form's design suggests a high degree of flexibility, allowing users to input information across multiple pages without a clear direction or guidance on how to proceed.
-
-Before using this form, it is essential to determine the overall purpose and expected outcome of the course selection process. This will help users understand how to effectively utilize the form and ensure that all necessary information is gathered correctly.
-
-Assuming the form is intended to support users in creating a comprehensive course selection, it is likely that users will need to input relevant information on each page, such as course details, instructor preferences, or other relevant criteria.
-
-Given the lack of clear labels or instructions, users will need to infer the purpose and context of each page based on their prior knowledge or experience with course selection processes.
-
-To effectively use this form, users should start by familiarizing themselves with the overall structure and expected outcome, then proceed to input information on each page, and finally review their selections to ensure accuracy and consistency.</thinking>
-
 # Course Selection Worksheet Form - Help Guide
 ## Purpose
 The Course Selection Worksheet Form is designed to assist users in selecting courses for a comprehensive selection process.

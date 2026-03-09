@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation from teachers on a student's leadership qualities. It seems to be used for tracking and assessing a student's progress in leadership roles within an educational or institutional setting. The form is likely used to provide a comprehensive evaluation of a student's strengths and areas of improvement in leadership. This form is not intended for use in other contexts such as student feedback, surveys, or other evaluation purposes. Please ensure that this form is not used for any other purpose to avoid duplication and confusion.
-
-</thinking>
-
 # Student Leadership Teacher Evaluation Form - Help Guide
 ## Purpose
 The Student Leadership Teacher Evaluation Form is a document used to gather feedback and evaluation from teachers on a student's leadership qualities. This form will help teachers to provide valuable insights into a student's strengths and areas of improvement in leadership roles.

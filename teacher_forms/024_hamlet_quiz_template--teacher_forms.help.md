@@ -1,12 +1,3 @@
-<thinking> 
-This form is a "Hamlet Quiz Template" designed to test knowledge about the character Hamlet and the play by the same name. The form is a series of questions about the main character, setting, and plot of the play "Hamlet". It is not affiliated with any specific form platform, but rather an AI-generated adaptation created using public metadata.
-
-The form is a simple quiz with 11 questions, including multiple-choice and single-answer questions, and open-ended text fields. Each question is designed to test the user's understanding of the character and the plot of the play.
-
-This guide is intended to help users understand how to complete the form, what each field means, and any useful tips for answering the questions.
-
-</thinking>
-
 # Hamlet Quiz Template - Help Guide
 ## Purpose
 This form is designed to test knowledge about the character Hamlet and the play "Hamlet". It is not affiliated with any specific form platform.

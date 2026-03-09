@@ -1,5 +1,3 @@
-<thinking>This form is intended to be a daily record of student work hours, allowing students to provide a check-in report for teachers or school administrators. The form's purpose is to track student productivity and progress throughout the day. This form is only for students who work on their assignments or projects during regular school hours, not after school hours. Please use this form for students in regular attendance, not for students who are absent or have special circumstances.</thinking>
-
 # Student Daily Work Hours Check In Form - Help Guide
 ## Purpose
 This form is designed to help students record their work hours and progress during regular school hours. It helps teachers and school administrators monitor student productivity and stay updated on student work status.

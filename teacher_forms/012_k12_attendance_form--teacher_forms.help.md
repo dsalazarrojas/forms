@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the k12_attendance_form. The form is designed for tracking student attendance in educational settings. To avoid duplication and ensure accurate completion, please review the form carefully before proceeding.
-
-The form is divided into several fields that capture relevant information about a student's attendance, tardiness, and comments. Each field has been labeled and described below for clarity and ease of use.
-</thinking>
-
 # k12_attendance_form - Help Guide
 ## Purpose
 The k12_attendance_form is a tool for recording and monitoring student attendance in educational settings. It helps track student attendance, tardiness, and any notable comments or reasons for missing or late arrivals.

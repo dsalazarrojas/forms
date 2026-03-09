@@ -1,5 +1,3 @@
-<thinking>As a form expert and technical writer, I understand that the provided YAML form structure is quite extensive. To determine the purpose of this form, I'll make an educated guess based on the category "teacher_forms" and the title "Science Fair Project Proposal Form". This form is likely intended for educators to propose projects for their students to participate in a science fair. The form probably aims to gather information from teachers about their project ideas, goals, and expectations for the science fair project.</thinking>
-
 # Science Fair Project Proposal Form - Help Guide
 ## Purpose
 The Science Fair Project Proposal Form is designed for teachers to submit project proposals for their students to participate in a science fair. This form helps the teacher to provide detailed information about their project idea, goals, and expectations for the science fair.

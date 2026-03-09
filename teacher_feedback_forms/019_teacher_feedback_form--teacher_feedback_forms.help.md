@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from students about their teachers, providing a comprehensive assessment of the teacher's performance in various areas. The form is not affiliated with any specific platform or organization, and the data collected will be used to evaluate the teacher's strengths and weaknesses. Please note that the form is AI-generated and does not replicate any proprietary content. You can use and modify it as you see fit, giving credit to the original author.
-
-</thinking>
-
 # Teacher Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from students about their teachers, aiming to provide a comprehensive understanding of the teacher's performance, strengths, and areas for improvement.

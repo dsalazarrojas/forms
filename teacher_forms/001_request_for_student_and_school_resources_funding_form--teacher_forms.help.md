@@ -1,12 +1,6 @@
 # Request For Student And School Resources Funding Form - Help Guide
 
 ## Purpose
-<thinking>
-
-This form is used to request student and school resources funding. This form is intended to be filled out by school representatives to identify their resource needs. Please fill out the form only if you are a school representative, as this information is used to assess the school's financial situation and resource needs. Please note that duplicate forms will be rejected.
-
-</thinking>
-
 ## How To Complete This Form
 To complete this form, follow these steps:
 

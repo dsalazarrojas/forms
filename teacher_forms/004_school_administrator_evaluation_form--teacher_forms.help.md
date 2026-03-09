@@ -1,7 +1,3 @@
-<thinking>
-Internal note: The form "School Administrator Evaluation Form" aims to evaluate the performance of school administrators, assessing their communication, leadership, and overall performance. This form should be completed by teachers and other school staff members to provide constructive feedback to school administrators. Please ensure that only one evaluation per school administrator is submitted. Duplicate submissions will be removed.
-</thinking>
-
 # School Administrator Evaluation Form - Help Guide
 ## Purpose
 The School Administrator Evaluation Form is used to provide constructive feedback to school administrators on their performance, communication, leadership, and overall impact on the school community. This form should be completed honestly and objectively, focusing on specific examples or incidents that illustrate the administrator's strengths and weaknesses.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from businesses or individuals who need to register for unemployment tax purposes. The form is meant for businesses that have employees and are subject to unemployment tax. It's essential to fill out this form accurately to ensure that you are registered correctly and avoid any potential issues with your unemployment tax account.
-
-Before you start filling out this form, please review the instructions carefully to ensure that you understand what information is required and how to complete it correctly.
-
-This form is not meant for personal use, such as registering for individual unemployment benefits. If you're not a business or an individual with employees, you're not required to fill out this form.
-
-Please note that some fields may be optional, but it's still essential to fill them out if you have the relevant information. This will help us process your registration more efficiently.
-
-</thinking>
-
 # Unemployment Tax Registration Form - Help Guide
 ## Purpose
 The Unemployment Tax Registration Form is used to register businesses or individuals with employees for unemployment tax purposes. It's a mandatory requirement for all businesses that have employees.

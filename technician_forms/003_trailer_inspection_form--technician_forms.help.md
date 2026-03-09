@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a trailer's condition and inspection results. It is intended to be completed by a technician during an inspection process. To ensure accurate and efficient completion, please review the form carefully before proceeding. This guide will walk you through each field to ensure you understand its purpose and correct usage.
-
-The form is divided into several sections, each covering different aspects of the trailer's condition. Please complete each section according to your observations and findings.
-
-Note: All fields are optional unless marked as required. Please fill in only the relevant information.
-
-</thinking>
-
 # Trailer Inspection Form - Help Guide
 ## Purpose
 The Trailer Inspection Form is designed to collect information about a trailer's condition and inspection results. This form is intended to be completed by a technician during an inspection process.

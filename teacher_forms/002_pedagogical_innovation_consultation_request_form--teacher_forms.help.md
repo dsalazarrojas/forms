@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-As a form designer and technical writer, I'll create a comprehensive help guide for the Pedagogical Innovation Consultation Request Form. This guide will cover the purpose of the form, how to complete it, and provide explanations for each field.
-
-</thinking>
-
 # Pedagogical Innovation Consultation Request Form - Help Guide
 =============================================
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess multiple intelligences across various aspects of human cognition. It is not affiliated with, endorsed by, or derived from any form platform. This form was created by AI using public survey topic metadata as inspiration. The form is released under CC BY 4.0 and you are free to use, modify, and even sell forms derived from it - just give credit.
-</thinking>
-
 # multiple_intelligence_survey - Help Guide
 ## Purpose
 This form aims to evaluate an individual's multiple intelligences, including their cognitive, social, spatial, linguistic, logical-mathematical, bodily-kinesthetic, musical, interpersonal, intra-personal, and naturalistic intelligences. 

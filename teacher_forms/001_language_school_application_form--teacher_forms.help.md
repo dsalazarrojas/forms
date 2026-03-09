@@ -1,29 +1,3 @@
-<thinking>... internal reasoning:
-
-To ensure this form meets the required guidelines, we'll follow a structured approach. 
-
-The form is called "Language School Application Form" and its purpose appears to be for students to apply to a language program. 
-
-The form is divided into multiple pages with various sections: Personal Information, School Information, Language Skills, and Additional Information. 
-
-Each section has a specific set of fields that need to be completed. 
-
-The fields seem to be a mix of required and optional questions, including text, email, phone numbers, select_one, and select_multiple fields. 
-
-To complete this form, the user will need to provide personal information such as first name, last name, email, contact phone, and date of birth. 
-
-They will also need to provide school information such as school grade level, school program of interest, and language schools attended. 
-
-In terms of language skills, they will need to specify their language level, available languages, and preferred language. 
-
-Additionally, they will need to provide information about their language interest, date of arrival, and date of departure. 
-
-Finally, there are sections for teacher recommendation, parent information, and additional comments. 
-
-This form seems well-structured and comprehensive, but some fields might need further clarification or refinement for the end-user to understand their purpose and relevance. 
-
-</thinking>
-
 # Language School Application Form - Help Guide
 ## Purpose
 The Language School Application Form is a comprehensive form designed for students to apply to a language program. It collects personal, school, and language-related information to assess their eligibility and suitability for the program.

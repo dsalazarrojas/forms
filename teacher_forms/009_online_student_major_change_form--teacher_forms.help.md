@@ -1,7 +1,3 @@
-<thinking>
-This form is used for students to update their major, providing a convenient platform for them to make changes to their major without requiring a new application. This form aims to streamline the process, reduce unnecessary paperwork, and enhance student self-service. It's essential to fill out the form accurately and thoroughly to ensure that the information is up-to-date and correct. Before filling out the form, check if you've already submitted a request for major change in the past 90 days to avoid duplication of effort.
-</thinking>
-
 # online_student_major_change_form - Help Guide
 ## Purpose
 The online_student_major_change_form is a tool for students to update their major in a convenient and efficient manner.

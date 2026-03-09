@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather data for tax returns, and it seems that the form is used for both personal and business tax returns, with options for selecting between "Yes" and "No" for different conditions. I will create a user-facing help guide to clarify the form's purpose and usage. 
-
-The form has several fields, including selecting between "Individual Form Data" and "Business Form Data", tax year, tax return type, and other relevant information. The form does not appear to require any specific business type, and it seems to only ask for "Tax Return Date" and a phone number for personal or business tax returns. However, I will follow the form's layout to create the help guide.
-
-</thinking>
-
 # Tax Return Checklist - Help Guide
 
 ## Purpose

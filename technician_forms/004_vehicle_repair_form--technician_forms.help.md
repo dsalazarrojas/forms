@@ -1,15 +1,3 @@
-<thinking>Before diving into the form help guide, let's break down the purpose and context of the "vehicle_repair_form". This form appears to be used for documenting vehicle repairs, gathering information about the vehicle's year, make, model, and problem, as well as the repair type, cost, and status. The form also includes fields for customer and mechanic notes, signatures, and other relevant details. The form is likely used by technicians or mechanics in a workshop or garage setting to keep track of vehicle repairs.
-
-Let's review the form fields and determine the most relevant information to include in the help guide. The form has several fields that are not clearly labeled or may be confusing for non-experts, such as "vehicle_problem" which could be interpreted as either "Vehicle Problem" or "Vehicle Problem Date". To avoid confusion, we'll clarify these fields and provide clear explanations for each field.
-
-We'll also review the fields that require special handling, such as "customer_phone" which is a text input but seems to be a phone number. And fields like "vehicle_repair_status" which could be interpreted as either a status or a type. To provide clear guidance, we'll explain how to fill out each field correctly.
-
-Lastly, we'll consider the required fields and make sure to emphasize that the user must fill out all required fields before submitting the form.
-
-With this understanding, let's create a concise and practical help guide for the "vehicle_repair_form".
-
-</thinking>
-
 # vehicle_repair_form - Help Guide
 ## Purpose
 The "vehicle_repair_form" is used to document vehicle repairs, including vehicle information, repair type, cost, and status.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by internship supervisors to evaluate students' performance during their internship. It's meant to be completed by the supervisor to provide feedback to the student, and it's not meant to be filled out by the student. This form is for the supervisor to provide their expert opinion on the student's work, skills, and overall performance. There is no duplication of this form; it's for individual supervisors to fill out once per student. If a supervisor has already evaluated a student using this form, they should not fill it out again. This form is meant to be used for official purposes only, and the data collected will be used for academic purposes.
-</thinking>
-
 # internship_supervisor_evaluation_form - Help Guide
 ## Purpose
 The internship supervisor evaluation form is a tool used by supervisors to evaluate the performance of students during their internship. It allows supervisors to provide feedback on the student's work, skills, and overall performance.

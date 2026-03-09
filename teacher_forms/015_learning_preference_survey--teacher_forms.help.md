@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information on learning preferences from users. It asks questions about the dominant and preferred learning style, preferred English usage, and communication channels. 
-It is meant to be used by educational institutions or organizations to understand how individuals learn best and what communication methods are most effective for them.
-Before filling out this form, please note that some questions are identical or very similar. This is intentional, as it allows for multiple perspectives on the same topic. If you have any questions or concerns, please contact form@gic.mx.
-</thinking>
-
 # Learning Preference Survey - Help Guide
 ## Purpose
 This form is designed to collect information on learning preferences from users. It helps educational institutions or organizations understand how individuals learn best and what communication methods are most effective for them.

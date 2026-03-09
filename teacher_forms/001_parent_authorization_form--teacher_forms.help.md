@@ -1,5 +1,3 @@
-<thinking>This form is intended to gather information from parents or legal guardians to authorize a child's participation in an activity or program. The form should only be completed by the parent or legal guardian of the child. The fields are mostly straightforward and self-explanatory, but it's essential to ensure that all necessary information is provided to ensure the child's safety and well-being. Please note that some fields may be optional, but it's crucial to fill out as much information as possible to facilitate efficient processing and communication.</thinking>
-
 # Parent Authorization Form - Help Guide
 ## Purpose
 This form is designed to gather information from parents or legal guardians to authorize a child's participation in an activity or program.

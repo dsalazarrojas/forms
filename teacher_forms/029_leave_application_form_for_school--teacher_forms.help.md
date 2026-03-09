@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the processing of leave applications by teachers in a school setting. It provides a structured way for teachers to submit their leave requests, which will then be reviewed and approved or rejected by authorized personnel. The form captures necessary details about the type of leave, duration, and dates of absence, as well as other relevant information to ensure a smooth and efficient leave process.
-</thinking>
-
 # Leave Application Form For School - Help Guide
 ## Purpose
 The Leave Application Form For School is a tool for teachers to formally request leave from their duties. It helps ensure that all necessary information is provided and that the leave process is completed in a timely and organized manner.

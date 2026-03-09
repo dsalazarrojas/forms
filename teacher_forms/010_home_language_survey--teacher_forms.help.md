@@ -1,6 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form called "Home Language Survey". The form is designed to collect information about a student's language proficiency and language learning habits, which will help us better understand their language abilities. This form is meant to be completed by students themselves, hence the focus on their language skills. We also need to ensure that this form is not duplicated, as it's meant to capture a snapshot of the student's language abilities at a specific point in time.</thinking>
-
 # Home Language Survey - Help Guide
 ## Purpose
 The Home Language Survey is a form designed to collect information about your language proficiency and language learning habits. This information will help us understand your language abilities better.

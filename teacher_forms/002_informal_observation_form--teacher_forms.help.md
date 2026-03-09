@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended for teachers to document informal observations of a student's learning environment, classroom setup, and teaching approaches. It likely aims to gather data on various aspects of teaching and learning, such as student engagement, teacher-student relationships, and classroom management. However, without further context, it's difficult to confirm the form's exact purpose and scope. 
-
-To avoid duplication of effort, please ensure you are filling out this form only if you have firsthand experience with the student or have been asked to observe them specifically for this purpose. If you're unsure, please reach out to your supervisor or relevant authorities for guidance.</thinking>
-
 # Informal Observation Form - Help Guide
 ## Purpose
 The Informal Observation Form is a tool for documenting observations of a student's learning environment, teaching approaches, and other relevant aspects of their education. 

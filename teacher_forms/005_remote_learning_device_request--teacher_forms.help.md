@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for remote learning devices requests from schools. It ensures that the school administration can efficiently manage the distribution and allocation of remote learning devices to meet the needs of students and teachers. 
-</thinking>
-
 # Remote Learning Device Request - Help Guide
 ## Purpose
 This form is designed for schools to submit requests for remote learning devices. It will be reviewed and processed by the administration to ensure timely allocation of devices to meet the needs of students and teachers.

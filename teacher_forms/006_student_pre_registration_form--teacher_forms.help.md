@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect general information from students prior to registration. The purpose of this form is to gather necessary details from students to facilitate the registration process. This form will be used to gather demographic and background information from students. This form will not store any sensitive or confidential data. This form will help to identify and prevent any duplication of effort in the registration process.
-</thinking>
-
 # Student Pre Registration Form - Help Guide
 ## Purpose
 The Student Pre Registration Form is designed to collect general information from students before the registration process. This form will help the administration to gather necessary details from students, prevent duplication of effort, and facilitate the registration process.

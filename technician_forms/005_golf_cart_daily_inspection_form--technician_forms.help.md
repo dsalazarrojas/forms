@@ -1,9 +1,3 @@
-<thinking>
-Checking if form is for daily inspection of a golf cart...
-Checking if form is for a specific category of equipment...
-Checking if form is not already completed by the same user for the same item in the last 24 hours...
-</thinking>
-
 # golf_cart_daily_inspection_form - Help Guide
 ## Purpose
 This form is for performing a daily inspection of a golf cart. It ensures that all critical systems and components are in good working condition, ready for safe operation.

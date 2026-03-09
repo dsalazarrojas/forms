@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Locomotive Inspection Checklist - Help Guide
 ## Purpose
 The Locomotive Inspection Checklist is used to record inspection results and findings for locomotives. This form is a critical tool for ensuring that locomotives are in good working condition, and helps identify any issues that need to be addressed. It is intended to be used by technicians to record their findings after inspecting a locomotive.

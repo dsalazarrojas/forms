@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to allow teachers to submit requests for assistance or support, such as online or on-site tutoring, phone or Skype calls, or other forms of help. It's essential to ensure that the teacher's name is accurate and the request type is clear to facilitate proper allocation of resources. Please ensure that you're not submitting duplicate requests, as this form is intended to be a single point of entry for teacher requests.
-
-</thinking>
-
 # Teacher Request Form - Help Guide
 ## Purpose
 This form is used to submit requests for assistance or support from teachers. Please fill out the form carefully to ensure your request is processed efficiently.

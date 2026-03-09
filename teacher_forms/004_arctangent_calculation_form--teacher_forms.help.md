@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Arctangent Calculation Form - Help Guide
 ## Purpose
 This form is designed for students to practice and demonstrate their understanding of arctangent calculations. It helps teachers to track students' progress, assess their knowledge, and verify the accuracy of their work.

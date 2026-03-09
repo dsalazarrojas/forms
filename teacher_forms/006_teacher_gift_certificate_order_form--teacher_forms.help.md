@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We're glad you're using the Teacher Gift Certificate Order Form! This form is used to order and manage gift certificates for teachers. The form is designed to gather essential information from the user, including personal details, gift preferences, and administrative notes. Please note that this form is a standard template and might not require changes based on your current implementation.
 
 # Teacher Gift Certificate Order Form - Help Guide

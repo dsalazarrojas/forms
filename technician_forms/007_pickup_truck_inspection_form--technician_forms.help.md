@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to facilitate the inspection of pickup trucks, collecting data on their specifications and condition. The form is likely used by mechanics, service personnel, or inspectors to gather information on various aspects of the truck, including its make, year, model, engine type, transmission, engine condition, drive train, suspension system, brakes system, and steering system. The form's purpose is likely to standardize the inspection process and ensure that all relevant information is collected consistently. This is a crucial form for maintenance, repair, and evaluation purposes. It's worth noting that the form is not strictly required, but its use is likely recommended for thorough inspection and analysis.
-</thinking>
-
 # Pickup Truck Inspection Form - Help Guide
 ## Purpose
 This form is used to collect information about the pickup truck's specifications and condition. It is intended for mechanics, service personnel, or inspectors to gather data on various aspects of the truck.

@@ -1,7 +1,3 @@
-<thinking>
-We will design a help guide for the "Preschool Admission Contact Form" that clearly explains its purpose, how to complete it, and what each field means. This form is likely used for parents or guardians to contact the preschool with their contact information and other relevant details to inquire about admission or express their interest in enrolling their child. To ensure we don't duplicate effort, we will verify that the form is being used for the correct purpose and that the user is not already enrolled or registered with the preschool. This guide will cover the essential fields and provide a clear understanding of what to fill in each.
-</thinking>
-
 # Preschool Admission Contact Form - Help Guide
 ## Purpose
 This form is designed for parents or guardians to contact the preschool with their contact information and other relevant details to inquire about admission or express their interest in enrolling their child. Please fill out this form carefully to provide the necessary information.

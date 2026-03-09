@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback or observations from teachers regarding interactions with students. This form will likely be used during or after an event such as a class meeting or a project review. It is essential to fill out this form accurately to capture meaningful data about student-teacher interactions.
-
-When designing and using this form, consider the context and purpose behind the collection of data. Review and update your internal logic to avoid duplication or misinterpretation.
-
-This guide is intended for end-users who need to fill out the form, not for the form designer. Please fill out this form carefully and according to your observations.</thinking>
-
 # Student Interaction Form - Help Guide
 
 ## Purpose

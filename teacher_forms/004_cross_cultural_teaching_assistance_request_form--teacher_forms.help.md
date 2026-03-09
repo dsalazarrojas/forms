@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for teachers to request assistance for cross-cultural teaching needs. Before filling out this form, please ensure that you have not submitted a similar request in the past, and that you have a clear understanding of the type of support you require. The form is divided into two sections: General Information and Support Details. Each section contains questions that will help us better understand your needs and provide the necessary support.
-</thinking>
-
 # Cross Cultural Teaching Assistance Request Form - Help Guide
 ## Purpose
 This form is for teachers to request assistance for cross-cultural teaching needs.

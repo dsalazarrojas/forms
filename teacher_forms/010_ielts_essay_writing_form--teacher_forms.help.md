@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ielts_essay_writing_form - Help Guide
 ## Purpose
 This form is designed to help teachers assess and provide feedback on students' IELTS essay writing submissions. The form allows teachers to evaluate the essay title, content, conclusion, and overall score, as well as provide comments and suggestions for improvement.

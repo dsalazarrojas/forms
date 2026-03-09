@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to track a student's music practice record. It gathers information on a student's weekly music practice sessions, including the time spent on practice, practice days, practice frequency, and student and teacher ratings. The form also includes fields for teacher comments, student comments, and submitted date. It is intended for students and teachers to fill out to provide an accurate picture of the student's progress and to facilitate communication between students and teachers.
-
-</thinking>
-
 # Student Weekly Music Practice Record Form - Help Guide
 ## Purpose
 The Student Weekly Music Practice Record Form is used to record a student's music practice record, including details on practice sessions, practice time, practice frequency, and teacher and student ratings. This form helps students and teachers to track progress and facilitate communication between them.

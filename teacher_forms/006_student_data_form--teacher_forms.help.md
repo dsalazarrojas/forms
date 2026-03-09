@@ -1,8 +1,3 @@
-<thinking> 
-This help guide is intended to assist users in completing the Student Data Form. The form's purpose is to collect information about students, specifically their personal details. Before proceeding, ensure that you have the necessary permissions and authorizations to access and submit this form.
-
-</thinking>
-
 # Student Data Form - Help Guide
 ## Purpose
 The Student Data Form is designed to collect essential information about students, including their name, parents' details, contact information, and address.

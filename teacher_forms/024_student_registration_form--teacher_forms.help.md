@@ -1,6 +1,3 @@
-<thinking>
-This form is for the registration of students. It's used to collect information about a student's identification, contact details, and educational status. The fields are divided into several categories to facilitate an easy and efficient registration process. Please ensure that each field is filled in accurately to avoid any potential duplication or mismatch of information. The form is not mandatory, and users are not required to fill it out completely. However, incomplete or incorrect information may delay or affect the processing of the student's registration.</thinking>
-
 # Student Registration Form - Help Guide
 ## Purpose
 This form is used to collect information about a student's personal details for registration purposes.

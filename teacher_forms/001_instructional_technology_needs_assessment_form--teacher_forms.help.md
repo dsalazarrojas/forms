@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to help instructional technology staff assess the needs of teachers for instructional technology support and resources. The form is intended to be completed by teachers to provide information about their needs, which will then be used to allocate resources and provide support.
-
-The form is not meant to be a complex evaluation tool, but rather a simple way to gather essential information from teachers. It should only be completed by teachers who have a legitimate need for instructional technology support.
-
-To avoid duplication of effort, please only complete this form if you have not already done so in the past.
-
-</thinking>
-
 # Instructional Technology Needs Assessment Form - Help Guide
 ## Purpose
 This form is designed to help instructional technology staff assess the needs of teachers for instructional technology support and resources.

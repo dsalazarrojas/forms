@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Auto Lift Inspection Form - Help Guide
 
 ## Purpose

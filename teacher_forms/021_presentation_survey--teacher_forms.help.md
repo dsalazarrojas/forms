@@ -1,12 +1,3 @@
-<thinking>
-This help guide is for the "presentation_survey" form, which is designed to gather feedback on presentations given by speakers. The form is used to evaluate the overall quality, content, and delivery of the presentation. It is likely used by instructors, managers, or other stakeholders to assess the effectiveness of a presentation and identify areas for improvement.
-
-This form should only be filled out after a presentation has been given, and the answers are likely to be used to improve future presentations.
-
-Please note that this form has several required fields, which must be completed in order for the form to be submitted. There are also several optional fields that provide additional feedback and suggestions.
-
-Before filling out this form, please make sure you have reviewed the presentation and have considered all of the aspects being asked about in this form.</thinking>
-
 # presentation_survey - Help Guide
 ## Purpose
 This form is used to gather feedback on presentations given by speakers. It helps to evaluate the overall quality, content, and delivery of the presentation, and is used to identify areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's special needs, particularly in a medical setting. It aims to gather data on the individual's medical professional, patient's disability, recovery process, special needs, additional needs, accommodations, medical history, patient status, treatment plan, medical procedure duration, planned discharge date, and follow-up date. Please note that this form is not affiliated with or derived from any form platform, but rather generated through public survey topic metadata. It is an original adaptation and does not copy or use proprietary content from any form creation or data collection platform.
-</thinking>
-
 # Special Needs Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about an individual's special needs, particularly in a medical setting.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from teachers on the progress, behavior, and achievements of their students. The form likely serves as a tool for teachers to provide regular feedback and reports on student performance, which can be used to inform instruction, identify areas of concern, and track student growth over time. This form is likely used in an educational setting, such as a school or university, and is intended for teachers to use when assessing student performance, providing feedback, and reporting on student progress.
-To avoid duplication, please ensure that this form is not used for any other purpose other than its intended use in the educational setting.
-</thinking>
-
 # School Report Form - Help Guide
 ## Purpose
 The School Report Form is a tool for teachers to provide feedback and reports on student performance, progress, and behavior.

@@ -1,8 +1,3 @@
-<thinking>
-The form is likely used for teachers to record and report student grades for exams. The purpose of this form is to provide a structured way for teachers to input student performance data. The form may be used in various contexts, such as in academic institutions, to track student progress and achievement.
-It is likely that this form is used in conjunction with other systems or databases, so the data entered here may be duplicated or synchronized with other records. This form should be used to enter accurate and consistent data to avoid duplication or conflicts.
-</thinking>
-
 # Exam Grade Entry Form - Help Guide
 ## Purpose
 The Exam Grade Entry Form is a tool for teachers to input student grades and performance data in a structured way. This form is used to track student progress and achievement.

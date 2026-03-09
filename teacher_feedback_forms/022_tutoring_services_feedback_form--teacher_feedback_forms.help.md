@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from students about the tutoring services provided by teachers. The feedback is used to improve the quality of the services offered. It is intended to be filled out by students who have received tutoring services. The purpose of this form is to collect information about the teaching style of the teacher, student feedback, suggestions for improvement, and other relevant details. It is a way for students to provide their input and help teachers improve their teaching methods and services. 
-</thinking>
-
 # Tutoring Services Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from students about the tutoring services provided by teachers.

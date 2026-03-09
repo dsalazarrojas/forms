@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about the status of various components and settings of a refrigerator. This form is used to identify any issues that may need to be addressed for optimal performance and efficiency of the refrigerator. It's crucial to have a standardized process for collecting and tracking this information, ensuring that all relevant data is captured consistently and accurately. This form is intended to be used by technicians to assess the status of a refrigerator, but its purpose can be extended to other roles as well.
 
 </thinking>

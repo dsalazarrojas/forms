@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Progress Evaluation - Help Guide
 ## Purpose
 

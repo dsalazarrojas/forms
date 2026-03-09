@@ -1,9 +1,3 @@
-<thinking>
-This form, "teacher_extra_resource_organization_form", is designed for teachers to collect and organize extra resources related to their teaching activities. This form aims to standardize and streamline the process of creating, managing, and storing resources, making it easier for teachers to access and utilize them effectively. 
-The form should only be used in specific contexts where it is necessary and not duplicated.
-
-</thinking>
-
 # teacher_extra_resource_organization_form - Help Guide
 ## Purpose
 The "teacher_extra_resource_organization_form" is a tool for teachers to collect and organize extra resources related to their teaching activities. It helps standardize and streamline the process of creating, managing, and storing resources, making it easier for teachers to access and utilize them effectively.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by school administrators to request permission from parents for their child to participate in a field trip. The form will be filled out by the teacher leading the trip, and will be submitted to the parents for review and approval. This form is typically used for field trips, and is not intended for other types of events or activities. To ensure accuracy and clarity, please review this guide and ensure that the form is filled out correctly before submitting it to the parents.
-</thinking>
-
 # Parent Permission Form For Field Trip - Help Guide
 ## Purpose
 This form is used to request permission from parents for their child to participate in a field trip. It is typically filled out by the teacher leading the trip and submitted to the parents for review and approval.

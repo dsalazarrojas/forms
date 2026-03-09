@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information about the status and configuration of fire alarm systems, including the control panel type, manufacturer, model, and software version. The form is intended for use by technicians to conduct regular inspections and maintenance tasks. It is likely to be used by facilities managers, maintenance staff, or other personnel responsible for ensuring the safety and reliability of fire alarm systems in their respective buildings or facilities. This form should not be used for emergency response purposes.
-
-To complete this form, the user will input information about each of the various components of the fire alarm system, including the system description, location, status, and configuration. The form is designed to be completed by a single user, likely a technician or engineer, who will gather information about the system and its components. The user may need to refer to the system's documentation or manual for specific technical details.
-
-</thinking>
-
 # Fire Alarm Inspection Form - Help Guide
 
 ## Purpose

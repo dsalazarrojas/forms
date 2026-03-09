@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by teachers or administrators to collect information about students, such as student ID, name, course, school year, and other relevant details. The form might be used for administrative purposes, like tracking student progress or for academic reporting. To ensure that the form is completed correctly and efficiently, it's essential to understand each field's purpose and requirements.
-</thinking>
-
 # Student Information Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about students for administrative purposes, such as tracking student progress or for academic reporting.

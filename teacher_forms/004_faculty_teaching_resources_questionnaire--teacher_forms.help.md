@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a "Faculty Teaching Resources Questionnaire" that aims to gather information from faculty members about their use and satisfaction with various teaching resources. The form likely collects data to help the institution better understand faculty's perception and use of teaching resources, which can inform decision-making and improve teaching practices.
-
-Before proceeding, it is essential to ensure that the form is being used for its intended purpose and not duplicated. If you have already completed this form, please do not submit another instance.
-
-</thinking>
-
 # Faculty Teaching Resources Questionnaire - Help Guide
 ## Purpose
 The Faculty Teaching Resources Questionnaire is designed to gather information from faculty members about their use and satisfaction with various teaching resources. This data will help the institution better understand faculty's perception and use of teaching resources, which can inform decision-making and improve teaching practices.

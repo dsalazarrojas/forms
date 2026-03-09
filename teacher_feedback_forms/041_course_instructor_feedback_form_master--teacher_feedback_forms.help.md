@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be designed for collecting feedback from course instructors on a particular course or teaching experience. The form likely serves as a tool for instructors to provide their thoughts and suggestions about the course, including ratings and comments. This form may be used by course administrators or department heads to monitor instructor feedback and make data-driven decisions about course development and improvement. 
-
-Before proceeding, please note that this form does not contain any sensitive information such as names, dates, or personal details that would require consent or data protection. All fields are likely used for internal purposes only and are not intended for public display.
-
-</thinking>
-
 # Course Instructor Feedback Form MASTER - Help Guide
 ## Purpose
 The Course Instructor Feedback Form MASTER is a tool for course instructors to provide feedback and suggestions about their teaching experience. This form helps to collect valuable insights and data that can be used to improve courses and make informed decisions.

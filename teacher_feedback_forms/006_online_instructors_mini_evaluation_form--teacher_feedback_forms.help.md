@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from students about their experience with an online instructor. The form aims to assess the instructor's performance, organization, communication skills, and overall satisfaction with the course. It is intended for the instructor to receive constructive feedback and for the administration to improve the teaching quality.
-This form is a follow-up to the initial feedback forms, so it's essential to provide feedback only on the aspects that were already covered in the initial form to avoid duplication.
-Before filling this form, ensure that you haven't already provided feedback on the same areas.
-</thinking>
-
 # Online Instructors Mini Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from students about their experience with an online instructor.

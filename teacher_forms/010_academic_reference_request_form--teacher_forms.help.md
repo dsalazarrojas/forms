@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure accuracy, please only use this form for formal requests for academic references from teachers, professors, or advisors. This form is designed to gather necessary information for academic references, typically for graduate school applications, job or internship applications, scholarships, or transfers. Before submitting this form, please confirm with your requested reference provider that they are willing to provide a reference and understand their role in the process.
-</thinking>
-
 # Academic Reference Request Form - Help Guide
 ## Purpose
 This form is for students to formally request an academic reference from a teacher, professor, or advisor for purposes such as graduate school applications, job or internship applications, scholarships, or transfers.

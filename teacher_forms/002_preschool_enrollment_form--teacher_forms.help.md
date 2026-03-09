@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Preschool Enrollment Form - Help Guide
 ## Purpose
 The Preschool Enrollment Form is designed to collect information from parents and guardians to enroll their child in our preschool program. This form is essential to ensure that we have accurate and up-to-date information about each child and their parents. Please complete this form carefully and thoroughly to help us provide the best possible experience for your child.

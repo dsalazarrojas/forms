@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We created this form to provide a comprehensive parent handbook template that captures essential information about a child in our care. This form is designed to collect contact details, medical conditions, allergies, and other important information that will help us provide the best possible support for your child. Please fill out this form completely and accurately to ensure we can effectively communicate with you and your child.
 
 # Parent Handbook Template - Help Guide

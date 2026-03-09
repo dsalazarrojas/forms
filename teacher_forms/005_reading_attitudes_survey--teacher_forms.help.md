@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to gather information about users' attitudes and habits related to reading. This is to understand how users perceive and engage with reading in their daily lives.
-The form will be used by users who are teachers or educators to collect data for research or assessment purposes.
-</thinking>
-
 # reading_attitudes_survey - Help Guide
 ## Purpose
 

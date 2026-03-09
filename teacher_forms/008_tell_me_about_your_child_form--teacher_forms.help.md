@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # tell_me_about_your_child_form - Help Guide
 ## Purpose
 The "tell_me_about_your_child_form" is designed to collect information about your child. This form is used to gather essential details about your child's needs, preferences, and circumstances. Please fill out this form to provide your child's information so that we can better understand and support them.

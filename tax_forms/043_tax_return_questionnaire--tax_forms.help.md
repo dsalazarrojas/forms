@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, the "Tax Return Questionnaire," is to gather information from taxpayers about their tax status and related details. This form is used to collect data for internal purposes and is not intended for public use. To confirm relevance and avoid duplication, ensure you have a valid reason for completing this form and that the information provided is not already on file.
-</thinking>
-
 # Tax Return Questionnaire - Help Guide
 ## Purpose
 The Tax Return Questionnaire is a form designed to collect information from taxpayers about their tax status and related details.

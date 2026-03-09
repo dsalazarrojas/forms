@@ -1,6 +1,3 @@
-<thinking>
-The form "Return To In Person School Information And Commitment Form" is likely used for tracking information related to students returning to a school setting after an absence. The purpose of the form is to collect relevant details such as school information, student and parent contact information, dates of attendance, and permissions or commitments. This form is likely used for internal administrative purposes within a school or educational institution. It's essential to complete the form carefully, ensuring that all required fields are accurate and filled in, and that the form is submitted correctly.</thinking>
-
 # Return To In Person School Information And Commitment Form - Help Guide
 ## Purpose
 The "Return To In Person School Information And Commitment Form" is a tool used to gather essential details about students returning to a school setting after an absence. This form ensures that the school has up-to-date information about returning students and helps maintain accurate records.

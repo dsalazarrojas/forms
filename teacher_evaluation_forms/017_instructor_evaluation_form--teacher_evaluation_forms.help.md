@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # instructor_evaluation_form - Help Guide
 ## Purpose
 The Instructor Evaluation Form is used to collect feedback on the performance of an instructor, providing valuable insights for improvement and recognition of outstanding teaching practices. This form helps to identify areas of strength and weakness in instruction, ensuring that teaching quality and effectiveness are maintained and improved.

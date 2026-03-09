@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to provide a progress report for students in special education programs. It is designed to capture information about the student's ID, name, teacher's ID, name, and the date of assessment. This form is used to track student progress and will likely be used by administrators or other authorized personnel to monitor student development. To ensure consistency, it is essential to complete this form for each student at regular intervals. Please note that this form can be completed by anyone with access, but it's recommended that only authorized personnel, such as teachers or administrators, complete this form to maintain data accuracy and integrity.
-</thinking>
-
 # Special Education Progress Report Form - Help Guide
 ## Purpose
 This form is used to track the progress of students in special education programs. It captures information about the student's ID, name, teacher's ID, name, and the date of assessment, providing a snapshot of the student's development at that point in time.

@@ -1,13 +1,3 @@
-<thinking>
-The School Attendance Survey form is designed to collect information from students and teachers about a student's attendance in school. This form is likely to be used by school administrators or teachers to track student attendance and identify patterns or issues. It's possible that the form is being used to support the development of interventions or programs aimed at improving student engagement and attendance.
-
-To avoid duplication, ensure that you are not already familiar with this type of form, and that you have not previously filled out a similar form for the same student or school.
-
-Please note that the purpose and context of this form might be specific to your school or organization, and its use may be limited to certain situations or events. If you're unsure about the form's purpose or context, please reach out to the relevant authorities or your supervisor for clarification.
-
-This help guide will walk you through the steps to complete the form and explain each field in a clear and concise manner.
-</thinking>
-
 # School Attendance Survey - Help Guide
 
 ## Purpose

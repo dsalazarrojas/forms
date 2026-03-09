@@ -1,5 +1,3 @@
-<thinking>... internal note: This form is designed to collect information from customers for an auto service appointment. It includes sections for customer information, vehicle details, appointment details, and service preferences. This form aims to streamline the process of scheduling auto service appointments and ensuring customers provide necessary information for an efficient and effective service experience.</thinking>
-
 # Auto Service Appointment Form - Help Guide
 
 ## Purpose

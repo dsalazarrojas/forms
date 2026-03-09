@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to collect feedback from students, possibly as part of a special education program. The purpose of this form is to gather information about the effectiveness of a particular teaching approach or strategy used by special education teachers. This feedback can help teachers refine their teaching methods, improve student outcomes, and inform future instructional decisions. It's essential to fill out this form accurately and honestly to provide valuable insights for teachers.
-</thinking>
-
 # Special Education Teacher Feedback Form - Help Guide
 ## Purpose
 The Special Education Teacher Feedback Form is designed to collect feedback from students about their experience with a special education teacher. This form will help the teacher understand their teaching methods and strategies, identify areas for improvement, and make data-driven decisions to enhance their teaching practices.

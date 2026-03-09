@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect self-reflection data from users, specifically teachers. The purpose of this form is to gather information on a teacher's self-reflection, including their category, description, strengths, weaknesses, goals, next steps, submitted date, submitted time, email, phone number, self-assessment, and self-reflection survey date. To ensure accurate and meaningful data collection, please review each field below and fill out the form accordingly.
-
-This guide will walk you through the form's sections and fields, providing explanations and tips for completion.
-
-</thinking>
-
 # Self Reflection Survey - Help Guide
 ## Purpose
 This form is designed to collect self-reflection data from teachers, providing valuable insights into your teaching practices and areas for improvement.

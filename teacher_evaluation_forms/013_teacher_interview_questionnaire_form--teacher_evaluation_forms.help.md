@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and non-relevance, this form is intended to collect information from teachers about their skills, experience, and education. This form will help us understand a teacher's background and qualifications, which is crucial for our evaluation process. Please ensure that you are completing this form only once for each teacher. If you need to update or change any information, please submit a new form with the updated details.
-</thinking>
-
 # Teacher Interview Questionnaire Form - Help Guide
 ## Purpose
 The Teacher Interview Questionnaire Form is designed to gather information about a teacher's skills, experience, and education. This form is a crucial part of our evaluation process, and we kindly request that you provide accurate and honest answers.

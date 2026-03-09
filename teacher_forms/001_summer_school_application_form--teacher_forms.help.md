@@ -1,7 +1,3 @@
-<thinking> 
-  The internal reasoning behind the form is to gather information from students who are interested in attending the summer school program. The form is used to collect demographic data such as student name, contact details, and payment information from their guardians. This form is not meant to be a comprehensive form, and the required fields are minimal to ensure that the students and guardians can provide the necessary information without feeling overwhelmed. This form is meant to be completed by parents or guardians on behalf of their child.
-</thinking>
-
 # Summer School Application Form - Help Guide
 
 ## Purpose

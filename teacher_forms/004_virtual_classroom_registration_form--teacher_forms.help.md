@@ -1,19 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from teachers for the virtual classroom registration process. The form is likely used by educational institutions or online platforms to gather essential details about teachers who will be participating in the virtual classroom. This form should only be completed by teachers who have not already registered in the past. It's essential to ensure the accuracy and consistency of the information provided in the form.
-
-The form collects the following information:
-
-*   First name
-*   Last name
-*   Email address
-*   Date of birth
-*   Age
-*   Contact number
-
-The form does not require any additional information beyond what is presented here. It is essential to fill out the form accurately to ensure a smooth registration process.
-
-</thinking>
-
 # Virtual Classroom Registration Form - Help Guide
 ## Purpose
 The Virtual Classroom Registration Form is designed to collect information from teachers for the virtual classroom registration process.

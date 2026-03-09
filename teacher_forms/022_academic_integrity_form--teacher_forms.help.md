@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document and report incidents of academic integrity violations. It ensures that all necessary information is collected to thoroughly investigate these incidents. To avoid duplicate reporting, please ensure you are not reporting the same incident twice.
-</thinking>
-
 # Academic Integrity Form - Help Guide
 ## Purpose
 This form is used to report incidents of academic integrity violations, ensuring that all necessary information is collected to thoroughly investigate these incidents.

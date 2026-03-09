@@ -1,9 +1,3 @@
-<thinking>... internal reasoning and checks to confirm that the form is relevant and not duplicated...
-
-This form seems to be a general equipment evaluation form, likely used by technicians or maintenance personnel to assess the performance, reliability, and quality of equipment. I will assume that the form is not duplicated and the purpose is to gather information about the equipment's overall condition and functionality.
-
-</thinking>
-
 # Equipment Evaluation Form - Help Guide
 ## Purpose
 

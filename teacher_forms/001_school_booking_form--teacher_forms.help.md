@@ -1,12 +1,3 @@
-<thinking>
-The School Booking Form is a vital tool for teachers to manage bookings for school facilities. This form is designed to collect essential information from teachers to schedule and process booking requests efficiently. 
-
-The form is intended for use by teachers to provide booking details, student information, and other relevant data. It's essential to complete this form accurately to ensure that school facilities are utilized effectively and that all necessary information is captured for subsequent actions.
-
-Before proceeding, ensure that you have a clear understanding of the form's requirements and the correct information to provide. Double-check the form's completion status before submitting it, as some fields may be required or have specific constraints.
-
-</thinking>
-
 # School Booking Form - Help Guide
 ## Purpose
 The School Booking Form is a digital tool designed to collect information for school booking requests. Its primary purpose is to gather essential details from teachers, allowing the school administration to efficiently manage bookings and optimize facility utilization.

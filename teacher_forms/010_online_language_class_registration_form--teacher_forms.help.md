@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Online Language Class Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information for online language class registration. It is intended to capture essential details from students and teachers for the successful management of online classes.

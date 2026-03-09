@@ -1,5 +1,3 @@
-<thinking>As a human, we need to ensure that our forms are user-friendly and easy to understand. This guide will help users complete the Cooperative Learning Survey form efficiently and effectively. Please note that this guide is specific to this form and may not be applicable to other forms. It is essential to read the entire guide to understand the form's purpose and how to complete it correctly. If you are familiar with the form, feel free to skip this guide and start filling it directly.</thinking>
-
 # Cooperative Learning Survey - Help Guide
 ## Purpose
 The Cooperative Learning Survey is designed to gather information about your experience with cooperative learning in your class. The survey aims to understand your views on how your students are performing in a cooperative learning environment.

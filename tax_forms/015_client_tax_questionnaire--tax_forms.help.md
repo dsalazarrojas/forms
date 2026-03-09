@@ -1,13 +1,4 @@
-# <thinking>
-Internal reasoning: This form is a client tax questionnaire used to gather information about clients' personal and financial circumstances. It aims to provide a comprehensive understanding of their tax-related activities, income, and expenses. This form is likely used by tax professionals or accountants to help clients prepare for tax returns and ensure compliance with tax laws.
-
-The form is structured to cover various aspects of a client's tax status, including personal information, income sources, and expenses. Each section is designed to gather specific details, such as employment income, self-employment income, investment income, and business expenses. This information will help tax professionals assess the client's tax liability and identify potential areas of concern or opportunities for tax savings.
-
-This form appears to be designed for individuals, with questions about marital status, dependents, and education expenses. It also inquires about significant life events, such as births, deaths, or home purchases. The form is quite detailed, covering various tax-related topics to ensure comprehensive understanding of a client's tax situation.
-
-</thinking>
-
-# Client Tax Questionnaire - Help Guide
+# # Client Tax Questionnaire - Help Guide
 
 ## Purpose
 The Client Tax Questionnaire is a comprehensive form designed to gather information about your personal and financial circumstances. It is used to help tax professionals prepare for tax returns and ensure compliance with tax laws.

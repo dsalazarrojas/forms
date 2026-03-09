@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Letter To Santa Template - Help Guide
 ## Purpose
 This form is a template for writing a letter to Santa Claus, allowing you to express your wishes and thoughts about the holiday season. It's designed to be a fun and creative way to share your feelings with Santa, and is intended for both children and adults to use.

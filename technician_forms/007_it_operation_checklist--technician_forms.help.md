@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "it_operation_checklist" form, we need to ensure that end-users understand its purpose, how to complete it, and what each field means. This guide will provide a clear and concise explanation of the form's requirements and expectations.
-
-</thinking>
-
 # it_operation_checklist - Help Guide
 ## Purpose
 

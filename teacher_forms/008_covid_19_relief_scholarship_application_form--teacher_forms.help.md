@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for students to apply for a COVID-19 relief scholarship. To be eligible, applicants must complete the form with accurate and honest information. The application process will only be initiated after the form is submitted. We will review all applications carefully and contact applicants with questions or requests for additional information. Please fill out the form accurately to avoid delays in processing.
-</thinking>
-
 # COVID 19 Relief Scholarship Application Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from students to determine eligibility for the COVID-19 relief scholarship. Please answer the questions carefully to provide a complete application.

@@ -1,16 +1,3 @@
-<thinking>
-The form, "Graduation Survey", is designed to collect information about graduates' experiences and feedback on their graduation. This form will help us understand how our graduates perceive their experience with our institution. It's essential that each graduate fills out this form accurately and completely.
-
-To ensure that we receive valuable and relevant feedback, please do not fill out this form if you:
-
-* Have not graduated from our institution
-* Are not a recent graduate (i.e., within the last year)
-* Have already filled out this form
-
-Please note that this form is not meant to be a lengthy or time-consuming exercise. It should take you only a few minutes to complete.
-
-</thinking>
-
 # Graduation Survey - Help Guide
 ## Purpose
 The Graduation Survey is designed to gather feedback from graduates about their experience with our institution. This information will help us improve our programs and services to better support future graduates.

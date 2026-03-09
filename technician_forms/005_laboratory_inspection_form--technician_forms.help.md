@@ -1,7 +1,3 @@
-<thinking>A laboratory inspection form is used to gather information about a facility's laboratory and the person conducting the inspection. This form can be used to document and track laboratory inspections, ensuring that all necessary information is collected and recorded. It's essential to fill out this form carefully and accurately to avoid any errors or misunderstandings.
-
-Before filling out this form, please ensure that all the necessary information is available, and that you are familiar with the laboratory inspection process. If you're unsure about any field or question, consult with the relevant personnel or refer to your organization's guidelines and policies.</thinking>
-
 # laboratory_inspection_form - Help Guide
 ## Purpose
 The laboratory inspection form is designed to gather essential information about a facility's laboratory and the person conducting the inspection. It helps document and track laboratory inspections, ensuring accuracy and completeness.

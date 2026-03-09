@@ -1,16 +1,3 @@
-<thinking>
-The Pronouns Quiz form is designed to collect information about users' pronouns preferences and other related details. This form is part of a larger project and is intended to gather user data for analysis and research purposes. It is essential to complete this form accurately to provide valuable insights for the project. Please ensure that you have read this guide carefully before proceeding, as it will help you understand each field's purpose and requirement.
-
-To confirm that you have understood the form's purpose, please review the following:
-
-* You are taking this form as part of a research project.
-* You are being asked about your pronouns preferences and other personal details.
-* Completing this form is voluntary, and you have the right to opt-out if you wish.
-
-Please proceed with caution and carefully review each field to ensure you are providing the correct information.
-
-</thinking>
-
 # Pronouns Quiz - Help Guide
 ## Purpose
 The Pronouns Quiz form is designed to collect your pronouns preferences and other related details. This information will be used for analysis and research purposes to better understand your preferences and help improve our services.

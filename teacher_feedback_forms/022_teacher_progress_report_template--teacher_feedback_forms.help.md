@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Teacher Progress Report Template - Help Guide
 ## Purpose
 The purpose of this form is to provide a template for teachers to report on student progress. This template captures information on student progress, subject, comments, and teacher comments, allowing teachers to provide a comprehensive overview of a student's performance.

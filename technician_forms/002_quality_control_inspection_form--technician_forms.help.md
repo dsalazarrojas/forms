@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for quality control inspections, where a technician and an inspector can record the status of equipment during an inspection. This form captures key information about the equipment, including its status, and provides spaces for comments and signatures.
-</thinking>
-
 # quality_control_inspection_form - Help Guide
 ## Purpose
 The purpose of this form is to record the results of a quality control inspection by a technician and an inspector. It ensures that equipment is properly inspected and documented, which helps in maintaining the accuracy and consistency of the inspection process.

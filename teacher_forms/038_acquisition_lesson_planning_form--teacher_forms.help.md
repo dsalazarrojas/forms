@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assist teachers in creating a comprehensive plan for an acquisition lesson, which is a structured learning strategy used to acquire knowledge, skills, or competencies. The form is meant to help teachers outline the essential components of a lesson, including the teacher's name, grade level, lesson title, specific learning objectives, materials and resources needed, step-by-step instructional activities, assessment methods, differentiation strategies, and technology integration. It also includes space for reflection and improvement.
-</thinking>
-
 # Acquisition Lesson Planning Form - Help Guide
 ## Purpose
 This form is designed for teachers to plan and organize a structured acquisition lesson. It ensures that all essential aspects are considered and planned before teaching to guarantee effective and engaging learning.

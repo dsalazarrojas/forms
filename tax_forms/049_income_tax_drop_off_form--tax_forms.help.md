@@ -1,10 +1,3 @@
-<thinking>
-This help guide will cover the "Income Tax Drop Off Form" form, which appears to be a form for collecting information related to income tax returns. To verify, I will review the form's purpose and check for any potential duplication with other forms.
-
-The form seems to be focused on collecting information about income tax returns, including the return itself, associated documents, client details, and tax professional involvement. There are 15 fields in total, each with a specific purpose and type. To provide a clear and concise user guide, I will break down each field's purpose and explanation in the subsequent sections.
-
-</thinking>
-
 # Income Tax Drop Off Form - Help Guide
 ## Purpose
 The "Income Tax Drop Off Form" is designed to collect information about income tax returns, including the return itself, associated documents, client details, and tax professional involvement. This form is likely used for tax-related administrative purposes.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a Schedule C form, a type of tax form used by business owners and self-employed individuals to report business income and expenses. This form is typically used for tax purposes, and the information collected will be used to determine the business's tax liability. To ensure that you are using the correct form, you should only use this form if your business is subject to self-employment tax or has reported a net profit/loss from business activities.
-
-This form is divided into several sections, each collecting different types of information. Please review each section carefully to ensure you are providing accurate and complete information.
-
-</thinking>
-
 # Schedule C Form For Business - Help Guide
 ## Purpose
 The Schedule C form is used to report the income and expenses of a business or self-employment income for tax purposes. This form is used by business owners and self-employed individuals to report their business activities and calculate their tax liability.

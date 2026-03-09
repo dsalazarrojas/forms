@@ -1,7 +1,3 @@
-<thinking>
-The Student Attendance Form is used to record the attendance of students in a class. This form is essential for tracking student attendance patterns and helping teachers monitor student engagement in their classes. To ensure accurate and complete data, please use this form for each student in each class. Please do not submit duplicate entries for the same student in the same class.
-</thinking>
-
 # Student Attendance Form - Help Guide
 ## Purpose
 The Student Attendance Form is used to record the attendance of students in a class.

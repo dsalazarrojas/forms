@@ -1,11 +1,3 @@
-<thinking>Internal reasoning block to check for form purpose and non-duplication:
-* This form is intended for Open Science Educators to apply for a program or opportunity.
-* The form collects contact information (First Name, Email, Phone) for internal communication.
-* The form also collects academic qualifications and background information (University, Position, Qualifications, Education, Experience, Department, Role) for review.
-* The form is not affiliated with or derived from any proprietary platforms.
-* The form is created using AI and released under CC BY 4.0 license.
-* End users are free to use, modify, and even sell forms derived from it, as long as they give credit.</thinking>
-
 # Open Science Educator Application Form - Help Guide
 ## Purpose
 This form is designed for Open Science Educators to apply for a program or opportunity. It collects contact information and academic qualifications for internal review.

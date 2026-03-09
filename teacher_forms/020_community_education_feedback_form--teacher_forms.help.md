@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from community education participants on their experience with a specific program or course. The form will help us understand their overall satisfaction, the quality of the course content, and the effectiveness of the instructors. It will also provide insights on how participants rate the course pace, difficulty level, and the materials provided. Additionally, it will help us understand what skills or knowledge they gained, if they will apply what they learned, and their willingness to recommend the program to others. We will use this feedback to identify areas of improvement and make informed decisions about future course development.
-</thinking>
-
 # Community Education Feedback Form - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for nominating students for the Primary School Swimming Carnival. The form is designed to gather information about each student nominated, including their personal details, swimming event participation, and any emergency contact information. The purpose of this form is to streamline the nomination process and ensure that all necessary details are captured accurately and efficiently. Before proceeding, please review the form carefully to avoid duplication of effort and ensure that all required fields are completed.
-
-</thinking>
-
 # Primary School Swimming Carnival Nomination Form - Help Guide
 ## Purpose
 The Primary School Swimming Carnival Nomination Form is designed to gather information about each student nominated for the swimming carnival. This form aims to streamline the nomination process and ensure that all necessary details are captured accurately and efficiently.

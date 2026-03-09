@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to calculate the arccosine value for a given input value. The form is used to input a value for a and theta, calculate the arccosine of the input value, and display the result along with its unit. This form is likely to be used in trigonometric calculations, such as in engineering, physics, and mathematics applications.
-
-The form should not be filled out by users who only want to calculate arccosine values for non-scientific purposes, as it requires inputting specific technical parameters. Additionally, the form should not be filled out by users who do not understand the concepts of arccosine and its unit system.
-
-</thinking>
-
 # get_arccosine_acos_form - Help Guide
 ## Purpose
 The "get_arccosine_acos_form" is a form used to input a value for a and theta to calculate the arccosine value of the input.

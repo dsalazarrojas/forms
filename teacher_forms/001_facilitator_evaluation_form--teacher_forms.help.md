@@ -1,22 +1,3 @@
-<thinking>
-The Facilitator Evaluation Form is designed to be completed by participants after a session or presentation led by a facilitator. It's meant to collect feedback and ratings from attendees to help facilitators improve their performance and better engage their audience. This form should only be completed once per facilitator per session. Please ensure that each facilitator is not evaluated multiple times for the same session.
-
-This form consists of 14 questions across 7 fields, including ratings, content, facilitation, and feedback. The purpose of this form is to provide a comprehensive evaluation of the facilitator's performance, helping to improve future sessions and facilitator development.
-
-When completing this form, please follow these steps:
-
-1. Select the correct program title and overall rating.
-2. Indicate whether the facilitator provided content and materials that supported the session.
-3. Rate the presentation.
-4. Check if the facilitator provided sufficient facilitation skills to support the session.
-5. Provide feedback on the facilitator's organization and name.
-6. Rate the facilitator's performance.
-7. Add any additional comments.
-
-Please note that some fields are select options, where you will have multiple choices to choose from. In these cases, please select all that apply.
-
-</thinking>
-
 # Facilitator Evaluation Form - Help Guide
 ## Purpose
 The Facilitator Evaluation Form is designed to collect feedback and ratings from participants after a session led by a facilitator. It aims to provide an evaluation of the facilitator's performance and improve future sessions.

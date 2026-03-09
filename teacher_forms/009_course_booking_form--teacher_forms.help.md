@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from end-users for booking a course with a teacher. It is crucial to ensure that the form is filled out correctly to avoid any errors or miscommunication. Please make sure to carefully fill out the form according to the guidelines below to ensure accurate and efficient processing of your booking request.
-</thinking>
-
 # Course Booking Form - Help Guide
 
 ## Purpose

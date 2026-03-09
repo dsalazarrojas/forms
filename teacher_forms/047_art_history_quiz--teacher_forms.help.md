@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in completing the Art History Quiz form, ensuring they understand its purpose, how to fill it out, and what each field signifies. The form is designed to collect information about art history, specifically asking users to identify famous artists, art movements, and mediums. By completing this form, users will provide valuable data for art history education and research.
-
-</thinking>
-
 # Art History Quiz - Help Guide
 ## Purpose
 The Art History Quiz form is designed to collect data about art history knowledge from users. It contains questions about famous artists, art movements, and mediums, which will help researchers and educators better understand the knowledge base of art history students.

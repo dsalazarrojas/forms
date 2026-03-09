@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from substitute teachers about their experience in a school setting. The feedback will help the school administration to better understand the challenges and opportunities faced by substitute teachers, which will inform decisions on how to improve the substitute teacher experience. This form is not intended to be used for daily attendance or scheduling purposes. 
-
-</thinking>
-
 # Substitute Teacher Feedback Form - Help Guide
 ## Purpose
 The Substitute Teacher Feedback Form is a tool for substitute teachers to provide their feedback and input on their experience in the school. This form will help us understand your thoughts, suggestions, and concerns to improve our substitute teacher program.

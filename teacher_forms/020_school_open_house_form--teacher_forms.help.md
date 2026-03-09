@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block ...
-
-This form is designed to be completed by teachers to provide information about the school open house event. It is not intended for students or other non-teachers. This form is not meant to be a substitute for other forms or systems, but rather a supplement to provide additional context and details. Please ensure you have the necessary permissions and access before completing this form. Also, please review the information carefully before submitting it to ensure accuracy and completeness.
-
-</thinking>
-
 # School Open House Form - Help Guide
 ## Purpose
 The School Open House Form is designed to gather information from teachers about the school open house event. This information will be used to facilitate communication and organization for the event.

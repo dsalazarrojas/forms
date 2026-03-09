@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be designed for reporting damaged equipment in a technical context. The form likely serves as an incident report for maintenance, repair, or replacement of damaged equipment. This form's purpose is to gather essential information about the damaged equipment, including its condition, the company that owns it, and the date and time of the damage. This form may be used by technicians, maintenance personnel, or facility managers to report and track equipment malfunctions. 
-
-To avoid duplication or incomplete reporting, it's essential to ensure that this form is filled out thoroughly and accurately. A thorough understanding of each field will aid in providing the necessary information for efficient processing and resolution.
-
-</thinking>
-
 # damaged_equipment_form - Help Guide
 ## Purpose
 The "damaged_equipment_form" is a tool for reporting damaged equipment. It helps in gathering information about the equipment's condition, the company it belongs to, and other relevant details.

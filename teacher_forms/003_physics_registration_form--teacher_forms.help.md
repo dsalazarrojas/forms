@@ -1,9 +1,3 @@
-<thinking>
-
-**Internal Reasoning Check:** This form is designed for registering students for a physics course. It gathers basic information such as student and teacher contact details, course specifics, and physics course selection. To fill this form, the teacher and student must provide accurate email addresses, class timing, duration, and course date. Students can choose multiple physics courses they wish to register for, and teachers can choose the best time for their classes. This form is crucial for organizing and scheduling physics courses effectively and ensuring accurate contact information for all parties involved.
-
-</thinking>
-
 # Physics Registration Form - Help Guide
 
 ## Purpose

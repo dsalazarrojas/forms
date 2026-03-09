@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help parents enroll their children in weekend school programs offered by the educational institution. The purpose of this form is to collect relevant information about the student and their contact details to facilitate the enrollment process. The form will be used to determine the availability of the selected class and schedule the student's sessions accordingly. Please ensure that you are completing the form with accurate and up-to-date information to avoid any issues during the enrollment process.
-</thinking>
-
 # weekend_school_enrollment_form - Help Guide
 ## Purpose
 The weekend_school_enrollment_form is designed to gather information from parents to enroll their children in weekend school programs. This form is used to determine the student's availability and schedule their sessions in the selected class.

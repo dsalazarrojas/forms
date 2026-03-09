@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information on remote learning activities for students. It's crucial that this data is collected and reviewed to ensure that students are meeting learning objectives. Please note that this form should only be used for remote learning activities and not for other types of learning activities. To avoid duplication, please check that a similar form has not already been submitted.
-
-</thinking>
-
 # remote_learning_daily_log_form - Help Guide
 ## Purpose
 The remote_learning_daily_log_form is a tool to track student progress for remote learning activities.

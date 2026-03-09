@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users for education session bookings. It is intended for use in educational settings, such as schools, universities, or training institutions. The form is divided into four sections: session details, contact details, booking details, and additional notes. This form is intended for use by teachers, instructors, or administrators to collect relevant information about sessions, contacts, and bookings.
-Please ensure that you are familiar with the purpose of this form and that you have not filled it out before. If you are unsure, please review the form again to ensure you understand what information is being collected.
-</thinking>
-
 # education_session_booking_form - Help Guide
 ## Purpose
 This form is used to collect information about education sessions, including session details, contact information, booking details, and any additional notes.

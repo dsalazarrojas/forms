@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect feedback from students about a course they have attended. It aims to gauge their satisfaction with the course and provides a platform for instructors to improve their teaching. 
 
 The form is divided into different sections, each focusing on a specific aspect of the course. This includes entering the survey name, providing feedback on the course, entering the instructor's name, rating course satisfaction, selecting the date and time of attendance, and providing additional comments or contact information if needed.

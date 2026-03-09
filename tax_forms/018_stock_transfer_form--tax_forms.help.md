@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stock Transfer Form - Help Guide
 ## Purpose
 The Stock Transfer Form is used to transfer stock from one entity to another. This form is used to capture the details of the stock transfer process, including the company name, dates, shares, reason, and other relevant information.

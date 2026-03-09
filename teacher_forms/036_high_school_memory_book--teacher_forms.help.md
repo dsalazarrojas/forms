@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "High School Memory Book" form, I need to consider the purpose and requirements of the form. 
-The form is likely used for teachers or administrators to collect information about high school students, such as their contact information, personal details, and high school memories. The purpose of the form is to gather comprehensive data about the students, which could be used for various educational or administrative purposes.
-</thinking>
-
 # High School Memory Book - Help Guide
 ## Purpose
 The "High School Memory Book" form is designed to collect information about high school students. This form will help teachers or administrators gather comprehensive data about the students, including contact information, personal details, and high school memories.

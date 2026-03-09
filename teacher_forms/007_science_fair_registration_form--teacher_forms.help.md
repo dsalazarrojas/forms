@@ -1,6 +1,3 @@
-<thinking>
-This form is for registering participants for the science fair. The form will help the organizers in collecting necessary information from the participants. This form does not seem to be designed for duplicate registrations, so it is likely for new participant registrations. The fields in this form are mostly text inputs with some select options for categorization. Please note that the `project_category` and `science_fair` fields have identical labels, which might be a mistake in the schema. To avoid confusion, we will use the `science_fair` field's label for the select_multiple type field on page 1 and keep `project_category`'s label for the select_one type field on page 2.
-</thinking>
 # science_fair_registration_form - Help Guide
 ## Purpose
 This guide will walk you through the science fair registration form, providing an explanation of each field and tips for completing the form successfully.

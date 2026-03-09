@@ -1,7 +1,3 @@
-<thinking>
-The form is used to create a maintenance work order for equipment, allowing technicians to record and track maintenance activities. This form can be completed by anyone with access to it, including maintenance personnel and supervisors. It is recommended to review the form carefully and ensure that all relevant information is provided to ensure accurate tracking and reporting. Please note that some fields may be optional, but providing complete information will help with efficient maintenance work ordering process.
-</thinking>
-
 # Maintenance Work Order Form - Help Guide
 ## Purpose
 The Maintenance Work Order Form is used to document and track maintenance activities for equipment. This form is used to provide necessary information for technicians to perform maintenance tasks and for supervisors to monitor progress.

@@ -1,7 +1,3 @@
-<thinking>
-The form is used for teachers to apply for a position at a preschool. The form is designed to collect basic information about the applicant, such as their name, contact details, and educational background. The form is not meant to be a comprehensive application package, but rather a starting point for further evaluation.
-</thinking>
-
 # Preschool Teacher Application Form - Help Guide
 ## Purpose
 The Preschool Teacher Application Form is used to gather basic information from applicants who are interested in working as a preschool teacher at our institution.

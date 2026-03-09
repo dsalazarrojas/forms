@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for technicians to submit tickets for IT services. The form collects information about the ticket, including its category, priority, assigned technician, due date, status, and additional details such as notes, email, and phone numbers. Technicians will likely need to choose which categories the ticket is associated with and select a priority level for the ticket. They will also need to choose which technician the ticket is assigned to and set a due date for the ticket. The status of the ticket should reflect the current state of the ticket, and notes can be added for any additional information. The email and phone fields are for communication purposes. The form should be completed in a way that accurately and efficiently submits a ticket for IT services.
-</thinking>
-
 # it_service_ticket_form - Help Guide
 ## Purpose
 This form is used to submit tickets for IT services.

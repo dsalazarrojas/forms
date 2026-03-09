@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Teacher Aide Conduct Assessment - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from teachers on the conduct of their teacher aides. This form helps to assess the effectiveness of the teacher aide's performance and identify areas for improvement. The form is used to rate and comment on the teacher aide's conduct, student engagement, teacher support, and overall performance.

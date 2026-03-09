@@ -1,5 +1,3 @@
-<thinking>As a technical writer, my goal is to help users understand the purpose and usage of the Machine Guarding Checklist form. The form is intended to collect information about the state of machines and equipment, specifically their guarding systems and safety features. This form is likely used in industries where machinery is a critical aspect of operations, such as manufacturing, construction, or oil and gas extraction. To use this form, the user must be an authorized personnel, such as a maintenance supervisor or a safety engineer. This form should only be filled out when the user has physically inspected the machine or equipment in question. The user should have the necessary knowledge and authority to complete the form accurately.</thinking>
-
 # Machine Guarding Checklist - Help Guide
 ## Purpose
 The Machine Guarding Checklist is a form used to collect information about the state of machine guarding systems and safety features. It helps users assess the safety of machines and equipment to identify any necessary repairs or maintenance.

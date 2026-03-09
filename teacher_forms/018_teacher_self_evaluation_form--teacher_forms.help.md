@@ -1,7 +1,3 @@
-<thinking>
-The teacher self evaluation form is designed to help teachers assess their own performance and identify areas for improvement. This form is used to collect feedback on teaching effectiveness, lesson planning, student engagement, student progress, teacher availability, teacher support, communication, and overall rating. The purpose of this form is to provide a comprehensive evaluation of a teacher's performance, helping them to reflect on their teaching practices and adjust them accordingly. This form should not be used in conjunction with other performance evaluation forms, as it is intended to be a stand-alone assessment tool.
-</thinking>
-
 # Teacher Self Evaluation Form - Help Guide
 ## Purpose
 The Teacher Self Evaluation Form is a tool for teachers to assess their own performance and identify areas for improvement.

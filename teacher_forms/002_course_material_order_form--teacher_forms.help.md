@@ -39,4 +39,3 @@ To complete this form, please follow these steps:
 * **Order Status**: This field is used to update the order status.
 * **Payment Gateway ID**: This field is used to enter the payment gateway ID.
 
-<thinking>Before filling out this form, please ensure that you have all the necessary information for the course material order. This form is intended to be completed by customers or staff who need to record and manage course material orders. If you are unsure about any of the fields, please refer to the relevant department or contact our support team for assistance.</thinking>

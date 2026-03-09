@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of this form, I've considered the context of a "Middle School Report Card Form". This form likely serves to collect data on a student's academic and behavioral performance in middle school. The fields are categorized into different subjects (e.g., Math, Language Arts, Science, etc.) and behavioral habits (e.g., Academic Habits, Behavioral Habits). The form's purpose is likely to assess student performance and provide insights for teachers, parents, or administrators to inform educational decisions.
-</thinking>
-
 # Middle School Report Card Form - Help Guide
 ## Purpose
 This form is designed to collect data on student performance in various subjects and behavioral habits in middle school. It will help teachers, parents, or administrators assess student progress and identify areas of improvement.

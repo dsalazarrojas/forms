@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from students to request a tutorial or some kind of support or guidance from the teacher or educator. The form is intended for students to provide their details, including their name, email, and a brief description of their request, as well as any additional comments they may have. The teacher can then review and respond to these requests, providing guidance or support as needed. The form also allows students to select additional information that may be relevant to their request. 
-
-To ensure that the form is used correctly and that the purpose is clear, we will check for duplication and relevance before processing the form.
-
-</thinking>
-
 # Tutorial Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect requests from students for tutorials or support from teachers or educators. This form is designed to provide a structured way for students to submit their requests.

@@ -1,23 +1,3 @@
-<thinking>
-The purpose of this form, "end_of_semester_survey", is to collect feedback and data from teachers at the end of each semester. This form likely aims to assess the quality and effectiveness of the course content, instructor performance, and overall student experience, as well as gather comments on the institution. 
-
-The form collects data on:
-- Semester being referred to
-- Instructor name
-- Course title
-- Course description (optional)
-- Student feedback on course content
-- Overall experience in the course
-- Comments (optional)
-- Email address (optional)
-- Phone number (optional)
-- Selected institution (with options)
-- Comments on institution
-
-This form is designed to be completed by teachers, and the required fields are indicated by "true". The form likely serves as a data collection tool for the institution to improve courses and services offered.
-
-</thinking>
-
 # end_of_semester_survey - Help Guide
 ## Purpose
 The end_of_semester_survey form is designed to gather feedback from teachers on the quality and effectiveness of the course content, instructor performance, and overall student experience at the end of each semester. This data helps the institution to identify areas of improvement and provide better services to teachers and students.

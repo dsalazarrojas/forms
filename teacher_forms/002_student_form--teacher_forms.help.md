@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect student information for administrative and organizational purposes. This form aims to gather essential details such as name, contact information, and category classification. It is not intended for academic or educational purposes, and it's likely that you won't need to fill out this form unless you're a member of the school or organization staff. If you're a student, please ensure you're not filling out this form multiple times.
-</thinking>
-
 # Student Form - Help Guide
 ## Purpose
 The Student Form is used for administrative and organizational purposes to collect essential details about students.

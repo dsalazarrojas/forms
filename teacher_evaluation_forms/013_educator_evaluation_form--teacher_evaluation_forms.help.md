@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Educator Evaluation Form - Help Guide
 ## Purpose
 The Educator Evaluation Form is designed to gather feedback and ratings from students to evaluate their educators' performance. This form is intended to help educators identify areas of strength and areas for improvement, allowing them to grow and develop as professionals. To get the most out of this form, please ensure that you are evaluating an educator you have had direct interaction with, and that your feedback is constructive and actionable.

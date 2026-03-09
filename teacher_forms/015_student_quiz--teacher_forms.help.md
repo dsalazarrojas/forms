@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information from students about their experiences, preferences, and opinions. It will likely be used by educators or administrators to gather feedback, monitor progress, or assess student performance. Before proceeding, ensure that this form is relevant to your specific context and that you have not created a duplicate form. If you're unsure, please review the form's purpose and content carefully.</thinking>
-
 # Student Quiz - Help Guide
 ## Purpose
 The Student Quiz form is designed to collect feedback, progress tracking, or performance assessment from students. This form may be used by educators or administrators to gather data and insights to inform instruction, support student growth, or evaluate student achievement.

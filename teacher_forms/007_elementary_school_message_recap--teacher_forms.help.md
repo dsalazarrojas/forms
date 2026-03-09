@@ -1,8 +1,3 @@
-<thinking>
-The form "Elementary School Message Recap" is designed to allow teachers to send updates to parents and staff regarding their child's or student's activities, progress, and other events in school. This form should only be used by authorized school staff members to send messages to either parents, staff, or both. To prevent duplication, this form should not be used to send messages that are already being tracked through other channels. 
-
-</thinking>
-
 # Elementary School Message Recap - Help Guide
 
 ## Purpose

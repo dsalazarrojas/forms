@@ -1,7 +1,3 @@
-<thinking>
-This form will likely be used by administrators or evaluators to assess the performance of teachers, providing a way to collect qualitative feedback on their teaching methods, tools, and effectiveness. It is possible that this form will be used to help teachers improve their skills and provide insights to school administrators. To avoid duplication and redundancy, it might be a good idea to ensure that the fields that are asking similar questions are grouped together in a way that makes sense for the form's purpose.
-</thinking>
-
 # Teachers Assessment Form - Help Guide
 ## Purpose
 The Teachers Assessment Form is designed to help administrators and evaluators collect feedback on teachers' performance, focusing on their teaching methods, tools, and effectiveness. This form provides a structured way to gather qualitative comments and ratings that can aid in improving teaching skills and providing valuable insights to school administrators.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from learners who have engaged in a training or educational program. It aims to collect feedback on the effectiveness of the program, areas that need improvement, and suggestions for future enhancements. This form is not intended for general audience, but rather for those who have completed the program. It is essential that the learner has a clear understanding of what the form is about and what information is required to provide accurate and helpful feedback.
-Before proceeding, ensure that the information provided in this form is not a duplicate and that the user has not already completed a similar survey.
-</thinking>
-
 # Learner Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and suggestions from learners on the effectiveness and areas of improvement of a training or educational program.

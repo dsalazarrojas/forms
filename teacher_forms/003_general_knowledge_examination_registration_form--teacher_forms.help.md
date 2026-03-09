@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from teachers for a General Knowledge Examination. This form is designed to gather essential details such as name, email, school name, and examination date. The fields are meant to be easy to fill out and provide clear labels to help users understand what information is being requested.
-</thinking>
-
 # General Knowledge Examination Registration Form - Help Guide
 ## Purpose
 The General Knowledge Examination Registration Form is a tool designed to collect information from teachers for a General Knowledge Examination. This form serves as a data collection mechanism to gather details about participants.

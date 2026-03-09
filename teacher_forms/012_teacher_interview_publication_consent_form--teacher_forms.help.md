@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from teachers for the publication of their interviews. This form is likely used to record a teacher's consent for the publication of their interview, and possibly collect additional details such as their name, school affiliation, contact information, and preferences for publication. Before filling out this form, it's essential to review the provided fields carefully to ensure that you have the necessary information readily available. Make sure to answer the questions truthfully and accurately to ensure the form is completed correctly.
-</thinking>
-
 # Teacher Interview Publication Consent Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for teachers to submit case studies, providing essential information about students, courses, and the case study itself. The form is structured into sections, each containing relevant fields that need to be filled out. This guide will help you understand the purpose and usage of each section, ensuring you complete the form accurately and efficiently.
-
-</thinking>
-
 # Case Study Submission Form - Help Guide
 ## Purpose
 The Case Study Submission Form is a tool for teachers to submit case studies to be reviewed and graded by instructors. This form captures essential details about students, courses, and the case study itself, aiding in the evaluation and assessment process.

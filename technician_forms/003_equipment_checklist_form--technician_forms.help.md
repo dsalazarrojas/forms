@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "equipment_checklist_form", I will first understand the purpose and requirements of the form. This form seems to be designed to create a list of equipment, possibly for inventory or asset management purposes. The form asks for a list of essential and non-essential equipment, along with the date and time of usage. It appears to be used for administrative tasks rather than emergency response situations. I will make sure to focus on explaining the form's purpose and usage in the following help guide.
-
-</thinking>
 # equipment_checklist_form - Help Guide
 ## Purpose
 The equipment checklist form is used to create a list of equipment for inventory or asset management purposes. This form helps users to identify the essential and non-essential equipment, along with the date and time of usage.

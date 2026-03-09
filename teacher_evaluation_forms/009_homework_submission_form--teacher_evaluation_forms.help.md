@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for teachers to submit homework assignments for review and feedback. It should only be used for this purpose, and not for other types of submissions. To the best of my ability, I will ensure that all form fields are necessary and not duplicated.
-
-Please note that the purpose and content of this form were generated from public data and do not represent any specific institution or entity's policies. If you need a form tailored to a particular organization's needs, please let me know.</thinking>
-
 # Homework Submission Form - Help Guide
 ## Purpose
 The Homework Submission Form is designed for teachers to submit homework assignments for review and feedback. This form helps gather essential information about student submissions, making it easier to track and review assignments.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather information about the parent-teacher relationship in a school setting. The goal is to understand the level of involvement and communication between parents and teachers, as well as the effectiveness of teaching methods and materials. This form will help to identify areas of improvement and provide a snapshot of parent perceptions on various aspects of teaching and communication. 
-
-Please make sure to fill out this form carefully and accurately, as it will be used to inform future improvements and decisions. 
-
-This form should be filled out by a parent or guardian, and not by a teacher. 
-
-Also, please ensure that you are not filling out this form if you have already completed it in the past year. We appreciate your cooperation in avoiding duplication of effort.
-</thinking>
-
 # School Survey For Parents - Help Guide
 ## Purpose
 This survey is designed to gather information about the parent-teacher relationship and teaching methods in a school setting. It will help us understand the level of parent involvement, communication, and perception of teaching effectiveness.

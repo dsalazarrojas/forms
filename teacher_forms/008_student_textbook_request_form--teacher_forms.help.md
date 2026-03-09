@@ -1,7 +1,3 @@
-<thinking>
-The Student Textbook Request Form is used to request textbooks for students in the classroom. This form is typically filled out by teachers to communicate with the school's textbook management team regarding student requests for textbooks. The form is used to ensure that students have the textbooks they need to succeed in their studies. Before completing this form, please check to see if the student already has the textbook they are requesting. Duplicate requests may cause delays in processing the request.
-</thinking>
-
 # Student Textbook Request Form - Help Guide
 ## Purpose
 The Student Textbook Request Form is used to request textbooks for students in the classroom. This form is typically filled out by teachers to communicate with the school's textbook management team regarding student requests for textbooks.

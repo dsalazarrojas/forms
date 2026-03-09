@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used for scheduling and planning parent-teacher meetings. It is likely used by teachers or school administrators to organize meetings with parents to discuss student progress, goals, and other related matters. The form should not be used for other purposes, such as scheduling general office hours or other types of meetings not directly related to parent-teacher interactions.
-The form is designed to be filled out in two stages: first, the parent will fill out their side of the form, and then the teacher will fill out their side of the form. The form is divided into several sections, each of which is intended to capture specific information about the meeting.
-</thinking>
-
 # Parents Evening Form Template - Help Guide
 
 ## Purpose

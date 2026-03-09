@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Laboratory Supply Order Form - Help Guide
 ## Purpose
 This form is designed to capture order details and other essential information from users for laboratory supplies. It has four pages: "Order Details", "Equipment", "Delivery Information", and "Confirmation". The form is intended for teachers and staff to record their laboratory supply orders in a centralized platform.

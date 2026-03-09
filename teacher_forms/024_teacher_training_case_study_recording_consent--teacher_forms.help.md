@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Teacher Training Case Study Recording Consent - Help Guide
 
 ## Purpose

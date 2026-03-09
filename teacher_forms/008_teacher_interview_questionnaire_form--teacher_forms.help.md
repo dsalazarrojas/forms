@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect demographic information from teachers about their experiences and perceptions. It's intended to be used by administrators, researchers, or school officials who require accurate and comprehensive data on teaching staff. This form will help them understand the current state of teaching and make informed decisions for the betterment of the educational system.
-</thinking>
-
 # Teacher Interview Questionnaire Form - Help Guide
 ## Purpose
 The purpose of this form is to collect demographic and qualitative information from teachers about their experiences, opinions, and perceptions regarding their work environment and teaching practices. This data will aid administrators, researchers, and school officials in making informed decisions to improve the educational system.

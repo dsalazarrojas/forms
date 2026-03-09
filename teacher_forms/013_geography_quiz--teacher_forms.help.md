@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Geography Quiz - Help Guide
 ## Purpose
 The Geography Quiz form is designed to help teachers track student performance and provide a comprehensive assessment of their knowledge in geography. This form can be used to create quizzes with multiple questions, allow students to select their answers, and record their scores, name, grade, time taken, date, and teacher's name.

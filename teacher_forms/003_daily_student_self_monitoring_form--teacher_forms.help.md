@@ -1,10 +1,3 @@
-<thinking>
-This form is used by teachers to monitor student progress daily. The purpose of this form is to help teachers keep track of student performance, behavior, and any relevant notes or comments. This form is likely used by teachers to identify areas of improvement for students and provide constructive feedback. The form fields are designed to collect specific information about each student, which can be used to inform instruction and support student growth.
-
-The form consists of several fields that require the input of the following information:
-
-</thinking>
-
 # Daily Student Self Monitoring Form - Help Guide
 
 ## Purpose

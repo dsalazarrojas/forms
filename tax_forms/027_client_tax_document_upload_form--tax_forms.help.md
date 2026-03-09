@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Tax Document Upload Form - Help Guide
 
 ## Purpose

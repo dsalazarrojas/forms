@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow technicians to create an IT service request that will be processed and managed internally by the IT department. Before proceeding, please ensure that you have already tried troubleshooting or resolving the issue yourself and that the issue is not a repeat of a previously resolved problem. This guide will walk you through the process of completing the form in a step-by-step manner, helping you to provide the necessary information for the IT team to efficiently address your request.
-</thinking>
-
 # IT Service Request Form - Help Guide
 ## Purpose
 The IT Service Request Form is used to submit requests for help with IT-related issues. This guide will walk you through the process of completing the form to ensure your request is accurately documented and efficiently processed.

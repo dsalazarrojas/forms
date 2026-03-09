@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Learning Modality Survey - Help Guide
 
 ## Purpose

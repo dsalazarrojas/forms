@@ -1,7 +1,3 @@
-<thinking>
-The Learning Facilitator Feedback Form is designed to collect feedback from teachers on the learning facilitators' performance. This form is meant to gather information about the facilitators' teaching style, communication skills, and ability to answer questions, as well as any comments or suggestions the teacher may have for improvement. This form is not intended for self-evaluation, but rather for teachers to provide feedback from their own experiences working with the learning facilitators. It is recommended that teachers fill out this form only if they have worked with the facilitators in the past and can provide constructive feedback.
-</thinking>
-
 # Learning Facilitator Feedback Form - Help Guide
 
 ## Purpose

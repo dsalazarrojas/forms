@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect feedback from instructors about their courses and interactions with students. To complete this form, please ensure that you are logged in as an instructor and have access to the relevant course and student data. This form is not intended for students to use; if you are a student, please direct your feedback to your instructor or institution's feedback channels. The form is also not designed to collect feedback on individual students, so please select all relevant student IDs if you are providing feedback on multiple students.
-
-</thinking>
-
 # Course Instructor Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback from instructors about their courses and interactions with students.

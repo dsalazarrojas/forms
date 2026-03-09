@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I will review the form and its fields. The form is called "Lecture Evaluation Form Template" and its purpose seems to be to collect feedback from students about their overall experience in a lecture, specifically evaluating the quality of content, presentation, and engagement. It appears that the form is used to gather quantitative data for the lecturer to improve their teaching skills. I will create a clear and concise help guide to assist end-users in filling out the form.</thinking>
-
 # Lecture Evaluation Form Template - Help Guide
 ## Purpose
 This form is designed to help lecturers gauge their performance by collecting feedback from students on the quality of their content, presentation, and engagement during a lecture. Your input will help the lecturer improve and provide a better learning experience for you and your peers.

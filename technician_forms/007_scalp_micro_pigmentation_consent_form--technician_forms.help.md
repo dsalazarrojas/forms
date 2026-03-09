@@ -1,11 +1,3 @@
-<thinking>
-This form is for patients to provide their informed consent for scalp micro pigmentation. Scalp micro pigmentation is a non-surgical procedure that helps create the illusion of hair growth on balding areas of the scalp. Before undergoing this procedure, patients need to sign a form indicating their informed consent and medical history. This form is a template that will help guide you through the necessary information.
-
-To check if this form has already been filled out by the patient, please ensure that the "Patient Informed Consent" field is marked as "No". If it is marked as "Yes", the form can be skipped as it indicates that the patient has already provided informed consent and medical history.
-
-Please note that this form is not for patients who have already provided their informed consent and medical history. In such cases, the "Practitioner Signature" fields at the end of the form should be used instead.
-</thinking>
-
 # Scalp Micro Pigmentation Consent Form - Help Guide
 ## Purpose
 

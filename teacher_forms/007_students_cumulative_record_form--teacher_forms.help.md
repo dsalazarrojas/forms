@@ -1,6 +1,3 @@
-<thinking>
-This form is used to track student information and academic progress over several grades. The form will likely be used by educators or administrators to monitor student performance and provide feedback. To ensure accurate and comprehensive data entry, please review each field carefully and ensure that all relevant information is provided. It's crucial that each field is accurately filled out to avoid data inconsistencies. This form may be used for internal purposes only, and the purpose is to gather information on students' academic progress over the years. The following sections explain each field in detail for the end-user. If you have any questions or concerns, please refer to your administrator or department head for guidance.</thinking>
-
 # Students Cumulative Record Form - Help Guide
 
 ## Purpose

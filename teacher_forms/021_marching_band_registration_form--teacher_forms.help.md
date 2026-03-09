@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from teachers and staff to register students for the marching band program. This form will collect personal details, contact information, and student-specific data to ensure accurate and efficient student registration. Please ensure that you have the necessary permissions and approvals before submitting this form.
-</thinking>
-
 # Marching Band Registration Form - Help Guide
 ## Purpose
 The Marching Band Registration Form is used to collect information from students and staff to register students for the marching band program. This form is designed to be completed by teachers and staff members to provide accurate and efficient student registration.

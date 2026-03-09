@@ -1,7 +1,3 @@
-<thinking>
-This guide will help you understand how to complete the School Absence Form for your school's attendance system.
-</thinking>
-
 # School Absence Form - Help Guide
 
 ## Purpose

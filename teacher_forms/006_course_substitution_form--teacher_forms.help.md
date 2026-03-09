@@ -1,7 +1,3 @@
-<thinking>
-This form is used by teachers and school administrators to manage course substitutions for a school. It allows users to view and manage the substitution status of various courses, including the approval status of teachers and students. This form helps to keep track of who requested and approved the substitution, as well as any comments or comments that were made during the process. This form will likely be used by teachers, school administrators, and possibly other school staff. It is likely to be used in a school setting, possibly in a school's administrative office. To avoid duplication of effort and ensure that the correct information is entered, please review the form carefully and only submit it once all required information has been entered. If you are unsure about any part of the form, please contact the relevant school staff for guidance.
-</thinking>
-
 # Course Substitution Form - Help Guide
 ## Purpose
 This form is used to manage course substitutions for a school, allowing users to track and update the status of course substitutions.

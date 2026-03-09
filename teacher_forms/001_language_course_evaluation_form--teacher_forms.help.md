@@ -1,10 +1,3 @@
-<thinking>
-The purpose of a language course evaluation form is to assess the quality, effectiveness, and satisfaction of language courses taught by educators. This form will help gather feedback from students regarding their experience and evaluation of the language course, and will help the instructors identify areas of improvement to refine their teaching methods.
-
-To avoid duplication and misinterpretation, it's essential to ensure that each question is answered truthfully and thoroughly.
-
-</thinking>
-
 # Language Course Evaluation Form - Help Guide
 ## Purpose
 

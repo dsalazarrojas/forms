@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect income tax data from taxpayers. This form will likely be used to process and verify tax returns. It's crucial that the form is filled out accurately and completely to avoid any issues with processing or verification.
-
-This form is a collection of multiple pages with a mix of text fields, select_one and select_multiple fields. Each page has a unique ID and name, making it easy to identify the specific field being filled out. The fields are designed to collect essential information from taxpayers.
-
-The form is not explicitly designed for any specific filing status or marital status, making it a general tax data collection form. However, it does ask for income source, which may be a critical field for tax purposes.
-
-The form asks for tax year and file date/time, which might be related to tax deadlines or submission requirements. It also includes fields for taxpayer contact information, which could be necessary for communication or verification purposes.
-
-</thinking>
-
 # income_tax_data_form - Help Guide
 ## Purpose
 The purpose of this form is to collect income tax data from taxpayers.

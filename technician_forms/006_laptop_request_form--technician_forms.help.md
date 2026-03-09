@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for a technician to issue a laptop for a student in a school environment. The form should only be filled out once for each student, and the technician should not issue a laptop to the same student twice within a specified time period. Please check the school database for existing laptop assignments before filling this form.
-</thinking>
-
 # Laptop Request Form - Help Guide
 ## Purpose
 

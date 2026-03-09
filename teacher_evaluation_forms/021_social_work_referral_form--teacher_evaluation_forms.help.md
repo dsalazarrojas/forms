@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used for referring a student to social work services due to behavioral issues. The purpose of this form is to provide a structured format for teachers to report concerning student behaviors and suggest support strategies. The form is designed to gather relevant information about the student, such as their name, grade, and behaviors of concern. It also includes a section for the teacher to provide their assessment and suggestions for the student's social worker. The social worker will use this information to provide support and services for the student. 
-
-This form is intended for teachers to complete, and the information will be used to inform social work services. 
-
-Please ensure that you have permission from the student's parent or guardian before completing this form. 
-
-Also, please note that this form is for referring students to social work services, not for disciplinary actions or other purposes.
-
-</thinking>
-
 # social_work_referral_form - Help Guide
 
 ## Purpose

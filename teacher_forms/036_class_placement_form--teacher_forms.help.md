@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be completed by educators or administrators to gather information about a student's academic and personal details for class placement purposes. The form is divided into several sections, each focusing on different aspects of the student's profile. The information collected will help in making informed decisions about the student's class placement.
-
-</thinking>
-
 # Class Placement Form - Help Guide
 
 ## Purpose

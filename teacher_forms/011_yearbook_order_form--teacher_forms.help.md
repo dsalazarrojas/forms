@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Yearbook Order Form - Help Guide
 
 ## Purpose

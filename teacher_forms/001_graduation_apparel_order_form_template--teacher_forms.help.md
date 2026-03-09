@@ -1,7 +1,3 @@
-<thinking>
-This form is a template designed to facilitate the process of ordering graduation apparel for schools. Its purpose is to collect relevant information from students or administrators about their graduation year and day to help in the planning and preparation of graduation attire orders. The form's design should be relevant to schools that use it for this specific use case. Please ensure that this form template is not used for any other purpose or industry.
-</thinking>
-
 # Graduation Apparel Order Form Template - Help Guide
 ## Purpose
 This form is used to collect information from students or administrators for ordering graduation apparel for the school. The form is designed to be filled out by students or school staff to order graduation attire in an efficient and organized manner.

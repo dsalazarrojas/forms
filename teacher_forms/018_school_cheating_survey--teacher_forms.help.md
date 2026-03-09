@@ -1,7 +1,3 @@
-<thinking> This form is designed to collect information from teachers on cheating in schools. It is essential to understand that completing this form should only be done by authorized personnel and not by students. Additionally, please do not fill this form if you have already done so in the past to avoid duplication of effort.
-
-</thinking>
-
 # School Cheating Survey - Help Guide
 
 ## Purpose

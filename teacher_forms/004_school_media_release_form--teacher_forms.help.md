@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # school_media_release_form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>Before we begin, I'd like to mention that this form, "Back To School Student Survey," is designed to gather information about students' thoughts, feelings, and experiences at school. This form is intended to be a useful tool for teachers to get to know their students better, identify potential issues or concerns, and tailor their teaching methods to best suit the needs of their students. Please note that the fields in this form are carefully crafted to be clear and concise, and each field has a specific purpose. By filling out this form, you are providing valuable insights that can help create a more supportive and engaging learning environment.</thinking>
-
 # Back To School Student Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your thoughts, feelings, and experiences at school. It's a helpful tool for teachers to get to know you better and identify areas where they can provide support.

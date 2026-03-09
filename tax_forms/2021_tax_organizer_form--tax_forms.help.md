@@ -1,13 +1,3 @@
-<thinking>
-
-This guide is intended to help users understand the purpose of the 2021 Tax Organizer Form and how to complete it. 
-
-The form is designed to collect information from taxpayers for tax preparation purposes. It gathers data on taxpayer identification, income, and other relevant details. 
-
-Please note that this guide is not a substitute for professional tax advice. Taxpayers should consult a qualified tax professional for specific guidance on their individual tax situation.
-
-</thinking>
-
 # 2021 Tax Organizer Form - Help Guide
 ## Purpose
 The 2021 Tax Organizer Form is designed to collect necessary information for tax preparation. Please fill out this form to gather and submit your tax data accurately.

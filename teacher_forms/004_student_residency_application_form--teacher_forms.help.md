@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to collect information from students who are applying to be a resident in a particular program or institution. The goal is to gather essential details about the student to evaluate their eligibility and suitability for residency. It is assumed that the student has been pre-screened to ensure they meet the basic criteria for residency. This form will not ask for any sensitive or personal details that could be considered intrusive or unnecessary. The goal is to provide a comprehensive overview of the student's qualifications and circumstances. The form will be reviewed and evaluated based on the information provided, and the outcome will be communicated to the student accordingly. It is essential to fill in all required fields accurately and truthfully to ensure a smooth evaluation process. 
-
-</thinking>
-
 # Student Residency Application Form - Help Guide
 
 ## Purpose

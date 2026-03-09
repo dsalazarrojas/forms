@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to assess a teacher's digital teaching practices, collecting information on their school, grade level, subject area, educational technology used, challenges faced, notes, email, phone number, and date and time of assessment. The form aims to gather data that can be used to improve teacher development and support. It is recommended that teachers complete this form at the beginning of each academic term to track their progress and receive targeted guidance.
-
-</thinking>
-
 # Digital Teaching Practices Assessment - Help Guide
 ## Purpose
 This form is designed to collect information from teachers on their digital teaching practices. Please take a few minutes to complete the form accurately, and don't hesitate to ask if you have any questions.

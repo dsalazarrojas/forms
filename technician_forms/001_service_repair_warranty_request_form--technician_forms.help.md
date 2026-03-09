@@ -1,6 +1,3 @@
-<thinking>
-The form is used for requesting service repair, maintenance, or technical support. When filling out this form, please ensure that you're only submitting one request per form. Duplicate requests may lead to confusion and delays in processing your issue. Please provide as much detail as possible in each field to ensure efficient resolution of your service request. Before proceeding, take a moment to review each field carefully to ensure you're providing all the necessary information.</thinking>
-
 # Service Repair Warranty Request Form - Help Guide
 ## Purpose
 This form is used for requesting service repair, maintenance, or technical support from our team.

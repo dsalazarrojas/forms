@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect information for an award nomination from an organization. The purpose of the form is to gather details about the nomination, including the recipient, submission date and time, and contact information for the submitter. The form consists of several fields that need to be completed to provide a comprehensive nomination. 
-
-Before starting the nomination process, make sure that the nomination is not duplicated or redundant, as this will affect the awarding process.
-
-To complete this form, follow the instructions carefully, and ensure that all required fields are filled in accurately and completely. 
-
-Note that the form is divided into two main sections: planning and submission.
-
-The "award planning" section (pages 1-2) deals with the main award details, including the recipient and the submission date and time.
-
-The "submission" section (pages 3-25) deals with the submitter's information, including contact details, job title, and department.
-
-Please make sure that all fields in the "submission" section are accurate and complete, as this is the information that will be used for communication and contact.
-
-</thinking>
-
 # organization_awards_nomination_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for an award nomination from an organization, including the recipient, submission date and time, and contact information for the submitter.

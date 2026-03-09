@@ -1,8 +1,3 @@
-<thinking>
-The Fiber Installation Skills Assessment form is designed to evaluate the skills and experience of technicians who install fiber optic cables and systems. This form is used to assess their ability to safely and effectively install fiber optic cables and systems.
-The form will only be used to collect relevant experience and skills data for technicians who have previously submitted experience and skills assessments or have been identified as requiring this form.
-</thinking>
-
 # Fiber Installation Skills Assessment - Help Guide
 ## Purpose
 The Fiber Installation Skills Assessment form is designed to evaluate the skills and experience of technicians who install fiber optic cables and systems. This form is used to assess their ability to safely and effectively install fiber optic cables and systems.

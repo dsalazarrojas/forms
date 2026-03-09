@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to provide a structured and comprehensive evaluation of a teacher's performance. The purpose of this form is to collect feedback and suggestions from students, parents, or peers on a teacher's strengths and areas for improvement. This form will help to identify specific evaluation criteria and gather feedback on a teacher's performance, suggestions for improvement, and overall satisfaction rating.
-</thinking>
-
 # Teacher Evaluation Checklist Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions from students, parents, or peers on a teacher's performance and areas for improvement.

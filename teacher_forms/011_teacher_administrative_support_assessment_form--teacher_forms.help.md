@@ -1,14 +1,3 @@
-<thinking>
-The form purpose is likely to provide an assessment of the administrative support given to teachers. This form might be used by administrators or school staff to evaluate the quality and effectiveness of support provided to teachers, helping to identify areas of improvement and optimize support services. 
-This form may help ensure that the support is aligned with the school's goals and expectations, and that any issues or concerns raised by teachers are addressed in a timely and effective manner. It may also assist in tracking progress, identifying trends, and making informed decisions about resources allocation.
-This assessment form might also help to:
-- Identify areas of improvement
-- Evaluate the effectiveness of support services
-- Monitor progress and identify trends
-- Make informed decisions about resources allocation
-- Enhance teacher satisfaction and engagement 
-</thinking>
-
 # Teacher Administrative Support Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to assess the administrative support provided to teachers. It helps administrators and school staff evaluate the quality and effectiveness of support services, identify areas of improvement, and make informed decisions about resource allocation.

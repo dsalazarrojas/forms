@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential music teachers to be listed on a music school's website. It is intended for internal use by the music school's administrators to verify and review applications. Please ensure you only submit a completed form, and do not duplicate your application.
-</thinking>
-
 # Music Teacher Application Form - Help Guide
 ## Purpose
 The Music Teacher Application Form is designed to collect necessary information from potential music teachers who wish to be listed on our music school's website. This includes personal details, teaching experience, and availability.

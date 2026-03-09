@@ -1,5 +1,3 @@
-<thinking>... This form was designed to help secondary school administrators and hiring managers assess the qualifications and background of potential candidates for teaching positions at their institutions. The form collects general information about the applicant, their contact and educational backgrounds, employment history, references, teaching qualifications, and specific skills and certifications. It's intended for internal use within the school's HR or admissions departments... </thinking>
-
 # Secondary School Teaching Job Application Form - Help Guide
 ## Purpose
 The Secondary School Teaching Job Application Form is a document used to collect information from potential candidates for teaching positions at secondary schools. This form will be used to assess the qualifications and background of applicants.

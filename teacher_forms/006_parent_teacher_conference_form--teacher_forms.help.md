@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture information for parent-teacher conferences. It's intended for use by teachers to gather information from parents or guardians about student progress, requests, and other relevant details. The form is likely used in educational settings to facilitate effective communication between teachers and parents.
-
-</thinking>
-
 # parent_teacher_conference_form - Help Guide
 ## Purpose
 This form is used to record and document information for parent-teacher conferences, ensuring that both parents and teachers are on the same page about student progress and needs.

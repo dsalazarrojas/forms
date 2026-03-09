@@ -1,17 +1,3 @@
-<thinking>
-We will create a comprehensive user-facing help guide for the "Academy Application Form" to ensure users understand its purpose, how to complete it, and what each field means.
-
-**Form Purpose:**
-The "Academy Application Form" is a crucial document that helps us gather essential information from students and their parents or guardians to process their application to our academy. This form collects details about the student's personal and academic background, interests, and medical requirements. By filling out this form, we can better understand each student's needs and tailor our support to ensure a smooth transition to our academy.
-
-**Form Relevance:**
-Please note that this form is specifically designed for students applying to our academy. If you are not a student applying to our academy, please do not fill out this form.
-
-**Duplicate Application:**
-If you have previously submitted an application to our academy, please do not fill out this form again. You will need to submit an updated application if you have any new or changed information.
-
-</thinking>
-
 # Academy Application Form - Help Guide
 ## Purpose
 The "Academy Application Form" is a document that helps us understand a student's needs and gather essential information for processing their application to our academy.

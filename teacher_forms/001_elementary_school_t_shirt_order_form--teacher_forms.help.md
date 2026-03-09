@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to allow teachers and students at elementary schools to order T-shirts for school events or activities. This form is designed to collect information about the teacher's and student's preferences, including their name, school location, order date, and other relevant details. The form also includes fields for payment methods and other administrative information.
-
-This form will be used to process orders for T-shirts, and the information collected will be used to fulfill the orders and track payments.
-
-Before filling out this form, please ensure that you have reviewed the provided options carefully and selected the correct values for each field.
-
-</thinking>
-
 # Elementary School T Shirt Order Form - Help Guide
 ## Purpose
 The Elementary School T Shirt Order Form is designed to collect information from teachers and students at elementary schools to process T-shirt orders.

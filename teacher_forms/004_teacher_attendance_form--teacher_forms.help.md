@@ -1,8 +1,3 @@
-<thinking>
-This form is for tracking the attendance of teachers during workshops, seminars, and conferences. It aims to gather information about teacher participation, including their attendance status, sync app usage, email and phone numbers, and any additional comments or notes. This form will help administrators keep track of teacher attendance and performance. Please ensure you complete this form accurately and thoroughly to provide valuable information for your colleagues. This form has 18 fields, which should only take a few minutes to complete. If any of the fields are unclear, please ask your supervisor or refer to the field labels for guidance.
-
-</thinking>
-
 # Teacher Attendance Form - Help Guide
 
 ## Purpose

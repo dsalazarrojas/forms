@@ -1,23 +1,3 @@
-<thinking>Before we dive into the help guide, let's break down the form's purpose and fields. This form is designed to collect nominations for a "Teacher Of The Year" award. The form has several fields that are intended to capture specific information from both the student and school administrator perspectives. The main objective is to provide a structured way to gather input from students and school administrators for this recognition.
-
-We can assume that this form will be used for internal purposes within a school or educational institution.
-
-Let's consider each field and provide a clear explanation for its purpose:
-
-*   **Nomination Form**: A text field where the student can type in their message or reason for nominating the teacher.
-*   **Nomination Form - Teacher**: Another text field for the student to type in their thoughts on why this teacher is worthy of the award.
-*   **Teacher Name**: A field for the student to enter the teacher's name.
-*   **School Name**: A field for the student to enter the school name where the teacher works.
-*   **Student Name**: A field for the student to enter their own name.
-*   **Reason Nominating Teacher**: A text field for the student to provide more details on why they're nominating the teacher.
-*   **Teacher ID**: A field for the student to enter the teacher's ID number.
-*   **Teacher Contact**: A field for the student to enter the teacher's contact information.
-*   **Nomination Date**: A date field for the student to record the date of the nomination.
-*   **Student Signature**: A field for the student to sign their name, indicating they are submitting the nomination.
-*   **Teacher Signature**: A field for the teacher to sign their name, indicating their agreement with the nomination.
-*   **School Admin Signature**: A field for the school administrator to sign their name, indicating their verification of the nomination.
-*   **School Admin Name**: A field for the school administrator to enter their name.</thinking>
-
 Here is the help guide for the "Teacher Of The Year Nomination Form":
 
 # Teacher Of The Year Nomination Form - Help Guide

@@ -1,26 +1,3 @@
-<thinking>... internal reasoning block to check for relevance and non-duplication ...
-
-Form Purpose: The PM1 Teacher Evaluation form is designed to collect feedback from students or administrators about a teacher's performance. This form is typically used by students to provide their opinions on a teacher's overall quality of service, lesson planning, teaching style, student engagement, student progress, and other key aspects of their teaching.
-
-Form Data: The form collects the following information:
-
-*   Teacher Name
-*   School Year
-*   Subject Area
-*   Evaluation Date
-*   Overall Quality of Service
-*   Lesson Planning
-*   Teaching Style
-*   Student Engagement
-*   Student Progress
-*   Classroom Environment
-*   Teacher Availability (optional note field)
-*   Teacher Comments (optional note field)
-
-Form Requirements: All fields are optional except for Teacher Name.
-
-</thinking>
-
 # PM1 Teacher Evaluation - Help Guide
 ## Purpose
 The PM1 Teacher Evaluation form is a tool for students or administrators to provide feedback on a teacher's performance.

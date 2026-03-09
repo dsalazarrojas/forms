@@ -1,8 +1,3 @@
-<thinking>
-This form is used for capturing information related to job work orders, allowing technicians to input details about a job, upload files, and specify payment methods. The form may be used in various contexts, such as for customer service requests, repair or maintenance tasks, or project planning. To ensure the form is completed correctly and accurately, please review the fields below and follow the guidelines provided.
-
-</thinking>
-
 # Job Work Order Form - Help Guide
 
 ## Purpose

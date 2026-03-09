@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to request approval for field trips from school principals. The form is designed to collect necessary information from teachers and sponsors, and allow school principals to easily approve or deny the trip requests. The purpose of this form is to ensure that all necessary information is collected and that the approval process is transparent and efficient.
-
-Before filling out this form, please ensure that you are a teacher or authorized representative of the school. Duplicate requests will be automatically flagged and removed by the system.
-
-</thinking>
-
 # Field Trip Approval Request Form - Help Guide
 ## Purpose
 This form is used to request approval for field trips from school principals.

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect ideas from teachers for online courses. It's essential to provide clear and concise information about the submission process. Before proceeding, please ensure that you haven't submitted a similar idea recently, as this might affect the validity and uniqueness of your submission.</thinking>
-
 # Online Course Idea Submission Form - Help Guide
 ## Purpose
 The "Online Course Idea Submission Form" is designed to collect and document ideas from teachers for online courses. This form will help the course development team understand the course concept, identify potential areas of interest, and evaluate the feasibility of the course.

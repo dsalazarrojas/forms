@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for teachers to collect information from students and parents regarding student enrollment. The form will collect personal and contact information, as well as the student's goals. The purpose of this form is to ensure that teachers have all the necessary details to provide a smooth and effective learning experience for the student.
-
-This form has been generated based on the provided YAML fields and has no affiliation or derivation from any form creation platform.
-
-This guide will walk through each field to ensure that the teacher understands the purpose and requirements of each section.
-</thinking>
-
 # Enrollment Agreement Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from students and parents to facilitate a smooth and effective learning experience for the student.

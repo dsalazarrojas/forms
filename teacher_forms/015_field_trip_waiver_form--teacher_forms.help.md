@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to capture information for field trips, allowing teachers to input data on trip details, participants' information, and other relevant details. The purpose of this form is to provide a standardized way of collecting and storing field trip information for record-keeping and reporting purposes. It's essential that you only fill out this form if you're an authorized field trip leader or have been assigned a form ID. If you're unsure, please review your internal procedures to ensure you're using the correct form for your specific field trip.</thinking>
-
 # Field Trip Waiver Form - Help Guide
 ## Purpose
 The Field Trip Waiver Form is used to capture and store information for field trips, ensuring that all necessary details are recorded and reported accurately.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about students who are registering for a school program or service. The purpose of this form is to ensure that the school has all the necessary details about the student before proceeding with the registration process. This form will be used to capture the student's basic information, academic background, medical details, and contact information. The school will use this data to verify the student's identity, ensure compliance with school policies, and facilitate communication with the student's guardians.
-
-Before proceeding, ensure that you have all the required documents and information at hand. The form will ask for information that is already known to you, so take your time to fill it out accurately.
-
-</thinking>
-
 # School Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from students who are registering for a school program or service.

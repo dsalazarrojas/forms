@@ -1,7 +1,3 @@
-<thinking>
-I will create a user-facing help guide for the "Equipment Inventory Form" based on the provided YAML fields. This form is used to record and maintain an up-to-date inventory of equipment. It is essential to ensure that each item is accurately and thoroughly documented to prevent loss or damage.
-</thinking>
-
 # Equipment Inventory Form - Help Guide
 
 ## Purpose

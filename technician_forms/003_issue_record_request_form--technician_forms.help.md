@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record issues that need to be addressed by the technical support team. Before filling out this form, please make sure that the issue you're submitting is not already being worked on. If you're unsure, please check with the support team to confirm whether the issue is a duplicate. The form should only be submitted once the issue has been thoroughly described and the details are accurate.
-</thinking>
-
 # issue_record_request_form - Help Guide
 ## Purpose
 This form is used to record and document issues that require technical support. It helps the support team to quickly gather necessary information and provide timely assistance.

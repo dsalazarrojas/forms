@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track attendance for virtual classes. It's intended for teachers to record student attendance data, including student names, attendance status, and any remarks or reasons for absence. This form should not be used for other purposes, such as creating new student profiles or editing existing attendance records.
-</thinking>
-
 # Virtual Class Attendance Form - Help Guide
 
 ## Purpose

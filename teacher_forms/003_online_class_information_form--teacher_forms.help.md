@@ -1,5 +1,3 @@
-<thinking>Online Class Information Form is used by teachers to provide students with information about upcoming online classes. The form gathers details such as course selection, start and end dates, course duration, instructor, location, and additional course details. It's essential to fill out this form accurately to ensure students receive the right information for their learning needs. Before filling out this form, please note that it's not necessary to have all fields filled. If you're unsure about any field, refer to this help guide for clarity. This form has multiple pages, but don't worry, each page is explained below.</thinking>
-
 # Online Class Information Form - Help Guide
 
 ## Purpose

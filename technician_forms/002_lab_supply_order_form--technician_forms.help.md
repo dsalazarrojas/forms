@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for lab technicians to order lab supplies. The purpose of this form is to gather contact information, order details, payment information, and notes about the order. To ensure accuracy and efficiency, please make sure to review your order carefully before submitting it. This form is designed to be used for ordering lab supplies from the lab's inventory, and any duplicate or incorrect submissions may cause delays or miscommunication. Please ensure that you are using this form for its intended purpose and do not submit the same order multiple times.
-</thinking>
-
 # Lab Supply Order Form - Help Guide
 ## Purpose
 The Lab Supply Order Form is used to gather information for ordering lab supplies from the lab's inventory.

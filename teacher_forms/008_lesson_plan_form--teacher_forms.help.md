@@ -1,7 +1,3 @@
-<thinking>
-This form is used for creating and managing lesson plans for educational courses. It provides a structured way for teachers to outline their teaching goals, objectives, and strategies for each lesson. The form collects relevant information such as the course title, lesson topic, and key concepts to be covered. It also includes options for selecting specific teaching methods, resources, and time slots. The form is essential for ensuring consistency and organization in lesson planning, making it easier for teachers to stay on track and deliver effective instruction.
-</thinking>
-
 # Lesson Plan Form - Help Guide
 ## Purpose
 This form is designed to help teachers create and manage lesson plans for educational courses. It guides them in structuring their teaching goals, objectives, and strategies, ensuring consistency and organization.

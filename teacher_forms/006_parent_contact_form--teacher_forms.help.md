@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parent Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information from parents, allowing schools to communicate with them effectively.

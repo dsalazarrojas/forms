@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind the form is that it's a tool used by teachers to provide feedback and suggestions on favorite things that their students enjoy. This feedback is used to help tailor educational content and experiences to better meet the students' interests. The form should not be duplicated for the same user, as it is intended to collect unique information for each teacher. This is to prevent unnecessary repetition of information and ensure that each teacher has a unique set of data collected. The form will likely be used by teachers to provide input on favorite colors and favorite foods, and to indicate whether students enjoy or dislike certain things. The purpose of the form is to collect data that will be used to inform future educational decisions. This form is intended to be completed by teachers, so the language and tone should be clear and concise for their needs.
-</thinking>
-
 # Teacher Favorite Things Form - Help Guide
 ## Purpose
 The Teacher Favorite Things Form is used to collect feedback and suggestions from teachers on favorite things that their students enjoy, which will help inform future educational decisions.

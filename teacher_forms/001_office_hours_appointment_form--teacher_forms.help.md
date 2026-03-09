@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form is completed correctly, please review the form's purpose and fields. This form is intended to help teachers schedule office hours appointments with students. It's essential to fill it out accurately to avoid any potential issues. Please note that this form is not affiliated with or endorsed by any form platform and is an original adaptation. Reviewing the form carefully before submitting it will help ensure that it is filled out correctly and in accordance with the intended use.
-</thinking>
-
 # office_hours_appointment_form - Help Guide
 ## Purpose
 This form is designed to help teachers schedule office hours appointments with students. It is intended to collect necessary information to facilitate a smooth and efficient appointment process.

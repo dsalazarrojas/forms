@@ -1,8 +1,3 @@
-<thinking>
-This form is for recording and tracking Pledge Of Allegiance requests from teachers. It captures information about the school ID, teacher name, date and time of the pledge, location, contact person and email, pledge request status, any additional notes, contact phone number, assigned tool, and output file details. This form is typically used for internal administrative purposes, such as monitoring and managing pledge requests. 
-Please ensure that you are filling out this form for a legitimate reason and not for testing or experimentation. Also, be aware that some fields may not be required, but providing accurate and relevant information will help ensure that your request is processed correctly. 
-</thinking>
-
 # Pledge Of Allegiance Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about Pledge Of Allegiance requests from teachers in a structured and organized manner. It helps to improve communication and streamline the process of tracking and managing pledge requests.

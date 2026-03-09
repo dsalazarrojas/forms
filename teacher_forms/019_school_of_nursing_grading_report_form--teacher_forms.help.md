@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to be used by teachers to evaluate and grade nursing students on their academic progress. It's a report that allows teachers to provide feedback on individual assignments, assess overall performance, and document grading scales for each student. The form is likely to be used within an educational institution, possibly as a part of a larger grading system. Before starting this form, ensure you are familiar with the grading scales and assignment details to provide accurate and relevant feedback. If you have any questions or concerns, please check with your instructor or supervisor to clarify the form's purpose and usage in your specific context.
-</thinking>
-
 # School Of Nursing Grading Report Form - Help Guide
 ## Purpose
 The School Of Nursing Grading Report Form is designed to help teachers evaluate and grade nursing students' academic progress. This form provides a structured framework for teachers to provide feedback on individual assignments and overall performance, helping to identify areas of strength and areas that need improvement.

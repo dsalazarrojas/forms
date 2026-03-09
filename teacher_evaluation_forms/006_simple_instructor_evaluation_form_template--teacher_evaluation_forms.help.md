@@ -1,7 +1,3 @@
-<thinking>
-Before creating this help guide, let's confirm the context and purpose of this form. The form seems to be designed for evaluating an instructor's performance after a course. It contains multiple fields related to various aspects of instruction, such as the instructor's name, course details, and ratings/evaluations on factors like clarity, helpfulness, and punctuality. The form also includes multiple questions regarding the instructor's willfulness, joyfulness, and punctuality. This information will likely be used to gather feedback from students, helping instructors improve their teaching methods and student satisfaction. 
-</thinking>
-
 # simple_instructor_evaluation_form_template - Help Guide
 
 ## Purpose

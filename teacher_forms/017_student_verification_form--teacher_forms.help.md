@@ -1,12 +1,3 @@
-<thinking>
-To create a help guide for the Student Verification Form, let's break down its purpose and requirements. This form seems to be for verifying student information, likely for administrative or academic purposes. The form has 25 fields, which can be divided into several categories:
-- Student identification and verification
-- Form metadata and submission details
-- Additional details and descriptions
-
-It's possible that the form is used to track student progress, verify identity, or gather information for reporting purposes. The "Yes" and "No" options for select_one fields might indicate binary answers for specific questions. To avoid non-duplication, we should focus on providing a clear and concise guide for each field.
-</thinking>
-
 # Student Verification Form - Help Guide
 ## Purpose
 The Student Verification Form is a tool used to verify student information and track their progress. It's designed to gather necessary data for reporting and administrative purposes.

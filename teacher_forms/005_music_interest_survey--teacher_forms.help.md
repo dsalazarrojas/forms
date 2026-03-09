@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about a user's interest in music, specifically their preferences and experiences with various aspects of music, such as genres, frequency of listening, musical instruments, and music-related activities. The form is intended to be a self-reporting instrument, allowing users to provide their personal opinions and experiences without being probed or judged.
-
-To avoid duplication, this survey should only be completed by users who have not previously completed a music interest survey.
-
-</thinking>
-
 # Music Interest Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your interest in music, including your favorite genres, listening habits, musical experiences, and preferences for different aspects of music.

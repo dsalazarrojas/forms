@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for evaluating a teacher's performance, likely for a school or academic institution. It appears to be a general evaluation form that collects information about the teacher's overall performance, specific criteria, and other relevant details. The form is quite comprehensive, covering various aspects of the teacher's job, including their general information, evaluation criteria, teaching information, evaluation scale, evaluation comments, and more. It seems to be a one-time evaluation, as there are separate fields for the date of the evaluation and the submission date. I'll make sure to cover all these aspects in the help guide below.
-</thinking>
-
 # teacher_evaluation_form - Help Guide
 ## Purpose
 This form is designed for evaluating a teacher's performance. It collects information on their general information, teaching criteria, and other relevant details to assess their overall performance and provide feedback for improvement.

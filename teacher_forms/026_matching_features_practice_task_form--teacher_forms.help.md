@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "Matching Features Practice Task Form" is designed to help users practice matching features between two teams. The form is intended to be completed by users who are part of the "teacher" role, and its purpose is to facilitate the matching process. This form is not meant to be completed by users who are not part of the "teacher" role.
 
 Please ensure you have access to the correct role before attempting to complete this form.

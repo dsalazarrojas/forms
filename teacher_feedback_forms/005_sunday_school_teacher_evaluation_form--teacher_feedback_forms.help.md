@@ -1,7 +1,3 @@
-<thinking>
-The provided YAML defines a form used for evaluating Sunday school teachers. It appears to be a comprehensive form used to assess various aspects of a teacher's performance, including their lesson plan, teaching effectiveness, and assigned tasks. The form likely helps administrators or supervisors to monitor and improve the quality of teaching at the Sunday school.
-</thinking>
-
 # Sunday School Teacher Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance of Sunday school teachers. It assesses various aspects of their teaching, including their lesson plan, teaching effectiveness, and assigned tasks. The goal is to help administrators or supervisors monitor and improve the quality of teaching at the Sunday school.

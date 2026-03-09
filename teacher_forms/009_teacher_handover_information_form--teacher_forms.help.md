@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # teacher_handover_information_form - Help Guide
 ## Purpose
 The "teacher_handover_information_form" is used to collect information from teachers during handovers of classes, resources, or other items. This form helps to ensure that all relevant information is captured and documented, making the handover process more efficient and accurate.

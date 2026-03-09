@@ -1,11 +1,3 @@
-<thinking>
-
-The "visual_arts_evaluation_form" form is designed to gather information and feedback from teachers and instructors on the quality and effectiveness of artworks submitted by students. This form ensures that the artwork evaluation process is systematic and objective, helping to improve the learning experience and provide actionable feedback to artists. 
-
-To avoid duplication, this form is not intended for students themselves to fill, and should only be used by authorized personnel, typically art educators or instructors. This guide is intended to help users fill out the form accurately and efficiently.
-
-</thinking>
-
 # visual_arts_evaluation_form - Help Guide
 ## Purpose
 The form is used to evaluate and provide feedback on student-created artworks, ensuring quality and effectiveness in a structured and objective manner.

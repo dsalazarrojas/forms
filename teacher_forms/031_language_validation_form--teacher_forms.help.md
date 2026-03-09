@@ -1,11 +1,3 @@
-<thinking>
-This form is used to validate language translations for projects, allowing users to provide details about the translation project, project leader, translators involved, target language, translation quality, source and target files, and any comments or feedback. The form is designed to be completed by language validation team members who will review the submissions and provide feedback. The form should only be completed by authorized personnel.
-
-The purpose of this form is to collect relevant information about language translations, which will be used to ensure consistency and accuracy in translation projects. It's essential to complete this form carefully and accurately, as the information will be used to inform future language validation processes.
-
-To ensure accuracy and consistency, please make sure to review this guide carefully before completing the form.
-</thinking>
-
 # Language Validation Form - Help Guide
 ## Purpose
 The Language Validation Form is used to collect information about language translations, including project details, project leaders, translators, target language, translation quality, source and target files, and comments or feedback. This form is completed by language validation team members for review and feedback purposes.

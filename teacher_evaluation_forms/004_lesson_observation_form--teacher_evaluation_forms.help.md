@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and observations from an inspector on a teacher's performance during a lesson. The form is meant to be used by inspectors or evaluators to assess a teacher's ability to deliver an effective lesson, manage the classroom, and engage students. The form is not intended to be a comprehensive evaluation tool, but rather a quick and concise way to gather feedback that can be used for future professional development and growth.
-
-The form consists of 11 questions that cover various aspects of a teacher's performance, including their ability to communicate effectively, provide clear instructions, manage the classroom, and engage students. The form is designed to be filled out by an inspector, who will provide their observations and feedback on the teacher's performance.
-
-Before starting, make sure to have a clear understanding of the teacher's performance during the lesson and the classroom environment. It's also a good idea to review the form carefully to ensure that you are providing accurate and fair feedback.
-
-</thinking>
-
 # Lesson Observation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and observations from an inspector on a teacher's performance during a lesson.

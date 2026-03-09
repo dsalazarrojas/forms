@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Preschool Graduation Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a preschool graduation ceremony, including the category and type of event, a brief description, experience level of the person completing the form, the date of the graduation, and any additional comments or details. The form is not mandatory, but rather a tool to assist with the planning and organization of the preschool graduation.

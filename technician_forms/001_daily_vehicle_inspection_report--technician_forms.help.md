@@ -1,8 +1,3 @@
-<thinking>
-This form is used to document the daily vehicle inspection process for technicians. It is intended to capture the current state of a vehicle's condition, including mileage, engine, brake, and tire conditions. This form is typically completed by technicians who need to record their observations and notes after inspecting a vehicle. The purpose of this form is to provide a concise and organized way for technicians to report their findings, making it easier to track and compare vehicle conditions over time. This process also helps to identify any potential issues that may affect the vehicle's performance or safety.
-
-</thinking>
-
 # Daily Vehicle Inspection Report - Help Guide
 ## Purpose
 The Daily Vehicle Inspection Report is a form used to document the condition of a vehicle after inspection. It helps identify any issues that may affect the vehicle's performance or safety and provides a record of the inspection date, vehicle details, and conditions of the engine, brake, and tire systems.

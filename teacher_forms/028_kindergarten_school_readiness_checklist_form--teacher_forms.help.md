@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # kindergarten_school_readiness_checklist_form - Help Guide
 ## Purpose
 

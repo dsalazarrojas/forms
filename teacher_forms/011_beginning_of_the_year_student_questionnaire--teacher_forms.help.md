@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about a student at the beginning of the school year. The purpose of this form is to help teachers understand the student's background, learning style, and any special needs or challenges they may have. This information will be used to create a more personalized learning plan for the student. 
-
-This form is a one-time submission, and it's essential to fill it out thoroughly and accurately to ensure that the teacher gets a comprehensive understanding of the student's needs. If the student has any medical conditions, allergies, or learning disabilities, please provide that information in the "Allergies or Medical Conditions" field. 
-
-Please review each field carefully and provide as much information as possible. If you're unsure about any of the fields, please ask your child or the teacher for clarification.
-</thinking>
-
 # Beginning Of The Year Student Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a student at the beginning of the school year to help teachers create a personalized learning plan.

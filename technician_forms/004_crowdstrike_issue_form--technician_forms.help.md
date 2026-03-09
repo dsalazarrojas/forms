@@ -1,8 +1,3 @@
-<thinking>
-This form is used to document and track issues that need to be addressed by the technical team. It captures essential information about the issue, its status, and the assigned technician. Before filling out this form, please ensure that you have not already submitted a similar issue. 
-The form is used for general issues and not specific technical support requests.
-</thinking>
-
 # CrowdStrike Issue Form - Help Guide
 ## Purpose
 The CrowdStrike Issue Form is used to submit issues that require attention from the technical team. This form ensures that all relevant details about the issue are captured efficiently.

@@ -1,14 +1,3 @@
-<thinking>
-
-To provide context and ensure that this help guide is relevant and helpful, I will consider the following factors:
-- The form is for evaluating an instructor's performance, likely for student feedback.
-- The form has multiple fields to gather information on different aspects of the instructor's performance.
-- Some fields are required, while others are optional.
-- The form asks for ratings and feedback on overall satisfaction, teaching clarity, assignment relevance, class participation encouragement, feedback quality, course materials quality, accessibility, and areas for improvement.
-- The form also provides optional fields for students to provide additional comments and strengths about the instructor.
-
-</thinking>
-
 # Academic Performance Questionnaire - Help Guide
 
 ## Purpose

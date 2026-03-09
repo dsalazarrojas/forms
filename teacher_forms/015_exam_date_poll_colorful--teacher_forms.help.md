@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Exam Date Poll Colorful - Help Guide
 ## Purpose
 This form helps you determine the best date and time for an exam.

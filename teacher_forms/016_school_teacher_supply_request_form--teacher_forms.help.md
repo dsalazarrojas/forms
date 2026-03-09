@@ -1,8 +1,3 @@
-<thinking>
-To ensure the form purpose is clear and relevant, let's review the provided YAML fields. 
-The "School Teacher Supply Request Form" seems to be designed for teachers to request supplies for their classrooms or schools. The form includes fields for supply requests, additional information, teacher identification, classroom identification, submission details, and submitter details. This form is likely used for teachers to request supplies, and administrators or department staff to process and manage these requests.
-</thinking>
-
 # School Teacher Supply Request Form - Help Guide
 ## Purpose
 The School Teacher Supply Request Form is used for teachers to request supplies for their classrooms or schools. This form collects information about the supply request, teacher and classroom details, submission details, and submitter details.

@@ -1,7 +1,3 @@
-<thinking>
-The form "music_survey" is intended to gather information from users about their music preferences and interests. The form is likely used to create a comprehensive music survey for a school or educational institution to better understand student's music tastes and habits. This form is designed to collect both multiple choice and text fields, which will help the institution tailor their music programming and events to cater to the students' needs and interests.
-</thinking>
-
 # music_survey - Help Guide
 
 ## Purpose

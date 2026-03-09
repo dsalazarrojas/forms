@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be completing the Laboratory Competency Assessment form. The purpose of this form is to evaluate the competencies and skills of technicians or laboratory personnel in various areas. This form is used to assess their knowledge, skills, and experience in different areas of laboratory work, including medical laboratory work. 
-
-Before filling out this form, please ensure you have a good understanding of the questions and the areas being assessed. If you are unsure about any of the options, please consult with your supervisor or the relevant expert before proceeding. 
-
-This form is designed to be completed by individuals, and answers will be recorded on a per-person basis. 
-
-Please complete this form carefully and accurately, as it is used for competency evaluation purposes. 
-
-</thinking>
-
 # Laboratory Competency Assessment - Help Guide
 ## Purpose
 The Laboratory Competency Assessment form is designed to evaluate the competencies and skills of laboratory personnel in various areas of laboratory work, including medical laboratory work.

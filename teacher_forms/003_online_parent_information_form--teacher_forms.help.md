@@ -1,8 +1,4 @@
-> <thinking>
-This help guide is intended to provide a clear and concise explanation of the "Online Parent Information Form" to aid users in understanding its purpose and completing it accurately. This form is designed to collect important information from parents about their children's education, specifically for teachers and school administrators. The form is intended to help teachers and administrators connect with parents and foster a collaborative and supportive relationship. It is essential for parents to complete the form accurately and thoroughly, providing all the required information, to ensure that the relevant parties have a clear understanding of their child's needs and circumstances.
-</thinking>
-
-# Online Parent Information Form - Help Guide
+> # Online Parent Information Form - Help Guide
 ## Purpose
 The "Online Parent Information Form" is a crucial tool for teachers and school administrators to collect vital information from parents about their children. This form aims to establish a connection between parents, teachers, and school administrators, ensuring that everyone involved is informed and supportive of the child's educational journey.
 

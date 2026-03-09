@@ -1,5 +1,3 @@
-<thinking> This form is designed to evaluate the classroom management practices of a teacher, providing an opportunity for students to express their opinions on the teacher's effectiveness in creating a safe, respectful, and organized learning environment. The form is meant to be completed by students to provide feedback on the teacher's ability to manage classroom behavior, provide constructive feedback, and foster a positive and encouraging atmosphere. By filling out this form, students can help their teacher identify areas of improvement and develop strategies to better support their learning and well-being. </thinking>
-
 # Classroom Management Evaluation Form - Help Guide
 ## Purpose
 The Classroom Management Evaluation Form is designed to help teachers understand how their classroom management practices are perceived by their students. This form provides an opportunity for students to provide feedback on the teacher's ability to create a safe, respectful, and organized learning environment.

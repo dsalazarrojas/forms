@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to ensure that daycare staff understand the purpose and requirements of the Daycare Observation Form. The form is designed to gather observations and feedback from teachers on the behavior and interaction of children in their care. The observations will help inform the development of care plans and improve the overall care and well-being of the children. It is expected that this guide will be reviewed by daycare staff familiar with the daycare operations and policies.
-</thinking>
-
 # Daycare Observation Form - Help Guide
 ## Purpose
 The Daycare Observation Form is designed to gather observations and feedback from teachers on the behavior and interaction of children in their care. This information will help inform the development of care plans and improve the overall care and well-being of the children.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for students to apply for school clubs. The school club application form is designed to collect information from students about their interests, club type, school year, student name, member status, student email, and student phone number. This form is not intended for internal use, but rather for external users (students). Before starting, please ensure that you have not filled out this form previously and that it's not a duplicate application. If you have already submitted a school club application, please do not reapply. If you need to make changes, contact the club administration.
-</thinking>
-
 # School Club Application Form - Help Guide
 ## Purpose
 The School Club Application Form is designed for students to apply for school clubs. It collects information from students about their interests, club type, school year, student name, member status, student email, and student phone number.

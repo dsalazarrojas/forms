@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is for scholarship recommendation. A teacher recommending a student should provide their personal details and reasons for recommending the student. This information will be used to evaluate the student's qualifications for a scholarship. The form should only be completed by authorized individuals and not duplicated or reused for other purposes.</thinking>
-
 # Scholarship Recommendation Form - Help Guide
 ## Purpose
 This form is for teachers to provide a recommendation for a student applying for a scholarship. Please provide as much information as possible about the student to help us evaluate their qualifications.

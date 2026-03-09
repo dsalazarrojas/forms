@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for students to register for and provide details about their recital performances. The form is not designed for teachers, but rather for students to sign up and provide information about their events.
-
-This form is meant to be completed by students. To prevent duplication or incomplete submissions, we recommend checking with event organizers or teachers before submitting this form.
-
-</thinking>
-
 # student_recital_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to allow students to register for and provide details about their recital performances.

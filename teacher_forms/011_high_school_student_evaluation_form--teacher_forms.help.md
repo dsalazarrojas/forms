@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to evaluate the experiences, skills, and challenges faced by high school students. The goal is to gather information that can help teachers and educational institutions better understand the students' progress, strengths, and areas of improvement. The form is likely used by teachers, educators, or educational administrators to gather data on student performance, school attendance, extra-curricular activities, and other relevant factors. It appears to be used for internal evaluation purposes within the school or educational institution.
-
-</thinking>
-
 # High School Student Evaluation Form - Help Guide
 ## Purpose
 

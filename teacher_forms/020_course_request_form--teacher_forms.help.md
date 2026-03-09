@@ -1,12 +1,3 @@
-<thinking>
-# Form purpose: This form is used to request a course, allowing users to provide information about the course they wish to take. This includes details such as student information, contact numbers, email addresses, and other relevant information. The purpose of this form is to streamline the course request process, ensuring that all necessary information is collected and communicated to the relevant parties in a clear and efficient manner.
-
-# Form relevance: The form is designed to be used by students, educators, or administrators who wish to request a course for personal or professional development. The form is part of a larger system for managing course requests, which helps to track and process these requests in a centralized manner.
-
-# Non-duplication: To avoid duplication, the form should only be completed once by the person requesting the course, and not duplicated for the same purpose.
-
-</thinking>
-
 # Course Request Form - Help Guide
 ## Purpose
 The Course Request Form is a tool used to gather information from students, educators, or administrators who wish to request a course for personal or professional development. The form helps to streamline the course request process, ensuring that all necessary information is collected and communicated to the relevant parties in a clear and efficient manner.

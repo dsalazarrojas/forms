@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture the verification status of a student's attendance in a class. It is used to record and track student attendance, as well as any notes or comments from the teacher. This form is a vital tool for maintaining accurate attendance records and providing teachers with a clear and concise way to verify student attendance. It is recommended that this form should only be used for teachers to verify student attendance and not for other purposes.
-</thinking>
-
 # Teacher Class Verification Form - Help Guide
 ## Purpose
 The Teacher Class Verification Form is used to record and track student attendance, including student name, ID, attendance date and time, student status, and any additional notes or comments from the teacher.

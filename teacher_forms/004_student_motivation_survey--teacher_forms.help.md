@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about students' motivations, strengths, weaknesses, needs, and preferences. The goal is to help teachers understand students' individual motivations and provide targeted support to enhance their learning experience. This form will help teachers understand what motivates students, what challenges they face, and what kind of support they need. The information gathered through this form will help teachers tailor their teaching approach to cater to the needs of their students.
-</thinking>
-
 # Student Motivation Survey - Help Guide
 ## Purpose
 The Student Motivation Survey is designed to gather information about students' motivations, strengths, weaknesses, needs, and preferences.

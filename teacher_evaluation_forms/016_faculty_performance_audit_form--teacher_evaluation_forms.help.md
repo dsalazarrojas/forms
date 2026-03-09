@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data for a Faculty Performance Audit, which is used to review and evaluate the performance of faculty members. This form should only be used to collect data for this purpose and not for any other reason. Please ensure that all information provided is accurate and relevant to the performance audit process.
-</thinking>
-
 # Faculty Performance Audit Form - Help Guide
 
 ## Purpose

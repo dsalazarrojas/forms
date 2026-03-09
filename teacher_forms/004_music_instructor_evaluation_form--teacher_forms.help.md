@@ -1,9 +1,3 @@
-<thinking>...
-
-The purpose of this form is to evaluate the effectiveness and quality of instruction provided by music instructors. It will help administrators or department heads collect feedback and ratings from students to inform decisions on teacher performance and development opportunities. The form should only be completed by students, and it's essential to ensure that each student provides a unique set of ratings and comments to avoid duplication of work.
-
-</thinking>
-
 # Music Instructor Evaluation Form - Help Guide
 ## Purpose
 The Music Instructor Evaluation Form is designed to gather feedback from students on the effectiveness and quality of instruction provided by music instructors. This feedback is crucial in helping administrators and department heads make informed decisions on teacher performance and development.

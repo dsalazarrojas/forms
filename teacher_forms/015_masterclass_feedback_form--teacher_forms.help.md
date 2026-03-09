@@ -1,9 +1,3 @@
-<thinking>
-
-The Masterclass Feedback Form is designed to collect feedback from students about their Masterclass experience. The form is intended to be completed by students after attending a Masterclass, and it helps instructors and program managers understand the effectiveness of the Masterclass and identify areas for improvement. This form should only be filled out by students who have attended a Masterclass.
-
-</thinking>
-
 # Masterclass Feedback Form - Help Guide
 ## Purpose
 The Masterclass Feedback Form is a tool for students to share their thoughts, opinions, and experiences about their Masterclass. It helps us understand what you liked, what you didn't like, and what we can do better in future Masterclasses.

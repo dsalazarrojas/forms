@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to assess a child's skills in various areas such as math, reading, science, physical, social, and emotional development. It is meant to be completed by a teacher who has observed the child's abilities and is providing an assessment of their progress. The form is typically used in a preschool setting to track a child's growth and development over time. The purpose of the form is to provide a snapshot of the child's skills at a particular point in time and to identify areas where the child may need additional support.
-
-The form is designed to be completed by a teacher who has had regular contact with the child. The teacher will select from a set of options for each skill area, indicating whether the child demonstrates the skill or not. In addition to the skills assessments, the form also allows the teacher to provide any additional comments or notes about the child's progress.
-
-The form is typically used for the following reasons:
-* To assess a child's readiness for preschool or kindergarten
-* To monitor a child's progress over time
-* To identify areas where a child may need additional support or intervention
-* To communicate with parents or other caregivers about a child's development
-
-The form is designed to be completed in a way that is easy to understand and complete, with clear and concise language.
-</thinking>
-
 # Preschool Skills Checklist Form - Help Guide
 ## Purpose
 The Preschool Skills Checklist Form is designed to assess a child's skills in various areas such as math, reading, science, physical, social, and emotional development.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used by technicians to report and track threats that have been discovered within their network or systems. 
-The purpose of this form is to provide a standardised way to gather information about threats in order to assess and manage them effectively. 
-The form should only be used for reporting and tracking purposes and any other use may duplicate or mislead efforts. 
-
-</thinking>
-
 # CrowdStrike Global Threat Report Form - Help Guide
 
 ## Purpose

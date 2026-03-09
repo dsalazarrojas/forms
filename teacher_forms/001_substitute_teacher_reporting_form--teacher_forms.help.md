@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture essential information from a substitute teacher regarding their experiences and observations during a lesson or period. The goal is to provide insights for the regular teacher and school administration to better support students and improve instruction. This form is typically completed by the substitute teacher after each lesson or period, and it's a crucial tool for maintaining accurate records and facilitating communication between teachers, substitute teachers, and school staff.
-
-</thinking>
-
 # Substitute Teacher Reporting Form - Help Guide
 ## Purpose
 The Substitute Teacher Reporting Form is a tool used to gather information from substitute teachers about their experiences and observations during a lesson or period. This form aims to capture key details that can inform the regular teacher and school administration in making decisions about student support and instructional adjustments.

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I've reviewed the provided YAML data and created a user-facing help guide for the "Teaching Survey" form. I've aimed to make it concrete, concise, and practical, explaining each field and section in a way that's easy to understand for end-users. Here's the guide:</thinking>
-
 # Teaching Survey - Help Guide
 
 ## Purpose

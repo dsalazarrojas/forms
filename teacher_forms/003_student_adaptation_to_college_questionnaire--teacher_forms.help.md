@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's clarify the form's purpose and its relevance. This form appears to be used for teachers to assess the adaptation level of students to college. It's likely used for academic or counseling purposes. The form might be used to evaluate students' readiness for college life, identify potential challenges, and suggest support strategies for students who may need extra help. To avoid duplication of work, it's essential to ensure that the form is only used by authorized personnel, such as teachers or counselors. This form should not be used to evaluate teacher performance or other non-related purposes.</thinking>
-
 # Student Adaptation To College Questionnaire - Help Guide
 ## Purpose
 The Student Adaptation To College Questionnaire is a tool used by teachers and counselors to assess a student's level of adaptation to college life. It helps to identify areas where students may need extra support and provides a basis for developing strategies to aid students in their transition to higher education.

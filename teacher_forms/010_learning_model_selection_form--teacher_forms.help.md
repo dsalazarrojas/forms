@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to guide teachers in the selection of learning models for their students. The purpose of this form is to help teachers understand the various options available for their students, considering multiple factors such as age, subject, and educational goals. This form will help ensure that teachers can select the best learning model for each student, taking into account their individual needs and preferences.
-The form consists of 15 pages, each with a text box for the teacher to input their response. The pages are designed to gather information in a structured and organized manner, making it easier for teachers to make informed decisions.
-</thinking>
-
 # Learning Model Selection Form - Help Guide
 ## Purpose
 The Learning Model Selection Form is designed to help teachers select the best learning model for their students, taking into account their individual needs and preferences.

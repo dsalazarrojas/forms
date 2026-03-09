@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect feedback and appreciation from students and colleagues of a teacher, which will help in understanding what works well and what can be improved in the teacher's practice. The form is not intended to be a comprehensive evaluation, but rather a way to gather information that can help the teacher grow professionally. To fill out the form, please ensure that the required fields are filled out accurately. Please note that the form is not meant to be a one-time evaluation, but rather an ongoing process to appreciate and improve the teacher's performance. This form is meant to be filled out by students and colleagues of the teacher.
-
-</thinking>
-
 # teacher_appreciation_form - Help Guide
 
 ## Purpose

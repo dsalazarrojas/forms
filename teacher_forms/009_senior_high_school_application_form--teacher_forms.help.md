@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for senior high school students to provide information about themselves as part of the application process to choose their senior high school. The form will be used to collect data about the student's personal details, academic achievements, extracurricular activities, and parent contact information. The form is a requirement for the application process and should be filled out completely and accurately.
-</thinking>
-
 # senior_high_school_application_form - Help Guide
 ## Purpose
 The senior high school application form is a mandatory part of the application process for senior high school. It requires students to provide personal and academic information, extracurricular activities, and parent contact details.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture essential information about a teacher's intent to return to their job or position. This form helps ensure that the return process is smooth and efficient, reducing any potential disruptions or confusion. To complete this form accurately, you should only fill it out if you have a legitimate reason to return or if you are certain about your intentions. Please note that this form is not meant for speculative purposes or to be filled out as a placeholder. Only fill it out if you are confident about your decision to return.
-
-</thinking>
-
 # Teacher Intent To Return Form - Help Guide
 ## Purpose
 This form is used to document a teacher's intent to return to their job or position. It helps in organizing and processing the return process efficiently.

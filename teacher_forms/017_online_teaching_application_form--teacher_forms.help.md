@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to explain the form purpose and checks for relevance and non-duplication ...
-
-This form is intended to collect information from teachers who wish to apply for a teaching position. The form will guide the applicant through a series of questions that will help us better understand their qualifications, experience, and background. The form is not intended to be duplicated, and each field is designed to provide relevant information that will be used in the evaluation process.
-
-</thinking>
-
 # Online Teaching Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from teachers who wish to apply for a teaching position. It will help us understand their qualifications, experience, and background.

@@ -1,11 +1,3 @@
-<thinking>
-
-This guide is for the "Academic Petition Form", a form designed to collect information from students or staff filing academic petitions. The form's purpose is to gather relevant details for processing and resolving petition requests, ensuring that all necessary information is provided in a clear and concise manner. 
-
-To use this form, ensure that you are filing a genuine academic petition, and not using it for any other purpose. This guide will walk you through each section of the form, helping you understand what each field is for and how to complete it correctly.
-
-</thinking>
-
 # Academic Petition Form - Help Guide
 
 ## Purpose

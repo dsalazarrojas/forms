@@ -1,5 +1,3 @@
-<thinking>Let's consider the context in which this form is being used - a student survey to gather feedback and insights from students about their experience in a course. This form aims to collect data on various aspects of the course and teaching, including teacher resources, facilities, instructor quality, and overall course experience.</thinking>
-
 # Student Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from students about their experience in a course. The survey aims to gather insights on various aspects of the course, including teacher resources, facilities, instructor quality, and overall course experience.

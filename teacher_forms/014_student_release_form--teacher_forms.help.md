@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure this form is user-friendly and helps end-users understand its purpose and how to fill it out correctly.
-The form is meant to collect information from students, and the fields are likely related to student details, teacher information, and administrative data. We should focus on making the explanation clear and concise.
-</thinking>
-
 # Student Release Form - Help Guide
 ## Purpose
 The Student Release Form is designed to collect necessary information from students, allowing teachers to understand their needs and provide an efficient and effective education.

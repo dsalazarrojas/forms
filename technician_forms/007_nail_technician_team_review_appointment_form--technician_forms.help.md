@@ -1,11 +1,3 @@
-<thinking>
-
-The "Nail Technician Team Review Appointment Form" is a tool used by the salon management team to review the performance of the nail technicians and schedule appointments for future meetings. This form is not intended to be filled out by the technician themselves, but rather by the salon manager or other authorized personnel. The form's purpose is to gather information and provide a rating system for evaluating the technician's performance and scheduling future meetings.
-
-This form is not meant to be completed by the technician being reviewed, and the fields are designed for the reviewer to provide feedback and schedule appointments. If you're a technician, you will not be completing this form.
-
-</thinking>
-
 # Nail Technician Team Review Appointment Form - Help Guide
 ## Purpose
 The "Nail Technician Team Review Appointment Form" is used by the salon management team to evaluate and schedule meetings with the nail technicians.

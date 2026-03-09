@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, this form is designed to collect data on teachers' and students' experiences with cyberbullying and online aggression. The form aims to gather information on teachers' experiences, such as their own experiences with cyberbullying, the types of help they receive, and how often they give help to students displaying aggressive behavior. Additionally, the form will gather data on students' experiences, including their interactions with teachers, the kind of support systems they have in place, and how often they seek help. This form will help identify areas for improvement and provide insights on how to address these issues.
-
-</thinking>
-
 # Cyberbullying And Online Aggression Survey - Help Guide
 
 ## Purpose

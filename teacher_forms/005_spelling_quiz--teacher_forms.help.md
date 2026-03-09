@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to facilitate a spelling quiz for students, allowing them to demonstrate their knowledge of word spellings in a controlled environment. The form is intended for use by teachers to assess student performance, providing a structured format for data collection and analysis. 
-
-The form's fields are designed to gather relevant information about the student and the quiz administration, including their name, email, school name, class name, subject, and grade level. Additionally, it includes fields for the teacher to specify whether the student's answers are correct, incorrect, or partially correct, as well as the correct answers and grading criteria.
-
-To avoid duplication of data and ensure accurate analysis, it's essential to fill in all required fields carefully and accurately. 
-
-</thinking>
-
 # Spelling Quiz - Help Guide
 ## Purpose
 The Spelling Quiz form is designed to assess student's spelling skills, providing a structured format for teachers to collect and analyze data.

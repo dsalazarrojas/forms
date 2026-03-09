@@ -1,11 +1,3 @@
-<thinking>
-
-This guide explains the MultiPage Course Evaluation Form, which is designed to collect feedback from users about courses they have taken. This form is not affiliated with any specific form platform and is an original adaptation of public survey topic metadata.
-
-To complete this form, please ensure that each question is filled out completely and accurately, as it will be used to gather valuable insights about the course. You are free to use, modify, and share this form, giving credit to its creators.
-
-</thinking>
-
 # MultiPage Course Evaluation Form - Help Guide
 ## Purpose
 This form is intended to collect feedback from users about courses they have taken. The purpose of this form is to gather information about the course's effectiveness, teaching methods, and overall experience.

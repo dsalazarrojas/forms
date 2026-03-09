@@ -1,13 +1,3 @@
-<thinking> ... 
-
-This form is a Capital Gains Tax Claim Form, used to report capital gains and claim applicable tax deductions. The form is designed to collect information about the taxpayer's capital gains, including asset type, acquisition and sale dates, sale proceeds, and holding period. It also collects information about the taxpayer's identification, address, and contact details. The form is intended for taxpayers who have realized a capital gain and are required to report it for tax purposes.
-
-To complete this form, the taxpayer will provide information about their identity, including their name, Taxpayer ID or SSN, and contact details. They will also report the details of the capital gain, such as the type of asset sold, its description, acquisition and sale dates, sale proceeds, and holding period.
-
-The form will also ask for information about any applicable tax deductions, such as capital improvement costs and other deductible expenses. Taxpayers will also be asked to confirm that the information provided is accurate and complete.
-
-... </thinking>
-
 # Capital Gains Tax Claim Form - Help Guide
 ## Purpose
 The Capital Gains Tax Claim Form is a form used to report capital gains and claim applicable tax deductions.

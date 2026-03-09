@@ -1,10 +1,3 @@
-<thinking>
-We are creating a help guide for the "surgical_technologist_skills_checklist" form, which appears to be a form for assessing the skills and qualifications of surgical technologists. This form is designed to evaluate the skills and knowledge of surgical technologists, focusing on various aspects such as patient care, safety, role, scrubbing and suturing, emergency skills, general knowledge, education, and equipment and supplies. The form will help identify areas where the technologist excels or needs improvement. It will be used by administrators or evaluators to assess and provide feedback to surgical technologists.
-
-To ensure the form's purpose and relevance, we will review the form's fields and their corresponding labels to provide an accurate and concise help guide.
-
-</thinking>
-
 # surgical_technologist_skills_checklist - Help Guide
 ## Purpose
 This form is designed to assess the skills and qualifications of surgical technologists, evaluating their abilities in various areas such as patient care, safety, role, scrubbing and suturing, emergency skills, general knowledge, education, and equipment and supplies.

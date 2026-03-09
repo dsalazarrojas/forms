@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for collecting student information for educational purposes.
-To create a help guide for end users that explains how to complete the form and what each field means, I will first analyze the form's purpose and fields.
-This form likely serves as a template for collecting information about students, possibly for a school or educational institution. Given the fields included in the form, it appears to collect general student information such as ID, name, contact details, and academic interests.
-The fields seem to be designed for a straightforward and simple data collection process.
-</thinking>
-
 # student_information_sheet_template - Help Guide
 ## Purpose
 This form is intended for collecting basic information about students, likely for educational purposes such as registration, communication, or data management.

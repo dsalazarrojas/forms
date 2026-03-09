@@ -1,8 +1,3 @@
-<thinking> 
-This form seems to be a survey for gathering feedback from students and teachers regarding their behavior and concerns. The form likely aims to collect data for improvement and support within a school or educational setting. The structure suggests an emphasis on suggestions and comments from both students and teachers, indicating a focus on improving communication and relationships between students, teachers, and schools. This form is likely part of an internal process or project within the school. 
-
-</thinking>
-
 # Student Behavior Survey - Help Guide
 ## Purpose
 This guide is designed to walk you through the process of completing the Student Behavior Survey form.

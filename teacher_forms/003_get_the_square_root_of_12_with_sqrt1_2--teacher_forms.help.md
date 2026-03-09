@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Get The Square Root Of 12 With SQRT1_2 - Help Guide
 ## Purpose
 This form is designed to allow users to calculate the square root of 12 using different mathematical functions. The form guides the user through a simple process to determine the correct function to use and perform the calculation.

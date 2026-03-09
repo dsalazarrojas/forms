@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parent Guardian Attestation - Help Guide
 ## Purpose
 The Parent Guardian Attestation form is used to gather information from parents or guardians about their relationship to the student and their contact information. This form is essential for the school administration to verify the identity and contact details of the individuals responsible for the student's well-being.

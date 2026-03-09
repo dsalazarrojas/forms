@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mentor Observation Form - Help Guide
 ## Purpose
 This form is used to gather feedback and data from mentors on new teachers during their observation process. The form helps to evaluate the new teacher's performance, identify areas for improvement, and track progress towards meeting teaching standards.

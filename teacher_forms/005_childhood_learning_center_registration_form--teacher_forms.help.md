@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect personal and demographic information from parents or guardians of children who will be attending the Childhood Learning Center. The form is used to register a child for programs and services offered by the center. The information collected will be used to create a profile for the child and to communicate with the parent or guardian about the child's attendance and any important updates. This information is required for the child's enrollment and to ensure their safe and successful participation in the programs. Please note that this form should only be completed once per child. If the child has already been registered, do not complete this form again. If you are unsure if the child has already been registered, please contact us to confirm. 
-</thinking>
-
 # Childhood Learning Center Registration Form - Help Guide
 ## Purpose
 This form is designed to collect personal and demographic information from parents or guardians of children who will be attending the Childhood Learning Center.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users calculate and verify logarithmic values, specifically for base 2, 10, and Natural (e, Euler's number) logarithms. The form guides users through a series of questions to input their base and exponent values, then presents the result of the logarithm operation. It also asks users to confirm the correctness of the result and provides an optional note field for additional context or comments. This form is intended for internal use, and users should ensure they are familiar with logarithmic calculations and their applications before using it.
-</thinking>
-
 # Get Logarithm (log) Form - Help Guide
 ## Purpose
 This form is designed to help you calculate and verify logarithmic values. Please follow the instructions carefully to ensure accurate results.

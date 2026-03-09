@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from teachers about a student's performance, progress, and other relevant details. The fields in this form are designed to collect data that can be used for educational purposes. To avoid duplication of effort, it's essential to only fill out this form if you have not already submitted one for this student.
-
-</thinking>
-
 # Secondary School Report Form - Help Guide
 ## Purpose
 The Secondary School Report Form is designed to collect information from teachers about a student's performance, progress, and other relevant details in a secondary school setting.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect information from teachers in high school about their maternity leave of absence, including the start and end dates of their leave, reason for leave, doctor's notes, insurance information, and other relevant details. This form is likely used by school administrators to process and manage leave requests, ensuring that all necessary information is collected and that the process is fair and equitable for all teachers. 
-
-The form is designed to be completed by teachers, and the information collected will be reviewed and processed by school administrators. The fields on this form will guide the teacher through the process of requesting a maternity leave of absence, and will help the school administrators to make informed decisions about the request.
-
-To avoid duplication of effort, it's likely that this form is integrated with other HR or administrative systems, allowing teachers and administrators to access and review relevant information in a single platform.
-
-</thinking>
-
 # High School Teacher Maternity Leave Of Absence Form - Help Guide
 ## Purpose
 This form is used to request a maternity leave of absence as a high school teacher. It will collect information about your leave dates, reason for leave, and other relevant details to ensure that your request is processed fairly and efficiently.

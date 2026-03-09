@@ -1,7 +1,3 @@
-<thinking>
-This form is for gathering feedback from kindergarten kids about their experiences with remote learning. It should only be filled out by kindergarten kids, and ideally, they should not fill out the form if they have already filled it out in the past. I will aim to provide a concise and clear explanation for each field in the guide.
-</thinking>
-
 # Remote Learning Survey For Kindergarten Kids - Help Guide
 ## Purpose
 This form is designed to gather your thoughts and feelings about remote learning. It's a short and fun way to help us understand how you enjoy learning from home.

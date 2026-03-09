@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the Fire Door Inspection Form is to gather information about the condition and number of fire doors in a building. This form helps technicians assess the presence and functionality of fire exit doors, which is a critical aspect of fire safety protocols. It's essential to complete this form accurately to ensure that fire safety standards are met. Please note that this form should not be used for other purposes, such as routine maintenance or repairs, but specifically for fire door inspections.
 
 # Fire Door Inspection Form - Help Guide

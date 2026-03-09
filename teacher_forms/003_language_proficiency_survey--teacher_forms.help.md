@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the language proficiency of individuals in various aspects of language usage. This form is intended for use by individuals who wish to evaluate their language skills. Each section of the form assesses a different aspect of language proficiency, including listening, speaking, writing, reading, grammar, vocabulary, and more.
-
-To prevent duplication of effort, please note that some of these questions are similar, and you may be asked to respond to more than one question that pertains to the same topic. Your responses will help to give an overall picture of your language proficiency.
-
-To make it easier to understand the form, we recommend reading each question carefully and answering honestly. If you have any doubts or concerns, please don't hesitate to reach out to us.</thinking>
-
 # Language Proficiency Survey - Help Guide
 ## Purpose
 

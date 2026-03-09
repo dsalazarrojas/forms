@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information about the user's philosophy knowledge and opinions on various philosophical questions.
-The form will not be duplicated for the same user in a short period of time.
-</thinking>
-
 # Philosophy Quiz - Help Guide
 ## Purpose
 This form is designed to assess your understanding of philosophical concepts and principles.

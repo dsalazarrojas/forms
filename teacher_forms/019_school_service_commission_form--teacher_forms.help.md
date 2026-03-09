@@ -1,8 +1,3 @@
-<thinking>
-The "School Service Commission Form" is a multi-page form designed to collect various types of information from users, including text, date, time, number, and multiple choice options. The form is intended to be filled out by users who are involved in school services, such as teachers and staff. The form is divided into several sections, each with its own unique label and type of input field. Some fields are required, while others are optional. The form is likely used for administrative purposes, such as tracking student progress, managing staff schedules, and maintaining records of events and meetings.
-To ensure that users understand the form's purpose and requirements, it's essential to review the form's content carefully before proceeding. This guide will walk you through each field in detail, helping you complete the form accurately and efficiently.
-</thinking>
-
 # School Service Commission Form - Help Guide
 ## Purpose
 The School Service Commission Form is a comprehensive form used to collect information from users related to school services. It is designed to capture various types of data, including text, date, time, number, and multiple-choice options.

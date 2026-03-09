@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help you understand the purpose and process of completing the Student Transfer Request Form. The form is designed to gather necessary information from teachers for student transfer requests. Please note that this form is for internal use only and should not be submitted for external purposes. To ensure accuracy, please review the form carefully and ensure that you are submitting a new, unique request. If you have already submitted a student transfer request for the same student, please do not resubmit. This will help prevent duplicate requests and ensure efficient processing.
-</thinking>
-
 # Student Transfer Request Form - Help Guide
 ## Purpose
 The Student Transfer Request Form is a form used to request a student's transfer to a different class or school. This form is intended for teachers to submit their requests for student transfers.

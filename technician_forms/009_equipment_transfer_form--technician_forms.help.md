@@ -1,10 +1,3 @@
-<thinking>
-This form will be used to log the transfer of equipment between two departments within the organization. It is essential to have a clear and accurate record of equipment transfers for asset management and inventory purposes. To avoid duplication, please only complete this form when a transfer is actually taking place.
-
-Before filling out this form, ensure you have permission from both the transferring department and the receiving department.
-
-</thinking>
-
 # equipment_transfer_form - Help Guide
 ## Purpose
 This form is used to record the transfer of equipment between departments within the organization, ensuring accurate asset management and inventory records.

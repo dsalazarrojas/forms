@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from teachers regarding their assessment of a student or subject matter. This form is used to gather specific information about the teacher's perception of the student's or subject matter's strengths and weaknesses, as well as their overall rating and feedback. This form is typically completed by a teacher after assessing a student or subject matter, and the collected data is used for further evaluation and decision-making purposes.
-
-The following guide will walk you through the process of completing the form:
-
-This form is designed to be completed by a single teacher, and the fields should be filled in accordingly. Please ensure that you are the intended user before proceeding.
-
-</thinking>
-
 # Teachers Assessment Form - Help Guide
 ## Purpose
 The Teachers Assessment Form is a tool used to collect teacher feedback and ratings for students or subject matters.

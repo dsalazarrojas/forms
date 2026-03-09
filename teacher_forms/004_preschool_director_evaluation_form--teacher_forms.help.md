@@ -1,8 +1,3 @@
-<thinking>
-The preschool director evaluation form is used to gather feedback from teachers on the performance and qualities of the preschool director. The form is designed to be completed by teachers and is intended to provide a subjective assessment of the director's qualifications, performance, and ability to create a safe and supportive environment for students. Before proceeding, please ensure that you have the necessary permissions and consents to complete this form, and that you are providing honest and constructive feedback. Please note that this form should only be completed once per academic term or year, depending on your school's evaluation cycle.
-
-</thinking>
-
 # Preschool Director Evaluation Form - Help Guide
 ## Purpose
 The preschool director evaluation form is a tool for teachers to provide feedback on the director's performance, qualifications, and ability to create a safe and supportive environment for students.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to gather information from sellers regarding their tax history, debt concerns, and other tax-related details. 
-The form is designed to be completed by sellers, and the information collected will be used for internal purposes only. 
-This guide assumes that the form will be filled out by a representative of the seller, or the seller themselves. 
-
-</thinking>
-
 # Tax Seller Servicing Application - Help Guide
 ## Purpose
 The Tax Seller Servicing Application form is used to collect information from sellers about their tax history, debt concerns, and other tax-related details. This form helps us understand their tax status, which is essential for our internal processes.

@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to gather data from teachers on their awareness and perception of digital tools and technologies in the education sector. This form aims to collect data on their digital skills, attitude towards digital tools, and concerns or challenges they face while using digital tools. It also includes fields for contact and follow-up information. The purpose of this form is to gather valuable insights from teachers, which will help in providing better support and services to them. This form will help in understanding the current state of digital awareness among teachers and identify areas that need improvement.
-</thinking>
-
 # Digital Awareness Survey - Help Guide
 ## Purpose
 The "Digital Awareness Survey" is designed to gather information from teachers on their awareness and perception of digital tools and technologies. This survey aims to collect data on their digital skills, attitude towards digital tools, and concerns or challenges they face while using digital tools.

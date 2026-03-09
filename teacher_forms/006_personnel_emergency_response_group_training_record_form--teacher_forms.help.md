@@ -1,11 +1,3 @@
-<thinking>
-
-The form's purpose is to record and track training records for personnel within emergency response groups, providing a standardized way to document their training status. This form ensures that all training events are accurately reflected in the system, allowing for easier access to training history and status updates.
-
-Before filling out this form, ensure that you are using it to record events that are not already documented. If a record is already available, please do not duplicate it.
-
-</thinking>
-
 # Personnel Emergency Response Group Training Record Form - Help Guide
 ## Purpose
 This form is used to record and track training records for personnel within emergency response groups.

@@ -1,10 +1,3 @@
-<thinking>
-We need to create a help guide for the "Discipline Referral Form" to ensure end users understand its purpose and how to complete it. This form is used to document incidents or referrals regarding student discipline, which is crucial for teachers to track and record information about student behavior or misbehavior. To prevent duplication of effort, we'll make sure to provide clear instructions and explanations for each field.
-
-The form collects various details about the incident, such as student and staff involvement, date and time, and the nature of the incident. The fields should be filled in accordingly to provide a clear and accurate account of what happened. This guide will walk through each field to ensure users understand what information is required and what is optional.
-
-</thinking>
-
 # Discipline Referral Form - Help Guide
 ## Purpose
 This form is used to document incidents or referrals regarding student discipline. Please fill in the form accurately and thoroughly to provide a clear account of what happened.

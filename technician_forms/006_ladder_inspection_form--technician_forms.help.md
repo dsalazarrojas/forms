@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for technicians to collect information about ladder inspections, likely used for maintenance, quality control, or regulatory purposes in various industries such as construction, maintenance, or safety. The form is likely to be used by a technician or inspector who needs to record their findings about the condition of ladders. The purpose of this form is to document the inspection results in a structured and standardized way. The form has multiple pages, each serving a specific purpose, and the fields and options on each page are designed to capture relevant information about the ladder inspection.
-
-To avoid duplication, this form may be part of a larger process or system that tracks ladder inspections over time, and the collected data may be used for reporting, trend analysis, or to identify areas for improvement.
-</thinking>
-
 # Ladder Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information about ladder inspections for documentation and tracking purposes.

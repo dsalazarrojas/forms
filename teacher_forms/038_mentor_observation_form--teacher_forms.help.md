@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form, the Mentor Observation Form, is designed to be used by educators to gather feedback and evaluation on new teachers. This form helps to provide an objective assessment of a new teacher's performance, focusing on their strengths and areas for improvement. The form should only be completed once for each new teacher observation. Please ensure that you are filling out this form for the correct new teacher and do not duplicate the form for the same teacher.
 
 </thinking>

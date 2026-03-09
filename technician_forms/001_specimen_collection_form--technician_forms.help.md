@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for specimen collection. The purpose of this form is to ensure that the necessary data is collected accurately and consistently. Please fill out this form only once per specimen and do not duplicate efforts by filling out multiple forms for the same specimen.
-</thinking>
-
 # Specimen Collection Form - Help Guide
 ## Purpose
 The Specimen Collection Form is a crucial tool used to collect and record vital information about a specimen. This form is used to standardize the collection process and minimize errors.

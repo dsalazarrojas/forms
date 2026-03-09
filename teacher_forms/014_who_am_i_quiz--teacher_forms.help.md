@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a simple quiz designed to determine the characteristics of a person, likely for educational or research purposes. I'll assume it's intended for users to input their answers to questions about themselves, and the form should be easy to complete without requiring any special knowledge. I'll review the fields to ensure they are self-explanatory and easy to understand. There doesn't seem to be any obvious reason for duplication or non-relevance of the provided fields.
-</thinking>
-
 # Who Am I Quiz - Help Guide
 
 ## Purpose

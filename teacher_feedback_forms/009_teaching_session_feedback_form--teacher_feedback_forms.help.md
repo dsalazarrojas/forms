@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from students after a teaching session. The form should only be used for sessions that have already taken place. This form will be completed by the student, providing an opportunity for them to give feedback on the session's quality, the trainer's performance, and any other relevant comments. The form should not be used for new or future sessions.
-</thinking>
-
 # Teaching Session Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from students after a teaching session. This feedback will help the trainer to improve their teaching methods and provide better experiences for future students.

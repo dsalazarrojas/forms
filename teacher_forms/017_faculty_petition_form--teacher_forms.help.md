@@ -1,12 +1,3 @@
-<thinking>
-The Faculty Petition Form is intended to be completed by faculty members to express their needs, concerns, or ideas to the university administration. This form serves as a channel for faculty to communicate their thoughts and opinions on various matters related to their department or subject area.
-
-To ensure that your petition is properly submitted and addressed, please make sure to:
-- Review the form carefully before submitting it.
-- Ensure that you are submitting a unique petition, as duplicate submissions may be rejected.
-- Enter your name and contact information to be contacted for further clarification, if necessary.
-</thinking>
-
 # Faculty Petition Form - Help Guide
 ## Purpose
 The Faculty Petition Form is a tool for faculty members to communicate their needs, concerns, or ideas to the university administration.

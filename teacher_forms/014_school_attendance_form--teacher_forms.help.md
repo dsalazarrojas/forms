@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to capture information on student attendance in a school setting. It includes fields for student name, grade level, attendance date, and various other attendance-related information such as absent, late, missing, and excused students. The form is designed to be used by teachers to track student attendance.
-
-The purpose of this form is to collect data on student attendance, which can be used by teachers to keep track of student attendance patterns and identify any issues that may need to be addressed. The form is not affiliated with or endorsed by any form platform and is an original adaptation created by AI using public survey topic metadata.
-
-</thinking>
-
 # School Attendance Form - Help Guide
 ## Purpose
 The School Attendance Form is used by teachers to track student attendance in a school setting. It captures information on student name, grade level, attendance date, and other relevant details such as absent, late, missing, and excused students.

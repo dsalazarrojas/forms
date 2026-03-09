@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from teachers about their interactions and experiences with the teaching assistant service. This data will help us understand how the service is performing and identify areas for improvement. Before filling out this form, please ensure you have not already submitted a similar form, as it may lead to duplicate or unnecessary data collection. Please provide accurate and honest answers to help us better serve you and your colleagues.</thinking>
-
 # Teaching Assistant Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from teachers about their interactions and experiences with the teaching assistant service.

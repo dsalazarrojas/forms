@@ -1,8 +1,3 @@
-<thinking>
-This form is a Lesson Availability Form that is used to collect information from teachers about their availability to teach lessons. The purpose of this form is to help instructors provide accurate information about their schedules, lesson plans, and contact details in a clear and organized manner. This form is designed to be filled out by teachers to communicate their availability to the school administration and other stakeholders. 
-To ensure accuracy, please make sure to fill out all required fields and provide clear information in optional fields.
-</thinking>
-
 # Lesson Availability Form - Help Guide
 ## Purpose
 The Lesson Availability Form is a tool for teachers to communicate their schedules, lesson plans, and contact information to school administration and other stakeholders.

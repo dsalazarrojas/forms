@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information regarding the fire damper inspection process. This form may be used to verify if the fire damper system is functioning correctly. The user is expected to select the type of fire damper system, system type, damper type, and other details. The form is likely used to support a compliance or audit process.
-</thinking>
-
 # Fire Damper Inspection Form - Help Guide
 ## Purpose
 The Fire Damper Inspection Form is designed to collect essential information related to the fire damper system's functionality. This form helps ensure that the system is in good working condition and meets relevant standards or regulations.
