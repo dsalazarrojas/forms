@@ -1,12 +1,3 @@
-<thinking>
-**Purpose:**
-The Passenger Flight Experience Report Form is designed to gather feedback from passengers about their recent flight experience. This form is intended to collect information about various aspects of the flight, including the passenger's comfort, entertainment, and overall satisfaction with the flight experience. The data collected through this form will be used to improve airline services and ensure that passengers have an enjoyable and safe travel experience.
-
-**Relevance and Non-Duplication:**
-Before submitting your feedback, please ensure that you have recently taken a flight and are reporting on your experience from that flight. If you have already submitted a similar report, please note that this form is not intended to be a duplicate report. Your feedback is valuable, and we appreciate your contributions.
-
-</thinking>
-
 # Passenger Flight Experience Report Form - Help Guide
 ## Purpose
 ## How To Complete This Form

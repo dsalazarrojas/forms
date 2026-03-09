@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Travel Agent Booking Form - Help Guide
 
 ## Purpose

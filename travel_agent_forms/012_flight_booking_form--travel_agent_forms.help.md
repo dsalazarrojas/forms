@@ -1,19 +1,3 @@
-<thinking>
-
-**Checking form purpose and fields for non-duplication and relevance**
-
-This form is a Flight Booking Form, designed to gather essential information for flight-related bookings. The form has 13 fields, each with its own specific purpose:
-
-* **Flight details**: This field is likely used for booking flights with specific departure and arrival airports.
-* **Customer** fields: These fields are used to collect personal information about the customer, including name, surname, phone number, and email.
-* **Travel dates and times**: These fields are used to capture the departure and arrival dates and times.
-* **Flight duration**: This field is likely used to specify the duration of the flight.
-* **Customer contact information**: These fields are used to collect customer's contact information for follow-up or confirmation purposes.
-
-No duplicate or non-relevant fields are found.
-
-</thinking>
-
 # Flight Booking Form - Help Guide
 ## Purpose
 The Flight Booking Form is used to gather information for flight-related bookings. It is a crucial document that helps us process bookings efficiently and ensure that all necessary details are captured.

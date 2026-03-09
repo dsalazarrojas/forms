@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather essential information for a travel agency booking process. The form is divided into five sections: "Booking Details," "Customer Information," "Payment Details," "Additional Information," and "Submit." The form is intended to be used by travel agency staff to collect relevant data from customers during the booking process. Each section is designed to collect specific data that will aid in processing the booking efficiently and ensuring accuracy. 
 
 This form is a template, so it's likely that you or your organization will need to adjust it according to your travel agency's specific needs and requirements. Make sure to review and test the form before using it for actual bookings. Ensure the form fields and sections match your agency's booking process and procedures.

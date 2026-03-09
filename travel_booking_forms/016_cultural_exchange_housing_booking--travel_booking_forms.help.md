@@ -1,10 +1,3 @@
-<thinking>
-
-This form is used to book a cultural exchange residence for an individual or group. It is designed to collect information related to the housing requirements for travel purposes. The form is divided into two main parts: residence details and dates. The residence details page is where the user can provide their current address and any other relevant information. The dates section is used to input the arrival and departure dates. This guide will explain each step of the process in a way that ensures the user can complete the form accurately and efficiently.
-
-
-</thinking>
-
 # cultural_exchange_housing_booking - Help Guide
 ## Purpose
 The cultural exchange housing booking form is used to book a residence for travel purposes. It gathers information about the housing requirements and dates of stay.

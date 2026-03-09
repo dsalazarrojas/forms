@@ -1,10 +1,3 @@
-<thinking>
-The form "travel_declaration_form" is designed to capture essential information from individuals who have traveled recently or plan to travel soon. It is crucial for the travel agency to have this information to better understand the health risks and take necessary precautions. This form is meant to be filled out by travelers, whether they are agents or their clients, to report on their travel status, including symptoms of COVID-19, body temperature, travel dates, and other relevant details.
-
-To ensure the form is filled out correctly, it is essential to understand each field's purpose and how to fill it out accurately. Before proceeding, please note that some fields are required, marked as "True" in the table above, while others are optional, marked as "False". Failure to fill out the required fields may result in incomplete data and affect the form's overall purpose.
-
-</thinking>
-
 # travel_declaration_form - Help Guide
 ## Purpose
 The "travel_declaration_form" is used to collect information about an individual's travel status and health. It helps the travel agency to assess the risk of COVID-19 transmission and take necessary precautions.

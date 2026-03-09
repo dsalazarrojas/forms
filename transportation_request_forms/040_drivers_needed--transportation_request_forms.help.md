@@ -1,6 +1,3 @@
-<thinking>
-This form is used to request transportation services for drivers. It captures the essential details of a driver, such as name, contact information, and availability. The form also includes fields to specify the type of transportation requested and any additional notes or comments. When completing this form, please ensure that you have provided all required information and select the most accurate options for transportation type and assigned tool.
-</thinking>
 # drivers_needed - Help Guide
 ## Purpose
 The purpose of this form is to collect information from drivers, including their name, contact information, and details about their availability and transportation preferences. This form is used to request transportation services and gather necessary data for coordination.

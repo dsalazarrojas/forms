@@ -1,11 +1,3 @@
-<thinking>
-This form is likely intended to gather information from users who require a parking pass for a specific street or location. It's used to collect details about the user's contact information, vehicle details, and any additional notes they might need to convey. The purpose of this form is not explicitly stated, but based on the field types and labels, it seems to be for administrative or regulatory purposes, such as processing parking permits or requests.
-
-To avoid duplication, we should check if a similar form exists in the system before proceeding with the submission.
-
-Form fields are likely used to collect information about the user, their vehicle, and any other relevant details.
-</thinking>
-
 # Street Parking Pass Request - Help Guide
 ## Purpose
 This form is used to gather information from users who require a parking pass for a specific street or location. It's intended for administrative or regulatory purposes, such as processing parking permits or requests.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Simulation-Based Training Survey Form - Help Guide
 ## Purpose
 The Simulation-Based Training Survey Form is designed to gather feedback from participants after a simulation-based training session. This form helps assess the quality and effectiveness of the training session.

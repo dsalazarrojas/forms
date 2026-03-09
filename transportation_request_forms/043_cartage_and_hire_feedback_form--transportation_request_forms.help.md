@@ -1,10 +1,3 @@
-<thinking>
-As this form is meant to be a tool for gathering feedback on cartage and hire services, its purpose is to gauge customer satisfaction and identify areas for improvement in the company's operations. This form will help the company understand what works well and what doesn't in their service delivery process, allowing them to make data-driven decisions to optimize their services.
-
-This form will likely be used by customers who have received cartage or hire services, and will be filled out by them after the service has been completed. It's essential to complete this form to ensure that the company has a thorough understanding of the experience and to help them improve future services.
-
-</thinking>
-
 # Cartage And Hire Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers on their experience with the company's cartage and hire services.

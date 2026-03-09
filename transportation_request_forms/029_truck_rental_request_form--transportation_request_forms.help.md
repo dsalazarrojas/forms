@@ -1,7 +1,3 @@
-<thinking>
-The "truck_rental_request_form" is used to collect information for a truck rental request. This form is used to gather details such as the customer's name, contact information, truck type and size, rental dates, rental duration, reason for rental, and other relevant details. Before filling this form, please ensure that you have a legitimate reason for requesting a truck rental and that you have checked the "agency" and "site" fields carefully.
-</thinking>
-
 # truck_rental_request_form - Help Guide
 ## Purpose
 The truck rental request form is used to collect information for a truck rental request. This form helps us understand your transportation needs and ensure that we can provide the correct vehicle for your requirements.

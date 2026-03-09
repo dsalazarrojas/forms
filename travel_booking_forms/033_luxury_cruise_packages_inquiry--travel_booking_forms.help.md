@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users to inquire about luxury cruise packages. 
-</thinking>
-
 # Luxury Cruise Packages Inquiry - Help Guide
 ## Purpose
 This form is designed to gather details from users regarding their inquiry about luxury cruise packages. It helps to understand their preferences and requirements for a customized cruise experience.

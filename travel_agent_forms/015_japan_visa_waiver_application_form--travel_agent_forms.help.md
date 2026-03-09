@@ -1,9 +1,3 @@
-<thinking>
-Form purpose is to gather information about a traveler's identity, trip details, and contact information from a travel agency.
-This form is used by travel agents to apply for a Japan Visa Waiver on behalf of their clients.
-The information will be used to process the waiver request.
-</thinking>
-
 # Japan Visa Waiver Application Form - Help Guide
 ## Purpose
 This form is used to apply for a Japan Visa Waiver on behalf of your clients. Please fill out the form with accurate and complete information to ensure a smooth processing of the request.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from travel agents for the Travel Agents Association Membership Form. The purpose of this form is to register new members, update membership details, and collect necessary information to facilitate the association's operations. To avoid duplication, please ensure that the member is not already registered before submitting this form.
-
-This form can be completed by travel agents to register themselves or update their membership details. It consists of several sections that require various fields of information.
-
-To complete this form, follow the steps below:
-</thinking>
-
 # Travel Agents Association Membership Form - Help Guide
 ## Purpose
 The Travel Agents Association Membership Form is designed to collect information from travel agents for registration, membership update, or other purposes.

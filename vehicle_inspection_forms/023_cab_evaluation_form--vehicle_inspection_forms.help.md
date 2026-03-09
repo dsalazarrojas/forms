@@ -1,5 +1,3 @@
-<thinking>Before designing the user-facing help guide, I'll review the provided YAML fields to understand the form purpose and ensure that it's not a duplicate effort. The form is called "Cab Evaluation Form" and is designed for evaluating vehicles. It seems to be a straightforward form for collecting information about a vehicle's condition after a safety inspection. I'll aim to create a clear and concise help guide that covers the form's purpose, completion steps, and field explanations.</thinking>
-
 # Cab Evaluation Form - Help Guide
 ## Purpose
 The Cab Evaluation Form is a tool used by inspectors to document the results of a vehicle safety evaluation. It captures essential information about the vehicle's condition, including the inspector's details, vehicle registration, inspection date, safety checks passed, mileage, any defects found, recommended maintenance actions, and next inspection date.

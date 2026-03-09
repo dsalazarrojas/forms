@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for backhaul orders, which are transportation requests that involve the movement of goods from one location to another. This form helps in gathering essential details such as shipper information, pickup and delivery locations, cargo details, and other relevant information that is required for smooth execution of backhaul orders.
-The form is designed to minimize duplication of effort and ensure that all necessary information is captured correctly.
-</thinking>
-
 # Backhaul Order Submission Form - Help Guide
 
 ## Purpose

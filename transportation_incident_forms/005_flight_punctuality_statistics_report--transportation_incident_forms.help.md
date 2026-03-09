@@ -1,11 +1,3 @@
-<thinking>
-To avoid non-duplication of information, I will ensure the help guide is clear and concise, covering the essential aspects of the form without redundancy. I will also base my explanations on the provided YAML fields.
-
-The form "flight_punctuality_statistics_report" appears to be designed for collecting and analyzing flight punctuality data. It's likely used by airlines or transportation agencies to track and monitor flight schedules, delays, and cancellations. The purpose of this form is to gather statistics on flight punctuality to identify trends, optimize flight schedules, and improve overall performance.
-
-Given the structure of the form, it seems that end-users (airline staff, administrators, etc.) would use this form to collect and review data on flight schedules, delays, and cancellations. The form includes various fields that categorize flights by punctuality, delay reasons, and flight performance metrics.
-</thinking>
-
 # flight_punctuality_statistics_report - Help Guide
 ## Purpose
 The flight_punctuality_statistics_report form is designed to collect and analyze flight punctuality data to help airlines and transportation agencies track and monitor flight schedules, delays, and cancellations.

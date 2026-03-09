@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to ensure that vehicle reversing safety checklists are completed accurately and comprehensively, reducing the risk of accidents and errors while reversing vehicles. This form should be completed when a vehicle needs to be reversed, typically when leaving a worksite or parking lot after a job or task has been completed. The fields in this form provide a structured and systematic way of capturing essential information to guarantee a safe reversing process.
-</thinking>
 # Vehicle Reversing Safety Checklist - Help Guide
 ## Purpose
 The Vehicle Reversing Safety Checklist is a crucial document that helps ensure the safe completion of reversing operations. It guides the driver through a series of questions and prompts, ensuring that they are aware of and follow proper safety procedures.

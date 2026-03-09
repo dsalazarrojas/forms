@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended for travelers to share their experiences and feedback about their cruise. The purpose of this form is to gather information about their preferences, satisfaction, and experiences on different aspects of their cruise, such as cabin cleanliness, food, entertainment, staff service, and shore excursions. This form should be completed by travelers who have recently returned from a cruise to provide their honest feedback and help the travel agency improve its services.</thinking>
-
 # Cruise Survey - Help Guide
 ## Purpose
 The Cruise Survey form is designed to gather feedback from travelers about their experiences on a cruise. This form will help us understand what you enjoyed most about your cruise, your preferences for shore excursions, and your overall satisfaction with your cabin, food, entertainment, and staff service.

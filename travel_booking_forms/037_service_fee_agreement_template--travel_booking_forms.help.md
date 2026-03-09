@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to create a Service Fee Agreement Template for travel agencies to use when dealing with clients. This template is used to outline the terms and conditions of the service fee, including payment terms, due dates, and cancellation policies. This form is a crucial tool for travel agencies to clearly communicate with their clients and ensure a smooth transaction experience.
-
-This form has been designed to be user-friendly and adaptable to various scenarios, allowing agencies to easily fill out the necessary fields and customize the agreement template as needed.
-
-Before creating this guide, I ensured that all fields are well-defined and clearly explained. I reviewed the input schema to provide a comprehensive help guide.
-
-</thinking>
-
 # Service Fee Agreement Template - Help Guide
 ## Purpose
 The Service Fee Agreement Template is a crucial document for travel agencies to outline the terms and conditions of their services.

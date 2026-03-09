@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # travel_planning_questionnaire - Help Guide
 
 ## Purpose

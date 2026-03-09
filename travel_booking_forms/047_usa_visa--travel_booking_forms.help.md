@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure this form is used for its intended purpose - booking travel arrangements for USA visa travel. It is essential to fill this form out correctly to guarantee proper processing. Before filling out this form, please verify that you're filling it out for a USA visa travel booking and that you're not duplicating existing travel arrangements. The form should only be used to book travel arrangements once, and any duplicate submissions should be avoided.</thinking>
-
 # Usa Visa - Help Guide
 ## Purpose
 This form is used to book travel arrangements for USA visa travel. Please fill it out carefully to ensure your travel plans are processed correctly.

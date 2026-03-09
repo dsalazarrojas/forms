@@ -1,7 +1,3 @@
-<thinking>
-To determine if this form is relevant and not duplicated, we must understand its purpose. Based on the provided YAML, this form appears to be for travel-related transactions, specifically for handling travel payments. It includes fields for travel dates, payment methods, amounts, notes, phone numbers, email addresses, and other relevant details. This form is likely used by travel agencies or companies to process travel-related payments, such as reimbursements or expense reports.
-</thinking>
-
 # travel_payment_form - Help Guide
 ## Purpose
 This form is for handling travel-related payments, such as reimbursements or expense reports. It helps travel agencies or companies process payments for various travel expenses.

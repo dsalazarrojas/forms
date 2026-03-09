@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's make sure you're in the right place. This form is a "Dive Trip Registration Form" used to gather information from users for an upcoming dive trip. It's designed to help us prepare for the trip by collecting essential details about the trip. To ensure we don't duplicate efforts or registrations, please make sure to review this form carefully and complete it accurately. If you're unsure about any part of the form or have questions, please don't hesitate to reach out to us. We'll be happy to help.</thinking>
-
 # Dive Trip Registration Form - Help Guide
 
 ## Purpose

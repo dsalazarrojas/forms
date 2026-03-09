@@ -1,11 +1,3 @@
-<thinking>
-This form is used to submit a uniform style guide for a school or company team. The guide outlines the uniform style for the team, including the type of uniform, colors, and other specific details. This form is used to provide a standardized way of submitting uniform style guides, making it easier for school or company teams to manage their uniforms consistently. To ensure that the form is filled out correctly, please review each section carefully and ensure that you understand the purpose of each field before proceeding.
-
-Before submitting this form, please check that you are filling it out for the correct purpose. If you are unsure, please contact your team leader or manager to clarify.
-
-This form has 12 fields in total, each with its own specific purpose. Please fill out each field carefully to ensure that you are providing accurate and complete information.
-</thinking>
-
 # Uniform Style Guide Submission - Help Guide
 ## Purpose
 This form is used to submit a uniform style guide for a school or company team. The guide outlines the uniform style for the team, including the type of uniform, colors, and other specific details.

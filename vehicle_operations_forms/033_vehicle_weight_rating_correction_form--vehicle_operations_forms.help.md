@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to allow users to correct vehicle weight ratings, providing a way for users to update the weight rating of a vehicle. The form is likely used by staff members to correct inaccuracies in the vehicle's weight rating, and ensure that the rating is accurate and up-to-date. The form will collect information on the vehicle, the weight rating, and the reason for the correction. This form may be used in a work environment, such as a garage or a dealership, where accurate weight ratings are crucial for maintenance, repair, and insurance purposes.
-
-This form should not be used to create new weight ratings, but rather to correct existing ones. If a user is unsure about the purpose of this form, they should check with their supervisor or the relevant department to confirm its use.
-
-Before proceeding, please make sure that you have the necessary permissions to access and correct the weight rating of the vehicle. If you're not authorized, do not complete this form.
-
-To ensure that the form is used correctly, please make sure to:
-
-*   Only correct existing weight ratings, do not create new ones.
-*   Use this form to correct weight ratings that are inaccurate or outdated.
-*   Clearly state the reason for the correction in the "correction_request" field.
-*   Ensure that the "reviewed_date" and "reviewed_time" fields are filled in when submitting the correction request.
-
-</thinking>
-
 # Vehicle Weight Rating Correction Form - Help Guide
 ## Purpose
 The Vehicle Weight Rating Correction Form is used to correct inaccurately or outdated weight ratings of vehicles. This form provides a structured way to update the weight rating of a vehicle, ensuring that the correction is properly documented and reviewed.

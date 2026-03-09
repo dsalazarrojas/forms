@@ -1,25 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding and filling out the "Children's Travel Experience Survey" form. 
-
-This form aims to collect information about a child's recent travel experience, including demographic details about the traveler, details about the trip, and feedback on various aspects of the travel experience. 
-
-Before filling out this form, ensure that you have all the necessary information and details about the trip ready. This form is designed to be completed by the child or a parent/guardian who accompanied them on the trip. 
-
-This form will ask for information on the child's personal details, trip details, and feedback on the travel experience. The questions are designed to be easy to understand and answer, and the form is intended to be completed in a few minutes. 
-
-Please note that some fields are not required, and you can skip them if not applicable. However, it's essential to answer all the required fields to provide a complete and accurate survey. 
-
-This form is intended to be completed once the trip is finished, and it will take you through a series of questions that will help us understand the child's travel experience. 
-
-Before we begin, please make sure you have all the necessary information and details about the trip ready. 
-
-Please also be honest in your answers, as your feedback will help us improve travel experiences for children in the future. 
-
-If you have any questions or concerns while filling out this form, feel free to ask. 
-
-We appreciate your participation and look forward to hearing about your child's travel experience. 
-</thinking>
-
 # Children's Travel Experience Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about a child's recent travel experience, including details about the trip and feedback on various aspects of the travel experience.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gauge the satisfaction of travelers about their recent trips. It's likely used by travel companies or tourism boards to gather feedback from customers to improve their services. The form is not a mandatory part of a standard check-in process, so it's probably not required for every single traveler. It's meant to be completed by those who are willing to provide feedback. The form is likely not duplicated across different customer segments, as it's specific to travel satisfaction.
-
-This guide will help users understand the purpose, completion process, and each field's meaning to fill out the Travel Satisfaction Survey form correctly and efficiently.
-</thinking>
-
 # Travel Satisfaction Survey - Help Guide
 ## Purpose
 The Travel Satisfaction Survey form is designed to gather feedback from travelers about their recent experiences. It helps travel companies to understand their customers' satisfaction levels, identify areas for improvement, and make data-driven decisions to enhance their services.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users requesting transportation-related services. The form is meant to capture details about the user's request, including the type of transportation category, a brief description of the service needed, and the tool assigned to fulfill the request. This form is an AI-generated adaptation of a generic transportation request form and does not contain any sensitive or proprietary information. 
-</thinking>
-
 # okm_form - Help Guide
 ## Purpose
 The okm_form is a transportation request form designed to collect information from users who are requesting transportation-related services. It aims to provide a standardized and structured way to gather the necessary details about the user's request.

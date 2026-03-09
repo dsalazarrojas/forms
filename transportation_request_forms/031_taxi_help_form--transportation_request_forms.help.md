@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from passengers about their transportation needs, specifically for taxi services. The form is used to capture details such as the type of service requested, the taxi driver preference, and the date of the request. This form is designed for passengers to provide their input for taxi service reservations.
-
-Before filling out this form, ensure that you are not duplicating your request. If you have previously submitted a request for the same purpose, it will be rejected. 
-
-</thinking>
-
 # taxi_help_form - Help Guide
 ## Purpose
 The taxi_help_form is designed to gather information from passengers for taxi service reservations. It is essential to provide accurate and clear information to ensure efficient processing of your request.

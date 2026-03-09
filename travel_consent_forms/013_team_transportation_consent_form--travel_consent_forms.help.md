@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from team members regarding their consent and details for team transportation, such as type, travel dates, and any additional information. The purpose of this form is to inform team members about their travel plans and to ensure they are aware of the expectations and requirements for the trip. Please use this form for team transportation consents only.
-</thinking>
-
 # Team Transportation Consent Form - Help Guide
 ## Purpose
 The Team Transportation Consent Form is a document that team members must complete to provide consent and details for team transportation. It is essential for team members to understand their travel plans, ensure a smooth travel experience, and comply with organizational requirements.

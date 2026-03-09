@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about a trip planning quote. The form is used by travel agents to gather details about a potential trip, including general information, client details, travel dates, departure and arrival points, duration, number of travelers, currency, price, travel agency, and additional information. The form is intended to be completed by the travel agent, and the collected data will be used to generate a quote for the trip. 
 
 # Trip Planning Quote Form - Help Guide

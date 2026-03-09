@@ -1,32 +1,3 @@
-<thinking>
-This form is designed for daily inspections of forklifts, which are crucial for ensuring the safety and efficiency of warehouse operations. The form is part of a standard operating procedure to check the forklift's readiness for use, identify any issues or malfunctions, and document maintenance tasks. This form aims to streamline the process of inspecting and maintaining forklifts, making it easier for operators to ensure the vehicle is in good working order.
-
-This form has been created with the following fields to gather relevant information:
-* Forklift horn is functioning correctly: Check if the forklift horn is working properly.
-* Forklift is securely fastened to the load: Ensure that the forklift is properly secured to the load.
-* All safety devices are in working order: Verify that all safety devices are functioning correctly.
-* All controls are functioning correctly: Check if all control mechanisms are working properly.
-* Check for any issues during the operation: Inspect the forklift during operation for any signs of malfunctioning.
-* Forklift is running smoothly: Check if the forklift is running smoothly.
-* All safety devices are functioning correctly: Verify that all safety devices are functioning correctly.
-* Controls are operating properly: Check if all control mechanisms are working properly.
-* Check for any issues after the operation: Inspect the forklift after operation for any signs of malfunctioning.
-* Forklift is parked correctly: Check if the forklift is parked correctly.
-* All safety devices are functioning correctly: Verify that all safety devices are functioning correctly.
-* Controls are in the correct position: Check if all control mechanisms are in the correct position.
-* Record maintenance issues here: Enter any maintenance issues found during the inspection.
-* Inspection Date: Enter the date of the inspection in the format MM/dd/yy.
-* Inspection Time: Enter the time of the inspection in the format HH:MM (24-hour format).
-* Add any further notes here: Enter any additional notes about the inspection.
-* Forklift Operator: Select the forklift operator conducting the inspection.
-* Assigned To: Select the department or team responsible for the forklift.
-
-This form is designed to be completed during the daily inspection of forklifts, and it is recommended to review and understand the form carefully before proceeding.
-
-Please note that some fields are required and should be filled out accordingly.
-
-</thinking>
-
 # Forklift Daily Inspection Checklist Form - Help Guide
 
 ## Purpose

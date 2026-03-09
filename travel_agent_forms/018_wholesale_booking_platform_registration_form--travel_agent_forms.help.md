@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for wholesale travel agencies to register with the platform, providing necessary contact and agency information, as well as details about their sales and travel practices. This form will help the platform's administrators verify the legitimacy and credibility of the wholesale agencies, ensuring they are compliant with the platform's terms and conditions. It's essential to fill out this form accurately and completely to avoid any potential issues or delays in the registration process. Please note that this form is not a one-time use form, and agencies may need to update their information periodically.
-</thinking>
-
 # Wholesale Booking Platform Registration Form - Help Guide
 ## Purpose
 This form is designed for wholesale travel agencies to register with the platform, providing essential information about their agency, contact details, and travel practices. By completing this form, agencies can ensure a smooth and efficient registration process.

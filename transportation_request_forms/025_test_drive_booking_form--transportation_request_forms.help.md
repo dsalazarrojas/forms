@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we'll need to understand its purpose and requirements. Upon reviewing the input schema, it appears that this form is for managing test drives, which involves coordinating test drives for customers. The form likely serves as a centralized platform for assigning test drives, updating test drive status, and managing customer communication. It may be used by sales teams or dealership staff to manage test drive requests from customers. The form's fields seem to be designed for collecting information about customers, test drive details, and status updates. This guide will explain each field's purpose and how to complete the form effectively.
-</thinking>
-
 # test_drive_booking_form - Help Guide
 ## Purpose
 The test_drive_booking_form is used to manage test drives for customers. It collects information about customers, test drive details, and status updates to facilitate coordination and communication between sales teams and customers.

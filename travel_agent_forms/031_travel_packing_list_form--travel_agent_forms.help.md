@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from travelers to prepare a comprehensive packing list for their trip. The form will ask for details about the destination, travel dates, mode of transportation, and other relevant information to create a tailored packing list.
-
-It's essential to note that this form is not designed for real-time travel agency operations but rather for creating a general packing list for personal use. 
-
-</thinking>
-
 # travel_packing_list_form - Help Guide
 ## Purpose
 The travel_packing_list_form is a tool designed to help you create a personalized packing list for your trip. It collects information about your destination, travel dates, transportation, and other relevant details to ensure you pack everything you need.

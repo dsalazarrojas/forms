@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information from vehicle inspectors for daily vehicle inspections. It is used to record the status of various components of a vehicle, including engine oil level, transmission oil level, brake status, tire status, suspension status, steering status, frame status, wheel status, body status, glass status, electrical system status, safety belt status, parking brake status, and other additional notes. This form is intended to be filled out by a vehicle inspector after conducting a daily inspection of a vehicle, and the information collected will be used to identify potential issues with the vehicle and schedule maintenance as needed.
 
 </thinking>

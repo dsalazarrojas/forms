@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information about routes that need to be priced, such as transportation costs, travel time, and contact details. The form is intended to be used by users to provide information about specific routes, including their own routes or routes they are responsible for pricing. This guide will help users understand what the form is for, how to complete it, and what each field means.
-
-The form is used to collect data that will be used to price transportation routes, so it's likely that users will need to fill out this form to submit their routes for pricing. Before starting, users should ensure that they have all necessary information about the route ready to fill out the form.
-
-This guide will cover each field in detail, so users can understand what is being asked and how to provide the correct information. Users should read the entire guide before starting to ensure they fill out all necessary fields correctly.
-
-</thinking>
-
 # Route Pricing Survey - Help Guide
 ## Purpose
 This form is used to gather information about transportation routes that need to be priced. It helps our team understand what routes are available and provides the necessary data to give an accurate price quote for each route.

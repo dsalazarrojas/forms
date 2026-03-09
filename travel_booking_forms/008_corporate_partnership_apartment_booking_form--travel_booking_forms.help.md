@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to facilitate corporate partnership apartment booking for employees. Corporate partnerships often require employees to book apartments for meetings and events, and this form is used to collect relevant information such as names, contact details, arrival and departure dates, purpose of visit, number of guests, and special requests. This form is used internally to ensure that the booking process is efficient and accurate. 
-
-</thinking>
-
 # Corporate Partnership Apartment Booking Form - Help Guide
 ## Purpose
 This form is used to book a corporate partnership apartment. It is intended to gather necessary information from the employee to facilitate the booking process.

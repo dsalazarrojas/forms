@@ -1,6 +1,3 @@
-<thinking>
-To confirm, the purpose of this form is to create a report of incidents involving transportation driver misconduct, likely to be used by a transportation management system to track and investigate such incidents. This form should only be completed by authorized users who have a clear understanding of the incident details, and it's best to complete one report per incident. Please avoid creating duplicate reports for the same incident. Ensure the information is accurate and up-to-date as this form serves as a record of transportation misconduct incidents.</thinking>
-
 # Transport Driver Misconduct Incident Report Form - Help Guide
 ## Purpose
 This form is used to report incidents involving transportation driver misconduct.

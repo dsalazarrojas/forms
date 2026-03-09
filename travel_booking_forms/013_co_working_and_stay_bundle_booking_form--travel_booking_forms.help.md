@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for travelers to book a co-working and stay bundle, which includes a combination of accommodation and workspace setup for a specific duration. The form aims to gather information about the traveler's preferences, needs, and requirements for their stay. To ensure accurate and efficient processing, please fill out the form completely and accurately. If you're unsure about any field, please ask for clarification. 
-
-This form is for new customers. If you have stayed with us before, please do not fill out this form. Instead, contact our customer support to inquire about availability and make a booking. 
-
-Please note that some fields are required to ensure a smooth and comfortable stay. Failure to fill out required fields may lead to delays or cancellations. 
-
-The form includes fields for traveler information, accommodation preferences, workspace requirements, and payment information. Please provide accurate and complete information to facilitate the booking process.
-</thinking>
-
 # Co Working And Stay Bundle Booking Form - Help Guide
 ## Purpose
 

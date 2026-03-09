@@ -1,27 +1,3 @@
-<thinking>
-This form is designed to collect travel information for Hajj preparation checklist. The form will help users input various details such as travel dates, accommodation, and travel agency information. The form is intended to gather all necessary information to ensure a smooth and safe Hajj experience for the pilgrims. Before proceeding, we need to ensure that this form is not duplicated by checking for existing entries in the system. 
-
-We will be using the following fields in this form: 
-
-- Travel Details
-- Pilgrims list
-- Pilgrims Details
-- Flight Details
-- Accommodation
-- Travel Insurance
-- Flight Number
-- Travel Agency
-- Travel Agent
-- Emergency Contact
-- Travel Date
-- Group Details
-- Flight Number 2
-- Travel Agency 2
-- Travel Agent 2
-
-We will explain each field in detail below.
-</thinking>
-
 # hajj_preparation_checklist - Help Guide
 ## Purpose
 The Hajj Preperation Checklist is designed to help users input travel and pilgrims details for a Hajj trip. 

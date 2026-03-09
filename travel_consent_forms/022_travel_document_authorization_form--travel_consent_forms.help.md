@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Travel Document Authorization Form - Help Guide
 ## Purpose
 The purpose of this form is to authorize parent/guardian permission for a child to travel, providing a clear and concise document that outlines the child's travel details and ensures their safety while abroad. This form ensures that all relevant information is collected to provide a comprehensive overview of the child's travel plans, including their travel dates, destination, and type of travel document.

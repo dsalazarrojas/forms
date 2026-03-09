@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Training Effectiveness Insight Survey - Help Guide
 ## Purpose
 This survey aims to gather your feedback on the effectiveness of our training programs. Your input will help us understand what works well and what areas need improvement, allowing us to refine our training initiatives and better serve our learners. Your participation is optional and anonymous. We want to ensure that you're not duplicating efforts by taking this survey if you've already provided similar feedback in the past. If you're unsure if this survey is relevant to your training experience, please refer to your training schedule or recent communication from your manager or L&D department.

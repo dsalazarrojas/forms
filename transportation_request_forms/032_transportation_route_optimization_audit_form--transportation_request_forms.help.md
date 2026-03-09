@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Transportation Route Optimization Audit Form is to collect information about a specific transportation route, including the origin and destination cities, travel date, route distance, travel time, travel speed, vehicle type, fuel type, and any additional notes about the route. This form will help identify potential areas for improvement in the route's efficiency and effectiveness.
-</thinking>
-
 # Transportation Route Optimization Audit Form - Help Guide
 ## Purpose
 The Transportation Route Optimization Audit Form is designed to gather data about a specific transportation route to identify opportunities for improvement in its efficiency and effectiveness.

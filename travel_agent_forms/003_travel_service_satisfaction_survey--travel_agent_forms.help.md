@@ -1,18 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a traveler's experience with a travel agency's service. The purpose of this form is to gather feedback and identify areas of improvement to enhance the quality of service provided by the travel agency. The information gathered will be used to refine the agency's services, improve customer satisfaction, and provide insights for future planning and development.
-
-The form will be used by travelers who have recently used the travel agency's service to book a trip or have had an interaction with a travel agent. It will help the agency to:
-
-* Identify areas of improvement in their service
-* Refine their travel arrangements and overall experience
-* Gather feedback on the performance of their travel agents
-* Improve customer satisfaction
-
-Please ensure that you have not filled out this form previously to provide new and unique feedback.
-
-</thinking>
-
 # Travel Service Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your recent experience with our travel agency's service. Please take a few minutes to answer the questions below and help us improve our services.

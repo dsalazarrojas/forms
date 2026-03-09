@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from students who are seeking math lesson help. It is meant to be used for internal purposes within an educational institution or organization. Please ensure that this form is not used for any other purpose. 
-
-This form has been generated based on public data and may not reflect any proprietary information or copyrighted material. 
-
-The fields are designed to be completed with real-time information, and the form's purpose should only be to aid in scheduling and providing math lesson inquiries. No sensitive information should be collected or transmitted through this form. 
-</thinking>
-
 # Math Lesson Inquiry Form - Help Guide
 ## Purpose
 The Math Lesson Inquiry Form is designed to gather essential details from students seeking math lesson help. This form helps in scheduling and providing timely assistance to students. 

@@ -1,7 +1,3 @@
-<thinking>
-The Travel Quote Request Form is used to gather information about a customer's travel preferences for a quote request. This information is used to provide an accurate and personalized quote. To prevent duplication, please only submit one quote request per customer. If you have any existing quote requests, you may not need to complete this form again.
-</thinking>
-
 # Travel Quote Request Form - Help Guide
 ## Purpose
 This form is used to gather information about a customer's travel preferences for a quote request. This information helps us provide an accurate and personalized quote.

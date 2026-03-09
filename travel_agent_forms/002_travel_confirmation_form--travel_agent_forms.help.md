@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather information about client reservations and confirm their travel arrangements. It appears to be used in an internal setting, likely within a travel agency or travel management system. The form's fields suggest that it's meant to capture details about client travel reservations, including reservation IDs, client names, travel dates, travel types, agents responsible for the travel, client contacts, and confirmation statuses.
 
 To avoid duplication, ensure that this form is only used when a new travel reservation needs to be confirmed or updated. If you're unsure about how to use this form, review the provided YAML field descriptions and follow the steps outlined below.

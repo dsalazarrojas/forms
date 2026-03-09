@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to register for a Mother's Day Cruise. The purpose of this form is to collect information necessary for the successful execution of the cruise event. The form fields are designed to gather personal details and preferences of the registrant, as well as travel specifics. Please ensure that the form is filled out accurately and thoroughly. Note that the form is not to be used for any other purpose than the specified Mother's Day Cruise.
-</thinking>
-
 # Mother's Day Cruise Registration Form Template - Help Guide
 ## Purpose
 This form is for registering for the Mother's Day Cruise event. It's essential to fill it out accurately to ensure a smooth and enjoyable experience.

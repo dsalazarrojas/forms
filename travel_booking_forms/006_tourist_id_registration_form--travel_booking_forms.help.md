@@ -1,9 +1,3 @@
-<thinking>...to clarify the form's purpose and non-duplication...
-
-The Tourist ID Registration Form is designed for tourists to provide information about their identity, travel plans, and contact details. This form ensures that tourists can register their identity and travel information accurately, which is crucial for the travel agency's records and security purposes. By submitting this form, tourists can provide the necessary information to facilitate a smooth and secure travel experience.
-
-</thinking>
-
 # Tourist ID Registration Form - Help Guide
 ## Purpose
 The Tourist ID Registration Form is designed for tourists to register their identity, travel plans, and contact details accurately.

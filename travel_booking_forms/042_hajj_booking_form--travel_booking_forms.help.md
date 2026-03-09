@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information from Hajj pilgrims for travel booking purposes. The form is likely used by travel agencies or tour operators to gather necessary details from pilgrims for a smooth and efficient booking process. The form's purpose is to streamline the booking process and ensure that all necessary information is collected accurately and securely.
-
-To ensure the form is filled out correctly, it is essential to note that all fields are text inputs, and the user should provide clear and concise answers to each question. The form may be used by Hajj pilgrims to book travel arrangements, accommodations, or other related services.
-
-Before filling out the form, it's a good idea to review the form carefully to ensure you have all the necessary information required. If you're unsure about any field, you can ask the administrator or customer support for clarification.
-
-The form has three pages: Enroller Information, Contact Information, and Attendance Details. Each page has a text input field, where you can provide your answers accordingly.
-
-When filling out the form, please be aware that some fields are not required, but it's still essential to fill them out accurately and completely if possible.
-
-The form is designed to be user-friendly and easy to navigate. If you experience any difficulties or have questions, please don't hesitate to contact the form administrators.
-
-</thinking>
-
 # hajj_booking_form - Help Guide
 ## Purpose
 This form is designed to collect information from Hajj pilgrims for travel booking purposes.

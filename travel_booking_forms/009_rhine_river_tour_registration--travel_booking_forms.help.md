@@ -1,10 +1,3 @@
-<thinking>
-This form is used to register a tour with the Rhine River tour operators. The purpose of this form is to collect essential information from customers about their tour preferences and requirements. This form will help us understand the number of travelers, their dates of interest, and any specific needs or requests. It is essential to provide accurate information to ensure that we can tailor the tour experience to meet your expectations.
-
-Please review the form carefully before filling it out to ensure you provide the necessary information for your tour registration.
-
-</thinking>
-
 # Rhine River Tour Registration - Help Guide
 ## Purpose
 This form is used to register a tour with the Rhine River tour operators. It is essential to provide accurate information to ensure that we can tailor the tour experience to meet your expectations.

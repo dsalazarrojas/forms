@@ -1,5 +1,3 @@
-<thinking>Internal Note: This form is used to handle travel security redress applications. It is intended for travel agents to provide information and supporting documents for redress cases. Please fill in the form completely and accurately to ensure efficient processing. Ensure that you are not submitting duplicate applications.</thinking>
-
 # Travel Security Redress Application Form - Help Guide
 ## Purpose
 This form is designed for travel agents to provide information and supporting documents for travel security redress applications. It is an essential step in the redress process and ensures that your submission is handled efficiently.

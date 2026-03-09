@@ -1,5 +1,3 @@
-<thinking>This form is a Travel Advisory Communication Form. It's intended to gather information from travelers for the purpose of sending travel advisories and keeping them informed about any risks or updates related to their travel destination. This form ensures that travelers are aware of any safety protocols, travel updates, and other important information that may affect their journey. It's essential to fill this form accurately and truthfully to receive timely and relevant information to ensure a safe and enjoyable trip.</thinking>
-
 # travel_advisory_communication_form - Help Guide
 ## Purpose
 The travel advisory communication form is designed to gather information from travelers to provide them with important safety updates and advisories for their destination. This form helps to ensure that travelers are aware of any risks or updates that may affect their journey.

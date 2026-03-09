@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning: This form is used for customers to submit a notification for towing services. It is crucial to ensure that the information provided is accurate and complete to prevent any delays or miscommunication during the towing process.
-The form has been designed to gather essential customer information, request details, service confirmation, pickup information, drop-off information, additional notes, phone number, email, and towing service details. The form requires the customer to select "Towing Service" as the service confirmation, making it a required field. The customer's phone number and email are also required fields.
-</thinking>
-
 # Towing Service Notification - Help Guide
 ## Purpose
 The Towing Service Notification form is designed for customers to submit a notification for towing services. This form is used to provide essential information about the towing service request, ensuring prompt and accurate handling of the request.

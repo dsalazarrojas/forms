@@ -1,16 +1,3 @@
-<thinking>
-The form purpose is to gather essential information from couples planning their honeymoon. The form collects details about the couple, their destination preferences, travel plans, budget, and personal preferences. This data will help travel agents or wedding planners to better understand the couple's requirements and provide personalized recommendations.
-The form is not intended for commercial use or to collect sensitive information. It's a tool for travel agents or wedding planners to create a customized honeymoon experience. The form is an original adaptation of a public survey topic and is released under CC BY 4.0. This means you are free to use, modify, and even sell forms derived from it, just give credit.
-The form has five fields, each with a specific purpose:
-*   **Couple Details**: This field is required and allows the couple to provide their names and contact information.
-*   **Destination Preferences**: This field is optional and allows the couple to mention specific destinations or types of destinations they are interested in.
-*   **Travel Details**: This field is required and allows the couple to describe their travel plans, including dates, duration, and activities.
-*   **Honeymoon Budget**: This field is required and allows the couple to specify their budget for the honeymoon.
-*   **Travel Preferences**: This field is required and allows the couple to mention any specific travel preferences they have, such as preferred modes of transportation or accommodation.
-
-The form is designed to be easy to fill out and understand, and the fields are self-explanatory. However, if you have any doubts or concerns, feel free to contact us at form@gic.mx.
-</thinking>
-
 # Honeymoon Planning Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather essential information from couples planning their honeymoon to provide a customized experience.

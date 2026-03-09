@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used for its intended purpose, and not for other purposes. This form is designed to gather information for dining arrangements at Walt Disney World. If you're looking for information on other Disney-related activities or events, please use the corresponding form.
-</thinking>
-
 # Walt Disney World DINING Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information for dining arrangements at Walt Disney World.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly to avoid duplication and to ensure that the end users understand its purpose. This form is intended to help users submit travel information for a trip, including booking details. To prevent duplication, let's verify that the form is only used for travel-related submissions.
-</thinking>
-
 # Dreamy Memory Makers - Help Guide
 ## Purpose
 The Dreamy Memory Makers form is designed to gather travel booking information from users. This form is intended for travel agency employees, travel agents, or anyone responsible for booking travel arrangements.

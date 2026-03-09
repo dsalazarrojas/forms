@@ -1,6 +1,3 @@
-<thinking>
-This form is for auditing in-flight service quality on airline flights. To ensure relevance, the form's content is focused on aspects that impact passenger experience and overall service quality. The form is designed to collect data on various aspects of flight service, from the initial greeting to the final departure. The form does not duplicate any existing forms and is intended to provide a comprehensive assessment of the service quality on a specific flight. The goal is to identify areas of improvement and provide valuable feedback for airlines to enhance their services.</thinking>
-
 # Airline In Flight Service Quality Audit Form - Help Guide
 ## Purpose
 This form is designed to collect data on the quality of service provided on airline flights. It covers various aspects of service, including crew presentation, service delivery, and overall experience. The information collected will help airlines identify areas for improvement and make necessary adjustments to enhance their services.

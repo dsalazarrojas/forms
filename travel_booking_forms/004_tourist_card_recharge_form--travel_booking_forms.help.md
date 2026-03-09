@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to collect information for tourist cards, which are documents that prove a person's nationality and identity. This form will help us verify the information of tourists who visit our country. We are asking for information such as first name, last name, date of birth, email, phone number, address, and various nationality-specific details like ID type, issue date, expiry date, issue authority, issue place, and renewal date. This form is intended for tourists who may not have a valid ID, or whose ID may have expired. It's essential to provide accurate information to ensure a smooth tourist experience.
-</thinking>
-
 # Tourist Card Recharge Form - Help Guide
 ## Purpose
 This form is designed to help tourists provide necessary information for their nationality card recharge. Please fill out this form accurately and completely to ensure a smooth process.

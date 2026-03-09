@@ -1,27 +1,3 @@
-<thinking>
-This form is used to collect feedback from guests who have participated in an anniversary trip, likely as part of a company-sponsored or employee-benefit program. The purpose of this form is to gather information about the guest's experience, including their demographics, trip details, and satisfaction with various aspects of the trip. This form is designed to be completed by the guest themselves, and the information collected will help the organization understand what they can improve on future trips.
-
-The form has several sections, each addressing a different aspect of the trip. The guest is expected to provide their name, email address, and phone number for follow-up communications. They are also asked to provide details about their trip, including the dates, destination, and type of package or tour booked. The guest will rate their experience in several areas, including accommodation, activities, romantic atmosphere, food, service, and overall satisfaction.
-
-To complete this form, the guest should:
-
-*   Start with the first page, which asks for their personal details.
-*   Provide their name and email address.
-*   If they have a phone number, they can enter it for follow-up communications.
-*   Proceed to the next page, which asks for details about their trip.
-*   Enter the dates of their trip.
-*   Specify the destination of their trip.
-*   Choose the type of package or tour they booked.
-*   Rate their experience with the activities and excursions.
-*   Rate their experience with the accommodation, including the room quality and cleanliness.
-*   Rate their experience with the amenities and facilities.
-*   Rate their experience with the romantic atmosphere and setting.
-*   Rate their experience with the food and dining options.
-*   Rate their experience with the staff service.
-*   Finally, rate their overall satisfaction with the trip.
-
-Each field is clearly labeled, and the guest should fill in the information as accurately and thoroughly as possible. If they have any issues or concerns, they can contact the organization for assistance.</thinking>
-
 # Anniversary Trip Feedback Survey - Help Guide
 ## Purpose
 This form is used to collect feedback from guests who have participated in an anniversary trip, to help us understand their experience and improve future trips.

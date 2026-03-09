@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to assist in booking a hotel stay. It is designed to gather essential information from customers, including travel details, customer information, and payment method. 
-It will serve as a template for various types of hotels, ensuring consistency in data collection. The form is not required for booking, thus allowing for optional completion. It's meant to provide an overview of the booking process.
-</thinking>
-
 # Hotel Booking Form Template - Help Guide
 ## Purpose
 This form is used for customers to book a hotel stay, providing essential details for a smooth and efficient booking process.

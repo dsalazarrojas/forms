@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to input inspection data for heavy equipment, which is crucial for ensuring the safety and efficiency of equipment operations. The form is intended to be completed by personnel inspecting heavy equipment, and the data collected will help in tracking the condition, maintenance, and safety aspects of the equipment. To ensure accuracy and consistency, please fill out the form carefully and thoroughly. If you're unsure about any of the fields, please refer to the explanations below or seek guidance from a supervisor or colleague.
-</thinking>
-
 # Heavy Equipment Checklist - Help Guide
 ## Purpose
 This form is used to collect inspection data for heavy equipment, including condition, maintenance, and safety aspects.

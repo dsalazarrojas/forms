@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # travel_agency_personal_information_form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The goal of the Cable Car Reservation Form is to allow customers to book a cable car service for travel, providing essential details for the reservation process. This form is crucial in ensuring that customers can reserve a cable car with confidence, and that the operator has the necessary information to prepare for their travel. It's worth noting that the customer will be asked for personal and travel-specific information, which will be used to tailor their reservation to their needs. This form will be used in conjunction with other systems, such as payment processing and booking management, to ensure a smooth travel experience.
-
-To avoid duplication, this form will only be completed once per travel request. If a customer has booked multiple cable car services, they will need to complete the form again for each separate travel event.
-
-</thinking>
-
 # Cable Car Reservation Form - Help Guide
 ## Purpose
 The Cable Car Reservation Form is designed to facilitate smooth travel planning and preparation for your cable car service. This form collects essential information from customers to ensure that their reservations are processed efficiently and effectively.

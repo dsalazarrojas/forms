@@ -1,5 +1,3 @@
-<thinking>**This form is for booking a tour reservation**. The purpose of this form is to collect personal and contact information from a customer, select tour packages, and provide optional feedback and comments. This form should only be filled out if the customer is booking a tour reservation. If the customer has already booked a tour reservation, please do not fill out this form.</thinking>
-
 # Tour Reservation Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers who want to book a tour reservation.

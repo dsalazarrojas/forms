@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to request a vehicle for official use within the organization. The purpose of the form is to submit a request for a vehicle, providing essential details such as vehicle ID, user ID, date and time required, and other relevant information. This form is intended to be completed by authorized personnel to request a vehicle for official use. It is meant to help track and manage vehicle requests efficiently. To avoid duplication of efforts, ensure that each request is unique and has a valid vehicle ID and user ID.
-</thinking>
-
 # vehicle_requisition_form - Help Guide
 ## Purpose
 The "vehicle_requisition_form" is designed to request a vehicle for official use within the organization. It helps to collect essential details such as vehicle ID, user ID, and other relevant information for efficient vehicle management.

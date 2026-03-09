@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication and non-relevant requests, this form is intended for users to request a car rental service. The form is designed to gather essential information from customers to ensure a smooth and secure car rental process. It's essential to fill out the form accurately to ensure that the rental details are met. Please note that some fields are mandatory, marked as "required" in the form.
-</thinking>
-
 # Car Rental Request - Help Guide
 ## Purpose
 The purpose of this form is to request a car rental service for a specific period. Fill out the form to provide us with your details, rental preferences, and other necessary information to facilitate a successful car rental experience.

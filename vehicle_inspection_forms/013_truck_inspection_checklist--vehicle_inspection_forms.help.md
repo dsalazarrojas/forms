@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for inspecting trucks for any potential issues. The form is intended to be a simple and straightforward checklist to ensure that all critical components of a truck are in good working condition.
-</thinking>
-
 # Truck Inspection Checklist - Help Guide
 ## Purpose
 This form is used to inspect a truck for any potential issues, ensuring that all critical components are in good working condition.

@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a booking form for a crew uniform fitting session. Its purpose is likely to collect information from crew members to book a fitting session, including contact information, fitting preferences, and submission details. To ensure the form is used correctly, we will provide a guide to help users fill it out.
-
-Before proceeding, please note that the form is designed to be completed by crew members and may require some familiarity with the industry or organization's specific terminology.
-
-</thinking>
-
 # Crew Uniform Fitting Booking Form - Help Guide
 ## Purpose
 

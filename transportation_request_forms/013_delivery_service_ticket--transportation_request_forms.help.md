@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help customers create a delivery service ticket that outlines the details of their delivery request. The form is used to capture information about the pickup and drop off locations, delivery date and time, and any special instructions or contact information for the delivery contact.
-</thinking>
-
 # Delivery Service Ticket - Help Guide
 ## Purpose
 The purpose of this form is to create a delivery service ticket that can be used to schedule and manage deliveries.

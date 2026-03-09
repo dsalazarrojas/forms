@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather information for the cold chain route audit order. This ensures that the audit process is initiated correctly, with essential data collected to facilitate the audit. This form aims to collect information from a variety of areas, such as the requester's name and contact information, the details of the route, and the urgency level of the audit. This form will likely be used for multiple purposes, including tracking and monitoring the status of audits, ensuring that each audit meets the required standards and compliance levels. Before completing this form, ensure the necessary information is up-to-date and accurate. Duplicate information is not needed, so please only submit the new data once you have confirmed that it's correct.</thinking>
-
 # Cold Chain Route Audit Order Form - Help Guide
 ## Purpose
 This form is intended for requesting a cold chain route audit order. The purpose of this form is to collect relevant information to enable the efficient execution of the audit process.

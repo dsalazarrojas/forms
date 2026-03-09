@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from drivers to meet the requirements of the Department of Transportation (DOT) for commercial vehicle operators. The form is used to gather details about the driver, their vehicle, and other relevant information to ensure compliance with regulatory requirements. This form should only be used by drivers who are authorized to operate commercial vehicles, and it is recommended that drivers review the information carefully before completing the form to ensure accuracy and completeness. Please note that this form is not intended to be a substitute for official government documentation, and drivers should consult with their employer or relevant authorities to confirm their qualifications and compliance status.
-</thinking>
-
 # Driver Qualification DOT Form - Help Guide
 ## Purpose
 The Driver Qualification DOT Form is used to collect information from drivers to meet the requirements of the Department of Transportation (DOT) for commercial vehicle operators.

@@ -1,10 +1,3 @@
-<thinking>
-The Sustainable Travel Hub Booking Form is designed to collect information from users who want to book a stay at a sustainable travel destination. The form is meant to be completed by individuals or groups traveling for leisure or business purposes. The form's primary goal is to understand their stay details, including arrival and departure dates, the number of guests, preferred accommodation type, and any special sustainability preferences.
-
-When designing this form, consider that the form fields should be clear and self-explaining, making it easy for users to understand what information is being requested and why.
-
-</thinking>
-
 # Sustainable Travel Hub Booking Form - Help Guide
 ## Purpose
 The Sustainable Travel Hub Booking Form is a simple and user-friendly form designed to collect essential details from users for booking a stay at a sustainable travel destination. This form is meant to accommodate both individual and group bookings for leisure or business purposes.

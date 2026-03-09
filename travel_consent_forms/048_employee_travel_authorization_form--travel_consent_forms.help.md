@@ -1,16 +1,3 @@
-<thinking>
-
-This form is designed to facilitate the process of authorizing employee travel, allowing employees to request and managers to approve or reject travel requests. It is intended to be used by employees and managers to ensure that all necessary information is gathered and approval is obtained before embarking on work-related travel.
-
-To ensure that travel authorization forms are completed correctly and to prevent duplication of effort, please make sure to follow these guidelines:
-
-* Only create a new travel authorization form when the travel purpose changes or when travel dates are updated.
-* Do not repeat travel requests if they are for the same destination, purpose, or dates.
-* Ensure that the employee's manager or supervisor is aware of and approves the travel request before proceeding.
-* Keep the form up-to-date with the latest travel information.
-
-</thinking>
-
 # Employee Travel Authorization Form - Help Guide
 ## Purpose
 

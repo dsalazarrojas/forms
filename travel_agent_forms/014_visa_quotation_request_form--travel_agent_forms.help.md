@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Visa Quotation Request Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by hotel staff or booking managers to collect information from guests about their upcoming stays at eco-friendly apartments. The form may be used to ensure that guests agree to certain policies, such as payment terms, cancellation policies, or other rules related to their stay. To avoid duplication, the form should not be used for booking confirmations or cancellations, but rather for initial bookings or updates to existing bookings. This form should also not be used for guests who are already registered and have a prior booking agreement in place. To ensure the form is used correctly, a validation system should be in place to check for duplicate bookings or existing agreements. 
-</thinking>
-
 # Eco Apartment Stay Booking Form - Help Guide
 ## Purpose
 

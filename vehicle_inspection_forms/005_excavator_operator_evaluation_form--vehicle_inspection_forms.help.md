@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to evaluate the performance of an excavator operator based on various key skills and attributes. The form aims to assess the operator's overall rating, communication skills, attention to details, work safety, teamwork, knowledge, leadership skills, adaptability, time management, decision making, problem solving, equipment condition, environmental concerns, documentation, reporting, continuous learning, quality of life, personal growth, safety, training, safety procedure, vehicle condition, work quality, and overall impression of the operator. This form is not intended for evaluation of specific events or incidents, but rather for general evaluation of the operator's performance over time.
-
-It is essential to note that the form is not intended to replace the existing evaluation processes or procedures in place for excavator operators. Instead, it should be used as a complement to existing processes to provide additional feedback and insights.
-
-The form is designed to be completed by the relevant stakeholders, such as supervisors or peers, who have had a chance to work with the operator in different contexts.
-
-Before completing the form, please make sure to:
-- Have had a chance to work with the operator in different contexts.
-- Consider the specific skills and attributes mentioned in the form.
-- Answer based on your personal experience and observations.
-- Be as specific as possible in your answers.
-- Avoid duplication of existing evaluation processes or procedures.
-</thinking>
-
 # Excavator Operator Evaluation Form - Help Guide
 ## Purpose
 ## How To Complete This Form

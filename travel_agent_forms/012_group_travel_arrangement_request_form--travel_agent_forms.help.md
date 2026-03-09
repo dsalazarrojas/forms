@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the Group Travel Arrangement Request Form. The form is designed to collect information from travelers regarding their group travel arrangements, including their contact details, trip preferences, and travel agent assignments. To ensure accuracy and efficiency in filling out this form, review the following sections carefully:
-</thinking>
-
 # Group Travel Arrangement Request Form - Help Guide
 ## Purpose
 The Group Travel Arrangement Request Form is used to collect information from travelers to facilitate efficient planning and arrangement of group travel. This includes gathering details about the travelers themselves, their travel preferences, and other relevant information to ensure a smooth travel experience.

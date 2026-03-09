@@ -1,9 +1,3 @@
-<thinking>
-This form is for booking a tutor appointment. It's intended for students to schedule appointments with tutors at their convenience. The form should not be used for any other purpose. 
-Please make sure to fill out this form correctly to avoid any misunderstandings. 
-If you're not sure about the form or have any issues, please contact form@gic.mx.
-</thinking>
-
 # Tutor Appointment Form - Help Guide
 ## Purpose
 This form is for booking a tutor appointment for students.

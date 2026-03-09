@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Travel Tour Operator Referral Form - Help Guide**
 ==============================================
 

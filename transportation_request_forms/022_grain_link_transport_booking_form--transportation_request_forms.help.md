@@ -1,7 +1,3 @@
-<thinking>
-This form is used to book transport for grain links. When booking transport, users are expected to provide their contact information, including name, phone number, and email. The form also captures details about the transport request, including the date it is scheduled.
-</thinking>
-
 # Grain Link Transport Booking Form - Help Guide
 ## Purpose
 This form is used to book transport for grain links.

@@ -1,20 +1,3 @@
-<thinking>
-To ensure that the form is completed correctly and that each field is filled in with the right information, please consider the following:
-
-This form is designed to guide users through a vehicle inspection process, ensuring that they check and report on various systems within a vehicle. The form is intended to be used by inspectors or technicians who need to inspect and record the status of different systems within a vehicle. Each field on the form is designed to collect specific information related to the vehicle's systems.
-
-Before starting the form, make sure that you are familiar with the options available in each field and what information is required. Some fields may be optional, but it's essential to fill them in if you have the necessary information.
-
-When completing the form, follow these steps:
-
-1.  Check each system on the vehicle and select the relevant options accordingly.
-2.  Fill in the correct answers for each system check.
-3.  If any issues are found, note them in the "Notes" field.
-4.  Attach any necessary files or documents to the form.
-5.  Review the submission records for any previous inspections.
-
-</thinking>
-
 # Vehicle Network Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to guide vehicle inspectors through a systematic check of a vehicle's systems, ensuring that all critical systems are inspected and reported on.

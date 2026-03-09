@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to collect information for soccer uniform orders. This form allows users to input their name, email, jersey size, team selection, payment method, payment amount, and other relevant details. The form will help the soccer team or organization to process and fulfill uniform orders accurately and efficiently.
 
 # Soccer Uniform Order Form - Help Guide

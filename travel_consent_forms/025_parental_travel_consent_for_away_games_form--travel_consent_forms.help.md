@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for obtaining travel-related information from parents/guardians of minors traveling away from home. This is a general template that can be adapted for various situations, such as school field trips, sports teams, or other events that take minors away from home. The form should only be used for travel that is not part of a regular school day or routine activities that parents/guardians are already aware of. This form helps ensure parents/guardians are informed and agreeable to their child's travel plans. The form will likely be used by school administrators, travel chaperons, or other authority figures to obtain the necessary consent from parents/guardians before allowing minors to travel. 
-
-Please note that the following fields are not explicitly required, but having the necessary information will improve the form's accuracy and usefulness.</thinking>
-
 # Parental Travel Consent For Away Games Form - Help Guide
 ## Purpose
 This form is designed to obtain travel-related information and consent from parents/guardians of minors who are traveling away from home.

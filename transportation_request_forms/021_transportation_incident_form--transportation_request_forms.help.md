@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Transportation Incident Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about transportation-related incidents. This form is designed to gather details such as incident date, type, vehicle type, location, and description to help with incident management and reporting.

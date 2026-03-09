@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect incident reports from various sources, including passengers and crew members, to document and track health-related incidents on cruise lines. The form aims to gather information about the incident's details, type, location, and impact on the passengers or crew. The collected data will help the cruise line's management and medical teams to assess the severity and potential risks associated with these incidents, allowing them to take necessary precautions and improve onboard health and safety measures.
-
-</thinking>
-
 # Cruise Line Health Incident Report Form - Help Guide
 ## Purpose
 

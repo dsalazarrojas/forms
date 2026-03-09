@@ -1,31 +1,3 @@
-<thinking>
-This form is used to register participants for a pilgrimage, which is a journey to a sacred or holy place. The form captures essential information about each participant, including their name, contact details, travel dates, accommodation preferences, and any special requests. The form is designed to be completed by the participant themselves, and it will help the organizers of the pilgrimage to prepare for the event.
-
-The form consists of 14 fields, which are divided into several sections. Here's a brief explanation of each field:
-
-*   **participant_name**: The name of the participant.
-*   **participant_email**: The email address of the participant.
-*   **travel_group**: The name of the travel group the participant is part of.
-*   **dates_attending**: The dates on which the participant will be attending the pilgrimage.
-*   **time_attending**: The time of day the participant will be arriving.
-*   **arrival_date**: The date of arrival for the participant.
-*   **departure_date**: The date of departure for the participant.
-*   **travel_type**: The type of travel arrangement (Single, Group, Family).
-*   **travel_reason**: A brief description of why the participant is traveling.
-*   **notes**: Any additional information or requests from the participant.
-*   **participant_contact_number**: The contact number of the participant.
-*   **assigned_user**: The ID number of the participant's assigned user.
-*   **assigned_tool**: The name of the participant's assigned tool.
-*   **travel_booking_status**: The status of the participant's travel booking (Not Started, In Progress, Completed).
-*   **accommodation_request**: Any accommodation requests from the participant.
-*   **accommodation_arrangement**: The accommodation arrangement for the participant.
-*   **travel_document**: Any required travel documents.
-*   **special_request**: Any special requests from the participant.
-*   **emergency_contact**: The name and contact information of the participant's emergency contact.
-
-Please note that this form is not for travel agents or tour operators but for the participants themselves. The participants should fill in the required information accurately to ensure a smooth and enjoyable pilgrimage experience.
-</thinking>
-
 # Pilgrimage Participation Registration - Help Guide
 ## Purpose
 This form is used to register participants for a pilgrimage event.

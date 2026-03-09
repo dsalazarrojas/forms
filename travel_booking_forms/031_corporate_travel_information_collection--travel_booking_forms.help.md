@@ -1,16 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "corporate_travel_information_collection" form, we need to consider the following:
-
-* The form is designed to collect information for corporate travel purposes, likely for employees who need to travel for work-related activities. 
-* The form seems to cover various aspects of travel, including travel details, employee information, and approval processes.
-* The form has multiple fields, each with specific options or types, which can be confusing for users who are not familiar with the format.
-* The form fields cover a wide range of information, from travel purpose and dates to approval status and contact information.
-
-The form's purpose is to collect necessary information for corporate travel, ensuring that employees can access the necessary resources and approval processes for their travel requirements.
-
-</thinking>
-
 # corporate_travel_information_collection - Help Guide
 
 ## Purpose

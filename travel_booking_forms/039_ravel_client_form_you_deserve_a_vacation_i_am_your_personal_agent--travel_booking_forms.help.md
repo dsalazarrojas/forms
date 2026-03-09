@@ -1,7 +1,3 @@
-<thinking>
-The form "ravel_client_form_you_deserve_a_vacation_i_am_your_personal_agent" is a travel booking form designed to gather information from customers. As a personal agent, I am your personal assistant for planning a vacation. This form is meant to collect essential details to make informed decisions and create a customized travel experience tailored to your preferences. To ensure that you receive the best possible service, please complete this form accurately and thoroughly.
-</thinking>
-
 # ravel_client_form_you_deserve_a_vacation_i_am_your_personal_agent - Help Guide
 ## Purpose
 This form is designed to gather information from customers to create a customized travel experience.

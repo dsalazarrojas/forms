@@ -1,7 +1,3 @@
-<thinking>
-We will first check if this form is a duplicate, and then proceed with explaining the form purpose and fields in the help guide structure as requested.
-</thinking>
-
 # disney_world_planning_and_booking_cheatsheet - Help Guide
 ## Purpose
 The Disney World Planning and Booking Cheatsheet form is designed to collect information from clients to plan and book their trips to Disney World. This form helps agents and travel planners to gather all necessary details in one place, making it easier to create personalized travel plans and ensure a smooth booking process.

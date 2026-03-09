@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation from participants after a training session. The purpose of this form is to gather information on the session's effectiveness, facilitator's performance, and overall participant experience. This form is intended for internal use within the organization and will help us evaluate and improve our training programs.
-
-Before starting, please ensure that you have completed all previous training sessions and are providing feedback for the correct session.
-
-This form is not intended for use by external parties. Each participant can only submit one response per training session.
-
-Please note that some fields may require a specific format or answer type. Ensure you understand the format and requirements before providing input.</thinking>
-
 # manikin_training_survey - Help Guide
 ## Purpose
 

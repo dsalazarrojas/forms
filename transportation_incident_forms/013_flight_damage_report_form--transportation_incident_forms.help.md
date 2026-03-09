@@ -1,17 +1,3 @@
-<thinking>
-
-To create an accurate and user-friendly help guide for the "flight_damage_report_form", I will review the form fields to understand the purpose and functionality of each field.
-
-Upon reviewing the form, I see that it is used to report damage to baggage during flights. The form has multiple sections and fields to collect information about the incident, including the type of incident, description of the incident, date and time of the incident, and more.
-
-The form is likely used by airline staff or passengers to report incidents where baggage is damaged during flights, and the submitted form will help identify and document the issues. This will allow airline staff to investigate and follow up on the incident effectively.
-
-To avoid duplication of effort, it's possible that this form is already being used in conjunction with another process or system, such as the "Damage report" system.
-
-Before creating the help guide, I will ensure that the guide is clear, concise, and easy to follow, and that each field is explained in a way that is easy to understand for the user.
-
-</thinking>
-
 # flight_damage_report_form - Help Guide
 ## Purpose
 The flight_damage_report_form is used to report damage to baggage during flights. This form helps identify and document incidents, allowing airline staff to investigate and follow up on the issues effectively.

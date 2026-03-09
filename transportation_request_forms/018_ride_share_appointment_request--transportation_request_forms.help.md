@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request a ride share appointment for a passenger or group of passengers to be picked up at a specific date and time. The form will be reviewed by a ride share service provider to ensure that all necessary information is accurate and up-to-date. Please make sure to complete all required fields to ensure a successful request.
-To prevent duplication of requests, it is recommended to only submit one request for each pickup date.
-</thinking>
-
 # Ride Share Appointment Request - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect passenger information for travel purposes. The form is used to gather contact and travel details from passengers. It is intended to be completed by passengers themselves, and the information collected will be used by travel agents or other authorized personnel to assist with travel arrangements. 
-
-Please note that this form is not affiliated with or endorsed by any form platform, and it is an original creation based on publicly available survey topic metadata. 
-
-The purpose of this form is to streamline passenger information collection, making it easier for travel agents or other authorized personnel to access necessary contact and travel details. This form is not intended to be used for any other purpose than what is described here. If you have any questions, concerns, or suggestions regarding this form, please reach out to form@gic.mx.
-</thinking>
-
 # Passenger Information Form - Help Guide
 ## Purpose
 The Passenger Information Form is designed to collect essential details from passengers for travel purposes. It consists of three sections: Passenger Information, Contact Information, and Travel Details.

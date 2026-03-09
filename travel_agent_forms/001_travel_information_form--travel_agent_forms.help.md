@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Travel Informationistency Form, which is designed to collect travel-related information for various purposes such as corporate business, events, meetings, or other travel types. To ensure the form is used correctly, let's confirm it will be used for its intended purpose and not for duplicate or unnecessary submissions.
-</thinking>
-
 # Travel Informationistency Form - Help Guide
 ## Purpose
 The Travel Informationistency Form is designed to collect information about an upcoming trip, including travel dates, destinations, and other relevant details.

@@ -1,7 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the Xstream Paycation Travel Booking Request Form. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each field.
-
-The purpose of this form is to gather information for travel booking requests. It's essential to ensure that the form is filled out correctly to avoid any issues with the booking process. Before starting, please review the form carefully and make sure you've filled it out accurately.</thinking>
-
 # Xstream Paycation Travel Booking Request Form - Help Guide
 ## Purpose
 The Xstream Paycation Travel Booking Request Form is used to gather information for travel booking requests. Please fill out this form accurately to ensure a smooth booking process.

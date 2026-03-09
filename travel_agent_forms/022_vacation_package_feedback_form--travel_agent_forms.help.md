@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their recent vacation packages. The form will likely be used by travel agencies to evaluate the quality of their services and make improvements accordingly. To avoid duplication, it's essential to ensure that each customer submits only one feedback form per vacation package.
-
-When completing this form, please provide as much detail as possible, especially for fields marked as required. This will help travel agencies understand your experience and provide better services in the future.
-
-Please ensure that you fill in all required fields, which are marked with an asterisk (\*). If a field is not required but still relevant to your experience, please feel free to provide feedback.
-
-Before starting, please review the form carefully and ensure that you have all the necessary information to complete it accurately. If you need help or clarification on any field, please do not hesitate to ask.
-
-Now, please complete the form according to the instructions below:
-</thinking>
-
 # Vacation Package Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to provide feedback on your recent vacation package experience with [Travel Agency Name]. Your feedback will help them understand what they did well and what areas need improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stranded Citizen Transportation Request Form - Help Guide
 
 ## Purpose

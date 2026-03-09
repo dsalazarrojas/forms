@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended for end-users who will be filling out the Cruise Cancellation Claim Form. The form is designed to collect information for travel agencies to submit claims for cancelled cruises. To ensure you provide accurate and complete information, please review this guide carefully before filling out the form. 
 
 Before filling out this form, make sure to have the following:

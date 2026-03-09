@@ -1,10 +1,3 @@
-<thinking>
-The "Flight Arrival Report Form" is a digital form used to collect information about flights and their arrival status. This form is useful for tracking and reporting arrivals, providing valuable data for analysis and decision-making within the transportation industry. This form should only be filled out for actual flights, and it's not intended for hypothetical or test purposes. Please ensure that you're using this form for its intended use case.
-
-Before filling out this form, make sure you've already reported the flight arrival if it has already been done.
-
-</thinking>
-
 # Flight Arrival Report Form - Help Guide
 ## Purpose
 The Flight Arrival Report Form is used to report flight arrivals, providing essential information about the flight's status, details, and any notable events.

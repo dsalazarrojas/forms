@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from travel agents about their travel recommendations. The purpose of this form is to gather data about the travel agent's name, location, experience, and other relevant details. This form should only be used for travel-related activities, and travel agents should not be required to fill out this form if they have already provided similar information in the past.
-</thinking>
-
 # travel_agent_recommendation_form - Help Guide
 ## Purpose
 This form is used to collect information from travel agents about their travel recommendations. It's used to gather details such as travel agent name, location, experience, and other relevant information.

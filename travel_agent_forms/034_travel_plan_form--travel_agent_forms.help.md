@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from travel agents to facilitate their travel planning process. The form has 6 fields and is divided into one page. The fields include the travel agent's name, email, phone number, location, and the type of travel arrangement they are planning. The form is intended for travel agents to provide their information so that customers can contact them with travel-related inquiries. This form is not intended for customers to fill out themselves. The form does not have any duplicate fields, but it's always a good idea to double-check the form before submitting it to ensure all required fields are filled out correctly.</thinking>
-
 # travel_plan_form - Help Guide
 ## Purpose
 The travel_plan_form is a tool for travel agents to provide their information so that customers can contact them with travel-related inquiries.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about travel advisories and protocols for travelers. It is meant to be completed by travelers or their representatives to provide updates on their travel plans, safety information, and any other relevant details. This form is part of an internal process to track and communicate travel-related data. Please make sure this form is not completed multiple times for the same traveler. 
-
-</thinking>
-
 # Travel Advisory Communication Form - Help Guide
 
 ## Purpose

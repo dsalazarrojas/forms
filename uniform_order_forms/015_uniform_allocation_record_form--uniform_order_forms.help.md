@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information related to the allocation of uniforms. The purpose of this form is to gather details about the uniforms being allocated, including their general information and submit details. It is intended to be used by administrators or staff members to record and track uniform allocations. The form has three pages, each with a single field that requires text input.
-</thinking>
-
 # Uniform Allocation Record Form - Help Guide
 ## Purpose
 The Uniform Allocation Record Form is used to collect and track information about uniforms being allocated to staff members.

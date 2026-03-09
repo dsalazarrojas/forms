@@ -1,9 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Ground Transportation Request" form, we should first understand its purpose and the expected behavior of users who will be interacting with it. This form seems to be designed for users to request ground transportation for a specific purpose, likely for employees or staff, and possibly for official events or meetings. It includes fields for selecting the vehicle type, start and end locations, start and end times, vehicle count, and other relevant details.
-
-Before creating the guide, we should check if the form is meant for single or multiple requests, whether it's for personal use or for official company purposes, and if there's any specific restrictions or rules that apply to the form. This will help us create a more informed and accurate guide for users.
-</thinking>
-
 # Ground Transportation Request - Help Guide
 ## Purpose
 The Ground Transportation Request form is a tool used to request ground transportation for official purposes or personal use. It helps users to schedule transportation in advance, specifying the type of vehicle, start and end locations, and other necessary details.

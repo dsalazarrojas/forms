@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information about incidents that occur during travel agency operations. The purpose of this form is to provide a standardized way to report and track incidents, allowing travel agencies to quickly gather necessary data for investigation and resolution. The form includes fields for basic incident information (date, time, location, description), as well as fields for incident status, type, cause, and reporter. The form also has options for investigating and resolving incidents. 
-
-</thinking>
-
 # travel_agency_incident_form - Help Guide
 ## Purpose
 This form is used by travel agencies to report and track incidents that occur within their operations. The form helps agencies to gather and document incident information in a standardized way.

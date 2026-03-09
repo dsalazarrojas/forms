@@ -1,14 +1,3 @@
-<thinking>
-This form is an excavation safety checklist, designed for ensuring that the workplace meets safety standards and regulations. Before we dive into the details, let's verify that this form is relevant and not a duplicate.
-
-This form appears to be a comprehensive checklist for excavation sites, covering various aspects such as site conditions, safety measures, and environmental factors. It's possible that a similar form exists within the company or organization, but the provided YAML structure suggests that this form is an original creation and not a copy or extract from another platform.
-
-To confirm, let's review the fields and their descriptions to ensure they align with industry standards and best practices for excavation work. If any discrepancies arise, it's possible that the form might need adjustments to meet specific requirements.
-
-Assuming the form is well-designed, let's move on to creating a user-facing help guide to assist end-users in understanding its purpose and completing it accurately.
-
-</thinking>
-
 # Excavation Safety Checklist - Help Guide
 ## Purpose
 The excavation safety checklist is a critical document used to ensure that the excavation site meets the required safety standards and regulations. This form is designed to guide workers, site managers, and inspectors in identifying potential hazards and implementing necessary measures to prevent accidents and ensure a safe working environment.

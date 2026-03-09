@@ -1,5 +1,3 @@
-<thinking>This form is a part of a travel booking process. It is designed to collect information from customers about their sales inquiries. The form has a total of 5 fields: customer name, customer email, message, customer phone, and travel date. The travel date field is used to capture the date on which the customer is planning to travel. This form is meant for sales inquiries only, not for booking actual travel tickets.</thinking>
-
 # Sales Email Form - Help Guide
 ## Purpose
 This form is used to capture sales inquiries from customers, allowing the sales team to reach out to customers and provide them with travel options based on their interests.

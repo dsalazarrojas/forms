@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from parents or guardians to purchase Girl Scout uniforms for their children. This form helps to streamline the uniform ordering process and ensures that the correct uniform is ordered for each child. The form is used for both internal and external purposes, such as tracking customer orders and managing inventory.
-</thinking>
-
 # Girl Scout Uniform Order Form - Help Guide
 ## Purpose
 This form is used to collect information from parents or guardians to purchase Girl Scout uniforms for their children.

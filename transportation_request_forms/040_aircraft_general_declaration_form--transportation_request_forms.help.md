@@ -1,25 +1,3 @@
-<thinking>
-This form is part of the "transportation_request_forms" category, which likely deals with forms related to travel or cargo transportation. The purpose of this form is to gather information about an aircraft's flight details, crew, and cargo. The form is called the "Aircraft General Declaration Form" and appears to be designed for use by airlines, airports, or other organizations handling air travel or cargo.
-
-Given the fields included in the form, it seems to be used for various purposes such as:
-
-* Gathering flight details like flight number, departure and arrival airports, departure and arrival times, and flight date.
-* Collecting information about the aircraft, crew, and cargo, including aircraft type, registration number, operator name and address, and crew count, passengers count, and cargo weight.
-* Confirming the presence of certain documents on board, such as licenses, certificates, and logs.
-* Indicating the presence of mail, dangerous goods, and certain types of cargo.
-
-The form seems to be comprehensive and covers various aspects of aircraft operations. However, the exact use case and context in which this form is used may vary.
-
-To ensure that the form is completed correctly and consistently, it's essential to clarify the following:
-
-* The form requires specific flight details like flight number, departure and arrival airports, and departure and arrival times.
-* Certain fields like cargo weight and total persons on board are optional but required for specific purposes.
-* Select fields like crew licenses, dangerous goods, and health documents require specific options to be selected.
-* Fields for commander signature, officer signature, and other fields requiring signatures or confirmations must be completed carefully.
-* The form includes various options for different cargo types.
-
-Please review the form's purpose and context to ensure that this guide is relevant and accurate.</thinking>
-
 # Aircraft General Declaration Form - Help Guide
 ## Purpose
 This form is used to collect information about an aircraft's flight details, crew, and cargo. It is designed for airlines, airports, or other organizations handling air travel or cargo.

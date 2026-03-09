@@ -1,11 +1,3 @@
-<thinking>
-Form Purpose:
-The Online Immigration Declaration Form is used to capture essential information about an individual's travel, including their travel team, date, reason, arrival time, duration, travel document, contact person, phone, email, and location.
-This form is used internally within the organization to process travel requests and ensure that all necessary information is collected.
-It is essential to fill out the form accurately and completely to ensure that the travel request is processed correctly.
-Please note that this form is not a public form and is only accessible to authorized personnel within the organization.
-</thinking>
-
 # Online Immigration Declaration Form - Help Guide
 ## Purpose
 The Online Immigration Declaration Form is used to collect information about an individual's travel details for internal processing.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to help travel agents generate a packing list for customers based on their trip details. The form collects information about the trip, including travel dates, cruise type, departure airport, flight number, ship name, cabin type, and travel documents. This data is then used to create a suggested packing list for the customer, taking into account their specific trip requirements and preferences.
-
-This form should not be used for creating actual flight bookings or reservations. Instead, it should be used as a tool for travel agents to generate a packing list for their customers, which can then be reviewed and personalized by the agent.
-
-The form does not require any specific technical knowledge or expertise, but it does require attention to detail and an understanding of the customer's needs and preferences.
-
-</thinking>
-
 # Travel Agency Template Cruise Packing List Generator - Help Guide
 ## Purpose
 The Travel Agency Template Cruise Packing List Generator is a tool for travel agents to create a suggested packing list for their customers based on their trip details.

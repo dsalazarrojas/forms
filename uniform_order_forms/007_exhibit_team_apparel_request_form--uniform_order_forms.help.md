@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Exhibit Team Apparel Request Form - Help Guide
 
 ## Purpose

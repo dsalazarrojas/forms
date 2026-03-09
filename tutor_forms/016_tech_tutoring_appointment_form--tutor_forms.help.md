@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students who are requesting a tech tutoring session. The form is meant to be used by students to schedule a session with a tutor, and the information collected will be used by the tutoring service to assign a tutor and schedule the session. This form should only be used by students who are requesting a tech tutoring session, and not for other purposes such as requesting academic advising or other services. 
-</thinking>
-
 # Tech Tutoring Appointment Form - Help Guide
 ## Purpose
 The Tech Tutoring Appointment Form is used to collect information from students who are requesting a tech tutoring session. This form helps the tutoring service to assign a tutor and schedule the session.

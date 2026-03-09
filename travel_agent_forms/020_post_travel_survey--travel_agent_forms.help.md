@@ -1,7 +1,3 @@
-<thinking>
-This is a form for gathering information from travelers after they have completed a trip. It is meant to be used by travel agents to gather feedback on their travel experiences and to ensure that the agent is meeting the needs of their clients. This form should only be used for travelers who have recently completed a trip, and it is not intended for use by travelers who are currently booking or planning a trip. It is also important to note that this form is not meant to be used in conjunction with any other form that is used for trip planning or booking.
-</thinking>
-
 # Post Travel Survey - Help Guide
 ## Purpose
 This form is designed to gather information from travelers after they have completed a trip. Its purpose is to help our travel agents understand their strengths and weaknesses, and to provide feedback that can help us improve the services we offer.

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the HOV Lane Toll Payment Form. This form is used to collect details about a trip, including payment method, trip details, vehicle information, and more. The form will help users to provide accurate and complete information for toll payments.</thinking>
-
 # HOV Lane Toll Payment Form - Help Guide
 ## Purpose
 The HOV Lane Toll Payment Form is designed to collect information about your trip, including payment method, trip details, and vehicle information. This form is used to facilitate accurate and efficient toll payments.

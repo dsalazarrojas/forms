@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for ordering uniforms for a sports team. It's intended for teams to collect contact information, team details, player lists, order details, and shipping instructions. The form is meant to be used by team managers or administrators to gather the necessary information from team members or customers to process and fulfill uniform orders. Please ensure that you're using this form in an appropriate context and not duplicating efforts with existing systems.
-</thinking>
-
 # sublimated_uniform_order_form - Help Guide
 ## Purpose
 The sublimated_uniform_order_form is a form designed for sports teams to order uniforms. It helps teams collect necessary information from team members or customers to process and fulfill uniform orders efficiently.

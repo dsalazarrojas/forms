@@ -1,12 +1,3 @@
-<thinking>
-This form is for inspecting vehicles, and the fields are intended to gather information about the vehicle's condition, inspection results, and other relevant details. Before proceeding, please ensure you're familiar with the vehicle inspection process and the specific requirements for this form.
-
-To avoid duplication, please check if a similar form already exists in your records before attempting to complete this one. If you have any further questions or concerns, please don't hesitate to reach out to your supervisor or support team.
-
-Please note that the form is not intended to be used as a substitute for a detailed vehicle inspection report. It's a simplified form to gather basic information and inspection results.
-
-With that said, let's dive into the form's fields and explanations.</thinking>
-
 # Dot Inspection Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for travelers who want to share their experiences with the travel agency. The form is meant to collect feedback from customers to improve the agency's services. However, we need to ensure that this form is used only by those who have indeed traveled with the agency. To prevent duplication of effort, we should only allow users who have submitted previous forms to fill out this one.
-</thinking>
-
 # Travel Agency Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers who have traveled with the agency. Please fill out this form to share your experience and help us improve our services.

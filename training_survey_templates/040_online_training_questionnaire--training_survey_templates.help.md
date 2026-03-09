@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that this online training questionnaire is completed only once for each user, and not duplicated, by checking for duplicate user input in the database. We also need to ensure that users have a chance to provide accurate and comprehensive information about their medical history, current medical conditions, medications, allergies, and other relevant details. This form is a critical tool for healthcare professionals to gather necessary information from patients to better understand their health status and provide optimal care.</thinking>
-
 # online_training_questionnaire - Help Guide
 ## Purpose
 This form is used to gather information from users about their general information, physical activity, sleep habits, medical conditions, medications, allergies, and emergency contact information. This information is crucial for healthcare professionals to understand the user's health status and provide personalized care.

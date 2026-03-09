@@ -1,11 +1,3 @@
-<thinking>
-This form is used by youth staff to provide feedback on training sessions they have attended. The purpose of this form is to gather valuable insights from staff to improve the quality of future training sessions. By understanding what worked well and what didn't, we can adjust our training strategies to better meet the needs of our youth staff.
-
-To ensure that the feedback provided is relevant and actionable, this form is designed to be completed by staff who have attended a training session. It is not intended to be used for general feedback or suggestions without a specific training context.
-
-Before completing this form, please make sure that you have attended a training session and are providing feedback on that specific session.
-
-</thinking>
 # Youth Staff Training Feedback - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from youth staff on their training experience. This feedback will help us improve the quality of our training sessions and better meet the needs of our staff.

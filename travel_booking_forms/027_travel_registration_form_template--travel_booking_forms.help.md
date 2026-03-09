@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect personal and travel-related information from users. The purpose of this form is to gather essential details about the individual's travel plans and preferences. The form is divided into three sections: Personal Information, Travel Information, and Travel Preferences.
-This form is likely to be used by a travel company or organization to collect relevant information from users for their travel needs. It is essential to ensure the accuracy of the information provided to ensure a smooth and enjoyable travel experience.
-</thinking>
-
 # travel_registration_form_template - Help Guide
 ## Purpose
 The travel registration form is designed to collect personal and travel-related information from users.

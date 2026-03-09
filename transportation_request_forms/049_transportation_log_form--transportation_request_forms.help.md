@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be a simple transportation log form to record details of trips made by vehicles. This will help users track vehicle movements, identify potential issues and optimize routes. There are no duplicate fields or overlapping information. Please provide accurate and relevant information in all fields as they are all optional and will not be used to generate any critical information. 
-
-</thinking>
-
 # Transportation Log Form - Help Guide
 ## Purpose
 The transportation log form is used to record details of trips made by vehicles. This form is intended to help users track vehicle movements, identify potential issues, and optimize routes.

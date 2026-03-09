@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture information from a customer or agent requesting to extend their travel package. It is intended to be used by travel agents to gather details about the package being extended and the customer's request. The form should only be filled out by customers or agents who have already been assigned a travel package.
-
-</thinking>
-
 # Travel Package Extension Form - Help Guide
 ## Purpose
 The Travel Package Extension Form is used by customers or agents to request an extension to their travel package. This form helps to gather necessary information to process the extension request efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect sales information and travel-related data for the Chirag sales team. The purpose of this form is to gather necessary details for sales and travel planning purposes. The form consists of four fields: sales_form_chirag, travel_booking_form, travel_details, and travel_date. Each field is not required, but filling out all of them would likely be necessary for a complete submission. This form does not seem to be duplicating any other forms in the current database.
-</thinking>
-
 # Sales Form Chirag - Help Guide
 ## Purpose
 This form is used to collect sales information and travel-related data for the Chirag sales team.

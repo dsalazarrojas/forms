@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Weekly Vehicle Inspection Form - Help Guide
 ## Purpose
 The Weekly Vehicle Inspection Form is used to record the details of a vehicle's condition, including its make, year, and other relevant characteristics. This form is designed to help fleet managers and administrators keep track of the vehicle's condition over time and identify any potential issues that may arise.

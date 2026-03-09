@@ -1,12 +1,3 @@
-<thinking>
-We are creating a help guide for end users to understand how to use the "Rail Ticket Booking Form". To ensure relevance, let's review the form's purpose and fields.
-
-The Rail Ticket Booking Form is designed to book and manage train travel reservations. It will help users to input reservation details such as reservations dates, passenger information, and travel dates. The form will be useful for travel agents or staff members who need to book or update train travel reservations.
-
-Before we begin, let's ensure that the form is not duplicated or unnecessary. We will check if the form is being used for other purposes or if there are any similar forms that serve the same purpose. Once confirmed, we can proceed with creating the help guide.
-
-</thinking>
-
 # Rail Ticket Booking Form - Help Guide
 ## Purpose
 The Rail Ticket Booking Form is used to book and manage train travel reservations.

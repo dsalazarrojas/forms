@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the distribution route optimization registration process. This form will help us understand the user's needs for transportation and delivery. It's essential to ensure that the information provided is accurate and complete to enable efficient route optimization. Please check that you have not filled out this form before, as duplicates can cause confusion and impact the optimization process. If you're not sure about any of the fields, please feel free to ask for clarification.
-</thinking>
-
 # Distribution Route Optimization Registration Form - Help Guide
 ## Purpose
 This form is for registering a new distribution route. It will help us optimize the route for efficient delivery.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a declaration form related to traveling with e-cigarettes, which is a sensitive topic with varying laws and regulations across different regions. To avoid duplication and non-relevance, I'll assume the form is for travelers to declare their e-cigarette possession and usage during their trip, possibly for customs or transportation purposes. The form might be used by airlines, transportation services, or travel agencies to gather information from travelers.
-</thinking>
-
 # e_cigarette_carry_on_declaration_form - Help Guide
 ## Purpose
 This form is designed to gather information from travelers regarding their e-cigarette possession and usage during their trip. This data is likely used by airlines, transportation services, or travel agencies to ensure compliance with relevant laws and regulations.

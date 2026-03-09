@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect flight information from students for a trip, likely for a school or academic purpose. The form is not affiliated with any form platform, but rather an original creation using public survey topic metadata. It's intended to be used for internal purposes, not for commercial use. I'm assuming the purpose is to gather student flight details, but if it's for something else, please let me know. I'm also assuming the form is not meant for high-risk or sensitive data.
-</thinking>
-
 # Student Trip Flight Information - Help Guide
 ## Purpose
 This form is designed to collect flight information from students for a trip, typically for school or academic purposes.

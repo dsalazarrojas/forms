@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the effectiveness of a dog training program. It is intended for use by dog trainers, owners, or animal behaviorists to assess the progress of a dog during training. This form should not be used to assess the effectiveness of a medical treatment or a physical therapy program. The information collected will be used to identify areas of improvement and make data-driven decisions to refine the training program.
-</thinking>
-
 # Dog Training Evaluation Form - Help Guide
 ## Purpose
 The Dog Training Evaluation Form is a tool used to assess the progress and effectiveness of a dog training program. It collects information about the dog's behavior, training goals, and the owner's information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for booking a helicopter tour with our company. The purpose of this form is to collect contact information and tour details from users. This guide will help you understand how to fill out the form correctly to avoid any issues with your booking.
-</thinking>
-
 # Helicopter Tour Reservation Form - Help Guide
 ## Purpose
 This form is for booking a helicopter tour with our company. Please fill out the form carefully to ensure that we have all the necessary information to process your request.

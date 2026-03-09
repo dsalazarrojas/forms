@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # post_trip_report_form - Help Guide
 
 ## Purpose

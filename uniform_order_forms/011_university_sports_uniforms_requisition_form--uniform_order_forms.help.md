@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request new sports uniforms from the university for a team. It is used by team members or team administrators to provide information about their uniform needs. This form ensures that the uniform requests are properly documented and communicated to the relevant authorities, making it easier to fulfill the requests. This form should only be used for genuine uniform requests and not for duplicate or unnecessary submissions. Please make sure to fill out the form accurately and completely.
-
-</thinking>
-
 # University Sports Uniforms Requisition Form - Help Guide
 ## Purpose
 This form is used to submit requests for new sports uniforms for your team. Please use it to provide all necessary information about your team's uniform needs.

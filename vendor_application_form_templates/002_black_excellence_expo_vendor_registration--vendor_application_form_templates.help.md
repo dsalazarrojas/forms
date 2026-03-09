@@ -1,7 +1,3 @@
-<thinking>
-The Black Excellence Expo Vendor Registration form is designed to collect essential information from vendors who wish to participate in the Black Excellence Expo. This form helps the event team understand the vendor's business details, contact information, and requirements for the event. The form is crucial for ensuring that vendors have a smooth and successful experience at the expo, and that the event team can efficiently communicate with and accommodate their needs.
-</thinking>
-
 # Black Excellence Expo Vendor Registration - Help Guide
 ## Purpose
 This form is intended for vendors who want to participate in the Black Excellence Expo. It helps us understand your business and ensure a smooth experience for both you and our event team.

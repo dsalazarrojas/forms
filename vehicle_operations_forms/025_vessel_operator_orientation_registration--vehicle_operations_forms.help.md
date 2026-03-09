@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vessel Operator Orientation Registration - Help Guide
 
 ## Purpose

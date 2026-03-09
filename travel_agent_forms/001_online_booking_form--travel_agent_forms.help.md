@@ -1,7 +1,3 @@
-<thinking>
-We can assume that this form is used by travel agents to provide detailed information about tours and travel services. The form likely serves as a template or template engine to generate a customized form for travel agents to input information about their tours, services, and other travel-related details. We can infer that the form is designed to capture various aspects of a tour, such as its name, location, start and end dates, transportation options, and other relevant details. However, without further context, it's difficult to determine the exact purpose of the form and how it might be used. We will proceed with creating the help guide assuming this context is correct.
-</thinking>
-
 # Prophets - Help Guide
 ## Purpose
 This form is designed for travel agents to input information about tours and travel services. It captures details such as tour name, location, dates, and other relevant information.

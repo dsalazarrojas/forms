@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # BPT Booking Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for the booking of transportation requests. It is used to provide a clear and accurate understanding of the customer's needs for efficient delivery and pickup services.

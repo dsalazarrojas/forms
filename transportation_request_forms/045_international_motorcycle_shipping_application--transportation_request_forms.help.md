@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # International Motorcycle Shipping Application - Help Guide
 ## Purpose
 This form is designed to collect information from customers interested in shipping their motorcycles internationally. It gathers details about the motorcycle, contact information, shipping instructions, payment details, additional services, terms and conditions, and other required documents to facilitate the shipping process.

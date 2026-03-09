@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This block contains an internal reasoning and relevance check for the form purpose and fields.
 
 *   The purpose of this form is to collect information from motor carriers for registration purposes. 

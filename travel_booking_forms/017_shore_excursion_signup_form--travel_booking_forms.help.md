@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users signing up for a shore excursion, which is a type of guided tour or activity offered on a cruise ship. The purpose of this form is to capture relevant details from users to ensure they are correctly signed up for the excursion they have chosen. The form is divided into four sections: User Information, Contact, Excursion Info, and Payment Information. Each section is meant to collect specific details that will help the excursion organizers to process the user's booking.
-
-</thinking>
-
 # Shore Excursion Signup Form - Help Guide
 ## Purpose
 The shore excursion signup form is designed to collect information from users who want to sign up for a guided tour or activity on a cruise ship. This form helps us understand who is booking the excursion and ensures that they are correctly signed up for the chosen activity.

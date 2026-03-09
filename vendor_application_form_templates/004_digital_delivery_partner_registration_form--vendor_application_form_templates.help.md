@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for a digital delivery partner registration, where users can provide their personal and business information, vehicle details, and other relevant data. It's meant to be filled out by delivery partners who want to be part of the platform's delivery network.
-
-Before proceeding, please check if you've already completed this form. If you have, you might be able to use the existing information or create a new partner registration.
-
-Please note that this form is not for internal use, it's intended for end-users who will be interacting with the platform.
-
-</thinking>
-
 # digital_delivery_partner_registration_form - Help Guide
 ## Purpose
 This form is a digital delivery partner registration form. It's designed for partners who want to be part of the platform's delivery network. Fill out this form to provide necessary information about yourself and your business.

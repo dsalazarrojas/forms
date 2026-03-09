@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from trainees after a corporate training session. The purpose of the form is to understand the trainee's experience, satisfaction, and any areas for improvement. This form should be completed by the trainees after attending the training session, ideally within a week after the training. 
-
-The form consists of multiple sections, but each section is meant to capture specific information. The goal is to make the process easy and straightforward, without overwhelming the user with too many questions. However, please ensure you don't complete this form multiple times; this will help us understand your unique experience and provide a more accurate analysis.
-
-</thinking>
-
 # Corporate Training Discharge Feedback Form - Help Guide
 ## Purpose
 

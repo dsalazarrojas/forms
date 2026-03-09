@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a tool for travel agents to gather information from customers to generate a quote for a customized vacation package. The form is meant to collect data on the customer's personal details, destination preferences, and travel requirements to provide a tailored experience. When filling out this form, the agent should ensure that all required fields are filled out, and the customer's preferences and needs are accurately reflected in the form. The agent can then use this information to provide a comprehensive quote that meets the customer's expectations.
-
-</thinking>
-
 # Vacation Quote Request Form - Help Guide
 ## Purpose
 This form is used to gather information for a customized vacation package quote.

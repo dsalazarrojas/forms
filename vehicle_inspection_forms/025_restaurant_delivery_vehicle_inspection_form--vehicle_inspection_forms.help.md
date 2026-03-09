@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for restaurant delivery vehicle inspection data collection. It is used to gather information about vehicles used for delivery purposes. The form is part of a larger inspection process, which might be part of a regulatory or compliance requirement for restaurants. The inspection report submitted through this form would be reviewed and used to verify the status of a vehicle.
-
-</thinking>
-
 # restaurant_delivery_vehicle_inspection_form - Help Guide
 ## Purpose
 The restaurant delivery vehicle inspection form is used to collect information about delivery vehicles and inspection data.

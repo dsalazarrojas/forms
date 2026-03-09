@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from golfers about their preferences for a golf trip. The purpose of the form is to understand what golfers are looking for in a golf trip, such as the distance they are willing to travel, their preferred practice course, travel mode (e.g. car, plane, or public transport), and how often they would travel. This information will help us tailor our golf trips to meet the needs and preferences of our golfers. We will use this form to avoid duplicating efforts and to make sure we are creating a valuable experience for our golfers.
-
-</thinking>
-
 # Golf Trip Preferences Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from golfers about their preferences for a golf trip. The purpose of the form is to understand what golfers are looking for in a golf trip, such as the distance they are willing to travel, their preferred practice course, travel mode, and how often they would travel.

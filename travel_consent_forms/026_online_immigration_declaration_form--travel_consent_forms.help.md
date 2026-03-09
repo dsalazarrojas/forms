@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from applicants about their personal and travel-related details for immigration purposes. It's essential to complete this form accurately and truthfully to ensure the accuracy of the information provided. Please note that this form is a critical part of the immigration process, and any inconsistencies or inaccuracies may lead to delays or rejection of the application. To avoid duplication of effort, it's recommended to review and submit the form only once you have gathered all necessary information. Ensure that you have all required documentation and details before starting the form.
-</thinking>
-
 # Online Immigration Declaration Form - Help Guide
 
 ## Purpose

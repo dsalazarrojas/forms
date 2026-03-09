@@ -1,10 +1,3 @@
-<thinking>
-The Walt Disney World Vacation Inquiry Form is a collection of fields that gather essential information from users to assist travel agents in planning a magical vacation experience at Walt Disney World. This form is intended for users who want to inquire about travel options, accommodations, and special requests for their vacation. The form's structure allows users to provide basic information such as arrival dates, travel party details, and preferred hotels, as well as special requests and additional details. This form will help travel agents to better understand the users' preferences and provide tailored recommendations.
-
-When filling out this form, please ensure that you provide accurate information to assist the travel agent in planning your vacation effectively. 
-
-</thinking>
-
 # Walt Disney World Vacation Inquiry Form - Help Guide
 ## Purpose
 This form gathers essential information from users to assist travel agents in planning a magical vacation experience at Walt Disney World.

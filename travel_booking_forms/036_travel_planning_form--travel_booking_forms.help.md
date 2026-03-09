@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users regarding their travel plans and interests. This form is used to gather data that will be used to tailor the travel experience to the user's preferences. 
-The form will be used for both internal and external communication, so it's essential to ensure that the user understands the purpose of each field and how to complete the form accurately. 
-Before proceeding, ensure that the fields are relevant to your travel plans. 
-This guide is designed to help users understand each field and its purpose, making it easier to fill out the form correctly. 
-Ensure that the fields are not duplicated and that the user has the correct information to complete the form. 
-</thinking>
 # travel_planning_form - Help Guide
 ## Purpose
 The travel_planning_form is a document used to collect travel information from users. It includes details such as name, email, phone number, location interests, travel dates, and start date. This form is used to tailor the travel experience to the user's preferences.

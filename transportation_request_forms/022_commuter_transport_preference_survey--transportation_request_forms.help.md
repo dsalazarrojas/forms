@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information on commuter preferences for transportation improvements. It should only be used for employees, students, or residents who commute to work or school. Please ensure that the form is not completed by non-commuters or non-target groups. Duplicate submissions from the same user should be prevented.
-</thinking>
-
 # Commuter Transport Preference Survey - Help Guide
 ## Purpose
 This form is used to gather information on commuter preferences for transportation improvements. It is designed to be completed by employees, students, or residents who commute to work or school.

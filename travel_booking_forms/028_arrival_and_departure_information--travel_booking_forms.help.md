@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather essential information from guests arriving at a hotel or accommodation facility. It's crucial to gather accurate and up-to-date information to ensure a smooth and enjoyable stay. The form is divided into sections to categorize the information gathered into logical groups. Please note that this form has been designed to accommodate a wide range of guest requirements and preferences.
-</thinking>
-
 # Arrival And Departure Information - Help Guide
 ## Purpose
 This form is used to collect essential information from guests about their arrival and departure details. This includes their personal and contact details, arrival and departure times, room preferences, and any special requests or needs they may have.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for travel agents to report their income and fees received from travel agencies. The form helps to track the income and status of travel agent's payments and fees.
-
-To ensure that the form is completed correctly, the following instructions will guide users through each field and its purpose.
-
-</thinking>
-
 # Travel Agent Income Form - Help Guide
 ## Purpose
 The Travel Agent Income Form is used to report income and fees received from travel agencies by travel agents. This form helps to track the status of payments and fees.

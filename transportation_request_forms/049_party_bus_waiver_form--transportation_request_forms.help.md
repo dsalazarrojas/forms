@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Party Bus Waiver Form - Help Guide
 
 ## Purpose

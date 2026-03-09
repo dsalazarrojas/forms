@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This block is included to check if I understand the requirements correctly and to provide a brief internal reasoning block for the form purpose and context. It seems that the form is for customers to place a custom sports order. The form will be used for customers to provide their details, order preferences, and payment information, as well as their contact phone number. The form will guide customers through a simple and easy-to-use interface to place their orders.
 
 

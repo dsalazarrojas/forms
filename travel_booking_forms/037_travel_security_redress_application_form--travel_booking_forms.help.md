@@ -1,12 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the Travel Security Redress Application Form. This form is used to collect information from travelers who have experienced security issues during their journey. The form is designed to gather details about the incident, travel dates, type of travel, and other relevant information. This guide will walk the user through the form's purpose, how to complete it, and what each field means.
-
-To create a user-friendly experience, we will break down the form into sections and explain each field in a clear and concise manner. We will also ensure that the guide is easy to follow and understand, even for those who are not familiar with the form's purpose or the travel industry.
-
-Before we begin, it's essential to note that this form is a critical document that requires accurate and truthful information from the traveler. Providing false or incomplete information may result in delays or even rejection of the travel request. Therefore, please take your time to fill out the form carefully and accurately.
-
-</thinking>
-
 # Travel Security Redress Application Form - Help Guide
 
 ## Purpose

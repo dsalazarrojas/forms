@@ -1,12 +1,3 @@
-<thinking>
-To prevent duplication of user data, we will be checking for existing user records. If a user is already registered, they will be notified and their information will not be duplicated. This form is designed for new users to register for rideshare services. Please fill in the following information to complete your registration.
-
-The form is divided into multiple pages, each with its own set of fields. The form is not mandatory, but it's recommended that you fill in as much information as possible to ensure a smooth onboarding process.
-
-Each field is labeled and described below.
-
-</thinking>
-
 # Rideshare User Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from new users to onboard them into our rideshare services. Please complete this form to register for our services.

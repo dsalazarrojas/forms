@@ -1,14 +1,3 @@
-<thinking> 
-This form is used for carriers to onboarding with a new transportation company. It is a crucial step in the onboarding process, ensuring that carriers meet the necessary requirements and standards of the company. The form collects information about the carrier's operations, certifications, and compliance status, and serves as a reference for the onboarding process. Please ensure that all required fields are filled out accurately to avoid delays in the onboarding process. 
-
-The form is composed of two main sections: -- Carrier Onboarding Overview -- and -- Documentation Submission --. The first section collects general information about the carrier, while the second section ensures that all necessary documents are submitted. 
-
-Before completing this form, ensure that you have all necessary documents and information ready. If you are unsure about any part of the form, please reach out to our support team for assistance. 
-
-This form is not intended to be filled out by anyone other than the authorized representative of the carrier. 
-
-</thinking>
-
 # Carrier Onboarding Form - Help Guide
 ## Purpose
 

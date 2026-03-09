@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help travel agents complete a specific form for travel planning inquiries. This form aims to gather information about the client's travel preferences to provide personalized service. To confirm the relevance and non-duplication of this guide, the following assumptions were made:
-- The form is used to collect basic information from clients for travel planning purposes.
-- The form has the following fields: destination, travel date, duration, travel agent, contact information, email, phone, additional message, and travel agent note. These fields should be self-explanatory.
-The form does not require any specific business logic or assumptions beyond the field labels and descriptions.
-</thinking>
-
 # Travel Planning Inquiry Form - Help Guide
 ## Purpose
 The Travel Planning Inquiry Form is designed to gather essential information from clients to assist travel agents in providing personalized travel planning services.

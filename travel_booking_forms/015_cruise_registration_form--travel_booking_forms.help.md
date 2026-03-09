@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used for registering a passenger for a cruise. It's a form that gathers information about the passenger and their travel details. To ensure that this form is properly completed, please follow the instructions carefully.
-
-The purpose of this form is to collect passenger information for a cruise booking, including contact details, travel information, and payment information.
-
-This form is used in conjunction with other forms in the travel_booking_forms category. If you're familiar with this category, please ensure that all related forms are completed before submitting this form.
-
-To use this form, follow the steps below.
-
-</thinking>
-
 # cruise_registration_form - Help Guide
 ## Purpose
 

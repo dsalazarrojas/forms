@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from students for transportation requests. 
-The form is used to gather details about students who need transportation services. 
-The information collected will be used to determine the best transportation options and ensure that students are safely transported to their destinations. 
-Please ensure that you only complete this form once for each student's transportation request.
-</thinking>
-
 # Student Transportation Booking Form - Help Guide
 ## Purpose
 This form is used to collect information from students for transportation requests.

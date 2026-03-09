@@ -1,28 +1,3 @@
-<thinking> 
-This form appears to be a vehicle transfer form used for documenting details about the transfer of ownership or possession of a vehicle. The form may be used in situations where an individual is selling or purchasing a vehicle and requires documentation of the transfer for official purposes.
-
-Before proceeding, let's break down the form fields and their potential uses:
-
-- **vehicle_transfer**: This field likely serves as the primary description of the vehicle transfer, where the user can enter a brief summary of the transfer.
-- **seller_details**: This field is for the seller's information, which could include their contact details.
-- **vehicle_info**: This field may be for additional details about the vehicle being transferred, such as its make, model, or year.
-- **buyer_details**: This field is for the buyer's information, similar to the seller's details.
-- **transfer_details**: This field may hold any specific details about the transfer, such as the reason for the transfer or any conditions attached to it.
-- **vehicle_transfer_agreement**: This field is likely where the transfer agreement or contract is documented.
-- **notes**: This field may be used for any additional comments or notes about the transfer.
-- **date_time_of_transfer**: This field is for recording the date and time of the vehicle transfer.
-- **signature_buyer** and **signature_seller**: These fields are for obtaining the signatures of the buyer and seller, indicating their agreement to the transfer.
-- **vehicle_transfer_agreement_accepted**: This field indicates whether the buyer has accepted the vehicle transfer agreement.
-- **vehicle_make**, **vehicle_model**, **vehicle_year**, **vehicle_year_model**, **vehicle_color**, **vehicle_plate**, and **vehicle_vin**: These fields are for documenting details about the vehicle itself.
-- **buyer_phone**, **seller_phone**: These fields are for recording the contact numbers of the buyer and seller.
-- **transfer_amount**: This field may be used to record the amount paid or agreed upon for the transfer.
-- **seller_address**, **buyer_address**: These fields are for recording the addresses of the seller and buyer.
-- **date_of_last_inspection** and **date_of_last_registration**: These fields are for documenting the last inspection and last registration dates of the vehicle.
-
-After understanding the fields, let's proceed with the help guide.
-
-</thinking>
-
 # vehicle_transfer_form - Help Guide
 ## Purpose
 This form is used to document the details of a vehicle transfer, including the transfer summary, seller and buyer information, vehicle details, and transfer agreement.

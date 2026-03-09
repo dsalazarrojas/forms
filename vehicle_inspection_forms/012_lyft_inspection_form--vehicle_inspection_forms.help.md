@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a vehicle inspection form, likely used for inspecting and reporting on vehicle safety and condition. The purpose of this form is to collect data on a vehicle's year, make, model, and other relevant details. This form may be used by mechanics, inspectors, or other authorized personnel to conduct routine or special inspections on vehicles. It's likely used for maintenance, repair, or pre-purchase inspections. 
-
-This form does not seem to be intended for duplicate entries, as most fields are not required and the form structure does not suggest a sequential or incremental data collection process. This guide will cover the form's purpose and fields in an exhaustive and practical manner.
-
-</thinking>
-
 # Lyft Inspection Form - Help Guide
 ## Purpose
 The Lyft Inspection Form is a vehicle inspection form used for inspecting and reporting on vehicle safety and condition. It's likely used for maintenance, repair, or pre-purchase inspections.

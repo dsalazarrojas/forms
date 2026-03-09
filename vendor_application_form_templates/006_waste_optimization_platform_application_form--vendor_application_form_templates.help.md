@@ -1,8 +1,3 @@
-<thinking> 
-This form is for vendors interested in applying to be a part of the Waste Optimization Platform. The platform aims to help organizations optimize their waste management practices and reduce their environmental impact. Vendors will need to provide detailed information about their organization, the type of services they offer, and their goals for waste reduction. The form will help us assess their qualifications and suitability for partnership. Please note that this form is not a formal commitment to partnership, but rather an opportunity for us to learn more about your organization and discuss potential collaboration.
-
-</thinking>
-
 # Waste Optimization Platform Application Form - Help Guide
 ## Purpose
 The Waste Optimization Platform Application Form is a tool to help us get to know your organization better and assess your qualifications for partnership with our platform.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Sustainable Travel Cottage Booking Form - Help Guide
 
 ## Purpose

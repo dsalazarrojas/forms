@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the travel_booking_forms category, specifically for the cruise_inquiry_form, the following steps will guide us through its purpose and completion.
-
-- The form is meant to collect information from users for cruise inquiries, likely for travel agents or tour operators to gather data on potential customers' travel preferences.
-- The form's purpose is to gather essential information for a customer's cruise inquiry.
-- The fields within the form are designed to provide a clear and concise way to collect the necessary details for the inquiry.
-- The form is likely to be used by users with varying levels of experience with forms, thus, it's essential to break down the completion process into simple steps.
-</thinking>
-
 # cruise_inquiry_form - Help Guide
 
 ## Purpose

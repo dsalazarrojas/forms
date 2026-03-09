@@ -1,11 +1,3 @@
-<thinking>
-This form is used to place orders for cheerleading uniforms. The form is designed for customers to provide details about their team, including team name, school or organization, contact information, order date, delivery deadline, uniform style, primary and secondary colors, quantity of different uniform pieces, and customization requirements. The form also allows customers to select additional accessories and shipping options. 
-
-The form is intended to be completed by customers to provide accurate and complete information for their uniform orders. By providing all necessary details, customers can ensure their order is processed efficiently and accurately. 
-
-This help guide will walk users through the process of completing this form step-by-step.
-
-</thinking>
 # Cheerleading Uniform Order Form - Help Guide
 
 ## Purpose

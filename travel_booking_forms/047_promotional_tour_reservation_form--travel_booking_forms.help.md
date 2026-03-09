@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for promotional tour reservations. It is intended for users to input details about their travel preferences, including their name, contact information, and tour specifics such as travel type, dates, and tools. This form will aid in organizing and coordinating travel plans effectively.
-
-This form has 25 fields. To avoid duplication, ensure that the form is being used for its intended purpose and that all required information is provided. If you're unsure about any section or field, review the provided information carefully before submitting the form.
-
-</thinking>
-
 # promotional_tour_reservation_form - Help Guide
 ## Purpose
 This form is designed to collect information for promotional tour reservations, enabling efficient organization and coordination of travel plans.

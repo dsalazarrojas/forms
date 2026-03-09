@@ -1,5 +1,3 @@
-<thinking>Since the form "Uniform Selection Form" seems to be related to selecting a uniform for an individual or an event, and given that it contains fields for personal details such as name, date, and phone number, as well as size, style, and note fields, I'm assuming it's likely for a customer or user to order or select a uniform for an event or occasion. I'll proceed with creating the help guide based on this assumption. If this assumption is incorrect, please let me know for further adjustments.</thinking>
-
 # Uniform Selection Form - Help Guide
 ## Purpose
 This form is used to select a uniform for an event or occasion. It requires basic personal details such as name, contact information, and uniform preferences like size and style.

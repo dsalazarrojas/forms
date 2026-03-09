@@ -1,7 +1,3 @@
-<thinking>Before we dive into the user-facing help guide, let's break down the purpose and functionality of this form. The travel agency subscription form is designed to collect information from customers interested in subscribing to a travel agency's services. The form aims to gather essential details such as the customer's name, email, phone number, subscription type, payment method, and subscription date. This data will help the agency manage subscriptions, communicate with customers, and provide personalized services.
-
-To avoid duplication and ensure accuracy, we'll check for existing customer records before processing the form submission. This way, customers can only create a new subscription if they don't already have an active subscription.</thinking>
-
 # Travel Agency Subscription Form - Help Guide
 ## Purpose
 The Travel Agency Subscription Form is designed to help you subscribe to our travel services. Please fill out this form to create a new subscription or update your existing one. We'll use the information you provide to tailor our services to your needs and preferences.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used for users to request taxi booking services, providing essential information about their trip, including pickup and dropoff addresses, times, and contact details. It's designed to collect relevant data for taxi service providers to facilitate smooth and efficient ride arrangements. To avoid duplication or incorrect submissions, users should only fill out the form once with accurate and complete information. 
-
-</thinking>
-
 # Taxi Booking Form - Help Guide
 ## Purpose
 This form is designed to help you book a taxi with ease. Please fill out the form with your trip details, and our team will be in touch to confirm your booking.

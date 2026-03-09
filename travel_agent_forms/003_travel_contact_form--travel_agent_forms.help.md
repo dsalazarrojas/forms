@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact information and travel preferences from users to provide personalized travel arrangements. This form is likely used by travel agents or travel companies to gather details about the user's travel plans, including their home address, travel dates, and preferred modes of transportation.
-
-To avoid duplication of effort, the form should not be used for users who have already submitted travel requests or have existing accounts with the travel agency. 
-
-Internal validation checks should be in place to prevent non-essential submissions.
-</thinking>
-
 # Travel Contact Form - Help Guide
 ## Purpose
 The Travel Contact Form is designed to collect contact information and travel preferences from users to provide personalized travel arrangements.

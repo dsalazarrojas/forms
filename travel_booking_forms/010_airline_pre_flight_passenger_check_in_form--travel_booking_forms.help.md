@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to allow pre-flight passengers to provide essential information about themselves for airline check-in and boarding processes. This form aims to gather necessary details such as passenger identity, travel documentation, health status, and special requests, which will be used for efficient and safe handling of their flight.
 
 The form serves several key purposes:

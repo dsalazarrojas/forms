@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to collect and track information about trips taken by employees of the organization. This information is used to monitor and analyze travel patterns, costs, and status of trips. The form will ask for details such as trip date, travel time, destination, cost, and purpose of the trip. It will also ask for contact information of the travel agent, if any.
 
 # Trip Tracking Form - Help Guide

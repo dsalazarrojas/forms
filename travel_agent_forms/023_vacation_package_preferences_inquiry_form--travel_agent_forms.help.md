@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is for users to submit their travel preferences and requirements for their vacation package inquiry. This form is designed to help travel agents quickly and efficiently gather information from clients about their travel interests and needs. 
-
-Before filling out this form, please ensure that you have already checked with the travel agency to confirm that they are available to book your desired package. This form is not intended for immediate bookings or confirmations.
-
-This form should only be filled out once for each new inquiry, so if you have already submitted an inquiry with similar details, please do not resubmit this form. Duplicate submissions may lead to confusion and potential miscommunication with the travel agency.
-
-</thinking>
-
 # Vacation Package Preferences Inquiry Form - Help Guide
 ## Purpose
 The Vacation Package Preferences Inquiry Form is a tool used to gather information from clients about their travel preferences and requirements for their vacation package inquiry.

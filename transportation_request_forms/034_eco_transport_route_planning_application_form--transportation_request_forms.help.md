@@ -1,9 +1,3 @@
-<thinking>
-This form is for planning and documenting transportation requests. The purpose is to collect information about the eco-transport route, including the company's details and the date and time of the planned route. This form will help to ensure that all necessary information is collected and documented, and will help to streamline the transportation process. 
-
-Before filling out this form, please ensure that you have all the necessary information and that this is not a duplicate request. If you are unsure about any of the fields, please contact the relevant department for clarification.
-</thinking>
-
 # eco_transport_route_planning_application_form - Help Guide
 ## Purpose
 The eco-transport route planning application form is used to collect and document information about eco-transport routes, ensuring that all necessary details are captured and the transportation process is streamlined.

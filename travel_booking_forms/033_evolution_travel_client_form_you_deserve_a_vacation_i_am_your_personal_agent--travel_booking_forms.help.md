@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users regarding their travel preferences and habits. The form is designed to be a comprehensive client form for travel agencies, allowing them to tailor their services to the needs and desires of their clients. The form's structure and field types suggest that it will be used to gather information on the number of travelers, travel dates, destination preferences, accommodation options, and other relevant details.
-</thinking>
 # evolution-travel-client-form: You Deserve A Vacation. I Am Your Personal Agent! - Help Guide
 ## Purpose
 This form is designed to help travel agencies understand their clients' travel preferences and needs. By completing this form, you will be able to provide personalized travel recommendations and services tailored to your specific requirements.

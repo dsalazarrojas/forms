@@ -1,7 +1,3 @@
-<thinking>
-This form is likely designed for travel agencies or event planners to collect information from potential clients who want to book a music tour. The form's purpose is to gather details about the tour, such as dates, locations, budget, and contact information. To ensure accuracy, the form should only be filled out by individuals who are authorized to book tours on behalf of the client. If the form is not relevant or is filled out by an unauthorized person, it is a good idea to double-check the information and confirm the booking before proceeding.
-</thinking>
-
 # Music Tour Planning Booking Form - Help Guide
 ## Purpose
 The Music Tour Planning Booking Form is designed to help travel agencies or event planners collect information from potential clients who want to book a music tour. This form gathers essential details about the tour, including dates, locations, budget, and contact information.

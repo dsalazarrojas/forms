@@ -1,8 +1,3 @@
-<thinking> 
-This guide is intended for end-users who need to complete the "Business Travel Itinerary Form" to provide accurate and timely information for their travels. The form is designed to collect essential details for business travel planning, ensuring that employees' needs and requirements are met during their trips. This guide aims to clarify the form's purpose, explain each field's importance, and provide practical instructions on how to complete it correctly.
-
-</thinking>
-
 # Business Travel Itinerary Form - Help Guide
 ## Purpose
 The Business Travel Itinerary Form is a crucial tool used by the company to collect necessary information about business travels. This form helps the travel department to plan and prepare for your trip efficiently, ensuring that you and your colleagues have a successful and productive experience.

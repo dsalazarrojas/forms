@@ -1,5 +1,3 @@
-<thinking>As this form was generated using AI, I want to clarify that it's original and not copied from any proprietary form platform. This form is intended to register a partner for the Retail Media Network, which likely involves a collaboration between brands and partners for media-related services. I will now provide a user-facing help guide based on the provided YAML fields.</thinking>
-
 # Retail Media Network Partner Registration - Help Guide
 ## Purpose
 This form is designed to register a partner for the Retail Media Network, a collaboration between brands and partners for media-related services. By filling out this form, you'll be providing essential information to be considered as a potential partner.

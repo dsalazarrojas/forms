@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather data for a weekly tutor report, which is a summary of a student's progress, feedback, and any next steps planned after a lesson. The form should only be filled out by one tutor per student per week. The form does not have any fields that are duplicated or redundant.
-</thinking>
-
 # Weekly Tutor Report - Help Guide
 
 ## Purpose

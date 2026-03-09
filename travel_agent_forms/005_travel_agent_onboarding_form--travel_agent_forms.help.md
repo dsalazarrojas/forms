@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help travel agents register their information and preferences for onboarding purposes. It will help us understand their company details, contact information, and availability. This form is not meant to be filled out by agents multiple times, so only complete it once to ensure your information is up-to-date. If you're already registered, please do not fill this form again.
-</thinking>
-
 # Travel Agent Onboarding Form - Help Guide
 ## Purpose
 This form is for travel agents to register their information and preferences for onboarding purposes.

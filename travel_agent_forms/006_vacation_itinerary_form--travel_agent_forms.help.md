@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from travel agents for the creation of a customized vacation itinerary. This form is meant to be used by travel agents to provide essential details about their travel preferences and needs. The information collected will be used to create a tailored travel plan.
-
-To ensure the form is used correctly, we should check that the form purpose is relevant to the travel agent's needs and not a duplication of effort. For instance, if the travel agent has already provided similar information in the past, there's no need to repeat it.
-
-</thinking>
-
 # Vacation Itinerary Form - Help Guide
 ## Purpose
 The Vacation Itinerary Form is a tool for travel agents to provide essential details about their travel preferences and needs. This information will be used to create a customized travel plan.

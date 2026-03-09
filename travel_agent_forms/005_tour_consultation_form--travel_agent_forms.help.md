@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the tour consultation form serves its purpose effectively, it is crucial to confirm its relevance and non-duplication before proceeding. The form is designed to gather specific information from customers to provide tailored tour recommendations. Please review the following guide to understand how to complete the tour consultation form correctly.
-</thinking>
-
 # tour Consultation Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about the customer's preferences and needs for a tour. It helps the travel agency to provide accurate and personalized tour recommendations.

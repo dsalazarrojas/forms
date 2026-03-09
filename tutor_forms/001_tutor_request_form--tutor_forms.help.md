@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for students to request tutoring services from a tutor. This form helps students to specify the subject they need help with, the date of the requested tutoring session, and other relevant information such as their email, phone number, and location. This information is then used by tutors to prepare and attend the requested session.
-</thinking>
-
 # Tutor Request Form - Help Guide
 ## Purpose
 This form is designed to be completed by students seeking tutoring services. It provides a structured way for students to request help from a tutor, specifying the subject, date, and other relevant details.

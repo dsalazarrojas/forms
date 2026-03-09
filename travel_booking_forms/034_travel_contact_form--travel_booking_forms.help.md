@@ -1,10 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Travel Contact Form". This form is used to collect information from travelers about their travel preferences and requirements. The form is composed of various fields that gather data such as name, email, phone number, country, city, state, travel arrangements, flight preferences, hotel preferences, date of departure, time of departure, date of return, time of return, street, state, zip, travel agency, agent name, agent email, agent phone, and notes. The form is used to facilitate communication between the traveler and the travel agency.
-
-To avoid duplication and ensure relevance, we will focus on creating a comprehensive and clear guide that covers the form's purpose, completion instructions, and field-by-field explanations.
-
-</thinking>
-
 # Travel Contact Form - Help Guide
 
 ## Purpose

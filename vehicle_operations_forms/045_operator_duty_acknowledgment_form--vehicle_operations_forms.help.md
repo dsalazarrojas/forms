@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from operators regarding their duties and shifts. It is meant to be used by fleet management or maintenance personnel to ensure that operators are aware of their responsibilities and that necessary tools are assigned to them for their duties. The form should only be used for operators who are actively working or are scheduled to work during the specified date and time range. It is not intended for general operator registration or other purposes. Please ensure that you are using this form correctly and only for its intended purpose.
-</thinking>
-
 # operator_duty_acknowledgment_form - Help Guide
 ## Purpose
 This form is used to gather information from operators regarding their duties and shifts. It is essential for fleet management and maintenance personnel to ensure that operators are aware of their responsibilities and that necessary tools are assigned to them.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help individuals book their stay at a rural regeneration residency, which is an immersive experience that aims to revitalize and regenerate individuals through art, nature, and community connections. The form's purpose is to gather essential information from potential residents to ensure a smooth and enjoyable stay. Before starting, please check if you've used this form before; if not, proceed to learn how to complete it.
-</thinking>
-
 # Rural Regeneration Residency Booking Form - Help Guide
 ## Purpose
 This form is used to book a stay at the Rural Regeneration Residency, which is a unique opportunity to experience art, nature, and community connections in a rural setting. Please fill out the form with the required information to ensure a smooth and enjoyable stay.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Trip Evaluation Form is to collect information from clients about their trip, including trip details, dates, locations, services, feedback, and contact information. This form is likely used by travel agents or tour operators to assess the quality and satisfaction of the trip, and to provide a means for clients to provide feedback and input.
-</thinking>
-
 # Trip Evaluation Form - Help Guide
 ## Purpose
 The Trip Evaluation Form is used by clients to provide feedback and evaluation of their trip experience.

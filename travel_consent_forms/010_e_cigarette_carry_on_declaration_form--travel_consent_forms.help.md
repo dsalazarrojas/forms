@@ -1,12 +1,3 @@
-<thinking> 
-To create an effective user-facing help guide for the "e_cigarette_carry_on_declaration_form" form, we need to first understand its purpose and how it will be used in practice. The form appears to be related to the declaration of electronic cigarettes and their contents, likely for travel or transport purposes. The form likely serves as a means for individuals to provide information about their electronic cigarettes, their type, weight, and other relevant details for inspection or declaration purposes.
-
-It's also possible that this form is intended for use by airline staff or regulatory bodies to ensure compliance with travel regulations or laws. 
-
-Before proceeding, let's review the form's structure and ensure there's no duplication of fields. A quick scan reveals that most fields are optional and serve specific, focused purposes.
-
-</thinking>
-
 # e_cigarette_carry_on_declaration_form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-This form is used for passengers to provide feedback on the service they received while using a mode of transportation. The purpose of this form is to collect data on passenger experiences, which will help transportation service providers improve their services. 
-
-To ensure that the form is completed accurately, passengers should only submit feedback on a specific service they have actually used. Please do not fill in fields with irrelevant or duplicate information.
-
-After completing the form, click the submit button to send your feedback to us.
-</thinking>
-
 # Passenger Service Feedback Request Form - Help Guide
 
 ## Purpose

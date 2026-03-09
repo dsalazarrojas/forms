@@ -1,19 +1,3 @@
-<thinking>...
-As a form designer and technical writer, I need to create a user-friendly help guide that explains the "Flight Search Filters" form to end users. 
-The form is used for searching flights based on certain criteria. It's essential to provide a clear and concise guide that will help users understand the purpose and requirements of the form.
-
-Upon reviewing the provided YAML fields, I've identified the following:
-
-* The form has four fields: route, departure_date, return_date, cabin_class, and budget.
-* Each field is optional, except for none. 
-* The "route" field is a select_multiple field, which means users can select multiple options from a list.
-* The "departure_date" and "return_date" fields are both date fields.
-* The "cabin_class" and "budget" fields are select_one fields.
-* There are no hints or descriptions provided for any of the fields, which means we'll need to provide explanations for each field.
-
-To create the help guide, I'll follow the required Markdown structure and format.
-...</thinking>
-
 # Flight Search Filters - Help Guide
 ## Purpose
 The "Flight Search Filters" form is designed to allow users to search for flights based on their specific needs. By filling out this form, you can filter flights by route, departure date, return date, cabin class, and budget.

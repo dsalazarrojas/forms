@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Training Questionnaire STC - Help Guide
 
 ## Purpose

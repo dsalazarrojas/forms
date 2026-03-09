@@ -1,9 +1,3 @@
-<thinking>
-
-This form seems to be related to vehicle purchase operations, specifically documenting information about new car purchases. It appears to cover various aspects of the vehicle purchase process, including the vehicle's make, model, year, and other relevant details. To ensure the form is completed accurately and consistently, it's essential to follow the help guide carefully.
-
-</thinking>
-
 # New Car Purchase Checklist - Help Guide
 ## Purpose
 This form is designed to capture essential information about new car purchases, including vehicle details, sales history, and other relevant data. It will help ensure that all required fields are completed accurately and consistently, reducing errors and making it easier to track vehicle purchases.

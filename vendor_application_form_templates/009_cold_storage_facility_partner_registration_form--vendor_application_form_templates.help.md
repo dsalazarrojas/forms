@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to collect information from potential partners in cold storage facilities. The form asks for various details regarding the company's legal name, type, and age, as well as their primary contact's name, email, phone number, and address. The facility's physical address, storage capacity, and available temperature zones are also requested. The form also asks about the facility's services offered, operating hours, technology systems used, desired partnership type, geographic coverage area, and the ability to provide references. This information will help us understand the capabilities and interests of potential partners and determine the suitability of potential partnerships. 
-
-This form is a one-time submission form and should only be filled out once for each partner. Please review the form carefully and ensure that you answer each field accurately and thoroughly. 
-
-Note that the form has a few fields marked as required, indicating that those fields must be filled out in order to complete the form. The form also has a few fields that are not marked as required, indicating that they are optional and can be skipped if not applicable. 
-
-To avoid duplicates, please ensure that your company's information is not already in our database before filling out this form. If you are unsure whether your company is already listed, please contact us for verification.
-
-</thinking>
-
 # Cold Storage Facility Partner Registration Form - Help Guide
 ## Purpose
 This form collects information from potential partners in cold storage facilities to determine their capabilities and interests for potential partnerships.

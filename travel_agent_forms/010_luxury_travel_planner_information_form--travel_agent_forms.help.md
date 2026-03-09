@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Luxury Travel Planner Information Form - Help Guide
 ## Purpose
 The Luxury Travel Planner Information Form is a comprehensive tool designed to gather essential information from travel agents and their clients for planning and executing luxury travel experiences. This form helps travel agents provide accurate and personalized services to their clients, ensuring a seamless and enjoyable journey.

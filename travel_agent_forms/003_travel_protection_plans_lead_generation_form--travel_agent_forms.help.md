@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block to ensure the form purpose and relevance to the user:
-The Travel Protection Plans Lead Generation Form is designed to capture information from potential customers who are interested in learning more about travel protection plans. The form's purpose is to collect data that will aid in understanding the user's preferences, needs, and sources of information. This form is intended for leads that are looking for travel protection plans, not for actual travel bookings. It is essential to fill out the form accurately and truthfully, as this information will be used to provide relevant travel protection plan offers.
-</thinking>
-
 # Travel Protection Plans Lead Generation Form - Help Guide
 ## Purpose
 The Travel Protection Plans Lead Generation Form is a tool used to collect information from potential customers interested in learning more about travel protection plans. This form helps us understand your preferences, needs, and sources of information for travel protection plans.

@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from group travelers to plan a trip. This form will guide them through a series of questions to ensure that their needs and preferences are captured correctly. The form should be filled out by all members of the group to get a comprehensive understanding of their requirements.
-
-The form should not be filled out if:
-* You are already in the planning process for this trip
-* You have the same trip planned with us before
-
-Please make sure to fill out this form accurately and thoroughly to help us better plan your trip.
-
-</thinking>
-
 # Group Trip Planning Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your group's preferences and requirements for a trip. Please take a few minutes to complete this form to help us tailor your trip to your needs.

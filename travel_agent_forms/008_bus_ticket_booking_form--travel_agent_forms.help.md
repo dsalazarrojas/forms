@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for booking a bus ticket, and its primary purpose is to collect information required for booking, payment, and communication. The fields are organized into logical sections, making it easy for users to navigate and provide the necessary details. This form should not be used for other purposes, such as managing employee information or tracking customer support requests.
-
-To ensure a smooth experience, we should check that the form is not being used for other purposes and that all required fields are filled in correctly.
-
-</thinking>
-
 # Bus Ticket Booking Form - Help Guide
 ## Purpose
 This form collects information for booking a bus ticket, including passenger name, contact details, travel dates, and payment method.

@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, the purpose of this form is to collect travel information from users, specifically motorcoach travel information. The form is likely used for internal or external purposes related to travel planning, execution, or customer support. The goal is to gather details about trips, passengers, travel documents, and other relevant information. The form fields should be completed with accuracy and relevance to ensure efficient processing of motorcoach travel requests.
-
-</thinking>
-
 # Motorcoach Travel Information Form - Help Guide
 ## Purpose
 This form is designed to collect important information for planning and executing motorcoach travel services. To ensure your travel experience is as smooth as possible, please fill out this form accurately and completely.

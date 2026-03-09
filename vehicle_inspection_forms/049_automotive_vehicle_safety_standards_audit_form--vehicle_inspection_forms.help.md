@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the Automotive Vehicle Safety Standards Audit Form, we must first consider the purpose and context of the form. This form is designed to assess the safety standards of an automotive vehicle, focusing on various critical systems and components such as the brake system, suspension and steering, lighting, and overall safety. The goal is to evaluate the condition of these systems and provide a rating based on their performance. This form helps ensure that the vehicle meets the required safety standards.
-
-Before proceeding, it's essential to verify that this form is relevant and not a duplicate of existing procedures. The form's fields and sections are carefully designed to guide the assessor through the evaluation process, making it easier to identify areas that require attention.
-
-With this in mind, let's create a user-friendly help guide for the form.
-
-</thinking>
-
 # Automotive Vehicle Safety Standards Audit Form - Help Guide
 ## Purpose
 The Automotive Vehicle Safety Standards Audit Form is designed to assess the safety standards of an automotive vehicle. It helps identify areas that require attention to ensure the vehicle meets the required safety standards.

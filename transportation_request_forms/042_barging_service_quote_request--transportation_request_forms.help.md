@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Barging Service Quote Request - Help Guide
 ## Purpose
 The Barging Service Quote Request form is designed to collect information from clients to provide quotes for barging services. This form is used by clients to provide details about their transportation needs, including contact and billing information, route and logistics, cargo and equipment specifications, and other relevant details. The form helps to ensure that all necessary information is provided to accurately estimate the costs and services required for the transportation.

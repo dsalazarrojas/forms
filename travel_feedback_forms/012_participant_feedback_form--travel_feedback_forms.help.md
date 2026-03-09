@@ -1,5 +1,3 @@
-<thinking>...This form is designed for participants to provide feedback on their experiences with a travel planning service. It is used to gather information on how well participants' trips were planned, what they enjoyed and what they didn't enjoy about the experience. This form is not intended to be filled out more than once by the same participant. If a participant has already filled out this form, please do not ask them to do so again. This form will be reviewed by the travel planning service to identify areas of improvement and provide better services to their customers... </thinking>
-
 # Participant Feedback Form - Help Guide
 ## Purpose
 The Participant Feedback Form is designed to gather feedback from participants on their travel experiences. It is used by the travel planning service to improve their planning and organization.

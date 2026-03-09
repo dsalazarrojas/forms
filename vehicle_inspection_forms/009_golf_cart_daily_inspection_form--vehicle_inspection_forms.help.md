@@ -1,8 +1,3 @@
-<thinking>
-
-To create this form, I will analyze the input YAML and provide a help guide that meets the specified requirements.
-
-</thinking>
 # Golf Cart Daily Inspection Form - Help Guide
 ## Purpose
 The Golf Cart Daily Inspection Form is designed to help inspect and report on the condition of golf carts. This form is used to check various aspects of the golf cart, including its condition, engine, tires, brakes, battery health, horn, turn signal, seat, electrical systems, steering condition, suspension status, and transmission condition. The goal is to provide a comprehensive report on the golf cart's overall condition.

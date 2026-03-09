@@ -1,7 +1,3 @@
-<thinking>
-To be honest, the form purpose is not entirely clear from the schema. However, it appears to be related to requesting or arranging transportation. The fields suggest users may be able to input their name, select the means of transport, enter travel locations, select a preferred date and time, and provide additional information for the transporter. It's not clear if this is for personal or commercial transportation. Please provide more context or clarify the form's purpose.
-</thinking>
-
 # prophets_form - Help Guide
 ## Purpose
 The Prophets Form is a transportation request form. It's used to request or arrange transportation services for personal or commercial purposes. If you're unsure which type of transport you need, please select all applicable options in the "What is your preferred mode of transportation?" field.

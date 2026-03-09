@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the Clinical Workshop Pre Survey is completed accurately and effectively, it is essential to understand its purpose and the requirements for each field. This form is designed to gather information about the participants' background, experience, and expectations from the workshop. The goal is to tailor the workshop content to meet the needs and learning objectives of each attendee. Before proceeding, please verify that you are completing this form for the correct purpose and not duplicating your responses in other forms or surveys.
-</thinking>
-
 # Clinical Workshop Pre Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your background, experience, and expectations from the workshop. Your input will help us tailor the workshop content to meet your needs and learning objectives.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from travelers for baggage drop-off purposes. It is a crucial step in the transportation process to ensure that all necessary information is collected and confirmed. Before proceeding, please ensure that you have all the necessary details ready. This form is not intended to be duplicated for any other purpose; it is specific to baggage drop-off time confirmation.
-</thinking>
-
 # Baggage Drop Off Time Confirmation Form - Help Guide
 ## Purpose
 This form is used to collect and confirm the details of a traveler's baggage drop-off for transportation purposes.

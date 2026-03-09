@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Profile - Help Guide
 ## Purpose
 

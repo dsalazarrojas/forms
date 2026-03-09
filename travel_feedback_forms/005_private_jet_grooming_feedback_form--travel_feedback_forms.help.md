@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from private jet users on their overall experience with the jet's grooming services, including cleanliness, staff friendliness, and overall satisfaction. The form helps to gather insights on areas that need improvement and ensure that the private jet's grooming standards are maintained. It's essential to complete this form accurately and honestly to help us better understand your experience.
-</thinking>
-
 # Private Jet Grooming Feedback Form - Help Guide
 ## Purpose
 The Private Jet Grooming Feedback Form is designed to collect feedback from private jet users on their experience with the jet's grooming services. This form helps us identify areas of improvement to ensure that our private jet standards are maintained.

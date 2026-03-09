@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about customers who are planning or have planned a trip. The purpose of this form is to gather necessary details such as their names, contact information, and travel preferences. This form will be used to provide personalized services and assistance to customers based on their specific needs.
-</thinking>
-
 # Customer Information Form - Help Guide
 ## Purpose
 This form is designed to collect information about customers who are planning or have planned a trip.

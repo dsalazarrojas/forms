@@ -1,21 +1,3 @@
-<thinking>
-To confirm relevance and non-duplication, I will briefly summarize the form's purpose and internal reasoning behind its design.
-This form appears to be a travel questionnaire designed for clients or customers to share their preferences and needs for a 2021 travel experience. The form aims to gather information on the travelers' demographics, trip preferences, and health and safety requirements. This data will likely be used to tailor travel packages or itineraries that suit the clients' needs and provide them with a personalized experience.
-The form's design is based on a set of predefined fields that cover the following areas:
-- Personal details (full name, email, phone number, and departure city)
-- Travel preferences (trip type, destinations, travel timing, trip duration, and budget)
-- Health and safety (vaccination status and travel insurance)
-- Flexibility and previous travel experience
-
-The following fields are not strictly necessary but offer additional information for the travel agency to consider:
-- Traveler composition
-- Accommodation preferences
-- Activities of interest
-- Special requests or additional information
-
-The form's design appears to be comprehensive and covers a wide range of aspects to ensure that the travel agency can provide an accurate and suitable experience for the clients.
-</thinking>
-
 # 2021 Travel Questionnaire - Help Guide
 ## Purpose
 This form is designed to help us understand your travel preferences and needs for a personalized 2021 travel experience. Please fill out the form with accurate information to help us tailor a custom-made itinerary for you.

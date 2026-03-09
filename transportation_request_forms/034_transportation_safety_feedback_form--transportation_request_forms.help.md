@@ -1,9 +1,3 @@
-<thinking>
-
-To determine whether this form is suitable for your needs, consider whether you are experiencing or reporting a transportation-related safety concern. This form is intended for users to provide feedback on their transportation experiences, including incidents, near misses, or safety concerns. Please note that this form may not be the appropriate tool for reporting accidents that require immediate attention or have already been reported previously.
-
-</thinking>
-
 # Transportation Safety Feedback Form - Help Guide
 ## Purpose
 The Transportation Safety Feedback Form is designed to gather information about your transportation experiences, including incidents, near misses, or safety concerns. This form helps us understand what happened, how to prevent similar incidents in the future, and how to improve transportation safety overall.

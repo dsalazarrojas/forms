@@ -1,11 +1,3 @@
-<thinking>... internal reasoning to ensure this form is relevant and not a duplication ...
-
-This form is designed to be a Japan Visa Waiver Application Form. The purpose of this form is to gather information from individuals seeking a Japan visa waiver, which allows them to enter Japan without a visa for a short-term stay. The form is divided into four sections, each focusing on different aspects of the applicant's information.
-
-This form should only be used for its intended purpose and not for any other use, such as for other types of visa applications or general travel inquiries.
-
-... </thinking>
-
 # Japan Visa Waiver Application Form - Help Guide
 ## Purpose
 The Japan Visa Waiver Application Form is designed to gather information from individuals seeking a Japan visa waiver for a short-term stay. This form is for applicants who qualify for a visa waiver.

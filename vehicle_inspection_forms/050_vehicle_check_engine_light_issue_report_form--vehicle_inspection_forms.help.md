@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for reporting issues related to a vehicle's engine light coming on, indicating a problem with the engine or emissions system. It is intended for use by mechanics or vehicle owners to document and track issues with vehicle engines. The form will help identify the make, model, and year of the vehicle, as well as details about the engine, transmission, and emissions system. It will also help track fuel and oil levels, types, and capacities, as well as air and oil filters, and transmission fluid. The form is designed to be completed by mechanics or vehicle owners to provide accurate and thorough information about the vehicle's engine issues.
-
-Please note that this form is for reporting issues related to the engine light coming on, and it is not intended for general vehicle maintenance or inspection purposes. If you are unsure about the purpose of this form, please do not complete it.
-
-To ensure accurate and thorough reporting, please make sure to complete all required fields. If you are unsure about the options in a particular field, please select "Other" and provide a brief description in the "engine_problem_description" field.
-
-Please also note that this form will be used to help identify and troubleshoot issues with the vehicle's engine and emissions system. It is not intended for general vehicle maintenance or inspection purposes.
-
-</thinking>
-
 # Vehicle Check Engine Light Issue Report Form - Help Guide
 ## Purpose
 This form is designed for reporting issues related to a vehicle's engine light coming on, indicating a problem with the engine or emissions system.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for travel planning purposes, specifically for travel agents to create travel itineraries. The form is meant to be completed by travelers and travel agents to capture relevant details about a trip, including destination, travel dates, and other relevant information. This form is not intended for any other purpose and is not a duplicate of any other form in the system.
-</thinking>
-
 # Travel Questionnaire Form - Help Guide
 ## Purpose
 The Travel Questionnaire Form is a tool used by travel agents to gather information from travelers to create customized travel itineraries.

@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block here will help me understand the purpose of the form and ensure I don't create a duplicate or off-topic guide. Based on the provided YAML, I will create a comprehensive help guide that explains the purpose, completion instructions, and field-by-field explanations of the "Vessel Weather Capability Assessment" form.
-</thinking>
-
 # Vessel Weather Capability Assessment - Help Guide
 ## Purpose
 The "Vessel Weather Capability Assessment" form is designed to assess the weather capability of a vessel, gathering information about the vessel's type, operating conditions, crew size, weather rating, and other relevant details. This form helps to evaluate the vessel's performance and safety under various weather conditions.

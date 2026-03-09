@@ -1,7 +1,3 @@
-<thinking>
-This is a crucial form that requires careful consideration to avoid misinterpretation. The form submission purpose is to gather information about travel deals, such as their titles, descriptions, dates, durations, prices, and currency. However, it is essential to ensure that this form is not duplicated and that the provided data is accurate. To achieve this, the form has built-in validation checks for non-duplication and requires a valid title and description for each submission. This guide will walk you through the form's purpose, completion, and field explanations to help ensure a smooth and error-free experience.
-</thinking>
-
 # Travel Deal Submission Form - Help Guide
 ## Purpose
 The Travel Deal Submission Form is designed to collect information about travel deals, which can be used for various purposes, such as promotion, marketing, or internal reference. This form is meant to be completed by travel agents to provide detailed information about the deals they are offering.

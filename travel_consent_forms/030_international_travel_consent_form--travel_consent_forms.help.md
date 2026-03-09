@@ -1,5 +1,3 @@
-<thinking>...The International Travel Consent Form is used to collect information about travelers, including their name, relationship with the school, travel destination, travel dates, and any relevant travel documents. This form is required to be completed for all international travel. The form ensures that the traveler's parent or guardian has given their consent for the trip. The traveler's name, destination, and dates of travel should match the information found in their travel itinerary. The travel document field is not always required but can be used to attach a copy of the travel document (e.g., visa, passport) if available. This form should be completed by the traveler's parent or guardian and is not intended for the traveler themselves. This form is used to ensure that all parties involved in the trip, including parents, guardians, and school administrators, are aware of and have given their consent for the trip... </thinking>
-
 # International Travel Consent Form - Help Guide
 
 ## Purpose

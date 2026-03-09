@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help travel agents handle tourist group transport inquiries, which is a crucial aspect of their work. It allows agents to collect information about the group's travel dates, transport type preferences, and other essential details that are essential for organizing smooth and efficient transportation services. By using this form, travel agents can minimize errors and ensure that the group's needs are met, leading to a positive experience for both the agent and the tourist group.
-</thinking>
-
 # Tourist Group Transport Inquiry Form - Help Guide
 
 ## Purpose

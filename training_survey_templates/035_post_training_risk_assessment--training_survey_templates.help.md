@@ -1,15 +1,3 @@
-<thinking>
-
-The form "post_training_risk_assessment" is likely used to gather feedback and assessment after a training program has taken place. It seems to be designed to evaluate the overall experience, identify areas of improvement, and potentially provide a final review or summary of the training.
-
-Before proceeding, please ensure that you have completed the relevant training and have a good understanding of the context.
-
-Please ensure that you have not already completed this form for this training program, as it is likely to be used to track progress and assess the overall effectiveness of the training.
-
-Please note that this form is a general template and some of the fields might not be relevant to your specific context. You can skip or adapt the fields to fit your needs.
-
-</thinking>
-
 # post_training_risk_assessment - Help Guide
 ## Purpose
 The post-training risk assessment form is used to evaluate the overall risk associated with a training program after it has been completed. It helps to identify areas of improvement and gather feedback for future training programs.

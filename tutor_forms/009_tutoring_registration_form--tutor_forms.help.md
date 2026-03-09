@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the "Tutoring Registration Form" is to gather information from students who are interested in receiving tutoring services. This form is designed to be a simple and straightforward way to collect the necessary details from students, making it easy for them to get started with tutoring.
-
-To ensure that the form is completed correctly, it's essential to check that each field is relevant and not duplicated. If a student has already registered for tutoring, there's no need to register again.
-
-The form has multiple pages, each with its own set of fields. Each page and field will be explained in detail below.</thinking>
-
 # Tutoring Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from students who are interested in receiving tutoring services.

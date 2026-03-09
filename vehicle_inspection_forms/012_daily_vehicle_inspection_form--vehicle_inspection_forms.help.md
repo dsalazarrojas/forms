@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of the "Daily Vehicle Inspection Form" is to collect information about the current state of a vehicle for maintenance, repair, or other purposes. This form is likely used by mechanics or inspectors to document the vehicle's condition and identify any potential issues that need to be addressed. The form is likely used within an organization that maintains a fleet of vehicles, such as a car rental company or a government agency.
-
-This form is probably used to standardize the inspection process and ensure that all relevant information is collected in a consistent manner. It may also help to reduce errors and improve efficiency by providing a clear and structured format for the inspection process.
-
-Before proceeding, please ensure that you have access to the vehicle being inspected and that you are aware of the relevant inspection procedures and protocols within your organization.
-
-</thinking>
-
 # Daily Vehicle Inspection Form - Help Guide
 ## Purpose
 The Daily Vehicle Inspection Form is used to document the current state of a vehicle, identify potential issues, and ensure that all relevant information is collected in a consistent manner.

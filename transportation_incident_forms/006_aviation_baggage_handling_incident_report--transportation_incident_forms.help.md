@@ -1,7 +1,4 @@
-# <thinking>Internal reasoning: The purpose of the Aviation Baggage Handling Incident Report form is to provide a structured way to document and report baggage handling incidents. This form is designed to gather relevant information about the incident, including the type, date, time, location, and details of the incident. The report helps to identify the severity level of the incident and guide corrective actions needed. It also serves as a follow-up tool for the incident investigation process. The form is intended for use by employees in the baggage handling department, who are responsible for reporting incidents to ensure that the necessary actions are taken to prevent future incidents. By using this form, the airline can improve its baggage handling processes and provide better service to its passengers.
-
-</thinking>
-# Aviation Baggage Handling Incident Report - Help Guide
+# # Aviation Baggage Handling Incident Report - Help Guide
 
 ## Purpose
 This form is used to report and document baggage handling incidents that occurred during the handling of passenger baggage. The information collected will be used to analyze and identify the root cause of the incident, and to guide corrective actions to prevent similar incidents from happening in the future.

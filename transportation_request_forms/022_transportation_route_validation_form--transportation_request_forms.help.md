@@ -1,16 +1,3 @@
-<thinking>
-Transportation Route Validation Form is used to gather information about a route's properties, vehicle specifics, and any notable details about the route. The form is designed for transportation-related use cases where route validation is necessary.
-
-When filling out this form, consider the following:
-
-- Is this form being used to create a new route, modify an existing one, or validate an existing route for changes or updates?
-- Are there any specific concerns or notes you'd like to record or share with others?
-- Are there any notable vehicles or drivers associated with this route?
-
-This form's fields will guide you through the process of gathering relevant information.
-
-</thinking>
-
 # Transportation Route Validation Form - Help Guide
 ## Purpose
 This form gathers information about routes, including their properties, vehicle details, and notable notes.

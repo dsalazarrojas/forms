@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Travel Package Extension Form - Help Guide
 ## Purpose
 The Travel Package Extension Form is used to request an extension of a travel package. This form allows customers to submit their requests and additional information for package extension.

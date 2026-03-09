@@ -1,7 +1,3 @@
-<thinking>
-This form, "International Travel Participant Agreement," is a critical document used to gather essential information from participants traveling internationally. It serves to clarify the participant's personal details, medical conditions, travel plans, and agreements for supervision. The form's fields are designed to ensure that all necessary information is collected to ensure a safe and successful travel experience.
-</thinking>
-
 # International Travel Participant Agreement - Help Guide
 ## Purpose
 The International Travel Participant Agreement form is a document that requires participants to provide their personal details, medical information, and travel plans. This form is used to ensure that participants are aware of and agree to certain conditions and rules before embarking on their travels.

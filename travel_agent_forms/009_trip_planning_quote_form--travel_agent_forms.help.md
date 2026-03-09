@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from the travel agent and client about trip planning and quoting, covering details of the travel agency's services and agreements.
-
-The purpose of this form is to collect necessary information for travel planning and quoting purposes. The form is split into two main sections, one for the travel agent and one for the client. The travel agent section includes questions about travel agent details, services provided, and terms and conditions. The client section includes questions about the client's preferences, agreements, and signatures.
-
-To complete this form, please follow the instructions below.
-
-</thinking>
-
 # Trip Planning Quote Form - Help Guide
 ## Purpose
 This form is designed to gather information from the travel agent and client about trip planning and quoting.

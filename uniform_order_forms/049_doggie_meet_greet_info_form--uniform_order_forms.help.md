@@ -1,21 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for a form called "Doggie Meet & Greet Info Form". This form is used to collect information from pet owners about their pets and owners. The form will be used to gather details such as pet names, birthdates, types, owner names, contact information, and more. This form will likely be used in a veterinary clinic or pet care setting to gather essential data for meet and greet sessions or other pet-related purposes.
-
-To ensure that we're not creating duplicate work and to keep the form up-to-date, let's review the existing schema and ensure that all required fields are clearly defined, and all fields have a purpose and explanation.
-
-This form consists of the following fields:
-- First Name (pet_name): text input for the pet's first name.
-- Last Name (pet_last_name): text input for the pet's last name.
-- Birthdate (pet_birthday): date input for the pet's birthdate.
-- Type (pet_type): select option field for the pet's type (e.g., Labrador, Golden, Beagle, Poodle, or Other).
-- Owner First Name (owner_first_name): text input for the owner's first name.
-- Owner Last Name (owner_last_name): text input for the owner's last name.
-- Owner Email (owner_email): email input for the owner's contact email.
-- Owner Phone (owner_phone): text input for the owner's phone number.
-
-The following fields are not required in this form.
-</thinking>
-
 # Doggie Meet & Greet Info Form - Help Guide
 ## Purpose
 The "Doggie Meet & Greet Info Form" is used to collect information from pet owners about their pets and owners for meet and greet sessions or other pet-related purposes.

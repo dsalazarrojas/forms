@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather transportation schedule and communication information from users. The form collects data about travel dates, arrival and departure times, transportation type, vehicle number, driver name, and any additional notes. This data can be used for internal communication and scheduling purposes. 
-
-Please ensure that this form is only used for its intended purpose and not for any other form of communication or scheduling. This form is not designed to collect any sensitive or confidential information. 
-
-This help guide is provided to assist users in understanding the form's purpose and requirements, and to help them complete it accurately and efficiently.
-
-</thinking>
-
 # transportation_schedule_communication_form - Help Guide
 ## Purpose
 This form is used to gather transportation schedule and communication information from users. The collected data will be used for internal communication and scheduling purposes.

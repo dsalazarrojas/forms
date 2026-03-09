@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from passengers for a cruise survey, which is likely used to gather feedback, comments, or other relevant data from passengers after a cruise. The form may be used by a travel agency or cruise line to improve their services, identify areas of improvement, or simply to gather contact information for follow-up purposes. It's essential to ensure that the form is filled out correctly to collect accurate and relevant data. To avoid duplication, it's recommended to check with the travel agency or cruise line to see if they have a similar form or process in place.
-
-</thinking>
-
 # Cruise Survey - Help Guide
 ## Purpose
 This form is designed to collect information from passengers after a cruise, enabling the travel agency or cruise line to gather feedback, comments, or contact information for future reference.

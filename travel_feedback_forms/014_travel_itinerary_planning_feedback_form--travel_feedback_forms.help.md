@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the travel_itinerary_planning_feedback_form is to collect feedback from users on a travel itinerary. This form is designed to gather information about a user's experience with a travel itinerary, including their overall satisfaction, specific feedback, and travel details. The form should be completed by users to provide constructive feedback that can help improve future travel itineraries.
-Before completing the form, please ensure that you have relevant and non-duplicate feedback. This form is a one-time feedback form and should not be used for duplicate feedback.
-</thinking>
-
 # travel_itinerary_planning_feedback_form - Help Guide
 ## Purpose
 The travel_itinerary_planning_feedback_form is designed to collect feedback from users on a travel itinerary. The form is used to gather information about a user's experience, including overall satisfaction, specific feedback, and travel details.

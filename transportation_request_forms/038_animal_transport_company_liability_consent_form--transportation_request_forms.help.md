@@ -1,19 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the animal being transported, including its health and liability concerns, and obtain consent from the owner to transport the animal. The form is used to ensure the safe and healthy transport of animals, and to inform the owner of the risks involved in the transport process. It is essential to complete this form accurately and truthfully to ensure a smooth and safe transport process.
-
-When completing this form, please ensure that all fields are filled in correctly, and that you have provided all necessary information. If you are unsure about any section, please ask for clarification before proceeding.
-
-This form is divided into several sections, each focusing on different aspects of animal transport. Here's a breakdown of each section and the fields within them:
-
-* Owner Information: This section asks for contact details of the animal owner, including their name, email, phone number, and address.
-* Animal Information: This section gathers details about the animal, including its name, species, age, weight, gender, and microchip number if available.
-* Transport Details: This section collects information about the transport process, including the pickup and drop-off locations, transport type, and estimated travel time.
-* Health Information: This section inquires about the animal's health conditions, medical history, and any allergies or sensitivities.
-* Liability and Consent: This section requires the owner to acknowledge the risks involved in transport, accept liability waiver, and provide consent for the transport process.
-* Final Consent: This section finalizes the transport agreement, including the date of consent and agreement to all terms and conditions.
-
-</thinking>
-
 # Animal Transport Company Liability Consent Form - Help Guide
 ## Purpose
 The Animal Transport Company Liability Consent Form is a critical document that ensures the safe and healthy transport of animals. It gathers information about the animal, transport process, and owner's liability. This guide helps you understand each section of the form and its purpose.

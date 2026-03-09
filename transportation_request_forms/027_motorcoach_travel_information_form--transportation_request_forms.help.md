@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a motorcoach travel request. The motorcoach travel information form is used to gather details about a trip, including the trip's purpose, departure and arrival dates and times, passenger count, and contact information for the person submitting the request. This form is intended for internal use, and the information collected will be used to facilitate communication and coordination with the motorcoach travel service provider. It is not intended for external sharing or publication.
-
-To prevent duplication, please ensure that you have not submitted a similar request in the past. If you are unsure, please check with the travel service provider or a team member for guidance.</thinking>
-
 # Motorcoach Travel Information Form - Help Guide
 ## Purpose
 

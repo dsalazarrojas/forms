@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for a field trip, which is a temporary excursion or outing that is not part of the regular classroom schedule. It's essential to have a clear and concise way to collect this information to ensure the well-being and safety of students. This form will be used to collect contact information, medical details, and emergency response plans for students participating in the field trip. Please ensure that all required fields are filled and that the information is accurate and up-to-date to prevent any issues during the trip.
-</thinking>
-
 # Field Trip Consent Form - Help Guide
 
 ## Purpose

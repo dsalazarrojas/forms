@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for managing and tracking client information, tutoring schedules, contract terms, frequency, rates, and other relevant details for the tutoring service. To avoid duplication and ensure accurate data collection, it's crucial that the form is used only once for each client. This form's layout appears to be designed for a simple and straightforward process, making it easy to understand and fill out. The form fields seem to cover essential information needed for effective contract management.
-</thinking>
-
 # Tutoring Contract - Help Guide
 ## Purpose
 The purpose of this form is to collect and store information about clients and their tutoring contracts.

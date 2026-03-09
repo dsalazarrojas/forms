@@ -1,6 +1,3 @@
-<thinking>
-To ensure that bus drivers and inspectors understand their roles and responsibilities in completing this form, we first need to confirm that this form is intended for internal use within the organization and not for external entities. We also need to ensure that the form is not being duplicated for similar purposes, as it might be a part of a larger inspection process. The form is designed to collect data on the condition and status of buses during inspections, which is crucial for maintaining vehicle safety and compliance with regulations. The fields in this form are designed to cover various aspects of the bus inspection, including the inspector's details, vehicle information, and condition of different parts and systems. Each field is carefully crafted to gather specific details that will help identify any issues or defects found during the inspection. This form is not intended to be used for external purposes, such as publishing or sharing information publicly, but for internal use only.</thinking>
-
 # Bus Inspection Form - Help Guide
 ## Purpose
 The Bus Inspection Form is designed to collect data on the condition and status of buses during inspections. It is intended for internal use within the organization and is not for external purposes such as publishing or sharing information publicly.

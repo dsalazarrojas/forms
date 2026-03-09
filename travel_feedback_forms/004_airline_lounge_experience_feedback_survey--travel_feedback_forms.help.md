@@ -1,13 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Airline Lounge Experience Feedback Survey" form, we need to break down the form's purpose, how to complete it, and explain each field in detail.
-
-The purpose of this form is to gather feedback from passengers about their experience in the airline lounge. The form is divided into several sections that cover the visit details, check-in experience, amenities, and overall satisfaction. The goal is to understand how well the lounge meets its passengers' needs and identify areas of improvement.
-
-When completing this form, passengers are asked to provide their visit details, including the date and location of their visit, their membership status, and the amenities they used during their stay. They are also asked to rate their experience with check-in, seating comfort, food quality, staff service, and overall satisfaction. Additionally, they can provide any suggestions for improvement they may have.
-
-Each field has a specific label and explanation to guide the passenger through the process.
-</thinking>
-
 # Airline Lounge Experience Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from passengers about their experience in the airline lounge. This information will help us identify areas of improvement and provide better services to our passengers in the future.

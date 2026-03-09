@@ -1,13 +1,3 @@
-<thinking>
-
-To create an effective help guide for the "AT Disney Vacation Inquiry Form", we need to ensure that the form's purpose and fields are clearly understood by the end-users. This form is designed to collect information from potential Disney visitors, including their personal details, travel preferences, and payment information. 
-
-The form's purpose is to gather essential data to provide personalized services and experiences for the guests during their visit. The form's sections are organized into categories for easier understanding and completion.
-
-Before filling out the form, ensure that you have all the necessary information ready, as some fields require specific formats or details. 
-
-</thinking>
-
 # AT Disney Vacation Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential Disney visitors to provide personalized services and experiences during their visit. The gathered data will be used to tailor the accommodations and activities to fit their preferences.

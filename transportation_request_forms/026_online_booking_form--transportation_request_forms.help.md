@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the online booking form, I must first understand the form's purpose and fields. The online booking form seems to be designed to collect information for travel bookings, including general information, date and time, location, contact details, special requests, travel documents, travel agency, payment method, notes, and confirmation details. The form has a mix of required and optional fields, indicating that some information is essential for the booking process, while others are supplementary. The form's design allows for multiple selections in some fields, suggesting that users may be able to choose from multiple options. This guide will help users navigate the form and understand what each field is for.
-</thinking>
-
 # online_booking_form - Help Guide
 ## Purpose
 This form is designed to collect information for travel bookings. Fill it out to provide us with the necessary details for your trip.

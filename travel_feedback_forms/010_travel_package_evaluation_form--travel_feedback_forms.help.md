@@ -1,11 +1,3 @@
-<thinking>
-The form is intended to collect feedback from travelers on their experiences with travel packages. It is likely used by travel companies or tour operators to improve their services. The form is not a part of any specific travel platform, but rather a general form designed to be used by anyone in the travel industry. The form is not intended to be a part of any commercial or proprietary platform, but rather a free, open-source form that can be used and modified by anyone.
-
-To ensure that this form is relevant and useful to you, please check that it is being used in a legitimate and non-duplication context. If you're looking for a form to collect feedback on a specific travel package, this form might be a good starting point for customization or adaptation.
-
-Note that while the form is designed to be user-friendly, some fields may not be clearly labeled or may have unclear intent. This guide will attempt to provide a clear explanation of each field to help you fill out the form accurately.
-</thinking>
-
 # Travel Package Evaluation Form - Help Guide
 ## Purpose
 The Travel Package Evaluation Form is a tool for travelers to share their thoughts and opinions about their recent travel experience with a travel package.

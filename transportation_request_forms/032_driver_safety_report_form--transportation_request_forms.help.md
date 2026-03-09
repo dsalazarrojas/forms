@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information related to a safety report from a driver, which can be used by management or HR to investigate and address any incidents that have occurred. The form will be used to collect details about the driver, vehicle, and incident, and will help to ensure that incidents are reported accurately and thoroughly. This form should only be completed by drivers who have experienced an incident while operating a vehicle as part of their work.
-
-Before starting, please make sure that you have the required details and documents ready, such as vehicle registration number, company ID, and incident date and time. Please also note that the vehicle type field is a dropdown menu with options to select from, and please choose the correct option that corresponds to the type of vehicle you were operating at the time of the incident.
-</thinking>
-
 # Driver Safety Report Form - Help Guide
 ## Purpose
 The Driver Safety Report Form is used to gather information related to a safety incident involving a company vehicle or equipment. This form is used by drivers to report incidents that have occurred while they are working.

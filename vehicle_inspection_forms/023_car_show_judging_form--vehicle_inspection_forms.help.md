@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for judges to evaluate a vehicle's condition during a car show or competition. The form is divided into several sections, each assessing different aspects of the vehicle's condition. The sections include Judge Information, Vehicle Entry Information, Exterior Condition, Interior Condition, and Mechanical Appearance. The form requires information about the judge's name, vehicle entry number, vehicle owner's name, year, make, model, and color, as well as ratings for various aspects of the vehicle's condition, such as paint finish, body condition, and interior condition. The form is designed to gather detailed information about the vehicle's condition and allow the judge to provide a comprehensive evaluation.
-
-To ensure that this form is being used correctly, please check that the judge's name and vehicle entry number are correct and that the vehicle's make, model, and year are accurately filled in. The form should only be filled out once for each vehicle.
-
-Please note that some sections are required while others are optional and can be filled out at the discretion of the judge.
-</thinking>
-
 # Car Show Judging Form - Help Guide
 
 ## Purpose

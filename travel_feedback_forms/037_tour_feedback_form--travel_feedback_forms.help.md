@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is completed for each tour, and that the feedback is accurate and relevant to the tour experience. To prevent duplication, we should check if a user has already completed a form for the same tour. This will help us improve our services and provide better experiences for future visitors.
-</thinking>
-
 # Tour Feedback Form - Help Guide
 ## Purpose
 The Tour Feedback Form is designed to gather information from customers about their experience with our tours. Your feedback is crucial in helping us improve our services and provide better experiences for future visitors.

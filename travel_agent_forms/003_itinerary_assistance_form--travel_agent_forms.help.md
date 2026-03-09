@@ -1,5 +1,3 @@
-<thinking>This form is intended to capture information from travel agents who need assistance with planning or modifying existing itineraries. The form will help gather essential details about the participant(s) traveling and their travel dates. We should verify that the participant name and participant number (if applicable) match the existing records to avoid duplication of effort and ensure accurate representation in our system. This will prevent unnecessary work and potential data inconsistencies, so it's essential to fill out this form as accurately and comprehensively as possible.</thinking>
-
 # Itinerary Assistance Form - Help Guide
 ## Purpose
 This form is designed to collect information from travel agents who need assistance with planning or modifying existing itineraries.

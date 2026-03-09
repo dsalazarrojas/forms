@@ -1,6 +1,3 @@
-<thinking>
-This is a help guide for the Critical Care Transport Debrief form. The purpose of this form is to record details of critical care transport incidents, such as times, dates, and team involvement. It helps in analyzing and improving the transport process for critical care patients. Before starting to fill this form, ensure you are authorized to access and report transport incidents, and that you are not duplicating an existing report. If you are unsure about the incident's criticality or have already submitted a report, please check with your supervisor or the incident coordinator before proceeding.</thinking>
-
 # Critical Care Transport Debrief - Help Guide
 ## Purpose
 The Critical Care Transport Debrief form is used to record and analyze details of critical care transport incidents.

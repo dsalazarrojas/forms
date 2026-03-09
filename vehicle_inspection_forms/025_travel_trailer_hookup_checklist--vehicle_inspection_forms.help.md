@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Travel Trailer Hookup Checklist - Help Guide
 ## Purpose
 This form is intended to provide a comprehensive checklist for the travel trailer hook up, ensuring that all necessary connections are properly secured and accounted for. It is crucial for ensuring the safety and efficiency of the trailer's operations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # RLT Carrier Setup Form - Help Guide
 ## Purpose
 This form is designed to gather information for RLT (Returnable, Less-Than-Load) carrier setup. RLT carriers are used for shipping small, lightweight packages or packages that do not require a full truckload shipment. This form will help you set up your RLT carrier account, providing necessary contact information and transportation details.

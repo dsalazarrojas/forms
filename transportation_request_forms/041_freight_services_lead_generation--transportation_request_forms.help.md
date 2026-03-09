@@ -1,12 +1,3 @@
-<thinking>
-
-Internal reasoning block to check for relevance and non-duplication:
-This form is for generating freight services leads. The goal is to collect information from end-users about their shipping needs, including contact information, shipping details, and service type preferences. This information will be used to create leads for freight services sales and operations teams to follow up on. 
-
-This guide is intended to be a one-time explanation of the form's purpose and fields. It should be reviewed and updated as necessary to ensure accuracy and relevance.
-
-</thinking>
-
 # Freight Services Lead Generation - Help Guide
 ## Purpose
 The Freight Services Lead Generation form is designed to collect information from end-users about their shipping needs, which will be used to create leads for freight services sales and operations teams.

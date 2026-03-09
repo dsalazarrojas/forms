@@ -1,7 +1,3 @@
-<thinking>
-Form purpose is to collect feedback from volunteers on their experience at the camp, allowing organizers to improve the volunteer program. Feedback is essential for identifying areas of improvement and making informed decisions about future events.
-</thinking>
-
 # Camp Volunteer Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from volunteers on their experience at the camp, allowing organizers to improve the volunteer program.

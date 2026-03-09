@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect essential information from participants for a specific tour code of conduct agreement. The form is crucial in ensuring that participants provide their explicit consent and necessary details to participate in the tour safely and responsibly. This form likely belongs to a company or organization that organizes tours and requires participants to acknowledge their understanding of the tour's terms and conditions. The form's purpose is to obtain participant's information, emergency contact, and consent, as well as details about the tour.
-
-</thinking>
-
 # Tour Code Of Conduct Agreement - Help Guide
 ## Purpose
 This form is required to be completed by participants to provide their consent and essential information for a smooth and safe tour experience. It is essential to read and understand the information provided in this form before proceeding.

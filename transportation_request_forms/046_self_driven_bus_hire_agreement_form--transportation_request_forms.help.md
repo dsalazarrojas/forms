@@ -1,12 +1,3 @@
-<thinking>
-This form is a crucial tool for both bus owners and hirers in the transportation industry. It is designed to capture essential information required for self-driven bus hire agreements, ensuring a smooth and secure transaction process. The purpose of this form is to gather necessary details from both the bus owner and the hirer, outlining terms of agreement and payment conditions. 
-
-The form aims to prevent any misunderstandings or disputes by clearly documenting the essential points of the agreement, making it an indispensable tool for bus owners and hirers alike.
-
-To ensure that the form serves its purpose effectively and accurately captures the necessary information, it is essential that both parties fill it out correctly.
-
-</thinking>
-
 # Self Driven Bus Hire Agreement Form - Help Guide
 ## Purpose
 This form is used to outline the terms and conditions of a self-driven bus hire agreement between the bus owner and the hirer. It captures essential information required for a secure and smooth transaction process.

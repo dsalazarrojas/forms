@@ -1,8 +1,3 @@
-<thinking>
-This form is used for private lesson enrollment and requires information on student and instructor details, lesson duration, fees, payment method, and payment status. The instructor's and student's agreements should be acknowledged before proceeding. Please ensure the student has filled out the form correctly and accurately.
-
-</thinking>
-
 # online-private-lesson-enrollment-form - Help Guide
 ## Purpose
 This form is used for the private lesson enrollment process. It gathers student and instructor information, lesson duration, payment details, and other relevant details necessary for the successful execution of the private lesson.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to prevent misinterpretation and potential misuse of the form, so let's make sure we're clear about its purpose and requirements before proceeding.
-</thinking>
-
 # Move Out And In Instant Quote Request Form - Help Guide
 ## Purpose
 The Move Out And In Instant Quote Request Form is used to gather information for transportation requests that involve moving out and/or moving in. This form helps in generating an instant quote for the requested services, ensuring that all the necessary details are captured accurately.

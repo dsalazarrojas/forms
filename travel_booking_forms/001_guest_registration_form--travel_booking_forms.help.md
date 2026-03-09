@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended to collect registration information from guests for travel bookings. It is a crucial part of the booking process to ensure that the guest's details are accurate and up-to-date. 
-
-This form is designed to gather essential information such as name, contact details, and preferences for the guest. It also allows guests to provide additional notes or comments if needed. 
-
-The form is a critical step in the travel booking process and is used by travel operators to prepare for the guest's arrival. This process aims to enhance the guest experience and ensure seamless check-in/check-out procedures. 
-
-Before proceeding, please make sure you have all necessary information ready and that you are filling the form for the correct purpose. Please do not submit duplicate or incomplete registrations.
-
-</thinking>
-
 # Guest Registration Form - Help Guide
 ## Purpose
 This form is used to collect registration information from guests for travel bookings. Please fill it out carefully and accurately to ensure a smooth and enjoyable experience for the guest and the travel operator.

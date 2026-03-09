@@ -1,15 +1,3 @@
-<thinking>
-
-The "Theme Park Operator Onboarding Form" is a crucial document for onboarding Theme Park operators. This form captures essential details about the operator, including their documentation details, contact information, and onboarding status. It helps the Theme Park management team to efficiently onboard new operators, ensuring a smooth and organized process.
-
-This form is used by Theme Park operators to provide the necessary information for onboarding. It is a mandatory requirement for all operators to fill out this form accurately and completely.
-
-The form has multiple sections with different types of fields, including text, email, phone number, date, time, and select one/select multiple options. Some fields are marked as required, indicating that they must be filled out for the form to be submitted successfully.
-
-The form is designed to help Theme Park operators get onboarding as soon as possible. By completing this form, operators will be able to access various Theme Park resources and start working efficiently.
-
-</thinking>
-
 # Theme Park Operator Onboarding Form - Help Guide
 ## Purpose
 This form is used to onboard Theme Park operators, capturing essential details about them for efficient onboarding and access to Theme Park resources.

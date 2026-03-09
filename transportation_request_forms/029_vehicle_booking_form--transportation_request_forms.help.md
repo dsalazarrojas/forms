@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Vehicle Booking Form - Help Guide
 ## Purpose
 The Vehicle Booking Form is used to book a vehicle for transportation purposes. Please use this form to submit your vehicle booking request and provide relevant details for a smooth booking process.

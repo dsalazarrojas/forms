@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to gather information from users about their travel preferences, which will be used to tailor the travel experience to their needs. The form is divided into multiple pages, each with its own set of fields. The form is not required to be completed, and users can choose to skip any page or question that they are not comfortable answering. The form will be used to gather data for internal purposes only, and the information collected will not be shared with third parties. 
-
-</thinking>
-
 # Travel Registration Form - Help Guide
 ## Purpose
 The Travel Registration Form is designed to gather information from users about their travel preferences, which will be used to provide a personalized travel experience.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their luxury travel experiences. It is used to gauge the quality of service provided by travel agents, to identify areas of improvement, and to understand user preferences and expectations. This form is intended for travel agents to collect feedback on a per-trip basis. To ensure that feedback is relevant and useful, it is essential to fill out the form for each trip separately. Please note that some fields are not required, so users can provide feedback without being forced to fill out unnecessary information.
-</thinking>
-
 # luxury_travel_experience_feedback_form - Help Guide
 ## Purpose
 The luxury travel experience feedback form is designed to collect detailed feedback from users about their luxury travel experiences. This form helps travel agents to understand user preferences, identify areas of improvement, and provide better services.

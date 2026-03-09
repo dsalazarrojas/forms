@@ -1,10 +1,3 @@
-<thinking>
-To avoid confusion or duplication, let's first determine the form's purpose and the fields required to complete it.
-
-The form's purpose is to collect information for trucking bookings, which is a service for transporting goods from one location to another. The form asks for details about the company, trailer size and type, pickup and dropoff locations, and other relevant details to facilitate the booking process.
-
-</thinking>
-
 # Trucking Booking Form - Help Guide
 
 ## Purpose

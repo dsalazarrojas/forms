@@ -1,21 +1,3 @@
-<thinking>
-This form is intended to collect business inquiries from travel agents, providing them with a structured way to gather essential information. The form is divided into multiple pages, each with a specific set of fields that cater to the needs of travel agents. The main objectives of this form are to streamline the inquiry process, improve communication between travel agents and the travel company, and gather relevant information to address the agents' inquiries efficiently. The form is designed to be comprehensive and easy to understand, ensuring that travel agents can complete it quickly and accurately.
-
-The form is composed of 9 fields, each with a distinct purpose:
-- Page 1: Client Information (Required) - This page collects basic client details such as name, email, and contact information.
-- Page 2: Travel Information (Optional) - This page gathers travel-related information such as travel dates and destinations.
-- Page 3: Date of Travel (Required) - This field is a date picker that collects the travel dates.
-- Page 4: Travel Agency (Required) - This field presents a multiple-select option for travel agencies, allowing the agent to choose from available agencies or specify "Other" if not listed.
-- Page 5: Inquiry Details (Required) - This field is a note field where the agent can provide more details about their inquiry.
-- Page 6: Inquiry Type (Required) - This field is a select-one option for the type of inquiry, whether it's for a travel package or service.
-- Page 7: Preferred Language (Required) - This field allows the agent to choose their preferred language for communication.
-- Page 8: Additional Comments (Required) - This field provides an opportunity for the agent to add any additional information or context to their inquiry.
-- Page 9: Contact Person (Optional) - This field allows the agent to specify a contact person's name or email if needed.
-
-Please note that all fields with "Required: true" are mandatory to be filled out. The form is intended to be completed by travel agents, providing them with a structured way to gather information and communicate with the travel company. It's essential that the travel agents understand the form's purpose and use it accordingly to ensure seamless communication and efficient inquiry processing.
-
-</thinking>
-
 # travel_agent_business_inquiry_form - Help Guide
 ## Purpose
 This form is designed to collect business inquiries from travel agents, providing a structured way to gather essential information and improve communication between agents and the travel company.

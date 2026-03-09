@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for companies or individuals to apply for a cold transport compliance permit. This form helps the applicant provide necessary information to ensure that their transportation operations comply with relevant regulations. Please make sure to fill out this form carefully and accurately to avoid delays in the permit application process. Before starting, verify that you are not duplicating an existing permit application for the same routes or vehicle registration. If you are unsure about any part of the process, feel free to contact us for assistance.
-</thinking>
-
 # Cold Transport Compliance Permit Application Form - Help Guide
 
 ## Purpose

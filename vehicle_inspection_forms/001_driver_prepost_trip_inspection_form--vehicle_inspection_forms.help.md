@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to facilitate the collection of data on a driver's pre-post trip inspection, which is a critical process in ensuring the safety and well-being of drivers, especially during long trips. The form is intended to gather information about the driver, vehicle condition, and trip details, which can help identify potential risks and issues that need to be addressed before embarking on a trip. This information can be used to optimize routes, prevent accidents, and reduce the likelihood of vehicle breakdowns. The form is also a useful tool for drivers to document their vehicle's condition and trip details, providing a clear and concise record of their experience.
-
-</thinking>
-
 # Driver PrePost Trip Inspection Form - Help Guide
 ## Purpose
 This form is used to collect information on a driver's pre-post trip inspection, which is essential for identifying potential risks and issues that may arise during a trip.

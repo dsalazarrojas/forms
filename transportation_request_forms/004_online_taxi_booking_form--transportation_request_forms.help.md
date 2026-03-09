@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to book a taxi service by providing their address, pickup location, pickup time, select fare, choose trip type, select date, phone number, and email address. This form is intended for customers to easily and efficiently book a taxi with the required details.
-</thinking>
-
 # Online Taxi Booking Form - Help Guide
 ## Purpose
 The Online Taxi Booking Form is designed to enable users to book a taxi service by providing essential details such as address, pickup location, and more.

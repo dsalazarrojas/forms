@@ -1,7 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the Disneyland Quote Request Form, we must first understand the form's purpose. The form is designed to gather information from customers requesting a quote for travel plans to Disneyland. The form will collect details about the trip, the guests, the type of quote, the travel date, the price quote, the currency of the quote, and any additional notes. This information will be used by Disneyland to provide an accurate quote for the customer. Before completing the form, please ensure that you're not a repeat customer. If you have previously submitted a quote request, please do not resubmit your request. This will help us to efficiently handle your query and provide you with the most up-to-date information.
-</thinking>
-
 # Disneyland Quote Request Form - Help Guide
 ## Purpose
 This form is designed to help you request a quote for your travel plans to Disneyland. Please provide the necessary information, and our team will assist you in getting the best quote for your trip.

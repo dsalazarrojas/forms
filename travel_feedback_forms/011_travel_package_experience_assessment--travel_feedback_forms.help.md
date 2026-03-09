@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be used for travel agencies to collect feedback from their customers about their recent travel experience with the agency. The goal of this form is to gather valuable information about the customer's overall satisfaction with their travel package, including any issues that may have arisen during their trip. The form collects data on various aspects of the travel experience, including overall satisfaction, satisfaction score, rating, comments, contact information, travel type, date and time of travel, whether a travel agent was involved, and accommodation type. This form is not mandatory, and customers are free to provide feedback on their experience, including any positive or negative aspects.
-
-</thinking>
-
 # travel_package_experience_assessment - Help Guide
 ## Purpose
 This form is used to collect feedback from customers about their travel experiences with our agency.

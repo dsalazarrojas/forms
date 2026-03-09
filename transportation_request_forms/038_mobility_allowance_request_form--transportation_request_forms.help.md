@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from users regarding their mobility allowance requests. The purpose of this form is to gather necessary details to process and fulfill these requests efficiently. To ensure accurate completion, please follow the instructions below.
-
-This form will be used to determine the type of mobility assistance needed and the duration of its required use. Please answer all relevant fields truthfully to expedite the processing time.
-
-Before starting, please note that some fields are optional and only required for specific circumstances. This form will be reviewed and verified internally.
-
-</thinking>
-
 # Mobility Allowance Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users regarding their mobility allowance requests. The purpose of this form is to gather necessary details to process and fulfill these requests efficiently.

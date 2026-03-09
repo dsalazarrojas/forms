@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by customers to book rail tickets, providing a simple and straightforward way to request ticket information. Before completing this form, please make sure you have all necessary information ready and that you have not already submitted a ticket request for the same train. This will help ensure a smooth and efficient request process.
-</thinking>
-
 # Rail Ticket Booking Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers for rail ticket bookings. Please fill out the following details to submit your ticket request.

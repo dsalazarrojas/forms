@@ -1,7 +1,3 @@
-<thinking>
-Internal purpose of this form is to facilitate the renewal process of animal transport licenses. This form is designed to collect essential information from transport businesses to ensure they are compliant with regulatory requirements and guidelines. Before completing this form, please ensure you have all necessary information and documentation ready. Please note that duplicate or incomplete applications may be rejected.
-</thinking>
-
 # Animal Transport License Renewal Application - Help Guide
 ## Purpose
 This guide is designed to help you complete the Animal Transport License Renewal Application form accurately and efficiently.

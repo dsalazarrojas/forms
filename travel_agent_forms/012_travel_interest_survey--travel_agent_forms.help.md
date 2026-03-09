@@ -1,5 +1,3 @@
-<thinking>As a technical writer, I'll create a user-facing help guide for the "Travel Interest Survey" form, based on the provided YAML fields. This guide will cover the form's purpose, the step-by-step process to complete it, and a detailed explanation of each field.</thinking>
-
 # Travel Interest Survey - Help Guide
 
 ## Purpose

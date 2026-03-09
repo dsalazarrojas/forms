@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to obtain travel agent's credit card authorization for client payments. The form is designed to collect necessary information to ensure smooth and secure payment processing. To prevent unauthorized transactions, it's essential to fill out this form accurately and completely. Please ensure that all fields are filled out correctly before submitting the form.
-
-</thinking>
-
 # travel_agent_credit_card_authorization_form - Help Guide
 ## Purpose
 The travel_agent_credit_card_authorization_form is used to obtain travel agent's credit card authorization for client payments.

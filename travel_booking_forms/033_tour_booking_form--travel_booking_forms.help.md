@@ -1,9 +1,3 @@
-<thinking>
-
-This form seems to be designed to gather information for a tour booking system, likely for a travel agency or tour operator. The form likely aims to collect details about the tour, date, and other relevant information to facilitate the booking process. Before proceeding, please ensure that the form is not a duplicate and that the information collected is accurate. This form has 10 fields, each of which will be explained below.
-
-</thinking>
-
 # Tour Booking Form - Help Guide
 ## Purpose
 The Tour Booking Form is designed to collect information for booking a tour. This form will guide you through the necessary steps to provide all the required details for a successful tour booking.

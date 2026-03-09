@@ -1,14 +1,3 @@
-<thinking>
-
-This form is for travelers to inquire about a trip to Orlando for a holiday vacation. To ensure accurate completion, please follow the guidelines below:
-
-* This form is designed to collect necessary information from travelers to facilitate their trip.
-* Each field is optional, so travelers can choose what information they want to share.
-* Please fill out the form accurately and clearly, especially for special needs or requirements.
-* If you have any special needs or requirements, please describe them in the "special_needs_description" field.
-
-</thinking>
-
 # Orlando Holiday Vacation Inquiry - Help Guide
 ## Purpose
 This form is designed to gather information from travelers who are interested in a holiday vacation to Orlando. The information collected will be used to plan and tailor their trip accordingly.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track student attendance for high school tutoring sessions. The form is used to record information about each session, including the date, student name and ID, session type, topic, attendance status, session notes, start and end time, and student signature. This form will likely be used by school administrators or tutors to monitor student progress and attendance, and to ensure that students are taking advantage of the tutoring services. To prevent duplication, this form should only be filled out once per session.
-</thinking>
-
 # High School Tutoring Attendance Form - Help Guide
 ## Purpose
 This form is used to track student attendance for high school tutoring sessions.

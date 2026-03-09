@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Wolfskill English Castles Tour Custom Webpage" form, we need to break down the form's purpose, how to complete it, and provide field-by-field explanations. 
-
-The form's purpose is to allow users to book a tour of English castles. The form has three main fields: "English Castles Tour", "Tour Dates", and "Arrival And Departure". 
-
-The form is meant to be completed by users who want to book a tour of English castles, selecting a date for the tour and their travel dates. The form does not have any dependencies, so it can be completed independently.
-
-</thinking>
-
 # Wolfskill English Castles Tour Custom Webpage - Help Guide
 ## Purpose
 This form is designed for users to book a tour of English castles. It allows users to select a tour date and their travel dates in the format of MM/DD/YYYY.

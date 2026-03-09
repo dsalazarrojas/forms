@@ -1,8 +1,3 @@
-<thinking>
-The Wheel Inspection Checklist form is a comprehensive inspection tool designed to evaluate the condition of a vehicle's wheels, suspension, and related equipment. This form is intended to be used by mechanics, technicians, or other authorized personnel to assess the health and performance of a vehicle's wheels, including their alignment, bearing condition, hub condition, and more. The form is divided into several sections, each covering a specific aspect of the vehicle's wheels and equipment.
-To complete this form, follow the instructions below:
-</thinking>
-
 # Wheel Inspection Checklist - Help Guide
 ## Purpose
 The Wheel Inspection Checklist is a tool used to evaluate the condition of a vehicle's wheels and related equipment. It helps ensure that the vehicle is in good working condition and identifies potential issues that need to be addressed.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Boat Inspection Checklist Form - Help Guide
 
 ## Purpose

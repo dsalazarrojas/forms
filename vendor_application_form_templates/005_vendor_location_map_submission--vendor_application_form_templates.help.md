@@ -1,10 +1,3 @@
-<thinking>
-This form is likely used to collect information about a vendor's location and associated data. 
-It appears to be designed to be completed by a vendor themselves or their representative, and the fields are primarily focused on geographical and contact information. 
-The fields are mostly text-based, indicating that the form is probably used for data collection, not for validation. 
-It's possible that this form is used in conjunction with a mapping or directory service.
-</thinking>
-
 # Vendor Location Map Submission - Help Guide
 ## Purpose
 This form is used to submit information about your business or organization's location to be added to a mapping service.

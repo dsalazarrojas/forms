@@ -1,38 +1,3 @@
-<thinking>
-This form is used to collect data for traffic law compliance checks on vehicles. The purpose of this form is to ensure that vehicles are properly inspected and documented in accordance with regulatory requirements. 
-
-The main sections of the form include:
-- **Vehicle Checks**: Select all that apply from a predefined list of vehicle checks. This section is optional.
-
-  - **Record Compliance Items**: Select one record compliance item from a predefined list. This section is optional.
-
-  - **Observation Notes**: Provide a detailed description of the vehicle's condition. This section is optional.
-
-  - **Date Created** and **Last Updated**: These sections are for tracking the creation and last update dates of the form. They are not editable and will automatically populate based on user interactions.
-
-  - **Vehicle Checked By**: Select the person who performed the vehicle check. This section is optional.
-
-  - **Safety Manager Verified**: Confirm whether the safety manager has verified the vehicle check. This section is optional.
-
-  - **Vehicle Inspections Performed**: Select all that apply from a predefined list of vehicle inspections. This section is optional.
-
-  - **Observation Status**: Select the status of the observation. This section is optional.
-
-  - **Comments**: Provide any additional comments about the vehicle. This section is optional.
-
-  - **Attachment URLs**: Provide URLs of attachments related to the vehicle. This section is optional.
-
-  - **Vehicle Identifiers**: Provide any relevant vehicle identifiers. This section is optional.
-
-  - **Notes**: Provide additional notes about the vehicle. This section is optional.
-
-  - **Vehicle Make** and **Vehicle Year**: Select the make and year of the vehicle. These sections are optional.
-
-The form is designed to be completed by individuals who inspect vehicles and document their findings. The fields are mostly optional, but some sections are required to track important information.
-
-The main users of this form are individuals responsible for inspecting and documenting vehicles in accordance with traffic law regulations.
-</thinking>
-
 # Traffic Law Compliance Checklist - Help Guide
 ## Purpose
 This form is used to collect data for traffic law compliance checks on vehicles.

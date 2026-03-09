@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from potential travel agency consultants who wish to work with our agency. The form is intended to help us assess the qualifications and fit of these consultants. The fields collected will help us understand the consultant's experience, location, availability, specialization, and contact information. Before filling out this form, please note that it's not a job application form; we're looking for potential collaborators who can help us provide exceptional services to our clients. We're interested in consultants with a strong background in the travel industry, and we'll review the submissions to determine their eligibility for our agency's projects.
-</thinking>
-
 # Travel Agency Consultant Employment Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential travel agency consultants who wish to collaborate with our agency.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information on winter break transportation requests from various participants. The form will help identify the transportation needs of different groups, such as staff, faculty, students, and other participants, during the winter break. The form aims to provide insight into the types of travel arrangements preferred by each group, including travel methods, distances, and frequencies. This information will help in organizing efficient and convenient transportation services for all participants during the winter break.
-
-To avoid duplication, please note that this form is a one-time survey and will only be used to gather information for the current winter break. If you have previously submitted a transportation request, please do not resubmit this form unless you have changed your travel arrangements or have new information to provide.
-
-Please ensure that you fill out this form accurately and completely, as the information collected will be used to plan and provide transportation services.
-
-</thinking>
-
 # Winter Break Transportation Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your transportation needs during the winter break. Please take a few minutes to complete this survey, and provide as much detail as possible.

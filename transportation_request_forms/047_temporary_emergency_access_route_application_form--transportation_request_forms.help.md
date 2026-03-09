@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for temporary emergency access routes. It is intended for users who need to request access to a specific route in emergency situations, such as road closures or natural disasters. This form helps to ensure that the necessary information is collected in a structured and efficient manner. Please note that this form is not intended for routine or non-emergency situations. If you are not in an emergency, you should not submit this form.
-Before submitting this form, please make sure you have not submitted it previously. If you have previously submitted a request for a similar route, it is recommended not to submit a duplicate request. Please ensure that all information is accurate and up-to-date to avoid delays or confusion.
-</thinking>
-
 # Temporary Emergency Access Route Application Form - Help Guide
 ## Purpose
 The Temporary Emergency Access Route Application Form is designed to collect information for temporary emergency access routes. It helps in providing necessary information in emergency situations such as road closures or natural disasters.

@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for users to request a specific type of muscle car. The form is designed to gather detailed information about the requested vehicle, including its make, model, price, transmission, color, interior, exterior, drive type, engine size, drive train type, and drive train configuration. This form will help users provide clear and accurate information about the muscle car they are requesting, ensuring that the requested vehicle meets their needs and preferences.
-
-To avoid duplication of efforts, please ensure that you are not already familiar with the required specifications of the muscle car. If you are unsure, please check with the transportation team or review our vehicle database for more information.
-
-Note: The fields are designed to accommodate specific requirements, such as the drive type and drive train type, which will ensure that the requested vehicle meets all the necessary criteria.
-
-This guide will walk you through the process of completing the form step-by-step.
-
-</thinking>
-
 # muscle_car_offer_request_form - Help Guide
 
 ## Purpose

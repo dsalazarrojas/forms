@@ -1,11 +1,3 @@
-<thinking>
-  This form is designed to assist travel agents in offboarding their accounts with the company. 
-  The form will guide travel agents in providing necessary information to ensure a smooth transition of their travel-related responsibilities.
-  The form is divided into various sections, including role and travel details, which will help travel agents to communicate their current status, travel plans, and any outstanding tasks or issues they may have.
-  To ensure that the form is completed correctly, travel agents should carefully review each section and provide accurate information.
-  This form is intended to be completed by travel agents who are leaving the company, and it should not be used for any other purpose.
-</thinking>
-
 # Travel Agent Offboarding Form - Help Guide
 ## Purpose
 This form is designed to help travel agents offboard their accounts with the company. It will guide them in providing necessary information to ensure a smooth transition of their travel-related responsibilities.

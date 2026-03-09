@@ -1,11 +1,3 @@
-<thinking>
-
-The "Client Trip Feedback Form" is designed to gather information about clients' experiences during their travels. To ensure accurate and helpful feedback, please take a few minutes to complete this form carefully. 
-
-Before you begin, make sure you have not already provided feedback on the same trip, as this will help prevent duplicates. If you have any questions or concerns, please don't hesitate to ask.
-
-</thinking>
-
 # Client Trip Feedback Form - Help Guide
 
 ## Purpose

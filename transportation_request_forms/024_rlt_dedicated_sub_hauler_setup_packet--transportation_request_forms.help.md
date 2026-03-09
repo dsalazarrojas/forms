@@ -1,22 +1,3 @@
-<thinking>
-The purpose of this form is to create a transportation request setup packet for dedicated sub-haulers. This form is likely used by companies or organizations that rely on sub-haulers for transportation services, and the goal is to gather information from sub-haulers to establish a transportation request.
-
-The form is a collection of text and selection-based input fields. The form's layout suggests it will be used for both individual and multiple selections. Before filling out the form, it's essential to ensure you're not filling out a duplicate or already existing request. Please double-check the form fields carefully to avoid unnecessary submissions.
-
-The form consists of 9 fields:
-- Transport Request Form (Page 1): A basic input field for the transport request form.
-- Transport Type (Page 2): A multiple-choice field that might ask whether the sub-hauler will transport goods, materials, or equipment, possibly asking if they will transport anything at all.
-- Hauler Name (Page 3): A text field where the sub-hauler's name can be inputted.
-- Phone Number (Page 4): A text field for the sub-hauler's contact phone number.
-- Start Time (Page 5): A time-based input field for the start time of the transportation request.
-- End Time (Page 6): A time-based input field for the end time of the transportation request.
-- Vehicle Type (Page 7): A multiple-selection field that might ask whether the sub-hauler's vehicle is available or suitable for transporting goods, materials, or equipment.
-- Vehicle License (Page 8): A text field for the sub-hauler's vehicle license number.
-- Hauler Address (Page 9): A text field for the sub-hauler's address.
-
-Please note that some fields are required while others are optional, so ensure you fill out all required fields accurately to get the most out of this form.
-</thinking>
-
 # rlt_dedicated_sub_hauler_setup_packet_transportation_request_forms - Help Guide
 ## Purpose
 The purpose of this form is to create a transportation request setup packet for dedicated sub-haulers.

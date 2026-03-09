@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the Transport Service Route Satisfaction Poll is to collect feedback from end-users about their experience with a specific transport route. This feedback will help the transport service provider to evaluate and improve the route's performance, frequency, and overall user experience. This form is meant to be filled out by users who have actually traveled on the route, and it is essential that the answers should reflect their genuine experience.
-The form should be completed only once by each user, and it's okay if users have traveled on the route multiple times. There is no need for users to fill out the form for every trip. If a user is unsure about any of the questions, they can provide a brief explanation for their choice in the comments section.
-</thinking>
-
 # Transport Service Route Satisfaction Poll - Help Guide
 ## Purpose
 The Transport Service Route Satisfaction Poll is designed to collect feedback from users about their experience with a specific transport route. This feedback will help the transport service provider to evaluate and improve the route's performance, frequency, and overall user experience.

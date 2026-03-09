@@ -1,14 +1,3 @@
-<thinking>
-We're designing a help guide for a "Passenger Flight Experience Report Form" used for gathering feedback on passenger's flight experiences. The form likely serves to collect various aspects of the flight experience such as in-flight services, comfort, and overall satisfaction.
-
-Before creating this form, we need to ensure that we're not duplicating efforts in collecting similar feedback. We'll review existing forms and feedback channels to see if similar questions are being asked and if so, how we can improve or combine our questions to provide more efficient and useful insights.
-
-This form will be used to collect both qualitative and quantitative feedback from passengers. Some fields might be redundant or too detailed for some users, so we need to balance between being too invasive or missing critical information.
-
-The goal is to create a comprehensive guide that explains the purpose, the process of completing the form, and each field's meaning in a concise and practical way.
-
-</thinking>
-
 # Passenger Flight Experience Report Form - Help Guide
 ## Purpose
 

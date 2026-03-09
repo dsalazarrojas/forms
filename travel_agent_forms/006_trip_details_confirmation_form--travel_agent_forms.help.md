@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather trip details from clients and travel agents. It is used to confirm trip information for travel agents to review and verify before providing further assistance. The purpose of this form is not to create a new trip, but rather to confirm existing trip details. This form should not be used to create a new trip. Please ensure you have the necessary information before filling out this form.
-</thinking>
-
 # Trip Details Confirmation Form - Help Guide
 ## Purpose
 The Trip Details Confirmation Form is a tool for travel agents to review and verify trip information provided by clients. It helps to ensure that all trip details are accurate and up-to-date.

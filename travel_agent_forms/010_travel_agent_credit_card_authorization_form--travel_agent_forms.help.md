@@ -1,10 +1,4 @@
-> <thinking>
-This form is used to authorize and verify a travel agent's credit card information for a specific trip. The form is used to ensure that the agent has permission to use a credit card for travel purposes and to provide additional information about the credit card, such as the expiration date, card type, and authorized personnel. This form is typically used when a travel agent is booking travel arrangements or making purchases on behalf of a client. The fields required are credit card number, expiration date, and card type, indicating that this form is essential for travel-related transactions.
-
-This guide will be helpful in ensuring that the travel agent understands the importance of accurate and secure credit card information.
-</thinking>
-
-# travel_agent_credit_card_authorization_form - Help Guide
+> # travel_agent_credit_card_authorization_form - Help Guide
 ## Purpose
 
 The travel agent credit card authorization form is used to verify a travel agent's credit card information for travel-related transactions.

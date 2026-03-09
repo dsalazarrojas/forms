@@ -1,13 +1,3 @@
-<thinking>
-This form is used for the valuation of vehicles, which means it helps in estimating the value of a vehicle based on its characteristics. 
-The form is likely used in a professional setting where a vehicle's value is important, such as in the automotive industry or in insurance assessment.
-
-This form might be used to gather information about a vehicle in order to determine its value for various purposes, such as insurance claims, sales, or assessments. To ensure that the form is completed accurately and efficiently, it is essential to understand each field's purpose and how to fill it out correctly.
-
-Please note that there might be other forms or processes for the same purpose in your organization, and this form might not be the only one used. To avoid duplication of effort, ensure that this form is the correct one to use for your specific task.
-
-</thinking>
-
 # Vehicle Valuation Form - Help Guide
 ## Purpose
 The Vehicle Valuation Form is used to estimate the value of a vehicle based on its characteristics.

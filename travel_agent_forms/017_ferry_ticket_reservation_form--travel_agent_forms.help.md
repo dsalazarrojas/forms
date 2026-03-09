@@ -1,5 +1,3 @@
-<thinking>As a travel agent, it's essential to understand the purpose and requirements of the ferry ticket reservation form. This form is designed to collect essential information from passengers to facilitate the reservation process. The form is divided into two main sections: Passenger Information and Travel Agent Information. The Passenger Information section requires the passenger's name, phone number, email address, passenger type, and other relevant details. The Travel Agent Information section includes fields for the agent's name, email address, phone number, and customer reference numbers. This form is a critical tool to ensure accurate and efficient ferry ticket reservations.</thinking>
-
 # ferry_ticket_reservation_form - Help Guide
 ## Purpose
 The ferry ticket reservation form is designed for travel agents to collect essential information from passengers to facilitate the reservation process. This form helps gather details about the passenger and travel agent, ensuring accurate and efficient ferry ticket reservations.

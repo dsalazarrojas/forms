@@ -1,7 +1,3 @@
-<thinking>
-This form is used to submit claims for lost or damaged shipments. It is intended for shipper employees to report incidents of lost or damaged goods. The form is used to gather information about the shipment, including shipment number, carrier used, claim amount, and any relevant description of the incident. It is also used to assign a specific tool for handling the claim and to track the category of the claim.
-</thinking>
-
 # Freight Claim Form - Help Guide
 ## Purpose
 This form is used to submit claims for lost or damaged shipments. It is intended for shipper employees to report incidents of lost or damaged goods.

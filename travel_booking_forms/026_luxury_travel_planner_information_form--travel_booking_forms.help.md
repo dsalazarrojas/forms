@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from clients or customers to plan their luxury travel experience. This form likely serves as a starting point for travel agents or planners to tailor their services to the client's specific needs and preferences. To complete this form, follow these steps:
-</thinking>
-
 # Luxury Travel Planner Information Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients to plan their luxury travel experience. The information gathered will help travel agents or planners tailor their services to the client's specific needs and preferences.

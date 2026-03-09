@@ -1,11 +1,3 @@
-<thinking>
-
-The Crash Pad Agreement Form is designed to capture information related to crash pads, which are likely emergency response devices or emergency response systems in a specific context, likely for a company or organization. The form might be used to report an incident, request emergency assistance, or provide information about a crash pad's status. This guide is intended to help users complete the form correctly and efficiently.
-
-This guide does not cover specific use cases for this form, but it aims to cover general use cases where users need to provide information about their interactions with crash pads. 
-
-</thinking>
-
 # Crash Pad Agreement Form - Help Guide
 
 ## Purpose

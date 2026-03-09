@@ -1,9 +1,3 @@
-<thinking>
-This help guide will provide instructions on how to complete the "Test Drive Request Form" for users.
-The form is designed to gather information from users who wish to take a vehicle for a test drive. It is essential to complete the form accurately and thoroughly to ensure that the information is recorded correctly and the test drive request is processed smoothly.
-Before starting, please ensure you have all the necessary information and documents ready to fill out the form. The form has multiple sections, each with specific requirements. Please follow the instructions carefully to avoid any mistakes.
-</thinking>
-
 # Test Drive Request Form - Help Guide
 ## Purpose
 The "Test Drive Request Form" is used to request a test drive for a vehicle. It is an essential step in the vehicle purchasing process, allowing the user to experience the vehicle's features and performance before making a decision.

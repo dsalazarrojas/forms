@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To help prevent duplication and ensure this guide is relevant to the correct audience, we first need to verify that the form is for booking travel arrangements. If so, we will proceed with creating the help guide. 
 
 # globe_chaser_intl_book_your_next_adventure - Help Guide

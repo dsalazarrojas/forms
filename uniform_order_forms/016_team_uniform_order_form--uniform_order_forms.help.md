@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help teams order uniforms in an efficient manner, providing a structured way to collect information from team members about their uniform preferences. This guide ensures that all necessary details are captured accurately, making the process smoother for both the team and the uniform provider. 
-</thinking>
-
 # Team Uniform Order Form - Help Guide
 ## Purpose
 The Team Uniform Order Form is a tool to collect information about team uniform preferences, allowing teams to order uniforms with ease.

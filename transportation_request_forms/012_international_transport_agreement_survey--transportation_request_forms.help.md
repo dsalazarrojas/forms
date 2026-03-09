@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # International Transport Agreement Survey - Help Guide
 
 ## Purpose

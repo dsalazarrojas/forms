@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, my goal is to create a user-friendly help guide that effectively communicates the purpose and use of each field in the "forest_eco_retreat_booking_form". This form is designed for travel and booking purposes, and its purpose is to collect essential information for booking and managing forest eco retreats. The form appears to be comprehensive, covering booking details, guest information, payment methods, payment status, and other relevant aspects of the booking process.</thinking>
-
 # forest_eco_retreat_booking_form - Help Guide
 
 ## Purpose

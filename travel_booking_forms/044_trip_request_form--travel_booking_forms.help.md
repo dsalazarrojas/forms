@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from employees about their travel requests, allowing the company to track and approve travel plans. This guide is to ensure that users understand the purpose and usage of this form. Please review the fields and instructions below to ensure you are completing the form correctly and avoiding duplication of efforts.
-</thinking>
-
 # Trip Request Form - Help Guide
 ## Purpose
 This form is designed to gather essential details about employee travel requests, enabling the company to efficiently track and approve travel plans.

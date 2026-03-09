@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for booking a virtual tour. The form will collect information from the customer to process the booking. The purpose of this form is to gather details such as tour name, customer name, email, phone number, tour date and time, tour provider information, booking price, payment method, payment terms, tour description, tour terms, customer terms, and payment confirmation.
-</thinking>
-
 # Virtual Tour Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers to book a virtual tour. It is used to gather details necessary for the booking process.

@@ -1,9 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a help guide that is clear, concise, and easy to understand for end-users. To start, let's break down the purpose and intent behind this "Pre Delivery Inspection Form".
-
-This form is designed to collect information about a vehicle, specifically during the pre-delivery inspection process. The form captures various details such as vehicle year, make, model, license number, odometer reading, color, condition, engine type, transmission type, vehicle type, weight, length, width, height, wheel base, wheel radius, track, front overall length, rear overall length, wheel base width, wheel base offset, wheel base angle, and overall length. This information is likely used to ensure that the vehicle meets certain standards or requirements before it is delivered to customers.
-
-To ensure that the form is completed accurately and consistently, we will go through each field in detail, explaining what it means and why it is necessary.</thinking>
-
 # Pre Delivery Inspection Form - Help Guide
 ## Purpose
 The Pre Delivery Inspection Form is used to collect detailed information about a vehicle during the pre-delivery inspection process. This information is likely used to ensure that the vehicle meets certain standards or requirements before it is delivered to customers.

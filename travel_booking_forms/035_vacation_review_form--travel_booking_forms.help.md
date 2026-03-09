@@ -1,7 +1,3 @@
-<thinking>
-This form is for travel agents to conduct a vacation review with their clients. The form collects information about the client's recent travel experience, providing travel agents with insights to improve their services and client satisfaction. The purpose of this form is to gather details about the client's journey, including the travel agent, client's name, date of review, and travel destination.
-</thinking>
-
 # Vacation Review Form - Help Guide
 ## Purpose
 The Vacation Review Form is designed to help travel agents gather feedback from clients about their recent travel experiences. This form will assist agents in understanding their clients' needs and preferences, enabling them to provide better services and improve client satisfaction.

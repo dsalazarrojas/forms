@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trailer Dispatch Request Form - Help Guide
 ## Purpose
 The Trailer Dispatch Request Form is a crucial tool for requesting trailer dispatch services from our company. It is used to provide detailed information about the trailer and shipment requirements, ensuring accurate and efficient trailer dispatch. This form should be completed by drivers, dispatchers, or anyone requesting trailer services to streamline the communication process.

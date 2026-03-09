@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for users to request special handling for their transportation needs. It allows users to provide detailed information about their request, including item details, pickup and delivery information, contact details, and any additional notes. The goal of the form is to gather necessary information to provide efficient and effective special handling service.
-This form was created as an AI-generated template and is not associated with any specific form creation or survey platform. Please note that the content is released under a CC BY 4.0 license, allowing for modification, distribution, and commercial use, as long as original authorship is credited.
-Before proceeding, please review the information and ensure that you are not submitting duplicate requests. 
-</thinking>
-
 # Special Handling Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for special handling requests related to transportation. It is intended for users who need to schedule special handling services, such as oversized item delivery or pick-up, and provides a structured format for submitting their requests.

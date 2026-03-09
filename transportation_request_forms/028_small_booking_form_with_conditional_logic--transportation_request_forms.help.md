@@ -1,5 +1,3 @@
-<thinking>...The transportation request form is a form used to collect information on transportation requests. It's designed to gather details of a trip, including departure and arrival dates, travel class, travel agency involvement, pickup and dropoff locations, any special requests, and other details. This form may be used by staff members or users to submit transportation requests. It is essential to understand that the form's purpose and content are subject to revision based on the internal policies and guidelines of the organization. Please check with your supervisor or relevant department for the most up-to-date information on the form's usage and requirements... </thinking>
-
 # small_booking_form_with_conditional_logic - Help Guide
 ## Purpose
 This form is used to collect information on transportation requests. It helps staff members or users to submit details of a trip, including departure and arrival dates, travel class, and other relevant information.

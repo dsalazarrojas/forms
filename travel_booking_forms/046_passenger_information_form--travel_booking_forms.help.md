@@ -1,8 +1,3 @@
-<thinking>
-This form is a critical component of our travel booking system, and it's essential to complete it accurately to ensure proper passenger information is captured. The form is used to collect essential details about the passenger, including their name, contact information, and travel dates. It's crucial to fill out this form correctly to avoid any issues during the travel process. Please review each section carefully to ensure you're providing the required information.
-
-</thinking>
-
 # passenger_information_form - Help Guide
 ## Purpose
 The passenger_information_form is used to collect essential details about the passenger to facilitate smooth travel arrangements.

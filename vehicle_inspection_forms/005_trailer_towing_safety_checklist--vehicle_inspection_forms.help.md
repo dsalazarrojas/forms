@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the safety and readiness of a vehicle and trailer for towing. It ensures that the driver has checked essential factors such as the vehicle's condition, driver's experience, and trailer's condition before embarking on a trip. This checklist helps to identify potential issues and prevent accidents or damage to the vehicle and trailer. The form is designed to be completed at specific points during the towing process, such as during road-side inspection and regular maintenance checks. It serves as a critical tool for drivers to ensure their safety and the safety of others on the road.
-</thinking>
-
 # Trailer Towing Safety Checklist - Help Guide
 ## Purpose
 The Trailer Towing Safety Checklist is a comprehensive tool used by drivers to inspect their vehicle and trailer for potential safety risks before towing. It helps to identify any issues and prevent accidents or damage to the vehicle and trailer.

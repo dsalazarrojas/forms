@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We're using this form to collect feedback from guests who have stayed at our hotel. This form will be used to help us identify areas of improvement and ensure we provide a better experience for our guests in the future. 
 
 To avoid duplication, we will only allow one submission per guest. Please fill out the form with your honest feedback, and we'll make sure to act on it.

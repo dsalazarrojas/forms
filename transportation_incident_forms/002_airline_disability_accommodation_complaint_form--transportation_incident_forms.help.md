@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Airline Disability Accommodation Complaint Form - Help Guide
 ## Purpose
 The Airline Disability Accommodation Complaint Form is a tool for travelers to report incidents where they experienced difficulties or dissatisfaction with disability accommodations during their flight. This form is used by the airline to gather information and address the concerns raised by the traveler.

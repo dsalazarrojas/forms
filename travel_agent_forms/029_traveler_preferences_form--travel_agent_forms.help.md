@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect traveler preferences and information for travel planning purposes. It is not intended for travel status updates or emergency contact information. Please fill out the form only if you are a traveler who needs to provide preferences for your upcoming trip. If you are a travel agent, please do not fill out this form as it is not intended for your own travel preferences.
-</thinking>
-
 # Traveler Preferences Form - Help Guide
 ## Purpose
 The Traveler Preferences Form is designed to collect information from travelers to help plan their trips. This form is meant to be filled out by travelers to provide details about their preferences and requirements for their upcoming journey.

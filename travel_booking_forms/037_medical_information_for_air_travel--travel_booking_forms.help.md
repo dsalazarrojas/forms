@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather medical information for air travel. The form asks for medical conditions, medication details, medical equipment needed, special support requirements, contact information, and travel dates. It is intended to assist airlines and travel staff to assess and provide necessary services for passengers with medical conditions. This form should not be used as a medical consultation or diagnosis tool. Please ensure you fill out this form accurately and comprehensively to help our staff assist you properly.
-</thinking>
-
 # Medical Information For Air Travel - Help Guide
 ## Purpose
 This form is designed to gather medical information for air travel to ensure that you receive the necessary care and services during your flight.

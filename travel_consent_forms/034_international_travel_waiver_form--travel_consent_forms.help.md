@@ -1,7 +1,3 @@
-<thinking>
-The International Travel Waiver Form is used to document travel details for official trips, ensuring that employees understand their responsibilities and risks associated with international travel. This form should not be used for personal travel or leisure travel. The purpose of this form is to obtain an acknowledgement of risks and travel details to ensure compliance with company travel policies and relevant laws.
-</thinking>
-
 # International Travel Waiver Form - Help Guide
 ## Purpose
 

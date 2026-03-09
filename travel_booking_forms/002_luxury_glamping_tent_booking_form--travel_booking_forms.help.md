@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information from customers interested in booking a luxury glamping tent. The form will be used by the glamping company to gather essential details from clients, ensuring a smooth booking process.
-
-To avoid duplication, please do not attempt to fill out this form if you have already filled out a similar form on our website or have contacted us directly. This form is a one-time submission, and we appreciate your cooperation in ensuring data accuracy.
-
-Internal reasoning checks:
-
-*   This form is not affiliated with, endorsed by, or derived from any form platform.
-*   It is an original adaptation of a generic form created using public survey topic metadata as inspiration.
-*   The form has a specific purpose and is designed to collect necessary information from customers.
-*   The form is not a template or a copy-paste from any other source.
-*   We respect your time and appreciate your submission.
-
-</thinking>
-
 # Luxury Glamping Tent Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers interested in booking a luxury glamping tent. The form will be used by the glamping company to gather essential details, ensuring a smooth booking process.

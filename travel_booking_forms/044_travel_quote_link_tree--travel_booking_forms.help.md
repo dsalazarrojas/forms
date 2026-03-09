@@ -1,14 +1,3 @@
-<thinking>
-This form design task requires creating a user-facing help guide for a travel booking form. The form's purpose is likely to gather information for travel quote requests from customers or users. 
-
-The form might be used by customers or users who want to get travel quotes for business trips, vacations, or other types of travel arrangements. 
-
-The form might also be part of a larger travel booking system, and the travel quote link tree form is used to generate a quote link that can be used to book or purchase travel-related services.
-
-To ensure this form serves its intended purpose, we should avoid duplication of data entry. 
-
-</thinking>
-
 # Travel Quote Link Tree - Help Guide
 ## Purpose
 The Travel Quote Link Tree form is used to gather information for travel quote requests. This form is designed to help customers or users get travel quotes for business trips, vacations, or other types of travel arrangements.

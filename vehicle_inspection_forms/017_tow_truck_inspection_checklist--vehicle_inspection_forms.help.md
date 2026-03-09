@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a comprehensive help guide for the Tow Truck Inspection Checklist form, we'll need to understand that the form is designed to collect data on the inspection status of tow trucks. This form likely serves as a checklist for mechanics or inspectors to record their findings and ensure the vehicle meets certain standards. The form appears to be designed for internal use within a transportation or logistics company.
 
 We should assume that the form is used in a regulated environment where accuracy and consistency are crucial.

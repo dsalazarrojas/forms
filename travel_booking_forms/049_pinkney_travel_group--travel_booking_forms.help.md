@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the "travel_booking_forms" category. Its purpose is to collect information from users about their travel plans. The form is called "pinkney_travel_group". The form collects information on the following: Dream Vacation, contact person, travel dates, travel type (air, land, or sea), destination, travel group size, email, and phone number. This form is intended for general use and does not require any special considerations or business logic that would necessitate duplication.
-</thinking>
-
 # pinkney_travel_group - Help Guide
 ## Purpose
 The pinkney_travel_group form collects information from users about their travel plans to create a comprehensive travel profile.

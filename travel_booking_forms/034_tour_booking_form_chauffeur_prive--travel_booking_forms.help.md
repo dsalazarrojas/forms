@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for tour bookings with Chauffeur Prive, a luxury travel service. The form is meant to be completed by users who want to book a tour with a personalized chauffeur-driven experience. The fields in this form are used to gather details about the tour, such as the date, time, activity, duration, distance, price, and other relevant information that will help the service providers to prepare for the tour.
-
-Before filling out this form, please ensure that you have all the necessary information ready to provide accurate and complete details.
-
-This form is not a duplicate or a copy-paste template, and it's meant for a specific purpose only. Please do not use this form for any other purpose.
-
-</thinking>
-
 # Tour Booking Form Chauffeur Prive - Help Guide
 ## Purpose
 This form is used to book a tour with Chauffeur Prive, a luxury travel service. It helps us gather the necessary information to provide a customized experience for you.

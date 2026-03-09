@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # fleet-management-checklist-form - Help Guide
 ## Purpose
 

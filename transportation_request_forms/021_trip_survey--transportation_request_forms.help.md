@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a trip taken by an employee or team member. The purpose of this form is to collect relevant details about the trip, including trip type, travel dates, destination, and transportation mode. This information will be used for internal tracking and reporting purposes. It is not necessary to fill out this form for every trip, but it is recommended for official company trips. If you are filling out this form for a trip that was already reported, please do not duplicate the information.
-</thinking>
-
 # trip_survey - Help Guide
 ## Purpose
 The trip_survey form is used to record details about trips taken by employees or team members.

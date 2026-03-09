@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # local_experience_house_booking_form - Help Guide
 ## Purpose
 The local_experience_house_booking_form is used to collect information from guests who are booking a local experience house. This form is designed to gather details about the guest's stay, including their contact information, dates, special requests, and payment methods. The form helps the travel agency to understand the guest's preferences and requirements, ensuring a smooth and enjoyable experience.

@@ -1,13 +1,3 @@
-<thinking>
-
-The "Ballet Uniform Request Form" is designed to help instructors and administrators collect information for ballet uniform orders. This form is intended for students to request ballet uniforms, including the type of uniform item, size, and quantity needed. The goal of this form is to simplify the process of requesting and fulfilling uniform orders.
-
-This form is not meant to be filled out by anyone other than students. However, in cases where a parent or guardian needs to fill out the form for a student, they should be guided by the student's preferences and abilities.
-
-Before completing this form, ensure that you have discussed and considered the student's needs and preferences.
-
-</thinking>
-
 # Ballet Uniform Request Form - Help Guide
 ## Purpose
 The Ballet Uniform Request Form is designed to collect information for ballet uniform orders. This form guides you through the required details to ensure accurate and complete requests.

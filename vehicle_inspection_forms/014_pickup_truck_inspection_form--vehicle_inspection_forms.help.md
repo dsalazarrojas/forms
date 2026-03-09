@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about the inspection of a pickup truck. The purpose of this form is to gather details about the vehicle's condition, focusing on its engine, transmission, brakes, tires, safety features, and body damage. The form is not meant to be a comprehensive inspection report, but rather a quick assessment of the vehicle's condition.
-
-To ensure that the form is being used correctly, let's consider the following:
-
-* The form is designed for pickup trucks, so it's essential to only fill it out for this type of vehicle.
-* Each field is meant to gather specific information about the pickup truck's condition, so please answer accordingly.
-* The form is not designed for other types of vehicles, such as cars or motorcycles.
-
-</thinking>
-
 # pickup_truck_inspection_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the inspection of a pickup truck. It's designed to gather details about the vehicle's engine, transmission, brakes, tires, safety features, and body damage.

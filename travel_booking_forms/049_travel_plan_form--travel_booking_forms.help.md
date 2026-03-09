@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from end-users for travel planning purposes. It is likely to be used by travel agencies or travel management teams to book travel arrangements for customers. The form collects contact information, travel details, and other relevant information that will help the travel agency or management team to finalize the travel plans.
-
-To ensure the form is being used correctly, please check that all relevant fields are filled out and that the travel details are accurate and up-to-date. If you're unsure about a particular field or require clarification, please reach out to the travel agency or management team for assistance.
-
-This form should not be used to collect sensitive or financial information. The fields collected in this form are primarily for information gathering and record-keeping purposes.
-
-The travel planning form includes information about the contact person, travel destination, travel dates, travel duration, mode of travel, travel agency, and special requirements. It also includes fields for collecting travel documents and booking details, which is useful for travel agencies or management teams to finalize travel arrangements.
-
-Before filling out the form, ensure that you have all necessary information ready. The form is designed to be easy to navigate, and each field has been carefully crafted to minimize confusion.
-
-This form is a one-page form with 16 fields. Please review each field carefully to ensure that it is filled out correctly and accurately.</thinking>
-
 # travel_plan_form - Help Guide
 ## Purpose
 The travel plan form is a tool for travel agencies or travel management teams to collect and record travel information from end-users. The form includes fields for contact information, travel details, and booking arrangements.

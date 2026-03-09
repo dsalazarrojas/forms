@@ -1,7 +1,3 @@
-<thinking>...
-  This form is intended to gather information from travel agents regarding their experiences and opinions about travel-related services. It helps us understand their preferences, pain points, and expectations, which will aid us in improving our travel services. This form is not a transactional form, as it does not involve submitting or updating existing travel agent data. Please ensure that the information provided is accurate and relevant to your experiences as a travel agent.
-</thinking>
-
 # Travel Agent Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and information from travel agents to help us understand their needs and preferences.

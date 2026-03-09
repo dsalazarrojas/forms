@@ -1,24 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "road_trip_participation_acknowledgment" form, I need to first understand the purpose and requirements of the form. Based on the provided YAML input schema, it appears that this form is for participants to acknowledge their participation in a road trip. It's likely used for trip organizers to collect necessary information from participants, including contact details, health information, and trip specifics. However, without further context, I'll assume that this form is used to ensure participants are aware of their responsibilities and trip details.
-
-The form consists of several fields, including participant details, emergency contacts, health notes, consent, participant goals, trip details (including departure and return dates), and trip specifics (duration and distance). All fields are text-based, with some having specific data types (date and number).
-
-To create the help guide, I'll follow the provided structure:
-
-# road_trip_participation_acknowledgment - Help Guide
-## Purpose
-This form is for participants to acknowledge their participation in a road trip. It collects necessary information for trip organizers to ensure a safe and successful trip.
-## How To Complete This Form
-To complete this form, follow these steps:
-1. Fill out the participant details form, including any necessary information such as your name, contact information, and medical information.
-2. List any emergency contacts who can be reached in case of an emergency.
-3. Provide any relevant health notes for the trip organizers to know about your health.
-4. Sign the consent form to acknowledge your participation and understanding of the trip terms.
-5. Specify your participant goals for the trip.
-6. Enter the trip details, including departure and return dates, and distance.
-7. If necessary, provide your phone number for contact purposes.
-</thinking>
-
 ## Field-by-Field Explanation
 
 * **participant_details** (text, required: false): This field is for you to provide any necessary details about yourself as a participant.

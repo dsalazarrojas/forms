@@ -1,7 +1,3 @@
-<thinking>
-This is a form for coordinating transportation, specifically the Smart Shuttle. The form is likely used to request a shuttle service, providing details about the trip. To ensure that the form is used correctly, it's essential that the user understands its purpose and how to fill it out properly. It's also crucial that the user is aware of the fields included in the form and what information is required or optional. This will prevent duplication of work and ensure that the form is filled out correctly the first time.
-</thinking>
-
 # Smart Shuttle Coordination Application - Help Guide
 ## Purpose
 This form is used to request a transportation service for a trip. It gathers information about the trip details to ensure that the shuttle service can be provided correctly.

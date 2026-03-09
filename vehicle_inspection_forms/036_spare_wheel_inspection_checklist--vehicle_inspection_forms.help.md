@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Spare Wheel Inspection Checklist - Help Guide
 
 ## Purpose

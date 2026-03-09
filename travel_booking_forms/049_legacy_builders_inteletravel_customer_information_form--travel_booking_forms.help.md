@@ -1,5 +1,3 @@
-<thinking>As the form is designed to collect customer information for travel booking purposes, it is essential to ensure that the form is completed accurately and efficiently. To achieve this, it is crucial to understand the form's purpose and each field's significance. The form's primary goal is to gather relevant information about the customer, including their name, contact details, travel preferences, and other relevant details. This information will be used to tailor the travel experience and provide personalized services.</thinking>
-
 # Legacy Builders InteleTravel Customer Information Form - Help Guide
 ## Purpose
 The Legacy Builders InteleTravel Customer Information Form is designed to collect customer information for travel booking purposes. This form will be used to gather relevant details about the customer, which will help in providing a tailored travel experience.

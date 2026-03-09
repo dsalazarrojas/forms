@@ -1,8 +1,4 @@
-> <thinking>
-This form is intended for users to provide information about their travel plans. It collects details such as destination city, travel dates, and contact information. The form is designed to gather relevant details to facilitate travel booking or planning. Please ensure that the form is filled out correctly, as any errors may affect the accuracy of the submitted information.
-</thinking>
-
-# Your Dream. Your Budget. Your Vacation - Help Guide
+> # Your Dream. Your Budget. Your Vacation - Help Guide
 ## Purpose
 This form is designed to collect information about users' travel plans, including their dream destination, travel dates, and contact details.
 

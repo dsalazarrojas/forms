@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's travel habits and preferences related to sustainable travel practices. The form is likely used by travel companies or organizations to gather data on customer attitudes and behaviors towards sustainable travel. By understanding these insights, travel businesses can tailor their services and offerings to cater to the needs and values of environmentally conscious travelers. It's essential to ensure that the form does not duplicate or overlap with existing information collected through other channels, and that the questions are clear and concise, making it easy for users to provide accurate and meaningful responses.
-
-The form is divided into several pages, each focusing on different aspects of sustainable travel. The questions range from transportation modes to accommodation choices, environmental impact reduction, and eco-friendly practices. The form's design allows users to provide select, multiple select, and checkbox options, catering to different types of information required for the analysis. 
-
-The questions are designed to be self-explanatory, but this guide will help users fill out the form accurately and efficiently.
-</thinking>
-
 # Sustainable Travel Checklist - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sign Pick Up And Drop Off Request - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Delivery Operations Evaluation Form - Help Guide
 
 ## Purpose

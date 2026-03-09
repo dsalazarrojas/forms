@@ -1,15 +1,3 @@
-<thinking>
-
-To create an effective and user-friendly help guide for the "Corporate Training Feedback Poll" form, we need to consider the following:
-
-*   The purpose of the form is to collect feedback from employees after attending a training session, which will help in evaluating the effectiveness of the training and making necessary improvements.
-*   The form is designed to gather specific information about the training session, including course title, date, location, and duration, as well as feedback from the attendees.
-*   The form is intended for use by employees who have attended a training session, and the feedback collected will help in assessing the quality of the training and making future improvements.
-
-The form has 25 fields, each with a specific label, type, and requirement status.
-
-</thinking>
-
 # Corporate Training Feedback Poll - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees after attending a training session. The feedback will help in evaluating the effectiveness of the training and making necessary improvements.

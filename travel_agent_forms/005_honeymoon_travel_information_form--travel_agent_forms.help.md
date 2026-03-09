@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a couple's honeymoon travel plans. It is intended to be completed by the couple themselves, but may also be used by travel agents to provide additional details about their services. It is not intended for travel plans that are already in progress or have been completed.
-</thinking>
-
 # Honeymoon Travel Information Form - Help Guide
 ## Purpose
 This form is used to collect essential details about a couple's honeymoon travel plans. The information gathered will help travel agents understand their preferences and provide better services.

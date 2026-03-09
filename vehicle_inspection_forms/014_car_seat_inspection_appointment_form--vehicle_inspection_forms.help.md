@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians for car seat inspections. The form is used to schedule an appointment for a car seat inspection, which is a crucial step in ensuring the safety of children traveling in vehicles. This form will help the inspection team understand the details needed for the inspection, such as the number and age of children, type of car seat, and vehicle details. This information will be used to schedule an appointment at a convenient time and location for the parents or guardians. The form also includes questions about alternative dates and locations in case the preferred date and location are not available.
-</thinking>
-
 # Car Seat Inspection Appointment Form - Help Guide
 ## Purpose
 The Car Seat Inspection Appointment Form is designed to gather information from parents or guardians to schedule a car seat inspection. This form will help the inspection team understand the necessary details for the inspection and schedule an appointment at a convenient time and location.

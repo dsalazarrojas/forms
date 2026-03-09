@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect travel-related information from users. It's designed to be filled out by travelers who need to submit their itinerary. The form is likely to be filled out by a travel agency or a travel company. The fields provided are a mix of text, date, time, select options, and email fields. 
-
-This form seems to be a basic form that requires minimal information. The required fields are "Travel Date", "Travel Type" (outbound), and "Travel Document" (Passport or ID). The "Travel Date" field is the departure date, while "Return Date" is optional. "Travel Type" seems to be asking about the purpose of the trip. "Travel Document" is asking for the type of travel document required (Passport or ID). The "Email" and "Phone" fields are likely for contact information, while "Address" is probably for the traveler's address.
-
-</thinking>
-
 # travel_itinerary - Help Guide
 ## Purpose
 This form is used to collect travel-related information from users. It is intended to be filled out by travelers who need to submit their itinerary.

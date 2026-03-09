@@ -1,7 +1,3 @@
-<thinking>
-This form is used for regular vehicle inspections. It's likely used by fleet managers, mechanics, or other vehicle owners to document the condition and status of a vehicle on a monthly basis. I'm assuming it's not used for emergency or urgent inspections, as the fields seem to focus on general information rather than critical issues. The form likely serves as a routine maintenance and reporting tool. I'll make sure to keep this explanation brief and to the point.
-</thinking>
-
 # Monthly Vehicle Inspection Form - Help Guide
 ## Purpose
 The monthly vehicle inspection form is a tool for tracking and documenting the condition and status of a vehicle on a regular basis. It's intended to be used by fleet managers, mechanics, or other vehicle owners to keep a record of the vehicle's maintenance and any issues that arise.

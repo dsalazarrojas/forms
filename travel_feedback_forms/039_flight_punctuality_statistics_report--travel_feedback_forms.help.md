@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be using the "Flight Punctuality Statistics Report" form. The form is designed to collect data on flights and their related information. To ensure that the form's purpose and use cases are well-understood, please review the following instructions.
-
-The form's primary goal is to gather details about flight punctuality statistics. It is a critical component of the system, and users need to fill it out correctly to ensure accurate data collection.
-
-Before proceeding, check if the form has been filled out by someone else recently. If it has, review the filled-out form to understand the context and see if you need to make any changes or additions.
-
-</thinking>
-
 # Flight Punctuality Statistics Report - Help Guide
 ## Purpose
 The "Flight Punctuality Statistics Report" form is designed to collect information about flights and their punctuality. It is used to gather data that helps identify trends, patterns, and insights related to flight punctuality.

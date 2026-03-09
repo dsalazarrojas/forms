@@ -1,7 +1,3 @@
-<thinking>
-The Guest Shuttle Route Request Form is used to create or edit a new route request for the guest shuttle service. This form is meant for guests to request transportation from one location to another for events, meetings or other activities. The form should only be filled by a user who is authorized to make requests on behalf of the guests. The form will be checked for duplication to prevent multiple requests for the same date/time. 
-</thinking>
-
 # Guest Shuttle Route Request Form - Help Guide
 ## Purpose
 The Guest Shuttle Route Request Form is used to create or edit a new route request for the guest shuttle service.

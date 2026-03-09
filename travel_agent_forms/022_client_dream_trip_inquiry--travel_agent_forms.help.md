@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Dream Trip Inquiry - Help Guide
 ## Purpose
 The Client Dream Trip Inquiry form is designed to collect information about your upcoming travel plans. Please fill out this form to help us better understand your needs and preferences for your dream trip.

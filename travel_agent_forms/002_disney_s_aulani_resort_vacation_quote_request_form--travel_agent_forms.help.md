@@ -1,7 +1,3 @@
-<thinking>
-We are creating this form to ensure that our guests can provide us with accurate and complete information about their vacation plans. This form will help us understand their travel preferences, including their arrival and departure dates, number of guests, and preferred contact method. We will review and verify the information provided to ensure that we can provide the best possible experience for our guests.
-</thinking>
-
 # Disney's Aulani Resort Vacation Quote Request Form - Help Guide
 ## Purpose
 This form is designed to capture essential information from guests to provide them with a personalized vacation quote for their stay at the Disney's Aulani Resort.

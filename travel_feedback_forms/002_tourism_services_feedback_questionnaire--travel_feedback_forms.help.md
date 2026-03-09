@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from tourists who have used the tourism services offered by the organization. The form is designed to gather information about their overall experience, satisfaction with the services used, and any additional comments or feedback. The form is intended to be completed by tourists who have recently used the services and are willing to share their experiences and suggestions for improvement.
-
-To ensure the form is completed correctly, it's essential to review the form fields carefully and ensure that all required fields are filled in accurately. The form fields are designed to be self-explanatory, but if any questions or doubts arise, please don't hesitate to contact the organization for assistance.
-
-Before proceeding, please ensure that the form is filled in by a person who has recently used the tourism services. This will help ensure that the feedback is relevant and helpful for the organization.
-
-</thinking>
-
 # Tourism Services Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from tourists who have used the tourism services offered by the organization. The form aims to gather information about their overall experience, satisfaction with the services used, and any additional comments or feedback.

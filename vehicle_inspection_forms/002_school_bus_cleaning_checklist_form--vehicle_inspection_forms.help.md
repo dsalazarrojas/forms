@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information on the status of school bus cleaning and maintenance. The form is used to track the cleanliness and condition of school buses, ensuring that they are properly cleaned and inspected as required. This form should only be filled out for school buses that require regular cleaning and maintenance, not for other types of vehicles.
-
-Before filling out this form, please ensure you have the correct information and permissions to do so.
-
-This form will ask you to provide details on various aspects of the bus, including its make and year, exterior and interior conditions, emergency equipment, safety inspection, cleaning supplies, cleaning frequency, and certification status. 
-
-Please be accurate and thorough in your responses, and make sure to update the vehicle inspection status accordingly.
-</thinking>
-
 # School Bus Cleaning Checklist Form - Help Guide
 ## Purpose
 The School Bus Cleaning Checklist Form is used to track the cleanliness and maintenance status of school buses. This form helps ensure that all buses are properly cleaned and inspected as required.

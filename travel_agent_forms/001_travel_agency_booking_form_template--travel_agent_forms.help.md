@@ -1,12 +1,3 @@
-<thinking>
-To determine the purpose and best explanation for this form, let's break down the information provided in the YAML fields:
-
-The form is likely a template for travel agency booking purposes. The fields indicate that the agency wants to collect information about the client's travel, including name, travel date, travel duration, arrival place, flight return information, booking method, contact details, additional travel agency services required, and any additional comments or instructions.
-
-Given the fields, the form seems to be designed for both travel agency employees and clients. The form is likely used for internal travel agency business operations.
-
-</thinking>
-
 # travel-agency-booking-form-template - Help Guide
 ## Purpose
 

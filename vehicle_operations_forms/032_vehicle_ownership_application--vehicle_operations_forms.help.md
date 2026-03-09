@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand the form's purpose and how to complete it. The form appears to be a "Vehicle Ownership Application" in the "vehicle_operations_forms" category. The goal of this form is to collect information from users regarding their vehicle ownership, including dealership information, vehicle details, supporting documents, and a signature. This form is likely used in a business or commercial context where users need to submit their vehicle ownership applications.
-The form consists of four pages: dealer_info, vehicle_details, supporting_documents, and signature. Each page has a specific label and type. The dealer_info page is not required, while the vehicle_details, supporting_documents, and signature pages are all required.
-</thinking>
-
 # Vehicle Ownership Application - Help Guide
 ## Purpose
 This guide is designed to help users complete the Vehicle Ownership Application form.

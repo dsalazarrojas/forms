@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a crucial tool for domestic pet transport booking. The purpose of this form is to gather essential information about pet transport, including pickup details, destination information, contact details, and payment methods. By filling out this form, users can ensure that all necessary information is provided to facilitate a smooth and safe pet transport experience.
 
 # Domestic Pet Transport Booking Form - Help Guide

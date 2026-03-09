@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for travel-related payment information, likely for travel agents or agencies to collect payment details from customers. The form may be used for travel-related transactions, such as booking payments or refunds. To avoid duplication, please ensure that you're not creating multiple entries for the same payment. This form is likely part of a larger system for managing travel-related data.
-</thinking>
-
 # travel_payment_form - Help Guide
 ## Purpose
 This form is used to collect payment information for travel-related transactions.

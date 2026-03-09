@@ -1,13 +1,3 @@
-<thinking>
-
-We are designing a help guide for a travel feedback form to help end-users understand its purpose and fill it out efficiently.
-
-The form's purpose is to gather feedback and comments from travelers about their experience with our travel agency. This information will be used to improve our services and make future travel experiences better for our customers. 
-
-The form has multiple fields that need to be filled out by the user, and some fields might be optional. Please review the form carefully before providing feedback to ensure you are providing all the required information.
-
-</thinking>
-
 # Travel Agency Feedback Form - Help Guide
 ## Purpose
 

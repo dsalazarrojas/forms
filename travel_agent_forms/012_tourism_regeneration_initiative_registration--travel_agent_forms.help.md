@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help travel agents register their initiatives for the Tourism Regeneration Initiative. The purpose of this form is to collect information about the participant, project, partner, contact, and any additional notes. The form is not intended to be a comprehensive survey, but rather a simple registration tool to gather basic information.
-
-This form is not affiliated with, endorsed by, or derived from any form platform, but an original adaptation created using public survey topic metadata.
-
-**Before proceeding, please ensure that you have not completed this form previously.**
-</thinking>
-
 # Tourism Regeneration Initiative Registration - Help Guide
 ## Purpose
 This form is designed to help travel agents register their initiatives for the Tourism Regeneration Initiative.

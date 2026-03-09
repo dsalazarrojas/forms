@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to book airport transfers for individuals or groups. It is intended for passengers who want to arrange transportation between the airport and their destination. The purpose of this form is to gather essential information from passengers for a smooth and efficient transfer experience. Please ensure you are using this form for its intended purpose and not for other types of transportation requests. If you have a different type of transportation request, please use the appropriate form for your needs.
-
-</thinking>
-
 # Airport Transfer Booking Form - Help Guide
 ## Purpose
 This form is used to book airport transfers for passengers.

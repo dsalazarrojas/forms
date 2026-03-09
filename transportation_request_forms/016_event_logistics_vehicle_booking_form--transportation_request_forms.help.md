@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to gather information from users for event logistics vehicle booking requests. The purpose of this form is to streamline the process of requesting vehicles for events, ensuring that all necessary details are captured accurately and efficiently. The form is meant to be used by event organizers, event staff, or anyone responsible for arranging transportation to or from event locations.
-
-The form is a multi-page form with five fields. Each field has a label, type, and an optional hint. The user can fill out any or all of the fields based on their specific requirements. The form is not a requirement for any particular form platform, and the provided information is for illustration and explanation only.
-
-Before proceeding with the explanation, let's clarify the form's content:
-
-* **Vehicle Request** (`vehicle_request`, text, optional): This field is for users to describe the type of vehicle they need for the event. It's best to provide a brief but clear explanation of the type of vehicle desired.
-* **Contact Details** (`contact_details`, text, optional): This field is for users to provide their contact information, including their name, email, and phone number. This ensures that the request is addressed directly and efficiently.
-* **Vehicle Details** (`vehicle_details`, text, optional): In this field, users can specify the vehicle's features they require, such as color, capacity, and other relevant attributes.
-* **Vehicle Status** (`vehicle_status`, text, optional): This field allows users to update the status of the vehicle request they have submitted.
-* **Event Details** (`event_details`, text, optional): Users can provide additional context about the event, such as the date, time, location, and purpose of the event.
-
-Please note that the provided information is for illustration and may not reflect the actual requirements or rules of the specific industry or category the form is associated with. Always ensure to verify the form's content with the relevant party before using it.
-
-</thinking>
-
 # Event Logistics Vehicle Booking Form - Help Guide
 ## Purpose
 This form is designed to gather information from users for event logistics vehicle booking requests.

@@ -1,7 +1,3 @@
-<thinking>
-This is a form for gathering feedback from trainees who have attended a training class. The purpose of this form is to gather information on the trainee's experience and satisfaction with the class. The feedback form will help us assess the quality of the class and make improvements for future training sessions. This form should only be filled out by the trainees who have attended a class, and it's not intended to be completed by trainers or staff members.
-</thinking>
-
 # ehr_training_class_feedback_survey - Help Guide
 ## Purpose
 The ehr_training_class_feedback_survey form is designed to gather feedback from trainees who have attended a training class. The information collected will help us assess the quality of the class and make improvements for future training sessions.

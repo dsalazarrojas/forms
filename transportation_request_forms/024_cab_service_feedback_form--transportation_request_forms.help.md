@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for passengers to provide feedback on their cab service experience. The main goal is to gather insights on the professionalism of the driver, vehicle cleanliness, and overall satisfaction with the service. This form will help us improve our cab services. Before filling out this form, please ensure you've taken our cab service recently. This form is intended for passengers who want to provide feedback, and you may not need to fill it out if you haven't had a recent ride.
-</thinking>
-
 # Cab Service Feedback Form - Help Guide
 ## Purpose
 The Cab Service Feedback Form is designed to gather information from passengers about their experience with our cab services. This form will help us identify areas of improvement and ensure that our drivers and vehicles meet our high standards.

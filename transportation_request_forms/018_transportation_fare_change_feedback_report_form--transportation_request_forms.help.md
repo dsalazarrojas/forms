@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather feedback and comments from users regarding fare changes in the transportation system. The purpose of this form is to collect information about fare changes, their types, effective dates, reasons, and frequency, as well as any additional comments or suggestions from users. This form will help transportation agencies understand the impact of fare changes on their customers and make informed decisions about future changes.
-
-To ensure that this form is completed accurately and thoroughly, please make sure that you have all the necessary information and follow the instructions carefully.
-
-This form is meant to be completed by customers or users of the transportation system who have experienced or are concerned about fare changes. Please note that this form is not meant to be completed by staff members or administrators of the transportation agency.
-
-Before proceeding, make sure that you have checked the transportation agency's website or contact them directly to confirm that you have the most up-to-date information on fare changes.
-
-</thinking>
-
 # Transportation Fare Change Feedback Report Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and comments from users regarding fare changes in the transportation system.

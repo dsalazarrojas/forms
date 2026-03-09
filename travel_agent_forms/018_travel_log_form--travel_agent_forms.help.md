@@ -1,9 +1,3 @@
-<thinking>
-This form is for travel agents to document a traveler's trip. The purpose of this form is to collect information about the traveler's journey, including travel dates, destinations, and activities. This form will help travel agents track and manage trip data for better customer service and travel planning.
-
-The form is designed to be completed by travel agents who interact with customers, and it is not intended to be filled out by the travelers themselves.
-</thinking>
-
 # Travel Log Form - Help Guide
 ## Purpose
 The Travel Log Form is designed to gather information about a traveler's trip for the travel agents to document and track.

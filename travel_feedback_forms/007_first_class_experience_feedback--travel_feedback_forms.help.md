@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect feedback from users about their travel experience. The form is likely used by airlines or travel companies to gather input from passengers about their flights, including the service quality, amenities, and overall satisfaction. The goal is to collect both numerical ratings and free-form comments to help identify areas of improvement. 
-
-To ensure that the form is being used correctly, please only submit feedback for one flight at a time. Duplicate submissions for the same flight will not be accepted.
-
-</thinking>
-
 # First Class Experience Feedback - Help Guide
 ## Purpose
 The First Class Experience Feedback form is used to gather input from passengers about their flight experiences, helping airlines and travel companies to identify areas for improvement and provide better service.

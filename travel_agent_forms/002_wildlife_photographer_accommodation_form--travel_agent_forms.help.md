@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to help wildlife photographers plan and book their accommodations for photo shoots, ensuring that their specific needs are met during their stay. The goal is to gather information about the duration of the visit, number of guests, special requests, accommodation type, location, equipment requirements, and any other special equipment they may need.
-
-This form is meant for individual photographers and is not intended for group bookings. 
-
-The form will be used by the internal operations team to process and prepare the accommodations for the photographers.
-
-</thinking>
-
 # Wildlife Photographer Accommodation Form - Help Guide
 ## Purpose
 This form is designed to help wildlife photographers plan and book their accommodations for photo shoots. It ensures that their specific needs are met during their stay, allowing for a successful and enjoyable experience.

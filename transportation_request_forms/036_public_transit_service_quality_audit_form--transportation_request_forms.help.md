@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Public Transit Service Quality Audit Form - Help Guide
 
 ## Purpose

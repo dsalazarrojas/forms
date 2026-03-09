@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Travel Website Customer Feedback Survey - Help Guide
 ## Purpose
 This travel website's customer feedback survey aims to collect information from customers about their travel experiences and overall satisfaction with the website. The purpose of this form is to gather data to improve the quality and user experience of the website.

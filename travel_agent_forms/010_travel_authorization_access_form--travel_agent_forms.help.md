@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for travel authorizations, which are requests for approval to travel on company business. It's likely that this form will be used by employees to request travel permits or approvals from their supervisors or HR department. Before filling out this form, ensure that you have the necessary information and approvals from your manager or travel department. This form should not be used for duplicate requests or for non-business-related travel.
-</thinking>
-
 # Travel Authorization Access Form - Help Guide
 
 ## Purpose

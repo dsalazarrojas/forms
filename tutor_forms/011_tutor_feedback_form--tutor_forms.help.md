@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from students about their overall experience with their tutor and the class they are taking. This feedback will help us improve our tutoring services to better serve you and other students in the future.
-</thinking>
 # Tutor Feedback Form - Help Guide
 ## Purpose
 The Tutor Feedback Form is a tool used to gather feedback from students about their experience with their tutor and the class they are taking. This feedback is crucial in helping us to identify areas of improvement and make necessary changes to better serve our students.

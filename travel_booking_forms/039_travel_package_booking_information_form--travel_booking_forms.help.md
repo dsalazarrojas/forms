@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users complete the "Travel Package Booking Information Form" with ease. The form is used to gather essential information from customers for travel package bookings. It is crucial to ensure that the required fields are filled out correctly to avoid any potential issues with the booking process. 
-</thinking>
-
 # Travel Package Booking Information Form - Help Guide
 ## Purpose
 The Travel Package Booking Information Form is designed to collect details necessary for the booking of travel packages. This form will be reviewed internally by travel agents to understand customer preferences and requirements for an efficient booking process.

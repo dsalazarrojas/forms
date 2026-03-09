@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a vehicle stop incident, which could be used to analyze and improve the safety and efficiency of transportation operations. This form should only be used for vehicle stops that occur on the transportation network, and any other type of incident should not be reported through this form. To ensure accuracy, please make sure to only report incidents that involve a vehicle stop, and do not report other types of incidents such as accidents or emergencies.
-</thinking>
-
 # Vehicle Stop Procedures Quiz - Help Guide
 ## Purpose
 The Vehicle Stop Procedures Quiz is designed to collect data on vehicle stop incidents that occur on the transportation network. This data will help improve safety and efficiency on the network.

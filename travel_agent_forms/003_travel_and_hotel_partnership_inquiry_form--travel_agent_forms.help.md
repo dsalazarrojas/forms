@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and that the end-users understand its purpose, which is to gather information from travel and hotel partners who are interested in partnering with our company. This form should not be used for other purposes, such as making a reservation or inquiry about an existing partnership. Before filling out this form, please confirm that you are a representative of a travel and hotel partnership opportunity and that you are not already in our partnership list.</thinking>
-
 # travel_and_hotel_partnership_inquiry_form - Help Guide
 ## Purpose
 The travel and hotel partnership inquiry form is used to gather information from travel and hotel partners who are interested in partnering with our company.

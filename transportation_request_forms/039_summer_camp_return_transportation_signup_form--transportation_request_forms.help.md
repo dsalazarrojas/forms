@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a summer camp's return transportation needs and preferences. It is designed to help staff and administrators organize and manage transportation requests efficiently.
-
-This form is typically used by summer camp staff to sign up for return transportation services, allowing them to provide accurate and timely information about their transportation needs.
-
-Before proceeding, please ensure that you are using the correct form and that you have not already submitted a transportation request. Duplicate submissions may cause confusion and delay the processing of your request.
-
-</thinking>
-
 # Summer Camp Return Transportation Signup Form - Help Guide
 ## Purpose
 This form is used to collect information about summer camp return transportation needs and preferences.

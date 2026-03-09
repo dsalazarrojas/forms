@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I need to consider the purpose of this form, which is to facilitate the process of making a flight reservation. This form is likely used by travel agencies to gather information about a customer's travel plans, including passenger details, flight information, payment information, and contact details. To ensure relevance and non-duplication, I will review the form fields and provide a comprehensive explanation of each field.</thinking>
-
 # flight_reservation_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers to facilitate the process of making a flight reservation. It gathers details such as passenger information, flight details, payment information, and contact details to ensure a smooth and efficient reservation experience.

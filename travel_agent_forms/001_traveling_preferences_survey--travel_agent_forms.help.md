@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a traveler's preferences for their upcoming trip. The form is designed to be completed by the traveler themselves, providing insight into their individual preferences and needs. This information will help the travel agency better understand the traveler's requirements and provide personalized recommendations for their trip.
-
-To prevent duplication and ensure relevance, it's essential to verify that the form is only filled out by the intended traveler and not by anyone else, as the information collected will be used to tailor the travel experience accordingly.
-
-This form should only be filled out by the traveler themselves, and the information collected will be used to provide personalized recommendations and services for the trip.
-
-</thinking>
-
 # Traveling Preferences Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your preferences for your upcoming trip. It will help us better understand your needs and provide you with a tailored travel experience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Fitness For Air Travel Assessment - Help Guide
 ## Purpose
 This guide explains the Medical Fitness For Air Travel Assessment form, designed to help travelers with medical conditions or other health concerns prepare for air travel. The form is meant to assess a person's medical fitness for air travel, taking into account various factors such as travel destinations, medical conditions, and travel dates.

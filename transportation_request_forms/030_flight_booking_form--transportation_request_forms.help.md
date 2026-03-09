@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Flight Booking Form - Help Guide
 
 ## Purpose

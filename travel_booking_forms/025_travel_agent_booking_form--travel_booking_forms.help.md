@@ -1,7 +1,3 @@
-<thinking>
-This form is used to book travel arrangements for customers through a travel agent. It gathers information about the booking details, customer information, travel details, payment details, and booking status. The purpose of this form is to ensure that the travel agent has all necessary information to book the travel arrangement correctly and communicate with the customer about their travel plans.
-</thinking>
-
 # travel_agent_booking_form - Help Guide
 ## Purpose
 This form is used by travel agents to book travel arrangements for customers.

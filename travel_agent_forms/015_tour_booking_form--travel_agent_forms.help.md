@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Tour Booking Form - Help Guide
 ## Purpose
 The Tour Booking Form is used to book a tour with a travel agent. It gathers information from customers to create a tour package.

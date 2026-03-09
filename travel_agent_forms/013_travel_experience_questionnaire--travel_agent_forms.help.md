@@ -1,9 +1,3 @@
-<thinking>As a form designer and technical writer, my first step is to understand the provided YAML structure and create a help guide that aligns with the form's purpose and features. Based on the YAML inputSchema, the form is a "Travel Experience Questionnaire" used to collect information from travelers about their recent trip. The form has five fields: "trip_details" (text field), "travel_agent" (select multiple field with three options), "trip_satisfaction" (select one field with five options), and "trip_comments" (text field). Given the options provided, it seems the form is likely used to gauge the quality of service provided by travel agents and gather feedback from customers.
-
-To avoid duplication, I will not explain common concepts or fields that are self-explanatory, focusing on the unique aspects of this form.
-
-</thinking>
-
 # Travel Experience Questionnaire - Help Guide
 ## Purpose
 This form is designed to help travel agents understand the quality of service they provide and gather feedback from customers about their recent travel experience.

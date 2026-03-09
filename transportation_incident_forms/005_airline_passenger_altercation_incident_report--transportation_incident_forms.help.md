@@ -1,10 +1,3 @@
-<thinking>
-This form is used to report an altercation incident that occurred on an airline or at a transportation location. The purpose of this form is to collect information about the incident, including details about the parties involved, the description of what happened, and any immediate actions taken. This form is intended for use by airline staff, crew, or passengers to report incidents that require follow-up and investigation. To ensure that this form is filled out correctly, please review the following instructions carefully.
-
-Before filling out this form, please ensure that you have not already submitted a report for this incident. If you have already reported this incident, your report will not be processed, and this form will be used to update the existing report.
-
-</thinking>
-
 # Airline Passenger Altercation Incident Report - Help Guide
 ## Purpose
 This form is used to report an altercation incident that occurred on an airline or at a transportation location. The purpose of this form is to collect information about the incident, including details about the parties involved, the description of what happened, and any immediate actions taken.

@@ -1,14 +1,3 @@
-<thinking>
-This form is used to collect information about the size and dimensions of luggage, which is crucial for various logistics and shipping purposes. The form is designed to gather detailed specifications such as length, width, height, weight, and volume of the luggage. This information is essential for determining the appropriate shipping method, insurance coverage, and handling procedures. To ensure accurate and efficient processing, please fill out the form accurately and thoroughly.
-
-To prevent duplication of efforts and ensure relevance, please do not submit this form if you have already provided similar information on a previous submission or if the item you are referring to is already in our system.
-
-Please note that some fields may be marked as optional, but it is highly recommended to provide as much detail as possible for a seamless processing experience.
-
-After filling out this form, click the "Submit" button to proceed with the processing of your luggage information.
-
-</thinking>
-
 # Luggage Size And Dimensions Inquiry Form - Help Guide
 ## Purpose
 The Luggage Size And Dimensions Inquiry Form is used to collect detailed specifications about the luggage, including its size and dimensions.

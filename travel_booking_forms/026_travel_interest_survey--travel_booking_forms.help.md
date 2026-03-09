@@ -1,7 +1,3 @@
-<thinking>
-This travel interest survey form is designed to collect information about a user's travel preferences and habits. This data will be used to tailor travel recommendations and improve the travel experience for users. Please ensure that you are completing this form for the purpose of providing travel information and not for any other reason. 
-</thinking>
-
 # Travel Interest Survey - Help Guide
 ## Purpose
 This form is designed to collect your travel interests and preferences. Please answer the questions honestly to help us provide you with better travel recommendations.

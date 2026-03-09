@@ -1,11 +1,3 @@
-<thinking>
-  This form is designed for users to refer a local guide for eco-tourism travel experiences. 
-  It's meant to gather information about the users who would like to refer a local guide. 
-  This form should only be used for referring a local guide, as indicated by the name and category. 
-  If you're looking to book a travel experience directly, you might want to consider using another form. 
-  This form doesn't duplicate any other form, and it's specifically tailored for the eco-tourism local guide referral purpose.
-</thinking>
-
 # eco_tourism_local_guide_referral_form - Help Guide
 ## Purpose
 The eco_tourism_local_guide_referral_form is used to refer a local guide for eco-tourism travel experiences. This form helps gather information from users who would like to refer a local guide for their travel plans.

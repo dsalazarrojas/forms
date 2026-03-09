@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Detox Mountain Booking Form - Help Guide
 ## Purpose
 The Digital Detox Mountain Booking Form is designed to collect information from guests for their stay at the Digital Detox Mountain retreat. This form helps us to ensure that we have all the necessary details to provide an exceptional experience for our guests. Please complete this form accurately and thoroughly to help us understand your preferences and needs.

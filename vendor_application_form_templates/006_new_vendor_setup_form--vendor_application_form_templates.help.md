@@ -1,7 +1,3 @@
-<thinking>
-This form is used to set up a new vendor for the system. It is intended for vendors that will be participating in a specific event or exhibition. The form captures essential information about the vendor, including their contact details, booth type, and other relevant details. This form is not intended for existing vendors, so if you are an existing vendor, please do not use this form. If you have already submitted this form, please do not resubmit it. Please ensure that all the information entered is accurate and complete to avoid any errors or issues with your vendor account.
-</thinking>
-
 # New Vendor Setup Form - Help Guide
 ## Purpose
 The New Vendor Setup Form is used to create a new vendor account for participating in an event or exhibition.

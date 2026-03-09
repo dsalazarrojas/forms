@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Flight Rescheduling Request Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for staff members to submit their uniform refresh order, including sizes and quantities of each size. The purpose of this form is to ensure accurate and efficient processing of uniform orders, reducing errors and miscommunication with the staff. The form should only be filled out by staff members who need to request uniform refresh orders. If you have already submitted a uniform refresh order, please do not fill out this form again as it may cause unnecessary processing delays.
-</thinking>
-
 # Gym Staff Uniform Refresh Order Form - Help Guide
 ## Purpose
 This form is used for staff members to submit uniform refresh orders, including sizes and quantities of each size.

@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect feedback from passengers about their ride experience. It asks for their overall feelings, ratings of service quality, cleanliness, communication, on-time service, and overall experience, whether they would recommend the service, and if they would like to provide their contact information. This form should be completed by passengers who have taken a ride with the service.
-</thinking>
-
 # Passenger Ride Quality Survey Form - Help Guide
 ## Purpose
 This form is used to collect feedback from passengers about their ride experience. It helps us understand how we can improve our service to better serve our passengers.

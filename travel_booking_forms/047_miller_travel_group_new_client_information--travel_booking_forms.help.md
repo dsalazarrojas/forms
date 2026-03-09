@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed for end-users to understand the purpose and usage of the "miller_travel_group_new_client_information" form, ensuring they can complete it efficiently and correctly. This form's purpose is to collect client travel information, such as travel type, duration, dates, and any special requests. It's crucial to follow this guide to avoid errors and submit accurate data.
-</thinking>
-
 # miller_travel_group_new_client_information - Help Guide
 ## Purpose
 The "miller_travel_group_new_client_information" form is designed to collect essential travel information from clients, allowing us to better understand their needs and preferences. This data will be used to tailor our travel services to meet their expectations and requirements.

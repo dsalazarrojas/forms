@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a "Suitcase Checklist" used to gather information about the contents and accessories of a traveler's suitcase. The purpose of this form is to help agents quickly scan and assess the contents of a traveler's suitcase to ensure compliance with travel regulations and provide assistance if necessary.
-Given the form's structure, it seems to be used in a context where agents need to review the contents of a traveler's suitcase, which may include multiple categories such as documents, clothing, accessories, and toiletries. The form appears to be designed for multiple-choice selections, where agents can select either "Yes" or "No" for each category.
-The form does not seem to be duplicating any other form, so it's likely a specific use case for travel agents to quickly evaluate the contents of a traveler's suitcase.
-</thinking>
-
 # Suitcase Checklist - Help Guide
 
 ## Purpose

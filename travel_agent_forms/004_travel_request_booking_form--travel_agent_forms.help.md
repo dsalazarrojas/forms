@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for travel agents to provide a standardized way of collecting essential information for travel booking requests. It's intended for internal use within travel agencies and their clients. Please ensure that only travel requests related to the travel industry are submitted using this form. Before completing this form, review the information to avoid duplicate or unnecessary submissions.
-</thinking>
-
 # Travel Request Booking Form - Help Guide
 ## Purpose
 This form is designed for travel agents to collect essential information from clients for travel booking requests.

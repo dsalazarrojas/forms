@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a Trip Evaluation Form designed for travelers to evaluate their experiences. It collects feedback about their trips, which can be used to improve services and enhance future experiences. To ensure that this form serves its purpose effectively, it's essential that users understand its contents and how to fill it out. This guide will help travelers navigate the form and provide accurate information. Before proceeding, please note that the form is designed to be flexible and adaptable, so users are free to use it for their specific needs without worrying about duplicating any content.
-
-</thinking>
-
 # Trip Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from travelers about their experiences on trips. Your input will help us understand what we can do better to enhance your future experiences.

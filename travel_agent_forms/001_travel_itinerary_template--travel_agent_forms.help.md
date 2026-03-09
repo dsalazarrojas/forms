@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We will assume that this form is used by travel agencies to create travel itineraries for their clients, providing them with a comprehensive template to collect relevant details. This form will not be used for any other purpose, and we will ensure that all provided fields are clearly explained to avoid confusion. 
 
 # Travel Itinerary Template - Help Guide

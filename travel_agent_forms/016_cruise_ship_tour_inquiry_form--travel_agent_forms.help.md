@@ -1,8 +1,3 @@
-<thinking>
-The form "Cruise Ship Tour Inquiry Form" is used for customers to inquire about available tours and cruises. This form helps the travel agency to gather information about the customer's preferences and requirements for their tour. The agency will use this information to provide relevant and personalized tour options to the customer.
-To avoid duplication, ensure that you have not completed this form previously. If you have already submitted an inquiry, please do not submit another one.
-</thinking>
-
 # Cruise Ship Tour Inquiry Form - Help Guide
 ## Purpose
 This form is designed for customers to inquire about available tours and cruises.

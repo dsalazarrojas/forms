@@ -1,14 +1,3 @@
-<thinking>
-This form is used to request a charter bus quote for a trip or event. It requires information about the requestor, trip details, passenger information, and additional services. The form is designed to collect relevant data to provide an accurate quote for the charter bus service. 
-
-To determine if a quote is needed for a similar request, we need to check if a similar request has been submitted in the past. 
-
-If a similar request is found, we will provide a quote based on previous data and update the user on the status of their previous request. If not, we will create a new quote for the trip based on the submitted information.
-
-Please fill out this form to submit your charter bus quote request.
-
-</thinking>
-
 # Charter Bus Quote Request - Help Guide
 ## Purpose
 The Charter Bus Quote Request form is used to gather information for a quote for a charter bus service. This form is divided into sections that correspond to different aspects of your trip.

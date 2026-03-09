@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather trip details and client information for travel-related activities. This form is designed to be used as a confirmation form, likely for travel agencies or tour operators to collect and verify client information and trip summaries. The form is not affiliated with any specific platform, but rather an AI-generated adaptation of public metadata.
-</thinking>
-
 # Trip Details Confirmation Form - Help Guide
 ## Purpose
 The Trip Details Confirmation Form is a travel-related form used to collect trip details and client information for travel agencies or tour operators. It's designed to be a confirmation form, ensuring that all essential trip and client details are accurately recorded.

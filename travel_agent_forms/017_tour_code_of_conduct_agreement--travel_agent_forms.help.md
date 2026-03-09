@@ -1,22 +1,3 @@
-<thinking>
-We're creating a help guide for a form called "tour-code-of-conduct-agreement" under the category "travel_agent_forms". This form is intended to collect information from tour participants and operators, focusing on their consent, emergency contacts, and contact details. The form appears to be designed for the tourism industry, likely for tour operators to gather participant information and ensure a smooth experience.
-
-To confirm, the form has 10 fields:
-1. Participant Consent (text, required)
-2. Emergency Contact (text, required)
-3. Participant Signature (text, required)
-4. Participant Name (text, required)
-5. Participant Email (email, required)
-6. Participant Phone (text, optional)
-7. Tour Operator Name (text, required)
-8. Tour Operator Email (email, required)
-9. Tour Operator Phone (text, optional)
-10. Tour Operator Signature (text, required)
-
-Let's break down the fields below, focusing on each field's purpose and any clarifications needed for end-users:
-
-</thinking>
-
 # tour-code-of-conduct-agreement - Help Guide
 ## Purpose
 The purpose of this form is to obtain consent and gather contact information from both the tour participant and the tour operator. This form ensures that both parties are clear on their roles, responsibilities, and emergency contacts for any potential issues that may arise during the tour. This form will help in creating a safe and well-documented record of tour arrangements.

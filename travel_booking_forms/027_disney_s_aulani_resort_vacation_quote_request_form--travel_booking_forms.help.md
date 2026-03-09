@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information from users for a vacation quote request at Disney's Aulani Resort. The purpose of this form is to gather details about the user's travel plans, including their arrival and departure dates, number of guests, preferred room type, and any special requests they may have. This form will help Disney's Aulani Resort staff to prepare an accurate quote for the user's vacation.
-</thinking>
-
 # Disney's Aulani Resort Vacation Quote Request Form - Help Guide
 ## How To Complete This Form
 

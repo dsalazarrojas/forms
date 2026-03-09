@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to gather information for trip planning purposes. It likely serves as a template for travel agencies or tour operators to collect data from customers or clients for planning and organizing trips. The form contains various fields to collect travel dates, agency information, travel type, destination, duration, group size, contact information, flight details, arrival information, and other related fields. This form aims to streamline the process of collecting and managing trip-related data. However, it is essential to review the form's content and purpose to ensure it meets the specific needs of the organization or business using it.
-
-Before proceeding, it is crucial to verify that the form does not contain any duplicate or redundant fields, as this can lead to confusion or errors in data collection and management. This guide will help users understand the purpose and usage of each field in the form to optimize its completion and ensure accurate data collection.
-</thinking>
-
 # Trip Planning Checklist - Help Guide
 ## Purpose
 This form is designed to gather information for trip planning purposes, including travel dates, agency information, travel type, destination, duration, group size, and other relevant details. The form is intended for travel agencies or tour operators to collect data from customers or clients for planning and organizing trips.

@@ -1,7 +1,3 @@
-<thinking>**This form is designed to collect information from users on their interests, skills level, training preferences, and other relevant details to provide tailored training programs. This form will help in identifying the areas of need and providing relevant training opportunities. Please note that most of the fields are not required, as the main goal is to understand user interests and needs. This form should not be filled out by individuals who have already taken the training session. If the user has already taken a training session, please contact the relevant department for further assistance.**
-
-</thinking>
-
 # Training User Interest Survey - Help Guide
 
 ## Purpose

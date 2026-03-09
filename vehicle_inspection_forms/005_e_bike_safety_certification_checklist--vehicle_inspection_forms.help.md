@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to help users assess the safety of an e-bike, ensuring that it meets the necessary standards and regulations for safe operation. The form is intended to be completed by a designated inspector, who will evaluate the e-bike's various components and features to identify any potential safety hazards. The form's purpose is to provide a comprehensive assessment of the e-bike's safety, which can be used to identify areas for improvement and ensure compliance with relevant regulations.
-
-The form is divided into three sections: General Information, Safety Checklist, and Inspector Information. The General Information section is used to provide basic details about the e-bike, such as its make and model. The Safety Checklist section includes a list of specific safety features and components that require evaluation, such as brakes, lights, and batteries. The Inspector Information section is used to record the inspector's details, including their name and certification number.
-
-Before completing the form, ensure that you have a clear understanding of the e-bike's components and features. This form is intended for use by designated inspectors who are familiar with e-bike safety regulations and standards.
-
-</thinking>
-
 # E Bike Safety Certification Checklist - Help Guide
 ## Purpose
 The E Bike Safety Certification Checklist is a comprehensive form designed to help inspectors evaluate the safety of an e-bike, ensuring it meets the necessary standards and regulations for safe operation.

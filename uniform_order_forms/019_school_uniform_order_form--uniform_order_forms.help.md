@@ -1,13 +1,3 @@
-<thinking>
-
-The School Uniform Order Form is designed to collect information about students' uniform orders, including order details, student and parent information, and specific order items. 
-
-The form is intended to gather necessary data for managing and fulfilling uniform orders efficiently. This form is meant to be filled out by students, parents, or school administrators who need to place or manage uniform orders.
-
-Please note that this form should not be used for other purposes, such as general contact information or non-uniform-related inquiries. If you're unsure about the purpose of this form, please refer to your school's administrative guidelines or contact the relevant school authorities.
-
-</thinking>
-
 # School Uniform Order Form - Help Guide
 ## Purpose
 The School Uniform Order Form is designed to collect information about students' uniform orders, including order details, student and parent information, and specific order items. This form helps school administrators and staff to efficiently manage and fulfill uniform orders.

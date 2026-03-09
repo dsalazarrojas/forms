@@ -1,11 +1,3 @@
-<thinking>
-The custom_dress_measurement_form is a form designed to collect measurements and specifications for custom-made dresses. This form is intended for users who want to order custom-made dresses that fit their unique body shape and style. It's crucial to ensure that users understand the purpose and functionality of this form to provide accurate and relevant information.
-
-To complete this form, users will select their body type from the drop-down menu, provide various measurements for their bust, chest, waist, hips, height, weight, sleeve length, dress length, top length, bottom length, arm sleeve length, shoulder width, sleeve width, collar depth, neck depth, collar width, waist circumference, hip circumference, dress sleeve length, dress width, and fabric length. Each of these measurements is essential for creating a custom-made dress that fits the user's body type and style.
-
-The following fields will be explained in detail below.
-</thinking>
-
 # custom_dress_measurement_form - Help Guide
 ## Purpose
 The custom_dress_measurement_form is a form designed to collect measurements and specifications for custom-made dresses. This form is intended for users who want to order custom-made dresses that fit their unique body shape and style.

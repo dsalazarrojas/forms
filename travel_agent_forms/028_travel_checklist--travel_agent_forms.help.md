@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Travel agent forms are used for a wide range of travel-related activities, such as preparing documents for travel, verifying travel history, and managing travel-related tasks. This form is specifically designed for travel agents to quickly and accurately gather information from travelers. To ensure the best experience, we've kept this form simple, intuitive, and user-friendly.
 
 When completing this form, please note that some fields are optional, marked as such in the explanation below.

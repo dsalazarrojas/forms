@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from students seeking academic support for their studies. It is intended to be completed by students who require assistance in specific subjects or areas of study, such as Mathematics, Sciences, Writing or Composition, History or Social Studies, and Languages. The form is part of the Academic Support Program, which aims to provide students with tailored support to overcome academic challenges. The form will help us understand the student's specific needs and preferences for support, which will enable us to provide targeted assistance.
-</thinking>
-
 # Academic Support Program Interest Form - Help Guide
 ## Purpose
 This form is designed to gather information from students seeking academic support for their studies.

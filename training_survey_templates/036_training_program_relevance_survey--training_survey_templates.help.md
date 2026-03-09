@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gauge the relevance and effectiveness of a training program by asking users to provide feedback on different aspects of the program. This includes assessing the program's relevance to their work, whether it has provided them with learning objectives, and the outcomes they have achieved as a result of the program. The purpose of this form is to help identify areas of the program that need improvement and to measure the impact it has on users. Please ensure that you are not filling out this form if you have already responded to it previously.
-</thinking>
-
 # Training Program Relevance Survey - Help Guide
 ## Purpose
 The Training Program Relevance Survey is designed to help us evaluate the effectiveness of our training programs. Your feedback is valuable in helping us improve the programs that we offer.

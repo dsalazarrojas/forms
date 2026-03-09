@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information from students who wish to register for the Summer Tutoring Camp, a program designed to provide educational support during the summer break. The purpose of this form is to gather necessary contact and demographic information from the students, including their name, contact details, and birthdate.
-
-Before filling out the form, please note that:
-- Only one entry per student is allowed to avoid duplication and ensure unique data.
-- The form is for summer tutoring registration only.
-</thinking>
-
 # Summer Tutoring Camp Registration Form - Help Guide
 
 ## Purpose

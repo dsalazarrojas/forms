@@ -1,35 +1,3 @@
-<thinking>
-To confirm, we will create a help guide for the Expedited Boarding Questionnaire form, which is used to capture travel-related information from passengers. This form is essential for travel agents to gather accurate information to facilitate expeditious boarding procedures. We will follow the form's structure and fields to create a comprehensive guide that explains each field's purpose and requirements.
-
-Before starting, let's review the form fields:
-- **First Name** (text)
-- **Last Name** (text)
-- **Passenger Type** (select_one: Infant, Child, or Adult)
-- **Document Type** (select_one: Passport, Visa, or ID)
-- **Document Number** (text)
-- **Date of Birth** (date)
-- **Travel Date** (date)
-- **Travel Class** (select_one: Economy, Business, or First)
-- **Flight Number** (text)
-- **Flight Date** (date)
-- **Boarding Number** (text)
-- **Travel Agency** (select_multiple: Company A, B, or C)
-- **Travel Agent** (select_multiple: Agent A, B, or C)
-- **Document Status** (select_one: Pending, Approved, or Denied)
-- **Comments** (note)
-- **Contact Number** (text)
-- **Email Address** (text)
-- **Address** (text)
-- **Country** (select_one: USA, Canada, or Mexico)
-- **City** (text)
-- **State** (text)
-- **Zip** (text)
-- **Document URL** (text)
-- **Uploaded By** (text)
-
-Now, let's create the help guide for the Expedited Boarding Questionnaire form.
-</thinking>
-
 # Expedited Boarding Questionnaire - Help Guide
 ## Purpose
 The Expedited Boarding Questionnaire is a form used to gather travel-related information from passengers to facilitate expeditious boarding procedures. This form helps travel agents collect accurate and necessary details to ensure a smooth boarding experience.

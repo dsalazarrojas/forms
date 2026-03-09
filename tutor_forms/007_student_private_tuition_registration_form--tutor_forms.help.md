@@ -1,13 +1,3 @@
-<thinking>
-
-The Student Private Tuition Registration Form is designed to collect information from students and their parents/teachers for private tuition registration purposes. It ensures that all relevant details are captured correctly, and no duplicate registrations occur for the same student. This form is typically used to gather information for one-on-one tuition sessions, and it is crucial to provide accurate and up-to-date information to ensure a smooth and effective tuition process.
-
-To prevent duplicate registrations, this form checks for student and teacher details. If a student or teacher is already registered, the form will alert the user to update the existing registration instead of creating a new one.
-
-The form is divided into several sections, each catering to specific details required for the registration process. It's essential to fill out all the required fields to avoid any issues during the tuition process.
-
-</thinking>
-
 # Student Private Tuition Registration Form - Help Guide
 ## Purpose
 The Student Private Tuition Registration Form is designed to collect essential details from students and their parents/teachers for private tuition purposes. This form ensures that all relevant information is captured correctly, and no duplicate registrations occur for the same student.

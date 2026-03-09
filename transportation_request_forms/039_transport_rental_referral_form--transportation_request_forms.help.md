@@ -1,9 +1,3 @@
-<thinking>
-
-The Transport Rental Referral Form is a digital form used to collect information from users who are interested in renting a vehicle for a specific period. This form is designed to gather essential details such as name, email, phone number, and transport type to facilitate the rental process. The form is typically completed by individuals or companies seeking to rent a vehicle for a particular purpose, such as business travel or leisure activities. To ensure that you are in the correct context, you should only fill out this form if you are interested in renting a vehicle. If you are an administrator or manager, you may want to review this form to understand its purpose and how to use it effectively.
-
-</thinking>
-
 # Transport Rental Referral Form - Help Guide
 ## Purpose
 The Transport Rental Referral Form is designed to collect information from users who are interested in renting a vehicle for a specific period.

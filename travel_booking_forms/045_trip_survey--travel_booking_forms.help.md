@@ -1,7 +1,3 @@
-<thinking> 
-The "Trip Survey" form is designed to collect information about travelers, their destinations, and travel-related activities. This form will help gather essential data for travel agencies to provide better services to their customers. It is recommended to fill out this form with accurate and complete information to ensure that travel arrangements are made according to your needs. Please note that all fields in this form are not required, but providing as much information as possible will help us to provide you better service. If you have already filled out this form, you can skip it, but please be aware that incomplete or outdated information might not be used for your travel arrangements.
-</thinking>
-
 # Trip Survey - Help Guide
 ## Purpose
 The Trip Survey form is designed to collect information about travelers, their destinations, and travel-related activities. This form will help travel agencies provide better services to their customers.

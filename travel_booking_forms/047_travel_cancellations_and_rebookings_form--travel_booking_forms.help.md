@@ -1,23 +1,3 @@
-<thinking>
-Travel Cancellations And Rebookings Form - Form Purpose
-The purpose of this form is to gather information for travel cancellations and rebookings. It is used to record the reason for cancellation, rebooking date and time, customer contact details, and other relevant information related to travel rebookings. This form is essential for travel agencies to manage their bookings efficiently and ensure smooth communication with customers.
-
-The form is designed to be completed by a customer or travel agent, and it helps to streamline the process of travel cancellations and rebookings. The form collects information such as the reason for cancellation, the date and time of rebooking, customer email address, and travel agency details. It also includes options for travel agency approval and rebooking status.
-
-The form is divided into several sections, each with its own purpose:
-
-* The first section, "reason for cancellation," is used to enter the reason why a travel booking was cancelled.
-* The second section, "rebooking date and time," is used to enter the date and time when the booking was rebooked.
-* The third section, "customer contact details," is used to enter the customer's email address and contact information.
-* The fourth section, "travel agent details," is used to enter the travel agency name and manager's name.
-* The fifth section, "rebooking status," is used to indicate whether the rebooking was confirmed or not.
-* The sixth section, "travel agency approval," is used to enter the travel agency's approval status and reason for approval or rejection.
-* The seventh section, "rebooked by status," is used to enter the rebooked status and reason for rebooking.
-
-The form is designed to be completed by a customer or travel agent, and it helps to ensure accurate and efficient communication between the travel agency and the customer. By filling out this form, you will be able to provide the necessary information for travel cancellations and rebookings.
-
-</thinking>
-
 # Travel Cancellations And Rebookings Form - Help Guide
 ## Purpose
 This form is used for travel cancellations and rebookings to collect necessary information for efficient communication between travel agencies and customers.

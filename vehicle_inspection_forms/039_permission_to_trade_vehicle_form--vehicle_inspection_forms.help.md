@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Permission To Trade Vehicle Form", it's essential to first understand the form's purpose and potential non-duplication issues. This form appears to be used for obtaining permission to trade a vehicle, which involves gathering various details about the vehicle and the owner. 
-
-The purpose of this form is to collect essential information about the vehicle, its owner, and other relevant details to facilitate the trading process. 
-
-To minimize duplication, the form should be used only for new vehicle trade requests and not for subsequent updates or revisions. Any existing records should be updated through separate channels.
-
-</thinking>
-
 # Permission To Trade Vehicle Form - Help Guide
 ## Purpose
 The "Permission To Trade Vehicle Form" is used to gather information about a vehicle and its owner to facilitate the trading process.

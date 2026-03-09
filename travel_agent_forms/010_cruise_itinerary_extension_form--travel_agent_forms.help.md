@@ -1,7 +1,3 @@
-<thinking>
-This form is for travel agents to extend the itinerary of a client's cruise. The form is intended to gather information from the client regarding their cruise plans. It is not meant for use as a formal contract or agreement. It's a general form to facilitate communication between the travel agent and the client. The form should not be used to collect sensitive financial or personal information. This form should only be completed by the client or authorized personnel on behalf of the client. The form is not intended for public use. The form's fields are not necessarily in a specific order or format, which may be adjusted or added to at any time without notice. This form is a free adaptation of a public form template created using AI and public metadata. It is not affiliated with or endorsed by any form platform. You may modify it, sell it, or use it for any other purpose, just give credit to the form's creator.
-</thinking>
-
 # Cruise Itinerary Extension Form - Help Guide
 ## Purpose
 This form is designed for travel agents to extend a client's cruise itinerary. It's intended to be filled out by the client or their authorized representative to provide essential details about their travel plans.

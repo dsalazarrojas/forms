@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # public_transit_system_safety_audit_form - Help Guide
 ## Purpose
 The "public_transit_system_safety_audit_form" is used to report safety issues and incidents within the public transit system. This form helps safety inspectors gather information about the location, type of vehicle involved, and the actions needed to address safety concerns.

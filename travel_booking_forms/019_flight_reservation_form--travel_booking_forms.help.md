@@ -1,9 +1,3 @@
-<thinking>
-This form is a travel booking form, designed to collect information about flights and reservations. It is likely used by travel agencies or travel companies to manage their reservations and gather relevant information about each reservation. The form collects a range of information including passenger details, travel dates and times, flight and seat numbers, travel class, payment method, and reservation status.
-Before creating this help guide, I reviewed the form structure and fields to ensure there are no duplicates and that each field is necessary for the form's purpose.
-
-</thinking>
-
 # flight_reservation_form - Help Guide
 ## Purpose
 The flight reservation form is used to collect information about flights and reservations for travel agencies or travel companies.

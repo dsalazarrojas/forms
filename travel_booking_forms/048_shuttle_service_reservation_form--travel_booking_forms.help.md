@@ -1,11 +1,3 @@
-<thinking>
-We are creating a help guide for the Shuttle Service Reservation Form to ensure end-users understand its purpose and how to complete it effectively. This guide will cover the form's purpose, step-by-step instructions, and detailed explanations of each field.
-
-To avoid duplication of effort and ensure relevance, this guide will be created based on the provided YAML form specification.
-
-The form is designed to gather information from passengers for shuttle services, which can be customized based on the user's preferences.
-</thinking>
-
 # Shuttle Service Reservation Form - Help Guide
 ## Purpose
 This form is used to collect passenger details and shuttle service preferences for booking a shuttle service.

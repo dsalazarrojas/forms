@@ -1,5 +1,3 @@
-<thinking>... We have a form for referrals for our Frequent Flyer Program Friend Referral Program, and it's meant to gather information from the friend who's being referred, and the referrer (the one doing the referring). This form will help us get all the required information from both parties so we can process the referral efficiently. Please note that you can only fill this out if you're a current member of the Frequent Flyer Program and you have an active account. Also, please do not fill this out if you've already submitted this type of referral before. ...</thinking>
-
 # Frequent Flyer Program Friend Referral Form - Help Guide
 ## Purpose
 This form is intended for our members to refer their friends to our Frequent Flyer Program. By filling out this form, you (the referrer) can help your friend join and get access to exclusive benefits.

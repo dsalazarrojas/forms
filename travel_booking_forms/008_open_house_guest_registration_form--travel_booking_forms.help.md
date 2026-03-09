@@ -1,7 +1,3 @@
-<thinking>
-To minimize the risk of duplicate entries and ensure accurate guest registration, we want to provide a clear and concise help guide for the Open House Guest Registration Form. This form is essential for tracking guest information and facilitating effective communication with the event organizers and agents. By filling out this form, guests can ensure their attendance is recorded correctly, and they can receive any necessary updates and instructions for the event.
-</thinking>
-
 # Open House Guest Registration Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from guests attending events at our premises. Please fill it out accurately to ensure a smooth and enjoyable experience for all.

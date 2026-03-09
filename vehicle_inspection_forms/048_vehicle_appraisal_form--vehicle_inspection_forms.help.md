@@ -1,5 +1,4 @@
-### <thinking>...</thinking>
-To create a comprehensive help guide for the "Vehicle Appraisal Form", I'll need to analyze the provided YAML fields and provide an explanation for each field. This form seems to be designed for evaluating the condition and features of a vehicle, likely for insurance or valuation purposes. The form includes various fields related to the vehicle's specifications, condition, and status. I'll aim to provide a clear and concise explanation for each field to ensure end-users understand its purpose and how to complete it.
+### To create a comprehensive help guide for the "Vehicle Appraisal Form", I'll need to analyze the provided YAML fields and provide an explanation for each field. This form seems to be designed for evaluating the condition and features of a vehicle, likely for insurance or valuation purposes. The form includes various fields related to the vehicle's specifications, condition, and status. I'll aim to provide a clear and concise explanation for each field to ensure end-users understand its purpose and how to complete it.
 
 Here is the final help guide:
 

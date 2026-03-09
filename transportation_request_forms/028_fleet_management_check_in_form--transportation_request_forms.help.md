@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for fleet managers to check in vehicles and record key details about their condition and usage. It's essential to complete this form accurately to ensure the proper management of the fleet.
-</thinking>
-
 # Fleet Management Check In Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about vehicle check-ins, including the vehicle's status, location, and condition.

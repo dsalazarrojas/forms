@@ -1,10 +1,3 @@
-<thinking>
-The form "Daily Flight Operations Report" is designed to provide a concise and structured format for reporting daily flight operations data. This form is intended to gather essential information about flight operations, including flight ID, departure and arrival times, duration, status, and reason for delay. The form's fields are designed to capture detailed information about each flight, allowing users to track and analyze flight performance. To ensure the form serves its purpose, it's crucial to follow the instructions carefully and fill out each field accurately.
-
-This form should only be used for reporting daily flight operations data. Duplicate or incorrect submissions may lead to data inconsistencies and affect the accuracy of the analysis. Please review the form carefully before submission.
-
-</thinking>
-
 # Daily Flight Operations Report - Help Guide
 ## Purpose
 The Daily Flight Operations Report is a form designed to gather and record daily flight operations data. This report helps track and analyze flight performance, providing valuable insights for flight operations management.

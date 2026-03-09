@@ -1,7 +1,3 @@
-<thinking>
-The Stage Performance Transport Request form is used to capture information from performers regarding their transport requirements for stage performance events. This form is used to ensure that necessary arrangements can be made for transportation and other logistical aspects of the event. Please confirm that this form will be completed for every stage performance event, and it will not be duplicated for the same event. The purpose of this form is not to record information for a one-time event, but rather to establish consistent data for future planning and evaluation purposes. It's crucial to provide accurate and comprehensive information in the form to avoid any potential issues during the event.
-</thinking>
-
 # Stage Performance Transport Request Form - Help Guide
 ## Purpose
 The Stage Performance Transport Request form is used to collect information from performers about their transportation needs for stage performance events. This form is essential for event organizers to make necessary arrangements and ensure a smooth event execution.

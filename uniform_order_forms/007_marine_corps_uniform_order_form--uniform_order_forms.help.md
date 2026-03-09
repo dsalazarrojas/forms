@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Marine Corps Uniform Order Form - Help Guide
 ## Purpose
 The Marine Corps Uniform Order Form is a simple form designed to collect important information from customers who need to place an order for uniforms. This form gathers details about the customer, their shipping preferences, and payment methods, as well as any additional notes they may have. It's essential to fill out the form accurately to ensure that the order is processed smoothly and efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from passengers for travel-related purposes. The form is meant to be used by travel agencies or companies to collect necessary details from passengers for their travel bookings. The purpose of this form is to ensure that the passenger's travel information is accurate and up-to-date. This form is not intended to be used for any other purpose other than travel booking and confirmation.
-</thinking>
-
 # travel_confirmation_form - Help Guide
 ## Purpose
 The travel_confirmation_form is a travel-related form designed to collect information from passengers for travel bookings. This form is used by travel agencies or companies to gather necessary details from passengers.

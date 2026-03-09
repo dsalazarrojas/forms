@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Traveler Preferences Form - Help Guide
 ## Purpose
 This form is designed to collect traveler preferences for travel bookings, allowing us to better understand your needs and provide more tailored services.

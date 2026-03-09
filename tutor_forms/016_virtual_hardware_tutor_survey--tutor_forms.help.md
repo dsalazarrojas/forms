@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to collect feedback from users on their experience with our virtual hardware tutorials. This form is designed to be user-friendly and easy to fill out, and is intended to help us understand what we can do to improve our tutorials. By understanding what users like and dislike about our tutorials, we can refine them to better meet their needs. Please fill out this form only once per user, and be as specific and detailed as possible in your answers.
-</thinking>
-
 # Virtual Hardware Tutor Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users on their experience with our virtual hardware tutorials. Your input will help us identify areas for improvement and create more effective and user-friendly tutorials.

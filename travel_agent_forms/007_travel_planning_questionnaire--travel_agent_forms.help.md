@@ -1,8 +1,3 @@
-<thinking>
-This form is part of a travel planning process, and it's aimed at gathering relevant information from travelers to provide a smooth and efficient experience. This form should only be used for travel planning purposes, and it's not meant for other types of inquiries or requests. Please ensure that you have read this help guide carefully before submitting the form to avoid any errors or misunderstandings.
-
-</thinking>
-
 # Travel Planning Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect essential information from travelers to plan their trips efficiently. It will help us in providing personalized travel recommendations and services tailored to their specific needs.

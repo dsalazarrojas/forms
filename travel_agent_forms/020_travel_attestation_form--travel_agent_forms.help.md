@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for a travel agent to attest the travel details of their customers, ensuring that all necessary information is correctly recorded and verified. The form is intended to gather information that will be used for travel-related tasks and decisions. To avoid errors, ensure that you complete this form accurately and thoroughly. If you have previously completed this form, please review the instructions to check if any changes or updates are required.
-
-Note that this form is for internal use within the organization, so please do not share it publicly.
-</thinking>
-
 # Travel Attestation Form - Help Guide
 ## Purpose
 The Travel Attestation Form is used to record and verify travel information for customers of a travel agency. This form collects details such as the traveler's name, travel dates, destination, reason for travel, and contact information for the travel agent, among other things.

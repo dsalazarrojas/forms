@@ -1,19 +1,3 @@
-<thinking>
-
-This form appears to be a template for a travel agency booking form, designed to capture information from clients. The form's purpose is likely to gather details about the client's travel preferences, agency information, and other relevant details. 
-
-To determine if this form is relevant to your current project, please consider the following:
-
-* Does your project involve travel agencies or travel-related services?
-* Are you looking to create a form for clients to book travel services or provide information to travel agencies?
-* Does your project require collecting specific details from clients, such as travel dates, agency information, or payment plans?
-
-If your project matches these scenarios, this form template might be relevant to your needs.
-
-Before proceeding, ensure that you haven't already created a similar form or have similar requirements that cover the same purpose.
-
-</thinking>
-
 # travel_agency_booking_form_template - Help Guide
 ## Purpose
 The travel agency booking form template is designed to collect information from clients about their travel preferences, agency details, and other relevant information.

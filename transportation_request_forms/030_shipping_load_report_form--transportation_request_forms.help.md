@@ -1,16 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "shipping_load_report_form" form. This form is used to report on shipments, providing a structured way to capture information about the pickup and delivery details of a shipment. The form is likely used by logistics and transportation teams to track and manage shipments, ensuring accurate and efficient processing.
-
-To ensure the form is completed correctly, we should consider the following:
-
-* The form should only be used for reporting on shipments that have already occurred or are planned to occur.
-* The form should not be used for creating new shipments.
-* All fields should be completed with accurate and relevant information to ensure correct tracking and management of shipments.
-
-This form consists of several fields, each designed to capture specific information about the shipment. We'll break down each field below, explaining its purpose and how it should be completed.
-
-</thinking>
-
 # shipping_load_report_form - Help Guide
 ## Purpose
 This form is used to report on shipments, providing a structured way to capture information about the pickup and delivery details of a shipment.

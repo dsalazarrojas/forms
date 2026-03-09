@@ -1,5 +1,3 @@
-<thinking>As an AI-generated form, this Business Travel Survey aims to gather feedback on various aspects of business travel experiences. Its purpose is to collect data on the quality of travel arrangements, accommodations, and overall satisfaction. By analyzing this information, the company can identify areas of improvement and make informed decisions to enhance their business travel programs. It is essential to note that this form is not affiliated with any specific survey platform and is a unique adaptation of common survey topics in the industry. The form is designed to be comprehensive, covering aspects such as accommodation quality, transportation, and travel budgets, to gain a thorough understanding of the business traveler's experience.</thinking>
-
 # Business Travel Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on business travel experiences, providing valuable insights for companies to improve their travel programs.

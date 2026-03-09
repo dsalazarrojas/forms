@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the travel information form, we'll break down the form's purpose and fields into clear explanations and instructions for end-users. This form appears to be designed to collect travel-related information, likely for corporate or business travel purposes. The form has 25 fields, each with its own label, type (e.g., date, text, select_one), and options. The fields are categorized into different sections, including travel dates, destination information, travel details, meeting information, and return information.
-
-The form's purpose is to gather essential details about a person's or organization's travel plans, such as travel dates, destination, travel mode, and meeting details. This information will help in preparing for and coordinating the travel. The form does not explicitly state any specific requirements, so it's assumed that users should provide information only when necessary.
-
-Before filling out the form, make sure to have all the required information ready.
-
-</thinking>
-
 # travel_information_form - Help Guide
 ## Purpose
 This form is designed to collect travel-related information for corporate or business travel purposes.

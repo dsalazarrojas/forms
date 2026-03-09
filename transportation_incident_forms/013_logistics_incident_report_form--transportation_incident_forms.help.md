@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide will help you understand how to complete the Logistics Incident Report Form, which is used to report incidents related to transportation issues, warehouse problems, fleet issues, and other logistics-related events. This form ensures that incidents are documented accurately and consistently, providing valuable information for incident management and resolution.
 
 ## Logistics Incident Report Form - Help Guide

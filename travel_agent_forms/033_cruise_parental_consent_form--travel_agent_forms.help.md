@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form for travel agents to gather necessary information from parents or guardians before booking a cruise for minors. This form will help travel agents obtain consent from parents or guardians for the minor to travel, ensuring compliance with regulatory requirements. The form will collect contact information for the parent or guardian, minor details such as name, date of birth, and gender, and cruise-specific information like cruise name, departure and return dates, and duration. This form will also provide an optional field for travel agent comments or notes. The purpose of this form is to provide a structured and standardized way for travel agents to collect required information from parents or guardians for minor cruises. It is not intended to be used for general travel bookings or other types of travel arrangements that do not involve minors.
-</thinking>
-
 # Cruise Parental Consent Form - Help Guide
 
 ## Purpose

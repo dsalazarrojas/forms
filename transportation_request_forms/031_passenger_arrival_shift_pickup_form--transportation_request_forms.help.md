@@ -1,7 +1,3 @@
-<thinking>
-This form is a digital representation of a transportation request form used to capture essential information for the shift pickup of passengers in a transportation setting. It's designed to be a simple, user-friendly tool for gathering necessary details from passengers, making the pickup process more efficient and organized.
-</thinking>
-
 # passenger_arrival_shift_pickup_form - Help Guide
 ## Purpose
 This form is used to collect information from passengers for shift pickup purposes, ensuring a smooth and efficient transportation experience.

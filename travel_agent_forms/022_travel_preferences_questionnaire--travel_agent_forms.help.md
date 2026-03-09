@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather travel preferences information from end users. The purpose of this form is to help us understand your travel preferences and tailor our services accordingly. Please ensure you only fill out this form once, as any duplicate responses may not be recorded.
-
-This form has multiple pages with varying requirements for fields. Each field is clearly labeled and should be completed accordingly. You may find some fields have specific options to choose from, while others have free text fields for more detailed information.
-
-To avoid errors, please ensure all pages are completed before submitting the form.
-</thinking>
-
 # Travel Preferences Questionnaire - Help Guide
 ## Purpose
 This form is used to gather travel preferences information from end users. It helps us understand your preferences to tailor our services accordingly.

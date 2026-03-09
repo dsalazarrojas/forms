@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for employees to submit a travel itinerary for business purposes, providing essential details about their trip, including employee information, travel dates, destination, transportation, and other relevant details. This form ensures that the employee's travel plans are documented and approved by their direct supervisor. The form's purpose is to streamline the travel request process, making it easier for employees to submit and manage their travel itineraries.
-</thinking>
-
 # Business Travel Itinerary Form - Help Guide
 ## Purpose
 The Business Travel Itinerary Form is a mandatory tool for employees to submit their travel plans for approval and management. It helps to ensure that all necessary details are captured and reviewed before the trip, making it easier for employees to plan and execute their business travels.

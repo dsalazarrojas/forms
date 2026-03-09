@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Front Seat Access Request Form - Help Guide**
 ## Purpose
 The Front Seat Access Request Form is a tool used by tour leaders and event organizers to request front seat access for students on a school tour or event. This form helps to collect important details required for granting front seat access.

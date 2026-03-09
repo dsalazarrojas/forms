@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for travel and tourism professionals seeking to gather feedback from travelers to improve the Thailand travel experience. The purpose of this form is to collect information about travelers' experiences, satisfaction levels, and recommendations to enhance travel services.
-
-Before providing feedback, ensure the form is not submitted multiple times by the same individual. This form should be filled out by one person per trip.
-
-</thinking>
-
 # Thailand Travel Experience Survey - Help Guide
 ## Purpose
 

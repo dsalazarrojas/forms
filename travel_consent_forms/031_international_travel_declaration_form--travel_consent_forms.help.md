@@ -1,8 +1,3 @@
-<thinking>
-  This form is designed to gather information from travelers regarding their international travel plans. The form is used to collect general details about the traveler, their travel dates, travel documents, insurance information, accommodation, travel companions, health information, and other relevant details. Please note that this form was generated using AI and does not collect any sensitive or personal identifiable information. It is meant to be a sample form and should not be used in production without proper review and validation.
-
-</thinking>
-
 # International Travel Declaration Form - Help Guide
 ## Purpose
 This form is designed to gather information from travelers regarding their international travel plans.

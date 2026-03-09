@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for group travel organizers to collect information and payment details from travelers participating in a group trip. The form ensures that essential details such as trip dates, traveler information, and payment status are collected correctly. It is crucial that the form is completed accurately to guarantee smooth and successful group travel planning and execution. Before proceeding, ensure that all required fields are filled in correctly to avoid any potential issues.
-
-</thinking>
-
 # Bucket List Group Travel - Help Guide
 
 ## Purpose

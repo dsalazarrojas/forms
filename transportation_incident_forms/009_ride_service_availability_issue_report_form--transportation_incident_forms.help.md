@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ride Service Availability Issue Report Form - Help Guide
 ## Purpose
 This form is designed for reporting issues related to ride services such as buses, trains, or flights. It helps our team track and address problems with these services, ensuring we can provide accurate information to riders and improve our services overall.

@@ -1,5 +1,3 @@
-<thinking> 
-This form is used to capture shipping information for a specific shipment, including details about the shipment, pickup date, shipper details, and shipping service provider information. This form likely serves to create a comprehensive waybill for tracking and management of shipments. The purpose of this form is to ensure accurate and up-to-date shipping information is recorded and stored. Please note that this form may be used for both domestic and international shipping purposes, and it's essential to verify that all required fields are completed accurately.</thinking>
 # Shipping Waybill Form - Help Guide
 ## Purpose
 The Shipping Waybill Form is used to capture and store shipping information for efficient tracking and management of shipments.

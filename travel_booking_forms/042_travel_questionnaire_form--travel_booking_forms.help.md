@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a travel questionnaire form, used to collect information from users about their travel plans. The form likely aims to gather specific details such as travel dates, destinations, travel agencies, and contact information. Given the presence of multiple travel agencies, contact persons, and contact numbers, it seems that this form is meant to be used for business or corporate travel purposes. It might also be used for internal record-keeping or reporting within the organization.
-</thinking>
-
 # travel_questionnaire_form - Help Guide
 ## Purpose
 The travel questionnaire form is used to collect travel-related information from users, such as travel dates, destinations, agencies, and contact details. This form is likely used for business or corporate travel purposes.

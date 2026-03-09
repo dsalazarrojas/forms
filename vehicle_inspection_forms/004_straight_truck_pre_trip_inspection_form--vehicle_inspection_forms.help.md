@@ -1,9 +1,3 @@
-<thinking>
-Checking the provided YAML fields, this form is designed for inspecting a straight truck vehicle before it starts its journey. The main aim of this form is to ensure the vehicle's overall condition and ensure it's safe to operate. This form can be filled out by drivers, mechanics, or anyone inspecting the vehicle. It's used to gather information about the vehicle status, type, cargo securement, and other essential systems to identify any issues.
-
-This form is not meant to be filled out twice for the same vehicle, so please make sure you've got the most up-to-date information on the vehicle status before starting the form. This ensures we get accurate data and avoid duplication.
-
-</thinking>
 # Straight Truck Pre Trip Inspection Form - Help Guide
 ## Purpose
 The Straight Truck Pre Trip Inspection Form is used to inspect and report the condition of a straight truck vehicle before it starts its journey. This helps ensure the vehicle is safe to operate and reduces the risk of accidents or vehicle breakdowns.

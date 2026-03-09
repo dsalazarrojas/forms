@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Creative Residency Cottage Booking Form - Help Guide
 
 ## Purpose

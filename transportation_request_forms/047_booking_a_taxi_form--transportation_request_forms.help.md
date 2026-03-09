@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from users for taxi booking purposes. The purpose of this form is to gather essential details from the user to provide them with the best possible taxi services. This form will be used by taxi companies to process user requests for transportation. 
-
-To avoid duplication, this form is designed to be filled out once for each taxi service request. 
-
-To ensure accurate processing, please enter all required fields accurately and thoroughly. The form has been designed with clear labels and descriptions for each field to guide you through the process.
-</thinking>
-
 # Booking A Taxi Form - Help Guide
 ## Purpose
 The Booking A Taxi Form is designed to collect information for taxi booking purposes. 

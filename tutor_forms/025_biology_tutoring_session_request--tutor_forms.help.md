@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the user submits a complete and accurate form, we need to explain the purpose of the form, which is to request a biology tutoring session. This form is designed to gather information about the student's needs and preferences, such as their grade level, tutoring needs, and preferred session format. The form will be used to match the student with a suitable tutor who can provide personalized guidance and support.
-</thinking>
-
 # Biology Tutoring Session Request - Help Guide
 ## Purpose
 This form is designed to request a biology tutoring session. Please fill out the form to share your information with us and a suitable tutor will contact you to schedule a session.

@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Dealer Meeting Travel Plan" form, we need to determine the purpose and relevance of the form. This form appears to be a travel planning tool for dealers, and its primary function is to collect information about travel preferences, details, and arrangements for a meeting.
-
-The form contains various fields for gathering information, such as meeting dates, travel methods, accommodation options, and traveler details. This form likely serves as an internal tool for dealers to plan and organize their travel for meetings.
-
-We should confirm if this form is used for internal or external purposes and ensure it does not overlap with existing travel planning processes within the organization. Additionally, we need to consider the audience for whom this form is intended – dealers or travel administrators. If it's intended for dealers, they should be able to easily provide the required information without needing to refer to a travel administrator.
-
-Given the form's fields, we'll structure the help guide accordingly, focusing on the specific sections and fields to provide clear instructions on how to complete the form.
-
-</thinking>
-
 # Dealer Meeting Travel Plan - Help Guide
 ## Purpose
 The "Dealer Meeting Travel Plan" form is designed to gather information about travel arrangements for dealers, including meeting dates, travel methods, accommodation options, and traveler details. This form is intended to be completed by the dealer or travel administrator.

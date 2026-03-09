@@ -1,17 +1,3 @@
-<thinking>
-
-This form appears to be a general transportation request form, likely used for customers to book a transportation service. The form's purpose might be to collect information about the customer, their truck, shipping details, contact information, payment details, and delivery information. However, without more context or information about the specific business or industry using this form, it's difficult to determine the exact purpose or requirements.
-
-To determine relevance, consider the following:
-
-* The form includes fields for customer details, shipping details, and payment information, which suggests it may be used for transportation or logistics services.
-* The presence of fields like "select_one_type", "select_multiple_types", "select_one_type2", "select_multiple_types2", and "select_one_type3" indicates that the form may be used for categorizing or selecting specific transportation services or options.
-* Fields like "date" and "time" suggest that the form may be used for scheduling or arranging transportation services.
-
-To avoid duplication of information, ensure that the form's fields are not redundant and are used consistently throughout the form.
-
-</thinking>
-
 # truck_skid_position_booking_form - Help Guide
 
 ## Purpose

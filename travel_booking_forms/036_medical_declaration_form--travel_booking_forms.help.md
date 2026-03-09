@@ -1,6 +1,3 @@
-<thinking>
-The form is likely being used by travelers to provide information about their medical conditions, travel plans, and other relevant details. This is probably used for risk assessment and travel insurance purposes, ensuring that the traveler has the necessary medical clearance to travel. The fields likely cover various aspects such as medical conditions, travel dates, and emergency contact information. The form is probably used by travel agencies, airlines, or travel operators to verify the traveler's health status and provide accurate services.</thinking>
-
 # medical-declaration-form - Help Guide
 ## Purpose
 This form is designed to gather information about your medical conditions, travel plans, and other relevant details to ensure that you are fit for travel.
