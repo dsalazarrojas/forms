@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians who wish to register their child for the Cub Scout program. The form is intended for parents who are not already registered with the Cub Scout organization. The form fields are designed to gather basic contact information, relationship, and demographic details about the participant, as well as contact information for the parent or guardian. This form is used to register new participants who do not already have an existing account. Please note that this form may be used to collect sensitive information, such as date of birth and contact details, which will be kept private and secure.
-</thinking>
-
 # Cub Scout Registration Form - Help Guide
 ## Purpose
 The Cub Scout Registration Form is designed to collect information from parents or guardians who wish to register their child for the Cub Scout program.

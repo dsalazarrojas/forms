@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from volunteers who want to register for conservation activities. This form helps us understand their contact information, motivation for volunteering, availability, skills, and other relevant details.
-
-To prevent duplicates, we will be checking for existing registrations before accepting new ones. Please make sure to check your email for a confirmation link sent by us after submitting your registration.
-
-Please note that some fields may have a specific format or options. If unsure, feel free to ask for clarification.
-</thinking>
-
 # Conservation Heroes Registration - Help Guide
 ## Purpose
 This form is designed to register volunteers for conservation activities. It helps us understand your contact information, motivation, availability, skills, and other relevant details.

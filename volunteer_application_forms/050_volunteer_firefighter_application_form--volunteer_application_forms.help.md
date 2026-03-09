@@ -1,7 +1,3 @@
-<thinking>
-To ensure a smooth and efficient volunteer application process, we should create a form that captures relevant information without being too burdensome or intrusive. This form should be used to collect basic personal and contact information, employment details, and medical history. We should avoid duplication or redundant questions and focus on capturing essential data that will facilitate the application evaluation process. Additionally, we should keep in mind that the form is for volunteer firefighters, so it's essential to understand their availability and medical status to ensure they can perform their duties effectively.
-</thinking>
-
 # Volunteer Firefighter Application Form - Help Guide
 ## Purpose
 This form is used to gather information from potential volunteer firefighters to assess their suitability for the role. It includes personal, contact, employment, and medical details to ensure a comprehensive evaluation process.

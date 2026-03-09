@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to allow volunteers to submit their hours earned, which can be used to track volunteer hours and hours approved for various projects. To ensure accurate tracking, please ensure that this form is completed correctly and not duplicated. Each field should be filled in accurately and thoroughly. 
-</thinking>
-
 # Volunteer Hours Submission Form - Help Guide
 ## Purpose
 The Volunteer Hours Submission Form is used to submit hours earned by volunteers for tracking and approval. This form is intended for volunteers and other authorized individuals to record and track hours worked.

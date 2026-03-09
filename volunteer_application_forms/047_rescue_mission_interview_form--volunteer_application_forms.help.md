@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rescue Mission Interview Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals interested in joining a rescue mission. It aims to assess their level of readiness and preparedness for the mission, as well as collect their personal details.

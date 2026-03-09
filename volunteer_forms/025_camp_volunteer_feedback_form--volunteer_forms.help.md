@@ -1,7 +1,3 @@
-<thinking>
-The Camp Volunteer Feedback Form is designed to gather valuable insights and feedback from volunteers who have participated in a camp program. This form will help us understand their experiences, challenges, and suggestions for improvement. To ensure that we receive comprehensive and relevant feedback, please complete all the fields carefully and honestly. If you have volunteered multiple sessions, please select the session for which you are providing feedback. Your input will help us refine our programs and provide better support for future volunteers.
-</thinking>
-
 # Camp Volunteer Feedback Form - Help Guide
 ## Purpose
 The Camp Volunteer Feedback Form is designed to gather information about your experiences, challenges, and suggestions for improvement while volunteering at our camp.

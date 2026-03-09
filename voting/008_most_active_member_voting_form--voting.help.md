@@ -1,7 +1,3 @@
-<thinking>
-The Most Active Member Voting Form is a tool for users to express their opinions on which members of the organization are the most active or effective in their roles. This form is intended to help the team or leadership identify the most valuable contributors. When completing this form, please ensure that you are casting your vote based on your genuine experience with the individual being voted for.
-</thinking>
-
 # Most Active Member Voting Form - Help Guide
 ## Purpose
 The Most Active Member Voting Form is designed to allow team members to vote on which members of the organization are the most active or effective in their roles, providing valuable feedback for the team or leadership to recognize and reward their efforts.

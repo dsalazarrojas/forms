@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from potential ambassadors who want to represent an NGO (Non-Governmental Organization) in various outreach activities. The purpose of this form is to streamline the application process and ensure that all necessary information is collected in a structured manner. By filling out this form, applicants will be able to express their interest in becoming an ambassador and provide relevant details about their availability and volunteer hours.
-
-The form will be reviewed by the NGO staff to assess the applicant's qualifications and suitability for the role. Please ensure that all required fields are filled out accurately and thoroughly to avoid any potential delays in the review process.
-
-To prevent duplication of efforts, we kindly request that only one application per person be submitted. If you are a returning applicant, please do not resubmit your application. Instead, contact the NGO staff to inquire about the status of your previous application.
-
-</thinking>
-
 # NGO Outreach Ambassador Application Form - Help Guide
 ## Purpose
 The NGO Outreach Ambassador Application Form is designed to collect information from potential ambassadors who want to represent the NGO in various outreach activities.

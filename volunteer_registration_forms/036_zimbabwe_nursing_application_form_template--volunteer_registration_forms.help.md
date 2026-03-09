@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Zimbabwe Nursing Application Form Template - Help Guide
 
 ## Purpose

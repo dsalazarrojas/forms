@@ -1,8 +1,3 @@
-<thinking>
-This guide will explain the purpose and process of filling out the Volunteer Availability Form. The form is designed for volunteers to provide information about their availability to help others in need. This guide assumes that the reader is aware of the organization's volunteer opportunities and is ready to provide their details to be considered for volunteering.
-
-</thinking>
-
 # Volunteer Availability Form - Help Guide
 ## Purpose
 This form is used to collect information from volunteers about their availability and skills to help match them with volunteer opportunities.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To check for relevance and non-duplication, I see that this form is related to voting, specifically for constitutional amendments. Since the form only contains 4 fields, I don't see any duplication of effort in creating a user-facing help guide for this form. Each field seems to cater to a distinct aspect of the voting process, and the form doesn't have any obvious redundancy.
 
 Now, let's output the final help guide in Markdown format:

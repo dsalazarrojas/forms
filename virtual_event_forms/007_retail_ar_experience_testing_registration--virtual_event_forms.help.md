@@ -1,12 +1,3 @@
-<thinking>
-To determine the purpose of this form, I'll analyze the provided YAML fields. The form is designed for Retail AR (Augmented Reality) Experience Testing Registration, which suggests that it's for participants or testers to register for a retail-related AR experience or event. This form likely collects information from participants, including contact details, scheduling preferences, and consent for participation.
-
-To ensure that this form is not duplicated, we can add a unique identifier or a token to the form submission data, which would prevent duplicate registrations.
-
-Next, I'll focus on creating the user-facing help guide.
-
-</thinking>
-
 # Retail AR Experience Testing Registration - Help Guide
 ## Purpose
 The purpose of this form is to register participants for a retail AR experience testing session. This information will be used to schedule and coordinate the testing event.

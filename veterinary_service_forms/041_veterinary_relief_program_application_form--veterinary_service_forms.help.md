@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to assist users in understanding the purpose and requirements of the Veterinary Relief Program Application Form. This form is designed to gather information from users who are seeking relief services from the veterinary organization. The form is not intended for internal use within the organization, and it's recommended that users familiarize themselves with the form structure and content before starting the application process.
-</thinking>
-
 # Veterinary Relief Program Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from users seeking relief services from the veterinary organization. It is used to gather essential details about the user's service needs.

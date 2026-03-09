@@ -1,7 +1,3 @@
-<thinking>
-The Tele Town Hall Enrollment Form is a form used for users to enroll into virtual events organized by the company. This form helps to collect relevant information from users, including their personal details, event preferences, and comments, which enables the company to tailor the event experience according to user needs. The form is not mandatory, but filling it out will ensure that the company can better understand and cater to the user's expectations. Please ensure that you fill out this form only once per event. If you have already enrolled in the same event, please do not fill out this form again.
-</thinking>
-
 # Tele Town Hall Enrollment Form - Help Guide
 ## Purpose
 The Tele Town Hall Enrollment Form is a tool for users to provide their personal and event preferences to the company to ensure an enjoyable and well-tailored event experience.

@@ -1,5 +1,3 @@
-<thinking>Internal note: This form is for registering participants in virtual city hall meetings. It ensures accurate and consistent data collection. Duplicate registrations will be handled internally based on event topic. Please review the form carefully before proceeding.</thinking>
-
 # Virtual City Hall Meeting Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from participants in virtual city hall meetings.

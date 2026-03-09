@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Charity Event Organizer Application Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-To design an effective user-facing help guide for the Virtual Happy Hour Registration Form, it's essential to clearly communicate the form's purpose and how to complete it. Let's break down the internal reasoning and considerations for crafting the guide:
-
-- **Form Purpose**: The form is designed to gather information about virtual events or happy hours, including details about the event itself, such as date, time, and description, as well as information about the host, such as their contact details and event type. It's crucial to ensure that users understand the form's intent to provide accurate and comprehensive data for event planning and management.
-
-- **Non-Duplication and Relevance**: To prevent duplication of effort and ensure relevance, users should be guided through the form step by step, focusing on the most critical fields and avoiding confusion. This guide will cover each field's purpose, making it easier for users to understand what information is needed and why.
-
-</thinking>
-
 # Virtual Happy Hour Registration Form - Help Guide
 ## Purpose
 The Virtual Happy Hour Registration Form is designed to gather essential details about virtual events or happy hours. This form helps event planners and hosts to provide accurate and comprehensive information for attendees, ensuring a smooth experience for all parties involved.

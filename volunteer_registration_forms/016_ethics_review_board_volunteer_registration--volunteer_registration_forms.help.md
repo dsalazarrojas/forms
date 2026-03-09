@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is for the "ethics_review_board_volunteer_registration" form, which is used to register volunteers for the Ethics Review Board. The purpose of this form is to collect information from potential volunteers, including their contact details, availability, and affiliations. This form is not meant to be filled out multiple times by the same person, so it's essential to review the form carefully and submit it only once.
-
-</thinking>
-
 # ethics_review_board_volunteer_registration - Help Guide
 ## Purpose
 The ethics_review_board_volunteer_registration form is used to register volunteers for the Ethics Review Board. Please fill out this form to provide your information and indicate your interest in serving on the board.

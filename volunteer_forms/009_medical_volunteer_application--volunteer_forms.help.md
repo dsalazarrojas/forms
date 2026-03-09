@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals interested in volunteering for medical-related roles. The form is not designed for internal use within an organization or for employees only. This form will be used by external users to express their interest in volunteering, and it's expected that users will submit their personal information, including names, contact details, and availability to work as volunteers. There's no duplication check for this form, and it's expected that users will submit unique information. The form is designed to be completed by users without any internal or external guidance. The fields on this form are self-explanatory and are designed to collect the necessary information to assess the user's suitability for the volunteer role.
-</thinking>
-
 # medical_volunteer_application - Help Guide
 ## Purpose
 This form is for individuals interested in volunteering for medical-related roles. It collects contact information and availability to help assess your suitability for a volunteer role.

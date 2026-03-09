@@ -1,5 +1,3 @@
-<thinking>As a technical writer, I'll first analyze the provided YAML schema to understand the form's purpose and structure. This form is for monthly MVP (Most Valuable Player) voting, where team members can cast their votes for a nominee. The form allows users to select "Yes" or "No" for various fields, such as whether they voted for a nominee, if the nominee is on their team, and if the nominee is an MVP. The form also captures other details like the nominee's name, email, job title, contribution, reason for nomination, and team name and email. The form has a submit button, indicating that it's a form for submission. I will now create a user-facing help guide for this form.</thinking>
-
 # monthly_mvp_voting_form - Help Guide
 ## Purpose
 This form is for monthly MVP voting, where team members can vote for a nominee. To participate, select "Yes" or "No" for the relevant fields and provide any additional information required.

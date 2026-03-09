@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in volunteering for a particular project or event. The form should only be filled out by people who are genuinely interested in volunteering and not for commercial or other non-volunteer related purposes. Please ensure that you are not duplicating a previous application or using the form for any other reason other than volunteering.
-</thinking>
-
 # Generic Volunteer Application Form - Help Guide
 
 ## Purpose

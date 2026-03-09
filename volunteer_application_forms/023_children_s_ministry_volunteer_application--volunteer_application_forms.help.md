@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Children's Ministry Volunteer Application" form, we need to clearly explain each field in a concrete and concise manner while ensuring that the form's purpose and requirements are understood by end-users. Given the form's structure and fields, we will create a comprehensive guide that includes a brief internal explanation, instructions on how to complete the form, field-by-field explanations, and helpful tips for users.
-
-</thinking>
-
 # Children's Ministry Volunteer Application - Help Guide
 ## Purpose
 The Children's Ministry Volunteer Application form is designed to collect information from individuals interested in volunteering with children's ministry programs. This form helps us understand your background, interests, and availability to serve. Please fill out this form to express your interest in joining our team and helping us serve the children in our community.

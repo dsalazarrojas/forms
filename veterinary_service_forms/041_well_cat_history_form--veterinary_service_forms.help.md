@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for veterinary clinics to collect patient and pet information, including visit history, medical information, and vaccination details. The form is designed to be a straightforward and efficient way to document patient and pet data. Before we dive into the form's details, ensure that this form has not been customized for your specific use case or integrated with any internal systems, and that it is not a replacement for any proprietary forms or software. This form is a general template that can be used as is or with modifications to suit your needs.
-
-</thinking>
-
 # Well Cat History Form - Help Guide
 ## Purpose
 The Well Cat History Form is a tool used by veterinary clinics to collect essential information about patients and their pets. This form helps gather a comprehensive history of the pet's medical history, including vaccinations and treatments.

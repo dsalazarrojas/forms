@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from individuals interested in participating in the Beverage Recycling Initiative. This form serves as a means for potential participants to provide their demographic information, motivations for participating, and details about their availability and commitment to the initiative. The form ensures that all participants are aware and agree to the terms and conditions of the program. 
-
-To avoid duplication and ensure accurate data collection, please do not submit multiple registrations for the same person or entity. If you have already registered, please contact the program administrators for any updates or changes.
-
-The form is divided into several sections to make it easier to navigate and understand. Each section is designed to collect specific information that will help us understand your needs and expectations from the program.
-
-</thinking>
-
 # Beverage Recycling Initiative Registration Form - Help Guide
 ## Purpose
 The Beverage Recycling Initiative Registration Form is designed to gather information from potential participants to ensure a smooth and safe experience for everyone involved in the program. Please provide accurate and truthful information to enable us to tailor our services to your needs.

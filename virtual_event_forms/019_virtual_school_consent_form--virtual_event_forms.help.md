@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information for virtual school purposes. The form is not intended to be a comprehensive collection of information, but rather a basic form to be filled out by students and their parents/guardians. The form does not currently have any required fields, which means that users have the option to fill out the form partially or fully. 
 
 Please fill out the form completely, but it's not necessary to fill out every field. 

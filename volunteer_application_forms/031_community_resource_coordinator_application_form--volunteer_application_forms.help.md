@@ -1,6 +1,3 @@
-<thinking>
-This help guide is for the Community Resource Coordinator Application Form, which is intended for dedicated individuals to apply for a volunteer coordinator position within a community. The form is designed to collect relevant information about the applicant's background, availability, and experience to help identify suitable candidates for the role. Please ensure you carefully review the form's required fields before submitting your application, as incomplete submissions may result in delays or rejections. Additionally, please note that this application will be used for background checks and reference verification purposes, so ensure you provide accurate and up-to-date information.</thinking>
-
 # Community Resource Coordinator Application Form - Help Guide
 ## Purpose
 The Community Resource Coordinator Application Form is for dedicated individuals to apply for a volunteer coordinator position within our community. This guide will walk you through each step of the form to help you understand what each field is for and how to complete it.

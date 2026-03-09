@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Drop Off Form - Help Guide
 ## Purpose
 This form is designed to gather information from pet owners about their pets and the medical services required. The form will be used to improve patient care and treatment at the veterinary clinic.

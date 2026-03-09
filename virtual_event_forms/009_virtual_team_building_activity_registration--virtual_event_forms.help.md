@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to register participants for virtual team building activities. The purpose of the form is to collect information from participants, such as their names, dates, start and end times, and event details. This form is intended for use by teams or organizations that want to conduct virtual events or activities.
-
-Before filling out this form, please ensure that you are a valid participant and not a robot. Duplicate submissions may be ignored.
-
-</thinking>
-
 # Virtual Team Building Activity Registration - Help Guide
 ## Purpose
 This form is designed to register participants for virtual team building activities.

@@ -1,9 +1,3 @@
-<thinking>
-To confirm, this form was created by AI and is an original adaptation of public metadata, not affiliated with any form platform.
-The form is designed for students to apply for participation in a workshop, which likely refers to an event or program hosted by the institution offering this form.
-The form is not a duplicate and the information collected will be used for internal purposes only.
-</thinking>
-
 # Student Workshop Volunteer Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from students who wish to participate in a workshop hosted by our institution. The purpose of this form is to collect contact and workshop-related information from students who are interested in attending the workshop.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and recognition for outstanding mentors. The purpose of this form is to identify and acknowledge individuals who have provided exceptional guidance, support, and mentorship to others. This form will help the community recognize and reward these mentors for their contributions, and it's essential to ensure that the answers provided are accurate and genuine. Before proceeding, please confirm that you're submitting this form for the intended purpose and not duplicating an existing nomination.
-
-</thinking>
-
 # Best Mentor Voting Form - Help Guide
 
 ## Purpose

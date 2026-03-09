@@ -1,19 +1,3 @@
-<thinking>
-
-We need to ensure that the form is used correctly for the intended purpose of volunteer sign-up. This form is intended for individuals to sign up to volunteer their time and skills to help with various tasks. We should check that users are not already signed up and that they understand the commitment they are making. If users are unsure, they should be directed to a contact point for clarification.
-
-The form has multiple pages, each with a specific purpose:
-- Page 1: Welcome and introduction to the volunteer program
-- Page 2: Asking the user what they would like to help with
-- Page 3: Asking for the user's name
-- Page 4: Asking for the user's email address
-- Page 5: Asking for the user's phone number
-- Page 6: Asking for the user's preferred time slot
-- Page 7: Additional information or comments
-- Page 8: Confirmation of the user's sign-up
-
-Each field should be completed with care and attention to detail to ensure accurate and relevant information is collected.</thinking>
-
 # Erc Volunteer Signup Example - Help Guide
 ## Purpose
 The Erc Volunteer Signup Example form is a tool for individuals to sign up to volunteer their time and skills to help with various tasks. It is intended to be a straightforward and organized way to collect necessary information from volunteers.

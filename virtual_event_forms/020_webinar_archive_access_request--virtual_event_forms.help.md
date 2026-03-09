@@ -1,17 +1,3 @@
-<thinking>
-The form purpose is to collect information from users who are requesting access to a webinar archive. The form is likely used by the organization hosting the webinars to track and manage such requests. To ensure that we don't receive duplicate requests from the same user, we check the form submissions to prevent over-subscription. We also want to ensure that the user has read and agreed to our terms of use, which is why we require them to provide their email address.
-
-Please note that the form is designed to be a simple text-based form, and the fields are meant to collect basic information from users. We're trying to keep the form as user-friendly as possible.
-
-This form has four fields:
-
-* Requester Details: This field is where the user can provide any additional information they want to share about their request.
-* Intended Use: This field is a select-one field with three options, where the user can select how they plan to use the webinar archive. We're trying to keep the options simple and clear.
-* Consent: This field is a note field where the user can indicate their agreement to our terms of use.
-* Email: This field is an email field where the user can provide their email address.
-
-</thinking>
-
 # Webinar Archive Access Request - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the Webinar Archive Access Request form.

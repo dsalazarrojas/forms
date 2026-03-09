@@ -1,6 +1,3 @@
-<thinking>
-This form is for registering volunteers for the Trampoline Gymnastic State Championships. The purpose of this form is to collect contact and availability information from potential volunteers. This form should only be completed by individuals who wish to volunteer for the event. Please ensure that you have permission from your supervisor or event coordinator before completing this form.</thinking>
-
 # trampoline_gymnastic_state_championships_volunteer_registration_form - Help Guide
 ## Purpose
 The trampoline_gymnastic_state_championships_volunteer_registration_form is used to register volunteers for the Trampoline Gymnastic State Championships. This event is a platform for athletes to showcase their trampoline skills, and volunteers are crucial to its success.

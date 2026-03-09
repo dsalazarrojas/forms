@@ -1,7 +1,3 @@
-<thinking>
-This guide is for users who want to help with trade shows. This form is meant to collect information from volunteers who can help with these events. To ensure consistency, it's recommended to register as a volunteer before the trade show, but this is not required.
-</thinking>
-
 # Trade Show Volunteer Registration Form - Help Guide
 ## Purpose
 This form is meant to collect information from volunteers who can help with trade shows. By filling out this form, you'll be able to register your availability and preferences to help the trade show organizers with staffing and scheduling.

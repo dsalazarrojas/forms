@@ -1,9 +1,3 @@
-<thinking>
-The "Volunteer Waiver Form" is an essential document that ensures a safe and healthy environment for both volunteers and the individuals or organizations they are assisting. It is crucial for volunteers to understand the terms and conditions of their participation, including their emergency contact information and waiver status. This form helps to prevent potential risks and liabilities associated with volunteering and ensures that volunteers are aware of their responsibilities and commitments.
-To minimize errors and inaccuracies, it is recommended that this form is reviewed thoroughly before submission to ensure all required fields are filled in correctly.
-This form is not intended to be a duplicate or replacement for any other form or agreement that may be required for volunteering.
-</thinking>
-
 # Volunteer Waiver Form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information from volunteers, including their personal details, emergency contact information, and terms of volunteering. This information is vital for ensuring the well-being and safety of both the volunteer and the individuals they are assisting.

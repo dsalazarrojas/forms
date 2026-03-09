@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from volunteers who are interested in contributing to donation logistics activities. The form will be used to gather basic contact details and availability of the volunteer, as well as their interest in specific roles and agreement to certain guidelines and terms. This form is intended for internal use within the organization, and is not intended to be shared publicly. It is possible that this form may be used in conjunction with other forms, such as a volunteer registration form for external events or programs.
-</thinking>
-
 # donation_logistics_volunteer_registration - Help Guide
 ## Purpose
 This form is designed to collect information from volunteers who are interested in contributing to donation logistics activities. The form will be used to gather basic contact details and availability of the volunteer, as well as their interest in specific roles and agreement to certain guidelines and terms.

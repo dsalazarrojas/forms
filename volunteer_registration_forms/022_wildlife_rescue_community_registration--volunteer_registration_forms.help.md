@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect user information, contact details, schedule preferences, volunteer experience, and any other relevant data from individuals interested in joining the wildlife rescue community. This form aims to gather all necessary information in one place, making it easy for the community to get in touch with potential volunteers and assign them suitable tasks based on their availability and skills. It's crucial to fill out this form only once, as duplication may lead to confusion and unnecessary work for the community.
-
-Before starting, review the form carefully to ensure you're providing accurate and relevant information. If you've filled out this form before, please note that any changes will not be reflected in previous submissions. If you're unsure about any field or have questions, feel free to ask the community administrators for assistance.
-
-Please be as precise as possible while filling out the form, and if you make a mistake, it's easy to correct it before submission. If you need to add more information or make changes, just let us know, and we'll guide you through the process.
-
-The form is divided into several sections, each with a specific purpose. Make sure to review each section carefully to ensure you're providing the right information for the right tasks.
-
-Please note that some fields have specific instructions or requirements, so pay attention to those when filling out the form.
-</thinking>
-
 # wildlife_rescue_community_registration - Help Guide
 ## Purpose
 This form is designed for individuals interested in joining the wildlife rescue community. It collects user information, contact details, schedule preferences, volunteer experience, and other relevant data to help the community assign tasks and keep in touch with volunteers.

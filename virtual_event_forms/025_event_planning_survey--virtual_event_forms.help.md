@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information for event planning purposes. It will be used by event organizers to collect details about upcoming events, including their title, date, location, and other relevant information. This form is not intended for real-time event registration or booking, but rather for administrative and planning purposes.
-
-Before proceeding, please note that this form is not designed for immediate registration or booking. It's meant for planning and organizing events only.
-
-</thinking>
-
 # Event Planning Survey - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Event Planning Survey form. The purpose of this form is to gather essential details about upcoming events.

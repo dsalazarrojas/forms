@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to upload travel blog videos. It is used to provide a platform for users to share their travel experiences through videos. The form should be completed by users who have relevant content to share with the travel blog audience. To ensure consistency, please only complete this form if you have a video that aligns with the travel blog's content and audience.
-</thinking>
-
 # Travel Blog Video Upload Form - Help Guide
 ## Purpose
 The Travel Blog Video Upload Form is designed to allow users to share their travel experiences with the blog's audience through video content. This form will help us collect relevant and high-quality videos that can be showcased on the blog.

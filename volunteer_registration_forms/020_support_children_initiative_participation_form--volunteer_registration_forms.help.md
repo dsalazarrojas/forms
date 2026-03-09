@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from users who want to participate in the Support Children Initiative. It collects basic user contact information, their association with organisations (if any), and their role and level in the initiative. The form aims to streamline the participant registration process and ensure that the initiative's team has a clear understanding of who is participating and in what capacity. Please fill out this form if you wish to participate in the Support Children Initiative. Note that this form does not store personal data and does not require a login or account creation. The information provided will be used solely for internal purposes and to help the initiative's team manage participant roles and interactions.
-
-</thinking>
-
 # Support Children Initiative Participation Form - Help Guide
 ## Purpose
 This form gathers information from users who wish to participate in the Support Children Initiative. It is used to register participants and their roles within the initiative.

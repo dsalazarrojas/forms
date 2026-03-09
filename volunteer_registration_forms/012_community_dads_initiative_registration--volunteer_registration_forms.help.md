@@ -1,14 +1,3 @@
-<thinking> 
-The Community Dads Initiative Registration form is designed to collect information from potential volunteers for the Community Dads Initiative, a program aimed at providing support and activities for fathers and families in the community. The form is meant to gather essential details about the applicant's personal and professional background, interests, and availability for volunteering. 
-
-Before filling out the form, please ensure you have not already registered with the initiative. If you're a returning volunteer, please log in to access your existing profile instead of creating a new one. 
-
-Please note that some fields are marked as required, which means the information provided is necessary for the program to process your application and match you with suitable volunteer opportunities. 
-
-This guide will walk you through each section of the form to help you complete it accurately and efficiently.
-
-</thinking>
-
 # Community Dads Initiative Registration - Help Guide
 
 ## Purpose

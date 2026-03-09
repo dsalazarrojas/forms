@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 <Veterinary Data Analytics Webinar Registration - Help Guide>
 ## Purpose
 This form is designed to collect information from individuals interested in participating in a veterinary data analytics webinar. The collected data will be used to tailor the webinar content to the attendees' needs and goals. Please ensure that you fill out this form only once, as duplicate submissions will not be accepted.

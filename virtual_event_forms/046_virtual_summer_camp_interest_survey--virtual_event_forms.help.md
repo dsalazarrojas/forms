@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support end-users in completing the "virtual_summer_camp_interest_survey" form efficiently and accurately. The form is designed to collect information from individuals interested in participating in a virtual summer camp. It is crucial to ensure that this form is completed correctly to provide the best possible experience for those interested in attending the virtual summer camp. To avoid any issues or confusion, please review the following steps to ensure that you are filling out the form correctly.
-</thinking>
-
 # virtual_summer_camp_interest_survey - Help Guide
 ## Purpose
 The virtual summer camp interest survey is designed to gather information from individuals interested in participating in a virtual summer camp. This form will help us understand your interests and preferences for the camp.

@@ -1,7 +1,3 @@
-<thinking>
-To create the Wcob Volunteer Application form, we need to ensure that volunteers can provide accurate and complete information to be considered for volunteer opportunities. The form should be easy to understand and fill out, while also collecting necessary details for evaluation and matching volunteers with suitable roles.
-</thinking>
-
 # Wcob Volunteer Application - Help Guide
 ## Purpose
 The Wcob Volunteer Application form is designed to collect information from individuals interested in volunteering for Wcob. This form helps us understand your skills, availability, and interests, which we use to match you with suitable volunteer roles within our organization.

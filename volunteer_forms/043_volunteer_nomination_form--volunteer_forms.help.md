@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Nomination Form - Help Guide
 
 ## Purpose

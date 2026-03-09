@@ -1,7 +1,3 @@
-<thinking>
-This form is for volunteers to sign up for a project. The purpose of this form is to collect information from potential volunteers who are interested in participating in a project. This form is not intended for project administrators or organizers to use.
-</thinking>
-
 # Volunteer Signup Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from volunteers who are interested in participating in a project.

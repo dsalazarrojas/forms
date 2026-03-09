@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for this Farm Volunteer Worker Application Form, I'll need to break down the form into its various components and explain each part clearly. Let's start by identifying the form's purpose and potential concerns for duplication or irrelevance.
-
-The form's purpose is to collect information from potential farm volunteers, including their personal details, farm-related information, and availability for volunteering. This form might be used to manage volunteer schedules, ensure accurate contact information, and maintain a record of volunteers for the farm. To avoid duplication, we'll make sure to explain each field's purpose and relevance to the volunteer application process.
-
-</thinking>
-
 # Farm Volunteer Worker Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in volunteering on the farm. It's essential to complete this form accurately to ensure we have the right information to contact and schedule volunteers effectively.

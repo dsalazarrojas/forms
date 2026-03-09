@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about volunteer attendance at an orientation session. The form is intended for volunteers to provide their details, including session date, time, and participant type, among other relevant information. This form is not affiliated with any specific form platform and is an original adaptation of a form created by AI using public survey topic metadata as inspiration. The form is released under CC BY 4.0 and can be freely used, modified, and distributed with proper credit given.
-</thinking>
-
 # Volunteer Orientation Attendance Form - Help Guide
 ## Purpose
 This form is designed to collect information about volunteer attendance at an orientation session. It helps us understand who attended, their details, and other relevant information.

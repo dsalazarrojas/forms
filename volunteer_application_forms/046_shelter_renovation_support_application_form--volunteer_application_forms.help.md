@@ -1,9 +1,3 @@
-<thinking>
-You are about to create a user-facing help guide for a form that is used for applicants to apply for renovation support. This form likely exists within a larger project management system that coordinates volunteer efforts for shelter renovation projects. The form should help potential applicants provide the necessary information for their project to be assessed and considered for support. The purpose of this guide is to ensure that the applicant has a clear understanding of the form's purpose and fields, so they can complete it accurately and efficiently.
-
-Before proceeding, it is essential to ensure that the form is relevant to the user's context and that they are not duplicating an existing application. This form might be used by multiple departments or teams, so it's crucial to be aware of any existing applications or projects that might already be in progress.
-</thinking>
-
 # Shelter Renovation Support Application Form - Help Guide
 ## Purpose
 The Shelter Renovation Support Application Form is designed for applicants to submit their shelter renovation project details for potential support from volunteers. This form gathers essential information to assess and facilitate volunteer efforts for renovation projects.

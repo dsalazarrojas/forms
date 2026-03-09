@@ -1,9 +1,3 @@
-<thinking>
-
-Wedding Video Package Inquiry form is designed to collect information from event planners, organizers, or coordinators who are interested in hiring a videographer to capture their event. This form will help us determine the scope of the project and provide a quote for the video package services. The form will be used to identify the key details about the event, such as the date, time, location, and type of event, as well as the client's contact information and budget.
-
-</thinking>
-
 # Wedding Video Package Inquiry - Help Guide
 ## Purpose
 The Wedding Video Package Inquiry form is a tool used to gather essential information about your event to provide a tailored quote for our video services.

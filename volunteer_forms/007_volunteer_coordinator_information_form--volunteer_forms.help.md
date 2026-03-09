@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Coordinator Information Form - Help Guide
 
 ## Purpose

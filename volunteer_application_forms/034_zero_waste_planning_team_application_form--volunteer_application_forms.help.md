@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # zero_waste_planning_team_application_form - Help Guide
 
 ## Purpose

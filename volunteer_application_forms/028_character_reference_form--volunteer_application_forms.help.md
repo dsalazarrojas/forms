@@ -1,11 +1,3 @@
-<thinking>
-This form is a Character Reference Form used by organizations to gather information about an applicant's character and qualifications from individuals who have had a relationship with them in a professional or personal capacity. This form aims to collect feedback from someone who can vouch for the applicant's character, skills, and behavior, providing an objective assessment of their strengths, weaknesses, and areas for improvement. The form is typically filled out by someone who has had a significant relationship with the applicant, such as a colleague, family member, or mentor.
-
-The form is used to gather information that will be used to support or inform a hiring decision. The information collected includes contact details for the reference, relationship details (such as how long they have known the applicant and frequency of contact), character and skills assessment (including integrity, reliability, teamwork, and empathy), and qualitative evaluation (including major strengths and areas for growth).
-
-Please note that this form is typically used to support positive applications, and it's essential to provide honest and fair feedback that accurately represents the applicant's character and qualifications.
-</thinking>
-
 # Character Reference Form - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from volunteers who are offboarding after participating in a charity event. The purpose of this form is to gather feedback and insights from volunteers to improve future events and the volunteer experience. This form should be completed by volunteers who have already participated in an event and are now offboarding. It is not intended for volunteers who are new to the organization or have not yet participated in an event.
-
-</thinking>
-
 # Charity Event Volunteer Offboarding Form - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-This form is used to monitor and track volunteer activities. The purpose of this form is to collect information about a volunteer's activity, including their name, the project they are working on, the dates of the activity, and other relevant details. This form is meant to be filled out by volunteers or administrators to provide a quick and easy way to record and track volunteer activities.
-
-To ensure accurate and efficient completion of this form, please make sure to:
-
-* Review the project calendar and ensure that the activity is not already accounted for.
-* Ensure that the volunteer is not already listed as participating in the same activity.
-* Verify the accuracy of the information before submitting.
-
-</thinking>
-
 # volunteer_activity_monitoring_form - Help Guide
 
 ## Purpose

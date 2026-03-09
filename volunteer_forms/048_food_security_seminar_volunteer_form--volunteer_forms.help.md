@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Food Security Seminar Volunteer Form", I will follow the provided YAML fields and create a clear and concise guide.
-
-</thinking>
-
 # Food Security Seminar Volunteer Form - Help Guide
 ## Purpose
 This form is designed to help Food Security Seminar organizers collect volunteer information for their upcoming events. The form asks for details such as contact information, volunteer availability, and other relevant details to facilitate communication and coordination.

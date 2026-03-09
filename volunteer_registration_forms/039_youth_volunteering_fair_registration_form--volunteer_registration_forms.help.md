@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students interested in volunteering at the Youth Volunteering Fair. The form asks for general contact information, volunteer preferences, and fair details. The form is designed to be completed by students and their parents/guardians, and the information collected will be used to process their volunteer registrations. It's essential to ensure that the form is completed accurately and thoroughly to avoid any miscommunication.
-</thinking>
-
 # Youth Volunteering Fair Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from students interested in volunteering at the Youth Volunteering Fair. The form will be used to process their volunteer registrations and ensure a smooth experience for all participants.

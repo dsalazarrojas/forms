@@ -1,19 +1,3 @@
-<thinking>
-To create an effective help guide for the "virtual_library_sign_up_form", we must first understand the purpose and requirements of the form. This form is designed to collect information from users who want to sign up for virtual library services. The purpose of this form is likely to gather demographic information, reading habits, and interests to tailor services for the library's users. 
-
-We need to consider the following fields and their purposes:
-- "User Name" is a required field to identify the user.
-- "Email" is a required field to contact the user.
-- "Phone" is a required field for further communication.
-- "Reading Habits" and "Book Preferences" are optional fields for the library to understand user's reading behavior.
-- "Favorite Genre", "Favorite Author", and "Favorite Book" are optional fields to know the user's interests.
-- "Other Info" is an optional field for any additional information.
-- "Agree to Terms" is a required field to get the user's consent.
-
-We should ensure that the form is clear and concise, with no duplication or ambiguity. The fields should be self-explanatory and easy to understand. This guide will help users fill the form correctly and effectively.
-</thinking>
-
-
 # virtual_library_sign_up_form - Help Guide
 ## Purpose
 This guide will walk you through the virtual_library_sign_up_form, a form designed to collect information from users who want to sign up for virtual library services.

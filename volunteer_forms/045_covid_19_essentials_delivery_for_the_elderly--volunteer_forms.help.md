@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from individuals or organizations seeking to provide essential services to elderly individuals in need during the COVID-19 pandemic. The form helps identify the individual's requirements, such as delivering groceries, medications, or household supplies, and ensures that the delivery process is tailored to their specific needs. 
 
 To prevent duplicate requests, the form will check for existing requests that match the provided information. 

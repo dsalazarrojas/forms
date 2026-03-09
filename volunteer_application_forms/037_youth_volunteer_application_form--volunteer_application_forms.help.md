@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who wish to volunteer with an organization, allowing them to provide details about their interests and availability. The form should only be filled out by those who have not already submitted an application previously. Please ensure that you have not already filled out this form before submitting a new application. The form is not intended for use by those who are already volunteering with the organization.
-</thinking>
-
 # Youth Volunteer Application Form - Help Guide
 ## Purpose
 The Youth Volunteer Application Form is designed to collect information from individuals who wish to volunteer with the organization. This form helps us understand your interests, availability, and contact details to place you in the best-suited role within our organization.

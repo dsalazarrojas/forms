@@ -1,6 +1,3 @@
-<thinking> 
-This help guide is designed to provide a clear understanding of the Charity Run Volunteer Application Form. The form is meant to collect information from potential volunteers for a specific charity run event. The purpose of this form is to gather necessary details such as contact information, availability, and role preferences. By completing this form, volunteers can express their interest in participating in the charity run and help make the event a success. To avoid duplication, please ensure that you have not already applied for this event. If you have any questions or concerns, feel free to reach out to us. </thinking>
-
 # Charity Run Volunteer Application Form - Help Guide
 ## Purpose
 The Charity Run Volunteer Application Form is designed to collect information from potential volunteers for a specific charity run event. By completing this form, you can express your interest in participating in the event and help make it a success.

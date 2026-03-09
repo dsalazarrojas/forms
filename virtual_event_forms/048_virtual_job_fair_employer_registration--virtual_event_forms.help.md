@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Job Fair Employer Registration - Help Guide
 ## Purpose
 

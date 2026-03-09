@@ -1,6 +1,3 @@
-<thinking>
-This form is for tracking volunteer tasks, where volunteers can report on their completion status of various tasks assigned to them. It's intended for use within a volunteer management system, where coordinators can assign tasks to volunteers and track their progress. The form should help volunteers report their progress accurately and provide necessary information for task completion.
-</thinking>
 # Volunteer Task Form - Help Guide
 ## Purpose
 The Volunteer Task Form is a tool used to track volunteer tasks and report progress on their completion status. It is designed to be used by volunteers to accurately report their progress and provide necessary information for task completion.

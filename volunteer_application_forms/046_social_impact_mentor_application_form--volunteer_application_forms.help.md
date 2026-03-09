@@ -1,13 +1,3 @@
-<thinking>
-
-We are creating a user-facing help guide for the Social Impact Mentor Application Form. This form is used to gather information from potential mentors and mentees who are interested in participating in a mentorship program. The purpose of this guide is to help users understand the form's purpose and how to complete it correctly.
-
-The form is intended to be completed by individuals who are interested in becoming mentors or mentees in the program. The program aims to connect people with similar interests and goals, and this form helps to assess their suitability for the program. 
-
-Before starting the form, please ensure that you are not duplicating your application. If you have already applied to the program, you do not need to fill out this form again.
-
-</thinking>
-
 # Social Impact Mentor Application Form - Help Guide
 ## Purpose
 The Social Impact Mentor Application Form is used to gather information from potential mentors and mentees who are interested in participating in a mentorship program. The form helps to assess their suitability for the program and connect people with similar interests and goals.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for volunteers to register their interest and availability for various activities within the National Trust, such as conservation, community events, and fundraising. To prevent duplicate registrations, it's assumed that the form will store user information for internal tracking purposes and potentially for communication with registered volunteers.
-</thinking>
-
 # National Trust Volunteer Registration - Help Guide
 ## Purpose
 This form is designed for individuals to register as volunteers for various activities within the National Trust, such as conservation, community events, and fundraising. By completing this form, you will be able to express your interest and availability for these activities.

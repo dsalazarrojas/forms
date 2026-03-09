@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be filled out by individuals who wish to volunteer for Eco Services, a company that provides services related to the environment. The purpose of this form is to gather information about the volunteer, their role, and any additional details they may want to provide. This form will help the volunteer management team understand the volunteer's background, interests, and availability to best match them with suitable opportunities. This form should not be used for any other purpose, as it is specifically designed for volunteer registration.
-</thinking>
-
 # Volunteer Agreement Form For Eco Services - Help Guide
 ## Purpose
 This form is used to register volunteers for Eco Services, allowing them to provide their details and preferences for potential opportunities.

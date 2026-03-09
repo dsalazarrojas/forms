@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in volunteering for an event. The purpose of this form is to gather details about the applicant's personal and professional background, skills, and availability. The form will be used by event hosts and volunteers to manage volunteer roles and coordinate event planning. Before filling out this form, please make sure you have not already submitted an application for this event, as duplicate applications will not be processed.
-</thinking>
-
 # event_planning_volunteer_application_form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in volunteering for an event. The form will be used by event hosts and volunteers to manage volunteer roles and coordinate event planning.

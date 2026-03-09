@@ -1,13 +1,3 @@
-<thinking>
-
-To help prevent duplicate enrollments and to ensure that all opportunities are well-matched with suitable volunteers, **we require all volunteers to fill out this form with accurate and complete information**. 
-
-This form is designed to collect information about a volunteer's opportunity to provide a better match between the volunteer's availability and the volunteer opportunity. 
-
-When filling out this form, please make sure to double-check your answers for accuracy and completeness. If you have any questions or concerns, please don't hesitate to reach out to us.
-
-</thinking>
-
 # volunteer_opportunity_enrollment_form - Help Guide
 ## Purpose
 The volunteer opportunity enrollment form is used to collect information about a volunteer's availability and preferences to match them with suitable volunteer opportunities.

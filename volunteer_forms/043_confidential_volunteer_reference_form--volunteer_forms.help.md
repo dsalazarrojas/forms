@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly by volunteers, and that users understand the purpose and expectations behind it. This form is used to collect confidential references for potential volunteers, providing a comprehensive overview of their past experiences and skills. This will help our organization to evaluate their suitability for specific volunteer roles. To avoid duplication, please ensure that each form is submitted with unique and accurate information, and that all fields are filled in as required.</thinking>
-
 # Confidential Volunteer Reference Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who have worked with or know the volunteer being referenced. The purpose of this form is to provide a comprehensive evaluation of the volunteer's skills, behavior, and overall performance.

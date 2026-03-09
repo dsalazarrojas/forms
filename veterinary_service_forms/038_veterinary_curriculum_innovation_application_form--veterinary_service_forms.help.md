@@ -1,7 +1,3 @@
-<thinking>
-# This form is intended to be used by veterinarians and educators to propose new veterinary curriculum innovations, capturing relevant information about their idea, such as its title, description, expected outcomes, and attachments. To ensure that the form is relevant and not a duplication, the system checks for similar proposals before submission.
-</thinking>
-
 # veterinary_curriculum_innovation_application_form - Help Guide
 ## Purpose
 This form is designed to help veterinarians and educators propose new ideas for veterinary curricula.

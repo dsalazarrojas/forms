@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Water Conservation Volunteer Registration - Help Guide
 ## Purpose
 The Water Conservation Volunteer Registration form is designed to collect information from individuals interested in participating in water conservation initiatives. This form will be used to gather contact and volunteer details to ensure smooth communication and proper allocation of volunteers for water conservation activities.

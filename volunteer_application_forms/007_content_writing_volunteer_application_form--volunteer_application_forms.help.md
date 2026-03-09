@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Content Writing Volunteer Application Form - Help Guide
 
 ## Purpose

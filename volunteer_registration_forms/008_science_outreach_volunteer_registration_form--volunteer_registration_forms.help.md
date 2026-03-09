@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Science Outreach Volunteer Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from volunteers for the Science Outreach program. It helps us to understand the volunteer's availability, program preference, and other relevant details.

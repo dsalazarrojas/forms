@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect registration information from volunteers for a camp event. The form asks for the volunteer's full name, email address, phone number, availability dates, preferred roles, shirt size, background check consent, emergency contact information, prior volunteer experience, and any additional notes. It's essential to fill out this form accurately and thoroughly to ensure that volunteers can be effectively managed and assigned to their preferred roles. 
-
-Please note that this form is not intended for duplicate registrations. If you have already registered for the camp, please do not fill out this form again.
-
-</thinking>
-
 # Camp Volunteer Registration - Help Guide
 ## Purpose
 The Camp Volunteer Registration form is designed to collect essential information from volunteers for the camp event. This form helps the organizers to manage volunteer registrations, assign them to their preferred roles, and ensure their safety and satisfaction during the event.

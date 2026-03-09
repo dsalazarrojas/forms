@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Angels Registration Form - Help Guide
 
 ## Purpose

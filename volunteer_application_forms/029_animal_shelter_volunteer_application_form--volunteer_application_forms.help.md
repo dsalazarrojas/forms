@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animal Shelter Volunteer Application Form - Help Guide
 
 ## Purpose

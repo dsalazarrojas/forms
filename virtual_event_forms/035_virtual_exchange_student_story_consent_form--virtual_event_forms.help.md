@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information about virtual exchange students, specifically their name, email, media type, media URL, story type, story URL, sharing permission, student ID, media permission, and signature. The form is designed to gather necessary information for the virtual exchange program to function smoothly. Before proceeding, please ensure that you have the necessary approvals or permissions from your organization or institution to collect and share this information.
-
-</thinking>
-
 # Virtual Exchange Student Story Consent Form - Help Guide
 
 ## Purpose

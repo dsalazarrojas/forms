@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We will create a comprehensive help guide for the "open_education_webinar_appearance_consent_form" form. This form is used to collect webinar details and user consents. The form's main purpose is to ensure that the user is aware and agrees to the recording and sharing of audio from the webinar with other organizations. 
 
 The form is divided into several sections, each focusing on a specific aspect of the webinar appearance consent. 

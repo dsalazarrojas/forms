@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to register students for virtual courses. The purpose of this form is to gather necessary information from students to create their account in the system and ensure they are enrolled in the correct course. This form will be used by students to register themselves for virtual courses, and it should not be submitted multiple times by the same student.
 
 </thinking>

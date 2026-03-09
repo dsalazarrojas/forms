@@ -1,16 +1,3 @@
-<thinking>
-
-This form is designed to collect social media content ideas. It's meant to be filled out by content creators, social media managers, or anyone responsible for curating and publishing content on different social media platforms. The form is intended to help gather information on various aspects of social media content, including the content's category, description, platforms it's published on, target audience, content type, and other relevant metadata.
-
-After filling out this form, the collected data can be used for content planning, organization, and analysis across different platforms and categories.
-
-To prevent duplication and ensure accurate data collection, please make sure to:
-
-* Check if someone has already submitted similar content ideas with the same title and category.
-* Review the form carefully and avoid submitting duplicate entries.
-
-</thinking>
-
 # Social Media Content Ideas - Help Guide
 ## Purpose
 The "Social Media Content Ideas" form is designed to collect and organize social media content ideas across various platforms and categories.

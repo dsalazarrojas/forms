@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from attendees of webinars, such as their email addresses, dates of birth, and select options. The purpose of this form is to ensure that attendees have reviewed and acknowledged the webinar content and have provided any necessary contact information. The form also helps to collect feedback and notes from attendees. 
-
-The form will only be accessible for a short period of time, as it's not intended for long-term storage of information. Please ensure that you only submit this form once and do not reuse or duplicate the submission of this form.
-</thinking>
-
 # Webinar Content Release Form - Help Guide
 
 ## Purpose

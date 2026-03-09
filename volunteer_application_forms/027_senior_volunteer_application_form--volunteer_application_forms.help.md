@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from senior volunteers who wish to participate in various roles within an organization. The purpose of this form is to gather essential details about the volunteer's personal and professional background, their availability and preferences, and their emergency contact information. 
-
-When filling out this form, please ensure that you do not duplicate your application. If you have previously submitted a senior volunteer application, please do not resubmit. 
-
-The form is composed of multiple sections with different types of fields. This guide will walk you through each field to help you complete the form accurately.
-</thinking>
-
 # Senior Volunteer Application Form - Help Guide
 ## Purpose
 The Senior Volunteer Application Form is designed to collect information from senior volunteers who wish to participate in various roles within an organization.

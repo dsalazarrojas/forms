@@ -1,6 +1,3 @@
-<thinking>
-To prevent duplicate applications, please be sure to check with the taskforce administrator if you have already submitted an application. This form is intended for individuals who are not current members of any taskforce or have not participated in a taskforce in the last 12 months. If you have any questions, please do not hesitate to reach out to the taskforce administrator.</thinking>
-
 # learning_accessibility_taskforce_application_form - Help Guide
 ## Purpose
 

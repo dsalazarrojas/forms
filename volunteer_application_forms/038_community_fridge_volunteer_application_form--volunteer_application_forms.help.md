@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential volunteers to determine their eligibility and suitability for volunteering at the Community Fridge. This form is designed to help us understand their availability, skills, and motivation for volunteering, as well as their ability to physically perform tasks and follow our guidelines. Please fill out this form to ensure that we can assess your application and match you with suitable volunteer opportunities.
-</thinking>
 # Community Fridge Volunteer Application Form - Help Guide
 ## Purpose
 The Community Fridge Volunteer Application Form is a necessary step to become a volunteer at our Community Fridge organization. This form helps us understand your background, availability, and skills to best match you with volunteer opportunities that fit your needs.

@@ -1,8 +1,3 @@
-<thinking>
-This is a volunteer registration form designed to collect information from volunteers for events. This form is used to collect event details, contact information, volunteer information, and other relevant details. Please note that this form is not intended for general registration but rather for specific event volunteers. If you're looking for general registration forms, please refer to the <a href="#">General Registration Form</a>.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to collect information from volunteers for specific events. Please fill out the form carefully to ensure accurate and complete information is provided.

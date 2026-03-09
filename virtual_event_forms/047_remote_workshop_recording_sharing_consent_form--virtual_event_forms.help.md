@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture the participant's consent for sharing workshop recordings. It's intended for remote workshops and events where recordings are created and shared. The form should be completed by the participant to indicate their consent for sharing their recordings and data with specific individuals or groups. The goal is to ensure that participants are aware of and agree to the sharing of their content. This form will be used to record and store the participant's consent decision. The field explanations are meant to be clear and concise, allowing the participant to make an informed decision.
-</thinking>
-
 # Remote Workshop Recording Sharing Consent Form - Help Guide
 ## Purpose
 The Remote Workshop Recording Sharing Consent Form is designed to capture the participant's consent for sharing workshop recordings. This form ensures that participants are aware and agree to the sharing of their recordings and data with specific individuals or groups.

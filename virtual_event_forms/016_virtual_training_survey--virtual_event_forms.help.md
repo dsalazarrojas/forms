@@ -1,6 +1,3 @@
-<thinking>
-We should create a help guide for the "Virtual Training Survey" form to assist end-users in understanding its purpose, completing it, and navigating its various fields. The form is likely designed to collect information from participants in virtual training events, gathering feedback, ratings, and other relevant details. Before creating the guide, let's confirm that the form is meant for virtual events and that the fields are correctly categorized and labeled to support this purpose. We should also check if the form fields are properly configured to ensure that the required fields are marked as necessary and the form's structure is logical and easy to follow.</thinking>
-
 # Virtual Training Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and information from participants in virtual training events. It helps us understand your experience, thoughts, and ratings about the training.

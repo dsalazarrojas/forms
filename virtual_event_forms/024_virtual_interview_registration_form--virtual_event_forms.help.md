@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Interview Registration Form - Help Guide
 
 ## Purpose

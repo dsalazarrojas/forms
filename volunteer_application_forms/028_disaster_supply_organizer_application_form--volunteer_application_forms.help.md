@@ -1,12 +1,3 @@
-<thinking>
-To confirm that this form is being used correctly, please note that it's intended for individuals to provide information about themselves as potential volunteers for disaster supply organization efforts. The form should not be used for any other purpose than volunteer application. 
-
-This form is designed to capture various aspects of an individual's availability and qualifications to participate in disaster relief efforts. The purpose of this form is to understand an individual's ability to volunteer for disaster supply organization, including their availability, skills, and experience. 
-
-Please ensure that you are filling out this form for the correct purpose and not for any other reason. 
-
-</thinking>
-
 # Disaster Supply Organizer Application Form - Help Guide
 ## Purpose
 The Disaster Supply Organizer Application Form is designed to collect information about individuals interested in volunteering for disaster supply organization efforts. 

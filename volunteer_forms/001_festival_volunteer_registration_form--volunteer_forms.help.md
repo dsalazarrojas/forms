@@ -1,10 +1,4 @@
-> <thinking>
-This is the form designer and technical writer's internal reasoning block:
-This form is for registering volunteers for the festival. The purpose of the form is to collect information about the volunteer's personal details, availability, and special talents. The form will ask for first name, last name, email, phone number, available slots, interest areas, special talents, event date, event time, event duration, volunteer role, availability, and emergency contact information.
-
-</thinking>
-
-# Festival Volunteer Registration Form - Help Guide
+> # Festival Volunteer Registration Form - Help Guide
 
 ## Purpose
 This form is designed to register volunteers for the festival. It collects information about your personal details, availability, and special talents.

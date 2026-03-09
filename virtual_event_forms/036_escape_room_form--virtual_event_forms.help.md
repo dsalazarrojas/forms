@@ -1,12 +1,3 @@
-<thinking>
-Form Purpose: To capture player information for an escape room event.
-
-This form is intended to collect player demographic data to help the escape room staff better understand who is participating in the event. This information will help staff tailor the experience and provide personalized support if needed.
-
-Checking for non-duplication: This form is for individual players, not teams or groups. Please ensure that each player fills out the form only once.
-
-</thinking>
-
 # Escape Room Form - Help Guide
 
 ## Purpose

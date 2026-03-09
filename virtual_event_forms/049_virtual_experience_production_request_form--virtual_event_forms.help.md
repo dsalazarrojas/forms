@@ -1,13 +1,3 @@
-<thinking>
-This form is used to request the production of a virtual event. The purpose of this form is to gather necessary information about the event to be produced, such as event date, duration, type, and name. This form is intended for end users who wish to have their virtual event produced. It is expected that the end user will provide accurate and complete information about the event. The form is not intended for production of events that are not virtual or do not fit the specified categories. 
-
-Before proceeding, please note that this form will only be used for the requested event type. If you are unsure about the correct event type, please contact the event production team for guidance. 
-
-Also, please ensure that you have checked with the event production team before submitting a request for the same event or event type. 
-
-The form will be reviewed for completeness and accuracy before being accepted. 
-</thinking>
-
 # Virtual Experience Production Request Form - Help Guide
 ## Purpose
 The Virtual Experience Production Request Form is a tool used to gather information about a virtual event for production purposes. This form helps us understand the event details, such as date, time, and type, and ensures that the production team has all necessary information to deliver a high-quality virtual event.

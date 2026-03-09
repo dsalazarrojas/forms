@@ -1,7 +1,3 @@
-<thinking>
-This form is used by hospices to collect information from potential volunteers who are interested in helping out at their facilities. The form is designed to gather personal details, contact information, past volunteer experience, any medical conditions that may affect their ability to volunteer, their level of commitment to volunteering, and their availability for volunteering. By using this form, volunteers can provide necessary information to the hospices, and hospice staff can review and evaluate them for potential volunteer roles. To avoid duplication, we recommend that potential volunteers only submit one application per form.
-</thinking>
-
 # Hospice Volunteer Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential volunteers who want to help out at hospices.

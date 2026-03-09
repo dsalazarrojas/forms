@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Jeanne De Arc Medical Investigations Institute - Help Guide
 
 ## Purpose

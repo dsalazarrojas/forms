@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for registering for a virtual recruitment fair, allowing job seekers to showcase their interest and qualifications for specific job openings. The form is intended to gather basic contact information, language preferences, and job-specific details. This guide will help you understand what each field is for and how to fill it out correctly.
-
-</thinking>
-
 # Virtual Recruitment Fair Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from job seekers interested in participating in a virtual recruitment fair. It is used to register for the fair and showcase your interest and qualifications for specific job openings.

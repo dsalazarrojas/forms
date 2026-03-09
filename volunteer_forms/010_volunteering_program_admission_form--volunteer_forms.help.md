@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals interested in joining the volunteering program. The form is designed to gather basic contact details and skills/availability information to assess their suitability for the program.
-</thinking>
-
 # Volunteering Program Admission Form - Help Guide
 ## Purpose
 The Volunteering Program Admission Form is used to collect information from individuals interested in joining the volunteering program. This includes basic contact details and skills/availability information to ensure a smooth and suitable fit for the program.

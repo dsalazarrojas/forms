@@ -1,15 +1,3 @@
-<thinking>
-We need to ensure that the Webinar Registration For Leaders form is used correctly and consistently. To do this, we'll provide a clear and concise help guide to explain the form's purpose, how to complete it, and what each field means.
-
-The form is designed to collect registration information from webinar attendees, including their details, leader consent, and other relevant details. The form will help us understand who is attending the webinar, their goals, interests, and preferences.
-
-Before filling out the form, please review the following guide carefully to ensure you complete it accurately and consistently.
-
-Please note that the form has been designed to be as simple and user-friendly as possible, but if you have any questions or concerns, don't hesitate to reach out to us.
-
-We'll be happy to help you with any issues or questions you may have.
-</thinking>
-
 # Webinar Registration For Leaders - Help Guide
 ## Purpose
 The Webinar Registration For Leaders form is designed to collect registration information from webinar attendees, including their details, leader consent, and other relevant details.

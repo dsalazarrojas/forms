@@ -1,5 +1,3 @@
-<thinking>...internal reasoning block...</thinking>
-
 # Volunteer Position Preference Form - Help Guide
 ## Purpose
 The Volunteer Position Preference Form is a self-reporting tool used to determine your volunteer position preference. This form will help us understand your availability and skills to better match you with volunteer opportunities that suit your needs.

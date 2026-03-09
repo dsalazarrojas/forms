@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information from individuals who want to volunteer to help with the response to the Covid-19 pandemic. The form is designed to gather essential details such as contact information, availability, and volunteer type to help the organization manage the volunteer program efficiently. This help guide will walk you through each field in the form to ensure you complete it accurately and provide all required information.
-
-Before starting, please note that some fields are required to ensure the accuracy of your application. If you are unsure about any field, please contact the organization's support team for clarification.
-
-The form is divided into several sections, each with its own purpose. Please read through each section carefully before proceeding.
-
-</thinking>
-
 # Covid-19 Volunteer Registration Form - Help Guide
 
 ## Purpose

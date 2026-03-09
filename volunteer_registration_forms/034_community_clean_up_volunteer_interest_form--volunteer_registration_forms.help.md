@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from potential volunteers interested in participating in community clean-up events. The form is used to gather contact information, availability, and skills of potential volunteers. This form is intended for individuals who want to help with community clean-up events, but it is not a commitment to participate in every event. By completing this form, potential volunteers are expressing their interest in participating in clean-up events and are providing necessary information for event coordination and waiver purposes.
-
-The form is not a duplicate of other forms used to collect information for specific events, but rather a general form to gauge interest in participating in clean-up events in general.
-
-Note: This form is not a formal application to volunteer, but rather an expression of interest. A separate application process may be required after this form is completed.
-
-</thinking>
-
 # Community Clean Up Volunteer Interest Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals interested in participating in community clean-up events. Please complete this form to express your interest in helping with clean-up events and provide necessary information for event coordination and waiver purposes.

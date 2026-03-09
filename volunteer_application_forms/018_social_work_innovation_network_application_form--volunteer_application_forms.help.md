@@ -1,17 +1,3 @@
-<thinking>
-This form is designed for individuals who want to become part of the Social Work Innovation Network, a platform that aims to connect social workers with opportunities for growth, collaboration, and innovation. It is not affiliated with, endorsed by, or derived from any form platform. This form was created by AI using only public survey topic metadata as inspiration. It is an original adaptation and does not copy, extract, or use proprietary content from any form creation, data collection, or survey platform.
-
-To confirm that this form is applicable for you, please review the following:
-
-* Have you been working as a social worker for at least 1 year?
-* Do you have a strong educational background in social work or a related field?
-* Do you have any relevant certifications or licenses?
-
-If you have answered "yes" to the above, then this form is for you. Please fill out the form carefully and thoroughly.
-
-If you are unsure or have any questions, please contact us at contact: form@gic.mx
-</thinking>
-
 # Social Work Innovation Network Application Form - Help Guide
 
 ## Purpose

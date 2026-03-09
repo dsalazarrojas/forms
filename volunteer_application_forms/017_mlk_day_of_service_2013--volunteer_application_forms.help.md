@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather data for the MLK Day of Service 2013 volunteer application. This form will likely be used to determine which volunteer application forms are needed for the event. The form should only be filled out by individuals who are actually applying to participate in the MLK Day of Service 2013. This form is a simple, multi-page form that asks for select multiple and select one options, a description, and a free-text field. We should ensure that the form is filled out correctly and that no duplicate applications are submitted.
-</thinking>
-
 # mlk_day_of_service_2013 - Help Guide
 ## Purpose
 This form is for volunteers to apply for the MLK Day of Service 2013 event. It asks for the type of application form needed and other relevant details to help us process your application.

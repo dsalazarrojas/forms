@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for individuals to volunteer their time and skills to a public relations team. The form is intended to collect contact information, skills, and availability for potential volunteers. To ensure that the correct individuals are matched with the right volunteer opportunities, we need to verify the accuracy of this form data. Please take a few minutes to complete this form carefully.
-
-</thinking>
-
 # public-relations-volunteer-application-form - Help Guide
 ## Purpose
 This form is a volunteer application for the public relations team. It requires you to provide information about yourself, your skills and qualifications, and your availability for volunteer work. The goal is to match you with volunteer opportunities that best fit your skills and availability.

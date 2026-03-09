@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Volunteer Hour Log Form - Help Guide
 ## Purpose
 The Student Volunteer Hour Log Form is a tool used to record the time spent by students on volunteer activities. This form is intended to track student volunteer hours for academic purposes, such as fulfilling volunteer hour requirements for academic programs, or for reporting volunteer activities to external organizations.

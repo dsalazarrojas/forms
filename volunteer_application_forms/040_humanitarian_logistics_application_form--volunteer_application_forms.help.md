@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used for its intended purpose and to prevent duplication of effort. This form is intended for humanitarian logistics applications, such as aid distribution or disaster relief efforts. The form should be filled out by authorized personnel or individuals with a genuine need for aid. Please review each field carefully and fill out the form accurately to ensure a smooth and efficient process.
-</thinking>
-
 # Humanitarian Logistics Application Form - Help Guide
 ## Purpose
 The Humanitarian Logistics Application Form is designed for humanitarian efforts, such as aid distribution or disaster relief. This form helps ensure that aid is delivered accurately and efficiently to those in need.

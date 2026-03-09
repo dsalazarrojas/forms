@@ -1,11 +1,3 @@
-<thinking>
-This form is used to register a company for a virtual career fair. The form is used to collect information about the company, including their name, address, and description. It is also used to collect information about the event details, such as the date and time, and the type of job positions available. The form is designed to be filled out by company representatives who will be attending the fair.
-
-The form checks for non-duplication, so if a company is already registered for the event, they will not be able to register again.
-
-This guide is intended to help company representatives understand how to complete the form correctly and ensure that they provide all the necessary information.
-</thinking>
-
 # Virtual Career Fair Registration Form - Help Guide
 ## Purpose
 The Virtual Career Fair Registration Form is used to register a company for a virtual career fair. This form is used to collect information about the company, the event details, and the type of job positions available. Please take the time to complete this form accurately and thoroughly.

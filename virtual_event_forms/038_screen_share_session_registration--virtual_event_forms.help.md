@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to facilitate user registration for screen share sessions. Its purpose is to collect information from users who are interested in or have already participated in screen share sessions. The fields in this form aim to gather relevant contact details, session preferences, and other necessary information for the session.
-
-The form will be used to register users for a screen share session. Users will be able to provide their name, email, and phone number, as well as choose a session topic and select a time that suits them. The session topic and time will help the session organizer plan and prepare for the session. The session notes provided by the user will also be sent to them and the organizer, ensuring everyone is on the same page.
-
-This form is designed for both internal and external users. Users will be able to provide their session preferences and contact information, making it a great way to keep track of who is attending, their interests, and their contact details.
-
-Before proceeding, please ensure that you are registering for a screen share session that you are genuinely interested in or have already been invited to. Also, make sure that you are not duplicating your registration, as this will create unnecessary entries for the session organizer.
-
-</thinking>
-
 # Screen Share Session Registration - Help Guide
 
 ## Purpose

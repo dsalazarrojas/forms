@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to track the community service hours of volunteers. It captures essential information about the volunteer, the service organization, and the service details. This form is designed to be filled out by volunteers after completing a service project. 
-
-The form is meant to be filled out by individuals who are volunteering their time to help others. The form will be reviewed and verified by a supervisor or other authorized personnel to ensure the accuracy of the service hours.
-
-The form will help the organization to track the hours worked by volunteers, which is crucial for reporting and accounting purposes. The information collected will also help the volunteer to reflect on their service experience, learn from it, and develop essential skills.
-
-</thinking>
-
 # Community Service Hours Tracking Form - Help Guide
 ## Purpose
 

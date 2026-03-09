@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To prevent duplication and ensure accurate information, please verify that the form purpose is to collect applicant data for a livestream broadcast license application.
 
 The Livestream Broadcast License Application Form is designed to collect information from potential applicants for a livestream broadcast license. The purpose of this form is to gather essential details about the applicant and their proposed broadcast.

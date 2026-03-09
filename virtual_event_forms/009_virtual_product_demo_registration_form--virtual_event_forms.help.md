@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering virtual product demos. The purpose of this form is to gather information from users who are interested in participating in a virtual product demo. This form will collect user information, such as name, email, and appointment time, to schedule a demo. The form will not be duplicated, and users can only submit once. Each field is designed to collect specific information that will be used to schedule and provide the virtual demo.
-</thinking>
-
 # virtual_product_demo_registration_form - Help Guide
 ## Purpose
 The virtual product demo registration form is designed to collect information from users who are interested in participating in a virtual product demo. This form helps to schedule the demo and provide the necessary information to the user.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form's purpose is to register individuals as volunteers to help in the fight against COVID-19. This form is designed to collect relevant information about the volunteer, such as their personal details and availability. Before completing the form, ensure you're not already registered as a volunteer. If you've previously registered, please do not submit this form again, as it may cause duplication of effort.
 
 # Covid 19 Volunteer Registration Form - Help Guide

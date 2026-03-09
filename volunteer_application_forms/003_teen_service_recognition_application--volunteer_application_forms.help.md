@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Teen Service Recognition Application - Help Guide
 
 ## Purpose

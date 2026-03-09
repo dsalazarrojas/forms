@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from visitors of the virtual exhibition, aiming to improve user experience and overall exhibition quality. 
-To avoid duplicates, we will only accept feedback from visitors with unique email addresses. 
-Please ensure that you're providing genuine and detailed feedback to help us better understand your experience. 
-This form is only for visitors of the virtual exhibition. If you are not a visitor, please do not submit this form. 
-</thinking>
-
 # Virtual Exhibition Release Visitor Feedback Form - Help Guide
 ## Purpose
 The Virtual Exhibition Release Visitor Feedback Form is designed to collect feedback from visitors to the virtual exhibition, enabling us to improve the user experience and overall exhibition quality.

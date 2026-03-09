@@ -1,7 +1,3 @@
-<thinking>
-The form is likely to be used by researchers to obtain consent from participants in virtual research discussions. This guide will help users understand how to complete the form and what each field is for.
-</thinking>
-
 # Virtual Research Discussion Consent Form - Help Guide
 ## Purpose
 The Virtual Research Discussion Consent Form is a tool used by researchers to obtain consent from participants in virtual research discussions. This form collects essential information from participants, including their signature, consent date and time, and permission levels.

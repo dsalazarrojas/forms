@@ -1,7 +1,3 @@
-<thinking>
-This form's purpose is to register volunteers for a sewing masks event. This form is used to collect information from potential volunteers. The form is not affiliated with, endorsed by, or derived from any form platform. This form was created using public metadata as inspiration. To ensure that volunteers understand the form's purpose and process, this help guide will walk them through each field in the form.
-</thinking>
-
 # Sewing Masks Volunteer Registration - Help Guide
 ## Purpose
 This form is designed to collect information from volunteers who want to participate in a sewing masks event. The information collected will be used to organize and manage the volunteers' involvement in the event.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for international students to apply for a volunteer opportunity. The form likely aims to gather information about the students' personal details, volunteer preferences, and relevant skills. To ensure that this form is not being filled out by non-students or individuals without a genuine interest in volunteering, the form should include a field to confirm the student status of the applicant. Additionally, the form might be used to collect data for administrative or statistical purposes, so ensuring that the form is filled out correctly is crucial to prevent duplication of effort and incorrect data collection.
-</thinking>
-
 # International Student Volunteer Application Form - Help Guide
 ## Purpose
 

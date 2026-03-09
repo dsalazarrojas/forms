@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Donor Event Recording Consent Form - Help Guide
 
 ## Purpose

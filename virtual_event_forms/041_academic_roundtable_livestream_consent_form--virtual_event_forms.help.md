@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Academic Roundtable Livestream Consent Form - Help Guide
 
 ## Purpose

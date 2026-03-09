@@ -1,8 +1,3 @@
-<thinking>
-This form is likely being used for applications and funding requests for veterinary innovations, research, education, and community development projects. It might be used by veterinary professionals, such as researchers or educators, to seek funding for projects or initiatives related to these fields. The form likely collects information about the applicant, the project, and the supporting documents required for the funding application. This form should not be a duplicate of any other form used for similar purposes, and it is essential to ensure that the form is being used correctly to avoid confusion and errors.
-
-</thinking>
-
 # Veterinary Innovation Funding Application - Help Guide
 ## Purpose
 The Veterinary Innovation Funding Application form is designed to collect information from applicants seeking funding for veterinary innovations, research, education, or community development projects. This form helps us understand your project's goals, budget, and other essential details to review and evaluate your application.

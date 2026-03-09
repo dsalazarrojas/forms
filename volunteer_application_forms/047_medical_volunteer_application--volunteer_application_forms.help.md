@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from medical volunteers for a particular organization or institution. The purpose of this form is to gather necessary details about the volunteer's medical background, availability, and qualifications.
-To ensure that the form is completed accurately, make sure to review it carefully and fill in all required fields. If any fields are unclear or you have questions, please refer to the field-by-field explanations below.
-</thinking>
-
 # Medical Volunteer Application - Help Guide
 ## Purpose
 This form collects necessary information from medical volunteers to help our organization assess their qualifications and availability for medical volunteer work.

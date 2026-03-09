@@ -1,7 +1,3 @@
-<thinking>
-We are creating a volunteer registration form for content creators to join our team. This form is designed to collect information about the volunteer's personal details, experience, and availability. Before completing this form, please ensure that you are aware of your own availability and motivation for volunteering. If you have any previous volunteer experience, it is highly recommended that you answer "True" in the "Previous Volunteer Experience" field. If you are unsure about any information, please reach out to us directly.
-</thinking>
-
 # Content Creation Volunteer Registration Form - Help Guide
 ## Purpose
 The Content Creation Volunteer Registration Form is designed to collect necessary information from potential volunteers to help us understand their availability, experience, and motivation for participating in our content creation projects. This form will be used to determine the best fit for our team and to ensure that we can provide a smooth volunteer experience for everyone involved.

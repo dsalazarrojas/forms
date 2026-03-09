@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Hours Log Form - Help Guide
 ## Purpose
 The Volunteer Hours Log Form is used to record and track volunteer hours worked by volunteers for their respective organizations. This form is essential for maintaining accurate volunteer hour records, which can be used for reimbursement claims, grant reporting, and other administrative purposes.

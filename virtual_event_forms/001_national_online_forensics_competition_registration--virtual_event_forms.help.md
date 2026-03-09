@@ -1,10 +1,3 @@
-<thinking>
-  - This form is designed for participants of the National Online Forensics Competition to register themselves and their teams. It is intended to collect demographic information, team details, and contact information of coaches. This form will likely be used by organizers of the event to verify participant registrations and prepare for the competition.
-  - To prevent duplicate registrations, a unique email address is required for each participant and a check is performed to verify that the email has not been registered before.
-  - If you need to register multiple team members, please create a new registration for each team member.
-  - If you're experiencing issues with the form, contact form@gic.mx
-</thinking>
-
 # National Online Forensics Competition Registration - Help Guide
 ## Purpose
 The purpose of this form is to gather registration information for the National Online Forensics Competition. Please fill out this form with your accurate and complete details.

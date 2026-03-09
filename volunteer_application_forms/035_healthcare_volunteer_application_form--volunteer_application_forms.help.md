@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to collect information from potential volunteers for healthcare services. The form aims to gather essential details about the individual's medical history, skills, and availability for volunteering. This information will be used to determine the suitability of the individual for volunteering in healthcare settings. The form is intended for individuals who wish to volunteer their time and services to healthcare organizations. It is not intended for individuals who wish to apply for a job.
-
-Please note that the form is designed to be completed by the individual themselves, and not by a third party on their behalf. The form should only be completed by the individual who is applying to volunteer.
-
-The form has 27 fields, each with its own label and type. The fields are designed to gather different types of information, such as name, email, phone number, medical history, and availability. Some fields are required, while others are optional. The form also includes fields for emergency contact information and references.
-
-</thinking>
-
 # healthcare_volunteer_application_form - Help Guide
 ## Purpose
 The healthcare volunteer application form is designed to gather information from individuals who wish to volunteer their time and services to healthcare organizations.

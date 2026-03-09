@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's break down the form's purpose and ensure we're on the same page: The form is designed to collect information for volunteer certificates, which are likely used to track and verify volunteer hours, activities, and experiences. This form should be completed by volunteers or organizations to provide accurate and consistent data for certificate generation. We need to make sure we're covering all the necessary fields and explanations to make the process seamless for users.</thinking>
-
 # Volunteer Certificate Form - Help Guide
 ## Purpose
 The Volunteer Certificate Form is designed to collect information for volunteer certificates, allowing volunteers or organizations to track and verify volunteer hours, activities, and experiences.

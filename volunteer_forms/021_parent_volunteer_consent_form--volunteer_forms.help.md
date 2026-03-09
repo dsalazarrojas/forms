@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from parents about their consent for their child's participation in a volunteer program. It is meant to be used by organizations or institutions that work with children to ensure they have the necessary permissions to proceed with volunteer activities. Please verify that this form is relevant to your organization's specific needs and that no similar form is already in use. The provided metadata is used as inspiration, and this form has been generated based on the survey topics related to volunteering and parent consent.
-</thinking>
-
 # Parent Volunteer Consent Form - Help Guide
 ## Purpose
 This form is designed to gather parent consent for their child's participation in a volunteer program.

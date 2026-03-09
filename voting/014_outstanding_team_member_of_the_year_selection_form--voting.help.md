@@ -1,5 +1,3 @@
-<thinking>... internal reasoning to ensure this form is used correctly by end-users and prevent duplicate nominations or incorrect nominations...</thinking>
-
 # Outstanding Team Member Of The Year Selection Form - Help Guide
 
 ## Purpose

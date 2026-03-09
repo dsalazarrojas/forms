@@ -1,14 +1,3 @@
-<thinking>
-This form template is designed to collect video order information from clients, allowing them to provide their details and sign off on orders. The purpose of this form is to ensure that clients can easily and accurately submit their video order information, which will help streamline the ordering process for both the client and the business.
-
-This form template is designed to be user-friendly and adaptable, with various fields that cater to different aspects of the video order process. It includes sections for client details, order details, timeline, electronic signature, and reports. The form is built to be completed by the client, ensuring that they can provide their input in a clear and concise manner.
-
-Before proceeding, ensure that this form is relevant to your specific business needs and that the fields provided are sufficient for your requirements. If you find that certain fields are unnecessary or redundant, it's essential to review and refine the form accordingly.
-
-This guide will walk you through the process of completing this form, explaining each field in detail to help you understand its purpose and how it contributes to the overall video order process.
-
-</thinking>
-
 # video_order_form_template - Help Guide
 ## Purpose
 The video_order_form_template is designed to collect video order information from clients. This form is meant to be completed by clients to provide their details and sign off on orders.

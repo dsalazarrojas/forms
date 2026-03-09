@@ -1,10 +1,3 @@
-<thinking>**Internal Note:**
-This form is intended to gather information from volunteers, particularly those crossing international borders. It is crucial to ensure that the form is completed accurately and thoroughly to provide a safe and smooth experience for both the volunteers and the organization hosting them. To prevent duplication or misinterpretation of the data, it is essential to review and validate the submitted information before proceeding.
-
-The purpose of this form is to collect details about the volunteer's identity, contact information, border travel plans, and emergency contacts. This information will help the organization manage and communicate with the volunteers effectively, ensuring their well-being and security while traveling.
-
-Please review the following guide to complete the form correctly:</thinking>
-
 # cross-border-volunteer-waiver-form - Help Guide
 ## Purpose
 The cross-border-volunteer-waiver-form is designed to collect essential information from volunteers traveling across international borders. It helps the organization host manage and provide a safe experience for the volunteers.

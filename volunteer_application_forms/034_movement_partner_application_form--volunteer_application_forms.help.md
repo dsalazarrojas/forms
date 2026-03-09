@@ -1,6 +1,3 @@
-<thinking>
-This form is a critical component in identifying potential partner organizations for our organization. Before filling out this form, please take a moment to review our organization's goals and objectives to ensure that this partnership would align with your organization's mission and objectives. Additionally, please note that we may contact you to discuss your application and may request additional information. Duplicate or incomplete applications will be discarded.
-</thinking>
 # Movement Partner Application Form - Help Guide
 ## Purpose
 The Movement Partner Application Form is a tool used to gather information from potential partner organizations that wish to collaborate with us. This form helps us understand their interests, goals, and qualifications to determine whether they are a good fit for our organization.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for volunteers to provide information about their availability and preferences for shifts at the Animal Sanctuary. This form will help the volunteer coordinator schedule volunteers for shifts effectively, taking into account their preferred roles, availability days, and shift length. Please ensure that you have the relevant details and consents before submitting this form. If you have previously registered or are already scheduled for a shift, please do not submit this form again.
-</thinking>
-
 # Animal Sanctuary Volunteer Shift Request Form - Help Guide
 ## Purpose
 The Animal Sanctuary Volunteer Shift Request Form is designed to provide information about your availability and preferences for volunteering shifts at the Animal Sanctuary. This form helps the volunteer coordinator schedule volunteers effectively and allocate tasks according to your preferences.

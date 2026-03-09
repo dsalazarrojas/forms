@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Purpose
 The Elderly Assistance Volunteer Application Form is a tool used to collect information from individuals who are interested in volunteering their services to assist the elderly. This form helps us understand their qualifications, availability, and preferences, which enables us to effectively match them with suitable opportunities to make a meaningful impact in the community.
 

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from users for a Virtual Classroom setting. The form appears to be collecting metadata about virtual classrooms, students, and instructors, possibly for attendance tracking, course management, or other related purposes.
-
-Before filling out this form, please ensure you're not duplicating an existing registration for the same Virtual Classroom ID. This form is intended to be a single point of entry for users to provide their data in a structured and organized manner.
-
-</thinking>
-
 # Virtual Classroom Registration Form - Help Guide
 ## Purpose
 The Virtual Classroom Registration Form is designed to collect relevant information from users for Virtual Classroom management.

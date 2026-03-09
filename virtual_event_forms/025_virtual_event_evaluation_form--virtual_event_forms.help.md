@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's first consider the purpose and context of the "Virtual Event Evaluation Form". This form is likely used to gather feedback and evaluation from attendees or participants of virtual events. The form is designed to collect various pieces of information, including event title, speaker name, event description, and other relevant details. The form also includes fields for rating and providing suggestions for improvement, as well as follow-up information like email and phone numbers. The context is likely for events such as conferences, webinars, or online meetups. The form's purpose is to provide a structured way to collect feedback and suggestions for future events, and to improve the overall experience of virtual events.</thinking>
-
 # Virtual Event Evaluation Form - Help Guide
 ## Purpose
 The Virtual Event Evaluation Form is designed to gather feedback and suggestions from attendees of virtual events. It is used to collect information on event title, speaker name, event description, and other relevant details. This form also allows users to rate and provide suggestions for improvement.

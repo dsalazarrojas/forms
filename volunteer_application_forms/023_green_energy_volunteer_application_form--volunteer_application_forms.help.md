@@ -1,12 +1,4 @@
-> <thinking>
-  This form is intended for individuals who wish to volunteer for the Green Energy project. 
-  It is designed to gather information about the volunteer's contact information, interests, and availability. 
-  The data collected will be used to assign volunteers to suitable volunteer opportunities.
-  If you are unsure if this form is relevant to you, please ensure that you have a genuine interest in volunteering for the Green Energy project.
-  If you have previously submitted a volunteer application, please do not submit another.
-</thinking>
-
-# green_energy_volunteer_application_form - Help Guide
+> # green_energy_volunteer_application_form - Help Guide
 ## Purpose
 This form is intended for individuals who wish to volunteer for the Green Energy project. The data collected will be used to assign volunteers to suitable volunteer opportunities.
 

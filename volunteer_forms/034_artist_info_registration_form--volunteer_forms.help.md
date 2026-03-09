@@ -1,5 +1,3 @@
-<thinking>...Artist registration forms are a crucial part of the process for many events, festivals, and performances. This form helps artists and bands get discovered, connect with potential clients, and showcase their work. By completing this form, artists can provide essential information about themselves, their performance capabilities, and their availability. To ensure accurate representation and efficient communication, please carefully read through each section of this form and answer the questions truthfully...</thinking>
-
 # Artist Info Registration Form - Help Guide
 ## Purpose
 This form collects essential information about you as an artist or band to showcase your profile, performance capabilities, and availability for events. It helps event organizers and potential clients discover and contact you for performances.

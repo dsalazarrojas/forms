@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure the volunteer registration extension request form is filled out correctly to process requests efficiently and accurately. Before proceeding, please review the form's purpose and check if a submission for this form already exists. If it's the case, you can skip this process. Please enter the required details accurately and thoroughly to avoid any delays or issues in the extension request process.
-</thinking>
-
 # Volunteer Registration Extension Request Form - Help Guide
 ## Purpose
 The Volunteer Registration Extension Request Form is used to request an extension for a volunteer who has not met their volunteer hours requirements. This form helps the extension request process move forward by providing necessary details about the volunteer's progress.

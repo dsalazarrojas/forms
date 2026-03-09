@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering participants for the Defense Signal Group. It's crucial to provide accurate information to ensure proper group assignment and communication. Before proceeding, please confirm that you haven't already registered or filled out this form to avoid duplication. This guide will walk you through the necessary steps and explanations of each field to help you complete the form efficiently.
-</thinking>
-
 # Defense Signal Group Sign Up - Help Guide
 ## Purpose
 The Defense Signal Group Sign Up form is used to register participants for a secure communication group. Providing accurate and clear information in this form ensures correct group assignment and proper communication.

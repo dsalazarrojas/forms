@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback and preferences from users regarding veterinary software features. It is intended to be completed by users to provide their input on the software's usability, performance, and features. This form is likely to be used by veterinary professionals or organizations to gather information about their clients' or users' experiences with the software. The form is likely to be used in a production or development environment where understanding user preferences and feedback is essential for improving the software's quality and user experience.</thinking>
-
 # veterinary_software_feature_preference_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and preferences from users regarding veterinary software features. It is intended to be completed by users to provide their input on the software's usability, performance, and features.

@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is likely to be used by administrators or department heads to manage volunteer funding requests, collecting relevant information from volunteers about their requests. This form might be part of a system for handling and tracking volunteer requests for funding across different institutions. The form should only be used when a volunteer's request for funds is genuine and not a duplicate or already handled. 
-
-</thinking>
-
 # Funds Request Form - Help Guide
 ## Purpose
 The form is used to collect detailed information about a volunteer's funds request, ensuring accurate processing and management of these requests across different institutions.

@@ -1,11 +1,3 @@
-<thinking>
-
-The Pet Travel Assistance Program Application Form is designed to gather information about pet owners who are traveling with their pets. The form asks for details such as pet type, contact information, travel dates, locations, and reason for travel. This information will be used to assess the pet owner's eligibility for assistance with travel-related expenses.
-
-To ensure that the form is filled out correctly, we should check that the form is not duplicated or submitted by the same pet owner within a short period of time, and that all required fields are filled out.
-
-</thinking>
-
 # Pet Travel Assistance Program Application Form - Help Guide
 ## Purpose
 The Pet Travel Assistance Program Application Form is designed to gather information about pet owners who are traveling with their pets.

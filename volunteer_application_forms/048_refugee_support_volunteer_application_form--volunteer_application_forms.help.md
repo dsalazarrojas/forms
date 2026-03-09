@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Refugee Support Volunteer Application Form - Help Guide
 
 ## Purpose

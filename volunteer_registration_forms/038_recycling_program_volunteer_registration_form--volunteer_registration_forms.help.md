@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Recycling Program Volunteer Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential volunteers for the recycling program. This form is used to register volunteers for the program and gather necessary details for effective management and communication. By filling out this form, volunteers can provide their personal and professional information, volunteer experience, and skills for the program's record-keeping purposes.

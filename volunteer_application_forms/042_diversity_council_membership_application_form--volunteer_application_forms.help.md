@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants who wish to join the Diversity Council, a group that promotes diversity and inclusion within our organization. The purpose of this form is to ensure that we have accurate and complete information about each applicant, and to help us understand their qualifications, availability, and preferences. This information will be used to evaluate their suitability for membership in the Diversity Council.
-</thinking>
-
 # Diversity Council Membership Application Form - Help Guide
 ## Purpose
 This form is for individuals interested in joining the Diversity Council, a group that promotes diversity and inclusion within our organization. The information collected will be used to evaluate your suitability for membership and to ensure we have accurate and complete information about each applicant.

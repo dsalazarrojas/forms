@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is for registering volunteers for leadership positions within a Taraweeh organization. This form likely aims to gather information about potential volunteers, including their personal details, roles within the organization, and availability. However, without more context, the purpose and scope of the form are unclear.
 
 To determine the form's purpose and scope, we'll need to analyze the fields. The form includes fields for basic personal details (first name, last name, email, phone, location), which suggest that it's a general registration form. The "Mosques Name" field implies that the form is related to a specific mosque or community. The "Role" and "Role Desc" fields indicate that the form is also about leadership positions within the organization. Finally, the "Available Dates", "Available Time", and "Available Days" fields suggest that the form is also about scheduling.

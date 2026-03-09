@@ -1,17 +1,3 @@
-<thinking>
-
-The form is intended to collect participant information for virtual events. It's designed to be a general-purpose form that can be used for various virtual events, such as conferences, webinars, or workshops. The form will be used to store participant data for registration purposes, and the information collected will be used for event management and follow-up actions. 
-
-The form has 9 fields: participant name, email, phone number, date of birth, time of birth, select one, select multiple, note, select one other, and select multiple other. 
-
-All fields except participant name, email, and select multiple are not required, indicating that participants are not obligated to provide any information beyond the basic contact details and some optional fields for event purposes. 
-
-The select multiple field is an exception, as it is required, allowing participants to select multiple options. This form is likely used to gather participant preferences or characteristics for event organization. 
-
-This form should be filled out by participants for the specified virtual event. Please ensure that you fill out all required fields accurately. If you are unsure about any field, please refer to the field explanation section below for more information.
-
-</thinking>
-
 # virtual_event_platform_authorization_form - Help Guide
 ## Purpose
 This form is designed to collect participant information for virtual events. It's used for registration and follow-up purposes.

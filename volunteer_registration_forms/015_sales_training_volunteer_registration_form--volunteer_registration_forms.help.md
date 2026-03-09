@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for volunteers who want to participate in sales training programs. The purpose of this form is to collect information about volunteers' basic contact information, sales experience, and preferences for the training programs and topics they wish to attend. The form is used to gather data that will be used to place volunteers in the appropriate training programs based on their background and interests. This form is not intended for sales representatives, only for volunteers.
-</thinking>
-
 # Sales Training Volunteer Registration Form - Help Guide
 ## Purpose
 This form is for volunteers who want to participate in sales training programs. Fill out this form to register for a training program that suits your background and interests.

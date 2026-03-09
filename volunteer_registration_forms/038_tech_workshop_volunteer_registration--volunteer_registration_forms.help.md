@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form serves its purpose without duplication or redundancy. The form should only be filled out for volunteers who haven't filled it out before, or for those whose information may have changed. This form will be used to register volunteers for a tech workshop, and it's essential that we get accurate contact information and roles correctly filled in. The volunteer's role will help us assign them to tasks and activities accordingly.
-</thinking>
-
 # tech_workshop_volunteer_registration - Help Guide
 ## Purpose
 This form is used to register volunteers for a tech workshop. It will help us gather essential information about each volunteer and assign them to tasks and activities based on their availability and chosen role.

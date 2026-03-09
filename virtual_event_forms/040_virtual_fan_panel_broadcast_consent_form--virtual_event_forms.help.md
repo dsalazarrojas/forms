@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to obtain consent from virtual event participants, ensuring they understand and agree to the virtual event terms and conditions, including any necessary signatures or acknowledgments. This form may be used for a variety of purposes, such as recording participant consent, obtaining electronic signatures, or collecting additional information from participants. It is essential to ensure that the form is completed accurately and in its entirety to guarantee the validity of the participant's consent.</thinking>
-
 # virtual_fan_panel_broadcast_consent_form - Help Guide
 ## Purpose
 This form is designed to obtain consent from virtual event participants, ensuring they understand and agree to the event terms and conditions.

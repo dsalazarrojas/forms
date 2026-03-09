@@ -1,13 +1,3 @@
-<thinking> 
-
-This form is used by community members to apply for sustainability projects that support the well-being and resilience of local communities. The form is designed to gather information about the applicant's project, including its goals, location, timeline, budget, and expected outcomes. By filling out this form, applicants can demonstrate their project's alignment with the community's needs and priorities, and provide a comprehensive overview of their initiative.
-
-The form will be reviewed by the community to assess the project's potential impact, feasibility, and fit with the community's goals and values. This information will help the community make informed decisions about funding and support for the project.
-
-Before filling out the form, please ensure that you have reviewed the community's guidelines and requirements for sustainability projects, as well as any specific deadlines or submission guidelines. 
-
-</thinking>
-
 # Community Sustainability Application - Help Guide
 ## Purpose
 The Community Sustainability Application form is used by community members to apply for funding and support for their sustainability projects. The form helps assess a project's potential impact, feasibility, and fit with the community's needs and priorities.

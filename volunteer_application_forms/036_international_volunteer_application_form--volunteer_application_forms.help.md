@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 International Volunteer Application Form - Help Guide
 =============================================
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animal Shelter Volunteer Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from potential volunteers about their personal details, availability, and preferences for volunteering at the animal shelter. It is intended to help us get to know you better and understand how you can contribute to our mission of providing care and love to animals in need.

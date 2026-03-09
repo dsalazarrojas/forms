@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to report any issues with a volunteer kit that has been issued to a volunteer. The purpose of this form is to collect information about the kit's location, the volunteer who received it, and any relevant details about the issue. It is essential to ensure that the kit is properly handled and resolved. Please note that this form is not intended for general volunteer sign-up or registration; only report issues with a specific kit.
-This form should only be used to report issues with a volunteer kit that has already been issued. If you are looking to volunteer, please refer to our volunteer registration process.
-</thinking>
-
 # volunteer_kit_issue_form_template - Help Guide
 ## Purpose
 The purpose of this form is to report any issues with a volunteer kit that has been issued to a volunteer.

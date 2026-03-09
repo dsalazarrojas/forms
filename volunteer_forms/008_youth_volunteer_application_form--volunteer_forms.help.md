@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be an application form for youth volunteers, likely for an event or organization. To create this form, I will use the provided YAML metadata to craft a concise and practical help guide for end-users. I will ensure that the guide explains the form's purpose, how to complete it, and the meaning of each field, following the specified Markdown structure.
-</thinking>
-
 # Youth Volunteer Application Form - Help Guide
 ## Purpose
 The Youth Volunteer Application Form is designed to collect information from youth applicants who want to volunteer for an event or organization. This form helps to gather essential details about the applicant, their availability, and preferred volunteer shifts.

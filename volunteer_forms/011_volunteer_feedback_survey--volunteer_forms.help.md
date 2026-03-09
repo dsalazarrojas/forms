@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect feedback from volunteers who have participated in events managed by the organization. The purpose of this form is to gather valuable insights and suggestions from volunteers to improve future events.
-The feedback collected will be reviewed and used to refine the event management process, identify areas for improvement, and enhance the overall volunteer experience.
-
-To ensure accuracy and relevance, we request that volunteers only provide feedback for events they have attended.
-Please note that this form is designed to be completed by volunteers who have participated in events managed by the organization.
-</thinking>
-
 # Volunteer Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from volunteers who have participated in events managed by the organization. The feedback will be used to refine the event management process, identify areas for improvement, and enhance the overall volunteer experience.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used by pet owners to request a duplication of their pet's health record. Before submitting the form, please ensure that you are requesting a duplication for a valid reason. A duplication is only necessary if the original health record is incomplete, missing, or corrupted. The system will automatically check for duplications to prevent unnecessary duplicates. Please fill out the form accurately and truthfully to ensure a successful duplication request.
-</thinking>
-
 # Pet Health Record Duplication Request Form - Help Guide
 ## Purpose
 This form is used to request a duplication of a pet's health record. A duplication is only required if the original record is incomplete, missing, or corrupted. Ensure you are requesting a duplication for a valid reason before submitting the form.

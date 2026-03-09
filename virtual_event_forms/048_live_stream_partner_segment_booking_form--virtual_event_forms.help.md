@@ -1,6 +1,3 @@
-<thinking>
-As I review the provided YAML fields, I notice that this form appears to be designed for booking and scheduling live streams in some capacity. The form has a variety of fields for selecting stream details, contact information, segment slots, booking details, dates and times, and more. It's likely used for partners or collaborators to book their live streams in a coordinated effort. I'm not sure if there's any overlap with existing forms, but it would be best to check with relevant stakeholders before proceeding.</thinking>
-
 # Live Stream Partner Segment Booking Form - Help Guide
 ## Purpose
 The Live Stream Partner Segment Booking Form is used for partners or collaborators to book their live streams in a coordinated effort.

@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and requirements of the Virtual Screening Replay Request Form. Please ensure that you have read and understand the information provided before proceeding.
-
-The Virtual Screening Replay Request Form is used to request a replay of a virtual screening event that has already taken place. This form is designed to gather essential information from the viewer to facilitate the replay process. Please note that this form is not intended for general inquiries or feedback, but rather for specific replay requests.
-
-Before filling out this form, please check if you have already submitted a similar request in the past. Duplicate requests may cause delays in processing your request.
-
-</thinking>
-
 # Virtual Screening Replay Request Form - Help Guide
 ## Purpose
 The Virtual Screening Replay Request Form is used to request a replay of a virtual screening event that has already taken place.

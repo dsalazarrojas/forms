@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information from individuals or organizations that want to register themselves or their family members/youths for a life registration service. This form is not intended for commercial or financial transactions. The form will be reviewed for duplication and completeness of information before submission to prevent multiple registrations from the same individual or organization. The purpose of this form is to ensure accurate and up-to-date information for the life registration service.
-</thinking>
-
 # Trail Life Registration - Help Guide
 ## Purpose
 The Trail Life Registration form is used to collect contact and personal information from individuals and organizations that want to register themselves or their family members/youths for the life registration service.

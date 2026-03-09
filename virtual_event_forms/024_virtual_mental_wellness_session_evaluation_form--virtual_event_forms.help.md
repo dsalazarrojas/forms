@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is intended to help users understand the purpose and requirements of the Virtual Mental Wellness Session Evaluation Form. The form is designed to assess the effectiveness and quality of virtual mental wellness sessions. 
 
 The form is used to gather user feedback and evaluate the mental wellness sessions provided by the organization. The form is usually filled out by individuals who have participated in a virtual mental wellness session, and it helps the organization to identify areas of improvement and ensure that the sessions are meeting the needs of the users.

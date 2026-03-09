@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Town Hall Attendance Check Form is to gather information about attendees' intentions to attend an event, such as their availability, preferred time, and any special requests or requirements. This form ensures that the event organizer has accurate and up-to-date information about the attendees, which is crucial for planning and organization. This form is designed to be a quick and efficient way for attendees to provide their details, and it is not intended to be a comprehensive or in-depth survey.
-</thinking>
-
 # Town Hall Attendance Check Form - Help Guide
 ## Purpose
 This form is used to gather information about attendees' intentions to attend the event, ensuring that the event organizer has accurate and up-to-date information for planning and organization.

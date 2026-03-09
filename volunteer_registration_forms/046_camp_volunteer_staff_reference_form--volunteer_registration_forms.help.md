@@ -1,7 +1,3 @@
-<thinking>Before we begin, let's break down the form's purpose and ensure we're not duplicating effort. The "Camp Volunteer Staff Reference Form" is designed to gather information from people who have known the volunteer applicant, typically teachers, coaches, or supervisors, to help assess the applicant's character, skills, and fit for the volunteer program. This form aims to provide a comprehensive reference for the applicant's strengths, areas for improvement, and any necessary reservations or concerns. By having this form, the organization can make informed decisions about who to accept as volunteers and provide a safe and productive environment for all parties involved.
-
-With the form's purpose clear, let's proceed with creating the user-facing help guide.</thinking>
-
 # Camp Volunteer Staff Reference Form - Help Guide
 ## Purpose
 The Camp Volunteer Staff Reference Form is designed to collect information from individuals who have known the volunteer applicant. This information will help assess the applicant's character, skills, and suitability for the volunteer program.

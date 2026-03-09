@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for rent assistance programs. The form fields have been chosen to gather essential details that will aid the processing and assessment of the application. To ensure a smooth and accurate process, please make sure to fill out the form completely and accurately. If you are unsure about the purpose or meaning of any field, please refer to this help guide for assistance.</thinking>
-
 # rent_assistance_application_form - Help Guide
 ## Purpose
 The rent assistance application form is designed to collect essential information from applicants for rent assistance programs. This form will aid in processing and assessing the application for eligibility.

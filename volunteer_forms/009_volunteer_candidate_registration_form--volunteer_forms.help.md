@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals who want to register as volunteers for a specific organization or cause. The form will gather information on the volunteer's contact and personal details, volunteer preferences, and emergency contact information. It's crucial that this form is filled out accurately and thoroughly to ensure that the volunteer's needs and availability are properly recorded.
-</thinking>
-
 # Volunteer Candidate Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who wish to register as volunteers for our organization. It's essential to fill out the form accurately and completely to ensure that we can effectively manage volunteer roles and schedules.

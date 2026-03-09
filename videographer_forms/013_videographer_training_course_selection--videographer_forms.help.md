@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Videographer Training Course Selection - Help Guide
 ## Purpose
 This form is used to select a training course for a videographer. The form asks questions related to the applicant's qualifications, interests, and availability. The goal is to determine the most suitable training course for the applicant based on their answers.

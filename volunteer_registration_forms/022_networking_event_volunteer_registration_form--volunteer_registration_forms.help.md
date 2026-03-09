@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect volunteer information for networking events. This form will be used to track and organize volunteers for the event, ensuring that they are assigned to the correct positions and timeslots. It is essential that this information is accurate and up-to-date, as it directly impacts the event's logistics and the volunteer experience.
-Before completing this form, make sure to review the event's details and the available volunteer positions to ensure that you are registering for the correct role and shift. If you are unsure about any aspect of the form, please reach out to the event organizers for clarification.
-To avoid duplication, please do not register for multiple roles or shifts. This will help us ensure that we have an accurate headcount and can properly allocate resources.
-</thinking>
-
 # networking_event_volunteer_registration_form - Help Guide
 ## Purpose
 This form collects information from volunteers for networking events. It is essential to complete this form accurately and honestly, as it helps us understand your availability and preferences for volunteering.

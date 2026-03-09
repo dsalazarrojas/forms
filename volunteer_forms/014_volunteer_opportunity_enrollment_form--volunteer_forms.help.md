@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to enable users to enroll in volunteer opportunities. This form helps users to provide necessary information to be part of a volunteer opportunity. It is recommended to ensure that users do not submit duplicate enrollments for the same opportunity. This form is part of a larger process to manage volunteer opportunities and user involvement. Ensure that all fields are filled in accurately to facilitate smooth processing and minimize errors. Check the relevant opportunities before proceeding to avoid duplication.
-</thinking>
-
 # volunteer_opportunity_enrollment_form - Help Guide
 ## Purpose
 The volunteer opportunity enrollment form is designed to gather information from users to enable them to participate in volunteer opportunities. This form helps users to provide their details for a specific opportunity, and it is essential to fill it out accurately.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Badge Printing Request - Help Guide
 ## Purpose
 The "Volunteer Badge Printing Request" form is used to request a badge for a volunteer. To use this form, you should be a volunteer or an authorized representative of the volunteer program.

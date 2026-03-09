@@ -1,5 +1,3 @@
-<thinking>Before proceeding, we'll ensure that this form is intended for the right purpose and not a duplicate. This form is designed to capture information from applicants for administrative volunteer positions within our organization. We will review each application carefully to verify the purpose and ensure that the information provided is accurate and complete.</thinking>
-
 # Administrative Volunteer Application Form - Help Guide
 ## Purpose
 The Administrative Volunteer Application Form is designed to gather information from applicants interested in becoming administrative volunteers within our organization. This form helps us understand your background, skills, and availability to determine the best fit for volunteer positions.

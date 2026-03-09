@@ -1,9 +1,3 @@
-<thinking>
-
-We need to ensure that this form is used to collect accurate and helpful information from volunteers for the Santa Claus Parade. The form should only be filled out by people who are actually volunteering, and not by someone trying to test or test its functionality. To prevent duplication of effort and incorrect data collection, please make sure to use the actual form fields for their intended purpose.
-
-</thinking>
-
 # Santa Claus Parade Volunteer Registration Form - Help Guide
 ## Purpose
 This form is used to register volunteers for the Santa Claus Parade. Please fill it out carefully to ensure accurate data collection.

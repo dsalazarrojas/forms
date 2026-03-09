@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from pet owners when their pet visits a veterinary service. The form is meant to gather essential details about the pet, including its species, medical conditions, and contact information. This information will be used to create a treatment plan for the pet and ensure that the veterinary service provides the best possible care.
-
-Before filling out this form, it's essential to verify that the information provided is accurate and up-to-date. If you're unsure about any of the fields, please contact the veterinary service directly for clarification.
-
-The form has multiple pages with different sections, each focused on a specific aspect of the pet's information. Please fill out each page carefully, and make sure to provide as much detail as possible.
-
-</thinking>
-
 # Veterinary Intake Form - Help Guide
 ## Purpose
 The Veterinary Intake Form is designed to collect essential information from pet owners when their pet visits a veterinary service. This form will help the veterinary service create a treatment plan tailored to the pet's specific needs.

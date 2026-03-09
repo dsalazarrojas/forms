@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Best Agent Voting Poll - Help Guide
 
 ## Purpose

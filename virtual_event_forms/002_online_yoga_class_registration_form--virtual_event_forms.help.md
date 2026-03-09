@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 <https://example.com/>
 
 # online_yoga_class_registration_form - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential volunteers who are interested in volunteering with our non-profit organization. The purpose of this form is to gather essential details about the volunteer's availability, skills, and preferences to match them with suitable volunteer opportunities. This form will help us assess the volunteer's suitability for different roles and ensure that they are committed to the right amount of time to make a meaningful contribution. We aim to avoid duplicated efforts by ensuring that each volunteer is only contacted once to confirm their details. The form will also help us to communicate with volunteers more effectively and provide them with necessary support.
-</thinking>
-
 # Detailed Volunteer Registration Form - Help Guide
 ## Purpose
 The Detailed Volunteer Registration Form is a comprehensive form designed to collect information from potential volunteers who are interested in volunteering with our non-profit organization.

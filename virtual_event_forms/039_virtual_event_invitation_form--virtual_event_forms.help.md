@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To determine the form purpose, we first need to understand the context in which it's being used. The form is designed for "Virtual Event Invitation Form" which suggests that it's used to invite people to virtual events. The form might be used to collect information about the event, such as the event title, description, date, time, location, and attendees. This information would typically be used to create a virtual invitation that can be shared with the attendees. To ensure that the form is not filled out unnecessarily, we should check for existing events before creating a new one. If the event already exists, it's not necessary to create a new one.
 
 # Virtual Event Invitation Form - Help Guide

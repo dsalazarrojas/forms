@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect user feedback on their favorite collections. Users are asked to select one option to confirm if their collection is a favorite or not. They are then presented with a multiple-choice question to select which of their collections they would like to vote for. Lastly, users are asked to input the number of their favorite collection, which is likely used to determine their level of enthusiasm. This form is likely used for internal tracking and analytics purposes.
-</thinking>
-
 # Favorite Collection Voting - Help Guide
 ## Purpose
 This form is intended to gather user feedback on their favorite collections. Completing this form will help us understand which collections are most popular among users.

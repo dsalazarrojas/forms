@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback and preferences from employees for this year's Christmas party. It's intended to be completed by employees to help the party planning committee understand their thoughts and opinions on various aspects of the party, such as theme, activities, drinks, music, and attendance. To ensure that you're not missing any important details, please review your answers carefully before submitting the form. Also, be aware that some of the fields have multiple selection options, and you can choose multiple answers if applicable.</thinking>
-
 # Christmas Party Theme Voting Form - Help Guide
 ## Purpose
 The Christmas Party Theme Voting Form is designed to collect feedback and preferences from employees for this year's party. It's a fun and interactive way to get everyone's thoughts on themes, activities, drinks, music, and more.

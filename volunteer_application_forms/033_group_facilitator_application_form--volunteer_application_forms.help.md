@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for group members who want to apply to be group facilitators for upcoming workshops or events. To ensure the application process is fair and efficient, we'll be reviewing each application to ensure it meets our requirements. Please only submit an application if you're genuinely interested in participating as a facilitator and are available to fulfill the role's responsibilities. We'll be checking for duplication of applications, so please don't submit multiple applications if you're interested in the same position.
-</thinking>
-
 # Group Facilitator Application Form - Help Guide
 ## Purpose
 The Group Facilitator Application Form is a tool used to collect information from individuals interested in becoming group facilitators for upcoming workshops or events. This form will help us determine the best fit for the position and ensure that the right individuals are selected.

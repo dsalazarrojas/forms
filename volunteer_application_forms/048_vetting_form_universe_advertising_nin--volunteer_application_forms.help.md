@@ -1,17 +1,3 @@
-<thinking>
-This is an expert form design and technical writing task. Before creating the user-facing help guide, I need to understand the form's purpose and context. The form is for a "volunteer application" and is part of the "Vetting Form Universe Advertising NIN". I will create a help guide that assumes the form is used for vetting volunteers for an advertising project. The purpose of the form is to collect information from potential volunteers, and the form will be used to evaluate their suitability for the project.
-
-The form appears to have four fields: title, name, email, and phone. All fields are not required, which suggests that the form is optional and the volunteer can choose which fields to fill in. The title field likely serves as a header or identifier for the form, while the name, email, and phone fields are for collecting personal information from the volunteer.
-
-Before creating the help guide, I need to consider the following:
-
-* How will the form be used by volunteers and the project administrators?
-* What are the expected outcomes of filling out the form?
-* Are there any specific requirements or constraints for the fields (e.g., email format, phone number format)?
-
-To create a helpful and user-friendly guide, I will focus on making the explanations clear, concise, and practical.
-</thinking>
-
 # Vetting Form Universe Advertising NIN - Help Guide
 ## Purpose
 This form is designed to collect information from potential volunteers for the "Universe Advertising NIN" project. Please fill out the form to apply for the volunteer position and provide your contact details.

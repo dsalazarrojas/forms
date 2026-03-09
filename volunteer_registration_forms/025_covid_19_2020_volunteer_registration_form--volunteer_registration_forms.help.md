@@ -1,12 +1,3 @@
-<thinking>
-We will be creating a user-facing help guide for the "COVID 19 2020 Volunteer Registration Form" to help end-users understand its purpose and how to complete it. This form is used to gather information from individuals interested in volunteering for COVID-19 related activities. It collects demographic and professional information, as well as specific skills and preferences, to match volunteers with suitable roles. The form is designed to be completed by individuals who want to contribute to the COVID-19 response efforts.
-
-Before we begin, let's review the form's content and ensure it's accurate. The form consists of 31 fields, covering full name, contact information, personal details, medical credentials, availability, and volunteer preferences. We will focus on explaining each field in a clear and concise manner.
-
-Please note that this form is intended for volunteers who are willing to contribute to the COVID-19 response efforts. By completing this form, individuals are committing to follow organizational policies and procedures, as well as any applicable laws and regulations.
-
-</thinking>
-
 # COVID 19 2020 Volunteer Registration Form - Help Guide
 
 ## Purpose

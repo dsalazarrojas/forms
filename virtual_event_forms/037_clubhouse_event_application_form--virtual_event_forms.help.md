@@ -1,17 +1,3 @@
-<thinking>
-To ensure that the Clubhouse Event Application Form is used correctly and efficiently, please take a moment to read through this help guide. 
-
-The purpose of this form is to collect information from applicants who wish to participate in Clubhouse events. This form is used to gather essential details from applicants, including their personal contact information, event-related details, and relevant background and experience information. This form is required for all event applications and is designed to be completed by applicants who want to showcase their interest in participating in Clubhouse events. 
-
-Before starting, ensure that you have all the necessary information and that this is not a duplicate submission. You can check by looking at the "event date" field, as this form should only be submitted for the specific event you are applying for. 
-
-If you are an existing Clubhouse user, please ensure that you log in before completing this form, so you can link your Clubhouse username or handle to your application. 
-
-If you are a new user, please feel free to create a new account and link it after submitting this form. 
-
-Please note that all fields are required unless otherwise stated. Please make sure to fill out all required fields to ensure your application is complete and submitted successfully.
-</thinking>
-
 # Clubhouse Event Application Form - Help Guide
 ## Purpose
 This form is used to collect information from applicants who wish to participate in Clubhouse events.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from individuals interested in volunteering at the community center. This form is used to collect contact details, volunteer experience, skills, availability, and background information to help us assess potential volunteers and ensure we can match them with suitable opportunities. Please note that by filling out this form, applicants are not guaranteed a volunteer position. We review applications thoroughly and may request additional information or an interview before placing a volunteer. This form will not be used for commercial or mass mailing purposes, and we will not share your personal data with third parties. 
-
-Before starting, please ensure you have not submitted a previous application for the same position or position within the past 6 months.
-</thinking>
-
 # Community Center Volunteer Application Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from individuals interested in volunteering at the community center.

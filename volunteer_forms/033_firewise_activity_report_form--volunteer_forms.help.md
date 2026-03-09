@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about fire safety activities, including dates, times, locations, and other relevant details. The purpose of this form is to ensure that fire safety activities are properly documented and reported. Please ensure that you are completing this form for a valid fire safety activity and that you do not duplicate entries.
-</thinking>
-
 # Firewise Activity Report Form - Help Guide
 ## Purpose
 This form is used to report and document fire safety activities. It helps track and manage information about fire safety events, including start and end dates and times, locations, and other relevant details.

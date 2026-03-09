@@ -1,5 +1,3 @@
-<thinking>This form was created to collect information from volunteers for Professional Development opportunities. Before starting, please ensure that this form is not a duplicate application. If you have already submitted an application for the same opportunity, please do not submit another. Ensure that you have the necessary permissions to submit on behalf of an organization, if applicable. By filling out this form, you acknowledge that the information provided will be used for internal evaluation and review. Please ensure that all the required fields are filled in accurately. If you experience any issues while filling the form, please contact form@gic.mx.</thinking>
-
 # professional_development_volunteer_application_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from volunteers for Professional Development opportunities, such as skills, experience, and motivation.

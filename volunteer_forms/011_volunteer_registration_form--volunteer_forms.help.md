@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from volunteers about their availability, role, and time slots for a specific event. It's designed for users to input their name, contact information, event participation, volunteer role, and time slots. The form is meant to be completed by volunteers who are interested in participating in an event. Before proceeding, check that you have not already completed this form for the same event.
-</thinking>
-
 # Volunteer Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from volunteers about their availability and role for an event.

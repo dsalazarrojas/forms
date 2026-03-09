@@ -1,7 +1,3 @@
-<thinking>
-The Volunteer Recommendation Form is used to gather information from recommenders about a volunteer's qualifications, work habits, and other relevant details. This form ensures that the volunteer's character and reliability are assessed correctly. To prevent duplication or incorrect information, please fill out this form only once per recommender, and ensure that the information is accurate and up-to-date. Please note that this form is for the recommender's personal input only, so please do not fill it out as the volunteer. If you're unsure about any part of the form, please ask your supervisor or a designated authority for clarification.
-</thinking>
-
 # Volunteer Recommendation Form - Help Guide
 ## Purpose
 The Volunteer Recommendation Form is used to collect information about a volunteer's qualifications, work habits, and other relevant details from recommenders. This form helps assess the volunteer's character and reliability.

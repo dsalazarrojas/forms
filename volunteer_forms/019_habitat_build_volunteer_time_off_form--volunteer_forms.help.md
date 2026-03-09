@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to track and record information related to volunteer work hours, including volunteer names, contact information, work hours, and dates. This form will help volunteers keep track of their own hours worked and ensure that the Habitat organization has accurate records of volunteer time-off. 
-</thinking>
-
 # Habitat Build Volunteer Time Off Form - Help Guide
 ## Purpose
 The Habitat Build Volunteer Time Off Form is a tool for volunteers to report their time off work hours with Habitat. The form is used to ensure that volunteers and Habitat staff accurately track volunteer hours and manage volunteer schedules.

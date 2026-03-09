@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from potential volunteers for the Zoo's volunteer program. The purpose of this form is to ensure that new volunteers have the necessary contact details, availability, and other relevant information to be considered for the program. This form should not be completed by existing volunteers or those who have already been part of the program.
-
-</thinking>
-
 # Zoo Volunteer Program Enrollment Form - Help Guide
 ## Purpose
 The Zoo Volunteer Program Enrollment Form is a necessary step for potential volunteers to apply for the program. It helps the zoo's staff to understand your interests, availability, and other important details to place you in the right role.

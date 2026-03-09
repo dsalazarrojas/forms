@@ -1,11 +1,3 @@
-<thinking>
-This form is used for individuals to register as volunteers for educational programs. The purpose of this form is to gather essential information about the volunteer, including their institution affiliation, volunteer type, start and end dates, contact information, and a brief description of their role. This information will be used by the program administrators to verify the volunteer's registration and ensure a smooth volunteer experience.
-
-To prevent duplication of effort, please ensure that all required fields are completed accurately and thoroughly before submitting the form. This will help us to process your registration efficiently and effectively.
-
-The following guide will walk you through the completion of this form.
-</thinking>
-
 # Educational Program Volunteer Registration Form - Help Guide
 
 ## Purpose

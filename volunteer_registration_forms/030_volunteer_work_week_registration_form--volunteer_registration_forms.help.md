@@ -1,7 +1,3 @@
-<thinking>
-This is a form for registering volunteers for a work week event. The form should be filled out by people interested in volunteering for the event. To ensure accurate counting of volunteers, it's crucial to fill out all required fields. If a field is not filled out, it will be difficult to determine which type of volunteer the person is and where they will be volunteering. The form should not be duplicated, as each form is unique in its own way.
-</thinking>
-
 # Volunteer Work Week Registration Form - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the Volunteer Work Week Registration Form.

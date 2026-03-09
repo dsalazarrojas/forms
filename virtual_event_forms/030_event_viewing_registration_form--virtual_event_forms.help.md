@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the "Event Viewing Registration Form" used for registering for virtual events. This guide will help users understand the purpose of the form, how to complete it, and what each field means. The form is designed to collect information from attendees and organizers of virtual events. It is essential to complete this form accurately to ensure the successful execution of the event.
-</thinking>
-
 # Event Viewing Registration Form - Help Guide
 ## Purpose
 The Event Viewing Registration Form is a form used for attendees and organizers of virtual events to register and provide information about their attendance. This form helps event organizers gather the necessary details to manage the event smoothly.

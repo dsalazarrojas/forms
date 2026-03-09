@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for non-duplicate submissions and for people who are genuinely interested in volunteering. Please note that this form is for informational purposes only and should not be filled out for other reasons. 
-</thinking>
-
 # Volunteer Application Form - Help Guide
 ## Purpose
 The purpose of this form is for individuals to submit their information to volunteer for various tasks and activities. This form helps us understand your availability, contact information, and other relevant details to ensure a smooth and effective volunteering experience.

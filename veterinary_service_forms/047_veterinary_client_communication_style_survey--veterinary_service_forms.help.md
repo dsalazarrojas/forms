@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from veterinary clinic staff on how they would like to communicate with pet owners. The form is designed to be completed by veterinary clinic staff to provide insight into their communication preferences, allowing the clinic to tailor their communication style to better meet the needs of their clients. This form is likely not intended for pet owners to complete, so there should be no duplication or overlap with other forms that are meant for pet owners.
-</thinking>
-
 # Veterinary Client Communication Style Survey - Help Guide
 ## Purpose
 This form is designed to collect information from veterinary clinic staff on their communication preferences with pet owners, helping the clinic tailor their communication style to better meet the needs of their clients.

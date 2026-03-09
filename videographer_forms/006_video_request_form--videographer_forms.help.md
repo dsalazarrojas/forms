@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information for video requests. It is used to gather data for projects that require video production. 
-
-This form will help users provide necessary details for the project type, client, video format, budget, start date, end date, duration, project description, contact name, email, phone number, assigned team member, status, created and updated by, project URL, and form URL.
-
-The form will be filled out by users who need to submit a video request. 
-
-Before filling out the form, please note that the project type, client, video format, status, assigned to, created by, updated by, and form URL fields are required.
-
-</thinking>
-
 # Video Request Form - Help Guide
 ## Purpose
 The video request form is a crucial tool that helps us understand the project details and requirements before creating a video.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information for scheduling a Zoom meeting. It is meant to be used by users to provide meeting details, attendees, and registrants information. The form is not meant to be filled out by users who do not have a Zoom account or are not authorized to schedule meetings.
-
-This form is intended to be filled out by users who have a Zoom account and are authorized to schedule meetings. The form will be used to collect meeting details such as title, start and end time, date, meeting type, attendees, and registrant information.
-
-To avoid duplication, we will check if the form has already been filled out by the user for the same meeting before allowing them to submit it.
-
-</thinking>
-
 # schedule_a_zoom_meeting_form - Help Guide
 ## Purpose
 This form is used to schedule a Zoom meeting.

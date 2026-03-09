@@ -1,7 +1,3 @@
-<thinking>
-This form is for voters to select their preferred themes and provide feedback on various aspects of an event. The form is designed to collect information on voter's name, email (if provided), department, event name, event date, favorite theme, dress code preference, venue preference, budget consideration, dietary requirements, entertainment preference, additional theme ideas, decoration suggestions, likelihood of attendance, and additional comments. The form is meant to be completed by event attendees to help organizers tailor the event according to their preferences and expectations. Please answer these questions carefully and honestly to help us better understand your needs and provide a more enjoyable experience for everyone involved.
-</thinking>
-
 # Award Theme Selection Survey - Help Guide
 ## Purpose
 

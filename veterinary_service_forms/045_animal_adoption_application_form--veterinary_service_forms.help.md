@@ -1,8 +1,3 @@
-<thinking>
-This form is for individuals who wish to adopt a pet from an animal shelter. It's intended to gather essential information about the applicant, such as their contact details, pet preferences, and home suitability. The form is part of the adoption process, and it's crucial that applicants provide accurate and honest information to ensure a smooth and successful adoption.
-
-</thinking>
-
 # Animal Adoption Application Form - Help Guide
 ## Purpose
 This form is a crucial part of the animal adoption process, allowing us to gather essential information about you and your suitability for adopting a pet.

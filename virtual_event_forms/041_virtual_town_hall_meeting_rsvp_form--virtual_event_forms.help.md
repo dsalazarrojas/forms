@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to RSVP to a virtual town hall meeting. To ensure that your response is counted correctly, please fill out this form with accurate information. If you're already registered for the meeting, please do not fill out this form again. The responses will be reviewed before the meeting to ensure that everyone's expectations are met.
-</thinking>
-
 # Virtual Town Hall Meeting RSVP Form - Help Guide
 ## Purpose
 The Virtual Town Hall Meeting RSVP Form is a crucial tool for us to gauge the interest and attendance of our virtual town hall meeting. It helps us understand who is coming, their role, and any special requests they may have. Please take a few minutes to fill out this form accurately.

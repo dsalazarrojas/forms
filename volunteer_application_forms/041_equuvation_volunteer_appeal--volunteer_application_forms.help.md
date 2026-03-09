@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # equuvation_volunteer_appeal - Help Guide
 ## Purpose
 This form is intended to be used by individuals who wish to volunteer with EquuVation, a non-profit organization providing aid to marginalized communities. The form gathers contact information and volunteer details to facilitate communication and volunteer work assignment.

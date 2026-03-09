@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for individuals who wish to apply to become a volunteer sports official. The form gathers basic contact information, personal details, and experience in various sports. It also includes a section for emergency contact details and a space for the applicant to specify their relevant skills and certifications. The form is primarily intended for those who want to participate in sports officiating roles but does not require any specific technical or professional qualifications.
-
-To ensure a thorough review process, please fill out the form accurately and completely. Note that some fields are required, and failing to provide them may hinder the application process.
-
-Please make sure to fill in the form only once and do not submit multiple applications. This will save time and resources in the review process.
-
-The form will be reviewed, and applicants will be contacted if additional information is needed. A detailed explanation of each section follows.
-
-</thinking>
-
 # Volunteer Sports Official Application - Help Guide
 ## Purpose
 This form is designed for individuals who wish to apply to become a volunteer sports official. It gathers basic contact information, personal details, experience in various sports, emergency contact details, and a space for relevant skills and certifications.

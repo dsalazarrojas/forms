@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose is clear and relevant, and that the form is not duplicated. The "Veterinary Billing Inquiry Request Form" is a form used to gather information from clients or customers about their billing inquiries. The form is meant to be used by veterinary service providers to collect necessary information about the billing process. Before filling out this form, we should check if a similar request has been made in the past to avoid duplication of efforts.
-
-</thinking>
-
 # Veterinary Billing Inquiry Request Form - Help Guide
 ## Purpose
 The "Veterinary Billing Inquiry Request Form" is a tool used to collect information from clients or customers about their billing inquiries. It helps veterinary service providers to gather necessary data about the billing process, ensuring accurate and efficient handling of client requests.

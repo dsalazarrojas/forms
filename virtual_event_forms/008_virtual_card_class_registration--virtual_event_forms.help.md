@@ -1,8 +1,3 @@
-<thinking>
-To ensure that the "Virtual Card Class Registration" form is completed accurately and efficiently, I will provide a clear and concise help guide. Please note that I will not be able to verify the relevance or uniqueness of the form without more context about the business logic behind it.
-
-</thinking>
-
 # Virtual Card Class Registration - Help Guide
 ## Purpose
 The "Virtual Card Class Registration" form is designed to collect information from users who want to register for a virtual card class. This form gathers essential details such as name, contact information, class choice, and additional notes.

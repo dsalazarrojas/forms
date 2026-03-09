@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Film Trailer Edit Review Request Form - Help Guide
 ## Purpose
 The Film Trailer Edit Review Request Form is a document used to gather feedback and requests for edits on a film trailer. It is designed to be filled out by editors or production teams to communicate with the client or stakeholders about the status of the film trailer's edit process.

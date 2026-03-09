@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect feedback and ratings on different design concepts. The purpose of this form is to gather input from users on their preferences and opinions on various design options. This form is intended to be used by designers and stakeholders to understand user preferences and make data-driven design decisions. It is not intended to be used for any other purpose, such as marketing or sales.
-
-</thinking>
-
 # Umbrella Design Voting Survey - Help Guide
 ## Purpose
 This form is used to collect feedback and ratings on different design concepts. It is intended to gather input from users on their preferences and opinions on various design options.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for attendees to check in for a virtual event. The purpose of this form is to gather information from attendees, including their user information, attendee details, and event-related data. This form is not meant for attendees who have already checked in or are not attending the event.
-</thinking>
-
 # Virtual Event Check In - Help Guide
 ## Purpose
 This form is for attendees to check in for a virtual event. It collects information about the attendee and event details to help event organizers track attendance and manage event logistics.

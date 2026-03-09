@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rescue Transport Network Application Form - Help Guide
 ## Purpose
 The Rescue Transport Network Application Form is designed to collect information from volunteers interested in joining the network. By completing this form, volunteers can provide their details to be considered for potential transport-related opportunities. This form helps the organization to assess the suitability of each volunteer for the network and ensures that all necessary contact information is collected.

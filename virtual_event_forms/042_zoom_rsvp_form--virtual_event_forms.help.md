@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information from event registrants to help the event organizers prepare for and facilitate the event. The form should not be duplicated or submitted multiple times by the same person. The event organizer should only allow one submission per person.</thinking>
-
 # Zoom RSVP Form - Help Guide
 
 ## Purpose

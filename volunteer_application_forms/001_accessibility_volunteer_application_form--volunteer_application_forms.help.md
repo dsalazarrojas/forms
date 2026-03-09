@@ -1,8 +1,4 @@
-> <thinking>
-This help guide is intended to ensure that volunteers understand the purpose and requirements of the Accessibility Volunteer Application Form. It is essential to provide accurate and relevant information to increase the chances of successful volunteer placement. Please review this guide carefully before applying and ensure that you understand the expectations and requirements stated in it.
-</thinking>
-
-# Accessibility Volunteer Application Form - Help Guide
+> # Accessibility Volunteer Application Form - Help Guide
 ## Purpose
 The Accessibility Volunteer Application Form is designed for individuals interested in participating in accessibility initiatives and events. By filling out this form, you will be providing us with the necessary information to determine your suitability for volunteer roles. Your application will help us understand your availability, skills, and interests, allowing us to place you in positions that align with your strengths and needs.
 

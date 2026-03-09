@@ -1,8 +1,3 @@
-<thinking>
-We'll be creating a comprehensive user-facing help guide for the "Personalized Cami Sizing With Alisha" form. This form appears to be a survey-style form designed to collect user preferences and interests. The purpose of this guide is to walk users through the form's purpose, how to complete it, and provide explanations for each field. This will ensure that users understand what information they need to provide and how their input will be used. To confirm, the form has 20 fields, including text inputs for first name and last name, email and phone number, date and time, a note field, and a variety of select-one and select-multiple fields asking about favorite fruits, foods, colors, hobbies, times of day, locations, foods, drinks, music, artists, books, movies, and games. We will ensure that the explanations are concrete, concise, and practical, and that any unclear labels are explained in a way that aligns with the provided YAML.
-
-</thinking>
-
 # Personalized Cami Sizing With Alisha - Help Guide
 ## Purpose
 The "Personalized Cami Sizing With Alisha" form is designed to collect information about your personal preferences and interests. This information will help us tailor our content and offers to better suit your needs. Please answer the questions to the best of your ability, and remember that all fields are optional unless marked as required.

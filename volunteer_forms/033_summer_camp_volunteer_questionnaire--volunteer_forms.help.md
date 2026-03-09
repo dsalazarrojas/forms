@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist volunteers in completing the Summer Camp Volunteer Questionnaire. This form is intended to gather information about volunteers' availability, contact preferences, and medical conditions to ensure effective communication and safety during the summer camp event. To prevent errors, please review the form carefully and ensure you are submitting accurate information. If you have any questions or concerns, please contact the summer camp staff.
-</thinking>
-
 # Summer Camp Volunteer Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about your availability and preferences as a volunteer for the summer camp event. Please complete this form to provide your details and help us make the best use of your volunteer time.

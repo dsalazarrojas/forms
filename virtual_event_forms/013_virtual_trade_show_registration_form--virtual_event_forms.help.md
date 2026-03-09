@@ -1,7 +1,3 @@
-<thinking>
-  To create a user-facing help guide for the Virtual Trade Show Registration Form, the form's purpose is to gather information from potential attendees about their registration to the virtual trade show. This form is essential for event organizers to get an overview of the attendees' demographics and preferences, which can be used to tailor the event experience to their needs. The form's fields should be completed with accurate and relevant information to ensure that the attendee gets the most out of the event. It's crucial to check if the form is being completed correctly before submitting it to avoid any errors.
-</thinking>
-
 # Virtual Trade Show Registration Form - Help Guide
 
 ## Purpose

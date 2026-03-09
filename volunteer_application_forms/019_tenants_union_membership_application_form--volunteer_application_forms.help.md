@@ -1,9 +1,3 @@
-<thinking>
-The Tenants Union Membership Application Form is used for prospective members to submit their applications to join the Tenants Union. This form collects information about the applicant, including their contact details, address, preferred contact method, and other relevant details. The form is divided into multiple pages, and each page has a different set of fields that the applicant must fill out. The application process is straightforward, and the form is designed to be user-friendly and easy to navigate.
-The form is primarily intended for internal use within the Tenants Union, and the information collected will be used to verify the applicant's identity and assess their suitability for membership. The applicant's contact information will be kept confidential and used only for official purposes.
-To prevent duplication, please do not reapply if you have already submitted a membership application in the past.
-</thinking>
-
 # Tenants Union Membership Application Form - Help Guide
 ## Purpose
 The Tenants Union Membership Application Form is used for prospective members to submit their applications to join the Tenants Union.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to document an employee's voluntary resignation. This process is used to ensure that all necessary information is captured and that the employee's departure is officially recorded. Please complete this form to initiate a smooth transition of responsibilities and to confirm the details of your resignation. Before submitting this form, please ensure that you are not duplicating the effort, and that you have discussed and agreed on the details with your manager and HR.
-</thinking>
-
 # Voluntary Resignation Form - Help Guide
 ## Purpose
 This form is used to document an employee's voluntary resignation. It captures essential information to ensure a smooth transition of responsibilities and official recording of the employee's departure.

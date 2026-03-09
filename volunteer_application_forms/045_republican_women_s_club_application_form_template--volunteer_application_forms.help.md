@@ -1,10 +1,3 @@
-<thinking>
-**Please note that this form is used for applicants to apply to become a volunteer or a leader in the Republican Women's Club. The form is a crucial part of the application process, and it is expected that the applicant will provide accurate and truthful information.**
-
-**Before starting, please ensure that you have not applied previously and that your application is complete and accurate.**
-
-</thinking>
-
 # republican_womens_club_application_form_template - Help Guide
 ## Purpose
 This form is used to gather information from applicants who are interested in becoming a volunteer or leader in the Republican Women's Club. It is essential to provide accurate and truthful information to ensure a successful application process.

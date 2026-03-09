@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is a "Volunteerism Survey" which is used to collect data on individuals who have volunteered for an organization. The purpose of this form is to gather information on the volunteers' experiences, such as the type of experience they had, the date of their last experience, the duration of their volunteer work, and their reason for leaving. Before proceeding, we must ensure that the data collected is accurate and not duplicated. Therefore, please review the form carefully and ensure that you are not submitting duplicate entries for the same volunteer.
-</thinking>
-
 # Volunteerism Survey - Help Guide
 ## Purpose
 The "Volunteerism Survey" form is designed to collect information from individuals who have volunteered for an organization. This data will be used to better understand their experiences and improve future volunteer opportunities.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nonprofit Organization Retreat Reservation Form - Help Guide
 
 ## Purpose

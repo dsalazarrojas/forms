@@ -1,35 +1,3 @@
-<thinking>
-This form is designed to collect information from volunteers who wish to participate in projects, tasks, or events. The form will help the organization to get the necessary details from the volunteer to assign them to suitable projects or tasks. Please note that the form is not intended for actual volunteers, but rather for administrative purposes. This form should only be filled out once for each participant.
-
-The form will be used to collect the following information:
-
-- First Name
-- Last Name
-- Contact Phone
-- Email
-- Participant Type (project, task, or event)
-- Project and Task (Yes or No)
-- Start Date and End Date
-- Time
-- Timezone
-- Status (active, inactive, or pending)
-- Comments
-- Participant ID
-- Participant Reference (internal, external, or none)
-- Notes
-- Assigned Tool
-- Participant Name
-- Participant Email
-- Participant Phone
-- Email Verification (True or False)
-- Phone Verification (True or False)
-- Participant Status (active, inactive, or pending)
-- Project Status (Active or Inactive)
-- Task Status (Active or Inactive)
-
-Please make sure to fill out this form correctly and accurately. If you are unsure about any of the fields, please contact the organization for assistance.
-
-</thinking>
 # Volunteer Signup Form - Help Guide
 ## Purpose
 The Volunteer Signup Form is a tool used to collect information from volunteers who wish to participate in projects, tasks, or events. This form will be used to gather necessary details to assign volunteers to suitable projects or tasks.

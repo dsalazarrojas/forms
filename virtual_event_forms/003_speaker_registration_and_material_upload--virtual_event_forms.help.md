@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will cover the "Speaker Registration And Material Upload" form, designed to capture essential information from speakers for virtual events. Before filling out this form, please ensure you are registering for a valid virtual event. If you're unsure, check with your internal stakeholders or event organizers for confirmation.
 
 # Speaker Registration And Material Upload - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-This is a form used to collect information for volunteer activities. It's meant to be completed by those interested in volunteering for specific projects. It's recommended that users fill out the form with care to ensure accuracy. Please make sure to fill out a new form for each volunteer event.
-</thinking>
-
 # Volunteer Signup Form - Help Guide
 ## Purpose
 This form is used to collect information for volunteer activities. It's meant to be completed by those interested in volunteering for specific projects.

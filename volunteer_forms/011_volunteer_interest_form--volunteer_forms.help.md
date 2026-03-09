@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help us better understand your interests and preferences for volunteering with our organization. It will help us to match you with suitable volunteer opportunities that fit your skills and availability. Please answer the questions honestly, and make sure to provide your email address so we can get in touch with you if we need more information.
-
-Before starting, make sure you haven't already filled out this form. If you have filled out the form before, your previous submission will be overridden, and any progress will be lost.
-
-</thinking>
-
 # Volunteer Interest Form - Help Guide
 ## Purpose
 The Volunteer Interest Form is designed to help us understand your interests and preferences for volunteering with our organization. It will help us match you with suitable volunteer opportunities that fit your skills and availability.

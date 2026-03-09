@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from pet owners about their pet's treatment at a veterinary hospital. This form is used to gather essential details about the pet and its owner, which will help the veterinary staff to provide effective care and treatment. This form is intended to be completed by pet owners when they bring their pets to the hospital for treatment. The form will help the veterinary staff to quickly assess the situation and provide necessary attention to the pet's condition. Before proceeding, please ensure that the form is relevant and not a duplicate, as it is designed to collect information for a specific treatment session.</thinking>
-
 # Veterinary Hospital Treatment Form - Help Guide
 ## Purpose
 The Veterinary Hospital Treatment Form is a crucial tool for veterinary staff to gather vital information about pet owners and their pets when they come to the hospital for treatment. This form helps ensure that the pet receives the best possible care and attention.

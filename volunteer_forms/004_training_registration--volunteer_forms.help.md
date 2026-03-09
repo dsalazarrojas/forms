@@ -1,8 +1,3 @@
-<thinking> 
-This guide is intended to help users complete the "Training Registration" form, which is used to record and manage training data. The form is designed to collect information about trainings, including their provider, type, start and end dates, location, capacity, status, and other relevant details. This form will be used to track and update training status, which is a crucial aspect of training management. Before starting, please ensure that you have all the necessary information to complete the form accurately. If you have already submitted a training registration, please note that this form will not duplicate your previous submissions.
-
-</thinking>
-
 # Training Registration - Help Guide
 ## Purpose
 The "Training Registration" form is designed to collect and manage training data, including their provider, type, start and end dates, location, capacity, status, and other relevant details.

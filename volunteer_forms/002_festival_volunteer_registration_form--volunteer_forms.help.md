@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Festival Volunteer Registration Form - Help Guide
 
 ## Purpose

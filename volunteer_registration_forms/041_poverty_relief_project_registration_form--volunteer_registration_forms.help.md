@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals or organizations interested in registering for the Poverty Relief Project. The primary purpose of this form is to collect contact details, organization information, and volunteer participation status. It also allows individuals or organizations to confirm their interest in the project and provide additional details about their involvement. The form is meant to be completed by anyone who wishes to collaborate with the Poverty Relief Project, whether as a volunteer or partner.
-We will check for non-duplication before processing any registration to prevent multiple registrations from the same individual or organization.
-</thinking>
-
 # Poverty Relief Project Registration Form - Help Guide
 ## Purpose
 This form is for registering with the Poverty Relief Project. Fill it out to express your interest in collaborating with the project.

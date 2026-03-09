@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information about speakers, including their name, bio, company, role, and contact details. The form is not strictly required for any specific process, so users may fill it out at their discretion. To avoid confusion, please note that this form is for general speaker information, and not for event registration or other specific purposes.
-
-</thinking>
-
 # Speaker Information And Agreement - Help Guide
 ## Purpose
 This form is used to collect and store speaker information, which will be displayed on event-related materials.

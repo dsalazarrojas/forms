@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from potential volunteers for a theater production. The goal is to gather details about the individual's background, preferences, and availability to determine their suitability for volunteer work. This form will help us to efficiently manage our volunteer pool and allocate volunteers to suitable roles.
-
-To ensure we don't duplicate efforts, please don't submit multiple applications. If you're a returning volunteer, you can update your information by submitting this form again.
-
-Please note that some fields are marked as "required" which means they must be filled in for your application to be processed.
-</thinking>
-
 # Theater Production Volunteer Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential volunteers for a theater production. This form helps us to gather details about your background, preferences, and availability to determine your suitability for volunteer work.

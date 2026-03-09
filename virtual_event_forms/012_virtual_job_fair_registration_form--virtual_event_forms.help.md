@@ -1,5 +1,3 @@
-<thinking>Virtual Event Forms are designed to streamline the registration process for attendees and companies at virtual events. This form is specifically created for job fair attendees to register for a virtual job fair event. The goal is to collect essential information from attendees such as their name, contact details, and job preferences to facilitate a smooth and organized event experience. It's essential to ensure that each attendee completes the form correctly to avoid duplication of entries and to guarantee accurate data collection for the event organizers. Please note that some fields are optional, but it's still crucial to fill them out to ensure a complete and detailed record of your registration. To avoid confusion, review each field carefully and ensure you understand the information being requested before proceeding.</thinking>
-
 # Virtual Job Fair Registration Form - Help Guide
 ## Purpose
 This guide is designed to assist you in filling out the Virtual Job Fair Registration Form accurately and effectively. Please follow the instructions below to complete the form successfully.

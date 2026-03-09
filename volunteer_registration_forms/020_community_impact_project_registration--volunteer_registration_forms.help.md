@@ -1,10 +1,3 @@
-<thinking>
-We're creating a help guide for the "Community Impact Project Registration" form, designed for individuals or organizations looking to register their community projects. 
-This form is intended to collect essential information about projects that aim to create positive social or environmental change. 
-The form is composed of several fields that will help us understand the project's scope, goals, and requirements. 
-We'll guide users through each field, ensuring they understand the purpose of each section and how to complete it correctly.
-</thinking>
-
 # Community Impact Project Registration - Help Guide
 ## Purpose
 The "Community Impact Project Registration" form is designed to collect information about community projects that aim to create positive social or environmental impact. This form helps us understand the project's title, lead contact, volunteer needs, and other essential details. By filling out this form, you'll be able to register your project and share it with us.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect information for virtual field trips. This form is designed to be completed by teachers and parents to provide details about the trip, including the start and end dates, trip name, teacher and student information, and other relevant details.
-
-To ensure accuracy and consistency, please make sure to fill out this form carefully and thoroughly. If you're unsure about any of the fields, refer to this guide for help.
-
-Before you start, please note that this form is a required form for teachers and parents to provide information about virtual field trips. 
-
-</thinking>
-
 # Virtual Field Trip Registration Form - Help Guide
 ## Purpose
 

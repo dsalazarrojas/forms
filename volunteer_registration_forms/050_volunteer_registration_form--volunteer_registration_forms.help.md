@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for volunteers to register themselves for events. By filling out this form, volunteers can provide essential information about themselves and their availability for events. This form will help us ensure that we have accurate records of our volunteers and can effectively utilize their skills and expertise for upcoming events. 
-
-Please note that this form is the only method for volunteers to register for events, and any duplicate submissions will be discarded. 
-
-The form consists of multiple pages, but this guide will focus on the first page.
-</thinking>
-
 # Volunteer Registration Form - Help Guide
 ## Purpose
 This form allows volunteers to register themselves for events and provide essential information about their availability and skills.

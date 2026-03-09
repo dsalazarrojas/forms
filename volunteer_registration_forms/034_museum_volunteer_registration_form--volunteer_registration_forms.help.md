@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from potential volunteers about their availability, interests, and preferences for volunteering at a museum. This form is a key part of the volunteer registration process, ensuring that the museum has a clear understanding of each volunteer's capabilities and limitations.
-
-Before starting, please ensure that you are registering as a new volunteer and not updating an existing registration. If you are updating an existing registration, you do not need to complete this form again. Please fill out the form carefully, as the information provided will be used to schedule and coordinate volunteer opportunities.
-
-Please note that some fields are marked as "required," which means that you must provide information in these fields to proceed. Other fields are optional and can be left blank if not applicable.
-
-To register as a volunteer, please follow the steps below.
-</thinking>
-
 # museum_volunteer_registration_form - Help Guide
 ## Purpose
 The museum_volunteer_registration_form is designed to collect information from potential volunteers for the museum's volunteer program. This form helps the museum understand each volunteer's interests, availability, and preferences, enabling us to schedule and coordinate volunteer opportunities effectively.

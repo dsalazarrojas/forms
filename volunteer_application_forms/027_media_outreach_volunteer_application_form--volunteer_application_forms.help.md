@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from potential volunteers for media outreach initiatives. This form is designed to collect personal and professional details from volunteers, including their name, contact information, skills, availability, and other relevant details. The form will help the organization to identify suitable volunteers for media outreach initiatives, ensure accurate communication, and build a comprehensive database for future collaborations.
-
-Before proceeding, please ensure that you are not duplicating an existing application. If you have already submitted an application, please do not create a new one.
-
-</thinking>
-
 # media_outreach_volunteer_application_form - Help Guide
 ## Purpose
 The media outreach volunteer application form is designed to collect information from potential volunteers for media outreach initiatives. This form helps the organization to identify suitable volunteers, ensure accurate communication, and build a comprehensive database for future collaborations.

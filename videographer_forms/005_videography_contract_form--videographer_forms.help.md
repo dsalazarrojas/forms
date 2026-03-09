@@ -1,7 +1,3 @@
-<thinking>
-This form was created using AI to generate a videography contract form. The form is designed to collect information about project details, client information, production details, services offered, payment terms, contract terms, timeline, and signature. This form is a useful tool for videographers to create professional contracts with their clients. Before using this form, please ensure that you have read and understood the terms and conditions of your client and that you have reviewed the relevant industry standards and best practices in videography.
-</thinking>
-
 # videography_contract_form - Help Guide
 ## Purpose
 The videography_contract_form is designed to help videographers create professional contracts with their clients. The form collects information about project details, client information, production details, services offered, payment terms, contract terms, timeline, and signature.

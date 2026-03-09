@@ -1,17 +1,3 @@
-<thinking>
-This form is designed for users to participate in a character name voting process. It's meant to gather information about their preferences for character names in a fictional universe. The form will not be used to collect sensitive or personal data that could be used to identify individuals. 
-
-The form is divided into several sections, each addressing different aspects of character name preferences. Users will be asked about their own name, email, and some demographic information. They will also be presented with a series of questions about the type of name they prefer for a character and the characteristics that name should reflect. Some options are presented as lists for the user to choose from, while others will require more elaborate input. 
-
-The form is anonymous, and the data collected will be used to create a list of name preferences and characteristics to help with the development of characters in a fictional setting. This form does not ask for any personal identifiable information that would be used for any other purpose. 
-
-Each question is designed to be clear and understandable, with hints provided to guide the user through their answers. Some questions have multiple options to choose from, while others have free text input for more detailed responses. 
-
-This form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created using public survey topic metadata, and it is released under a Creative Commons BY 4.0 license. 
-
-You are free to use, modify, and even sell forms derived from this, just give credit. If you have any questions or concerns, please contact form@gic.mx.
-</thinking>
-
 # Character Name Voting Form - Help Guide
 
 ## Purpose

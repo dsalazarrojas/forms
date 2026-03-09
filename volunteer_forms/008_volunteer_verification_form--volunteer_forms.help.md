@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to verify the information of volunteers in a volunteer program, ensuring that the submitted data is accurate and up-to-date. This form will be used by administrators to collect and validate the volunteer's personal and professional information. Before filling out this form, please ensure that you are a registered volunteer and that you have not filled out this form previously. If you are unsure, please contact the administrator for guidance.
-</thinking>
-
 # volunteer_verification_form - Help Guide
 ## Purpose
 The volunteer verification form is used to collect and validate the personal and professional information of volunteers in the program.

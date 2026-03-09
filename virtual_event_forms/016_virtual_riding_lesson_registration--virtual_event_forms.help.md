@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to register virtual riding lessons, allowing riders to provide their details and preferences for a virtual riding lesson. The form is likely used by a riding school or instructor to manage lesson registrations and communicate with riders. To ensure accuracy and consistency, please review each field carefully before submitting the form.
-
-Before starting, please note that this form has two types of dates: `start_date` and `preferred_date`. `start_date` represents the actual date of the lesson, while `preferred_date` represents the rider's preferred date for the lesson. Similarly, `start_time` and `preferred_time` represent the actual start time and preferred start time of the lesson, respectively.
-
-Also, please be aware that some fields have specific options or selections. For example, `riding_level` requires selecting one of three levels (Level 1, Level 2, or Level 3), `lesson_type` has three options (Virtual Group, Private, or Semi-Private), `lesson_duration` has two options (30 minutes or 60 minutes), and `rider_age` has three options (Child, Adult, or Senior). `payment_method` has two options (Cash or Credit/Debit), and `error_message` is a field for any error messages that may occur during the submission process.
-
-When filling out the form, please ensure that the fields are filled in as required and according to your preferences. If you're unsure about any field, please refer to the corresponding label for clarification.
-
-</thinking>
-
 # Virtual Riding Lesson Registration - Help Guide
 ## Purpose
 The Virtual Riding Lesson Registration form is designed to gather information from riders about their virtual riding lesson preferences and details.

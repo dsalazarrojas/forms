@@ -1,5 +1,3 @@
-<thinking>Before we get into the form design, I'd like to highlight that this form is designed to collect information from individuals interested in volunteering for groups within non-profit organizations. The primary purpose of this form is to gather data on a volunteer's availability, interests, and details about the group they wish to join. This form will help streamline the volunteer group registration process, ensuring that non-profits have accurate and comprehensive information about their volunteers. To use this form, simply fill out the required fields and submit your request. Please note that you may not be able to view or edit your answers once you've submitted the form.</thinking>
-
 # volunteer_group_request_form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in volunteering for groups within non-profit organizations. It gathers data on volunteer availability, interests, and group details to streamline the volunteer group registration process.

@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information from volunteers about their preferences for volunteer work, including their skills, availability, and preferred hours of operation. This form is used to match volunteers with volunteer opportunities that fit their skills and availability. To ensure accurate results, please fill out this form completely and honestly. If you have filled out this form previously, please note that submitting the form multiple times may result in duplicate entries.</thinking>
-
 # Volunteer Position Preference Form - Help Guide
 ## Purpose
 The Volunteer Position Preference Form is a tool used to match volunteers with volunteer opportunities that fit their skills and availability.

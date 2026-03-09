@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from volunteer candidates who are interested in registering as volunteers for a specific program or organization. The form asks for personal details, skills, experience, availability, and volunteer type preferences. The goal is to gather relevant data to match candidates with suitable volunteer roles.
-
-Before filling out this form, please note that:
-
-* You will need to fill out all fields marked as "required" to submit the form.
-* Some fields are optional, but providing accurate information will help us better understand your volunteer needs and preferences.
-* If you have any questions or concerns, please don't hesitate to contact us.
-
-</thinking>
-
 # Volunteer Candidate Registration Form - Help Guide
 ## Purpose
 The Volunteer Candidate Registration Form is designed to collect essential information from individuals interested in volunteering for our organization. This form helps us understand your personal details, skills, experience, and volunteer type preferences, which are then used to match you with suitable volunteer roles.

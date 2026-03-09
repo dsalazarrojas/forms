@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for non-profit organizations to collect information from potential volunteers, donors, or other applicants. The form is used to gather contact information, volunteer preferences, and application details. Before completing this form, please ensure that you are not a duplicate applicant, as this form is intended for one-time submissions. If you have previously applied or have an active application, please do not submit this form again. 
-</thinking>
-
 # Volunteer Application Form For Non Profit - Help Guide
 ## Purpose
 The Volunteer Application Form For Non Profit is a tool used by non-profit organizations to collect information from potential volunteers, donors, or other applicants. This form helps the organization to understand who is interested in contributing to their cause and what type of involvement they are looking for.

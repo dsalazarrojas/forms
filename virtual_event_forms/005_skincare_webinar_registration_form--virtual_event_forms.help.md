@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from attendees registering for a skincare webinar. The purpose of this form is to gather attendee details, including their professional background and additional information they may want to provide. The form will be used to create a list of registered attendees for the webinar. It is crucial to provide accurate and complete information to ensure a smooth webinar experience.
-
-This form does not collect any sensitive or personal identifiable information. It is intended for educational purposes only.
-
-To avoid duplication, this form will only be used once per attendee, and the information collected will not be shared with any other parties.
-</thinking>
-
 # Skincare Webinar Registration Form - Help Guide
 ## Purpose
 This form collects information from attendees registering for a skincare webinar. Please fill it out accurately to ensure a successful and informative experience.

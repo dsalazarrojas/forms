@@ -1,7 +1,3 @@
-<thinking>
-This form is likely intended for users to provide feedback on photo and video content, possibly for review, critique, or improvement purposes. The form might be used by content creators, photographers, or videographers to collect comments and suggestions from viewers. To ensure this form is useful and relevant, I'll aim to explain each field clearly and concisely.
-</thinking>
-
 # photo_video_feedback_form - Help Guide
 ## Purpose
 The photo_video_feedback_form is designed to collect feedback on photo and video content, allowing content creators to understand what viewers like or dislike about their work.

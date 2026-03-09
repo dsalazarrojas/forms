@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather information about the video editing process, specifically regarding the progress, review status, quality issues, color correction, video length, audio quality, music license, color grade, resolution, video format, file type, and frames per second. This form helps ensure that all relevant details are captured and addressed in the video editing process.
-
-To prevent duplication of effort, users should only complete this form if they have a clear understanding of the video editing process and its various stages. This form should not be used as a substitute for thorough documentation or discussion with the editor.
-
-Before filling out this form, review the video's status and ensure that it is complete and accurate. This form is meant to supplement, not replace, other communication channels.
-</thinking>
-
 # Video Editing Process Checklist - Help Guide
 ## Purpose
 This form is designed to gather information about the video editing process, ensuring that all relevant details are captured and addressed.

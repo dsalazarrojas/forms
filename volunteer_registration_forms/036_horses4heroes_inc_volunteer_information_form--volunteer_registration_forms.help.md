@@ -1,7 +1,3 @@
-<thinking>
-This form is used by Horse4Heroes Inc. to collect information from volunteers who have expressed interest in volunteering their time to help the organization. This form is used to gather contact information, volunteer availability, and other relevant details to manage volunteer schedules and communication. It is crucial that you provide accurate and honest information to ensure proper volunteer coordination and to avoid duplicate submissions.
-</thinking>
-
 # horses4heroes_inc_volunteer_information_form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who wish to volunteer with Horse4Heroes Inc.

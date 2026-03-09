@@ -1,14 +1,3 @@
-<thinking>
-This form appears to be for volunteers who will be participating in some sort of military missions or events. The purpose of this form is to collect information about the volunteer's personal details and mission-specific information.
-
-To ensure that the form is being filled out correctly, please take note of the following:
-
-* Please only fill out this form if you are a volunteer for a military mission.
-* Make sure to double-check your email address for accuracy in both the "Email" and "Confirm Email" fields.
-* Fill out the "Mission Date" and "Mission Time" fields using the format "YYYY-MM-DD" and "HH:MM AM/PM" respectively.
-
-</thinking>
-
 # military_missions_volunteer_information_form - Help Guide
 ## Purpose
 This form is for volunteers participating in military missions or events. Please fill it out accurately and honestly to ensure that your information is recorded correctly.

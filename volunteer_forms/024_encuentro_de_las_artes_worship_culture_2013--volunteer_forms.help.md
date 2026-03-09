@@ -1,8 +1,3 @@
-<thinking>
-This form is used for collecting information about events, including events related to worship and culture. It is used to gather details such as event name, category, date, time, and contact information.
-To avoid duplication, please do not submit this form multiple times.
-</thinking>
-
 # encuentro_de_las_artes_worship_culture_2013 - Help Guide
 ## Purpose
 The encuentro_de_las_artes_worship_culture_2013 form is used to gather information about events related to worship and culture.

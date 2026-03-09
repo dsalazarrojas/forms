@@ -1,8 +1,3 @@
-<thinking>
-  **Form Purpose and Validation Logic:**
-  This form is designed to collect information for food parcel requests. It is crucial to ensure that the form is completed accurately and consistently to enable efficient processing. Before proceeding, please confirm that this form is relevant to your request and not a duplicate of a previously submitted form. 
-</thinking>
-
 # food_parcel_request_form - Help Guide
 ## Purpose
 This form is designed to collect requests for food parcels, a type of aid provided to those in need.

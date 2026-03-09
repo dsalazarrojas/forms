@@ -1,7 +1,3 @@
-<thinking>... This help guide is intended to provide clear instructions and explanations to assist users in completing the Volunteer Interest Form efficiently. This form is designed to collect information from individuals expressing interest in volunteering with our organization. The form's purpose is to gather essential details about the user, such as contact information, volunteer interests, and availability, to facilitate the volunteer placement process. This guide ensures that users understand the form's requirements and submit the necessary information accurately, avoiding duplication of effort and potential errors. It also provides a clear and concise explanation of each field's purpose, making it easier for users to navigate the form and ensure they are able to submit a comprehensive application. 
-
-</thinking>
-
 # Volunteer Interest Form - Help Guide
 ## Purpose
 The Volunteer Interest Form is a crucial tool for individuals expressing interest in volunteering with our organization. It helps us understand their background, availability, and interests to find the best fit for volunteer opportunities.

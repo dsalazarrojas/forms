@@ -1,11 +1,3 @@
-<thinking>
-
-To provide a clear and concise help guide for the pre-wedding videography questionnaire, let's first review the form's purpose and fields. The form appears to be designed to collect essential information for videography services for a wedding event. It likely requires detailed contact and event information, videographer details, and specific requirements for the final video product.
-
-We'll now focus on creating a helpful guide for the end-users. Please keep the explanation concise and based on the form's provided fields.
-
-</thinking>
-
 # Pre-Wedding Videography Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect essential information for the videography services for your upcoming wedding event.

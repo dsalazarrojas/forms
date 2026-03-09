@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information from applicants for a Valentine's Day giveaway. It appears to be a generic form with various fields for personal information, such as name, email, phone number, and address, as well as fields for event-specific information, like date and time. The "Select One" and "Select Multiple" fields seem to be used for choices related to the giveaway, and the "Description" and "Date Time" fields are likely meant for a description of the event and the date and time it will take place, respectively. To avoid duplication, please ensure that you have not already applied for this giveaway and that the information you enter is accurate and up-to-date.</thinking>
-
 # valentine-giveaway-form - Help Guide
 ## Purpose
 This form is for collecting information from applicants for a Valentine's Day giveaway. Fill out this form to participate in the giveaway.

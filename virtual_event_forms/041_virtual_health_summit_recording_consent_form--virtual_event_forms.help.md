@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for attendees to give their consent for the recording and sharing of their sessions, images, and other content during the Virtual Health Summit. It's crucial to have this form as part of the registration process to ensure that all attendees are on the same page regarding what is allowed to be recorded and shared. This form should be completed by all attendees to avoid any miscommunication or misunderstandings. Please ensure that you only proceed if you're certain that this form is relevant and not a duplication of effort.</thinking>
-
 # Virtual Health Summit Recording Consent Form - Help Guide
 
 ## Purpose

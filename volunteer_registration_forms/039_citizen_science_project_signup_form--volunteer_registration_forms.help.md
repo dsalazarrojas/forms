@@ -1,14 +1,3 @@
-<thinking>
-To ensure the integrity and quality of the data collected through this form, we must verify that the form is being filled out correctly and accurately. This form is designed to gather information about volunteers' personal details, project interests, scientific background, availability, skills, and motivation. Before proceeding, please take note of the following:
-
-*   Each field is carefully crafted to elicit relevant and meaningful information from the respondent.
-*   The form includes fields that allow users to express their availability and commitment to the project in terms of hours per week and commitment duration.
-*   Certain fields are designed to be optional, allowing users to disclose only the information they feel is relevant to their application.
-*   Please ensure that all required fields are filled out accurately and thoroughly.
-*   If you're unsure about any field, please refer to the explanations below for guidance.
-
-</thinking>
-
 # Citizen Science Project Signup Form - Help Guide
 ## Purpose
 This form is designed to gather information from volunteers interested in participating in the Citizen Science Project. The form collects personal details, project interests, scientific background, availability, skills, and motivation to help us understand your suitability for the project.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for recording and tracking volunteer duties assigned to specific individuals or teams. The goal is to provide a clear overview of the tasks and their completion status. Each field in the form serves a specific purpose:
 
 - The task list field allows the user to enter a brief summary of the task(s) assigned to the volunteer(s).

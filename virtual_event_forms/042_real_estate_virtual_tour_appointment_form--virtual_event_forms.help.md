@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the Real Estate Virtual Tour Appointment Form, making sure it's clear and easy to understand for end-users. We will cover the purpose of the form, how to complete it, and what each field means. This guide will be based on the provided YAML fields and will follow the required Markdown structure.
-</thinking>
-
 # Real Estate Virtual Tour Appointment Form - Help Guide
 ## Purpose
 

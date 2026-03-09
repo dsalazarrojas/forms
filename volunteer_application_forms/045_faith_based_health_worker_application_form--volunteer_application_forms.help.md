@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Faith Based Health Worker Application Form - Help Guide
 
 ## Purpose

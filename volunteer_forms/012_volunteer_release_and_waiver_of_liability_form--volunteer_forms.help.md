@@ -1,8 +1,3 @@
-<thinking>Internal reasoning block to check for form purpose and non-duplication:
-We need to create a user-facing help guide for the Volunteer Release And Waiver Of Liability Form. This form is likely used to obtain informed consent from volunteers before they participate in activities or events. The form's purpose is to ensure that volunteers understand the risks associated with their participation and agree to release and waive any liability for their involvement. It's essential to clearly explain the form's purpose and requirements to ensure that volunteers understand the significance of their responses.
-
-Upon reviewing the form schema, it appears that we have 6 fields, but only 2 are marked as "required." This suggests that the form is not strictly necessary to fill out, and the user can opt-out by not signing or selecting certain fields. To avoid duplication, we will focus on explaining each field's purpose and requirements to ensure the user understands what is expected of them.</thinking>
-
 # Volunteer Release And Waiver Of Liability Form - Help Guide
 ## Purpose
 The Volunteer Release And Waiver Of Liability Form is a document that ensures volunteers understand the risks associated with their participation in events or activities. By filling out this form, volunteers acknowledge that they are aware of the potential risks and agree to release and waive any liability for their involvement.

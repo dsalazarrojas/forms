@@ -1,7 +1,3 @@
-<thinking>
-This form is for voting in a pumpkin carving contest. The purpose of the form is to allow users to submit their entries and ratings for a pumpkin carving contest, providing a way for users to categorize and score entries based on different criteria.
-</thinking>
-
 # pumpkin_carving_contest_voting_form - Help Guide
 ## Purpose
 This form allows users to participate in a pumpkin carving contest by casting votes for different categories and entries. Users can submit their ratings and comments for each entry, as well as provide additional information such as entry images and URLs.

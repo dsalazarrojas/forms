@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended for users who are looking to provide volunteer agreements with more information to ensure they can accurately process requests for help with their volunteer commitments. It is designed to gather essential details about the volunteers, allowing teams to make informed decisions and provide better support.
-
-It's worth noting that this form is meant for adding extra information to existing volunteer agreements, so it's essential to be clear and concise with the data provided. This guide will walk you through each step and explain what each field is for, making sure users understand what they need to fill out.
-
-</thinking>
-
 # Volunteer Agreement Extension Form - Help Guide
 ## Purpose
 This form is used to gather more details about volunteer agreements, allowing teams to have a better understanding of the volunteer's status and commitments. It's an essential tool for volunteer management, ensuring that all necessary information is captured accurately.

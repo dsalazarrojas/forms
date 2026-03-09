@@ -1,11 +1,3 @@
-<thinking>
-To design a form that captures the necessary information for a volunteer organization for initiative citizen empowerment, we need to consider the key components of such an initiative. These include identifying the form's purpose, which is to gather information about volunteer opportunities and programs. The form should capture details about the volunteer, including their name, contact information, and any relevant skills or qualifications. Additionally, it should also capture information about the organization or program being led by the volunteer, such as its name, description, and purpose. This form is likely used for internal purposes, such as tracking volunteer information and resources allocation. We should ensure that the form is comprehensive and easy to fill out for end-users.
-
-We should also consider using clear and descriptive labels for each field to minimize confusion and reduce errors. This will help ensure that the form serves its purpose efficiently and accurately.
-
-Before we start explaining each field, it would be helpful to check if there are any similar forms used for similar purposes to avoid duplication of efforts.
-</thinking>
-
 # Voice Voluntary Organization For Initiative Citizen Empowerment - Help Guide
 ## Purpose
 This form is designed to collect information about volunteers and their programs for initiative citizen empowerment. It aims to gather details about the volunteer, their contact information, and the organization or program they are leading.

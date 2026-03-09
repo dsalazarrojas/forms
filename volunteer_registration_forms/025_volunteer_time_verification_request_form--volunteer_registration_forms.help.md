@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to verify the time volunteered by a volunteer for a specific service. It is essential to ensure that the information provided is accurate and up-to-date. Before completing this form, please ensure that you have the necessary information and authorization to do so. This form should not be completed if you are unsure or have already submitted a verification request for the same service.
 
 # Volunteer Time Verification Request Form - Help Guide

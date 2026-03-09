@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to capture essential information from volunteers for scheduling appointments for social work services. The purpose of this form is to help the volunteer management team efficiently coordinate volunteer services. Please ensure that you are submitting a new request and not duplicating an existing one.
-
-When filling out this form, please make sure to provide accurate and complete information to ensure a smooth appointment scheduling process. The form is divided into several sections, and each field is explained below.
-
-</thinking>
-
 # Social Work Appointment Request Form - Help Guide
 ## Purpose
 This form is used to request social work appointments from volunteers. Please fill out the form carefully to ensure that your request is processed correctly.

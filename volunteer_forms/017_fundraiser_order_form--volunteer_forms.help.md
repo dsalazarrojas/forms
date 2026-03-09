@@ -1,5 +1,3 @@
-<thinking>... (internal reasoning block) ...</thinking>
-
 # Fundraiser Order Form - Help Guide
 ## Purpose
 This form is used to collect order details and payment information for a fundraiser. It is intended for individuals or groups to purchase items or services from a fundraiser event.

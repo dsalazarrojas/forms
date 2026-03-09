@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are interested in volunteering for video production projects. It aims to capture relevant details about their availability, experience, skills, and preferences to match them with suitable projects. The form is not mandatory and serves as a general application form for those who wish to participate in video production volunteer work. Please ensure that you have the necessary permissions and approvals to submit this form if you are representing an organization or entity.</thinking>
-
 # video_production_volunteer_application_form - Help Guide
 ## Purpose
 This form is used to collect information from individuals who are interested in volunteering for video production projects. It helps us to understand their availability, experience, skills, and preferences to match them with suitable projects.

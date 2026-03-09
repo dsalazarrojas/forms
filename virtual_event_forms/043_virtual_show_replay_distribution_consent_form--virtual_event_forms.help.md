@@ -1,21 +1,3 @@
-<thinking>
-This form is intended for individuals who have participated in a virtual event and are being asked to provide their consent for their name and email address to be shared with other attendees or the event organizers. The form is designed to be completed by each participant, and their response will determine whether their information is shared or not. 
-
-The form is not a required step, and participants can choose to decline sharing their information. 
-
-The form will be reviewed by the event organizers to ensure that only the agreed-upon participants' data is shared.
-
-The "replay" in the form's title refers to the recorded footage or content of the virtual event.
-
-The form will be used in conjunction with other event management systems to ensure accurate tracking and reporting of participant consents.
-
-This form will be used for events where anonymity or confidentiality is not a concern.
-
-This form is meant to be completed on a per-participant basis, and each participant's response will be reviewed and recorded separately.
-
-The form will be used to obtain explicit consent from participants before sharing their information.
-</thinking>
-
 # Virtual Show Replay Distribution Consent Form - Help Guide
 ## Purpose
 This form is used to obtain the consent of virtual event participants to share their name and email address with other attendees or the event organizers. Participants' responses will be reviewed and recorded separately.

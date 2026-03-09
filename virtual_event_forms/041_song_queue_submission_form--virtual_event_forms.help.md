@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for users to submit song requests to be added to the virtual event queue. The purpose of this form is to gather information about the requested song, including its title and artist, and to collect contact information for follow-up communication. This form is not meant to be completed for every song; it should only be used for song requests that cannot be easily fulfilled through other means, such as by adding the song to the queue manually. Please do not submit duplicates of this form for the same song; each submitted song will be checked for duplicates and only unique submissions will be considered.
-
-</thinking>
-
 # Song Queue Submission Form - Help Guide
 ## Purpose
 This form allows you to submit song requests to be added to the virtual event queue.

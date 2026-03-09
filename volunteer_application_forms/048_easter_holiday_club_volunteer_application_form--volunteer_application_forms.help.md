@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals to apply to be volunteers for the Easter Holiday Club's events. The form ensures that volunteers understand what they can help with and are able to provide essential contact information. It also confirms that volunteers have read and agreed to the terms and conditions of the club. To avoid duplication, please note that only one volunteer application per person is allowed. If you're applying as part of a group or organization, please contact the club directly for separate arrangements.
-</thinking>
-
 # easter_holiday_club_volunteer_application_form - Help Guide
 ## Purpose
 The Easter Holiday Club is seeking volunteers for its upcoming events. This form helps applicants provide necessary information to be considered for volunteer positions.

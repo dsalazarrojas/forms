@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to register volunteers for various events. The purpose of this form is to collect information from volunteers, including their name, contact details, event preferences, and availability. This form ensures that volunteers are correctly assigned to events based on their preferences and availability. It is essential to fill out this form accurately to ensure that volunteers are utilized efficiently. Please ensure that you are filling out this form for the correct event and that you are selecting the correct volunteer group and project. 
-</thinking>
-
 # volunteer_registration_form - Help Guide
 ## Purpose
 The volunteer_registration_form is a form used to register volunteers for events. It gathers essential information from volunteers, including name, contact, event preferences, and availability, to efficiently allocate them to events.

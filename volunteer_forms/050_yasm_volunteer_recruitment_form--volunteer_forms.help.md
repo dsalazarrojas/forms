@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to collect information from volunteers who wish to participate in YASM activities. It ensures that volunteers provide relevant and accurate details to help us efficiently manage our operations and ensure that all volunteers are well-matched with suitable roles. To prevent duplication of efforts, we kindly request that volunteers fill out a new form for each unique volunteer opportunity.
-
-This guide is designed for volunteers who want to provide their information to YASM. Please follow these steps to ensure a smooth and accurate submission.
-
-</thinking>
-
 # YASM Volunteer Recruitment Form - Help Guide
 ## Purpose
 The YASM Volunteer Recruitment Form is designed to collect essential information about volunteers to help match them with suitable opportunities and optimize our operations.

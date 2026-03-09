@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to collect registration information from parents or guardians for a virtual summer camp. It is intended for parents or guardians to provide their own and their child's information, select preferred summer camps, and choose dates and times for the camp. This form is not designed to be filled out by children, but rather by parents or guardians on their behalf. 
 
 The form does not duplicate any other form on the platform, as it is a one-time generated form for a specific purpose.

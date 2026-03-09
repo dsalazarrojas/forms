@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from volunteers interested in joining a team or organization. The form helps to categorize volunteers into different roles and types, and ensures they have a clear understanding of the tools and resources available to them. Before proceeding, please note that this form is for volunteers who are new to the team, and it is not intended to be completed by existing team members.
-
-</thinking>
-
 # Volunteer Onboarding Form - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-This form is used for collecting data for Tithing Settlement purposes. The purpose of this form is to gather information from individuals or organizations regarding their tithing settlement needs, habits, and expectations. This form is typically used by churches, charities, or other organizations that offer tithing options to their members or clients. The form should not be used for any other purpose. Please do not fill out this form if you are not intended to provide tithing services or have not been assigned to do so by your organization. If you have any questions or concerns, please reach out to your supervisor or the relevant department.
-</thinking>
 # Tithing Settlement Form - Help Guide
 ## Purpose
 The Tithing Settlement Form is used to collect information from individuals or organizations regarding their tithing settlement needs, habits, and expectations.

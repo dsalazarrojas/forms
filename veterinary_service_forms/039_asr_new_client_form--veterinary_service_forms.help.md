@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ASR New Client Form - Help Guide
 
 ## Purpose

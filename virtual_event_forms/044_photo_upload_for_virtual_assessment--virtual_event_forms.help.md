@@ -1,11 +1,3 @@
-<thinking>
-To create this form, I considered the following:
-
-1. The form's purpose is to collect information about a virtual event, specifically about a photo upload associated with it.
-2. The form will likely be used for events that are not live, such as online webinars, virtual meetings, or conferences.
-3. The form should be easy to understand and complete, with clear instructions and explanations for each field.
-</thinking>
-
 # photo_upload_for_virtual_assessment - Help Guide
 ## Purpose
 The photo_upload_for_virtual_assessment form is used to collect information about a virtual event and upload photos associated with it. This form will help you provide accurate and complete data for the event.

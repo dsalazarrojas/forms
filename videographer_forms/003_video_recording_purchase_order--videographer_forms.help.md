@@ -1,11 +1,3 @@
-<thinking>
-
-The Video Recording Purchase Order form is designed to gather information from clients for video recording services. This form is meant to be filled out by clients to provide details about their upcoming event, including the event date, time, location, and recording requirements. The form is essential for the videographer to understand the client's needs and preferences, ensuring that the video recording service is delivered efficiently and accurately.
-
-Before filling out the form, please ensure you have all the necessary information about your event and the services you require. This form should not be filled out if you are an event organizer or videographer, as it is intended for clients to provide details about their events.
-
-</thinking>
-
 # Video Recording Purchase Order - Help Guide
 ## Purpose
 This form is designed to gather information from clients for video recording services.

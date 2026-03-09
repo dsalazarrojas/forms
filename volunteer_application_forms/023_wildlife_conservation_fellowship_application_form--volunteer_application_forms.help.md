@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the Wildlife Conservation Fellowship Application Form. The purpose of this form is to collect information about the applicant's contact information, personal details, conservation experience, motivation, availability, and other relevant facts. This form is used to process applications for the Wildlife Conservation Fellowship program. Please ensure that you have read and understood the eligibility criteria and program details before proceeding with the application. Also, be aware that some fields are required, marked with a star (*) symbol.
-</thinking>
-
 # Wildlife Conservation Fellowship Application Form - Help Guide
 ## Purpose
 The Wildlife Conservation Fellowship Application Form is designed to collect information about your contact information, personal details, conservation experience, motivation, and other relevant facts for the Wildlife Conservation Fellowship program.

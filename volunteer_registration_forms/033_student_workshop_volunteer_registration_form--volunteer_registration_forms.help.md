@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Student Workshop Volunteer Registration Form is to collect information from students who want to volunteer for a workshop. This form is likely used for internal tracking and organization purposes, and the goal is to gather relevant details about each volunteer. Before proceeding, ensure that this form is not already filled out for the same person or a duplicate submission is not intended.
-</thinking>
-
 # Student Workshop Volunteer Registration Form - Help Guide
 ## Purpose
 The Student Workshop Volunteer Registration Form is used to collect information from students who want to volunteer for a workshop. This form is used to gather details about each volunteer for internal tracking and organization purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Check In Form - Help Guide
 
 ## Purpose

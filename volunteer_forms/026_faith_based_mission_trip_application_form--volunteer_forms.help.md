@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # faith_based_mission_trip_application_form - Help Guide
 ## Purpose
 The Faith-Based Mission Trip Application Form is designed to gather information from volunteers participating in faith-based missions. This form helps us understand the participant's background, trip details, contact information, payment details, and other relevant aspects that are essential for a successful mission trip.

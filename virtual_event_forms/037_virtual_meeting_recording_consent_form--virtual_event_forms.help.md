@@ -1,10 +1,3 @@
-<thinking>
-To confirm that the form is intended to be used for obtaining consent from participants in virtual meetings to be recorded, and to ensure that the form is not duplicated or unnecessary for meetings that have already been recorded or consent has been obtained through other means.
-
-The purpose of this form is to obtain explicit consent from participants in virtual meetings to be recorded. This is to ensure that participants are aware of and agree to the recording of their virtual meeting. The form is designed to be used for meetings that have not already been recorded or for which consent has not been obtained through other means.
-
-</thinking>
-
 # Virtual Meeting Recording Consent Form - Help Guide
 ## Purpose
 The Virtual Meeting Recording Consent Form is used to obtain explicit consent from participants in virtual meetings to be recorded. This form ensures that participants are aware of and agree to the recording of their virtual meeting.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from potential volunteers for the Open Resource Sharing Community. This form will help the community to match volunteers with individuals or organizations in need of help in specific areas such as emergency food, shelter, or housing. The form is designed to be completed by the volunteer, providing them with a chance to introduce themselves, share their contact information, and specify their areas of interest and expertise. The form will then be used by the community to facilitate connections and resource sharing between volunteers and those in need.
-
-This form will only be used for registration and matching purposes, and the collected information will not be shared with any external parties.
-</thinking>
-
 # Open Resource Sharing Community Registration - Help Guide
 ## Purpose
 This form is designed to collect registration information from potential volunteers for the Open Resource Sharing Community. This information will be used to match volunteers with individuals or organizations in need of help in specific areas.

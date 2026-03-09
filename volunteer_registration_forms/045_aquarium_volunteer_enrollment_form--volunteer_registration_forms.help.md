@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for people who want to volunteer at the aquarium. It allows them to provide personal information, specify their volunteer preferences, and share their availability and skills. The form is designed to be completed by individuals who want to contribute their time and skills to the aquarium's activities and events. 
-
-To avoid duplication, please only submit this form if you have not already registered as a volunteer with us in the past. 
-
-This form will help the aquarium's volunteer coordinator to get a better understanding of your preferences and skills, making it easier for you to be matched with the best-suited volunteer tasks.
-
-</thinking>
-
 # Aquarium Volunteer Enrollment Form - Help Guide
 ## Purpose
 This form is intended for people who want to volunteer at the aquarium. It allows them to provide personal information, specify their volunteer preferences, and share their availability and skills.

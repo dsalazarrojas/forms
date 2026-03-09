@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from volunteers who want to participate in green energy-related initiatives. The form is designed to gather essential details such as name, contact information, and availability for volunteer work. This guide will walk through the form fields and explain each step to ensure users understand what is required and how to complete the form accurately.
-
-Before proceeding, please note that this form is intended for volunteer registration. If you're not a volunteer, you may not need to complete this form. Additionally, if you have already registered as a volunteer, please do not complete this form again. Your existing registration will be used for future volunteer opportunities.
-
-</thinking>
-
 # green_energy_volunteer_registration_form - Help Guide
 ## Purpose
 The green energy volunteer registration form is designed to collect information from individuals who wish to participate in green energy-related initiatives. This form helps us understand your availability, contact details, and role in the volunteering process.

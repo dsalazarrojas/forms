@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for renewing access to a virtual event. It appears to be a multi-page form where users can input information related to the event they wish to access. The pages and fields seem to be focused on payment and event details. There might be some overlap between pages (e.g., payment method and payment details), which could be clarified in the form's instructions to ensure a smooth user experience. It's also possible that some fields might be required or optional depending on the user's choices. A good help guide should break down the form into sections that make sense for the user and provide clear guidance on how to complete each field.
-</thinking>
-
 # Virtual Event Access Renewal Form - Help Guide
 ## Purpose
 The Virtual Event Access Renewal Form is used to update and renew access to a virtual event. This form is designed to collect necessary information from attendees to ensure they can access the event.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for video releases, which involves obtaining consent from individuals or entities to use their footage or images in a commercial or non-commercial capacity. This form ensures that all necessary parties are informed and agree to the terms of use. The form should only be filled out once per individual or entity. Please ensure that you have obtained the necessary permissions and understand the implications of the purpose released before filling out this form.
-</thinking>
-
 # Video Release Form - Help Guide
 ## Purpose
 The Video Release Form is designed to obtain consent from individuals or entities to use their footage or images in a commercial or non-commercial capacity. This form ensures that all necessary parties are informed and agree to the terms of use.

@@ -1,5 +1,3 @@
-<thinking>Internal note: The Zoom Appointment Form is designed to collect information for virtual events, allowing users to schedule appointments with providers. The form should only be filled out by users who are not already scheduled to appear as providers. Each field should be explained clearly, and required fields should be marked as such. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each section.</thinking>
-
 # Zoom Appointment Form - Help Guide
 ## Purpose
 The Zoom Appointment Form is designed for users to schedule appointments with providers for virtual events. This form will help you gather necessary information to facilitate a smooth and organized appointment process.

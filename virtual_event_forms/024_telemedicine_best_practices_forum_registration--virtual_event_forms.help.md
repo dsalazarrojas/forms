@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is for individuals to register for the Telemedicine Best Practices Forum, which is a platform for healthcare professionals and experts to share knowledge and discuss best practices in the field of telemedicine. The form is used to collect demographic information and interests of the registrant, as well as their consent to the terms and conditions of the forum. It is essential to fill out the form accurately and completely to ensure that the registrant's information is correctly recorded and that they are aware of the forum's guidelines and expectations. Before filling out the form, please ensure that you are not a duplicate registration and that your information is up-to-date.
-</thinking>
-
 # Telemedicine Best Practices Forum Registration - Help Guide
 ## Purpose
 This guide will walk you through the registration process for the Telemedicine Best Practices Forum. Please follow the instructions carefully to ensure a successful and accurate registration.

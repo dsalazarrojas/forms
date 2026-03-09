@@ -1,18 +1,3 @@
-<thinking>
-
-To create an effective user-facing help guide for the "Volunteer Interest Form," we first need to understand its purpose and the reasoning behind it. As an expert form designer and technical writer, I assume this form is intended for individuals to express their interest in volunteering with an organization. The goal is to gather information about each volunteer's availability and commitment levels to volunteer. The form is likely used to manage volunteer registrations and prevent duplication of efforts or misaligned expectations. 
-
-The form's purpose may be to:
-
-- Gather personal details such as first name, last name, and email
-- Collect volunteer interest and availability information
-- Identify potential volunteers for future opportunities
-- Prevent duplicate registrations
-
-Before proceeding, it's essential to review the form's fields and their intended use.
-
-</thinking>
-
 # Volunteer Interest Form - Help Guide
 ## Purpose
 The Volunteer Interest Form is designed to collect information about individuals who are interested in volunteering with our organization. This form helps us understand each volunteer's availability, interests, and commitment levels. Please complete this form to express your interest in becoming a volunteer.

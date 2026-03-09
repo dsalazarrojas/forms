@@ -1,5 +1,3 @@
-<thinking>As a student volunteer, you're about to take on a significant role in our ministry team! This form is your chance to share your availability and interests with us. Before you start, please ensure that you're not already registered as a volunteer with us, and that you're not applying for a specific project that has already been filled. Your application will be reviewed, and we'll get back to you with further instructions. If you have any questions or concerns, don't hesitate to reach out to us.</thinking>
-
 # Student Ministry Volunteer Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from students interested in joining our ministry team. We use this information to understand your availability, skills, and preferences, which helps us to place you in suitable volunteer roles.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for travelers to apply for volunteer support services, providing essential information about themselves, their travel plans, and emergency contacts. The purpose of this form is to gather relevant details to assist travelers in need. Please ensure that you are submitting this form for the correct purpose and not duplicating an existing application.
-</thinking>
-
 # Traveler Support Volunteer Application Form - Help Guide
 ## Purpose
 The Traveler Support Volunteer Application Form is designed to collect information from travelers who require support during their journey. This form helps us understand your needs and provide the necessary assistance.

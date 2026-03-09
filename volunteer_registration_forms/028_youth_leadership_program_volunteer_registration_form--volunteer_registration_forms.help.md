@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for volunteers to register for the Youth Leadership Program. It collects contact information and volunteer preferences to match volunteers with suitable roles and activities. Please ensure you have filled out any required fields before submitting the form. Duplicate submissions are not allowed. 
-</thinking>
-
 # Youth Leadership Program Volunteer Registration Form - Help Guide
 ## Purpose
 The Youth Leadership Program Volunteer Registration Form is a tool for volunteers to register for the program. It collects information on contact details and volunteer interests to match volunteers with suitable roles and activities.

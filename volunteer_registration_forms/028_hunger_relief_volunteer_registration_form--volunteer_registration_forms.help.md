@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential volunteers who want to join a hunger relief program. The form is not intended for existing volunteers who have already registered with the program, so please do not fill out this form if you have already registered. The form will ask for basic contact information and availability details to help us match you with suitable volunteer opportunities. If you are unsure about any of the fields, please refer to the explanations below for guidance.
-</thinking>
-
 # Hunger Relief Volunteer Registration Form - Help Guide
 ## Purpose
 This form collects information from potential volunteers for the hunger relief program. It is not intended for existing volunteers.

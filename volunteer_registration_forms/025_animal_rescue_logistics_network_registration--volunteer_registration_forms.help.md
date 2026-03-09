@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animal Rescue Logistics Network Registration - Help Guide
 
 ## Purpose

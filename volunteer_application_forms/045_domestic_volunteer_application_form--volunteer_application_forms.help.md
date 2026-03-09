@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Domestic Volunteer Application Form - Help Guide
 ## Purpose
 The Domestic Volunteer Application Form is designed to gather information from potential volunteers to assess their qualifications and preferences for domestic volunteer opportunities. This form helps our team to determine the best fit for our domestic volunteers and ensures that we have accurate and up-to-date information about each applicant.

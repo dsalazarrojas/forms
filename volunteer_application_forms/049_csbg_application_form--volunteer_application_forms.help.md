@@ -1,11 +1,3 @@
-<thinking>CSBG Application Form - Help Guide
-
-The CSBG Application Form is designed to collect information about organizations that are applying for funding through the Community Development Block Grant (CSBG). This form is used to gather data about the organization's identity, services, and goals to ensure that the application process is completed accurately and thoroughly.
-
-Before starting the application process, please ensure that you are not duplicating an existing application. If you have already submitted an application, please do not resubmit. The CSBG Application Form is intended for new applicants only.
-
-Please review the form carefully and answer all questions accurately to avoid any issues during the application process.</thinking>
-
 # CSBG Application Form - Help Guide
 ## Purpose
 The CSBG Application Form is designed to collect information about organizations that are applying for funding through the Community Development Block Grant (CSBG). This form is used to gather data about the organization's identity, services, and goals.

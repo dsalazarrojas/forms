@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Education Volunteer Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who wish to volunteer with our organization in an educational capacity. The form will be used to determine the best fit for each volunteer and to ensure that our organization is in compliance with any relevant laws and regulations. Please only submit one application per person.

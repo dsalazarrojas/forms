@@ -1,16 +1,3 @@
-<thinking>
-This is a form designed for capturing information about veterinary technology prototype applications. The form is used for submitting and managing veterinary technology prototype applications. It is intended for veterinarians, researchers, and other veterinary professionals who want to submit their applications for review. This form is likely used by a veterinary organization, university, or research institution.
-
-Before proceeding, ensure that you are familiar with the application process and that you are submitting a complete and accurate application. Review the available options and instructions to ensure that you are using the correct fields and format for your submission.
-
-This form may not be suitable for all users, and you should only use it if you are authorized to do so.
-
-The purpose of this form is to collect detailed and standardized information about veterinary technology prototype applications. Please note that this form is subject to change as the application process evolves.
-
-Please review the following fields and instructions carefully before proceeding.
-
-</thinking>
-
 # veterinary_technology_prototype_application - Help Guide
 ## Purpose
 The veterinary_technology_prototype_application form is used for submitting and managing veterinary technology prototype applications.

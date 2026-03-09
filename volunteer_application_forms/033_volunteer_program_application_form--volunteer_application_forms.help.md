@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Program Application Form - Help Guide
 
 ## Purpose

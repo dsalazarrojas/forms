@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to sign up as volunteers for GoCardless, a platform that provides financial aid to those in need. This form is used to collect information about the volunteer's personal details, such as their name, contact information, and date of birth. This form is only meant for individuals who are signing up as volunteers, and not for users who are seeking financial aid through GoCardless. Please ensure that you are submitting this form in the correct capacity and not duplicating your effort.
-</thinking>
-
 # GoCardless Volunteer Membership Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals interested in volunteering with GoCardless. Please complete the form with your personal details and contact information to sign up as a volunteer.

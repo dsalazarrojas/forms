@@ -1,11 +1,3 @@
-<thinking>...checking form purpose and requirements for relevance and non-duplication...
-
-The Virtual Stay At Home Festival Registration Form is designed to collect essential information from attendees about their preferences for virtual events organized by our organization. This form helps us understand who wants to participate, what type of events they are interested in, and how they would like to receive communication from us.
-
-Before filling out the form, please make sure that you have not previously registered for the same festival, as duplicate registrations might cause unnecessary administrative tasks. 
-
-</thinking>
-
 # Virtual Stay At Home Festival Registration Form - Help Guide
 ## Purpose
 This form is meant to gather attendee details for virtual events. Please complete it to let us know about your festival preferences.

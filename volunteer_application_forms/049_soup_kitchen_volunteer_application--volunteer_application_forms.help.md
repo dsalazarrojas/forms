@@ -1,7 +1,3 @@
-<thinking>
-This form is for individuals who want to volunteer at the soup kitchen. The purpose of this form is to collect information about the volunteer's contact details and availability for volunteering. The information will be used to assign the volunteer to available shifts at the soup kitchen.
-</thinking>
-
 # Soup Kitchen Volunteer Application - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the soup kitchen volunteer application form.

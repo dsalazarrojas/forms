@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for students to apply to become volunteers in a ministry setting. The form collects contact details, volunteer information, volunteer preferences, and committee assignments. To ensure relevance and non-duplication, please note that:
-
-* This form is not affiliated with, endorsed by, or derived from any form platform.
-* The form is an original adaptation created using only public survey topic metadata.
-* This form is released under CC BY 4.0 license, allowing you to use, modify, and distribute it freely.
-* Please contact [form@gic.mx](mailto:form@gic.mx) for any questions or concerns.
-</thinking>
-
 # Student Ministry Volunteer Application Form - Help Guide
 ## Purpose
 The Student Ministry Volunteer Application Form is designed to collect information from students who are interested in volunteering with the ministry. The form helps us to understand their contact details, volunteer information, and preferences to match them with suitable volunteer opportunities.

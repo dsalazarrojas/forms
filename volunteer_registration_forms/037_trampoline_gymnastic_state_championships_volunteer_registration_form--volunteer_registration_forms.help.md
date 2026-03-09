@@ -1,7 +1,3 @@
-<thinking>
-This form is used for volunteers to register for the Trampoline Gymnastic State Championships. The form will be used to collect information from volunteers who are interested in volunteering for the event, including their name, availability, and contact information. This information will be used to schedule volunteers for different shifts and time blocks during the event. It is recommended that volunteers only register once per person, using the provided form to ensure accurate and efficient volunteer scheduling.
-</thinking>
-
 # Trampoline Gymnastic State Championships Volunteer Registration Form - Help Guide
 ## Purpose
 This form is for volunteers who want to sign up for the Trampoline Gymnastic State Championships. We use this form to collect information about your availability and contact details so we can schedule you for shifts and time blocks during the event.

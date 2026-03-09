@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who need to create a virtual event form for Shamrock Shindig. The form is used to collect information for events hosted by Shamrock Shindig. This form should only be used for events that are related to Shamrock Shindig, and users should not attempt to use it for other purposes. 
-</thinking>
-
 # Shamrock Shindig - Help Guide
 ## Purpose
 The Shamrock Shindig form is used to collect information for events hosted by Shamrock Shindig. This form helps event organizers gather and store data for their virtual events.

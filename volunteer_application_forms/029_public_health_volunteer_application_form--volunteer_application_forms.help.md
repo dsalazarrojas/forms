@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who wish to volunteer for public health efforts. This form is designed to gather essential details about the volunteer's personal and professional background, medical history, and contact information. It is intended for volunteers who are interested in participating in public health initiatives, and the data collected will be used to assess their suitability for these roles.
-Before filling out this form, please note that you are not committing to volunteering until you have been formally accepted as a volunteer. This form is not meant to be a commitment, but rather an expression of interest in volunteering. Also, please ensure that all the information provided is up-to-date and accurate, as it will be reviewed and used for assessment purposes.
-</thinking>
-
 # public_health_volunteer_application_form - Help Guide
 ## Purpose
 The public health volunteer application form is designed to collect information from individuals interested in volunteering for public health efforts.

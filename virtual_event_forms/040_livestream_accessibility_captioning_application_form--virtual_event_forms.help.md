@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect information from event organizers or administrators to request accessibility captioning services for their live streams or events. The purpose of this form is to provide a standardized way for event organizers to submit their requests for accessibility captioning, including the platform they are using, the start and end times of the event, and the specific accessibility features they require.
-
-This form will help the event organizers to:
-
-* Ensure that their live streams are accessible to a wider audience, including people with disabilities.
-* Provide a way for event organizers to request captioning services that are tailored to their specific needs.
-* Help the event organizers to provide a more inclusive experience for all attendees.
-
-The form will help the administrators to:
-
-* Receive and manage requests for accessibility captioning services.
-* Provide a clear understanding of the event details and accessibility needs.
-* Ensure that the captioning services are provided in a timely and efficient manner.
-
-</thinking>
-
 # Livestream Accessibility Captioning Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from event organizers or administrators to request accessibility captioning services for their live streams or events.

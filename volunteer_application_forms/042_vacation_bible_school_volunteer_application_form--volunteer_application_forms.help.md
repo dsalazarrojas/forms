@@ -1,11 +1,3 @@
-<thinking>
-
-To help us better understand the purpose and goals of this form, here's a brief internal reasoning block:
-
-This form is designed to collect information from interested individuals who want to volunteer for the Vacation Bible School program. The form asks for personal details such as name, email, and phone number, as well as information about their availability and preferences. By filling out this form, applicants can indicate their interest in specific roles, dates, and activities, which will help the program coordinators schedule volunteers effectively. The form also includes fields for available hours, volunteer hours, and volunteer status, which will help the program manage volunteer commitments and availability. Overall, this form aims to streamline the volunteer application process and ensure that the right volunteers are matched with the right roles and activities.
-
-</thinking>
-
 # Vacation Bible School Volunteer Application Form - Help Guide
 
 ## Purpose

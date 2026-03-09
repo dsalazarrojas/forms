@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about attendees and staff members for the Virtual Education Fair. The form is used to gather contact information and confirm event details. Please note that the form has been designed to be completed by both attendees and staff members. To ensure accuracy, make sure to fill in all required fields.
-</thinking>
-
 # Virtual Education Fair Form - Help Guide
 ## Purpose
 This form is used to collect information from attendees and staff members for the Virtual Education Fair.

@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, I will review the form's purpose, functionality, and content to ensure I understand its goals and requirements.</thinking>
-
 # Animated Feature Elimination Game - Help Guide
 ## Purpose
 The Animated Feature Elimination Game is a voting game that allows participants to eliminate features one by one until only one remains. The game aims to determine the most popular animated feature among the six provided options: Hand-drawn Animation, CGI 3D Animation, Stop-Motion Animation, Motion Capture Technology, Traditional Cel Animation, and Digital Vector Animation.

@@ -1,7 +1,3 @@
-<thinking>
-The facilitator questionnaire form is designed to gather information from facilitators who will be working with our organization. This form ensures that we have accurate and up-to-date information about each facilitator, which helps us to effectively manage our relationships and provide the best possible experience for our clients. This form should only be completed by facilitators who have been previously contacted or have a confirmed appointment with our organization. Completing this form will help us to verify your contact information, understand your setup requirements, and keep you updated on upcoming events and opportunities. Please make sure to fill out the form accurately and completely.
-</thinking>
-
 # facilitator_questionnaire - Help Guide
 ## Purpose
 The facilitator questionnaire form is designed to gather essential information from facilitators who will be working with our organization. This form helps us to verify contact details, understand setup requirements, and keep facilitators informed about upcoming events and opportunities.

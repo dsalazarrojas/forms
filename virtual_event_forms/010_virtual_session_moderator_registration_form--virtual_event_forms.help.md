@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information from potential moderators for virtual sessions. The purpose of this form is to identify individuals who are interested in moderating virtual events and sessions, and to collect their details for further review and consideration. Moderators play a crucial role in ensuring the smooth and successful execution of virtual events, and this form helps to assess their suitability and availability for such roles. It's essential to provide accurate and honest information in this form, as it will be used to determine if you are a good fit for our virtual events.
-
-Before filling out this form, please ensure that you have read and understood the instructions and guidelines provided. If you have previously filled out this form, please note that this is a new submission and you will need to fill it out again if you wish to be considered for future virtual events.
-
-Please note that the answers to this form will be reviewed and assessed by our team, and you will be contacted if further information is required. If you have any questions or concerns, please don't hesitate to reach out to us.
-</thinking>
-
 # Virtual Session Moderator Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from potential moderators for virtual sessions. It helps us assess your suitability and availability for moderating virtual events.

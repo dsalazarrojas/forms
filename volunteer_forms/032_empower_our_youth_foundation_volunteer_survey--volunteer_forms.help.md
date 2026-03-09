@@ -1,8 +1,3 @@
-<thinking>
-This form is a volunteer survey designed to gather information from volunteers of the Empower Our Youth Foundation. The purpose of this form is to collect feedback and opinions from volunteers on various aspects of the foundation's programs and services. The survey aims to understand the volunteers' experiences, challenges, and suggestions for improvement. The form consists of multiple sections, including Volunteer Forms, Youth Forms, Community Forms, Nonprofit oraganizations, Forms, and Survey Questions. Each section contains a mix of multiple-choice questions and open-ended text fields. The form is not required to be completed in full, and users can choose to answer only the questions they feel are relevant to their experiences.
-Before starting this form, please note that all fields are optional unless otherwise specified. You can navigate through the form using the provided links or buttons.
-</thinking>
-
 # empower-our-youth-foundation-volunteer-survey - Help Guide
 ## Purpose
 This form is a volunteer survey designed to gather information from volunteers of the Empower Our Youth Foundation. The survey aims to understand volunteers' experiences, challenges, and suggestions for improvement.

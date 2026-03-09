@@ -1,14 +1,3 @@
-<thinking>
-A senior outreach volunteer registration form is designed to capture the information of volunteers who are interested in participating in senior outreach programs. The form aims to gather data on their name, contact details, availability, interests, and preferred volunteer type. 
-
-Before starting to fill out this form, please ensure you have not already registered as a volunteer. If you have previously registered, you may be able to access your existing account to view or update your information.
-
-This form is used by the organization to match volunteers with suitable opportunities based on their availability, interests, and volunteer type. The more accurate and detailed information you provide, the better the organization can match you with suitable roles and activities.
-
-Please note that some fields are required and will be marked as such in the form. Providing accurate and honest information is crucial in ensuring a successful matching process.
-
-</thinking>
-
 # Senior Outreach Volunteer Registration - Help Guide
 ## Purpose
 The Senior Outreach Volunteer Registration form is designed to register volunteers for senior outreach programs. It captures essential information to match volunteers with suitable opportunities based on their availability, interests, and volunteer type.

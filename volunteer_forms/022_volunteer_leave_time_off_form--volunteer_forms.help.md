@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture information related to volunteer leave time off requests. Volunteer time off requests can be for various reasons such as personal reasons, vacation, or family emergencies. 
-This form is intended to ensure that the request and its status are properly documented, and that the volunteer's manager is notified. This form should only be filled out when a volunteer has already been informed about the possibility of filling out this form. 
-The fields are designed to be filled out by the volunteer themselves, and the manager can then access the form to approve or deny the leave.
-</thinking>
-
 # Volunteer Leave Time Off Form - Help Guide
 ## Purpose
 This form is used to request time off from volunteer duties for a specific period. The form captures essential details such as the start and end dates of the leave, the reason for the request, and the status of the request.

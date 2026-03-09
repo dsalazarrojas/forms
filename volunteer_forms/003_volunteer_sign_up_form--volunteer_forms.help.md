@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from volunteers for various shifts and dates. The form is used to determine a volunteer's availability and preferences. This helps the volunteer coordinator to efficiently manage volunteer schedules and match volunteers with available shifts.
-To avoid duplication and ensure accurate information, we encourage volunteers to fill out one form per volunteer role. If you have filled out this form previously, you may not need to complete it again. Please note that some fields are optional, so you can submit the form with only the required information.
-</thinking>
-
 # volunteer_sign_up_form - Help Guide
 ## Purpose
 The volunteer sign-up form is used to collect information from volunteers for various shifts and dates. This form helps the volunteer coordinator to match volunteers with available shifts and schedule volunteer tasks efficiently.

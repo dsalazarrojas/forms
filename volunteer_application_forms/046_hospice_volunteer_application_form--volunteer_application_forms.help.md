@@ -1,14 +1,3 @@
-<thinking>
-This guide is intended for individuals who are interested in becoming a volunteer at a hospice organization. The purpose of this form is to collect information about the volunteer's personal and professional background, their availability and commitment to volunteering, and their understanding and agreement to the terms and conditions of volunteering at the hospice. The form will be reviewed and used to assess the volunteer's eligibility and suitability for the hospice volunteer program.
-
-Before completing this form, it is recommended that you carefully read and understand all the questions and options provided. If you have any questions or concerns, please do not hesitate to reach out to us for assistance.
-
-This form is divided into several sections, each with its own set of questions and options. Please answer all questions honestly and accurately, and make sure to provide as much detail as possible in your responses.
-
-It is also important to note that all sections of this form are required, and failure to complete them may delay or prevent your application from being processed.
-
-</thinking>
-
 # Hospice Volunteer Application Form - Help Guide
 ## Purpose
 The Hospice Volunteer Application Form is a collection of questions that help us understand your background, availability, and commitment to volunteering at our hospice. Completing this form will help us assess your suitability for our volunteer program.

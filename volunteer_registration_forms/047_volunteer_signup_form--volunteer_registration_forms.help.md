@@ -1,11 +1,3 @@
-<thinking>
-The form "Volunteer Signup Form" is used for volunteers who want to sign up to participate in various projects and activities. This form collects information about the volunteer, such as their name, contact details, skills, and preferences. The form also asks about the volunteer's availability and confirmations for specific dates and times.
-
-Before filling out this form, please ensure that you are not a duplicate entry. If you have already signed up as a volunteer in the past, your information may be already in the system, and filling out this form again might cause unnecessary duplication of your data.
-
-Also, please fill out the form carefully, as some fields may affect your assignment to specific projects or tasks. For example, filling out specific skills or roles may influence your assignment to particular projects or tasks.
-</thinking>
-
 # Volunteer Signup Form - Help Guide
 ## Purpose
 The Volunteer Signup Form is designed to collect information from volunteers who want to participate in various projects and activities. By filling out this form, you will be able to express your interest in specific projects, tasks, and dates.

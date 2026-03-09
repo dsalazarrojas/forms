@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # cultural_representation_group_application_form - Help Guide
 
 ## Purpose

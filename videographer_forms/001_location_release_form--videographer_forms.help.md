@@ -1,14 +1,3 @@
-<thinking>
-This form is used to obtain a location release from a property owner or manager, typically for the purpose of filming or shooting a video. This form helps to ensure that all necessary permissions and information are gathered before commencing such activities. It is likely that this form will be used by production teams to secure the necessary permissions from property owners or managers for commercial, film, or video productions. 
-
-The form is likely to be used by production teams to ensure that they have the necessary information and permissions to proceed with their shoots. The fields on this form should be self-explanatory and the purpose of this guide is to provide additional clarity for users who may be unfamiliar with the form or its fields. 
-
-Please ensure that you have reviewed the form fields and their explanations to ensure that you understand the purpose and requirements of this form. 
-
-Note that the form has been designed with the following fields: location name, contact name, organization name, email, phone, address, date, time, location type, release type, release duration, release description, signature, signature date, time, contact, signature email, signature phone, signature address, and notes. 
-
-</thinking>
-
 # Location Release Form - Help Guide
 ## Purpose
 This form is used to obtain a location release from a property owner or manager, typically for commercial, film, or video productions.

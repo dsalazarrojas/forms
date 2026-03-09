@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are requesting virtual event equipment for their events. The form is likely to be used by event organizers or coordinators to provide details about their events and the equipment they need to make them successful. Before submitting this form, please ensure that you have not already submitted a request for the same event in the past. This is to prevent non-duplication of effort and to help the equipment team prioritize requests efficiently.
-</thinking>
-
 # Virtual Event Equipment Request Form - Help Guide
 ## Purpose
 The Virtual Event Equipment Request Form is used to request virtual event equipment for your events.

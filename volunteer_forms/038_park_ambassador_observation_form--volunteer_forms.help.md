@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "park_ambassador_observation_form," is to collect data from volunteers who observe and report on park conditions. This form aims to gather information on the state of park benches, picnic tables, and other park features. It is designed to track observations and maintenance needs of parks. 
-</thinking>
-
 # park_ambassador_observation_form - Help Guide
 ## Purpose
 This form is used to collect observations from volunteers on park conditions, helping to identify areas that require maintenance.

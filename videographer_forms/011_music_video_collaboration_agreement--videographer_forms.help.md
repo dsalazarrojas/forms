@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in completing the Music Video Collaboration Agreement form, which is used to outline the terms and conditions of music video collaborations between clients and videographers. This guide will cover the form's purpose, how to complete it, and a detailed explanation of each field.
-
-Before proceeding, a brief internal reasoning block is required to ensure the form's purpose and non-duplication. The form is designed to facilitate clear communication and understanding between clients and videographers on music video collaborations, including project leads, details, and terms of collaboration. 
-
-</thinking>
-
 # Music Video Collaboration Agreement - Help Guide
 ## Purpose
 The Music Video Collaboration Agreement is a form used to outline the terms and conditions of music video collaborations between clients and videographers. This guide will help you complete the form accurately and ensure a smooth collaboration process.

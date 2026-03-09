@@ -1,5 +1,3 @@
-<thinking>... This form is designed to help individuals sign up as volunteers for an event. It collects basic information about the event, such as the date, time, and location, as well as the volunteer's details. This form is not associated with any specific platform, and its purpose is to provide a simple and easy-to-use interface for volunteers to sign up for events. It's essential to ensure that this form is used correctly to avoid duplication of efforts or incorrect sign-ups. ...</thinking>
-
 # Volunteer Sign Up Form - Help Guide
 ## Purpose
 The purpose of this form is to collect basic information from volunteers who want to sign up for an event. It's designed to be easy to use and understand.

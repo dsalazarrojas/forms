@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I will first review the provided YAML fields and ensure that I understand their purpose and functionality. From the provided YAML, I see that this form collects information from potential volunteers, including their personal details such as name, email, phone, address, country, state, volunteer date, availability, shift preferences, skills, interests, languages, experience, education, and other relevant details. The form appears to be used for volunteer registration, and it's essential to ensure that the end-users understand how to complete it correctly. I will now proceed to create the help guide for the form.</thinking>
-
 # New Volunteer Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential volunteers for registration purposes. Please fill out the form accurately to help us understand your availability and preferences for volunteering.

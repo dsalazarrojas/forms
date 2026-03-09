@@ -1,11 +1,3 @@
-<thinking>
-We need to make sure this form is clear and easy to fill out for our volunteers, and that they understand the purpose and required information for each field. 
-
-The form is designed for volunteers who want to join our arts and crafts program. We need to know about their full name, email, age, availability, artistic or craft skills, previous experience, preferred roles, t-shirt size, medical information, consent to use photos, and date of registration. 
-
-The form also needs to prevent duplication of registrations and ensure that all required fields are filled out correctly. This will help us to process and match volunteers with the right activities and events.
-</thinking>
-
 # Arts And Crafts Volunteer Registration Form - Help Guide
 ## Purpose
 This form is for volunteers who want to join our arts and crafts program. We will use the information you provide to match you with suitable activities and events.

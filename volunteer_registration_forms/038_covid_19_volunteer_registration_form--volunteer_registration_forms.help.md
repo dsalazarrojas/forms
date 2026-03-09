@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for individuals who want to volunteer during the COVID-19 pandemic. The purpose of this form is to collect information about potential volunteers, including their personal details, availability, skills, and experience. Before starting, please note that this form should not be submitted by those who are not eligible or interested in volunteering.
-
-</thinking>
-
 # Covid 19 Volunteer Registration Form - Help Guide
 ## Purpose
 The Covid 19 Volunteer Registration Form is used to gather information from potential volunteers, which will help our organization to manage volunteer teams effectively during the COVID-19 pandemic.

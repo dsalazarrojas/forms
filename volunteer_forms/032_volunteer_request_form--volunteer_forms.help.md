@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and requirements of the volunteer request form. The form's internal logic checks for non-duplication and is used to collect information from potential volunteers. Please refer to the form's YAML schema for specific details on each field's properties.
-</thinking>
-
 # Volunteer Request Form - Help Guide
 ## Purpose
 The volunteer request form is designed to collect information from potential volunteers to facilitate the coordination and management of volunteer work. It's essential to provide accurate and complete information to ensure a smooth volunteer experience.

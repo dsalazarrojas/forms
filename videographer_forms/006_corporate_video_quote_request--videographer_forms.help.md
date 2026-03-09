@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form, "corporate_video_quote_request," is to capture essential details for video production projects. This form will likely be used by internal teams or external vendors to request video projects, providing a standardised and structured way to communicate project requirements. 
-To avoid duplication and redundancy in the project request process, the form should not be filled out for the same project by multiple users. 
-The form fields will guide users in collecting and providing necessary information, ensuring a comprehensive understanding of the project's scope and requirements. 
-The form should be filled out carefully, as the information collected will directly influence the project's progress and outcome.
-</thinking>
-
 # corporate_video_quote_request - Help Guide
 ## Purpose
 The corporate video quote request form is designed to gather essential details for video production projects. It helps internal teams or external vendors to understand project requirements in a structured and standardized way.

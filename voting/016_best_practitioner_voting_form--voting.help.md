@@ -1,18 +1,3 @@
-<thinking>Internal reasoning and duplication checks:
-
-This form is intended to collect information from voters about a specific practitioner in their field. To ensure the accuracy and integrity of the data, we have implemented the following checks:
-
-*   Each voter must provide their name and email to ensure the authenticity of the vote.
-*   The practitioner being nominated must be a real entity with a name, title, organization, and practice location.
-*   The vote must be cast within a specific category, such as Medical Practitioner or Legal Practitioner.
-*   A minimum of 5 years of practice is required to be eligible for nomination.
-*   The vote must be cast within a specific relationship duration with the practitioner.
-*   The voter must rate the practitioner's level of expertise, quality of care, communication skills, professionalism, and treatment outcomes.
-*   The voter must provide a reason for nominating the practitioner and a success story (optional).
-*   Finally, the voter must indicate if they would recommend the practitioner to others.
-
-These checks help to prevent duplicate or fake votes and ensure that the data collected is accurate and reliable.</thinking>
-
 # Best Practitioner Voting Form - Help Guide
 ## Purpose
 The Best Practitioner Voting Form is designed to gather information from voters about their experiences with practitioners in their field. This form helps to identify exceptional practitioners who deserve recognition and rewards.

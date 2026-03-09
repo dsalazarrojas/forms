@@ -1,5 +1,3 @@
-<thinking>As a technical writer, I need to ensure that this form is properly documented with clear instructions and explanations for end-users.</thinking>
-
 # Veterinary Services Application Form - Help Guide
 ## Purpose
 This form is designed to gather information about a pet's health and medical history for the veterinary clinic's records. It is used to schedule an appointment for the pet to receive veterinary services.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from volunteers who want to participate in book signing events. It is intended for individuals who are interested in volunteering for events like author meet-and-greets, book launches, and library book signings. The form aims to gather necessary contact information, volunteer preferences, and consent for background checks and photo releases. This form is a one-time registration and will not be duplicated for repeat volunteers.
-
-Before filling out this form, please make sure to choose the correct event you are interested in volunteering for and select your preferred volunteer role. If you are unsure about any of the options, please contact us for clarification.
-
-This form will take you around 10-15 minutes to complete and will require some personal and contact information, so please be prepared to spend some time on it.</thinking>
-
 # Book Signing Volunteer Registration - Help Guide
 ## Purpose
 This form is designed to collect information from volunteers interested in participating in book signing events.

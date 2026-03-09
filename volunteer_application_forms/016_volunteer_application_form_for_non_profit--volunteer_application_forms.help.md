@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Volunteer Application Form For Non Profit - Help Guide
 ## Purpose
 This form is designed to gather information from individuals interested in volunteering with non-profit organizations. It collects general information about the non-profit, the user, and their contact details, as well as their application and volunteer information.

@@ -1,5 +1,3 @@
-<thinking> This guide helps users understand the purpose of the detailed volunteer registration form and how to complete it correctly. The form is designed to gather information from volunteers about their personal details, volunteer experience, and availability. The guide will cover the form's purpose, how to fill it out, and a field-by-field explanation of each section. This form is intended for volunteers who are registering for various activities or events. </thinking>
-
 # detailed_volunteer_registration_form - Help Guide
 ## Purpose
 The detailed volunteer registration form is designed to collect information from volunteers about their personal details, volunteer experience, and availability. This form helps us understand your role and how you can be involved in our activities. Please take a few minutes to fill out this form accurately and honestly.

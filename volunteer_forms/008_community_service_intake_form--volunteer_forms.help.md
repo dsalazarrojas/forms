@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who wish to volunteer with the organization. The purpose of this form is to ensure that potential volunteers provide accurate and complete information about themselves, which will be used to match them with volunteer opportunities that fit their skills, availability, and interests. The form should only be filled out by individuals who have not already submitted one for the same organization, to avoid duplication of efforts and ensure that each volunteer's data is up-to-date.
-</thinking>
-
 # Community Service Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who wish to volunteer with the organization. The form will be used to match potential volunteers with opportunities that fit their skills, availability, and interests.

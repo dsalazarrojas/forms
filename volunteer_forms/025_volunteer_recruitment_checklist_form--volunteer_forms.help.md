@@ -1,7 +1,3 @@
-<thinking>
-This is a help guide for the "volunteer_recruitment_checklist_form" form. The form's primary purpose is to gather information from potential volunteers about their qualifications, skills, and availability for specific tasks and requirements. It's essential to complete this form accurately to help the organization understand who is best suited for various roles within the team.
-</thinking>
-
 # volunteer_recruitment_checklist_form - Help Guide
 ## Purpose
 This form helps the organization understand your qualifications, skills, and suitability for volunteer opportunities. Please answer each question carefully and honestly to ensure that we can place you in a role that suits your skills and availability.

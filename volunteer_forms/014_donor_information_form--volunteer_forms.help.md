@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect information from donors, including their contact details, donation preferences, and donation history. The purpose of this form is to accurately capture donor data for efficient communication and to tailor donation campaigns to their needs. 
-
-When completing this form, please ensure that you are a representative of the donor and have their permission to fill out this form.
-
-Each field is designed to be completed by the donor themselves, but in some cases, the form will be filled out by a donor manager or other authorized representative. 
-
-Please ensure that all fields are filled out accurately and completely, as this information will be used to communicate with the donor and tailor donation campaigns to their specific needs.
-
-The following fields are required to be filled out for all donors: full name, email, donor type, donation frequency, and gift frequency.
-
-The following fields are optional but recommended for accurate and efficient communication: contact information, phone number, street, city, state, zip, and donation history.
-
-Please note that some fields have specific formatting requirements, such as the email field which should be a valid email address, and the donation frequency and gift frequency fields which should be chosen from the available options.
-
-</thinking>
-
 # Donor Information Form - Help Guide
 ## Purpose
 The Donor Information Form is designed to collect accurate and up-to-date information from donors, including their contact details, donation preferences, and donation history. This information is essential for efficient communication and tailor-made donation campaigns.

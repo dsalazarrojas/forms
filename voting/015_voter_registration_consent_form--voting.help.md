@@ -1,5 +1,3 @@
-<thinking>...The internal reasoning block is used to check if a user has already completed this form before, and if so, prevent them from completing it again. This form is intended to be a one-time registration process for voters, and we want to avoid duplicates to maintain the integrity of the voting process. We also want to ensure that users understand the purpose and instructions of the form correctly to avoid confusion or misinterpretation. This guide will help end users fill out the form accurately and efficiently...</thinking>
-
 # Voter Registration Consent Form - Help Guide
 ## Purpose
 This form is designed to collect consent from individuals who wish to participate in the voting process. It is a one-time registration process that verifies your identity and ensures you are a genuine voter.

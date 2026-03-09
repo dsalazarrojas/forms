@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect volunteer information for a project-based volunteer registration process. This form allows volunteers to provide their contact information, schedule preferences, and availability for a project. The form is designed to be completed by individuals who are interested in volunteering for a specific project, and the information collected will be used to coordinate volunteer activities and communicate with interested volunteers.
-
-Before proceeding, please ensure that you are registering for a project that you are genuinely interested in volunteering for. If you have registered for multiple projects previously, you may be asked to update your information to reflect the new project you are registering for.
-
-</thinking>
-
 # project_based_volunteer_form - Help Guide
 ## Purpose
 This form is used to register volunteers for a specific project. Please fill in the required information to ensure that you can be contacted and receive updates about the project.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Summer School Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from students who want to attend the Virtual Summer School. It will be used to organize and track student enrollment and communication with schools participating in the event.

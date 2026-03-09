@@ -1,7 +1,3 @@
-<thinking>
-The form is used for volunteer applicants to the Animal Rescue organization to provide their personal and contact information, skills, and availability to volunteer. This form is a crucial part of the application process, and its completion ensures that the applicant's details are accurately captured and processed efficiently. It is recommended that users only fill out this form once and ensure that all required fields are completed to avoid duplication of effort and potential errors.
-</thinking>
-
 # Volunteer Animal Rescue Application Form - Help Guide
 ## Purpose
 The Volunteer Animal Rescue Application Form is used to gather information from individuals interested in volunteering with the organization. This form is designed to collect contact details, skills, and availability for volunteer positions within the organization.

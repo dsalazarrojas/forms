@@ -1,10 +1,3 @@
-<thinking>
-This form is used to inquire about volunteer opportunities. It captures basic contact information and inquires about a volunteer opportunity with the option to select multiple skills and an organization affiliation.
-The main goal is to provide a quick and easy way to gather information from potential volunteers.
-Before filling out this form, please make sure to answer honestly and accurately.
-To ensure we don't duplicate effort, we will review the submitted forms before following up.
-</thinking>
-
 # volunteer_opportunity_inquiry_form - Help Guide
 ## Purpose
 The volunteer_opportunity_inquiry_form is used to provide information to potential volunteers about available opportunities for helping out in our organization.

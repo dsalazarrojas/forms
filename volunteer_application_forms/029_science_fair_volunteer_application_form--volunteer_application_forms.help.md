@@ -1,5 +1,3 @@
-<thinking>...The form is designed to gather information from volunteers for the Science Fair event. The form will help the organizers know who to contact and what role and availability the volunteer is willing to take on. It also collects emergency contact information and volunteer's education level and language proficiency. The form also captures the volunteers' availability to work on weekends or weekdays and requires an agreement to be signed before the volunteer can start working. This information will be used to efficiently manage the volunteers' work schedule and provide support in case of an emergency... </thinking>
-
 # Science Fair Volunteer Application Form - Help Guide
 ## Purpose
 

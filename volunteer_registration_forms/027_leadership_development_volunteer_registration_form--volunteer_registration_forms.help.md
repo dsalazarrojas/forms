@@ -1,5 +1,3 @@
-<thinking>Before creating this guide, let's clarify the purpose and requirements of the Leadership Development Volunteer Registration Form. The form is designed to collect information from potential volunteers interested in participating in leadership development opportunities within the organization. The form aims to gather essential details about the individual, their interests, availability, and skills to better understand their suitability for volunteer work. By filling out this form, individuals can express their interest in becoming a volunteer and provide relevant information for the organization to manage its volunteer program effectively. This guide will cover the form's purpose, the step-by-step instructions on how to complete it, and a detailed explanation of each field, ensuring that users understand what information is required and how to provide accurate and complete answers.</thinking>
-
 # Leadership Development Volunteer Registration Form - Help Guide
 
 ## Purpose

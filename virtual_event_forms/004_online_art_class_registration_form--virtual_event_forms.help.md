@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are registering for an online art class. The purpose of this form is to gather essential details such as the user's name, email, phone number, course name, start and end dates, time, registration fee, payment method, any additional notes, and the number of students. This form will likely be used by instructors or administrators to manage registrations and track class details.
-
-To ensure accurate and efficient completion of this form, please review each field carefully and follow the instructions below:
-
-</thinking>
-
 # Online Art Class Registration Form - Help Guide
 ## Purpose
 The Online Art Class Registration Form is designed to collect essential information from users who are registering for an online art class. This form will help instructors or administrators to manage registrations and track class details.

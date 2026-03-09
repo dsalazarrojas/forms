@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from individuals interested in participating in small group leader training sessions. This form is likely used for internal purposes within an organization, such as for event planning or coordination. To ensure that this form is filled out correctly, please check that you have permission to access it and that you are not duplicating your efforts by already being registered for the same training session.
-
-</thinking>
-
 # Small Group Leader Training Registration Form - Help Guide
 
 ## Purpose

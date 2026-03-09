@@ -1,10 +1,3 @@
-<thinking>
-This form is used for users to register for a virtual contest. The virtual contest can be a hackathon, competition, or other online event where participants submit their entries. The purpose of this form is to collect essential information from users about their entries, including entry details, category, and terms of participation.
-To determine if a form completion is relevant and not a duplication, we check the following:
-- The contest is not a physical event, hence it's virtual.
-- The user is not already registered for the same contest, which would be indicated by existing entries in the system with matching entry details.
-</thinking>
-
 # virtual-contest-registration-form - Help Guide
 ## Purpose
 This form is used for users to register their entries for a virtual contest. The contest can be a hackathon, competition, or other online event where participants submit their entries.

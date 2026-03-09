@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to obtain filming interview permission from the subject. The purpose of this form is to ensure that the videographer has the necessary permissions and information to conduct an interview with the subject. This form will be used to collect details such as the subject's information, filming details, location, contact information, release status, and signature. The form is crucial for both the subject and the videographer to ensure a smooth and legal filming experience.
-
-The form should only be completed when the videographer has been commissioned to film an interview with the subject. The subject should provide their information, details about the filming, location, and their contact information. The subject will also be asked to sign the release, indicating their consent to be filmed. The videographer should review the form carefully before proceeding with the filming.
-
-</thinking>
-
 # filming_interview_permission_form - Help Guide
 ## Purpose
 The Filming Interview Permission Form is a document used to obtain permission from the subject to conduct an interview. It ensures that both the subject and the videographer are aware of their responsibilities and rights during the filming process.

@@ -1,8 +1,3 @@
-<thinking>
-We need to verify that this form is for collecting data from people interested in volunteering at the hospital.
-No other forms with this name exist. This form likely serves as an entry point for individuals to express interest in volunteering, and it's likely that the medical certifications field is intended to capture any certifications that are relevant to volunteering, not necessarily clinical or medical certifications. This form might be used by hospital staff to screen or verify applicants' qualifications. 
-</thinking>
-
 # Hospital Volunteeer Application Form - Help Guide
 ## Purpose
 This form is used for individuals to express interest in volunteering at the hospital. It collects contact information and relevant medical certifications for review and potential follow-up.

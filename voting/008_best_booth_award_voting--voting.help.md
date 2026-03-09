@@ -1,12 +1,3 @@
-<thinking> 
-We need to determine the correct structure and content for this voting form help guide based on the provided YAML. This form seems to be for an event, such as a conference or trade show, where attendees vote for the "Best Booth" award. The purpose of this form is to collect feedback and ratings from attendees about their experience at the event. The form is likely used by event organizers to gather data on which booths stood out to attendees and what aspects of the event could be improved.
-
-The form is divided into three main sections: "Voter Registration", "Vote for Best Booth", "Evaluation Criteria", and "Confirmation". The "Voter Registration" section collects basic information about the attendee, such as their full name and email address. The "Vote for Best Booth" section asks attendees to rate their favorite booth and provide feedback on what they liked most about it. The "Evaluation Criteria" section has multiple sections, each asking attendees to rate different aspects of the booths, such as visual appeal, staff friendliness, and information quality. The final section, "Confirmation", has marketing consent and a confirmation date.
-
-To create the help guide, we need to explain each field in a clear and concise manner, and provide tips for completing the form. We will use the provided YAML fields as a guide.
-
-</thinking>
-
 # Best Booth Award Voting - Help Guide
 
 ## Purpose

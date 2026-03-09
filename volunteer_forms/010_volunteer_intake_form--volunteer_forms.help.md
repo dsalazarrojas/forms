@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to create a clear and concise help guide for the user-facing Volunteer Intake Form. I will carefully analyze the provided YAML fields to ensure that each field is explained in a concrete and practical way, helping users understand the purpose of the form and how to complete it effectively. I will also ensure that the explanation is not too technical or assumes unnecessary business logic. After reviewing the form, I will output the final help guide in Markdown format, following the required structure.</thinking>
-
 # Volunteer Intake Form - Help Guide
 ## Purpose
 The Volunteer Intake Form is designed to gather information from potential volunteers, including their availability, skills, and experience. This form helps us understand their interests and qualifications, allowing us to match them with suitable volunteer opportunities.

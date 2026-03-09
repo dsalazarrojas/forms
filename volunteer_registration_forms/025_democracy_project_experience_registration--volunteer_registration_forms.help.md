@@ -1,8 +1,3 @@
-<thinking>
-This form is used for registering an individual's experience with a democracy project, which is likely a project related to democratic governance, civic engagement, or community development. The purpose of this form is to collect information about a person's involvement in such projects, including their registration name, contact details, interests, and specific project experiences.
-Before filling this form, please note that it is meant for individual registration, not group or organization registration. If you are registering on behalf of an organization, please use our separate form for organization registration. Also, please ensure that you are not duplicating your registration as an individual; if you have already registered, please do not fill this form again.
-</thinking>
-
 # Democracy Project Experience Registration - Help Guide
 ## Purpose
 This form is designed to collect information about your experience with democracy projects. Please fill it out to help us understand your involvement and contributions to such projects.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about non-profit reimbursement requests, ensuring that organizations can accurately track and process requests for reimbursement. This form is used to collect relevant details from the organization, including their contact information, service dates, and expense costs. To ensure that duplicate requests are not submitted, the form is designed to capture the specific details of each request, making it easier to process and manage requests efficiently.
-</thinking>
-
 # non_profit_reimbursement_request_form - Help Guide
 ## Purpose
 This form is designed to collect information about non-profit reimbursement requests, allowing you to track and process requests efficiently.

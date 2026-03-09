@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for volunteers to register their interest in joining the TTT Team. The purpose of this form is to collect contact information and volunteer type preferences from individuals or teams interested in participating. It is essential to fill out this form accurately to ensure that we can contact you with updates and opportunities related to the TTT Team. Please note that this form is not a commitment to join the team; it is simply an expression of interest. 
-</thinking>
-
 # TTT Team Registration - Help Guide
 ## Purpose
 The TTT Team Registration form is used to collect contact information and volunteer type preferences from individuals or teams interested in participating in the TTT Team.

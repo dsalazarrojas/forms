@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animal Intake Form - Help Guide
 ## Purpose
 This form is used to gather essential information about the animals brought to the shelter, ensuring their proper care and attention. It provides a comprehensive record of the animal's intake details, including physical condition, medical history, and behavioral observations.

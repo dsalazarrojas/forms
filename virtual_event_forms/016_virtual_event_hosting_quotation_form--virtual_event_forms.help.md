@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture information related to virtual event hosting quotation, including client and event details. It appears that this form is intended to gather specific data about client needs and preferences for a virtual event, possibly to provide quotes or proposals to clients. Before proceeding, please ensure you have the necessary permissions and understand the data collection and usage policies.
-
-</thinking>
-
 # Virtual Event Hosting Quotation Form - Help Guide
 ## Purpose
 This form is designed to capture information for virtual event hosting quotations. It is meant to guide the client through a series of questions to provide clear and concise data for a quotation or proposal.

@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "sports_team_volunteer_application_form", we first need to understand the form's purpose and ensure it's not a duplicate effort.
-
-The purpose of this form is to collect information from potential volunteers for sports teams, allowing them to express their interest in volunteering with the team. This form likely aims to capture relevant details about the volunteer's personal and professional background, as well as their preferences and availability.
-
-Before creating the form, we should review the existing forms and resources related to volunteer applications to prevent duplication of effort and ensure consistency in the information collected.
-
-</thinking>
-
 # sports_team_volunteer_application_form - Help Guide
 
 ## Purpose

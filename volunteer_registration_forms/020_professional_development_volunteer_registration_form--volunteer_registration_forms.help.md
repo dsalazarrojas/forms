@@ -1,11 +1,3 @@
-<thinking> 
-This form is intended to register volunteers for professional development activities, such as workshops, meetings, or events. 
-The purpose of this form is to gather information from volunteers about their participation in these activities. 
-Please note that this form is designed to be completed by volunteers, not by administrators or organizers. 
-Ensure that you are registering as a volunteer before proceeding. 
-
-</thinking>
-
 # Professional Development Volunteer Registration Form - Help Guide
 ## Purpose
 The Professional Development Volunteer Registration Form is a simple form designed to collect information from volunteers about their participation in professional development activities.

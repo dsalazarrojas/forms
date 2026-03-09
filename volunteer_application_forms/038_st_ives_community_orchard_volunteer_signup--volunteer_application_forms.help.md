@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from potential volunteers for a community orchard project. The purpose of this form is to gather details about the volunteer's interests, availability, and preferences in a structured and organized way. This form will help the project team to quickly and efficiently process applications and assign volunteers to suitable roles.
-
-Before proceeding, please ensure that you have reviewed our volunteer program's guidelines and eligibility criteria. This form should only be completed once for each individual, and not for each potential volunteer role.
-
-Please provide accurate and truthful information to the best of your ability.
-
-</thinking>
-
 # st_ives_community_orchard_volunteer_signup - Help Guide
 ## Purpose
 The St Ives Community Orchard Volunteer Sign-up Form is used to collect information from potential volunteers for the community orchard project. This form helps the project team to understand your interests, availability, and preferences, and to assign you to suitable volunteer roles.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Umpire Squad Expression Of Interest - Help Guide
 ## Purpose
 The "Umpire Squad Expression Of Interest" form is designed to gather information from interested individuals who wish to join the Umpire Squad. This form is intended for those who want to express their interest in becoming part of the Umpire Squad and potentially be contacted for further evaluation and consideration.

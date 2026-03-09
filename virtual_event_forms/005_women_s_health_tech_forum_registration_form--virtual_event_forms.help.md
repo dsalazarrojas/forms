@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather registration information for the Womens Health Tech Forum, and this form will be completed by attendees. The reasoning behind creating this form is to collect session preferences, attendee details, and contact information to facilitate communication and event organization. This form is not a mandatory form, and it's likely that the event organizers are looking to gather information to better understand the preferences and needs of attendees. This form should not be submitted multiple times by the same user.
-</thinking>
-
 # Womens_Health_Tech_Forum_Registration_Form - Help Guide
 
 ## Purpose

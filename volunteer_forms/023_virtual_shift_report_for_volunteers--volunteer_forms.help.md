@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Shift Report For Volunteers - Help Guide
 
 ## Purpose

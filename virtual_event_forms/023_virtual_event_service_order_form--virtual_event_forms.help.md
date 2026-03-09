@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to be a Virtual Event Service Order Form, likely used by clients or customers to request services or events from the service provider. This form is probably used by businesses, event planners, or organizers to gather information about the event, its details, and the services required.
-
-This form seems to be designed to be completed online, possibly with the intention of submitting the order digitally. The fields suggest that the form will be used to capture basic event information, such as the event name, details, start and end times, and possibly other relevant information.
-
-Before proceeding, ensure that this form is not already available in other forms or platforms, and that the information it collects is relevant and necessary for the services provided.
-
-</thinking>
-
 # Virtual Event Service Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients or customers about their virtual event service orders. It is intended to be used by event planners, organizers, or businesses to gather essential details about the event and services required.

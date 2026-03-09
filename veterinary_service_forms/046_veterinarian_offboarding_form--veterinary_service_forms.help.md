@@ -1,10 +1,3 @@
-<thinking>
-The Veterinarian Offboarding Form is a critical document for veterinary clinics to ensure a smooth transition when a pet leaves their care. This form gathers essential information about the pet, their medical history, and the owner's contact details. Before filling out the form, please ensure that you're not already offboarding a pet from another location or facility, as this form is designed for a single offboarding event.
-
-The form is divided into several sections, each focusing on a specific aspect of the pet's information. Please fill out the form thoroughly and accurately to provide the best possible care for the pet during and after the offboarding process.
-
-When filling out the form, please make sure to select the correct options for each field, as they are crucial in providing the necessary care and attention to the pet.</thinking>
-
 # Veterinarian Offboarding Form - Help Guide
 ## Purpose
 This guide will walk you through the Veterinarian Offboarding Form, which is used to collect essential information about a pet when they leave the clinic's care.

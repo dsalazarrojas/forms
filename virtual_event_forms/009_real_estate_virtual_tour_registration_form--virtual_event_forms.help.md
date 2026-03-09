@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for real estate agents and clients to register for virtual tours of properties. The form should only be completed once per agent/client. 
-The form is used to collect contact information, availability, phone number, notes, real estate ID, and address of the agent/client. 
-The real estate ID and address fields are not necessarily required fields, but they are useful for record-keeping purposes. 
-The form should be filled out completely and accurately.
-</thinking>
-
 # Real Estate Virtual Tour Registration Form - Help Guide
 ## Purpose
 The Real Estate Virtual Tour Registration Form is designed to collect information from real estate agents and clients who are interested in virtual tours of properties. This form helps us to keep a record of who has registered and when.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help the music festival organizers collect information from volunteers to ensure they have a smooth and enjoyable experience during the event. By filling out this form, volunteers will be able to specify their contact details, emergency contact information, and the type of tasks they are available for. This information will enable the organizers to create a volunteer schedule and allocate tasks accordingly. Please ensure that you are completing the form for a specific music festival event, and if you have already submitted a volunteer application form for this event, do not submit the form again.
-</thinking>
-
 # volunteer_application_form_for_music_festival - Help Guide
 ## Purpose
 This form is designed to collect information from volunteers for music festival events. It will help the event organizers assign tasks and schedule accordingly, ensuring a smooth and enjoyable experience for all volunteers.

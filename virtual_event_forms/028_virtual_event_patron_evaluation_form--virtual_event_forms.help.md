@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and evaluation from patrons about virtual events organized by the organization. This form is designed to gather specific and general feedback from patrons, including their experience of the event, rating, and comments or questions they may have. 
-Before filling out this form, please ensure that you have attended the virtual event you are evaluating. 
-This form is not intended for duplicate submissions. Please do not submit multiple evaluations for the same event.
-</thinking>
-
 # Virtual Event Patron Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and evaluation from patrons about virtual events organized by the organization. It is used to collect information on patron's experience, satisfaction, and suggestions for improvement.

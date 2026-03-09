@@ -1,16 +1,3 @@
-<thinking>
-This help guide is designed to be user-facing, providing clear instructions and explanations for students filling out the Student Volunteer Application Form. This guide ensures that students understand the form's purpose, how to complete it, and what each field means.
-
-This guide will be used to support students who are not familiar with the application process or need clarification on specific fields. By following this guide, students will be able to complete the form efficiently and accurately, providing their information and volunteer details to the best of their ability.
-
-To ensure consistency, this guide will be maintained in sync with the form's schema.
-
-The main goal of this guide is to provide students with an easy-to-understand and accessible way to complete their volunteer applications.
-
-Before proceeding, please review the fields below for any necessary adjustments or additions.
-
-</thinking>
-
 # Student Volunteer Application Form - Help Guide
 
 ## Purpose

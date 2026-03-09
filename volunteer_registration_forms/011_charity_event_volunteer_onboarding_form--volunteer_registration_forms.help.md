@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect basic information from potential volunteers for charity events. The purpose of this form is to streamline the volunteer onboarding process, ensuring that volunteers provide necessary details to be considered for available roles. By filling out this form, volunteers will be able to specify their basic information, interests, and availability for volunteer work. This form is part of a thorough vetting process to ensure that volunteers are a good fit for the organization and its events. Please note that the information collected will be used to match volunteers with suitable roles and to facilitate communication. 
-
-Before starting, please ensure that you are filling out this form for the correct purpose and that you have the necessary time and commitment to volunteer.
-
-Please fill out this form carefully and accurately. If you have any doubts or concerns, do not hesitate to contact the organization.
-</thinking>
-
 # Charity Event Volunteer Onboarding Form - Help Guide
 ## Purpose
 The purpose of this form is to collect basic information from potential volunteers to ensure a smooth onboarding process.

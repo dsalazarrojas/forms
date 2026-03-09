@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from potential applicants who are interested in joining the crisis response team. This team is likely a group of volunteers who will be providing support during emergency situations. The form will be used to collect demographic information, skills, and experience relevant to the crisis response team.
-
-To ensure that this form is being used correctly, please consider the following:
-
-* Only individuals who are interested in joining the crisis response team should be filling out this form.
-* This form is not meant to be filled out by organizations or businesses.
-* This form is not meant to be filled out by individuals who are already part of the crisis response team.
-
-</thinking>
-
 # crisis_response_team_application_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from potential applicants who are interested in joining the crisis response team.

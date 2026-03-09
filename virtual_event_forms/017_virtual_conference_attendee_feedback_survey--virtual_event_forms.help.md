@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from virtual conference attendees, aiming to improve future events. This form is intended for attendees who wish to provide their opinions on the sessions they attended, suggesting improvements or ideas for future conferences. It also asks for contact information to facilitate follow-up discussions or actions.
-To prevent duplication, ensure that only unique feedback and suggestions are submitted.
-</thinking>
-
 # Virtual Conference Attendee Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from virtual conference attendees, aiming to improve future events.

@@ -1,28 +1,3 @@
-<thinking>
-This form is designed to help individuals apply for the Community Services Block Grant (CSBG) program, which provides financial assistance to eligible applicants. The form is used to collect information on the applicant's personal details, household and income information, and services requested. To ensure that applicants are correctly matched with the right services, it's essential to complete the form accurately and thoroughly. Duplicate submissions are discouraged as they may cause delays in the application process.
-
-The form has several fields that require specific information:
-  1. Full Name of Applicant: The applicant's full name.
-  2. Date of Birth: The applicant's date of birth, in the format DD/MM/YYYY.
-  3. Social Security Number: The applicant's social security number, formatted as XXX-XX-XXXX.
-  4. Gender: The applicant's gender (Male, Female, Non-Binary, Prefer not to say).
-  5. Total Number of People in Household: The number of people living in the household, including the applicant.
-  6. Total Monthly Household Income: The household's monthly income before taxes.
-  7. Primary Source of Income: The primary source of income for the household (Employment, Social Security, SSI, Pension, Unemployment, Child Support, No Income).
-  8. Services Needed: A list of services requested by the applicant, which may include Housing Assistance, Utility Assistance, Food Assistance, Employment Training, Transportation, Emergency Services.
-
-The form also has several other fields:
-  1. Current Housing Status: The current housing status of the applicant (Rent, Own, Staying with friends, Homeless, Public Housing).
-  2. Employment Status: The applicant's employment status (Employed Full-time, Employed Part-time, Unemployed, Retired, Student, Disabled).
-  3. Military Service: Whether the applicant has served in the military.
-  4. Certification: A declaration that the information provided is true and correct.
-
-This form is designed to be completed by the applicant themselves, and it is essential to ensure that all fields are filled in correctly to avoid any errors or rejections.
-
-Below is the step-by-step guide on how to complete this form.
-
-</thinking>
-
 # CSBG Application Form - Help Guide
 ## Purpose
 The CSBG Application Form is a document used to collect information for the Community Services Block Grant program. It helps determine the applicant's eligibility for the services provided by the program.

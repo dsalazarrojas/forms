@@ -1,8 +1,3 @@
-<thinking>
-We want to ensure that the form is filled out correctly without requiring too much effort from our volunteers.
-To do this, we will create a detailed help guide that explains each field and its purpose. This guide will help our volunteers complete the form without confusion.
-</thinking>
-
 # Homeless Shelter Night Shift Registration Form - Help Guide
 ## Purpose
 The Homeless Shelter Night Shift Registration Form is a form used to collect information from volunteers who are interested in working night shifts at our shelter. This information will help us to better understand the volunteer's needs and schedule their shifts accordingly.

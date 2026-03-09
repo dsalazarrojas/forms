@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # family_pre_session_questionnaire_form_template - Help Guide
 ## Purpose
 This form is designed to collect demographic information and special needs from family members attending a session or workshop. It's essential to provide accurate and relevant details for the host to better understand the family's needs and plan accordingly.

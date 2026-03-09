@@ -1,8 +1,3 @@
-<thinking>
-  This form is designed to collect registration information from potential volunteers for community support drives. To ensure accurate completion, please read the guidelines carefully to understand the required fields and optional information that can be filled in for a complete registration.
-  Before proceeding, please note that this form is for individual or group registration. If you're registering a group, please ensure all members are registered and listed as part of the group.
-</thinking>
-
 # Community Support Drive Registration - Help Guide
 ## Purpose
 The Community Support Drive Registration form is designed to collect essential information from potential volunteers. Please fill this form to register as an individual or a group, and it will be used to organize and coordinate volunteers for the community support drives.

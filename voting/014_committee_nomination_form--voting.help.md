@@ -1,7 +1,3 @@
-<thinking>... The form "Committee Nomination Form" is designed to gather information about potential committee nominees. This form should only be filled out for others, not self-nomination. The form collects details about the nominee, including their name, email address, phone number, and member ID (if applicable). It also includes the committee the nominee is being nominated for and the specific role within that committee. Additionally, the nominator must provide a statement of qualifications and previous relevant experience for the nominee, as well as their consent to the nomination. Finally, the form must be reviewed and confirmed by the nominator and the nominee, and it includes an internal reference code for tracking purposes.
-
-</thinking>
-
 # Committee Nomination Form - Help Guide
 ## Purpose
 This form is used to collect nominations for potential committee members. It is essential that the nominator provides accurate and relevant information about the nominee to support their eligibility and suitability for the position.

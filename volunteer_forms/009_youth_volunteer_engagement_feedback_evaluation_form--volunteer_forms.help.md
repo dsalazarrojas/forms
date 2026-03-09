@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I'll first need to understand the purpose and context of the form. Based on the provided YAML schema, it appears that the form is designed to evaluate the engagement and feedback of youth volunteers. The form likely aims to gather information on their experiences, skills gained, and suggestions for improvement.
-
-This form may be used by volunteer coordinators, program managers, or other staff members who are responsible for managing youth volunteer programs. The form's purpose is to collect feedback from volunteers to help improve the program and provide better services to them.
-
-Before proceeding, I'll review the form sections and fields to ensure that they are accurately represented in the help guide.
-
-</thinking>
-
 # Youth Volunteer Engagement Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from youth volunteers to evaluate their engagement and experiences in the program. It will help us identify areas of improvement and provide better services to our volunteers.

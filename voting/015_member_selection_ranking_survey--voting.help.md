@@ -1,16 +1,3 @@
-<thinking>
-We will use this form to collect information from members on their ability to participate in a voting process and their current status in that process.
-
-To check if this form is relevant to your use case, consider the following:
-- You are a member of an organization or group.
-- You are being asked to provide input on your participation status.
-- You are not a system administrator or designer who needs to configure this form.
-
-If you're a member who fits the description above, then this form is relevant to you.
-
-This form is used for internal purposes and not for external sharing.
-</thinking>
-
 # Member Selection Ranking Survey - Help Guide
 ## Purpose
 The Member Selection Ranking Survey is a form used to collect information from members on their participation status and other relevant details. It helps the organization to track and monitor member contributions.

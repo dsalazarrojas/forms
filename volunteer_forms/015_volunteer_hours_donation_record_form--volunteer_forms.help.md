@@ -1,5 +1,3 @@
-<thinking>...This form is meant to track and record the volunteer hours donated by an individual to an organization. It is used to capture information about the volunteer, the hours donated, the date and time of donation, and the organization they were working with. This form is designed to be completed by the volunteer or their representative, and the information collected will be used to track and verify the volunteer hours donated. This form should not be used for duplicate entries or to record hours not actually donated. Please ensure that you are only submitting a single entry for each volunteer's hours donated...)</thinking>
-
 # Volunteer Hours Donation Record Form - Help Guide
 ## Purpose
 This form is used to record and track volunteer hours donated to an organization.

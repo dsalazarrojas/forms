@@ -1,20 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "liturgy_attendance_form", we need to determine the purpose and structure of the form. Based on the provided YAML fields, it appears that the form is designed to capture attendance information for virtual events or meetings. The form likely serves as a means to track attendance records, including dates, times, attendees, and comments for such events.
-
-The form has several fields that may seem to be used for tracking different aspects of attendance, such as:
-* Service attendance on Sundays
-* Attendance at weekly meetings
-* Meeting dates and times
-* Meeting topics
-* Attendees (multiple selection)
-* Comments
-* Email addresses
-* Phone numbers
-* Assignment status (assigned to)
-
-We will assume that the form is meant to be filled out by event organizers or administrators to keep track of attendance records.
-</thinking>
-
 # liturgy_attendance_form - Help Guide
 ## Purpose
 The liturgy_attendance_form is a form used to track attendance records for virtual events or meetings. It captures information about dates, times, topics, attendees, comments, email addresses, phone numbers, and assignment status.

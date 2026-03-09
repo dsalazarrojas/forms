@@ -1,7 +1,3 @@
-<thinking>
-This form's purpose is to collect information from attendees for virtual events or conferences. It will likely be used to register attendees, collect their contact and payment details, and possibly track convention-related information. This form should only be used for virtual events, and not for in-person events or other types of registrations. Ensure that you are eligible to attend the virtual event before filling this form.
-</thinking>
-
 # Virtual Convention Registration Form - Help Guide
 ## Purpose
 The Virtual Convention Registration Form is designed to collect information from attendees for virtual events or conferences. It helps us track and manage registrations, payment details, and event-related information.

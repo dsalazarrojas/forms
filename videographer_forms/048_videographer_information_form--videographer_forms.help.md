@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # videographer_information_form - Help Guide
 
 ## Purpose

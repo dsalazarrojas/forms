@@ -1,5 +1,3 @@
-<thinking>...this form is intended for users to evaluate and provide feedback on submissions in a space model competition. This form will be used by judges to select which submissions they will be evaluating, and to provide their scores and comments for each selected submission. The form will help the competition organizers to track the progress of the competition and ensure that all submissions are fairly evaluated. This form will be used by the competition organizers to collect email addresses and phone numbers of the users who will be providing feedback... </thinking>
-
 # Space Model Competition Voting - Help Guide
 ## Purpose
 The Space Model Competition Voting form is designed to help judges evaluate and provide feedback on submissions in a space model competition. The form allows users to select which submissions they will be evaluating, and to provide their scores and comments for each selected submission.

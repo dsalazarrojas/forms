@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this library volunteer application form, we must first consider the internal reasoning behind the form. This form is likely used to collect information from individuals who wish to volunteer at the library. The purpose of the form is to gather essential details about the potential volunteer, including their contact information, availability, and desired volunteer position. This information will help the library assess their fit for volunteer roles and schedule them effectively. Before proceeding, let's ensure that there's no duplication of effort and that this form's purpose and requirements are well understood.
-
-</thinking>
-
 # library_volunteer_application_form - Help Guide
 ## Purpose
 This form is used to collect information from individuals interested in volunteering at the library. The library needs this information to determine the best fit for volunteer roles and schedule volunteers effectively.

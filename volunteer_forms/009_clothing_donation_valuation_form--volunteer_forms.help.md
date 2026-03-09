@@ -1,11 +1,3 @@
-<thinking>...I will create a user-facing help guide for the "Clothing Donation Valuation Form" based on the provided YAML fields.
-
-Before generating the help guide, I will review the form schema and provide a brief internal reasoning block to explain the form's purpose and check for relevance and non-duplication. The form appears to be designed for donors to submit information about clothing items they are donating, including details about the item, such as type, condition, and value. The form also asks for donor information, such as name and email address...
-
-Given the form's structure, I will create a concise and practical help guide that covers the form's purpose, completion instructions, and field-by-field explanations.
-
-... </thinking>
-
 # Clothing Donation Valuation Form - Help Guide
 ## Purpose
 The "Clothing Donation Valuation Form" is designed for donors to provide information about clothing items they are donating to an organization. This form helps to accurately evaluate the value of the items, which is crucial for tax purposes and inventory management.

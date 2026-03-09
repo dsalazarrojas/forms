@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive user-facing help guide for the "Volunteer Activity Permission Form" in Markdown format.</thinking>
-
 # Volunteer Activity Permission Form - Help Guide
 ## Purpose
 The "Volunteer Activity Permission Form" is a crucial document required for volunteers to obtain permission for their activities. It ensures that volunteers provide accurate information about their activities, including details about the activity name, date, time, location, and other crucial contact information. This form helps maintain a clear and transparent record of volunteer activities, enabling efficient communication and coordination within the organization.

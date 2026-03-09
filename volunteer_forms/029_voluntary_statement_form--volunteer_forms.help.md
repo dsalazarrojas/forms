@@ -1,11 +1,3 @@
-<thinking>
-To determine whether the form is being used correctly, I will assume that the form creator has a basic understanding of forms and their purpose.
-
-The "voluntary_statement_form" is designed to gather information from individuals, likely in a professional or academic context, such as feedback, suggestions, or concerns. The form's primary intention is to elicit clear and concise statements from respondents. Given that the form is categorized under "volunteer_forms," it may be used for organizations, groups, or individuals seeking to understand the sentiments, opinions, or needs of their volunteers or beneficiaries. 
-
-However, the form's actual purpose could be more specific, but without additional context, this is an educated guess.
-</thinking>
-
 # Voluntary Statement Form - Help Guide
 
 ## Purpose

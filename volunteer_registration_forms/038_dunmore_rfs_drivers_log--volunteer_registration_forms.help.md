@@ -1,7 +1,3 @@
-<thinking>
-This form is for volunteers registering for a drivers' log, which is a crucial part of a specific program. Before starting, please note that this form should only be filled out by volunteers who are actual drivers and have access to a vehicle. The information collected here will be used to create a record of the volunteer's vehicle and emergency contact information. 
-</thinking>
-
 # dunmore_rfs_drivers_log - Help Guide
 ## Purpose
 The dunmore_rfs_drivers_log form is designed to collect essential information from volunteer drivers for the purpose of creating a record of their vehicle and emergency contact details. This record will help the organization keep track of its volunteer drivers and provide necessary support in case of emergencies.

@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to help Wasco (a fictional organization) members select and elect officers for their FFA (Farmers' Federation Association) chapter. The form is used to gather information about an upcoming election, including the title of the election, the name and email contact information of the candidate, the contact phone number of the candidate, the date and time of the election, and the location where the election will take place. 
-
-This form is intended for Wasco members who wish to organize and conduct an election within their FFA chapter. The form should not be used for any other purpose. 
-
-The following steps will help ensure the form is used correctly:
-
-1.  Only one election title can be submitted.
-2.  Each candidate must have a unique name and email address.
-3.  Contact phone numbers must be a standard 10-digit format. 
-
-Please ensure that these requirements are met before submitting this form.
-</thinking>
-
 # Wasco_FFA_Officer_Elections - Help Guide
 ## Purpose
 The Wasco_FFA_Officer_Elections form is used to organize and conduct an election for the Farmers' Federation Association chapter within Wasco. This form captures essential details about the election, such as the title of the election, candidate information, and election schedule and location.

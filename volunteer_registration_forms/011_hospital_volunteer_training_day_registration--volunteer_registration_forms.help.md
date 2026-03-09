@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to allow users to register for the Hospital Volunteer Training Day, which typically consists of multiple sessions that take place at different times. The form aims to gather essential information from users, including their personal details, contact information, and session preferences. This form is likely used by the hospital's volunteer program team to organize and manage the training day events, ensuring that users receive the correct information and resources for the sessions they've selected.
-
-To avoid duplication, users should not register multiple times for the same sessions. The form should only be filled out once, and users should review their selections carefully before submitting the form.
-</thinking>
-
 # Hospital Volunteer Training Day Registration - Help Guide
 ## Purpose
 The form is designed to collect information from users who wish to register for the Hospital Volunteer Training Day. This includes personal details, contact information, and session preferences.

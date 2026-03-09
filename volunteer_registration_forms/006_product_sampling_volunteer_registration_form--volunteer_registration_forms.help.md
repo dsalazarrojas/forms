@@ -1,9 +1,3 @@
-<thinking>
-This form is for registering volunteers for a product sampling initiative. It's essential to ensure that the volunteer understands the purpose and process of the form to complete it accurately. Before starting, let's clarify that this form is not affiliated with any form platforms and is a custom creation based on publicly available information.
-
-When filling out this form, volunteers should be clear and concise in their responses, especially for fields with no specific guidelines. It's also crucial to proofread for spelling and grammar errors, as they might affect the form's validity. To avoid duplication, check if you've already submitted similar forms in the past.
-</thinking>
-
 # product_sampling_volunteer_registration_form - Help Guide
 ## Purpose
 The product sampling volunteer registration form is designed to collect information from volunteers interested in participating in product sampling activities. It's a straightforward process that requires basic information about the volunteer, their volunteer status, and contact details.

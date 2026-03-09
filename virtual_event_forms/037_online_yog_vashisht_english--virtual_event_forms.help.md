@@ -1,5 +1,3 @@
-<thinking>This help guide is intended to assist users in completing the 'online_yog_vashisht_english' form. Please review the following explanation to understand the form's purpose, how to complete it, and what each field means.</thinking>
-
 # online_yog_vashisht_english - Help Guide
 ## Purpose
 

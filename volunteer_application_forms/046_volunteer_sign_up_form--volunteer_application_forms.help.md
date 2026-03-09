@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals interested in volunteering with the organization. This form is used to gather contact details and volunteer preferences to facilitate the organization's volunteer management process. Before proceeding, please ensure that you have not already submitted a volunteer application with the same email address or phone number. If you have any questions or concerns, please reach out to the organization's volunteer coordinator.
-</thinking>
-
 # Volunteer Sign Up Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals interested in volunteering with the organization.

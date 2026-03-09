@@ -1,10 +1,3 @@
-<thinking>
-The form is designed for volunteers to provide their consent for being photographed and/or filmed during events or activities organized by the NGO. 
-The purpose of this form is to obtain informed consent from volunteers for the use of their images. 
-This form will be used to record the volunteer's name, email, and consent status. 
-It is not required, but the more information collected will help the NGO to better contact the volunteer if needed. 
-</thinking>
-
 # NGO Volunteer Photo Release Form - Help Guide
 ## Purpose
 This form is for volunteers to provide their consent for being photographed and/or filmed during events or activities organized by the NGO. It is an optional form that will help the NGO to obtain informed consent from volunteers for the use of their images.

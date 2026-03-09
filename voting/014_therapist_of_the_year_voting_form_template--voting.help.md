@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user input for the "Therapist Of The Year" award voting process. The form should only be completed if the user has a valid reason for voting for a particular therapist. The form will be used to determine the winner of the Therapist Of The Year award. Please ensure that you only vote for a single therapist per submission. If you have already submitted your vote, please do not resubmit. The voting process is anonymous and will not be tracked back to the user. Please note that the form has multiple pages. You will need to fill out each page carefully and accurately to ensure that your vote is valid.
-</thinking>
-
 # Therapist Of The Year Voting Form Template - Help Guide
 ## Purpose
 The purpose of this form is to collect votes for the "Therapist Of The Year" award. This form is designed to ensure that each voter provides a valid reason for their vote and can only vote for one therapist per submission.

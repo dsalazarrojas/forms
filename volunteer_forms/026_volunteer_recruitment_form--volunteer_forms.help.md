@@ -1,7 +1,3 @@
-<thinking>
-The Volunteer Recruitment Form is designed to collect information from individuals who are interested in volunteering with our organization. This form helps us understand their availability, experience, and role preferences, ensuring we can match them with suitable volunteer opportunities. Before filling out this form, please note that we'll only accept submissions from individuals who have not already filled out this form or a similar form within the last 30 days. This prevents duplicate submissions and ensures we get accurate information from interested volunteers.
-</thinking>
-
 # Volunteer Recruitment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals interested in volunteering with our organization. This information will be used to match them with suitable volunteer opportunities.

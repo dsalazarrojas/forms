@@ -1,7 +1,3 @@
-<thinking>
-The form "entrepreneurship_program_volunteer_application_form" is designed to collect information from potential volunteers for an entrepreneurship program. To be eligible for the program, applicants must provide a valid application through this form. This form is only available to individuals who meet the eligibility criteria for the program. If you are not eligible or have already applied, please do not proceed with the form. Please ensure you are completing the form for the purpose of applying for the program and not for other purposes.
-</thinking>
-
 # entrepreneurship_program_volunteer_application_form - Help Guide
 ## Purpose
 The entrepreneurship_program_volunteer_application_form is a tool used to collect information from potential volunteers for an entrepreneurship program. It is used to determine your eligibility and suitability for the program.

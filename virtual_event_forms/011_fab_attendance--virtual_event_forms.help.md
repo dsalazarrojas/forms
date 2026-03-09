@@ -1,7 +1,3 @@
-<thinking>This guide is intended for users who need to report their attendance to the virtual event. It is designed for employees and partners, and it's crucial to complete it accurately to ensure proper tracking and evaluation of the event's success. This form is not meant to be filled out multiple times, as it's meant to be completed only once per user per event.
-
-</thinking>
-
 # fab_attendance - Help Guide
 ## Purpose
 This form is designed to report attendance to a virtual event. It collects information about the event attended, including the date attended, attendance status, and contact information.

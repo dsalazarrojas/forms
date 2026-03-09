@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from potential volunteers about their interest in participating in corporate volunteering projects. This form is designed to be completed by individuals who want to volunteer their time and skills for company-sponsored projects. The form ensures that we collect all necessary details from volunteers, including their project preferences, availability, and contact information. Before completing this form, please ensure that you have checked our volunteering opportunities and have selected a project that you're interested in. Additionally, please note that filling out this form does not guarantee acceptance into a project.
-
-</thinking>
-
 # corporate_volunteering_request_form - Help Guide
 ## Purpose
 The form is used to collect information from potential volunteers to join company-sponsored projects.

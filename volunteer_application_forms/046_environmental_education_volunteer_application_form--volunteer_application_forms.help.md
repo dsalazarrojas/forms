@@ -1,12 +1,3 @@
-<thinking>
-## Form purpose and relevance
-This form is used by individuals interested in volunteering their time and skills to help with environmental education initiatives. This form ensures that applicants provide accurate and relevant information about themselves and their interests, so that the organization can effectively match them with suitable volunteer roles.
-
-### Checking for duplication and ensuring relevance
-This form is not intended for internal use within an organization. It is designed for external use by potential volunteers. Before filling out this form, ensure that you are not already registered as a volunteer with our organization. If you are unsure, please contact us to confirm.
-
-</thinking>
-
 # environmental_education_volunteer_application_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the volunteer application form is properly filled out and submitted accurately. This form is used to collect information about volunteer projects and their details. Before filling out the form, please make sure you have all the necessary information required for the project. The form has multiple pages, and each page has different fields that need to be filled out. Please fill out each field accurately and completely, and make sure to review the form for any errors before submitting it. 
-</thinking>
-
 # Project Based Volunteer Form - Help Guide
 ## Purpose
 The Project Based Volunteer Form is a form used to collect information about volunteer projects and their details. It is used to help us better understand your volunteer project and ensure that we can support it accurately.

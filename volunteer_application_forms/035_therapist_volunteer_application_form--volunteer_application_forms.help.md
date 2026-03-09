@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who wish to volunteer as therapists. It is meant for individuals who have the necessary qualifications and experience to assist patients or clients in a therapeutic setting. To ensure that the form is filled out correctly, please review the following steps:
-
-Before starting the form, please note that it is intended for individuals who have the necessary qualifications and experience to provide therapeutic services. This includes individuals who have received formal education and training in a relevant field, such as psychology or counseling. If you are unsure whether this form is for you, please contact the organization or institution that is administering the form.
-
-Also, please note that this form is not intended for general volunteers who do not have the necessary qualifications or experience. If you are interested in volunteering in other capacities, you may want to explore other opportunities with the organization.
-
-</thinking>
-
 # Therapist Volunteer Application Form - Help Guide
 
 ## Purpose

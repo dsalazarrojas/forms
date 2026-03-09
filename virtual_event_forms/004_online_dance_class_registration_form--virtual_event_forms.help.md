@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user information for an online dance class. The fields are meant to capture the basics about the individual registering, such as name, contact information, and preferences. The form is likely used for event management or customer service purposes. Before proceeding, make sure to check if a similar form exists and that you have the necessary permissions to fill it out.
-</thinking>
-
 # online_dance_class_registration_form - Help Guide
 ## Purpose
 The online_dance_class_registration_form is designed to collect user information for an online dance class. This form captures the basics about the individual registering, including name, contact information, and preferences.

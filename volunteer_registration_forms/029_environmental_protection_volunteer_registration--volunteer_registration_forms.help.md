@@ -1,7 +1,3 @@
-<thinking>
-This form is for individuals who want to sign up as volunteers for environmental protection efforts. This includes people who are interested in participating in activities such as park cleanups, wildlife conservation, and other environmental initiatives. The form is meant to gather information from potential volunteers about their contact details, availability, interests, and commitment levels. This form will help the organization manage volunteer registrations and ensure that volunteers are matched with suitable opportunities. Please review this form carefully before proceeding to ensure it is not a duplicate registration or a submission for someone else. If you have previously registered as a volunteer, please do not fill out this form again.
-</thinking>
-
 # Environmental Protection Volunteer Registration - Help Guide
 ## Purpose
 The Environmental Protection Volunteer Registration form is a necessary step for individuals who want to participate in environmental protection efforts. By filling out this form, you will be able to register as a volunteer and provide us with information about your availability, interests, and contact details.

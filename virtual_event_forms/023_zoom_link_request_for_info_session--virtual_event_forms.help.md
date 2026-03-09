@@ -1,7 +1,3 @@
-<thinking>
-We should provide an explanation of the form's purpose and logic. It seems the form is designed to collect information for a Zoom link request, likely for an in-person or virtual info session at a school. There should be some check to prevent duplicate requests and to make sure the person requesting the link is not a robot or spammer. The form will be filled out by a human and not a machine. This form will be reviewed and processed internally before creating the actual Zoom meeting.
-</thinking>
-
 # Zoom Link Request For Info Session - Help Guide
 ## Purpose
 This form is used to request a Zoom link for an info session. Please fill out the form with your school's name, the date and time of the session, your name, email, and phone number, as well as a brief description of the event and whether or not you want to send the meeting link.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from potential volunteers for the organization. The goal is to ensure that volunteers have the necessary details required to participate in the activities and roles they express interest in. It's essential to complete this form accurately and thoroughly to avoid duplication of efforts and ensure relevance to the organization's needs.
-</thinking>
-
 # Volunteer Registration Form - Help Guide
 ## Purpose
 The Volunteer Registration Form is designed to collect essential information from potential volunteers to help them find suitable roles and activities within the organization. This form is a crucial step in the volunteer registration process.

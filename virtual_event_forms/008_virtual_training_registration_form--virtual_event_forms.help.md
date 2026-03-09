@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Training Registration Form - Help Guide
 
 ## Purpose

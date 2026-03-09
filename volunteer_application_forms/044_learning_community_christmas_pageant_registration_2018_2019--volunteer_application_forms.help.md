@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who wish to participate in the Learning Community Christmas Pageant. The form is designed to gather basic contact information and demographic data from registrants. Before proceeding, please ensure you have not already registered for this event, as duplicate submissions may cause confusion and impact the event's administration.
-</thinking>
-
 # Learning Community Christmas Pageant Registration 2018 2019 - Help Guide
 ## Purpose
 The Learning Community Christmas Pageant Registration form is designed to collect contact information and demographic data from participants, allowing us to efficiently manage event registrations and prepare for the event.

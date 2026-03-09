@@ -1,11 +1,3 @@
-<thinking>
-
-The Seminar Coordinator Volunteer Registration Form is designed for volunteers to register for a seminar, allowing them to provide their personal and contact information, as well as their role and position within the event. This form helps seminar coordinators gather necessary data for event organization and communication. 
-
-Before filling out this form, please ensure you are only registering once for a single seminar. If you are interested in volunteering for multiple seminars, please create a new account and register separately for each event.
-
-</thinking>
-
 # Seminar Coordinator Volunteer Registration Form - Help Guide
 
 ## Purpose

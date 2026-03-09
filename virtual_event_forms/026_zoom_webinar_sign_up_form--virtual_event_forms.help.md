@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from attendees of a virtual event, specifically a Zoom Webinar. The purpose of this form is to gather demographic and logistical information from users to facilitate the webinar experience. This form will not be used for marketing purposes. To ensure accurate data collection, please fill out the form only once.
-
-</thinking>
-
 # Zoom Webinar Sign Up Form - Help Guide
 
 ## Purpose

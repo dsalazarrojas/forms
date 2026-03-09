@@ -1,7 +1,3 @@
-<thinking> 
-  This form is used to register participants for virtual workshops. It is intended for users to provide their personal and workshop-related details in order to attend virtual workshops. This form helps the organizers to get the required information from the attendees. Please ensure that you fill out the form accurately to avoid any discrepancies. 
-</thinking>
-
 # Virtual Workshop Registration Form - Help Guide
 ## Purpose
 This form is used to register participants for virtual workshops.

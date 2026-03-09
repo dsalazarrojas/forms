@@ -1,9 +1,3 @@
-<thinking>
-This form was designed to be a straightforward registration form for virtual trade fairs. Its primary purpose is to collect information from attendees, such as their trade fair details and confirmations of attendance. This form will likely be used by organizers or coordinators of virtual trade fairs to track attendee responses and create instant certificates for attendees who choose to receive them. This form does not collect sensitive or personal identifiable information, nor is it intended for commercial purposes. It's a public-facing form intended for event management.
-
-Before proceeding, please review the fields below to ensure you're familiar with the information we're collecting.
-</thinking>
-
 # Virtual Trade Fair Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees for the virtual trade fair. Please fill it out to confirm your attendance and create an instant certificate, if desired.

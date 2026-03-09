@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a webinar attendance benchmark report. This form aims to gather data about a webinar's performance, request benchmarking against competitors, and details about the webinar itself. Before starting, ensure that you only submit one form per webinar, as submitting multiple forms with the same details may lead to duplicate reports. Please fill in the form accurately and completely.
-</thinking>
-
 # webinar_attendance_benchmark_report_request_form - Help Guide
 ## Purpose
 This form is designed to help you collect data for a webinar attendance benchmark report. The report will provide insights into your webinar's performance compared to industry benchmarks.
