@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting basic information from vendors or suppliers. The form is designed to be a prequalification questionnaire, gathering details about the supplier's company, financial status, compliance, operational practices, tax information, and contact details. The purpose of this form is to help assess a supplier's eligibility and readiness to work with your organization. Before filling out this form, please ensure you have not previously completed it, as the form's intent is to collect new information from each supplier. If you have any questions or concerns, feel free to contact form@gic.mx.
-</thinking>
-
 # Prequalification Questionnaire Form Template - Help Guide
 ## Purpose
 This form is designed to collect basic information from vendors or suppliers, assessing their eligibility and readiness to work with your organization.

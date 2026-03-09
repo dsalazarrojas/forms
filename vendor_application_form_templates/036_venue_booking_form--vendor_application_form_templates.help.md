@@ -1,8 +1,3 @@
-<thinking>
-We're creating this guide to help users understand the purpose and usage of the Venue Booking Form. This form is designed to gather essential information for booking a venue for events. The primary goal is to ensure that users provide accurate and complete data to facilitate successful event planning. Please review the form carefully to avoid any potential issues or misunderstandings.
-
-</thinking>
-
 # Venue Booking Form - Help Guide
 ## Purpose
 The Venue Booking Form is a form used to book venues for various events such as concerts, weddings, conferences, and more. It collects information about the event, venue, and contact details to ensure a smooth booking process.

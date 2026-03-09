@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Detection Dog Daily Training Record Form - Help Guide
 ## Purpose
 

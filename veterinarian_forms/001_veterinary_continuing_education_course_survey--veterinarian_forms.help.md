@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and ratings from veterinarians or veterinary professionals about continuing education courses they have attended. The form is intended for internal use and will help the organization better understand the quality and effectiveness of their continuing education courses. The form should only be completed by individuals who have attended a continuing education course offered by the organization. 
-</thinking>
-
 # veterinary_continuing_education_course_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and ratings from veterinarians or veterinary professionals who have attended continuing education courses. Your input will help us understand the quality and effectiveness of our courses, allowing us to continuously improve and better serve our attendees.

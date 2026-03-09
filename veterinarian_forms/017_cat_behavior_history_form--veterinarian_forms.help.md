@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cat Behavior History Form - Help Guide
 ## Purpose
 This form is designed to gather information about a cat's behavior and history. It is meant to be completed by the cat's owner or caregiver to provide a comprehensive understanding of the cat's condition and behavior. This form should only be completed once for each cat, and any subsequent updates or changes should be documented separately.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create this guide, I will follow the instructions to the letter.
 
 # dog_school_pre_consult_questionnaire_template - Help Guide

@@ -1,13 +1,3 @@
-<thinking>First, let's analyze the form purpose. This is a veterinarian application form, which means it is intended for individuals applying to become veterinarians. The form likely collects information about the applicant's personal details, qualifications, and experience. This form seems to be designed for collecting data for internal purposes, perhaps for a hiring process or a similar evaluation process.
-
-To determine the form's purpose, I'll review the field labels and types. The form includes fields for first name, last name, email, phone, references (with name, title, organization, and relationship fields), qualifications (with title and description fields for two qualifications), date of birth, experience, education, certifications, skills, work experience, military experience, previous clinics, and emergency contact.
-
-Given the variety of fields, it seems that this form is comprehensive and aims to cover various aspects of an applicant's background and experience. It's possible that this form is used by a veterinary organization or institution to evaluate applicants for positions or programs.
-
-Before we proceed, let's confirm that the form is not a duplicate or a copy of another form with minor modifications. The fields and labels appear to be specific and unique, suggesting that this form is a standalone document.
-
-Now, let's proceed with creating the help guide for the form.</thinking>
-
 # veterinarian_application_form - Help Guide
 ## Purpose
 This form is intended for individuals applying to become veterinarians. It collects information about the applicant's personal details, qualifications, and experience for internal purposes, such as the hiring process or evaluation process.

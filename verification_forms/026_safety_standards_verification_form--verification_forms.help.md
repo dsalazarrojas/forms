@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to verify safety standards in a process. It's likely used for quality control or regulatory compliance purposes. The form might be used internally within an organization or for external auditing. It's essential to review the form carefully to ensure accuracy and thoroughness. Before filling out the form, review the verification process and standards to be verified. Make sure to provide clear and concise answers to the questions.
-</thinking>
-
 # Safety Standards Verification Form - Help Guide
 
 ## Purpose

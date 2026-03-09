@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be filled out by pet owners or their representatives to provide informed consent for veterinary services, specifically vaccinations, and to schedule an appointment with a veterinarian. The form will likely be used in a veterinary clinic or hospital setting. 
-To ensure that the form is filled out correctly, the form should be reviewed for duplication before submission. This can be done by checking for existing records in the system or by verifying the information with the pet owner/representative before submission.
-</thinking>
-
 # Veterinary Vaccine Consent And Appointment Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from pet owners or their representatives for veterinary services, specifically vaccinations, and to schedule an appointment with a veterinarian.

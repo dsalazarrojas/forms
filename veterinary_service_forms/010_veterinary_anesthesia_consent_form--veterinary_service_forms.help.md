@@ -1,5 +1,3 @@
-<thinking>... I will create a user-facing help guide for the "Veterinary Anesthesia Consent Form" as per your requirements. I will use the provided YAML fields to craft a clear and concise explanation of the form's purpose, how to complete it, and what each field means. I will also ensure that the explanation is concrete, practical, and respectful of the original form's intent. ...</thinking>
-
 # Veterinary Anesthesia Consent Form - Help Guide
 ## Purpose
 This form is designed for veterinarians and veterinary clinics to obtain informed consent from pet owners before performing anesthesia on their pets. It's a crucial document that outlines the patient's information, medical history, and anesthesia details.

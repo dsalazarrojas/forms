@@ -1,9 +1,3 @@
-<thinking>
-This form is used for referring a patient from one specialist to another. The purpose of this form is to provide essential information about the patient, the reason for referral, and any relevant details for the receiving specialist.
-The form is used to collect information from the specialist making the referral and the specialist who will receive the referral. This information will help the receiving specialist understand the patient's condition and make an informed decision about their care.
-To ensure accurate and complete referrals, please fill out the form carefully. If you're unsure about any field, please ask your supervisor or contact the IT department for clarification.
-</thinking>
-
 # Veterinary Referral Form - Help Guide
 ## Purpose
 The Veterinary Referral Form is used for referring a patient from one specialist to another. This form helps the receiving specialist understand the patient's condition and make an informed decision about their care.

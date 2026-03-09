@@ -1,8 +1,3 @@
-<thinking>
-This form is used to create a new vendor in the system. It is a crucial step in managing vendor relationships and ensuring accurate vendor information.
-To ensure accuracy, please fill out the form with the correct information. Please note that this form is not intended for duplicate entries. If you are trying to update an existing vendor, please use the "Update Vendor" form instead.
-</thinking>
-
 # Vendor Creation Form - Help Guide
 ## Purpose
 The Vendor Creation Form is used to create a new vendor in the system. This form collects necessary information to identify and manage vendor relationships.

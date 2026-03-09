@@ -1,7 +1,3 @@
-<thinking>
-The form is meant to collect information from potential partners or collaborators for the fulfillment robotics industry. It's essential to ensure that each submission is a unique, valid, and genuine attempt to register for partnership or collaboration. The form will be reviewed and verified before any further action is taken. Please note that this form is for internal use only and any information provided will be used solely for the purposes of the Fulfillment Robotics Partnership Registration.
-</thinking>
-
 # Fulfillment Robotics Partnership Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential partners or collaborators for the fulfillment robotics industry. It helps us understand your partnership or collaboration interests and goals, ensuring a smooth and efficient partnership process.

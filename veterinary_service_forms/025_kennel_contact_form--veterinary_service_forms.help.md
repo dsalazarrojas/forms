@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for kennel owners, staff, or visitors to contact the kennel with their inquiries, questions, or feedback. The form is designed to collect basic contact information and preferences for communication. It's essential to ensure that this form is filled out correctly to provide the correct information to the kennel team.
-</thinking>
-
 # Kennel Contact Form - Help Guide
 ## Purpose
 The Kennel Contact Form is a tool for kennel staff, owners, or visitors to get in touch with the kennel with their inquiries, questions, or feedback.

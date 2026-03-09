@@ -1,13 +1,3 @@
-<thinking>
-This form is used for collecting details about a dependent in a benefits program or insurance claim. The purpose of this form is to gather information about the dependent's personal and professional details. 
-To avoid duplication and ensure accuracy, please note that this form should only be filled out once for each dependent. If you need to make changes to a dependent's information, please contact the relevant department or authority for guidance. 
-
-This form is divided into multiple sections, each covering different aspects of the dependent's details. Please ensure that you fill out all required fields before submitting the form. 
-Please note that some fields are marked as optional, but filling out all required fields is crucial for accurate processing and potential benefits or claims. 
-
-Below is a detailed guide on how to complete this form:
-</thinking>
-
 # Dependent Details Declaration Form - Help Guide
 ## Purpose
 This form is used for collecting details about a dependent in a benefits program or insurance claim.

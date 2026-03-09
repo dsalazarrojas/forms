@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinarian Contact Information Form - Help Guide
 ## Purpose
 This form is designed to collect contact information from veterinarians, which will be used for future communication and appointment scheduling.

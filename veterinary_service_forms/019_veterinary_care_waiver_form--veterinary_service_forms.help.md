@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to gather information from pet owners for veterinary care services, including pet health, treatment details, and owner information. This form is likely used for administrative purposes within a veterinary clinic or hospital to record and process requests or appointments for veterinary services. It's essential to ensure that each field is correctly filled out to avoid any potential errors or misunderstandings during the care process. Please review the form layout carefully to ensure that all relevant details are captured.
-
-</thinking>
-
 # Veterinary Care Waiver Form - Help Guide
 ## Purpose
 This form is designed to collect information from pet owners for veterinary care services. It includes fields for pet health, treatment details, owner information, and more. Please take a few minutes to complete this form accurately to ensure a smooth and efficient care process.

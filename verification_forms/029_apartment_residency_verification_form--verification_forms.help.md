@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used for verifying the residency status and details of tenants or residents in an apartment or rented property. This form will help landlords or property managers to provide information about the tenant or resident to verify their identity and confirm their living status. 
-
-Before proceeding, please ensure that you have obtained necessary permissions and approvals from all relevant parties involved.
-
-To verify residency, we will need to collect information about the tenant or resident's identity, living status, rental details, and other supporting documents. 
-
-Note that each field is required and should be filled accordingly. 
-
-</thinking>
-
 # Apartment Residency Verification Form - Help Guide
 ## Purpose
 The Apartment Residency Verification Form is used to verify the residency status and details of tenants or residents in an apartment or rented property.

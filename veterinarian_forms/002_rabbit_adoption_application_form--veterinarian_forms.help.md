@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential adopters of a rabbit, helping our team better understand their needs and preferences. This guide will cover the purpose of the form, how to complete it, and a detailed explanation of each field. This will help potential adopters provide accurate and relevant information, increasing the chances of finding the perfect match for their new pet.
-</thinking>
-
 # Rabbit Adoption Application Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about you and your family to help us find the best match for your new furry friend. Please take a few minutes to fill out the form, and we'll use the information to make an informed decision about adopting a rabbit.

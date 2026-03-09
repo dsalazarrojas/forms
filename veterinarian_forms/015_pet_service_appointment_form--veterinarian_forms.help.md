@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from pet owners for scheduling appointments with the veterinarian. The purpose of this form is to provide a seamless and efficient way to gather necessary details from pet owners before their appointment. It ensures that the veterinarian is well-prepared and informed to provide the best care for their pet. This form will not be used for marketing or promotional purposes, and the data collected will only be used for the purpose of providing services to the pet owner and their pet.
-</thinking>
-
 # Pet Service Appointment Form - Help Guide
 
 ## Purpose

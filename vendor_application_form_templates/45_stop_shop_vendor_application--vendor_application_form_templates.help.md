@@ -1,14 +1,3 @@
-<thinking>
-This form is a vendor application form designed for potential vendors who want to participate in the "45 Stop & Shop" vendor events. The purpose of this form is to gather information about the vendor's business, products, and experience to ensure that they meet the necessary requirements to participate in the event. The form is divided into two main sections: "Applicant Information" and "Vendor Details". The form requests the vendor to provide their personal details, business information, and experience, as well as their product categories, booth size and location preferences, insurance information, and compliance status. This form is intended for vendors who have not participated in the event before and want to apply for the first time or those who have participated before but need to update their information.
-
-Before filling out this form, please ensure that you have all the necessary information and that you are eligible to participate in the event. If you have any doubts or questions, please contact the event organizers for clarification.
-
-Please note that some fields are marked as "required", which means that you must provide information in those fields to complete the form. Failure to provide required information may result in your application being rejected.
-
-Also, please ensure that you fill out the form accurately and completely, as any incorrect or incomplete information may lead to delays or rejection of your application.
-
-</thinking>
-
 # 45 Stop & Shop Vendor Application - Help Guide
 ## Purpose
 This form is designed to collect information from potential vendors who want to participate in the "45 Stop & Shop" vendor events. It is essential to fill out the form accurately and completely to ensure a smooth application process.

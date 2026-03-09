@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from vendors who wish to apply for a vendor permit at a sports complex. The form is designed to gather details about the vendor, the permit being applied for, and the insurance status of the vendor. This form is intended for use in a specific industry or category (sports) and is not meant to be a general-purpose form. Before starting the form, please ensure that you are not duplicating an existing application or have any internal approval for submission. If you are unsure about the form's relevance or have any questions, please review your internal policies and procedures before proceeding.
-</thinking>
-
 # Sports Complex Vendor Permit Application - Help Guide
 ## Purpose
 This form is designed to collect necessary information from vendors who wish to apply for a vendor permit at a sports complex. The form is intended for use by vendors who provide goods or services to the sports complex and need to obtain a permit to operate on the premises.

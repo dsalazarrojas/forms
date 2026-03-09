@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chimney Verification Form - Help Guide
 ## Purpose
 

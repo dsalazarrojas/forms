@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "Pet Cremation Service Request" form, which is used to gather information from pet owners to request cremation services for their deceased pets. The form is designed to collect details about the pet, the cremation preferences, and the service provider of choice. It is an important part of the bereavement process for pet owners, and this guide aims to make it easier for them to understand what information is required and how to complete the form accurately.
-</thinking>
-
 # Pet Cremation Service Request - Help Guide
 ## Purpose
 This form is used to request cremation services for a deceased pet. It will guide you through the necessary steps to provide the required information and help ensure that the cremation process goes smoothly.

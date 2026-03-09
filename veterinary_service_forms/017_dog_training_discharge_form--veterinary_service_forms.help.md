@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients regarding the status of their dog's training program. It is crucial to ensure that the client understands the discharge process and the next steps they need to take after their dog's training. This form should not be filled out by a client unless instructed to do so by a veterinarian or a training staff member, and it's essential to review the form carefully to avoid any confusion or miscommunication. Please review this form to understand its purpose and ensure it's completed accurately and completely.
-</thinking>
-
 # Dog Training Discharge Form - Help Guide
 ## Purpose
 The Dog Training Discharge Form is used to document the discharge of a dog from a training program. It helps to ensure that the client understands the current status of their dog's training and the next steps they need to take.

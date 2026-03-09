@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about pets that need to be relinquished, which may be done for various reasons such as adoption, rescue, or other situations. It's essential to use this form to ensure that all necessary details are captured accurately, and the information is consistent with our internal procedures.
-Before filling out this form, ensure that it's not a duplicate. Please verify if a similar form has been submitted recently for the same pet. To avoid any confusion, only one form should be submitted per pet.
-</thinking>
-
 # Pet Relinquishment Form - Help Guide
 
 ## Purpose

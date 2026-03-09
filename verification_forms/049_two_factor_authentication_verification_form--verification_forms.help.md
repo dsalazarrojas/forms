@@ -1,5 +1,3 @@
-<thinking>Two-factor authentication verification form is used for verifying user identity. This form is used for authenticating users who are attempting to access a secure system or service. The form is used to collect information such as name, email address, phone number, and other details to verify the user's identity. Before filling out the form, ensure that you are not already verified, as this form is only for users who have not been previously authenticated or have had their verification expire.</thinking>
-
 # two_factor_authentication_verification_form - Help Guide
 ## Purpose
 The two-factor authentication verification form is used for verifying user identity. It is a mandatory form for users who are attempting to access a secure system or service.

@@ -1,11 +1,3 @@
-<thinking>
-
-The form "pet_medical_financial_assistance_application_form" is intended to be filled out by pet owners who are seeking financial assistance for their pet's medical needs. This form collects information about the pet's medical condition, the owner's contact information, and other relevant details to process the application for assistance.
-
-Before proceeding, please ensure you are filling out this form for the correct purpose and not duplicating an already submitted application. If you are unsure, please contact the relevant authorities for clarification.
-
-</thinking>
-
 # pet_medical_financial_assistance_application_form - Help Guide
 ## Purpose
 The pet_medical_financial_assistance_application_form is a form designed to collect information from pet owners who are seeking financial assistance for their pet's medical needs. This form helps to process the application and provide the necessary support.

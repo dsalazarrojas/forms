@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information from employers for verification purposes. The form is designed to gather details about an individual's employment history, including their job title, department, and manager's name. The form's purpose is to verify an individual's employment status and history. To avoid duplication of effort, it is recommended that users only fill out the form once and provide accurate and up-to-date information. If you have already submitted a similar form in the past, please refer back to that submission for your convenience.
-
-The fields on this form are meant to be completed by the employer or their representative. The form is not intended to be filled out by the individual being verified.
-
-Please note that some fields have been left optional, as they may not be relevant to every individual's employment situation.
-
-</thinking>
-
 # Employer Verification Form - Help Guide
 ## Purpose
 This form is designed to collect information from an employer for verification purposes, such as job title, department, manager's name, and employment dates. It is intended to be completed by the employer or their representative, and not by the individual being verified.

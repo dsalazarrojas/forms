@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from new wholesale account applicants. It is intended for vendors who want to establish a wholesale relationship with our company. The form is meant to gather contact information, business details, and shipping information from the applicant. It's essential to ensure that the information provided is accurate and complete to process the application efficiently.
-
-The form will be used to create a new wholesale account in our system, and the data collected will be used to communicate with the applicant and manage their account.
-
-Before filling out the form, please ensure that you have all the necessary information ready. If you're unsure about any of the fields, please contact our team for assistance.
-
-Also, please note that some fields are required, and providing incorrect or incomplete information may delay or reject your application.
-
-</thinking>
-
 # sexy_af_spirits_new_wholesale_account_2021 - Help Guide
 ## Purpose
 The sexy_af_spirits_new_wholesale_account_2021 form is designed to collect information from new wholesale account applicants to establish a wholesale relationship with our company.

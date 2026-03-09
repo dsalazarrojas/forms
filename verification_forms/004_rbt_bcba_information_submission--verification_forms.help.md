@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be designed for collecting information related to RBT (Reimbursement Bureau Transaction) and BCBA (Board Certified Behavior Analyst) certifications, licenses, or other related credentials. The purpose of this form is to gather detailed information about the individual or entity submitting this form, including their category of submission, ID, name, address, contact information, and certification details. The form is likely used for verification or validation purposes.
-
-To ensure accurate and complete submission, please review the form carefully before starting to fill it out.
-
-Before proceeding, please ensure that you are submitting information for the correct category (BCBA, RBT, or Other) and that the submission is not a duplicate.
-
-</thinking>
-
 # RBT/BCBA Information Submission - Help Guide
 ## Purpose
 The RBT/BCBA Information Submission form is designed to collect and verify information about individuals or entities related to RBT and BCBA certifications, licenses, or other credentials.

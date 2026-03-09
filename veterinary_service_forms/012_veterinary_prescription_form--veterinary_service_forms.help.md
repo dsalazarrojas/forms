@@ -1,7 +1,3 @@
-<thinking>
-The veterinary prescription form is designed to collect information from pet owners and veterinarians for creating a comprehensive veterinary prescription. The purpose of this form is to ensure accurate and efficient communication between pet owners and veterinary professionals regarding the diagnosis, treatment, and care of their pets. This form is a general template and may require adaptation based on specific veterinary practice requirements.
-</thinking>
-
 # Veterinary Prescription Form - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-This form is used for veterinary clinics to request media appearances, such as interviews or TV shows. The form is designed to gather information about the media appearance, including the type of media, the event details, and the contact information for the media representative. The form is intended for internal use within the clinic, and the information collected will be used to coordinate and manage media appearances. 
-
-The form is not intended for public submission, and users should only access it with proper authorization. 
-
-To ensure accurate and relevant information is collected, please only fill out the form if you have a genuine media appearance request. 
-
-If you've already submitted a media appearance request, please do not resubmit. Instead, update the existing submission with any new information. 
-
-</thinking>
-
 # Veterinary Media Appearance Request Form - Help Guide
 ## Purpose
 

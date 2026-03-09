@@ -1,13 +1,3 @@
-<thinking>
-To be clear and concise, I must note that the purpose of this form is to gather information about a pet's medical history for the veterinary service. This form is designed to help veterinary professionals understand the pet's past medical experiences, which will aid in providing optimal care for the pet. 
-
-This form will likely be filled out by a pet owner or caregiver during a veterinary visit. It is used in conjunction with other forms and information gathered during the visit.
-
-Before filling this form, the veterinary clinic may have already gathered some information about the pet's medical history. However, it's possible that new or updated information may be required, and this form is intended to capture that information.
-
-It's worth noting that the form is primarily used for internal purposes and may not be intended for public viewing or sharing.
-</thinking>
-
 # Veterinary Medical History Form - Help Guide
 ## Purpose
 The Veterinary Medical History Form is used to gather information about a pet's medical history, which is essential for the veterinary service to provide optimal care and treatment.

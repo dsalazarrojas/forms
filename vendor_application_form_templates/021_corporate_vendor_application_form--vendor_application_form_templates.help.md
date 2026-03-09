@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from vendors interested in working with our organization. It will be used to evaluate and potentially partner with these vendors. The form is not intended for internal use, but rather for external vendors who wish to provide their services or products to our organization. Please fill out the form accurately and thoroughly to increase the chances of a successful partnership.
-</thinking>
-
 # Corporate Vendor Application Form - Help Guide
 ## Purpose
 This form is used to collect information from vendors interested in working with our organization. Please fill out the form with accurate and detailed information about your company and its offerings.

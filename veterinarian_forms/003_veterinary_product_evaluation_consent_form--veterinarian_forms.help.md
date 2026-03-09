@@ -1,5 +1,3 @@
-<thinking>...The Veterinary Product Evaluation Consent Form is intended for pet owners to provide information about their pet, their contact details, and their pet's breed and age. It also asks for the owner's consent to conduct an evaluation, the pet's product information, the start and end dates of the evaluation, and any additional product notes. This form is designed to gather essential information from pet owners for a veterinary product evaluation, which will help evaluate the product's efficacy and safety. It is an optional form, but it is crucial to complete it for the evaluation process. Please note that the completion of this form does not obligate or imply consent for any specific product or service... (</thinking>
-
 # Veterinary Product Evaluation Consent Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be related to euthanasia procedures in a veterinary setting. The purpose of this form is to collect information about the euthanasia process, including the animal's name, owner's name, reason for euthanasia, date and time of euthanasia, location, and other relevant details. It's essential to ensure that all required fields are filled out accurately and completely to maintain a professional and thorough record.
-</thinking>
-
 # Euthanasia Record Form - Help Guide
 ## Purpose
 This form is used to document the details of an animal's euthanasia procedure. It helps the veterinary clinic staff to keep track of the animal's name, reason for euthanasia, and other important information to provide a professional and accurate record.

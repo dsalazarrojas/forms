@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about pet owners, specifically to collect demographic and habit data. This form is not intended to be filled out by veterinarians or other professionals in the pet care industry. It is meant for pet owners to provide details about themselves and their pets. To ensure that this information is accurate and non-redundant, the form will only be used for research purposes and will not be used for marketing or other commercial activities.
-</thinking>
-
 # pet_owner_survey - Help Guide
 ## Purpose
 This form is designed to collect information about pet owners, including their demographics, habits, and contact information.

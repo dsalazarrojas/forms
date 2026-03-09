@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Frozen Semen Usage Agreement - Help Guide
 ## Purpose
 This form is used to collect information and agreement terms related to the frozen semen usage in a veterinary or breeding context.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from a supplier about the products they offer for verification. This form will guide users through the necessary steps to provide accurate and thorough information about their products. Before starting, please ensure that you're not already submitting this form for the same product. If you have submitted the form previously, please refer to the form submission guidelines for further instructions.
-</thinking>
-
 # Vendor Product Verification Request Form - Help Guide
 ## Purpose
 The Vendor Product Verification Request Form is a crucial document that helps suppliers provide detailed information about their products for verification. This form is used to gather accurate and up-to-date product details, enabling efficient and secure verification processes.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information for domestic pet transport services. This form will be used to collect details about the pet, its owner, the transport information, and booking details. To ensure the form is used correctly, we must confirm that the user is aware of its purpose.
-</thinking>
-
 # Domestic Pet Transport Booking Form - Help Guide
 ## Purpose
 This form is intended to collect information necessary for domestic pet transport services, including details about the pet, its owner, transport information, and booking details.

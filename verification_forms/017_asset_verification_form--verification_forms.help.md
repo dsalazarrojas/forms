@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to collect information from the claimant (the person submitting the form) about an asset that they are claiming as part of an insurance process. The information gathered will be used to verify the existence and condition of the asset, as well as any other relevant details. This form will be used by the insurance company to assess the claim.
-
-This guide is designed to ensure that the claimant understands what information to provide and how to complete the form accurately.
-
-</thinking>
-
 # Asset Verification Form - Help Guide
 
 ## Purpose

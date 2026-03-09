@@ -1,5 +1,3 @@
-<thinking>This form is designed to help vendors apply for a spot in a night market, providing a space for them to showcase and sell their products to a specific audience. It is crucial to ensure that the form is filled out accurately and without duplication, as it will serve as the primary medium of communication for the market organizers and the vendors themselves. Before proceeding, please review the following help guide to ensure a smooth and efficient submission process.</thinking>
-
 # Vendor Application For Night Market - Help Guide
 ## Purpose
 The Vendor Application For Night Market form is a tool for vendors to provide essential information about themselves and their products, allowing market organizers to review and approve their applications.

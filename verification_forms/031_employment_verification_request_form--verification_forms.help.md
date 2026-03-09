@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for employment verification purposes, allowing an employer to request verification of an employee's work history or employment status. It's intended for use by current or former employees, and the information collected will be used to facilitate the verification process. The form is not meant to be a comprehensive employment verification document, but rather a tool to gather specific details for verification purposes. Before filling out this form, please ensure you're authorized to do so by the relevant parties involved, such as your HR department or supervisor.
-</thinking>
-
 # Employment Verification Request Form - Help Guide
 ## Purpose
 This form is used to collect information for employment verification purposes, such as verifying an employee's work history or employment status.

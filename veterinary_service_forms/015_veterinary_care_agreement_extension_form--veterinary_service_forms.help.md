@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Care Agreement Extension Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about a pet's veterinary care extension. This form is used to add to or extend a pet's veterinary care agreement. It is used by veterinary clinics to record and document additional information about a pet's species, breed, age, and other relevant details.

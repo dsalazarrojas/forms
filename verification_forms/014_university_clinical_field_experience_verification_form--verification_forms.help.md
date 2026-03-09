@@ -1,6 +1,4 @@
-# <thinking>...this form is designed to gather information from students about their clinical field experience, which is an essential part of their academic and professional development. The form aims to verify student's clinical field experience in a university setting. To ensure accuracy and consistency in the data collected, it is essential to complete this form carefully and correctly. Please note that this form is not associated with any specific form platforms, and the data collected will be used for internal purposes only. Before starting to fill out this form, check if you have completed it before to avoid duplication...</thinking>
-
-# University Clinical Field Experience Verification Form - Help Guide
+# # University Clinical Field Experience Verification Form - Help Guide
 ## Purpose
 The University Clinical Field Experience Verification Form is designed to gather information from students about their clinical field experience. This form is a crucial part of verifying a student's clinical field experience in a university setting.
 

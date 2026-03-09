@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Veterinary Continuing Education Course Survey form, I must first understand the purpose and requirements of this form. Based on the provided YAML, it seems that this form is designed to collect information about veterinary continuing education courses. The purpose of this form is to gather data about these courses, likely for internal purposes such as course management, evaluation, or reporting.
-
-To ensure that the form is completed correctly and relevant data is collected, we should check if the course is already listed in the database or if it already has a survey. This can be achieved by performing a quick search or database query before proceeding with the form completion. This will prevent duplication of effort and ensure that the survey data is accurate and up-to-date.
-
-</thinking>
-
 # Veterinary Continuing Education Course Survey - Help Guide
 ## Purpose
 The Veterinary Continuing Education Course Survey is designed to collect information about veterinary continuing education courses. This form helps us gather data about these courses for internal purposes such as course management, evaluation, or reporting.

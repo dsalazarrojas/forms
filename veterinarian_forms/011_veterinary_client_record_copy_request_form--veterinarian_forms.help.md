@@ -1,8 +1,3 @@
-<thinking>
-This form was created to help veterinarians manage and process requests for client record copying. The purpose of this form is to collect information from pet owners about their requests, which can be for pet medical records or medical records. This form is designed to be user-friendly and efficient, making it easier for veterinarians to gather the necessary information and fulfill the requests.
-Before filling out this form, please ensure that you have the pet owner's permission to access their records and that you are requesting the correct type of records.
-</thinking>
-
 # veterinary_client_record_copy_request_form - Help Guide
 ## Purpose
 The veterinary_client_record_copy_request_form is designed to help veterinarians collect information from pet owners about their requests for pet medical records or medical records.

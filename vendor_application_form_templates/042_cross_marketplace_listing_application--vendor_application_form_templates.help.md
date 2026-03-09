@@ -1,7 +1,3 @@
-<thinking>
-The Cross Marketplace Listing Application form is designed for vendors to list their products in a marketplace platform. This form collects essential information about the vendor and their product, including name, email, website, category, description, price, and shipping details. The form is meant to be completed by vendors to create a listing for their product on the marketplace platform. This form is not intended for use in other contexts. Please ensure you are filling this form for the correct purpose.
-</thinking>
-
 # Cross Marketplace Listing Application - Help Guide
 ## Purpose
 This form is used to create a listing for your product on our marketplace platform. Please provide all the necessary information to ensure your product appears correctly and accurately on the platform.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for signature verification, a process that ensures the authenticity and legitimacy of a signature on a document. 
-The purpose of this form is to provide a standardized way to collect information and verification details associated with a signature. This form will be useful in various contexts where signature verification is necessary, such as in business, law, or government settings. 
-Please ensure that you do not fill out this form if you have already verified the signature in question, as this may result in duplicate entries and unnecessary records.
-</thinking>
-
 # signature_verification_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for signature verification, ensuring the legitimacy and authenticity of a signature on a document.

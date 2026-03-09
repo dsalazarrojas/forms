@@ -1,6 +1,4 @@
-# <thinking>...</thinking>
-
-The purpose of the "Global Signatory Form" is to collect information for approval from users. This form can be used for various types of approval processes where multiple stakeholders are involved. The form can be completed by a single user or multiple users, depending on the specific use case.
+# The purpose of the "Global Signatory Form" is to collect information for approval from users. This form can be used for various types of approval processes where multiple stakeholders are involved. The form can be completed by a single user or multiple users, depending on the specific use case.
 
 It is essential to note that some fields in this form are duplicates, such as "User Email" and "user_email", "Approver Email" and "approver_email", which should be filled in only once. This guide will explain each field separately, focusing on the most relevant one in case of duplicates.
 

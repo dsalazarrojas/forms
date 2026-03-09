@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a veterinary exam. The purpose of this form is to collect the pet's details, medical history, and examination results. This form will be used by veterinarians to gather essential information for making accurate diagnoses and administering appropriate treatments. Please ensure that you fill out the form as thoroughly and accurately as possible. If you are a pet owner, please note that this form is used for the benefit of your pet's health. If you are a veterinarian, this form will help you to make informed decisions about your patient's care. Please do not duplicate the effort by submitting duplicate forms for the same pet.
-</thinking>
-
 # Pet Exam Form - Help Guide
 ## Purpose
 The Pet Exam Form is a tool used by veterinarians to gather information for a pet's examination. It is used to collect the pet's details, medical history, and examination results.

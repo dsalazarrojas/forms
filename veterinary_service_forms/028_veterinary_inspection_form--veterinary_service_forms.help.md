@@ -1,5 +1,3 @@
-<thinking>As a veterinary inspection form, this document aims to collect relevant information about the veterinary services provided to animals. It is designed for veterinary professionals to record and report on the services they have performed, including general information, animal details, medical information, and veterinary sign-off. This form will help ensure that the services provided are accurately documented and easily accessible for future reference.</thinking>
-
 # Veterinary Inspection Form - Help Guide
 ## Purpose
 The Veterinary Inspection Form is a document used to collect information about the veterinary services provided to animals. This form helps veterinary professionals keep accurate records of the services they have performed.

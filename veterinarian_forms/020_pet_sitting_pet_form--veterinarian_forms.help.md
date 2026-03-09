@@ -1,7 +1,3 @@
-<thinking>
-We should check if the form purpose is clear to us before proceeding to explain it to the end-users. This form is likely used for pet sitting pet-related purposes, such as keeping track of pet information for a vet clinic or pet boarding service. We should also ensure that we don't create a redundant form that already exists in the system.
-</thinking>
-
 # Pet Sitting Pet Form - Help Guide
 ## Purpose
 This form is used to collect information about a pet for pet sitting purposes, such as keeping track of pet's identity, owner's details, and other relevant information.

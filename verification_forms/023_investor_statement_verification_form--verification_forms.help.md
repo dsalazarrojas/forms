@@ -1,7 +1,3 @@
-<thinking>
-This form is used to verify the statement of an investor for internal financial record-keeping and compliance purposes. The form will be reviewed and approved by the financial institution and is not intended for external use. Please ensure that the form is completed accurately and truthfully to avoid any discrepancies or issues with financial regulations. To avoid duplication, please do not submit this form if a similar form has been submitted in the past 30 days.
-</thinking>
-
 # Investor Statement Verification Form - Help Guide
 ## Purpose
 The Investor Statement Verification Form is used to gather and verify the financial information of an investor for internal financial record-keeping and compliance purposes. This form is a crucial document for maintaining accurate and up-to-date records of investor's financial activities.

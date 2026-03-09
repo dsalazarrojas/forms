@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for property lease verification. This form will help to collect details about the tenant, lease, and property. It is essential to fill out the form accurately to ensure that all necessary information is provided.
-
-Before starting, please ensure that you have all the required information and that you are not duplicating an existing verification process. This form is meant for new or updated property lease verification.
-
-This guide will walk you through each field of the form step by step.
-</thinking>
-
 # property_lease_verification_form - Help Guide
 ## Purpose
 This form is used to gather information for property lease verification.

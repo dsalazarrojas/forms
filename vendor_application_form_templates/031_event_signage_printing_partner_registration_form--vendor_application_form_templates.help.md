@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for vendors interested in partnering with our event signage printing partner program. Vendors must complete this form to register their interest and provide necessary contact and service information. This form is a crucial part of the registration process and ensures that all required vendor information is accurately collected and processed in a timely manner. To avoid duplication, only one registration per vendor is allowed.
-
-</thinking>
-
 # Event Signage Printing Partner Registration Form - Help Guide
 
 ## Purpose

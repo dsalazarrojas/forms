@@ -1,10 +1,3 @@
-<thinking>
-This form is used to request access to veterinary mobile service, which allows pet owners to request on-site visits or house calls from veterinarians. 
-The form is used to collect information about the pet owner, their pet, and the visit details. 
-It is essential to fill out the form accurately to ensure that the veterinary service can be provided efficiently and effectively. 
-Please ensure that you are not duplicating the request, and that the information you provide is up-to-date and accurate.
-</thinking>
-
 # Veterinary Mobile Service Access Request Form - Help Guide
 ## Purpose
 This form is used to request access to veterinary mobile service, which allows pet owners to request on-site visits or house calls from veterinarians.

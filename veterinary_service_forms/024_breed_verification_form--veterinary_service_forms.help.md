@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a dog, its owner, and the reasons for breed verification. The purpose of this form is to gather accurate and detailed information about the dog to ensure that breed verification is accurate and complete. This form is intended for both dog owners and veterinarians to provide relevant information about the dog's identity, health, and breeding history. 
-
-</thinking>
-
 # Breed Verification Form - Help Guide
 ## Purpose
 The Breed Verification Form is used to collect detailed information about a dog, its owner, and the reasons for breed verification. This form helps ensure that breed verification is accurate and complete.

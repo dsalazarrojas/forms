@@ -1,7 +1,3 @@
-<thinking>
-This form is used by veterinarians to provide feedback on the performance of veterinary staff members. This feedback is an essential part of the performance evaluation process, helping to identify areas of strength and weakness, and providing guidance for future improvements. It is intended for veterinarians to provide a candid and honest evaluation of their colleagues' performance. Before starting the evaluation, please take a moment to review the form and ensure that you have all the required information. If you have already completed a similar form for this staff member, please do not resubmit, as this may cause confusion and skew the performance data.
-</thinking>
-
 # Veterinary Staff Performance Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the performance of veterinary staff members. It is an essential tool to identify areas of strength and weakness, and to provide guidance for future improvements.

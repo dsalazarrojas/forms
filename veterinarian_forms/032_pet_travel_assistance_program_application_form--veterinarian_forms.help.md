@@ -1,14 +1,3 @@
-<thinking>
-The Pet Travel Assistance Program Application Form is designed to collect information from pet owners who are seeking travel assistance for their pets. This form is used by veterinarians and animal care professionals to gather necessary details about the pet, its owner, and the travel plans, as well as any medical information relevant to the pet's care during travel. The form is not intended for commercial or marketing purposes, but rather to facilitate the provision of care and assistance to pets during travel.
-
-Please note that this form is an original adaptation of public survey topic metadata and has not been derived from any specific form creation platform. It is released under CC BY 4.0 and can be used, modified, and even sold, with proper credit given.
-
-The purpose of this form is to collect information that will allow veterinarians and animal care professionals to provide the best possible care and assistance to pets during travel. The form is intended to be filled out by pet owners and submitted to veterinarians or animal care professionals for review and assistance.
-
-To complete this form, please follow the instructions below.
-
-</thinking>
-
 # Pet Travel Assistance Program Application Form - Help Guide
 ## Purpose
 The Pet Travel Assistance Program Application Form is designed to collect information about your pet and its travel plans, as well as any medical information relevant to its care during travel. This information will be used by veterinarians and animal care professionals to provide the best possible care and assistance to your pet.

@@ -1,5 +1,3 @@
-<thinking>...This form is used for shareholder verification, and its purpose is to collect information about a shareholder, including their shareholding status, company information, and identification details. This is an internal form, and its completion is likely subject to specific business rules and policies. Before completing this form, please ensure you have the necessary permissions to do so. Also, be aware that this form may not be suitable for all types of shareholders or companies. If you're unsure, please consult your internal guidelines or seek clarification from the relevant authorities...</thinking>
-
 # shareholder_verification_form - Help Guide
 ## Purpose
 

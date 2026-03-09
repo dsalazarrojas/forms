@@ -1,7 +1,3 @@
-<thinking>
-The form is a tool for collecting feedback from veterinarians about their experiences with veterinary interns, specifically their supervisors. This form is used to collect qualitative and quantitative data about the internship program, including feedback from both the interns and their supervisors. The data collected will help us better understand the strengths and weaknesses of the program and make informed decisions about how to improve it. This form should only be completed by the supervisor of the intern, and the feedback will be kept confidential.
-</thinking>
-
 # Veterinary Internship Mentor Review Survey - Help Guide
 ## Purpose
 This form is a survey for veterinary professionals to provide feedback on their experiences with veterinary interns. We want to collect as much information as possible to improve the internship program.

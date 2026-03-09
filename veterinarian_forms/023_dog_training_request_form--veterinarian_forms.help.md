@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to gather information about the dog's training request from the user. It includes fields such as user information, dog information, appointment date, training type, training location, additional comments, and user phone number. This form is likely used by a veterinary clinic or a pet training organization to collect relevant data for scheduling and preparing for the dog's training sessions.
-
-To prevent duplication, the form might be used in a workflow that checks for existing requests from the same user or dog before allowing the submission of a new form.
-
-The form fields are designed to be completed by the user, and each field is explained below.</thinking>
-
 # Dog Training Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your dog's training request, including your contact information, dog details, and any additional comments or requests you may have.

@@ -1,14 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the Pet Examination Appointment Form, we first need to understand its purpose and requirements.
-
-The form is designed to gather information for a pet examination appointment, likely for a veterinary clinic or animal hospital. This form will be used to collect relevant details about the pet, examination date and time, and other necessary information for the veterinarian to conduct a thorough examination.
-
-To ensure that the form is complete and accurate, we should check for any potential duplicate or irrelevant information. For example, if a pet's medical history is already known, it's likely not necessary to include it in the form.
-
-With these considerations in mind, let's create the help guide.
-
-</thinking>
-
 # Pet Examination Appointment Form - Help Guide
 ## Purpose
 The Pet Examination Appointment Form is designed to gather information for a pet examination, including pet details, examination date and time, and other necessary information for the veterinarian to conduct a thorough examination.

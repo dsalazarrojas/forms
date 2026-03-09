@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Confidence And Fitness Assessment - Help Guide
 
 ## Purpose

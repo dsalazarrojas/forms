@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a company's identity, tax status, and business activities. This form is designed to verify a company's details and gather relevant information that can be used for various purposes such as tax purposes, government records, or other regulatory needs.
-</thinking>
 # Company Information And Tax Verification - Help Guide
 
 ## Purpose

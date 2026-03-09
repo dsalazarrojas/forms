@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registering vendors for easter events. The form should not be filled by internal users, as this is a vendor registration form. The form is not intended for editing or updating existing vendor information. Vendors must be verified before being accepted.
-</thinking>
-
 # easter_event_vendor_registration_form - Help Guide
 ## Purpose
 This form is for vendors to register themselves for Easter events. Vendors can provide their company name, contact information, and other details to be listed on the Easter event's vendor page.

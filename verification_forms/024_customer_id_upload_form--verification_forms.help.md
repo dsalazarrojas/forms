@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for customers to upload their ID documents for verification purposes. The form may be used to collect ID documents from customers to verify their identity during the onboarding process or for other purposes such as age verification. The form is likely used in industries like retail, finance, or government services. 
-</thinking>
-
 # Customer ID Upload Form - Help Guide
 ## Purpose
 This form is designed to help customers upload their ID documents for verification purposes. This may include age verification, onboarding, or other identity verification processes.

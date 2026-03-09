@@ -1,14 +1,3 @@
-<thinking>
-This form is a crucial tool for animal shelters to collect information from animal owners who are surrendering their pets. The form's purpose is to ensure that the shelter receives the necessary details about the animal and its owner in a clear and organized manner, ultimately facilitating a smooth and safe transfer process for both the animal and the owner. This form is designed to be completed by animal owners who are surrendering their pets due to various reasons such as moving, financial hardship, allergies, behavioral issues, or other personal reasons. By using this form, the owner can provide detailed information about themselves and their pet, which helps the shelter to understand the animal's background, medical history, and behavior, enabling them to make the best decisions for the animal's care and well-being.
-
-Before proceeding, please ensure that the information you provide is accurate and truthful. This form is a representation of your commitment to the animal's well-being and your responsibility as an owner.
-
-Please note that some fields are marked as required, meaning that they must be completed for the form to be submitted. If you are unsure about any information, please do not hesitate to ask for assistance from shelter staff.
-
-Please review the form carefully and complete it accurately to help us provide the best possible care for your animal.
-
-</thinking>
-
 # Animal Surrender Form - Help Guide
 ## Purpose
 The Animal Surrender Form is a crucial tool for animal shelters to collect necessary information from animal owners who are surrendering their pets. The form is designed to gather information about the owner and the animal to ensure a smooth and safe transfer process.

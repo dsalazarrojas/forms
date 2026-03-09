@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request resources for public health concerns related to veterinary services. It is intended for veterinary professionals, animal owners, or other relevant stakeholders to submit requests for resources, such as expertise, equipment, or funding, to address public health concerns. This form is not intended for general inquiries or routine requests. Please ensure that you have already tried to address the concern through other means before submitting a request through this form. Additionally, if you have already submitted a similar request, please do not resubmit as it may lead to unnecessary duplication of efforts.
-</thinking>
-
 # Veterinary Public Health Resource Request Form - Help Guide
 ## Purpose
 The Veterinary Public Health Resource Request Form is a tool for submitting requests for resources related to public health concerns in the veterinary field. This form should only be used for requests that are not addressed through other means.

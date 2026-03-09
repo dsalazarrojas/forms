@@ -1,5 +1,3 @@
-<thinking>As a veterinary clinic, it's essential to ensure that pet owners understand their responsibilities and obligations when leaving their pets with us for boarding. This form is a crucial document that outlines the terms and conditions of our services, including liability, payment, and emergency contact information. It's essential to fill out this form accurately and thoroughly to avoid any confusion or misunderstandings. Please review each field carefully to ensure you're aware of your obligations as a pet owner.</thinking>
-
 # Pet Boarding Waiver And Consent Form - Help Guide
 ## Purpose
 

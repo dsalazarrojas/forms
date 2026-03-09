@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is used correctly by parents/guardians and the child. This form is a brand application for kids, where we're looking for talented kids to collaborate with our brand. To avoid duplicate submissions and ensure we're not getting irrelevant applications, we should verify that the child's name matches with the parent's information and that the parent is aware of our collaboration requirements and terms. Please fill in the necessary information accurately and completely, and don't hesitate to reach out if you have any questions or concerns.
-</thinking>
-
 # Brand Application For Kids - Help Guide
 
 ## Purpose

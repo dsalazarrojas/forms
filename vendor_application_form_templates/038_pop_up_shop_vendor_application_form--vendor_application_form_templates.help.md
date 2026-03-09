@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for vendors to create an application for a shop. Vendors can apply for a shop using this form. 
 
 To be eligible for a shop, the vendor should have a valid license. This form will be used to collect the required information from the vendor. The form fields are categorized into different sections. The vendor is expected to fill in their contact information, order details, and license information. The vendor can add any other relevant details in the "Other Details" field. 

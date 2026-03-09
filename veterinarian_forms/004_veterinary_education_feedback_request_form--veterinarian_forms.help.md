@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation from veterinarians on their educational sessions. The purpose of this form is to gather information about the quality of the sessions, identifying areas of improvement, and providing suggestions for future sessions. This form should be completed by veterinarians who have attended a session, and it is intended for internal use within the organization.
-
-When completing this form, please ensure that you are providing honest and constructive feedback. This form is a valuable tool to help improve the quality of future sessions.
-
-Before proceeding, please note that some fields are optional and may not be applicable to your experience. Please only fill in the fields that are relevant to your feedback.
-
-</thinking>
-
 # veterinary_education_feedback_request_form - Help Guide
 ## Purpose
 This form is used to collect feedback from veterinarians on their educational sessions.

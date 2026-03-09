@@ -1,12 +1,3 @@
-<thinking>
-We should consider the following:
-The Reuse & Refill Program Application Form is a form designed to support a reuse and refill program for vendors. 
-This form is intended to gather information from vendors to facilitate the application process. 
-To ensure that this form is used correctly, we must verify that it is only accessed by authorized parties. 
-Please do not submit this form without proper authorization.
-
-</thinking>
-
 # Reuse & Refill Program Application Form - Help Guide
 ## Purpose
 The Reuse & Refill Program Application Form is a document designed to collect necessary information from vendors who wish to participate in the Reuse & Refill Program. This form is used to facilitate the application process and ensure that all required details are provided.

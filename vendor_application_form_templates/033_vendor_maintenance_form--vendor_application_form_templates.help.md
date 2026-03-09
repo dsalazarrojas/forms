@@ -1,7 +1,3 @@
-<thinking>
-Internal purpose of this form is to collect and update vendor information, including contact details and financial data. This form should be used to provide accurate and up-to-date vendor information. To avoid duplication of effort, please ensure that only necessary changes are made to the existing vendor record. If the vendor has been previously set up, please do not create a new record.
-</thinking>
-
 # Vendor Maintenance Form - Help Guide
 ## Purpose
 The Vendor Maintenance Form is used to collect and update vendor information, including contact details and financial data.

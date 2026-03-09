@@ -1,6 +1,3 @@
-<thinking>
-The form "Employment Verification Form For Child Care" is a crucial tool used for verifying the employment information of a child care provider. Its purpose is to gather essential details about the provider's employment status, company, job title, start and end dates of employment, and any other relevant information. This form is designed to ensure that child care providers are accurately represented and their employment status is up-to-date. This form should only be filled out by the child care provider or their authorized representative, and not by anyone else. To ensure data accuracy, please fill out the form carefully and completely. Please note that the form is not intended to be a substitute for any other forms or documentation required by the government or other regulatory bodies.</thinking>
-
 # Employment Verification Form For Child Care - Help Guide
 ## Purpose
 The Employment Verification Form For Child Care is used to gather essential details about a child care provider's employment status, including their company, job title, start and end dates of employment, and other relevant information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for capturing consent information from participants in a veterinary interview, likely for research or data collection purposes. The form appears to be designed to collect contact information, details of the interview, and consent status. The form is likely used in a veterinary setting, such as a clinic or hospital, where consent is required for various procedures or studies. This form is likely used for internal purposes, such as tracking participant engagement or ensuring consent compliance. It's essential to ensure that this form is completed accurately and consistently to maintain data quality and participant trust.
-</thinking>
-
 # wildlife_veterinary_interview_consent_form - Help Guide
 ## Purpose
 This form is designed to capture consent information from participants in a wildlife veterinary interview. It is used to record contact details, interview specifics, and consent status.

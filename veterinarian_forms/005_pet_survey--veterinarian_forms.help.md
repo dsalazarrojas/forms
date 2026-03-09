@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about pets and their owners for the veterinary clinic. This form is meant to be filled out by clients visiting the clinic, so it's essential to ensure it is clear and easy to understand for non-experts. 
-The form is designed to gather pet-related information such as pet type, age, and ownership, as well as contact and owner information for future follow-up and treatment purposes. It is not mandatory and can be filled out at the client's discretion.
-</thinking>
-
 # Pet Survey - Help Guide
 
 ## Purpose

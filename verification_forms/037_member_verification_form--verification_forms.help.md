@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I will analyze the provided YAML to ensure I understand its purpose and content. The Member Verification Form appears to be a general verification form used to collect personal information from members. It consists of several fields for various personal details such as first and last name, email, phone number, date of birth, member since, select options, and address. The form seems to be used for general member verification purposes. It does not appear to have any specific business or technical constraints that would require additional explanation or clarification.</thinking>
-
 # Member Verification Form - Help Guide
 
 ## Purpose

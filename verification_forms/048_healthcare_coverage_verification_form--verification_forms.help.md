@@ -1,23 +1,3 @@
-<thinking>
-
-This form is designed to verify healthcare coverage information for patients. It is intended to be used by healthcare providers to ensure that patients have valid healthcare coverage. The form requires the following information:
-* Patient name
-* Date of birth (if applicable)
-* Patient address
-* Provider ID (if applicable)
-* Provider name
-* Policy number (if applicable)
-* Effective date (if applicable)
-* Expiration date
-* Coverage verification status (yes, no, or not applicable)
-* Coverage issuer (Blue Cross, Blue Shield, United American, Aetna, Cigna, or other)
-* Verification date and time (if applicable)
-* Notes
-
-The form will help healthcare providers to confirm whether a patient has valid healthcare coverage. This form should only be filled out by authorized healthcare providers.
-
-</thinking>
-
 # healthcare_coverage_verification_form - Help Guide
 ## Purpose
 This form is designed to verify healthcare coverage information for patients.

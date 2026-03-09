@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is filled out correctly to avoid duplication and ensure it's filled out for the right purpose. This form is meant for government vendors to register their businesses and provide necessary information for review. Please review each field carefully and provide accurate information. Note that some fields are optional, but it's recommended to fill out all relevant details for a thorough review process.
-</thinking>
-
 # Government Vendor Registration Form - Help Guide
 ## Purpose
 This form is designed for government vendors to register their businesses and provide essential information for review. It helps the government to keep track of vendors and their qualifications.

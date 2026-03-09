@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for vendors who want to register for the Craft Fair. The purpose of this form is to collect essential contact information from vendors, including their name, email, phone, and address. The form will help us verify their identity and contact details for future communication and event organization purposes. We will not process any duplicate applications from vendors who have already registered for this event.
-</thinking>
-
 # Vendor Registration Form Craft Fair - Help Guide
 ## Purpose
 

@@ -1,18 +1,3 @@
-<thinking>
-To ensure this form is used correctly and efficiently, please note that this form is designed for verifying ownership and providing information to support that process. It is essential to fill out the form accurately and completely. The fields provided are for collecting personal information and supporting documents, which will be reviewed to verify ownership. 
-
-This form is a multi-page form, and it's crucial to fill it out page by page. Please make sure to complete each page before proceeding to the next one. This form is not intended to be a substitute for any legal or administrative process; it's a supporting document for verification purposes only.
-
-Before starting, consider if you have all the necessary documents and information to fill out this form. If you're unsure about any part of the process, please reach out to the relevant authority or support team for guidance.
-
-Please fill out each field carefully, ensuring accuracy and completeness. In cases where you need to provide a date or time, use the format as specified. For fields asking for a selection, choose the option that best applies to your situation.
-
-This form may be reviewed by multiple stakeholders, so be clear and concise in your responses. Any missing or incomplete information may lead to delays in the verification process.
-
-Finally, if you have any questions or concerns about this form or the verification process, please don't hesitate to contact the relevant authority or support team.
-
-</thinking>
-
 # Proof Of Ownership Verification Form - Help Guide
 ## Purpose
 The Proof Of Ownership Verification Form is a document designed to support the verification process of ownership. It helps gather accurate and detailed information from you, the owner, to facilitate a smooth verification process.

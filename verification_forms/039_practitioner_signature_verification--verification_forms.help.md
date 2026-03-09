@@ -1,7 +1,3 @@
-<thinking>
-This form is used for verifying the signature of a practitioner. The purpose of this form is to collect and verify the practitioner's signature, including date of birth, date of verification, and signature type. The form is intended for practitioners who need to be verified as part of the onboarding process. This form should only be filled out once per practitioner, and the verification process should be repeated periodically (e.g., every 6-12 months) to maintain accuracy. This is a one-time form for a new practitioner, or when the practitioner's status changes (e.g., medical license renewal, change in signature type).
-</thinking>
-
 # Practitioner Signature Verification - Help Guide
 
 ## Purpose

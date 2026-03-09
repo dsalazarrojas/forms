@@ -1,7 +1,3 @@
-<thinking>
-# To prevent duplication or incorrect usage, we must ensure all forms are reviewed and understood before use. This form will guide you through the process of filling out the Canine Vaccination Consent Form.
-</thinking>
-
 # Canine Vaccination Consent Form - Help Guide
 ## Purpose
 The Canine Vaccination Consent Form is a crucial document that ensures the safe and informed administration of vaccinations to your dog. By filling out this form, you're authorizing our veterinary clinic to administer the necessary vaccinations to your dog, while also confirming that you've been informed of the potential risks and benefits of vaccination.

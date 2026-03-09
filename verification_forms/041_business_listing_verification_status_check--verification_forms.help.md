@@ -1,10 +1,3 @@
-<thinking>
-This form is used to check the status of business listings in the context of verification processes. The purpose of this form is to gather information about the business listing, including its name, platform, claimed status, verification method, verification date, and any additional notes about the verification process. This form is likely used by administrators or verification teams to track and manage the verification status of business listings.
-
-Before completing this form, please ensure that it is not a duplicate submission and that you have the necessary permissions to access the relevant business listing information.
-
-</thinking>
-
 # Business Listing Verification Status Check - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the status of business listings. It is used to track and manage the verification status of these listings.

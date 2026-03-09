@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to collect information about the daily training sessions for detection dogs. The purpose of this form is to gather essential details about each session, including the dog's name, the type of training conducted, the date and time of the session, and the location where the training took place. The form also captures information on the duration of the training session, the trainer's name, and any notable equipment or tools used during the session. Additionally, space is provided for notes and feedback from both the handler and the trainer. This form is designed to be a comprehensive record of the dog's training progress, and it is meant to be filled out daily to maintain an accurate and up-to-date record of the dog's training sessions.
-
-Before starting, please ensure that you are filling out this form for the correct day's training session and that the information you provide is accurate and complete.
-
-This form is not intended for duplicate entries or outdated information. Please do not fill out this form for previous days or sessions; instead, use the provided fields to capture the most recent information.
-
-Please review each field carefully and ensure that you are providing the most accurate and relevant information possible.
-
-To avoid confusion, please use the available options for select fields and provide specific details in text fields as needed.
-
-Please ensure that you have filled out all required fields to avoid errors in data processing.
-
-</thinking>
-
 # Detection Dog Daily Training Record Form - Help Guide
 
 ## Purpose

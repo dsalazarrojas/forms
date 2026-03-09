@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to rate the quality of service provided by suppliers. The form collects feedback on three key aspects: quality, communication, and reliability. This information will help management track and improve the services offered by suppliers.
-The form is used to collect feedback from users on their experience with the supplier, and it is not intended for internal use only. Please ensure that you are accessing the correct form and filling it out for the intended purpose.
-The form consists of several fields that need to be filled out by the user. Please ensure that you are filling out the correct fields with accurate and complete information.
-</thinking>
-
 # veterinary_supplier_quality_rating_survey - Help Guide
 ## Purpose
 The veterinary_supplier_quality_rating_survey form is used to collect feedback on the quality of service provided by suppliers. It helps management track and improve the services offered by suppliers.

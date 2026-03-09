@@ -1,14 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "Pet Owner Data Correction Request Form" to ensure that end-users understand the form's purpose, how to complete it, and what each field means. This form is designed to collect corrections to pet owner data, and the fields are intended to gather essential information for this purpose. It's essential to keep the explanation concise and practical, focusing on the most critical details to help users navigate the form effectively.
-
-The form is divided into several sections, including:
-
-*   Form purpose: The form is used for pet owners to request corrections to their data. This form will help us update and ensure the accuracy of the pet owner's information.
-*   How to complete the form: Each section will be explained clearly, and any ambiguous or unclear labels will be clarified for the user's ease of use.
-*   Field-by-Field Explanation: A detailed explanation of each field will be provided.
-
-</thinking>
-
 # Pet Owner Data Correction Request Form - Help Guide
 
 ## Purpose

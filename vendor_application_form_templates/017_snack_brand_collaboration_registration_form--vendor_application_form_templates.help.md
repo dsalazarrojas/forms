@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from snack brand vendors that want to collaborate with the company. The purpose of this form is to gather essential details about the brand, their products, and their collaboration request. Before proceeding, please ensure that you are not already registered as a collaborating vendor. If you are unsure, contact our support team to verify your status.
-</thinking>
-
 # Snack Brand Collaboration Registration Form - Help Guide
 ## Purpose
 This form is used for snack brand vendors to register their interest in collaborating with us. Please fill out the form with accurate and complete information about your brand and your collaboration request.

@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that the form is filled out correctly and efficiently. To do this, let's review the form fields and determine the best way to guide the end-user. We'll need to explain each field clearly and concisely, making sure that they understand what each field is for and what they're supposed to enter.
-
-Upon reviewing the form, it appears to be a comprehensive verification form for passports. It asks for various details including client information, passport number, date of issue, place of issue, issued by, photo front and back, passport holder information, address, nationality, passport country, and more. We'll need to break down each field and explain it in a way that's easy to understand.
-
-Let's assume that the end-users are familiar with the basic concepts of passport verification.
-
-</thinking>
-
 # Passport Verification Form - Help Guide
 ## Purpose
 This form is designed to collect comprehensive information about a passport for verification purposes. Please fill out the form accurately and thoroughly to ensure proper verification.

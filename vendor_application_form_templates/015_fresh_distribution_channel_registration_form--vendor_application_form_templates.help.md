@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to register a fresh distribution channel for a company or product. This form is designed to collect information about the user, their sales details, contact information, sales representative, and payment terms. This form is meant to be completed by businesses or individuals who want to establish a relationship with the company to distribute their products.
-
-The form is used to collect general information, not to process orders. It's meant to be used for sales and distribution purposes only.
-
-Before completing this form, please ensure that you have not already submitted a form for the same purpose and channel. If you're unsure, contact [contact: form@gic.mx](mailto:form@gic.mx) to confirm.
-
-</thinking>
-
 # Fresh Distribution Channel Registration Form - Help Guide
 ## Purpose
 The Fresh Distribution Channel Registration Form is designed to collect information from businesses or individuals who want to establish a relationship with the company for product distribution.

@@ -1,16 +1,3 @@
-<thinking>
-This form seems to be a template for a veterinary clinic or vet visit, aimed at collecting relevant information about a pet during an exam. The "Pet Exam Form" is designed to be completed by pet owners or attendants to provide details about their pet's information, the owner's info, exam results, and any relevant notes. 
-
-The form is likely used for various purposes, such as keeping track of pet health data, updating medical records, or preparing for follow-up care. 
-
-The structure of the form suggests a basic and minimalistic approach, which could be used for a quick and efficient data collection process.
-
-It is worth noting that the form is not affiliated with any specific platform, suggesting that it's a free and open-source template created using public metadata as inspiration.
-
-Before creating the guide, it's essential to ensure that the form's fields are accurately represented and that their explanations are clear and concise.
-
-</thinking>
-
 # Pet Exam Form - Help Guide
 ## Purpose
 The "Pet Exam Form" is a template designed to collect vital information about a pet during an exam. It's meant to be filled out by pet owners or attendants to provide essential details about their pet, the owner, and the exam results. This guide will walk you through each step of the form, making it easier to complete and understand.

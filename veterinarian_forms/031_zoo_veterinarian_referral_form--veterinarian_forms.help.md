@@ -1,8 +1,3 @@
-<thinking>
-This help guide is being created with the intention of informing end-users about the purpose and use case of the Zoo Veterinarian Referral Form.
-The form is designed to collect information about an animal's health concerns and care requirements from zoon-related organizations. This information will be used by veterinarians to provide proper care and treatment to the animals. The form should only be used by authorized zoo or vet personnel as it contains sensitive information.
-</thinking>
-
 # Zoo Veterinarian Referral Form - Help Guide
 ## Purpose
 The Zoo Veterinarian Referral Form is used to collect and document information about animal health concerns and care requirements from zoon-related organizations. This information will be used by veterinarians to provide proper care and treatment to the animals.

@@ -1,5 +1,3 @@
-<thinking>...The Shared Housing Verification Form is used for verification of shared housing arrangements. It helps users verify the details of shared housing agreements. The form is typically used to confirm the start date, end date, and other relevant details of a shared housing arrangement. It may be used by landlords or property managers to ensure that all parties involved in a shared housing arrangement are aware of the terms of the agreement. To prevent duplicate entries, it is recommended to fill out the form for each new shared housing arrangement. The form is designed to be completed by the tenant or roommates involved in the shared housing arrangement. The goal of the form is to provide a clear and concise record of the agreement terms... </thinking>
-
 # Shared Housing Verification Form - Help Guide
 
 ## Purpose

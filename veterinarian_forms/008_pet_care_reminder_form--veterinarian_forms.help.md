@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help pet owners schedule and keep track of veterinary care reminders for their pets. The form asks for basic information such as the type of pet, reminder date, and procedure type (e.g., surgery, check-up, vaccination). The pet owner can select which reminders have been sent and provide the name of the pet and the veterinarian. This form aims to standardize and simplify the process of organizing pet care reminders, making it easier for pet owners to stay on top of their pet's health.
-
-</thinking>
-
 # Pet Care Reminder Form - Help Guide
 ## Purpose
 

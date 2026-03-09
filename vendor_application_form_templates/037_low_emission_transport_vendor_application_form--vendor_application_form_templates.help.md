@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for vendors to apply for low emission transport services. Vendors will be able to provide details about themselves, their services, and documents related to their business. Reviewers will use this form to track and review vendor applications, making decisions on whether to approve or reject them. This form will be used to collect information from both the vendor and the reviewer, ensuring that all relevant details are documented and easily accessible.
-
-</thinking>
-
 # Low Emission Transport Vendor Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from vendors applying for low emission transport services and reviewers assessing these applications.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on risk management practices within veterinary clinics. It assesses the current state of risk awareness, protocols, safety, and quality among veterinary staff. The form will help identify areas of improvement and provide a basis for training and education to enhance risk management. 
-</thinking>
-
 # Veterinary Risk Management Survey - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the current risk management practices within veterinary clinics, specifically focusing on staff awareness, protocols, safety, and quality.

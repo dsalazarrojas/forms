@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide aims to ensure users understand the purpose and requirements of the Veterinary Software Demo Registration form. The form is intended to collect information from veterinarians interested in participating in a demo of the veterinary software. The form should only be filled out once and by a single person representing their clinic. By completing this form, users will be able to reserve a time slot for a demo and provide their contact and clinic information to receive updates and followup on their demo.
-
-To prevent duplication, users will be informed if their clinic is already registered for the demo. The form's fields are designed to collect relevant information to facilitate the demo experience. Each field is clearly labeled and explained below.
-
-</thinking>
-
 # Veterinary Software Demo Registration - Help Guide
 ## Purpose
 The Veterinary Software Demo Registration form is a required step for clinics interested in participating in a demo of the veterinary software. By filling out this form, you will be able to reserve a time slot and provide your clinic and contact information for updates and followup on the demo.

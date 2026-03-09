@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Teleradiology Request - Help Guide
 ## Purpose
 This form is for requesting veterinary telemedicine services, allowing you to provide essential medical information and images to support remote diagnoses and treatments. By filling out this form, you will be able to provide detailed medical history, present your medical images, and add any additional information necessary for your veterinarian's evaluation.

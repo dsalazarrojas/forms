@@ -1,11 +1,3 @@
-<thinking>
-
-To provide a helpful user guide for the Adopter Application Form, we must first consider the form's purpose and the context in which it will be used. This form appears to be designed for individuals or families seeking to adopt pets from a shelter or organization. The form's purpose is to gather necessary information from the adopter to ensure that the pet is going to a suitable home. 
-
-Before proceeding, we should check if there are any internal requirements or guidelines that may affect how this form should be completed. For example, are there any specific criteria that must be met for household members or pets at home? Are there any additional documents or information that need to be provided with the application? Understanding these internal requirements will help us provide a more accurate and complete user guide.
-
-</thinking>
-
 # Adopter Application Form - Help Guide
 ## Purpose
 The Adopter Application Form is designed to collect necessary information from individuals or families interested in adopting pets from our organization. This form helps us ensure that the pet is placed in a suitable home and that all adopters meet our organization's adoption criteria.

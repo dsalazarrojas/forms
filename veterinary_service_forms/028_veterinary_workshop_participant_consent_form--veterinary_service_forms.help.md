@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information from veterinary workshop participants, ensuring they understand and agree to the terms and conditions of the workshop. The form is likely to be used by veterinary clinics, hospitals, or organizations hosting workshops for veterinarians or veterinary students. The purpose of this form is to obtain consent from participants, gather emergency contact information, and collect workshop details.
-
-Before filling out this form, please ensure you are familiar with the workshop schedule, location, and any specific requirements or expectations. If you have any questions or concerns, feel free to contact the hosting organization.
-
-</thinking>
-
 # Veterinary Workshop Participant Consent Form - Help Guide
 ## Purpose
 The form is used to obtain consent from participants in a veterinary workshop, ensuring they understand and agree to the terms and conditions of the event.

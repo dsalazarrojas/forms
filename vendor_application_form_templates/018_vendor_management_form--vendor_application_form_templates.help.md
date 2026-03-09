@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for vendor management. The main goal is to collect information about a vendor. This form will be used to create, update, or edit vendor records. Before completing the form, please check if a vendor already exists in the system to avoid duplication. If the vendor exists, update their information instead of creating a new record.
-</thinking>
-
 # Vendor Management Form - Help Guide
 ## Purpose
 The Vendor Management Form is used to collect and manage information about vendors. It is a multi-page form designed to create, update, or edit vendor records.

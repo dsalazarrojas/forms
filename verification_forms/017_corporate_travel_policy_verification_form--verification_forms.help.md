@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to verify employee understanding of a company's travel policy. It's designed to ensure employees acknowledge and accept the travel policies and procedures set forth by the company. The form is likely used during the onboarding process or as a regular review of travel policies to ensure employees are aware of their responsibilities and expectations.
-</thinking>
-
 # corporate_travel_policy_verification_form - Help Guide
 ## Purpose
 The corporate travel policy verification form is used to verify that employees have read, understood, and accepted the company's travel policy. This form is an essential part of the onboarding process for new employees, ensuring they are aware of their responsibilities and expectations when it comes to company travels.

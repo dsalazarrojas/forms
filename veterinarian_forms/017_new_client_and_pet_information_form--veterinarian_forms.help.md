@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from new clients and their pets at a veterinary clinic or hospital. The purpose of this form is to gather essential data about the client and their pet, including the veterinarian's information, pet medical history, and vaccination records. This information will be used to provide personalized care and services to the client and their pet.
-
-To ensure the accuracy and completeness of the data, the form is divided into several sections, each with its own specific fields. The goal is to guide the client through the process of filling out the form efficiently and effectively.
-
-</thinking>
-
 # New Client And Pet Information Form - Help Guide
 
 ## Purpose

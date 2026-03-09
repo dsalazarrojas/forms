@@ -1,5 +1,3 @@
-<thinking>As a veterinary expert, you are about to fill out a form that helps to renew your veterinary license. This form is designed to gather necessary information from you to update your license status. Please make sure to fill out the form accurately and thoroughly, as the information will be used to verify your license renewal.</thinking>
-
 # Veterinary License Renewal Form - Help Guide
 ## Purpose
 The Veterinary License Renewal Form is designed to help update your veterinary license status. This form will ask for your personal and professional information, as well as your practice details.

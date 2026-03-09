@@ -1,9 +1,3 @@
-<thinking>
-We will now create a user-facing help guide for the Veterinary Clinical Trial Experience Survey form.
-This form is designed to collect information from pet owners about their experiences with a clinical trial related to veterinary care. The purpose of this form is to gather data that can be used to evaluate the effectiveness and safety of new veterinary treatments, medications, or procedures. This form is intended for pet owners who have participated in a clinical trial and are willing to share their experiences.
-To ensure that each participant's response is accurate and helpful, we will check for duplicate responses and relevance before allowing submission.
-</thinking>
-
 # Veterinary Clinical Trial Experience Survey - Help Guide
 ## Purpose
 The Veterinary Clinical Trial Experience Survey is a form designed to collect information from pet owners who have participated in a clinical trial related to veterinary care. This information will be used to evaluate the effectiveness and safety of new treatments, medications, or procedures for pets.

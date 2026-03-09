@@ -1,10 +1,3 @@
-<thinking>
-This form is used to verify the details of a debt collection, including the debtor's information, the debt amount, and the method of verification. The form is designed to ensure that the necessary information is accurately collected and stored for future reference. The form is not meant to be a comprehensive debt collection tool, but rather a simple verification form to supplement the debt collection process.
-
-This form is intended for use by authorized personnel within the organization to gather information for debt collection purposes. It is not intended for external use by debtors or third parties. Duplicate submissions should be avoided to prevent data inconsistencies and inaccuracies.
-
-</thinking>
-
 # Debt Collection Verification Form - Help Guide
 ## Purpose
 The Debt Collection Verification Form is a tool used to gather and store information about debt collection activities. Its purpose is to ensure that all necessary details are collected and accurately recorded for future reference.

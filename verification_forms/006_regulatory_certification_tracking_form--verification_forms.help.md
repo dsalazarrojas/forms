@@ -1,9 +1,3 @@
-<thinking>
-This form aims to track the certification status of a user, providing an opportunity to capture essential details about the user, their certification, and the verification process. To ensure the effectiveness of this form, I will check for internal consistency and non-duplication of information, avoiding unnecessary or redundant fields.
-
-The form will cover various aspects such as user information, certification details, renewal information, and verification specifics, all of which will be explained in the following help guide.
-</thinking>
-
 # Regulatory Certification Tracking Form - Help Guide
 ## Purpose
 The Regulatory Certification Tracking Form is designed to capture and track the certification status of users. This form aims to collect essential information about the user, their certification, and the verification process for efficient tracking and management.

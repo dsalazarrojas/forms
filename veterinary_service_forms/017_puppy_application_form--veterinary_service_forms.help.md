@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a comprehensive user-facing help guide for the Puppy Application Form.</thinking>
-
 # Puppy Application Form - Help Guide
 ## Purpose
 

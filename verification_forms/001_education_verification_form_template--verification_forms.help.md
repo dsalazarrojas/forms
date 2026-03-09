@@ -1,10 +1,3 @@
-<thinking>
-To verify the accuracy of education-related information, organizations often require a formal process to confirm the details provided by individuals. This Education Verification Form Template is designed to gather essential information about a person's educational background, including their degree, field of study, graduation date, and other relevant details. The form helps to reduce errors and ensure that the information is accurate, reducing the risk of misinformation or misrepresentation.
-
-Before proceeding, please ensure that the information you provide is accurate and complete. If you have already filled out this form, please check if there are any changes or updates to be made before resubmitting.
-
-</thinking>
-
 # Education Verification Form Template - Help Guide
 ## Purpose
 

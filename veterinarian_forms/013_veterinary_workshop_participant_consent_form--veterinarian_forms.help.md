@@ -1,13 +1,3 @@
-<thinking>...
-
-This form is designed to collect information from workshop attendees, including their participation status, personal details, and emergency contact information. The form aims to gather consent from participants, as well as their preferred contact method. It is not intended for general medical consultations or treatment planning.
-
-The form is not designed to be used for any other purpose than collecting workshop participant information. If you're unsure about filling out this form, please ask your workshop organizer or manager for clarification. 
-
-Please note that the form is not a replacement for medical treatment, diagnosis, or emergency services. If you have a medical emergency, please contact your local hospital or emergency services directly.
-
-</thinking>
-
 # veterinary_workshop_participant_consent_form - Help Guide
 ## Purpose
 This form is for workshop participants to provide their consent and contact information. It is used to collect data about their participation status, personal details, and emergency contact information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Credential Verification Employment Form - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-The purpose of the marathon-expo-vendor-registration-form is to allow vendors to register for the marathon expo by providing required information such as vendor details, payment options, and booth preferences. This form is designed to collect relevant data from the vendor to facilitate their participation in the event. 
-
-Before proceeding, please ensure you are a registered vendor and have not previously submitted the form.
-
-To ensure accurate processing, please fill in the form carefully and thoroughly.
-
-The form consists of 16 fields, each with a specific purpose. Below is a detailed explanation of each field.
-
-</thinking>
-
 # marathon-expo-vendor-registration-form - Help Guide
 ## Purpose
 

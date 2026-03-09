@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the form is being completed for the correct purpose and that there is no duplication of effort. This form is used to renew certifications for products, ensuring that all relevant information is up-to-date and accurate. This includes product details, contact information, and other relevant data. The form should only be used by authorized individuals or organizations with a legitimate reason for renewing a product's certification.
-</thinking>
 # Product Certification Renewal Application Form - Help Guide
 ## Purpose
 This form is used to renew the certification of a product, ensuring that all relevant information is up-to-date and accurate. Please complete this form if your product requires certification renewal.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Human Verification Challenge - Help Guide
 ## Purpose
 The Human Verification Challenge is a form designed to evaluate human users' ability to complete a series of challenges that verify their humanity. This form is used to assess the user's cognitive abilities and provide a way to verify that the user is not a bot. 

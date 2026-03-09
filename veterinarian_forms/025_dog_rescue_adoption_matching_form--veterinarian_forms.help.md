@@ -1,10 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information from adopters about the details they want to provide for an adopted dog, including the adopter's own details, the dog's details, the criteria they are looking for in a matching, any additional notes, and contact information such as email and phone number. This form is designed for end-users to input the required information to facilitate the adoption process.
-
-To complete this form, the adopter should start by filling in their details, such as their email address and phone number. Then, they should provide information about the dog they are adopting, including the name, and any additional notes or details. The adopter should also select the dog that they are interested in adopting and any additional dogs that they are interested in adopting if there are more than one. Finally, they can add any additional notes or comments in the notes field.
-
-The form is divided into several sections: Adopter Details, Dog Details, Matching Criteria, Notes, Email, Phone, Adopted Dog, and Additional Dogs. Each field is explained below.</thinking>
-
 # Dog Rescue Adoption Matching Form - Help Guide
 ## Purpose
 This form is used to collect information from adopters to facilitate the adoption process.

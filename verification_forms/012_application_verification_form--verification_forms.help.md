@@ -1,5 +1,3 @@
-<thinking>This form is used for verifying an applicant's information for employment purposes. It is essential to ensure that the form is filled out accurately and thoroughly to provide a comprehensive verification of the applicant's background. Before filling out this form, please ensure that you have all the necessary information required for verification and that the form is not a duplicate of another verification request for the same applicant.</thinking>
-
 # Application Verification Form - Help Guide
 
 ## Purpose

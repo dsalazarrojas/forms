@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for veterinarians to collect information from pet owners about their animals' details, medical conditions, and emergency contacts in preparation for potential disasters. The form is designed to be filled out by the pet owner and signed by the veterinarian to establish a record of the animal's information and the owner's emergency contact details. This form should only be filled out once for each animal, and the information should be kept up-to-date to ensure the veterinarian has accurate and current information in case of an emergency.
-</thinking>
-
 # Veterinary Disaster Preparedness Registration Form - Help Guide
 ## Purpose
 This form is designed to collect and store critical information about a pet's owner and their animal's details, emergency contacts, and medical history. The form serves as a record-keeping tool for veterinarians, ensuring they have accurate and up-to-date information about the pet and owner in the event of a disaster or emergency.

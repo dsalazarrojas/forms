@@ -1,12 +1,3 @@
-<thinking>
-  The form is designed to collect registration information from participants for veterinary public safety training sessions. 
-  The form should only be used for registration purposes, and not for any other use, such as survey, evaluation, or certification. 
-  Each participant is expected to fill out the form only once. 
-  The form is not affiliated with, endorsed by, or derived from any form platform. 
-  The form was generated based on public survey topic metadata and is an original adaptation. 
-  It is not a copy, extract, or use of proprietary content from any other form creation, data collection, or survey platform.
-</thinking>
-
 # Veterinary Public Safety Training Registration - Help Guide
 ## Purpose
 The Veterinary Public Safety Training Registration form is designed to collect registration information from participants for veterinary public safety training sessions.

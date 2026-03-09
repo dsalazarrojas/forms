@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a dog's care progress, specifically their diet and water intake. This form is likely used by veterinarians or pet caretakers to monitor and record the progress of dogs under their care. To ensure that this form is filled out correctly, we'll need to review the form fields and provide instructions on how to complete it.
-
-Before we begin, let's check that we're not duplicating any effort and that this form is actually needed in the first place. If this form has already been created in the past, please disregard the following instructions and refer to the previous documentation.</thinking>
-
 # dog_care_progress_report - Help Guide
 ## Purpose
 The dog care progress report is used to collect information about a dog's diet and water intake, which is crucial for monitoring their progress and making informed decisions about their care.

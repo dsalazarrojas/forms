@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect information for the registration of veterinary products. The purpose of this form is to gather necessary data from manufacturers and suppliers about their products, including details about the product name, manufacturer, formulation, and approval status. This information is essential for the registration and approval process.
-The form will ask for product-specific information, contact details of the supplier, and other relevant data such as product category, subcategory, and subsubcategory. It's crucial to fill out the form accurately to ensure proper product registration and approval.
-The form will be reviewed internally to ensure all required fields are completed and the information provided is accurate and complete. Please fill out the form carefully and thoroughly.</thinking>
-
 # Veterinary Product Registration Application Form - Help Guide
 ## Purpose
 The Veterinary Product Registration Application Form is designed to collect information for the registration of veterinary products. This form helps the manufacturer and supplier provide necessary data for the registration and approval process.

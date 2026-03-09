@@ -1,9 +1,3 @@
-<thinking>As the designer of this form, I'd like to explain why we're using this form as a vendor information template. This form is designed to gather essential information from vendors about their company, allowing us to effectively manage and communicate with them. It's crucial that you provide accurate and up-to-date information to ensure a smooth experience for both you and our team.
-
-Before proceeding, please check if you've already completed this form for your company. If you have, you can skip to the next step.
-
-To complete this form, you'll need to fill out the following sections:</thinking>
-
 # Vendor Information Form - Help Guide
 
 ## Purpose

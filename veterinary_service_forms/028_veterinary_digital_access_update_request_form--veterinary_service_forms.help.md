@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Digital Access Update Request Form - Help Guide
 ## Purpose
 The Veterinary Digital Access Update Request Form is used to update the access level of a veterinary staff member. Please ensure that your request is relevant to your work, and that you haven't submitted this form before.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Local Host Partnership Registration Form - Help Guide
 ## Purpose
 This form is intended for vendors and partners to register their interest in collaborating with us. It collects contact and partnership information to facilitate communication and potential collaborations. Please note that this form is not affiliated with any specific form platform and is a unique adaptation of publicly available information.

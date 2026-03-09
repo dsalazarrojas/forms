@@ -1,7 +1,4 @@
-## <thinking>... (Form Purpose and Non-duplication Check)
-The joint venture program application form is used to collect information from potential partners interested in collaborating with our organization on a joint venture program. This form is designed to provide a clear and structured way for partners to submit their application, allowing us to efficiently review and assess their proposal. To ensure relevance, please note that this form is intended for partner-led joint ventures, where the partner is the primary party initiating the collaboration. If you are a vendor, supplier, or other types of collaborators, kindly submit your application through a different form. Also, ensure that you are not duplicating an existing partnership or application already under review. If you are unsure, please reach out to the contact person listed below.
-</thinking>
-# joint_venture_program_application - Help Guide
+## # joint_venture_program_application - Help Guide
 ## Purpose
 The joint venture program application form is designed to collect information from potential partners interested in collaborating with our organization on a joint venture program. The form is used to gather necessary data to assess and review the proposal.
 

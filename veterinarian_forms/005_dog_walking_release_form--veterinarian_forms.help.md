@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is intended for pet owners to provide essential information about their pets to veterinarians. The form includes fields for personal identification, contact information, and pet details such as vaccination records, medical history, and licensing information. 
 
 The form aims to help veterinarians provide better care and services to pets.

@@ -1,16 +1,3 @@
-<thinking>
-The purpose of the "Pet History Form" is to collect and document the history and vital information of a pet, including its health, medical treatment, and ownership details. This form is intended for use by veterinarians and pet care professionals to gather a comprehensive overview of a pet's past medical history, health status, and other important factors that can inform its treatment and care. 
-
-Before filling out this form, please ensure that the pet's owner has provided the necessary consent and information, and that you have access to any relevant medical records or documentation. 
-
-When completing the form, please be as accurate and thorough as possible, taking into account the pet's current health status and medical conditions. 
-
-Also, please note that some fields may be optional or redundant, but they are included for completeness and for future reference. 
-
-Please also ensure that you have checked with the pet owner before filling out this form if you are not the owner. 
-
-</thinking>
-
 # Pet History Form - Help Guide
 ## Purpose
 The Pet History Form is a tool used by veterinarians and pet care professionals to gather a comprehensive overview of a pet's past medical history, health status, and other important factors that can inform its treatment and care.

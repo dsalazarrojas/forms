@@ -1,22 +1,3 @@
-<thinking>
-The purpose of this form is to gather consent from pet owners for veterinary treatment. This form is used to collect information about the pet, the owner, and any relevant medical history, treatment plans, and medication lists. It also includes space for the veterinarian to sign and date their signature, indicating they have reviewed and acknowledged the information provided. This form is not a duplicate of any existing form and is an original creation based on public metadata.
-
-This form is intended for use by veterinarians and pet owners to document the details of veterinary treatment. The information collected on this form will be used to ensure that the pet receives proper care and that the veterinarian is aware of any potential allergies or medical conditions.
-
-The form has the following fields:
-
-1. Pet information: This field collects details about the pet, such as its species, age, and breed.
-2. Owner information: This field collects the owner's contact information, including their name, address, and phone number.
-3. Medical history: This field collects information about the pet's medical history, including any previous medical conditions or allergies.
-4. Treatment plan: This field collects information about the treatment plan for the pet, including any medications or procedures that will be used.
-5. Medication list: This field collects a list of medications that the pet is currently taking.
-6. Signature: This field is for the veterinarian to sign and date their signature, acknowledging that they have reviewed and agreed to the treatment plan.
-7. Date: This field is for the date the form was signed.
-8. Time: This field is for the time the form was signed.
-9. Veterinarian signature: This field is for the veterinarian to sign and date their signature, indicating that they have reviewed and agreed to the treatment plan.
-
-</thinking>
-
 # Pharmaceuticals Consent Form For Pets - Help Guide
 ## Purpose
 This form is used to gather consent from pet owners for veterinary treatment and to document the details of the treatment plan.

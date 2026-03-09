@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Consulting Technology Partnership Application Form - Help Guide
 
 ## Purpose

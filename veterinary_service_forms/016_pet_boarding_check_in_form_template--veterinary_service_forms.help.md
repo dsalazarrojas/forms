@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Boarding Check In Form Template - Help Guide
 
 ## Purpose

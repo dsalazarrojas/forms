@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Grooming Appointment Form - Help Guide
 ## Purpose
 The Grooming Appointment Form is used to schedule a veterinary service appointment for a customer. This form allows customers to provide their information, select a date and time for the appointment, and choose the services they would like to receive. The form helps our veterinary team to efficiently manage appointments and ensure that customers receive the best possible care for their pets.

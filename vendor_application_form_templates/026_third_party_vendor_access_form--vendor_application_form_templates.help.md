@@ -1,9 +1,3 @@
-<thinking>This is a form used to grant third-party vendor access to certain systems, applications, or resources. This form is typically completed by a system administrator or security officer to ensure that only authorized vendors have access to sensitive information or resources. Before filling out this form, it's essential to confirm that the third-party vendor is properly vetted and that access is necessary for a legitimate reason.
-
-To avoid duplication, please ensure that you're not already a registered vendor or that you haven't previously filled out this form.
-
-</thinking>
-
 # Third Party Vendor Access Form - Help Guide
 ## Purpose
 The Third Party Vendor Access Form is used to grant third-party vendors access to certain systems, applications, or resources. This form is a crucial step in the vendor onboarding process, ensuring that only authorized vendors have access to sensitive information or resources.

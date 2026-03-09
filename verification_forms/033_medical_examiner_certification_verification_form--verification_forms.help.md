@@ -1,14 +1,3 @@
-<thinking>
-Form purpose: This form is used for verification of medical examiners' certifications. 
-
-We want to ensure that users understand how to use this form correctly. 
-
-The form will be filled out by the users who are responsible for verifying the medical examiner's certification.
-
-The form should not be filled out by the same user more than once.
-
-</thinking>
-
 # Medical Examiner Certification Verification Form - Help Guide
 ## Purpose
 The Medical Examiner Certification Verification Form is used for verifying the certification of medical examiners. This form is a crucial document that helps ensure the credibility and legitimacy of medical examiners' certifications.

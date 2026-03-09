@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record and track veterinary inspection data, including inspection dates, animal information, inspection findings, and follow-up instructions. It is designed to facilitate efficient and accurate veterinary care planning. Ensure that all required fields are filled out accurately and thoroughly. This form is used in conjunction with other related forms.
-</thinking>
-
 # Veterinary Inspection Form - Help Guide
 ## Purpose
 This form is used to gather information about a veterinary inspection, including inspection dates, animal details, and follow-up instructions.

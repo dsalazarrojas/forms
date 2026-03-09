@@ -1,7 +1,3 @@
-<thinking>
-The Wildlife Veterinary Interview Consent Form is a critical tool used to obtain informed consent from wildlife participants before conducting interviews. This form helps ensure that the participant is aware of the purpose, risks, and benefits of the interview and provides an opportunity for them to share any concerns or questions. To avoid duplication, please note that this form should only be used for wildlife participants who have not previously given their consent for an interview. 
-</thinking>
-
 # Wildlife Veterinary Interview Consent Form - Help Guide
 ## Purpose
 The Wildlife Veterinary Interview Consent Form is a critical tool used to obtain informed consent from wildlife participants before conducting interviews. This form helps ensure that the participant is aware of the purpose, risks, and benefits of the interview and provides an opportunity for them to share any concerns or questions.

@@ -1,12 +1,3 @@
-<thinking>
-The Partner Commission Program Application Form is a form designed to collect information from partners and vendors to manage their applications and partnerships. This form serves as a centralized platform to gather and track essential details about partner programs, vendor information, and commission details. 
-
-The form is composed of various fields that cater to different aspects of the partnership, including contact information, address, payment details, vendor details, and commission-related information. It's crucial to ensure that the form is filled out accurately and thoroughly to avoid any issues with processing the application.
-
-Before filling out the form, please verify that you are eligible to apply for the partner program and that you are not duplicating an existing application. If you're unsure, reach out to our support team for clarification.
-
-</thinking>
-
 # Partner Commission Program Application Form - Help Guide
 
 ## Purpose

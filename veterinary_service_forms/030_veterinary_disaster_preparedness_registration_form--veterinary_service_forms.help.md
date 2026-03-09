@@ -1,11 +1,3 @@
-<thinking>
-
-To confirm, the form is designed to collect information from pet owners and veterinary clinics about their animal's disaster preparedness and related veterinary services. This form is likely to be used by veterinary clinics to collect information from pet owners before, during, or after a disaster to ensure they can provide proper care for their animals. The fields collected will be used to identify key contacts and animals, and provide necessary veterinary services. 
-
-The form has multiple sections with different fields for general information, animal details, owner information, contact information, emergency contacts, veterinary information, and veterinary owner information. Some fields are required while others are optional, depending on the specific situation. The form also includes a field to collect the signature of the pet owner or their representative.
-
-</thinking>
-
 # veterinary-disaster-preparedness-registration-form - Help Guide
 ## Purpose
 This form is designed to collect information from pet owners and veterinary clinics to ensure the proper care of animals during and after a disaster. It helps veterinary clinics to identify key contacts and animals, and provide necessary services.

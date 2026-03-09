@@ -1,8 +1,3 @@
-<thinking> 
-The AI Based Event Security Application Form is designed to gather essential information from vendors applying for security services. This form is used to evaluate and select suitable vendors for future events. Please ensure you provide accurate and complete information to help us make informed decisions. Please fill out this form carefully, and if you have any questions or concerns, don't hesitate to reach out to our team.
-
-</thinking>
-
 # AI Based Event Security Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from vendors providing AI-based security services to help us evaluate and select suitable vendors for future events.

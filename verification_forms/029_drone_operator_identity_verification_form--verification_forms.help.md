@@ -1,15 +1,3 @@
-<thinking>Before creating the user-facing help guide for this form, I'd like to clarify a few points about the form's purpose and requirements.
-
-The form seems to be a comprehensive verification form for drone pilots, asking for information about their identity, experience, and license details. It also includes sections for additional comments and contact information.
-
-To confirm, this form is likely used for internal verification purposes within an organization, such as to validate a pilot's credentials before granting access to a specific system or area.
-
-I'll assume that the form is not intended for general public use and that users are already familiar with the basic concepts of drone piloting and licensing.
-
-With these assumptions, let's create a user-facing help guide for the form.
-
-</thinking>
-
 # Drone Operator Identity Verification Form - Help Guide
 ## Purpose
 This form is used to verify the identity and credentials of a drone pilot. Please fill out the form accurately to ensure that your information is up to date and meets the required standards.

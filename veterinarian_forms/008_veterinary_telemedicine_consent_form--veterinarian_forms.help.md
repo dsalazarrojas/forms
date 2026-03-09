@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from pet owners for veterinary telemedicine services. It's a critical component of the telehealth process, ensuring clients understand the terms and conditions of their participation. It is essential to have a clear understanding of the form's purpose to avoid duplication or misinterpretation of information.
-
-Before completing this form, please ensure that you have not already provided this information or have an active telehealth agreement with our organization. Reviewing the form carefully will help prevent errors or duplication of effort.
-
-</thinking>
-
 # Veterinary Telemedicine Consent Form - Help Guide
 ## Purpose
 This Veterinary Telemedicine Consent Form is a crucial document that ensures pet owners understand the terms and conditions of telehealth services provided by our veterinary team. Completing this form correctly is essential for a smooth and secure telehealth experience.

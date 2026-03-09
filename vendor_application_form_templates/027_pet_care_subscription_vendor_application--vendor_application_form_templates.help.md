@@ -1,11 +1,3 @@
-<thinking>
-This form is used by Pet Care Subscription to collect information from vendors who provide pet care services. The form is used to gather details about the vendor's services, pricing, payment terms, contact information, and other relevant details. 
-To ensure that the form is completed correctly, please note that:
-- All fields are optional, but providing accurate and complete information will increase the chances of successful application.
-- Please choose the relevant services you provide from the options.
-- Payment terms and payment method are not necessarily related to the amount of services provided, but rather how payment will be handled.
-</thinking>
-
 # Pet Care Subscription Vendor Application - Help Guide
 ## Purpose
 The purpose of this form is to collect information from vendors who offer pet care services. This information will help us evaluate your application and decide on your potential partnership with us.

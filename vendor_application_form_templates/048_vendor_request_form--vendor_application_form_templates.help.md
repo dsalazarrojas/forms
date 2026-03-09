@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a vendor management form used for requesting and managing vendor information. It may be used by procurement teams or purchasing departments to collect and record vendor details, request dates, and status updates. The form may be used for various purposes such as vendor selection, vendor performance monitoring, or reporting.
-
-The form is divided into multiple sections, each with its own set of fields and options. The "Vendor Request Form" section has fields for vendor name, address, phone, and email. The "Request Details" section has fields for request date and time, status, and request category. The "Tools and Notes" section has fields for assigned tools, notes, and additional notes.
-
-To ensure the form is filled out correctly, please review each section and field carefully.
-
-</thinking>
-
 # Vendor Request Form - Help Guide
 
 ## Purpose

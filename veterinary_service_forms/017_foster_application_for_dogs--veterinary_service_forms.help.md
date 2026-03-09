@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Foster Application For Dogs - Help Guide
 
 ## Purpose

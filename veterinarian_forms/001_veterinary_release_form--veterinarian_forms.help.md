@@ -1,5 +1,3 @@
-<thinking>**Purpose and Validation**: This form is intended to collect information from pet owners, such as their name, phone number, email, and the medical conditions of their pet. Before proceeding, please note that the form has been reviewed and validated to prevent duplicate submissions. If you are a pet owner and have already submitted this form, your information will not be duplicated.</thinking>
-
 # veterinary_release_form - Help Guide
 ## Purpose
 The veterinary_release_form is a form designed to collect essential information from pet owners to facilitate veterinary care and treatment.

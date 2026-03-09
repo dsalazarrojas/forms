@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's employment history and educational background for the purpose of verifying their finance analyst education and employment status. This form is used to gather details such as employer name, job title, employment status, employment dates, education level, institution name, degree name, field of study, graduation date, GPA, employment start date, employment end date, employment current status, reason for leave, and employment verification status. It is intended to be completed by a finance analyst seeking to update their employment verification information.
-To ensure accurate and thorough data collection, this form is designed to be completed in a step-by-step manner, reducing the risk of errors and inconsistencies. This form is also designed to be non-duplicative, meaning that it will not ask for information that has already been collected.
-</thinking>
-
 # Finance Analyst Education Employment Verification Form - Help Guide
 ## Purpose
 This form is designed to collect information about your finance analyst education and employment history for verification purposes.

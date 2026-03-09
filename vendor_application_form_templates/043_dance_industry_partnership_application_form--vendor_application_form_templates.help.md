@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential dance partners in the dance industry. The purpose of this form is to provide a platform for partners to showcase their interests, goals, and qualifications. This form will help the review committee evaluate potential partnerships based on their answers. To ensure the review committee reviews each application thoroughly, it's essential to fill out this form completely and accurately.
-</thinking>
-
 # Dance Industry Partnership Application Form - Help Guide
 ## Purpose
 This form is a partnership application form for the dance industry. It aims to collect information from potential partners about their studio, festival, or other industry-related activities.

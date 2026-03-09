@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to assist users in completing the "identity_verification_discharge_form" form. This form is designed for verifying identity information and is not affiliated with, endorsed by, or derived from any form platform. The form has eight fields, each with a specific purpose and required status.
-
-To ensure you're using the correct form and not duplicating your efforts, please check that you're not already in the process of verifying your identity through another means. If you're still unsure, contact form@gic.mx for further guidance.
-
-</thinking>
-
 # identity_verification_discharge_form - Help Guide
 ## Purpose
 The "identity_verification_discharge_form" is a form used for verifying identity information. It's designed to collect personal details and verification methods for identity discharge purposes.

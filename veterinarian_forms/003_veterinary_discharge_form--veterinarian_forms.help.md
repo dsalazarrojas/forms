@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather essential information for the discharge process of a pet from the veterinary clinic. The form is intended to collect relevant details about the pet's visit, including the pet's name, owner's contact information, and medical treatment. This information is necessary for the veterinary team to ensure a smooth discharge process and to maintain accurate records. It is a good idea to review the form carefully before completing it to avoid duplication of effort and to ensure that all necessary fields are filled in accurately.
-
-</thinking>
-
 # Veterinary Discharge Form - Help Guide
 ## Purpose
 The Veterinary Discharge Form is a document used to collect information for the discharge process of a pet from the veterinary clinic.

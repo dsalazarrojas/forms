@@ -1,13 +1,3 @@
-<thinking>...We are going to create a user-facing help guide for the Marriage Certificate Verification Form. This form is used to verify the authenticity of a marriage certificate. It's essential to ensure that the provided information is accurate and up-to-date. The form is designed for users who want to verify a marriage certificate for various purposes, such as for official records or legal proceedings.
-
-Before starting, please note that you should only complete this form if you have the required information and authorization to do so. This form should not be filled out by someone who has not been explicitly authorized or is not sure about the authenticity of the marriage certificate.
-
-To confirm, you will need to verify that you have the correct Marriage Certificate Number, which is a unique identifier for each marriage certificate.
-
-Please review the form carefully and ensure that you enter the correct information to avoid any errors or delays.
-
-</thinking>
-
 # Marriage Certificate Verification Form - Help Guide
 ## Purpose
 

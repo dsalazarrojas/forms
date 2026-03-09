@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Source Verification Checklist - Help Guide
 ## Purpose
 This form is used for verifying various aspects of a candidate's background and employment history. It helps ensure that the candidate's provided information is accurate and trustworthy. This form is intended for use in situations where a thorough background check and employment verification is required, such as when a candidate is being considered for a job or a promotion.

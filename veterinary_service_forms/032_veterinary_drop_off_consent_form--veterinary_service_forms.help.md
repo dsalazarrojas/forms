@@ -1,7 +1,3 @@
-<thinking>
-This form is a Veterinary Drop Off Consent Form, which is used to record the necessary information for pet drop-off at a veterinary clinic. This form is likely used by veterinarians to gather essential details about the pet and its owner before the pet is dropped off for treatment or services. To ensure that this form is filled out accurately and completely, please review the following sections carefully.
-</thinking>
-
 # Veterinary Drop Off Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information about the pet being dropped off for treatment or services at a veterinary clinic. It gathers essential details about the pet, its owner, and the drop-off instructions.

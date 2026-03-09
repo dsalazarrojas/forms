@@ -1,11 +1,3 @@
-<thinking>
-We need to ensure that the form is being used as intended, so let's briefly review the form's purpose and potential misuse. This "Sports Vendor Market Application Form" is designed for vendors to apply for a spot in a sports event market, typically used for festivals, fairs, or expos where multiple vendors can sell their products or services to attendees. Vendors will be asked to provide essential information about themselves and their business, as well as specify what they need for their booth. This helps us verify who they are, what they're offering, and prepare the necessary resources for their presence.
-
-We also want to prevent duplicate applications and potential misuse by requiring vendors to agree to the Terms of Service. This is crucial for maintaining a smooth and secure market environment for both vendors and event organizers. Let's review the provided form fields and provide explanations to ensure everyone understands what's being asked:
-
-This guide is designed to walk you through the fields of the Sports Vendor Market Application Form.
-</thinking>
-
 # Sports Vendor Market Application Form - Help Guide
 
 ## Purpose

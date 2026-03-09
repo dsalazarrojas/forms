@@ -1,9 +1,3 @@
-<thinking>...
-We need to ensure that the Seller Identity Verification Form is filled out correctly to avoid any delays in the verification process. This form is intended for sellers to provide their essential details to verify their identity. The fields in this form are designed to gather relevant information about the seller, which will be used for verification purposes.
-
-Please note that this form may only be submitted once a seller has been approved by an administrator.
-</thinking>
-
 # Seller Identity Verification Form - Help Guide
 ## Purpose
 The Seller Identity Verification Form is a document used to verify the identity of sellers who are looking to sell on our platform. It is designed to collect essential information about the seller, which will be used for verification purposes.

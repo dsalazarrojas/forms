@@ -1,14 +1,3 @@
-<thinking>
-The purpose of the "Existence Evidence Assessment" form is to collect and verify evidence of an entity's existence. This form helps to gather essential information about the entity, including its name, type of evidence, quality of the evidence, rating, and other relevant details. The form is designed to be filled out by individuals who have collected evidence of an entity's existence, such as customers, partners, or employees.
-
-When filling out the form, please ensure that you are providing accurate and true information. The form is not intended for duplicate submissions, so please avoid submitting the same evidence multiple times. If you are unsure about the entity or the evidence, please reach out to your supervisor or support team for guidance.
-
-Before proceeding, ensure that the entity you are submitting evidence for is not already active in the system. This form is meant to be a one-time submission process, so please do not resubmit the same evidence.
-
-Please note that some fields are optional and are not required for the form submission. However, providing accurate and complete information will help ensure that your submission is processed efficiently and effectively.
-
-</thinking>
-
 # Existence Evidence Assessment - Help Guide
 
 ## Purpose

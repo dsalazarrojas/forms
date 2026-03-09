@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I will analyze the form to understand its purpose and requirements. This Shelter Veterinary Partnership Application Form seems to be designed for veterinarians or clinics to partner with shelters. The form collects information about the clinic's details, services offered, collaboration preferences, address, and review notes. The purpose of this form is likely to facilitate partnerships between veterinarians and shelters, enabling them to work together effectively. To ensure the form's effectiveness, it's essential to provide clear explanations and examples for each field.</thinking>
-
 # Shelter Veterinary Partnership Application Form - Help Guide
 ## Purpose
 The Shelter Veterinary Partnership Application Form is designed for veterinarians or clinics to partner with shelters. This partnership enables veterinarians to provide services to shelter animals and promotes collaboration between the two organizations.

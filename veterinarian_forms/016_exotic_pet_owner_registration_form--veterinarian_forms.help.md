@@ -1,7 +1,3 @@
-<thinking>
-Is this an exotic pet owner registration form? Yes. This form is intended for owners of exotic animals. It likely gathers information about the pet and its owner for administrative, medical, or emergency purposes. I'm checking for relevance and non-duplication to confirm. The provided YAML form structure includes fields for collecting owner and contact information, pet details, and owner's signature. There is no indication of duplicate or unnecessary fields. I will base the guide on this structure.
-</thinking>
-
 # Exotic Pet Owner Registration Form - Help Guide
 ## Purpose
 This form is designed for exotic pet owners to register their information and their pet's details. It will help us to keep a record of your pet's information for administrative, medical, or emergency purposes.

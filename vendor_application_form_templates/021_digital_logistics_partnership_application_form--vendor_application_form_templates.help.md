@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for vendors to apply for digital logistics partnership with our company. The form gathers essential information about the vendor's services, region, experience, documents, contact details, and service areas. It is crucial that the information provided is accurate and complete to ensure a smooth application process. To avoid duplication, please review our company's existing partnerships before submitting this form, as we may have similar partnerships in place.
-
-</thinking>
-
 # Digital Logistics Partnership Application Form - Help Guide
 
 ## Purpose

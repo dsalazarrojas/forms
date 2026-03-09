@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for Pet Microchip Vendors to apply to become certified. To prevent duplicate applications, please check if you've already submitted an application. If you're not a certified microchip vendor, you can still access the vendor information page for general information.
-</thinking>
-
 # Pet Microchip Vendor Application Form - Help Guide
 
 ## Purpose

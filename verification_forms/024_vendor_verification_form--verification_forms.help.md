@@ -1,7 +1,3 @@
-<thinking>
-This form is used for verifying a vendor's information, such as their name, contact person, phone number, email address, vendor type, tax ID number, address, country, state, and city. This form helps to ensure that all necessary information is collected and verified before proceeding with any business transactions or dealings. It's essential to fill out this form accurately and completely to avoid any potential issues or discrepancies. Before filling out this form, please ensure that you have all the required information and that it's up-to-date. Also, be aware that some fields may be required, and filling out all fields is mandatory for submission.
-</thinking>
-
 # Vendor Verification Form - Help Guide
 ## Purpose
 The Vendor Verification Form is used to collect and verify a vendor's information, ensuring that all necessary details are accurate and up-to-date.

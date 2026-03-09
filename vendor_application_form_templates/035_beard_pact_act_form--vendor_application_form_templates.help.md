@@ -1,10 +1,3 @@
-<thinking>
-The "Beard Pact Act Form" is used for vendors to provide information about their business and products to ensure compliance with the PACT Act, a law that regulates certain industries. The form helps to verify vendor information and ensure they are aware of and agree to the terms and conditions of doing business. Vendors are required to fill out the form accurately and truthfully. 
-
-Please note that vendors are not allowed to submit duplicate or incomplete applications. If you are not sure about the form or have any issues, please contact us before proceeding.
-
-</thinking>
-
 # Beard Pact Act Form - Help Guide
 ## Purpose
 The Beard Pact Act Form is used for vendors to provide information about their business and products to ensure compliance with the PACT Act. It is a crucial step in the onboarding process and helps to verify vendor information and ensure they are aware of and agree to the terms and conditions of doing business.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Pet Hosting Form is to collect information about a pet's host family or individual. This form is likely used by a veterinary clinic or animal shelter to gather necessary details about a pet's caregiver or owner. The form may be used to verify identity, establish contact information, and ensure the pet's well-being. Before starting, ensure you are filling out this form correctly and that the information you provide is accurate to avoid any issues with pet adoption or hosting.
-</thinking>
-
 # Pet Hosting Form - Help Guide
 ## Purpose
 The Pet Hosting Form is used to collect information about a pet's host family or individual.

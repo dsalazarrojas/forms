@@ -1,14 +1,3 @@
-<thinking>
-## Internal Note
-
-The purpose of this form is to collect information from medical organizations for the verification of treatment sites. This form is designed to gather data about patients and their treatment visits, including patient name, date of birth, treatment site name, medical organization, patient record ID, date of visit, time of visit, contact person, contact person title, and contact email. 
-
-Please note that this form is an original creation, not affiliated with or derived from any form platform. Its purpose is to assist in verifying treatment sites, and its completion is not mandatory. However, providing accurate information will ensure that the verification process is efficient and effective.
-
-Before proceeding, ensure that the completion of this form is relevant to your needs. You can skip this form if you do not require verification of treatment sites.
-
-</thinking>
-
 # treatment_site_verification_form - Help Guide
 ## Purpose
 

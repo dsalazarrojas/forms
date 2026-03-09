@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to verify the nursing license of a user. The purpose of this form is to collect information about the user's nursing license, including their User ID, country of origin, license status, verification method, and verification result.
-This form is typically used by healthcare professionals to confirm the authenticity of a user's nursing license, ensuring that the user has the necessary credentials to practice their profession. Before filling out this form, please ensure that you have all the necessary information required to complete it accurately. This form should only be used for verification purposes and not for any other use.
-</thinking>
-
 # Nursing License Verification - Help Guide
 ## Purpose
 The purpose of this form is to verify the nursing license of a user, ensuring that the user has the necessary credentials to practice their profession.

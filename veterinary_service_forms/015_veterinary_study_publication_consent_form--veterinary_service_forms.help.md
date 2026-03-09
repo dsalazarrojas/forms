@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for veterinary studies, and it is crucial to ensure that all required fields are completed accurately. Please note that some fields are optional, but all required fields should be filled out as soon as possible. Before filling out this form, it is recommended to review the instructions carefully to avoid any potential errors or duplication of efforts.
-</thinking>
-
 # veterinary_study_publication_consent_form - Help Guide
 ## Purpose
 

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect pet health records, which is essential for veterinarians to keep track of a pet's health status, vaccination history, medical history, and behavioral observations. This information helps ensure that the pet receives the best possible care and treatment. It is a crucial part of a pet's medical record, and its completion is required for accurate and efficient pet care.
-
-This guide is provided to help end-users complete the form accurately and efficiently. Please review each field carefully to ensure that you provide the necessary information.
-
-</thinking>
-
 # Pet Health Record Form - Help Guide
 ## Purpose
 

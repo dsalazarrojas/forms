@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from pet owners about their pet's walking and play session preferences. The form is not affiliated with any form platform and is an original adaptation created by AI. This guide is intended to help pet owners complete the form accurately and efficiently.
-
-To determine the form's purpose and relevance, we will analyze the input schema provided. The form has three pages: "Pet Owner Details", "Session Preferences", and "Consent". The "Pet Owner Details" page contains a single field for pet owners to provide their information, while the "Session Preferences" page also contains a single field for pet owners to express their preferences. The "Consent" page is a simple text field for pet owners to provide their consent. The form's required fields are all optional, indicating that the form is designed for informative or voluntary purposes.
-
-Before proceeding, please note that this form is a machine-generated form, and its purpose and relevance should be reviewed by the responsible parties to ensure it aligns with their specific use case. Additionally, the form's structure and content might need adjustments to fit the specific needs of the users. 
-
-</thinking>
-
 # Pet Walking And Play Session Guide - Help Guide
 ## Purpose
 The "Pet Walking And Play Session Guide" form is designed to collect information from pet owners about their pet's walking and play session preferences.

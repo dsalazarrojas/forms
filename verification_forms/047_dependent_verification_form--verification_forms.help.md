@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to collect information about a dependent for benefits verification purposes. The form is intended for individuals or organizations to provide data about a dependent's relationship status, employment status, age, gender, and other relevant details. Please ensure you are filling this form for the correct purpose and not duplicating efforts. If you have already submitted a dependent's information, do not resubmit it. If you are unsure about any field, please contact the relevant authorities for guidance. 
-</thinking>
-
 # Dependent Verification Form - Help Guide
 ## Purpose
 This form is designed to collect information about a dependent for benefits verification purposes.

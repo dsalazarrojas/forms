@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a dog's registration, specifically its owner and the details of its visit to a vet clinic. It's essential to fill out the form accurately to ensure that the dog's records are up-to-date and easily accessible. Please note that this form is a template and should not be used for sensitive or personal data, as it's intended for illustrative purposes only.
-</thinking>
-
 # Dog Registration Form Template - Help Guide
 ## Purpose
 The Dog Registration Form Template is designed to collect information about a dog's registration, including its owner's contact details, vet clinic visit, and emergency contact.

@@ -1,8 +1,3 @@
-<thinking>
-This form aims to help users verify whether a document has a digital watermark. The form is designed to check if a document has a watermark, and if so, it will ask for the date of the document, the requester, and a review request. This form will help users ensure that documents are correctly marked with a watermark, which can be useful for various purposes such as document authentication and security checks. To complete this form, users are not required to fill in any fields, but providing information will help with the verification process. The form does not aim to collect any sensitive or personal data. 
-
-</thinking>
-
 # Document Watermark Check Form - Help Guide
 ## Purpose
 The purpose of this form is to verify whether a document has a digital watermark.

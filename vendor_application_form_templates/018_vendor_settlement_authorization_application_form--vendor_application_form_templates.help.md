@@ -1,8 +1,3 @@
-<thinking> 
-This form was designed to collect information from vendors for the purpose of settlement authorization. It is intended for vendors to provide their banking details, contact information, and other relevant details for the settlement process. This form is not intended for general public use, but rather for internal use within a specific organization or company. Please ensure that you are authorized to use this form before proceeding.
-
-</thinking>
-
 # Vendor Settlement Authorization Application Form - Help Guide
 ## Purpose
 The Vendor Settlement Authorization Application Form is designed to collect information from vendors for the purpose of settlement authorization. This form is intended for vendors to provide their banking details, contact information, and other relevant details for the settlement process.

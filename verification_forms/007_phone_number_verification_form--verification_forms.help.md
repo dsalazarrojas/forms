@@ -1,9 +1,3 @@
-<thinking>
-The phone_number_verification_form is used to verify the user's phone number. The form is used to confirm that the user's phone number is accurate and up-to-date. It is designed to be completed by users to ensure that their phone number is correctly entered and to provide an additional layer of verification for security purposes.
-It is essential to complete this form correctly to avoid any potential issues with account verification or other related processes. Please ensure that you have the correct phone number and that it matches the one on your account.
-
-</thinking>
-
 # phone_number_verification_form - Help Guide
 ## Purpose
 The phone_number_verification_form is used to verify the user's phone number. It is essential to complete this form correctly to avoid any potential issues with account verification or other related processes.

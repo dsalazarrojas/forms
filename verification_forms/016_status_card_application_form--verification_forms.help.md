@@ -1,20 +1,3 @@
-<thinking>
-This form appears to be a comprehensive application form for verifying the status of a status card or similar application. It captures various details related to the applicant, their supporting documents, consent, contact information, and the status of the application. 
-
-The form is likely used in an organizational or business setting where applications or requests are submitted and reviewed by different users. The form's fields cover essential aspects such as identifying the applicant, their supporting documents, and the status of their application.
-
-To determine if this form is relevant to your specific use case, consider the following:
-
-* Are you dealing with applications or requests that need to be verified or reviewed?
-* Do you have a team of reviewers or approvers who need to keep track of the status of these applications?
-* Are you gathering contact information and supporting documents from applicants?
-
-If your answer is yes, this form might be a good fit for your use case. However, please review each field carefully and adjust the form according to your specific needs.
-
-Also, note that some fields in this form are optional, and you might need to adjust the required settings according to your use case.
-
-</thinking>
-
 # Status Card Application Form - Help Guide
 ## Purpose
 This form is designed to collect and track the status of applications or status cards submitted by applicants. It helps in maintaining an organized record of applications, their supporting documents, and the current status of each application.

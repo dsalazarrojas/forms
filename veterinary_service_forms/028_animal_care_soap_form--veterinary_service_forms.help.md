@@ -1,19 +1,3 @@
-<thinking>
-
-This form is designed to capture the essential information required for a comprehensive animal care visit to a veterinary clinic. The purpose of this form is to ensure that the veterinarian has a thorough understanding of the patient's condition, medical history, and treatment plan before providing care. The form is divided into several sections, each covering a specific aspect of the animal's health.
-
-The main goal of this form is to gather accurate and detailed information about the patient, which will help the veterinarian make informed decisions about diagnosis, treatment, and care. The form should be completed by the pet owner in consultation with the veterinarian, ensuring that all relevant information is provided.
-
-This form is not intended for use in emergency situations where immediate action is required. In such cases, the veterinarian will typically have the necessary information at hand and will not require a completed form.
-
-Before filling out this form, please ensure that you have all the necessary information about your pet's health and medical history. If you're unsure about any information, it's best to discuss it with the veterinarian or other veterinary staff.
-
-After filling out this form, review it carefully to ensure that all information is accurate and complete. If you have any questions or concerns, don't hesitate to ask the veterinarian for clarification.
-
-Please be aware that some fields in this form are required fields, marked with a star (*), and must be completed for the form to be considered complete. Other fields are optional but will help the veterinarian gain a more detailed understanding of your pet's condition.
-
-</thinking>
-
 # Animal Care SOAP Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from the pet owner about the animal's condition, medical history, and treatment plan in order to provide comprehensive care.

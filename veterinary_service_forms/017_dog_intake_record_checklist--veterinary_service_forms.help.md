@@ -1,7 +1,3 @@
-<thinking>
-This form is a generic "Dog Intake Record Checklist" which likely belongs to a veterinary clinic or hospital. Its purpose is to gather essential information about a dog's visit, including general details, contact information, and medical history. It's essential to complete this form accurately to ensure the dog receives the best possible care. Before filling out this form, it's crucial to verify that you're not duplicating an existing record or that you're not using an outdated version of this form.
-</thinking>
-
 # Dog Intake Record Checklist - Help Guide
 ## Purpose
 This form is designed to gather essential information about a dog's visit to a veterinary clinic or hospital. Completing this form helps the veterinary team provide the best possible care for the dog.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from vendors for a carpet cleaning project proposal. The purpose of this form is to collect relevant details from the vendor about their company profile, service experience, and proposal details. This form will be used by facility management or maintenance teams to review and evaluate the proposals from different vendors. It ensures that all necessary information is collected to make an informed decision.
-
-This form should only be filled out by authorized personnel from the vendor company. The information gathered will be used to assess the credibility and capability of the vendor for the carpet cleaning project. Please ensure that all fields are accurate and up-to-date before submitting this form.
-
-This form has 25 fields, each with specific requirements for completion. Ensure that all required fields are filled out, and any optional fields that are not applicable are left blank. The following are the detailed descriptions for each field:
-
-</thinking>
-
 # Carpet Cleaning Proposal Form - Help Guide
 ## Purpose
 This form is designed to gather information from vendors for a carpet cleaning project proposal.

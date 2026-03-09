@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to create and manage vendor information for the CraftsArtisan platform. It's essential to fill out this form accurately to ensure that vendor details are up-to-date and complete. Please review the form carefully and fill in the required fields to avoid any errors or discrepancies. Ensure that all fields are filled out according to their labels and instructions.
 
 # CraftsArtisanVendorForm - Help Guide

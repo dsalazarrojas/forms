@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information necessary for product certification renewal. This form is used by product manufacturers to renew their product certifications, ensuring that their products continue to meet the required standards. Before filling out this form, please ensure that the information provided is accurate and up-to-date, as it will be used to verify product certification status.
-
-To complete this form, follow these steps:
-
-1. Fill in the required fields with accurate and up-to-date information about the product and the submitter.
-2. Ensure that the product's certification status is current, and provide a valid reason for renewal if necessary.
-3. Complete the submitter's contact information, including their name, email, phone number, and address.
-
-</thinking>
-
 # Product Certification Renewal Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information necessary for product certification renewal. This form is used by product manufacturers to renew their product certifications, ensuring that their products continue to meet the required standards.

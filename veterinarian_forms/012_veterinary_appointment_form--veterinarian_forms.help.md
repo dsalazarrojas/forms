@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for veterinarians and their staff to create and manage appointment schedules with pet owners. The form is likely to be used by veterinarians to collect information from pet owners before an appointment, including pet type, appointment date, and other relevant details. Before proceeding, check if you have already submitted this form for this pet or appointment. If you have, it's likely that the information is already in the system.
-</thinking>
-
 # Veterinary Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect information from pet owners before an appointment with a veterinarian. It will help the veterinarian to prepare for the appointment and provide better service.

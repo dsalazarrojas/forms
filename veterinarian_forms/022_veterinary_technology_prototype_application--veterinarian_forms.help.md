@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Technology Prototype Application - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking> 
-To begin with, this form is designed to collect information and verify accessibility signage in facilities. The purpose of this form is to ensure that facilities meet accessibility standards and provide a safe and accessible environment for individuals with disabilities. The form will be used to gather information about the facility, including its name, address, and type, as well as the applicant's contact information. It will also collect data on the current state of accessibility signage, including types of signs, their locations, and the standards they adhere to. Additionally, the form will gather information on the verification scope, which includes areas of the facility that require signage verification. The applicant will also be asked to provide their signature, confirming their identity and authorizing the verification process.
-
-Before filling out this form, please ensure that you have all the necessary information and documents required. This form is designed to be completed by authorized personnel within the facility, such as accessibility coordinators or management.
-
-Please note that this form is for informational purposes only and should not be used for any other purpose. If you have any questions or concerns, please do not hesitate to reach out to us.</thinking>
-
 # Accessibility Signage Verification Application Form - Help Guide
 ## Purpose
 This form is designed to ensure that facilities meet accessibility standards and provide a safe and accessible environment for individuals with disabilities.

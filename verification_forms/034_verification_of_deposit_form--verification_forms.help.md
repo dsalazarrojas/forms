@@ -1,8 +1,3 @@
-<thinking>
-**Internal reasoning block:**
-This form is intended to collect information from tenants (renters or customers) to verify deposits or payments made to landlords or property owners. The form should ensure that the information is accurate and up-to-date, and that both the tenant and landlord have provided their signatures and confirmation of the payment details. This form is likely used in rental or property management contexts where deposits or payments need to be verified for record-keeping and legal purposes.
-</thinking>
-
 # Verification Of Deposit Form - Help Guide
 ## Purpose
 The Verification of Deposit Form is used to collect information from tenants to verify deposits or payments made to landlords or property owners. This form ensures that both the tenant and landlord have provided accurate and up-to-date information.

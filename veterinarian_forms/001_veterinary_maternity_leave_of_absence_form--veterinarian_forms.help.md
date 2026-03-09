@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of the Veterinary Maternity Leave Of Absence Form is to allow employees to apply for a maternity leave of absence from work. This form is typically used by pregnant employees to inform their employers of their expected absence and request time off for maternity-related purposes. The form may be used to ensure that employees are able to take the necessary time off for their health and well-being, and to facilitate a smooth transition back to work after their leave.
-
-Before filling out this form, please ensure that you have already discussed your leave options with your manager or HR representative and have obtained necessary approvals. This form is meant to be a supporting document to your request, and your manager or HR will use the information provided to review and process your leave request.
-
-Please fill out this form carefully, as the information you provide will be used to review and process your leave request. If you have any questions or concerns, please don't hesitate to reach out to your manager or HR representative for assistance.
-
-</thinking>
-
 # Veterinary Maternity Leave Of Absence Form - Help Guide
 ## Purpose
 The Veterinary Maternity Leave Of Absence Form is used to request a leave of absence for maternity-related purposes.

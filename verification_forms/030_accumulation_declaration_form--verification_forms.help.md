@@ -1,9 +1,3 @@
-<thinking>
-This form is used to facilitate the process of making an accumulation declaration. 
-This form is meant to gather information from a declarant about the assets they have accumulated during a specific time period. 
-The form should not be filled in for the same declarant multiple times within the same time period, and should not be completed for a declarant that has already been declared on this form. 
-</thinking>
-
 # Accumulation Declaration Form - Help Guide
 ## Purpose
 This form is used to declare the accumulation of assets. 

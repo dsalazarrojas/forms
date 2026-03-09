@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Enrollment Verification Form - Help Guide
 ## Purpose
 

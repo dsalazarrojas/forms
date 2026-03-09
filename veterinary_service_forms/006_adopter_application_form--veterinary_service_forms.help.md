@@ -1,13 +1,3 @@
-<thinking>
-
-As a form designer and technical writer, I need to create a user-facing help guide that explains the Adopter Application Form's purpose, how to complete it, and what each field means. This form is used for individuals or families interested in adopting animals, and it's essential to provide clear guidance on its use to ensure accurate and complete applications.
-
-The form's purpose is to collect essential information from potential adopters, including their contact details, pet preferences, and veterinary information. The form helps the organization assess their suitability for adopting animals and ensures a smooth adoption process. 
-
-To avoid duplication and ensure relevance, I will only include fields that are actually present in the form and provide concrete, concise explanations for each field.
-
-</thinking>
-
 # Adopter Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals or families interested in adopting animals. It will help us assess their suitability for adopting animals and ensure a smooth adoption process.

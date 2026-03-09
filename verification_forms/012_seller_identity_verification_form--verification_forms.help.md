@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect and verify the identity of a seller, likely for various business or administrative purposes. It's a simple form that gathers basic details about the seller, such as their name, email, phone number, and address. The "supporting documents" field is probably meant for attaching relevant documents that support the seller's identity. This form might be used in a B2B or B2C setting, where verifying seller identities is crucial for security, trust, or compliance reasons.
-</thinking>
-
 # Seller Identity Verification Form - Help Guide
 
 ## Purpose

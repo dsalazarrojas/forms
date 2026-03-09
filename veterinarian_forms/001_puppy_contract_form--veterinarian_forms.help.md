@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from both buyers and sellers in a puppy adoption process. The fields should be filled out by the buyer and seller parties to ensure a smooth and secure adoption experience. The form is not affiliated with any specific form platforms, but it was created using AI to generate a template based on public survey topic metadata in the "Veterinarian" category. Please note that this form is an original adaptation and does not use proprietary content from any other form platforms. The form is released under CC BY 4.0, allowing users to modify, use, and even sell forms derived from it, as long as they give credit.
-</thinking>
-
 # Puppy Contract Form - Help Guide
 ## Purpose
 This form is designed to collect information from both buyers and sellers in a puppy adoption process. It ensures a smooth and secure adoption experience by gathering necessary details from both parties.

@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information about vendors and businesses for the Vendor Vetting Initiative. The purpose of this form is to gather relevant data about vendors, including their contact information, business details, and status. This form will help the vendor to register and provide necessary information for vetting purposes. Please ensure that you only fill out this form once, as duplicate submissions will not be accepted.</thinking>
-
 # Vendor Vetting Initiative Registration Form - Help Guide
 ## Purpose
 The Vendor Vetting Initiative Registration Form is designed to collect information about vendors and businesses for vetting purposes. This form ensures that vendors provide accurate and up-to-date information about their contact and business details.

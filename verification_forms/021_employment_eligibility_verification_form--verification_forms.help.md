@@ -1,9 +1,3 @@
-<thinking>
-This form is for employers to verify the employment eligibility of their employees. Its purpose is to gather information about an employee's name, social security number, work history, and reason for termination or departure. The form is intended for internal use within an organization, not for public submission.
-The form is designed to collect data for HR or payroll purposes, and it is not meant to be submitted to external parties such as government agencies or clients.
-To avoid duplication of work, this form should not be used for multiple instances of verification for the same employee. Instead, maintain a record of employee information and use this form as a template for future verifications.
-</thinking>
-
 # Employment Eligibility Verification Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We'll create a help guide that explains the purpose and usage of the "dog_grooming_application_form" form. This form is used to gather information from pet owners for the purposes of scheduling a dog grooming appointment or for other related services. The form asks the owner for their details, information about their pet, and any services they are interested in. It also includes a message field for any additional comments or questions. A note field is provided for the owner to leave a note for the veterinarian. The date and time of the appointment are also collected. The application status is selected as "Active" or "Inactive". This form is likely used by a veterinary clinic or pet grooming service to streamline their appointment scheduling and communication process.
-</thinking>
-
 # dog_grooming_application_form - Help Guide
 ## Purpose
 The "dog_grooming_application_form" is used to collect information from pet owners for scheduling a dog grooming appointment or related services.

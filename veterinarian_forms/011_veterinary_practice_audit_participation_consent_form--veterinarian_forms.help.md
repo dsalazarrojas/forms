@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information about the participation and consent of veterinary practices in a specific audit. The purpose of this form is to ensure that the practice is aware of and agrees to the terms of the audit, including the date and time of the audit, the name and contact information of the auditor, and the details of the audit, such as the practice's address and phone number.
-
-To create this form, we've analyzed the survey topic "veterinary_practice_audit_participation_consent_form" and identified the key fields that need to be included. The form is designed to be user-friendly and easy to understand, with clear labels and instructions for each field.
-
-Before filling out this form, please make sure you have all the required information ready. If you're unsure about any of the fields, please contact the relevant authorities or your supervisor for clarification.
-
-This form is divided into two sections: "Audit Participation and Consent" and "Practice Details". The "Audit Participation and Consent" section requires the practice to confirm their participation and consent to the audit, while the "Practice Details" section collects information about the practice, including their address, phone number, and contact person's name and email.
-</thinking>
-
 # veterinary_practice_audit_participation_consent_form - Help Guide
 ## Purpose
 This form is used to collect information about the participation and consent of veterinary practices in a specific audit. It helps ensure that the practice is aware of and agrees to the terms of the audit.

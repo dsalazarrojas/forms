@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Institution Verification Form - Help Guide
 
 ## Purpose

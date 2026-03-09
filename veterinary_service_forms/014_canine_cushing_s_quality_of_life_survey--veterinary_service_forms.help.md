@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help track the quality of life of dogs suffering from Cushing's Disease. Cushing's Disease is a hormonal disorder that can cause a range of symptoms such as excessive thirst and urination, changes in appetite, and other health issues. This form is meant to be completed by dog owners who can provide insights on their pet's condition and response to treatment. Please fill out the form to help us better understand and improve the lives of dogs with Cushing's Disease.
-</thinking>
-
 # Canine Cushing's Quality Of Life Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand the quality of life of dogs with Cushing's Disease. Please answer the questions based on your observations over the past month.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help suppliers declare their ethics and register themselves for various vendor application processes. The purpose of this form is to collect relevant information from suppliers about their business, contact details, and ethics declaration. This form is meant to be a general template and should not be used to create a custom form for a specific supplier or vendor.
-To avoid duplication, please ensure that this form is not used to register the same supplier more than once.
-</thinking>
-
 # Supplier Ethics Declaration Registration Form - Help Guide
 
 ## Purpose

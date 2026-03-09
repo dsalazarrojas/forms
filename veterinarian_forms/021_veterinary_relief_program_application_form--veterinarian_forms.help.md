@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Relief Program Application Form - Help Guide
 ## Purpose
 The Veterinary Relief Program Application Form is designed to gather information from clinics applying for relief support. This form helps us understand their operational needs and medical requirements to allocate resources effectively. Please ensure you're completing this form to submit an application for relief support, not for other purposes.

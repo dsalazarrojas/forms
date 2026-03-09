@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their driver's license status, vehicle information, and personal details. The form is likely used by administrators or authorities to verify a driver's identity and check their eligibility for certain services or programs. Before filling out this form, please ensure that you have all the necessary information and that you have not previously submitted this form.
-
-</thinking>
-
 # Driver Verification Form - Help Guide
 ## Purpose
 The Driver Verification Form is used to collect information about your driver's license status, vehicle information, and personal details. This form is designed to help administrators or authorities verify your identity and check your eligibility for certain services or programs.

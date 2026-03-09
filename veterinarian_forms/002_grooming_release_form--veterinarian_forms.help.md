@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for pet owners and pet care givers who need to complete the Grooming Release Form for their pet's veterinary care. The form is used to provide consent for grooming services and to gather necessary information about the pet's medical history, grooming needs, and emergency contact information. The guide will explain each field in detail to ensure that users understand its purpose and how to complete it correctly.
-</thinking>
-
 # Grooming Release Form - Help Guide
 ## Purpose
 The Grooming Release Form is used to grant consent for grooming services and provide essential information about your pet's medical history, grooming needs, and emergency contact information.

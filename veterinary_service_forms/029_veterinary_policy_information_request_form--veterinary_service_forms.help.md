@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect information about an animal's policy details, including policy owner's identity, pet details, and policy coverage. This form is intended for veterinary services, so it's essential to gather accurate and relevant information for efficient and informed decision-making.
-This form should only be filled by authorized users, and the information collected will be used for policy management and insurance claims. Please ensure that you have the necessary permissions and approvals before submitting this form.
-
-</thinking>
-
 # Veterinary Policy Information Request Form - Help Guide
 ## Purpose
 The Veterinary Policy Information Request Form is used to collect and store policy information for animal coverage.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Birth Certificate Verification Form - Help Guide
 ## Purpose
 

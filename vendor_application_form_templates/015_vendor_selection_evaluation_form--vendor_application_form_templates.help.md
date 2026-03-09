@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vendor Selection Evaluation Form - Help Guide
 
 ## Purpose

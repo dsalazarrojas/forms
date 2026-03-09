@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for veterinary professionals to request media appearances, such as interviews, podcasts, or social media features, from a central authority. The form allows them to submit their request with detailed information about the event, including the type of media, date, time, location, and contact details. Each field is designed to collect relevant information to facilitate efficient processing of the request.
-
-</thinking>
-
 # Veterinary Media Appearance Request Form - Help Guide
 ## Purpose
 The Veterinary Media Appearance Request Form is a tool for veterinary professionals to request media appearances, such as interviews, podcasts, or social media features, from a central authority. This guide will walk you through each field of the form, helping you understand what information to provide and how to complete the form accurately.

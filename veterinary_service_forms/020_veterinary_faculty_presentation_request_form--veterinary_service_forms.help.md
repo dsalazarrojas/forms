@@ -1,5 +1,3 @@
-<thinking>Before creating a user-facing help guide for the "Veterinary Faculty Presentation Request Form", let's break down the form's purpose and required information.</thinking>
-
 # Veterinary Faculty Presentation Request Form - Help Guide
 ## Purpose
 The Veterinary Faculty Presentation Request Form is designed to collect information about upcoming events and presentations related to veterinary faculty. This form helps the administration or organizers to track and manage presentation requests from veterinarians or faculty members. It's essential to accurately fill out this form to ensure that your presentation request is processed correctly and efficiently.

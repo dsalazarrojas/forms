@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to capture detailed information about a client's pet and their veterinary visit. The form is likely used in a veterinary clinic or hospital setting to gather relevant information from clients and their pets. 
-
-The form appears to be a template for creating electronic medical records (EMR) for veterinary patients. It collects information such as client contact details, appointment time, physical exam findings, treatment plans, and pet-related information like breed, age, and weight. 
-
-The form may be used by veterinarians or veterinary staff to efficiently document patient visits and provide better care. 
-</thinking>
-
 # Veterinary EMR - Help Guide
 ## Purpose
 This guide will walk you through the Veterinary EMR form, explaining each section and field to help you complete it accurately.

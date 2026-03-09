@@ -1,18 +1,3 @@
-<thinking>
-As an expert form designer and technical writer, I need to create a user-facing help guide for the "Pet Emergency Contact Information" form. This form is used to capture critical information about pets in emergency situations. It seems like the form is designed to gather information about the pet owner, veterinary clinic, emergency contacts, and pet details such as name, type, breed, age, weight, medical information, and veterinary notes.
-
-Before diving into the help guide, I'll consider the following:
-
-*   The form is likely used by pet owners or veterinarians to record emergency contact information for pets.
-*   The form has multiple pages or sections that cover different aspects of pet information.
-*   There seems to be a mix of text input fields and a select multiple field for emergency contacts.
-*   The form also includes medical information, which might be relevant for veterinary care.
-*   There are separate fields for contact name, relation, phone, and email for emergency contacts.
-*   The form does not seem to have any duplication of fields, which suggests that each section has distinct information.
-
-Given these considerations, I will craft a comprehensive and practical help guide for the end-user.
-</thinking>
-
 # Pet Emergency Contact Information - Help Guide
 ## Purpose
 The "Pet Emergency Contact Information" form is designed to gather critical information about pets in emergency situations. This form is completed by pet owners or veterinarians to record contact information and details about their pets.

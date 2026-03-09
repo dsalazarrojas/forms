@@ -1,9 +1,3 @@
-<thinking>
-Form purpose: The "Fitness Event Vendor Space Application" form is designed to collect information from vendors who wish to rent out their space for events in a fitness-related setting. This form will help event organizers and fitness centers evaluate the suitability of the vendor's space for hosting events.
-Form purpose relevance: This form is likely relevant to event organizers who are looking to rent out a space for a fitness-related event.
-Form purpose non-duplication: This form should not be duplicated by any other form as it is a custom-generated form with a unique purpose.
-</thinking>
-
 # Fitness Event Vendor Space Application - Help Guide
 ## Purpose
 The "Fitness Event Vendor Space Application" form is designed to collect information from vendors who wish to rent out their space for events in a fitness-related setting.

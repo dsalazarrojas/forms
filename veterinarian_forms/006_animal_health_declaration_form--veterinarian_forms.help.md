@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect vital information about an animal's health status, including their owner's details, the animal's species, and their medical history. This form aims to gather comprehensive information to ensure the animal receives proper care and attention from veterinarians or animal care professionals. By providing clear instructions and explanations, this guide will help users navigate the form efficiently.
-</thinking>
-
 # Animal Health Declaration Form - Help Guide
 ## Purpose
 The Animal Health Declaration Form is a crucial tool for providing comprehensive information about an animal's health status. This form is designed to gather essential details from the animal's owner, which will help veterinarians or animal care professionals make informed decisions about the animal's care and treatment.

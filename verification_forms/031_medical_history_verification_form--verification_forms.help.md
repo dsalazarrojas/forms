@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # medical_history_verification_form - Help Guide
 ## Purpose
 This form is intended for verifying patient medical history information, including medical conditions, medication use, and allergies.

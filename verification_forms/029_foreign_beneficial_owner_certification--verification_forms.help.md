@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a verification form for foreign beneficial owners, likely used in business or financial contexts where the identity and background of individuals with significant influence or control over a company or entity needs to be verified. The form might be used by companies, government agencies, or other organizations to collect information on beneficial owners, their identities, and their connections to the entity being verified. Before proceeding, it's essential to ensure that this form is not already available in your organization or that you don't have a more comprehensive template for this purpose. This will help you avoid duplication of effort and potential confusion among stakeholders.
-</thinking>
-
 # Foreign Beneficial Owner Certification - Help Guide
 ## Purpose
 This form is designed to collect information on foreign beneficial owners, including their identification, background, and relationships with the entity being verified. It's essential to complete this form accurately and thoroughly to ensure the verification process is completed successfully.

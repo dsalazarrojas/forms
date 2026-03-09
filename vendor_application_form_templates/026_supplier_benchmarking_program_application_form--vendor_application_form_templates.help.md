@@ -1,8 +1,3 @@
-<thinking>
-This form is for supplier benchmarking program applications and it seems to be used for data collection purposes. It's likely used to assess and compare different suppliers' performance. The form might be used by procurement teams to collect data on various suppliers and then use it for benchmarking and improvement purposes. It's probably used for internal purposes, but it's not clear if it's a requirement for suppliers to fill out this form. It's not a form for external suppliers to fill out, as it seems to be used by internal teams within a company. It's not clear if this form has any impact on business decisions or if it's purely for data collection. It's also not clear what kind of data is being collected, but it's likely related to supplier performance and capabilities.
-
-</thinking>
-
 # Supplier Benchmarking Program Application Form - Help Guide
 
 ## Purpose

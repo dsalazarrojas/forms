@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to verify the authenticity of a product, ensuring that the information provided matches the product's original specifications or certifications. This form helps in maintaining product integrity and preventing counterfeiting or misrepresentation. 
-
-The form is designed to collect information about the product, including its code, name, purchase date, serial number, country of origin, authenticity verification date, and authenticity verification status. The form also allows for additional notes to be added for further clarification or reference.
-
-Please use this form to ensure that the product is genuine and meets the required standards. If you're unsure about any information, please provide as much detail as possible to facilitate the verification process. 
-
-</thinking>
-
 # productAuthenticityVerificationForm - Help Guide
 ## Purpose
 The productAuthenticityVerificationForm is a tool used to verify the authenticity of a product, ensuring that it meets the required standards and specifications.

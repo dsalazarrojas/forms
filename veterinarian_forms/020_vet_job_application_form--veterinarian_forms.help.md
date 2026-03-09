@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from applicants applying for a veterinary job. The purpose of the form is to collect contact, personal, employment history, education, and professional certification details from potential candidates. The form will be used by hiring managers or HR representatives to assess the qualifications and suitability of each applicant for a position in a veterinary practice. Before completing this form, please ensure that you have reviewed the job description and requirements to ensure you are applying for a role that aligns with your qualifications and experience.
-</thinking>
-
 # vet_job_application_form - Help Guide
 ## Purpose
 The vet_job_application_form is designed to collect relevant information from applicants applying for veterinary jobs, allowing hiring managers and HR representatives to assess their qualifications and suitability for a position.

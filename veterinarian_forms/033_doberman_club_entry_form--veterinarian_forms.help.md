@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information from individuals who want to join or register with the Doberman Club. The form will collect basic contact details and membership information from potential members. This guide is to ensure that users understand the purpose of the form and how to accurately fill it out, minimizing duplication of effort and ensuring the accuracy of the data collected.
-</thinking>
-
 # Doberman Club Entry Form - Help Guide
 ## Purpose
 The Doberman Club Entry Form is a simple registration process designed to collect basic information from individuals who wish to join or register with the Doberman Club. This information will be used to create a member profile and communicate with them regarding club events, activities, and membership benefits.

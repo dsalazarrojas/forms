@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to provide a structured and organized manner for applicants to apply for a veterinary license. The form is used to collect necessary information from applicants, including their contact details, license information, and practice details. This form is intended for veterinarians and their practices to apply for a license or renewal.
-
-When completing this form, ensure that you have all the required information ready. The form is divided into sections, each with its own set of fields. You will be asked to provide your first and last name, address, phone number, and email. If you are applying for a license, you will need to provide your license type, graduation date, and veterinary school information. If you are renewing a license, you will need to provide the license number, issue date, and expiration date. You will also be asked to provide details about your practice, including its name, address, phone number, and email.
-
-Please note that some fields are optional and only required for specific license types or renewal purposes.
-
-</thinking>
-
 # Veterinary License Application Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a structured and organized manner for applicants to apply for a veterinary license.

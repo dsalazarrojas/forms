@@ -1,15 +1,3 @@
-<thinking>
-This form is designed for Ready Meal suppliers to onboard with the organization. The form is used to gather information from suppliers and their representatives. It is essential to complete the form accurately and thoroughly to ensure a smooth onboarding process.
-
-Before starting, please note that this form is not a duplicate or supplementary form. It is the primary form for Ready Meal suppliers to register and provide necessary information. Completing this form does not guarantee onboarding, as the organization has the right to review and verify the information provided.
-
-Please ensure that you have all the required information and attachments before starting the onboarding process. If you are unsure about any part of the form, do not hesitate to ask for clarification or assistance.
-
-To complete this form successfully, you will need to fill in the required information in each section. Please read each section carefully and ensure that you have provided accurate and correct information.
-
-The form consists of several pages, and you can navigate through them using the Next and Previous buttons.
-</thinking>
-
 # Ready Meal Supplier Onboarding Registration Form - Help Guide
 ## Purpose
 This form is designed for Ready Meal suppliers to onboard with the organization. It is used to gather information from suppliers and their representatives.

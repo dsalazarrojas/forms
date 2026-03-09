@@ -1,7 +1,3 @@
-<thinking>
-The "vendor_inquiry_form" is a form used to gather information from vendors about their businesses, such as contact details, product offerings, and operational hours. This form helps to ensure that vendors provide accurate and up-to-date information, which is essential for our internal records and communication. Please fill out the form carefully and thoroughly, ensuring that you answer each field as accurately and completely as possible. Before proceeding, please make sure you have all the necessary information and authorization to fill out this form.
-</thinking>
-
 # vendor_inquiry_form - Help Guide
 ## Purpose
 The "vendor_inquiry_form" is a form used to gather information from vendors about their businesses, which helps us maintain accurate and up-to-date internal records and communication.

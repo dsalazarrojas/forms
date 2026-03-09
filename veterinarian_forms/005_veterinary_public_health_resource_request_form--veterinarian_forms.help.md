@@ -1,10 +1,3 @@
-<thinking> 
-The Veterinary Public Health Resource Request Form is intended to help veterinarians and other animal health professionals collect information and requests from resource requesters in the field of veterinary public health. This form is designed to gather relevant details such as location, contact information, and specific resource requests, ensuring that the resource requester's needs are met efficiently and effectively. 
-
-To avoid duplication of effort, please note that this form should only be used for resource requests that are not already being fulfilled by other means.
-
-</thinking>
-
 # Veterinary Public Health Resource Request Form - Help Guide
 
 ## Purpose

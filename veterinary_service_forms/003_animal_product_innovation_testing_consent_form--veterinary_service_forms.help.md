@@ -1,5 +1,3 @@
-<thinking>Is this form used to gather consent from participants in animal product innovation testing studies? If so, it likely involves assessing participant information, study details, and confidentiality agreements.</thinking>
-
 # Animal Product Innovation Testing Consent Form - Help Guide
 
 ## Purpose

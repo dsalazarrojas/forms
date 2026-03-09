@@ -1,7 +1,3 @@
-<thinking>
-This help guide is to inform end-users of the purpose and completion requirements for the "Pet Eye Contact Observation Log" form. This form is designed to record observations and notes for pet eye contact, including date, time, owner contact information, and pet type. This guide assumes that the end-users are pet owners or veterinarians who need to record and document observations of pet eye contact. This guide will help ensure that the form is completed accurately and effectively.
-</thinking>
-
 # Pet Eye Contact Observation Log - Help Guide
 ## Purpose
 The Pet Eye Contact Observation Log is a form designed to record observations and notes for pet eye contact. It is intended for pet owners or veterinarians to document the details of pet eye contact, including the date and time of the observation, owner contact information, and pet type.

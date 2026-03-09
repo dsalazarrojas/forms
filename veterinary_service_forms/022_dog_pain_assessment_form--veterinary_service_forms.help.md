@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dog Pain Assessment Form - Help Guide
 
 ## Purpose

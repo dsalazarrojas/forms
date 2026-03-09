@@ -1,10 +1,3 @@
-<thinking>
-This form is a tool for tracking and documenting reproductive procedures for broodmares, which is crucial for reproductive management, record-keeping, and ensuring optimal breeding outcomes. This form is designed to capture specific information about the procedure, owner, and mare involved. Before filling out this form, please confirm that you are the authorized representative for the mare and have access to the relevant information required to complete it accurately.
-
-To ensure the form is filled out correctly and relevant information is captured, please review the following fields carefully:
-
-</thinking>
-
 # Broodmare Reproductive Procedure Form - Help Guide
 ## Purpose
 The Broodmare Reproductive Procedure Form is designed to record and document reproductive procedures for broodmares, ensuring accurate and efficient record-keeping for optimal breeding outcomes.

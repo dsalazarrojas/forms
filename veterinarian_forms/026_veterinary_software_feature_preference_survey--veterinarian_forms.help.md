@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to collect feedback and preferences from veterinarians regarding software features. It's crucial to gauge the level of interest in various software features to improve our product. To ensure the accuracy of the data, please complete the form thoroughly and only fill in the required fields. This guide will help you understand the form's purpose and how to fill it out correctly.
-
-</thinking>
-
 # Veterinary Software Feature Preference Survey - Help Guide
 ## Purpose
 This form is designed to collect your feedback and preferences on various software features for our veterinary software. Your input will help us understand what features you're interested in and what you'd like to see improved or added. Please take a few minutes to fill out the form, and your input will be greatly appreciated!

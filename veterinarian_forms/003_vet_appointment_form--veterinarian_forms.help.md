@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for veterinarians to schedule appointments with pet owners. It's crucial to ensure that all relevant fields are filled out correctly, so please carefully review each section to provide the best possible service. This form does not appear to be designed for any specific use case (e.g., appointment booking, consultation, or payment), so it's essential to fill it out according to your needs. If you're unsure about any field, please refer to this help guide for clarification.
-
-</thinking>
-
 # vet_appointment_form - Help Guide
 ## Purpose
 This form is designed for scheduling appointments with pet owners, allowing you to gather essential information about their pets and preferences.

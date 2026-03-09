@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from a driver about their driver's license for verification purposes. This form is not intended to be used for identification or authentication, but rather to provide a standardized way of collecting driver's license information for various purposes such as insurance verification, employment verification, or other related processes. The form will be processed internally and used to verify the driver's identity based on the information provided. This form should not be used for external purposes such as government identity verification, as the information collected may not meet the necessary standards for such use.
-
-</thinking>
-
 # Driver’s License Verification Form - Help Guide
 ## Purpose
 The Driver’s License Verification Form is used to collect and verify driver's license information from individuals for various internal purposes such as insurance verification or employment verification.

@@ -1,30 +1,3 @@
-<thinking>
-The purpose of this form is to verify the details of a device, which is essential for ensuring that the device meets specific requirements or standards. This form will help to gather and document the necessary information about the device, including its identification, specifications, and status.
-
-Before filling out this form, please ensure that you have the necessary information about the device. The form has been designed to collect the following fields:
-
-* Device ID: The unique identifier of the device.
-* Device Name: The name of the device or the model number.
-* Serial Number: The serial number of the device (optional).
-* Model Number: The model number of the device (optional).
-* MAC Address: The MAC address of the device (optional).
-* Firmware Version: The firmware version of the device (optional).
-* Hardware Version: The hardware version of the device (optional).
-* Software Version: The software version of the device (optional).
-* Vendor Name: The name of the vendor or manufacturer of the device.
-* Vendor Website: The website of the vendor or manufacturer of the device.
-* Device Type: The type of the device (e.g., server, laptop, smartphone, etc.).
-* Status: The current status of the device (e.g., active, inactive, verified, etc.).
-* Notes: Additional notes or comments about the device.
-* Verified By: The person or entity that verified the device.
-* Verified At: The date and time the device was verified.
-* Verified By Email: The email address of the person or entity that verified the device.
-* Verified By Phone: The phone number of the person or entity that verified the device.
-
-Please provide the necessary information in the required fields. For optional fields, you can leave them blank if not applicable.
-
-</thinking>
-
 # device_verification_form - Help Guide
 ## Purpose
 ## How To Complete This Form

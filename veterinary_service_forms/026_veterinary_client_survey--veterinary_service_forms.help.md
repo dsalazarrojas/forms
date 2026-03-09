@@ -1,12 +1,3 @@
-<thinking>
-This form is used to capture information from a veterinary clinic's clients, including their contact information, practice services and equipment, and feedback. This form will help clinics gather data on their clients' preferences, services used, and satisfaction.
-The form will be used to:
-- Collect contact information from clients
-- Understand the services and equipment used by clients
-- Capture client feedback and satisfaction
-- Gather information on survey date
-</thinking>
-
 # veterinary_client_survey - Help Guide
 ## Purpose
 The veterinary_client_survey form is used to gather information from clients, including contact information, practice services and equipment, and feedback.

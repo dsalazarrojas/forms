@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals interested in adopting a pet from All Souls Retreat. The form is designed to gather data about the applicant's background, preferences, and capabilities to ensure a suitable match between the applicant and the pet. This form is required for all adoption applications and must be completed in its entirety to be considered for adoption.
-</thinking>
-
 # ASR Adoption Application - Help Guide
 ## Purpose
 The ASR Adoption Application form is used to collect information from potential adopters about their background, preferences, and capabilities to ensure a suitable match between the applicant and the pet.

@@ -1,6 +1,3 @@
-<thinking>
-To prevent duplication and ensure that this form is filled out accurately, please ensure that you are not submitting this form for a friend or colleague who is also an artist or maker. This form is designed for individual artists and makers to showcase their work and share their experiences with potential clients and event organizers. Please fill out the form carefully and accurately, as the information you provide will be used to promote your art and connect you with potential opportunities.</thinking>
-
 # Call For Artists and Makers - Help Guide
 ## Purpose
 The "Call For Artists and Makers" form is designed to collect information from individual artists and makers who are interested in showcasing their work with our organization. The form will be used to promote your art and connect you with potential clients and event organizers.

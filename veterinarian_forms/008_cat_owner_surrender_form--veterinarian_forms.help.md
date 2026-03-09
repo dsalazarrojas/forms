@@ -1,10 +1,3 @@
-<thinking> 
-This guide will help users understand the purpose and usage of the Cat Owner Surrender Form. The form is designed to gather information from pet owners who are surrendering their cats to a shelter. The form is intended to ensure a smooth and efficient process for both the owner and the shelter staff. 
-
-The purpose of this form is to collect information about the owner and their cat, including the owner's contact information, cat's identification, health, behavior, and surrender reason. The form will help the shelter to understand the cat's medical history, temperament, and any potential behavioral issues that may impact adoption. The form is not meant to be used as a contract but to facilitate the adoption process and provide necessary information to potential adopters.
-
-It's essential that the owner completes the form honestly and thoroughly, as this information will be used to help match the cat with the right adopter. The form should not be resubmitted for cats that have already been surrendered to the shelter. Please ensure you've already surrendered your cat before filling out this form.</thinking> 
-
 # Cat Owner Surrender Form - Help Guide
 ## Purpose
 

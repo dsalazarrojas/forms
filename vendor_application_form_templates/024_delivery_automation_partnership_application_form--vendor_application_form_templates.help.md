@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for companies or vendors to submit their partnership application to be considered as a delivery automation partner. The form collects information about the applicant, their company, and their partnership preferences. The form will be reviewed internally to determine the applicant's eligibility for partnership. Please ensure you are submitting accurate and relevant information to ensure a smooth review process. 
-</thinking>
-
 # delivery_automation_partnership_application_form - Help Guide
 ## Purpose
 The "delivery_automation_partnership_application_form" is used to collect information from companies interested in partnering with our company for delivery automation services. This guide walks you through the form fields and their corresponding labels for a smooth submission process.

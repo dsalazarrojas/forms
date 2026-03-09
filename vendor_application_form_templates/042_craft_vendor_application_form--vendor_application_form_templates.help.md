@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for vendors to submit their application to be listed in a craft-related database or directory. This form helps us gather essential information about the vendor and their products, which we use to evaluate their fit for our platform. Before proceeding, please ensure you have read and understood the purpose and scope of this form. This form is intended for use by actual vendors, not for testing or experimentation. If you're a vendor looking to apply, please fill in the required fields accurately and thoroughly. If you're not a vendor, kindly do not submit this form.
-
-</thinking>
-
 # Craft Vendor Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from vendors about themselves and their products, which will be used to evaluate their eligibility to be listed in our craft-related database or directory.

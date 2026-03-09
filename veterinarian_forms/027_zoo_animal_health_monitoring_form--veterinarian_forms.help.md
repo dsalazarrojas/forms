@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help veterinarians and animal care professionals gather essential information on the health status and treatment of animals in the zoo. The form is intended to be used for monitoring and recording animal health, ensuring that each animal's well-being is accurately documented and easily accessible for veterinary care professionals. By using this form, users can ensure that all relevant information is collected and stored in a single location, making it easier to identify patterns and trends in animal health. This form should not be used for other purposes, such as for public-facing information or for creating public-facing reports.
-</thinking>
-
 # Zoo Animal Health Monitoring Form - Help Guide
 ## Purpose
 The Zoo Animal Health Monitoring Form is designed to gather information on the health status and treatment of animals in the zoo.

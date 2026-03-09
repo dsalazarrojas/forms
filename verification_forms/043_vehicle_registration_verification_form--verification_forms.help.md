@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vehicle Registration Verification Form - Help Guide
 ## Purpose
 

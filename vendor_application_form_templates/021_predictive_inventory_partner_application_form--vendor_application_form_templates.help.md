@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for vendors and partners to apply to join the Predictive Inventory Partner program. The purpose of this form is to collect information about the applicant's company and integration preferences. The form is not affiliated with, endorsed by, or derived from any form platform, and it's an original adaptation using public survey topic metadata.
-</thinking>
-
 # Predictive Inventory Partner Application Form - Help Guide
 ## Purpose
 The Predictive Inventory Partner Application Form is a tool for vendors and partners to apply to join the Predictive Inventory Partner program. This form collects information about the applicant's company and integration preferences.

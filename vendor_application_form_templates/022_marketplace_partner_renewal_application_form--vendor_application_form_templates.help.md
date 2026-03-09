@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for vendors to renew their partnership with our marketplace. The vendor will be required to provide their contact details, address, and other relevant information. The form also includes fields to confirm their agreement to the terms and conditions of the partnership and to provide any additional notes or comments.
-</thinking>
-
 # Marketplace Partner Renewal Application Form - Help Guide
 ## Purpose
 This form is designed to help vendors renew their partnership with our marketplace. Please fill out the form with accurate and up-to-date information to ensure a smooth renewal process.

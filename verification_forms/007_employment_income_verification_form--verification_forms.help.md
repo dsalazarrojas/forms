@@ -1,13 +1,3 @@
-<thinking>
-This form is used to verify an employee's employment status and income information. The goal of the form is to confirm an employee's current or past employment status, as well as their employment type, salary, and other relevant details. To determine the relevance of this form, consider the following questions:
-
-* Are you requesting employment verification for a specific employee or multiple employees?
-* Do you need to confirm an employee's employment status and income details for a particular reason (e.g., financial aid application, loan application, or tax purposes)?
-* Are you unsure about the employee's employment type or status?
-
-If you answered "yes" to any of these questions, this form may be relevant to you. To avoid duplication of effort, please ensure that you have already obtained the necessary authorization to request this information from the employee or their representative.
-</thinking>
-
 # Employment Income Verification Form - Help Guide
 ## Purpose
 This form is used to verify an employee's employment status and income information.

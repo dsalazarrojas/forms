@@ -1,6 +1,3 @@
-<thinking>
-The purpose of the "ticket_verification_form" is to gather information related to ticket events, specifically to verify event planners, tickets, and event participants. This form may be used for various internal operations, such as verifying event tickets or tracking event participation. It's designed to be completed by event organizers or administrators to collect accurate and up-to-date information. The form's design and functionality may be adjusted based on specific business needs, ensuring that it serves its intended purpose without duplication or redundancy in data collection.</thinking>
-
 # ticket_verification_form - Help Guide
 ## Purpose
 The ticket_verification_form is designed to gather information related to ticket events, specifically to verify event planners, tickets, and event participants.

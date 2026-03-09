@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Reference Order Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request a reference from the reference institution on behalf of the student. To avoid duplication of work, please only submit one reference request per student. Please ensure that you have obtained the required clearances from the reference institution before submitting this form.

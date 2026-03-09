@@ -1,8 +1,3 @@
-<thinking>
-To be honest, the provided form YAML is quite extensive and includes a mix of general and specific fields. Before diving into the guide, I'd like to clarify that the purpose of this form is to collect information from vendors applying to participate in the Sustainable Supply Chain Initiative. The goal is to gather essential details about the vendor, including their contact information, company details, and sustainability practices. This form should be used by vendors to provide their information, ensuring accuracy and consistency in their responses.
-
-To avoid duplication and ensure relevance, we must carefully review each field to confirm it's necessary for the application process. Let's review the fields and create a concise help guide for end-users.</thinking>
-
 # Sustainable Supply Chain Initiative Application Form - Help Guide
 ## Purpose
 The Sustainable Supply Chain Initiative Application Form is designed for vendors applying to participate in the Sustainable Supply Chain Initiative. This form collects essential information about the vendor, including contact details, company details, and sustainability practices.

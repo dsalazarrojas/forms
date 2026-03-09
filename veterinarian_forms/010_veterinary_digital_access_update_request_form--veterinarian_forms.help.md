@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for veterinarians and their staff members to request updates to digital access to certain resources. The purpose of this form is to ensure that the requestor's role and access level are accurately reflected in the system. The fields in this form will help the requestor to provide necessary information about themselves and their request. The form will help the system administrators to track and manage the requests and make necessary updates. It is recommended to fill out the form accurately and completely to ensure that the request is processed efficiently.
-</thinking>
-
 # Veterinary Digital Access Update Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request an update to digital access for a user. This form is used by veterinarians and staff members to ensure that their role and access level are accurately reflected in the system.

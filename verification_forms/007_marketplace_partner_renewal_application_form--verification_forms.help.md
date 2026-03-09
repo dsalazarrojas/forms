@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to help marketplace partners apply for renewal of their partnership. This form is crucial for verifying the accuracy of partner information, ensuring that the partner's status is up-to-date and accurate. The goal of this form is to facilitate a smooth and efficient partner renewal process. This form should only be filled out by partners who are currently registered in the marketplace. If a partner is already in the process of renewal, please do not fill out this form again.
-
-This guide is intended to be used by partners to understand the requirements and the process of filling out this form. It is crucial to ensure that all required fields are filled out accurately and completely. If any section of the form is unclear, please refer to the field-by-field explanation below.
-</thinking>
-
 # Marketplace Partner Renewal Application Form - Help Guide
 ## Purpose
 This form is designed to help marketplace partners apply for renewal of their partnership. It ensures that the partner's information is up-to-date and accurate for the renewal process.

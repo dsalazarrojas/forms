@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Wellness Questionnaire - Help Guide
 ## Purpose
 The Pet Wellness Questionnaire is a form designed to collect information about a pet's health status, medical history, and other relevant details from their owner or caregiver. This form will help us better understand a pet's overall well-being and provide guidance on any necessary actions or recommendations for their care.

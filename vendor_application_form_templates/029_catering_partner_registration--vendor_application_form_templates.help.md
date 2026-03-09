@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended to gather information from catering businesses that want to partner with the platform. The purpose of this form is to collect necessary details about the business, such as its name, contact information, services offered, and certifications. The goal is to ensure that partners meet the platform's standards for quality and reliability. Please note that duplication of efforts will not be tolerated.
-
-</thinking>
 # Catering Partner Registration - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the Catering Partner Registration form.

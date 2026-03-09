@@ -1,17 +1,3 @@
-<thinking>
-
-To provide a clear and concise help guide for non-profit vendors, we'll first analyze the form purpose and identify potential areas for improvement.
-
-The form is designed to collect information about non-profit vendors, including their business details, services offered, and contact information. This information will help us better understand their capabilities and evaluate their eligibility as vendors. 
-
-Upon reviewing the form fields, a few fields seem to be redundant or unnecessary. For instance, "non_profit_name", "non_profit_address", "non_profit_contact", "non_profit_phone", "non_profit_email", "non_profit_website", "non_profit_fax", "non_profit_license" fields can be combined into a single "Non Profit Information" section, similar to the "non_profit_info" field at the beginning of the form. 
-
-We can also consider removing the "vendor_reference" fields as they seem to be duplicates of the "Non Profit Information" section. 
-
-With these considerations in mind, we can refine the form to improve user experience and reduce errors.
-
-</thinking>
-
 # Vendor Application For Non Profit - Help Guide
 ## Purpose
 The Vendor Application For Non Profit form is designed to collect information about your non-profit business, including your details, services offered, and contact information. This form helps us evaluate your eligibility as a vendor and understand your capabilities.

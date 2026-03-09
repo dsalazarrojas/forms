@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a dog's pain assessment, which is essential for veterinarians to understand the dog's condition and provide appropriate treatment. The form is meant to be completed by a pet owner or caregiver, and its primary purpose is to help the veterinarian gather necessary data about the dog's pain levels, type, duration, frequency, and severity. This data will be used to determine the best course of action for the dog's treatment.
-
-The form is divided into several sections, each designed to collect specific information about the dog's pain assessment. To ensure accurate and comprehensive data, it's crucial to follow the guidelines below:
-
-</thinking>
-
 # Dog Pain Assessment Form - Help Guide
 ## Purpose
 The Dog Pain Assessment Form is designed to collect information about a dog's pain levels, type, duration, frequency, and severity to help veterinarians understand the dog's condition and provide appropriate treatment.

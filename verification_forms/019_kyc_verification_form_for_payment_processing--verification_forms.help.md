@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to be used by merchants to submit their verification information to the payment processing system. This information is required to validate the merchant's identity and ensure they are complying with anti-money laundering (AML) and know your customer (KYC) regulations. 
-The form should be completed by the merchant or their authorized representative. 
-
-This form must be completed only once for each merchant. Duplicate submissions will be rejected. 
-</thinking>
-
 # KYC Verification Form For Payment Processing - Help Guide
 ## Purpose
 This form is used to collect merchant verification information for payment processing. 

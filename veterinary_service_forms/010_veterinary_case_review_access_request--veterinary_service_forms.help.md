@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for veterinarians or animal care professionals to request access to a specific case review record in the veterinary industry. The purpose of this form is to facilitate access to relevant and sensitive information, ensuring that those who need it can review cases efficiently. To prevent unauthorized access and maintain data confidentiality, each request must be carefully evaluated and justified. It's essential to fill out this form accurately and truthfully to ensure that requests are processed promptly and correctly.
-</thinking>
-
 # veterinary Case Review Access Request - Help Guide
 ## Purpose
 This form is used by veterinarians or animal care professionals to request access to a specific case review record. The goal is to provide access to relevant and sensitive information for efficient case review.

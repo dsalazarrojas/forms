@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for tenant identity verification, allowing users to provide details about their identity, including name, email, date of birth, nationality, ID type, ID number, address, and other relevant information. The form is divided into multiple pages, each with specific fields to be filled out. This guide will walk you through each field and its purpose to help you complete the form accurately.
-
-</thinking>
-
 # tenant_identity_verification_form - Help Guide
 ## Purpose
 The purpose of this form is to verify a tenant's identity, which is crucial for various applications such as renting, leasing, or other property-related activities.

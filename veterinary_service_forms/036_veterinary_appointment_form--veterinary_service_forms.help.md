@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for veterinary appointments. The purpose of this form is to gather essential details about the client and their pet's visit to the clinic. The form is used by veterinarians to prepare for the appointment and ensure that all necessary information is available. This form is a required part of the veterinary clinic's process and should be completed accurately and thoroughly.
-
-This form is only to be used for new appointments. If you need to reschedule or cancel an appointment, please contact the clinic directly.
-</thinking>
-
 # Veterinary Appointment Form - Help Guide
 ## Purpose
 The Veterinary Appointment Form is a tool used by veterinarians to prepare for appointments with clients and their pets.

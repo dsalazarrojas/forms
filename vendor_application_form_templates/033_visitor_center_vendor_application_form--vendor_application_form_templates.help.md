@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help vendors who want to partner with the visitor center. The fields should be filled out according to the vendor's business and product information. Please ensure that all fields marked as "required" are completed accurately. Note that the form has multiple pages, each with different fields to be filled out. This form is not to be used for internal purposes but rather for external vendors to apply to be a partner with the visitor center.
-</thinking>
-
 # Visitor Center Vendor Application Form - Help Guide
 ## Purpose
 This form is designed to help vendors apply to partner with the visitor center. It is a multi-page form that asks for various details about the vendor and their business. Please fill out the form carefully and completely to ensure a successful application.

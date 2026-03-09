@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # veterinary_new_client_form - Help Guide
 ## Purpose
 The New Client Form is a document that collects information about a new client, including their contact and medical history details. This form is designed to help veterinary professionals efficiently gather necessary information about new clients and their pets.

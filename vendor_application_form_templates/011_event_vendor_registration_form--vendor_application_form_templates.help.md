@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for vendors who are interested in selling products or services at events managed by our organization. This form will help us gather necessary information about the vendor and their plans for the event. We need to ensure that vendors understand the process and requirements for participating in our events. This form will help us streamline the registration process and ensure that we have all the necessary details for our vendors. 
-
-We will review and consider the applications received and will contact the vendors with our decision. Please make sure to fill out this form carefully and accurately, as any missing or incorrect information may delay the process.
-
-</thinking>
-
 # event_vendor_registration_form - Help Guide
 ## Purpose
 This form is designed for vendors to register and provide information about their products or services for an event managed by our organization. The form will be used to gather necessary details about the vendor and their plans for the event.

@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand the purpose and context behind the form. This form is for onboarding a pet product retailer to a platform, and the goal is to gather necessary information about the retailer in order to facilitate a successful partnership. The fields within the form should be explained in a way that makes sense to the end user, without requiring them to have an in-depth knowledge of the platform's internal logic.
-
-The form seems to be asking for general information about the retailer, such as their business name, email, phone number, location, product categories, and store details. We should aim to explain each field in a way that is concise and practical.
-
-</thinking>
-
 # Pet Product Retailer Onboarding Application Form - Help Guide
 ## Purpose
 This form is designed to help us learn more about your pet product retail business and get you set up with the necessary information to start selling on our platform.

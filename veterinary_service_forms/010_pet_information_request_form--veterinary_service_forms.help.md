@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect information about a pet, including its name, breed, age, medical history, and other relevant details. The purpose of this form is to gather accurate and comprehensive data about the pet, which will be used to provide effective veterinary care and services. 
 
 To prevent duplication, please note that this form should only be filled out once per pet.

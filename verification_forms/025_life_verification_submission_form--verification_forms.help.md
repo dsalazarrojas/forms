@@ -1,9 +1,3 @@
-<thinking>
-This form is for submitting life verification information. 
-It's essential that you complete this form accurately, and it should be filled out only once for the purpose of verification.
-Before you start, make sure you're not already submitted a life verification form with the same information.
-</thinking>
-
 # life-verification-submission-form - Help Guide
 ## Purpose
 The life verification submission form is used to collect and verify personal information for life events, such as date of birth, contact details, and status.

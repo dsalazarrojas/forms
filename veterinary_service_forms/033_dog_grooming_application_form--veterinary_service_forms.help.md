@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from pet owners for a dog grooming application. The form is intended for pet owners to provide their pet's information, such as name, type, and appointment date and time. The form also asks for the owner's name and contact number, which will be used to contact the pet owner to schedule the appointment. The form is not intended to be used for multiple pets, so only one pet can be selected at a time. The purpose of the form is to collect the necessary information to schedule a dog grooming appointment.
-</thinking>
-
 # Dog Grooming Application Form - Help Guide
 ## Purpose
 This form is used to collect information from pet owners for a dog grooming application. It will help us schedule a dog grooming appointment for your pet.

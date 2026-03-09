@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Business Promotion Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain consent from clients to use their information for business promotion purposes. It will help your veterinary practice to stay connected with clients and promote your business to them through various channels.

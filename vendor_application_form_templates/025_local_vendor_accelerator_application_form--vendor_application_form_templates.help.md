@@ -1,11 +1,3 @@
-<thinking>
-
-This form is meant to gather information from vendors about their business, including their name, contact details, business type, and social media presence. This will likely be used by internal stakeholders to review and validate vendor information for the local vendor accelerator program.
-
-We should ensure that vendors fill out the form completely, but also provide enough flexibility that they can fill it out in a way that works best for their business. Some fields are optional, but still important for a complete understanding of the vendor's business. We should review the form for potential duplication of effort or unnecessary fields before proceeding.
-
-</thinking>
-
 # Local Vendor Accelerator Application Form - Help Guide
 ## Purpose
 The Local Vendor Accelerator Application Form is designed to gather information from vendors about their business, including contact details, business type, and social media presence. This information will be used by internal stakeholders to review and validate vendor applications for the local vendor accelerator program.

@@ -1,10 +1,3 @@
-<thinking>
-Please ensure that the help guide is clear, concise, and easy to understand for end-users. The guide should cover the purpose of the form, how to complete it, and an explanation of each field. This will help applicants provide accurate and complete information, reducing errors and improving the application process.
-
-Before filling out this form, please review the job description and requirements of the position you are applying for to ensure this is the correct application form. If you have any questions or concerns, please contact us at [insert contact information].
-
-</thinking>
-
 # Animal Breeder Job Application Form - Help Guide
 ## Purpose
 This form is for applicants interested in joining our animal breeding team. Please complete this form to provide information about yourself, your experience, and your qualifications. This will help us get to know you better and understand your fit for the position.

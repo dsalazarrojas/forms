@@ -1,7 +1,3 @@
-<thinking>
-This form is used to reserve a veterinary care appointment for a pet owner. To ensure you are in the right place, please note that this form is for the veterinary care department. If you have already submitted a reservation form for this pet, please do not resubmit. Duplicate submissions may cause unnecessary delays in processing your appointment.
-</thinking>
-
 # Veterinary Care Appointment Reservation Form - Help Guide
 ## Purpose
 The Veterinary Care Appointment Reservation Form is used to schedule a veterinary care appointment for your pet. To complete this form, please provide the required information, and we will process your request.

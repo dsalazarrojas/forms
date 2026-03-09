@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to collect information from suppliers about their compliance recognition application. The form is used to gather necessary details such as supplier name, address, contact information, and application date. The supplier is also required to provide contact information, email, and phone number. Additionally, the form asks the supplier to upload documents and select specific options. The form is likely used in a business-to-business or business-to-government setting.
-
-Before filling out this form, please ensure you have all the necessary documents to upload and the correct contact information for the supplier. The supplier must be a real person or entity, not a fictional character. The application date is a critical field, so double-check that it is accurate.
-
-This form is designed to be completed by one supplier at a time, not a group or company. Each field is important, so make sure to fill out all the necessary fields completely and accurately.
-
-When uploading documents, ensure they are in a supported format (e.g., PDF, JPEG, PNG). Do not attempt to upload incomplete or missing information.
-
-Before submitting the form, double-check that all fields are filled out and accurate. If you're unsure about any information, please reach out to the relevant contacts or administrators for assistance.
-</thinking>
-
 # Supplier Compliance Recognition Application Form - Help Guide
 ## Purpose
 

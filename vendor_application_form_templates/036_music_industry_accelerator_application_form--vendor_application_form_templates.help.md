@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to collect information from artists or music-related businesses applying for the Music Industry Accelerator program. The program aims to provide support and resources to emerging artists and music industry professionals. The form collects basic information about the applicant, their music genre, style, and industry-specific details. This form is designed to be completed by artists and music industry professionals who are interested in joining the program.
-
-Before filling out this form, please note that it is designed for artists and music industry professionals, and the information collected will be used to evaluate applications for the Music Industry Accelerator program. 
-
-This form is not affiliated with, endorsed by, or derived from any form platform. It was created using AI and is an original adaptation of publicly available information.
-
-When filling out this form, please ensure that all required fields are completed accurately and truthfully. If you have any questions or concerns, please contact form@gic.mx.
-
-Please note that the form has 20 fields in total, each with a specific purpose. Some fields are not required, but it is still recommended to fill them out for a complete application.
-
-</thinking>
-
 # Music Industry Accelerator Application Form - Help Guide
 ## Purpose
 The Music Industry Accelerator Application Form is designed to collect information from artists and music industry professionals applying for the Music Industry Accelerator program. This form will help the program administrators evaluate applications and provide support to emerging artists and music industry professionals.

@@ -1,22 +1,3 @@
-<thinking> 
-This form is for vendors to apply for grants for technology-related initiatives. It is essential to review the form carefully and ensure that all fields are filled in accurately. 
-
-Ensure you are not duplicating an existing application with the same vendor and technology requested. If you have any queries, contact the relevant department before submitting the application.
-
-Before starting, please ensure you have the following information at hand:
-- Category of the technology requested (e.g., software, hardware, data, etc.)
-- Description of the technology requested
-- Name of the vendor
-- Name and contact details of the grant requestor
-- Requested grant amount
-- Grant start and end dates
-- Current status of the grant application
-- Any additional notes or comments
-
-This guide will walk you through each field of the form, explaining what each field represents and how to fill it accurately. 
-
-</thinking>
-
 # Vendor Technology Grant Application Form - Help Guide
 
 ## Purpose

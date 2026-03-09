@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a user's preferences and communication settings. This form is likely used to verify a user's preferences and settings for communication and data management. It is likely used by a company or organization to understand how users want to be contacted and how they want their data to be handled. To ensure accuracy, please fill out this form carefully and thoroughly. If you are unsure about any of the questions, please ask for clarification before submitting the form. Also, make sure to fill out the form only once, as duplicate submissions may be rejected. 
-</thinking>
-
 # Preference Verification Form - Help Guide
 ## Purpose
 The Preference Verification Form is designed to gather information about your preferences and communication settings. It helps us understand how you want to be contacted and how you want your data to be handled.

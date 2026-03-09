@@ -1,17 +1,3 @@
-<thinking>
-
-The purpose of this form is to verify the status of an individual as homeless or not, and to collect information about their last night's accommodation and address, if applicable. It is designed to be completed by individuals who are applying for benefits or services related to homelessness. This form is meant to be used in a real-world setting, such as a social service agency or non-profit organization, to collect accurate and relevant information about the individual's homeless status. It is not intended for use in a high-pressure or time-sensitive situation, such as an emergency response system.
-
-Before completing this form, please ensure that:
-
-* You have read and understood the purpose and intent of the form.
-* You have the necessary permission or authority to complete the form on behalf of the individual.
-* You have access to the necessary information and resources to complete the form accurately.
-
-This form is designed to be completed by individuals who are applying for benefits or services related to homelessness. If you are not completing this form for an individual who is homeless, please do not complete it.
-
-</thinking>
-
 # Homeless Verification Form - Help Guide
 ## Purpose
 This form is designed to verify the status of an individual as homeless or not, and to collect information about their last night's accommodation and address, if applicable.

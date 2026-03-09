@@ -1,11 +1,3 @@
-<thinking>
-The purpose of the "insurance_policy_verification_form" form is to collect and verify information related to an insurance policy. This form likely serves as a tool for verifying and updating policy details. It is essential to understand the form's purpose and its relevance to your current task. Ensure this form is not being used for other unrelated purposes.
-
-To avoid duplication, this form might be used in conjunction with other forms or as part of a larger workflow, possibly for data entry or updates to existing policies. Verify that this form is not being used in a way that contradicts the original intention or purpose.
-
-Before proceeding, take a moment to review the fields below and understand the expected information for each field.
-</thinking>
-
 # insurance_policy_verification_form - Help Guide
 ## Purpose
 The "insurance_policy_verification_form" is a form used to collect and verify information related to an insurance policy.

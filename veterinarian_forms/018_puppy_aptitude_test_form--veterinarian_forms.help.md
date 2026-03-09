@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to collect information about a puppy's characteristics, medical status, and intake status. It is intended to be completed by staff members at a veterinary clinic to record important details about each puppy that comes into the clinic. The form is divided into different sections, each covering a specific aspect of the puppy's information. This guide will walk you through the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-Please note that this form is specific to a veterinary clinic and is not intended for general public use. The information collected on this form will be used by staff members to keep accurate records and provide the best possible care for each puppy.
-
-This form is not meant to be used for public sharing or publication.
-
-</thinking>
-
 # Puppy Aptitude Test Form - Help Guide
 ## Purpose
 The Puppy Aptitude Test Form is designed to collect essential information about a puppy's characteristics, medical status, and intake status. This form helps staff members at a veterinary clinic record accurate and up-to-date information about each puppy.

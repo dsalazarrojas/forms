@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Curriculum Innovation Application Form - Help Guide
 ## Purpose
 The Veterinary Curriculum Innovation Application Form is designed to gather proposals for innovative curriculum ideas from veterinarians, educators, or organizations. The form aims to collect detailed information about the proposal, including its title, description, and contact details. This form is used to encourage collaboration, innovation, and improvement in veterinary education and practice.

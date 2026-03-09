@@ -1,15 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be filling out the "Veterinary EMR" form. The form is designed to gather information and details from clients visiting a veterinary clinic for a physical examination. The guide aims to provide clear instructions on how to fill out the form accurately and efficiently.
-
-The form will not be used for the following purposes:
-- This form is not intended to be used for scheduling appointments or making payments.
-- This form does not replace the standard medical record for the patient.
-- Please do not enter any confidential or sensitive information that should not be shared with the veterinary staff.
-
-Before filling out the form, please make sure that all the required fields (indicated as 'required') are filled out.
-
-</thinking>
-
 # Veterinary EMR - Help Guide
 ## Purpose
 The Veterinary EMR form is designed to collect information from clients visiting a veterinary clinic for a physical examination.

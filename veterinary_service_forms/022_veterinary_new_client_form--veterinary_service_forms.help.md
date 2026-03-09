@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from new clients visiting a veterinary clinic or hospital. The form helps gather essential details about the client, their pet, and medical history, which will aid in providing proper care and treatment. 
-
-Before filling out this form, please ensure you have not already submitted one to us. Duplicate submissions can cause confusion and delay the service you need.
-
-</thinking>
-
 # Veterinary New Client Form - Help Guide
 ## Purpose
 This form is designed to collect information from new clients and their pets. It is used to ensure the clinic has accurate records and can provide proper care for your animal.

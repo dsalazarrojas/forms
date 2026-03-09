@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for registering a pet's microchip database information. The purpose of this form is to collect essential details about a pet's microchip, including its name, microchip ID, type, and relevant contact information of the owner. This information is used to create a comprehensive database for microchipped pets, allowing for easier identification and management of pet microchips.
-
-Before proceeding, please ensure that you have the necessary permissions to register the pet and that you are not duplicating an existing registration.
-
-</thinking>
-
 # Pet Microchip Database Registration - Help Guide
 ## Purpose
 The Pet Microchip Database Registration form is used to collect essential details about a pet's microchip, including its name, microchip ID, type, and relevant contact information of the owner.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and consistently. Before completing the form, please confirm that you have the necessary information and that this form is not a duplicate. This form is for gathering information about a pet and its owner. It is intended for internal use within our organization and will help us better serve our animal friends. Please fill out this form accurately and completely.
-</thinking>
-
 # pet_information_request_form - Help Guide
 ## Purpose
 This form is for gathering information about a pet and its owner. It will help us better serve our animal friends.

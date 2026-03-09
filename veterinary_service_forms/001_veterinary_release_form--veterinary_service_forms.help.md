@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from the owner of the animal being treated, providing a release form for the veterinary clinic to document the details of the treatment, including the owner's information, animal details, and release information. The purpose of this form is to ensure that the owner understands the treatment process, provides consent for care, and releases the clinic from liability. It's crucial to ensure that the owner's contact and animal information is accurate and up-to-date. 
-</thinking>
-
 # Veterinary Release Form - Help Guide
 
 ## Purpose

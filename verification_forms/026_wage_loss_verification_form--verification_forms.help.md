@@ -1,10 +1,3 @@
-<thinking>
-This form is used to verify wage loss due to injury or illness. The purpose of this form is to gather information about the employee's wage loss, including details about the injury or illness, work location, and employer information. This form is used to verify the accuracy of wage loss reports.
-
-Before filling out this form, please ensure that you have all necessary information and documentation ready. This form should only be completed once for each employee's wage loss incident. 
-
-</thinking>
-
 # wage_loss_verification_form - Help Guide
 ## Purpose
 This form is used to verify wage loss due to injury or illness. It's an essential tool for gathering information about an employee's wage loss and ensuring accurate reports.

@@ -1,7 +1,3 @@
-<thinking>
-To ensure relevance and non-duplication, I'll briefly explain the form purpose and context. This guide is for the "Custom Collar Order Form," which is designed for veterinary services. The form likely collects information for custom collar orders, including details about the retail store, customer, and order specifics. The form appears to be used by retailers or veterinarians to place orders or manage customer orders. I'll assume that the form is used to collect information for both the customer and the retailer, with some fields being used to track order status and custom options.
-</thinking>
-
 # Custom Collar Order Form - Help Guide
 ## Purpose
 The Custom Collar Order Form is a tool used to collect information for custom collar orders, allowing retailers or veterinarians to place or manage orders for customers.

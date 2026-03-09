@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from pet owners for pet surgery procedures. It is essential to understand that this form is not affiliated with any form platform and is an original adaptation created using AI. The purpose of this form is to collect relevant details from pet owners to ensure a smooth and safe surgical process for their pets. Before proceeding, please review the form carefully to provide accurate information.
-</thinking>
-
 # Pet Surgery Consent Form - Help Guide
 ## Purpose
 This form is intended to be used by pet owners to provide consent and essential information for their pet's surgery. It includes sections to acknowledge risks, provide contact details, and specify veterinary services required.

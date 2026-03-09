@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for requesting a wildlife veterinary permit from a wildlife caregiver or facility. It gathers information for a permit that allows the holder to care for and transport wildlife in a specific species. The form should only be filled out by a wildlife caregiver or facility representative. Please review each field carefully and only enter relevant information to ensure the permit request is processed efficiently.
-
-</thinking>
-
 # Wildlife Veterinary Permit Request Form - Help Guide
 ## Purpose
 The Wildlife Veterinary Permit Request Form is a tool for requesting a permit that authorizes the holder to care for and transport wildlife in a specific species. This form is designed to gather necessary information for the permit issuance process.

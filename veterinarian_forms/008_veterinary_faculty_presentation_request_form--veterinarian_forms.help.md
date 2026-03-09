@@ -1,9 +1,3 @@
-<thinking>**Note to the designer/technical writer:** Before proceeding with the form help guide, ensure you have a clear understanding of the form's purpose, field types, and any specific requirements or constraints mentioned in the YAML file. This will help you create a concise and accurate guide.
-
-In this case, the form appears to be for requesting a presentation by a veterinary faculty member, likely for educational or promotional purposes. The fields seem to pertain to event details, contact information, and faculty presentation specifics. Ensure you cover all fields in the guide, explaining their relevance and any potential constraints or special considerations.
-
-Also, consider including any additional information or context that might be necessary for users to complete the form successfully, such as any specific formats or requirements for certain fields (e.g., date format, email address syntax). Finally, keep the tone friendly and approachable while being clear and concise in your explanations.</thinking>
-
 # Veterinary Faculty Presentation Request Form - Help Guide
 ## Purpose
 The Veterinary Faculty Presentation Request Form is designed to allow faculty members to request a presentation opportunity at the university. This form helps to gather necessary information about the event, contact details, and presentation specifics, which will be reviewed and approved internally.

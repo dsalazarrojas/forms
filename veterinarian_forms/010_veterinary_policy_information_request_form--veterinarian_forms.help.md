@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Policy Information Request Form - Help Guide
 ## Purpose
 The "Veterinary Policy Information Request Form" is designed for veterinarians and pet owners to provide detailed information about policies related to pet care, insurance, and other veterinary-related matters. This form aims to gather essential data for efficient policy handling and management.

@@ -1,11 +1,3 @@
-<thinking>
-This form is a vendor registration form for eco-friendly suppliers and manufacturers. The form is designed to collect information from vendors who want to be listed as eco suppliers on the website. The purpose of this form is to gather necessary information to verify the authenticity and credibility of the vendors. 
-
-The form is divided into several sections that cover various aspects of a vendor's business, such as their name, contact details, offerings, and certifications. Each section is explained below:
-
-The form is designed to be completed by vendors who want to be listed on the website. The information collected from this form will help the administrators to verify the vendor's credentials and ensure that only authentic eco-friendly suppliers are listed on the website.
-</thinking>
-
 # Eco Supply Vendor Registration - Help Guide
 
 ## Purpose

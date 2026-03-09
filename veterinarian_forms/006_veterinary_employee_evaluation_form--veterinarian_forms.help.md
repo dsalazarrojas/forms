@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation of veterinary employees' performance. The purpose of this form is to assess the overall performance of veterinary employees, including their job title, performance rating, and feedback. The form should be completed by a team member or manager to evaluate an employee's performance during a specific evaluation period. This form is meant to be used for internal use within the organization and should not be shared with external parties. Please ensure that the information collected is accurate and up-to-date, and that the form is completed for the correct evaluation period.
-</thinking>
-
 # Veterinary Employee Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluation of veterinary employees' performance.

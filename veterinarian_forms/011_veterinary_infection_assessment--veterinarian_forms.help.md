@@ -1,5 +1,3 @@
-<thinking>...checking if this form is for internal use within a specific veterinary clinic or for public use... seems like the form is designed for public use, as it includes a date field... assuming this form is meant to collect general information about pet infections, I'll assume it's for public use... the form appears to be a straightforward questionnaire to gather data about a pet's infection... no fields seem to be marked as required, which might imply that the form is optional or for informational purposes only...</thinking>
-
 # Veterinary Infection Assessment - Help Guide
 
 ## Purpose

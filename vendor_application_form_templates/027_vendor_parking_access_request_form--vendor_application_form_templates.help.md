@@ -1,10 +1,3 @@
-<thinking>
-**This form is used to request access to a parking area for vendors. Vendors may need to access a parking area for various reasons such as delivering goods, making deliveries, or conducting on-site meetings. This form helps ensure that the necessary information is collected to facilitate a smooth access process.**
-
-Before submitting the form, please note that you will need to provide accurate information to ensure that your request is processed correctly. If you have already submitted a request for the same parking area, please do not resubmit. Duplicate requests may cause delays or confusion in the processing of your request.
-
-</thinking>
-
 # Vendor Parking Access Request Form - Help Guide
 ## Purpose
 This form is used to request access to a parking area for vendors.

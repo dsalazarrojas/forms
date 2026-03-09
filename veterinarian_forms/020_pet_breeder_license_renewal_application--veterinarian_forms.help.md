@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assist pet breeders in renewing their licenses. This form will guide you through the process of providing necessary information to update your license status. Please ensure that you have all the required information and documents before starting the application process.
-</thinking>
-
 # Pet Breeder License Renewal Application - Help Guide
 ## Purpose
 This form is designed to collect and update information for the renewal of a pet breeder's license. It is intended to be completed by pet breeders seeking to renew their licenses.

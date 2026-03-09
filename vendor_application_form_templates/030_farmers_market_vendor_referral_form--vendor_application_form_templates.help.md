@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Farmers Market Vendor Referral Form", we need to understand its purpose and the context in which it's being used.
 
 This form is designed to collect information about a farmer or vendor who wants to be referred to the market. The form will likely be used by market managers to collect necessary information from potential vendors before referring them to the market.

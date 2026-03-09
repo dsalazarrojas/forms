@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Digital Transformation Readiness Survey - Help Guide
 ## Purpose
 The Veterinary Digital Transformation Readiness Survey is designed to assess your clinic's preparedness and readiness for digital transformation. This survey aims to help you identify areas that need improvement and provide insights to inform your digital transformation strategy. 

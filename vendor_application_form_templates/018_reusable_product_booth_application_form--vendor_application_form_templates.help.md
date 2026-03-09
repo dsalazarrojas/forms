@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be a template for vendors to submit their products or services for approval to be part of a product booth at a specified event. The form is designed to collect relevant information about the vendor, their product, and the event details. 
-This form is not meant to be used for duplicate submissions from the same vendor. Each vendor is allowed to submit only one application per event. 
-The form fields are designed to guide the user through the required and optional information needed for the submission. Please ensure that all required fields are filled out accurately to avoid submission rejection. 
-</thinking>
-
 # Reusable Product Booth Application Form - Help Guide
 ## Purpose
 The Reusable Product Booth Application Form is a template designed for vendors to submit their products or services for approval to be part of a product booth at an event. The form is intended to collect relevant information about the vendor, their product, and the event details.

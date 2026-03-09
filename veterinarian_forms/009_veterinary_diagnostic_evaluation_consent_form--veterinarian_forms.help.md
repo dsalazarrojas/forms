@@ -1,10 +1,3 @@
-<thinking>
-This form is used for the owner of a pet to provide information and consent for a veterinary diagnostic evaluation. The purpose of this form is to collect relevant details from the owner, such as contact information and symptoms, and to obtain consent for any procedures that will be performed on the pet. The form is used in a veterinary setting and is intended for use by the owner of the pet.
-
-This form is not intended to collect medical information about the pet, but rather to collect information from the owner that will help the veterinarian make an accurate diagnosis and treatment plan.
-
-</thinking>
-
 # Veterinary Diagnostic Evaluation Consent Form - Help Guide
 ## Purpose
 The Veterinary Diagnostic Evaluation Consent Form is used to collect information from the owner of a pet and obtain consent for any procedures that will be performed on the pet.

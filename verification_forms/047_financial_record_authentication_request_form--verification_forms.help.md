@@ -1,7 +1,3 @@
-<thinking>
-The form appears to be designed for requesting financial record authentication. This form likely serves as a tool for financial institutions to verify the authenticity of their customers' financial records. The fields provided are likely used to collect information about the customer's account, transaction, and authentication methods. This form might be used to request verification of a specific account or transaction, allowing the institution to confirm the accuracy of the information or to resolve discrepancies. The purpose of this form seems to be focused on authentication rather than data collection or submission. It's essential to ensure that the form is completed correctly to avoid errors or duplication of records.
-</thinking>
-
 # Financial Record Authentication Request Form - Help Guide
 ## Purpose
 The Financial Record Authentication Request Form is a tool used to verify the authenticity of financial records for customers. Fill out this form to request authentication of a specific account or transaction.

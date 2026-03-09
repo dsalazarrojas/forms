@@ -1,12 +1,3 @@
-<thinking>
-We're creating a help guide for the Quality Verification Research Application Form. This form is used to verify the quality of research conducted by participants in various projects. To ensure that the form is completed correctly and efficiently, let's review its purpose and fields.
-
-The form's primary goal is to gather information about the participant's university, project proposals, participant details, and phone number, if available. This data is essential for verifying the participant's involvement in research activities and projects.
-
-Before filling out the form, please note that each page has its specific purpose and requirements. For example, the "university" field is used to record the participant's university affiliation. The "project proposals" field is a dropdown menu where you can select whether the participant is involved in any projects. If you're unsure about any field, please contact the relevant authority for clarification.
-
-</thinking>
-
 # Quality Verification Research Application Form - Help Guide
 ## Purpose
 The Quality Verification Research Application Form is used to gather information about participant involvement in research activities and projects. This form helps verify the quality of research conducted by participants.

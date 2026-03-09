@@ -1,7 +1,3 @@
-<thinking>
-This form is used for employment verification, which is a process to confirm an employee's employment status with their current or former employer. The form is used to verify an employee's employment details such as job title, job start and end dates, reason for leaving, and other relevant information. This form is typically used for employment purposes like background checks or verification of employment history. To prevent duplication, the form should only be filled out by the employee's current or former employer.
-</thinking>
-
 # Employment Verification Affidavit Form - Help Guide
 ## Purpose
 This form is used to verify an employee's employment details for employment purposes such as background checks or verification of employment history.

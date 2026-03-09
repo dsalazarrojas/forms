@@ -1,7 +1,3 @@
-<thinking>
-This form is used to provide medical information and instructions for veterinary care to pet owners or veterinarians. The purpose of the form is to ensure that pets receive proper medical attention and treatment. The form should only be filled out by veterinarians or authorized personnel to prevent duplication of work.
-</thinking>
-
 # Pet Prescription Form - Help Guide
 ## Purpose
 This form is used to document pet medical information and provide instructions for follow-up care.

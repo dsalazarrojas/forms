@@ -1,14 +1,3 @@
-<thinking> 
-This form is intended to collect information about a puppy's structure, including breed, sex, age, height, weight, and other physical characteristics. This form is likely used for veterinary purposes, such as conducting a physical examination or assessing a puppy's health status. It's possible that this form is used by veterinarians or veterinary technicians to evaluate a puppy's structure and provide guidance on its care and treatment.
-
-Before completing this form, please ensure that you are authorized to access and submit this information. If you are not a veterinary professional, please do not use this form. 
-
-This form is not intended for general use and is specific to the veterinary industry. 
-
-If you are unsure about any of the fields or questions, please ask your veterinarian or veterinary technician for guidance.
-
-</thinking>
-
 # Puppy Structure Evaluation Form - Help Guide
 ## Purpose
 This form is used to collect information about a puppy's structure, including breed, sex, age, height, weight, and other physical characteristics. The information collected will be used by veterinary professionals to conduct a physical examination and provide guidance on the puppy's care and treatment.

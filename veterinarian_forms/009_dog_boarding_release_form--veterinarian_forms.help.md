@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from pet owners when they need to board their dogs. The purpose of this form is to gather essential details about the pet and its owner in a clear and concise manner. The form will be used by veterinarians or pet boarding staff to understand the pet's health, behavior, and contact information, ensuring a smooth and safe boarding experience for both the pet and its owner. 
-
-</thinking>
-
 # Dog Boarding Release Form - Help Guide
 ## Purpose
 The Dog Boarding Release Form is a document that requires pet owners to provide essential information about their dogs before they are boarded. This form ensures that the boarding facility has the necessary details to care for the pet and address any potential health or behavioral issues that may arise during the boarding period.

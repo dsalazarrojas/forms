@@ -1,7 +1,3 @@
-<thinking>
-This form is a verification request for customers to provide details and information required to process a refund. The purpose of this form is to gather essential data from the customer, ensuring accuracy and efficiency in the refund process. This helps reduce the likelihood of duplicate requests, as customers must confirm their purchase details, refund requests, and identification information. The form is designed to be easy to complete, with clear fields for customers to input their information. To ensure accuracy, each field is clearly labeled, and the customer can see their progress as they fill out the form. Before filling out the form, customers should verify that the purchase and refund details are accurate to avoid any misunderstandings or re-submissions.
-</thinking>
-
 # Customer Refund Verification Request - Help Guide
 ## Purpose
 This guide is intended to assist customers in understanding the refund request form, which is used to verify and validate the details of their refund request. The form aims to gather accurate and essential information from customers to process their refund efficiently.

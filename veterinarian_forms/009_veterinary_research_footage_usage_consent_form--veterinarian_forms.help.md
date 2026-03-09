@@ -1,12 +1,3 @@
-<thinking>
-The Veterinary Research Footage Usage Consent Form is a critical document that ensures the responsible and ethical usage of footage in veterinary research. This form is designed to collect information from pet owners or clients about the purpose and usage of footage collected during veterinary procedures. It serves as a crucial record of consent, ensuring that all parties involved are aware of and agree to the usage of the footage.
-
-Before completing this form, please ensure that you have reviewed the purpose and usage of the footage with your veterinarian and understand the implications of agreeing to its use. This form is not intended to be a comprehensive guide to the usage of veterinary footage, but rather a tool to facilitate informed consent.
-
-The form is intended to be completed by pet owners or clients of veterinary clinics or hospitals. If you are a veterinary professional, please ensure that you have obtained consent from pet owners or clients before completing this form.
-
-Please review the form carefully and complete it accurately to ensure that all parties involved are aware of and agree to the usage of the footage.</thinking>
-
 # Veterinary Research Footage Usage Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from pet owners or clients about the purpose and usage of footage collected during veterinary procedures. It ensures that all parties involved are aware of and agree to the usage of the footage.

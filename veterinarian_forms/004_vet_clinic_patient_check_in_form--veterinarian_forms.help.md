@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vet Clinic Patient Check In Form - Help Guide
 
 ## Purpose

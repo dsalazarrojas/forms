@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'll assume that the form is for a sports facility vendor renewal application, where vendors provide information to renew their contract or agreement with the facility. This form is likely used by facility management staff to collect and review vendor details before making a decision on renewal. The purpose of the form is to gather necessary information from the vendor, including contact details, documents, and renewal status. The form also includes fields for vendor notes and review status, indicating the current state of the vendor's application.</thinking>
-
 # Sports Facility Vendor Renewal Application - Help Guide
 ## Purpose
 This form is used to collect information from sports facility vendors for the purpose of renewing their contract or agreement with the facility. Please provide accurate and complete information in the required fields.

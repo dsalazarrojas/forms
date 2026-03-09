@@ -1,21 +1,3 @@
-<thinking>
-
-We are creating a guide to help users understand how to complete the "Pet Imaging Study Form", which is used to collect information about a patient's imaging study. This form aims to gather relevant details to facilitate accurate and efficient diagnosis and treatment.
-
-The form is used to:
-
-- Collect patient information (age, weight, height)
-- Record imaging requests (CT or MRI scans)
-- Document the location of the scan
-- Store radiologist notes
-- Record scan date and time
-- Identify the type of pet being imaged
-- Record contact information for the veterinary team
-
-To ensure that users do not duplicate or omit essential information, we will review the form fields carefully to ensure that all relevant details are captured accurately.
-
-</thinking>
-
 # Pet Imaging Study Form - Help Guide
 ## Purpose
 

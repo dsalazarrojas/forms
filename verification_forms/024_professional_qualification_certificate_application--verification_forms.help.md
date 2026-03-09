@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from applicants seeking a Professional Qualification Certificate. This form is used to verify an individual's professional qualifications and credentials, and it's essential to fill it out accurately and thoroughly. Before starting, please ensure you have all the necessary documents and information ready. This form should not be resubmitted if you have already submitted a similar request in the past.
-</thinking>
-
 # Professional Qualification Certificate Application - Help Guide
 ## Purpose
 The Professional Qualification Certificate Application form is a necessary document for those seeking to verify their professional credentials.

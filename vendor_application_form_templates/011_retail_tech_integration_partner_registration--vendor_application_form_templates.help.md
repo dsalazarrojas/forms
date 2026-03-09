@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a vendor application form for retail technology integration partnerships. The purpose of this form is to collect information from potential partners about their integration interests, technical details, and status of their integration. The form likely aims to streamline the process of assessing and collaborating with retail technology integrators. It's possible that this form is part of an internal process to ensure that only qualified and suitable partners are integrated into the system.
-</thinking>
-
 # Retail Tech Integration Partner Registration - Help Guide
 ## Purpose
 This form is designed to collect information from potential partners about their retail technology integration interests and details. It helps our team assess and collaborate with qualified partners.

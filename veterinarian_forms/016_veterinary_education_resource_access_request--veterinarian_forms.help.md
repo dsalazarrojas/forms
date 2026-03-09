@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for requesting access to veterinary education resources, such as textbooks, journals, and online resources. The purpose of this form is to help veterinarians and students of veterinary medicine obtain educational materials that are not readily available to them. It is a request form, meaning that it should only be used to submit requests, not to update or modify existing information.
-
-When filling out this form, please ensure that you have not already submitted a similar request for the same resource, as this may cause duplication of effort and confusion. This form is meant to be used by individuals who have not previously requested access to the same resource.
-
-</thinking>
-
 # Veterinary Education Resource Access Request - Help Guide
 ## Purpose
 The purpose of this form is to request access to veterinary education resources, such as textbooks, journals, and online resources. These resources are used for educational purposes, such as research, coursework, presentations, or other educational activities.

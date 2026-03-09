@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information from dog owners about their dogs before providing grooming services. The form collects basic information about the dog, the owner, and any relevant medical conditions or medications. The purpose of this form is to ensure that the groomer has all the necessary information to provide the best possible service for the dog.
-
-This form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created by AI using public survey topic metadata.
-</thinking>
-
 # Dog Grooming Intake Form - Help Guide
 ## Purpose
 The Dog Grooming Intake Form is used to collect information about a dog and its owner before providing grooming services.

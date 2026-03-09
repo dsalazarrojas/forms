@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report a lost and found dog. The purpose of this form is to gather information about a dog that has been lost, including its breed, name, location where it was last seen, and description of the dog. The goal is to aid in reuniting the dog with its owner.
-</thinking>
-
 # lost_and_found_dog_intake_form - Help Guide
 ## Purpose
 The lost and found dog intake form is used to collect information about a lost dog in order to assist in reuniting it with its owner. 

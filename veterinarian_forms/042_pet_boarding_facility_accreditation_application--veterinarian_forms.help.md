@@ -1,16 +1,3 @@
-<thinking>
-To confirm, you want me to create a user-facing help guide for the "Pet Boarding Facility Accreditation Application" form, which is designed to gather information from pet boarding facilities. The form appears to be quite detailed, with multiple fields related to the facility's insurance and license information. Before creating the help guide, I'd like to ask some questions to ensure I understand the form's purpose and requirements correctly. 
-
-Please let me know if the following assumptions are correct:
-
-* The form is intended for pet boarding facilities to provide their accreditation information.
-* The form is used to collect various types of information, including facility name, address, license status, insurance status, and insurance provider details.
-* The form requires the facility to provide their license number, insurance provider's name, phone number, email, address, and other relevant details.
-
-If these assumptions are correct, I can proceed to create the help guide based on the provided YAML fields.
-
-</thinking>
-
 # Pet Boarding Facility Accreditation Application - Help Guide
 ## Purpose
 This form is designed to collect information from pet boarding facilities for accreditation purposes. It helps us understand your facility's details, including your license status, insurance information, and other relevant details. Please provide accurate and complete information to ensure a smooth accreditation process.

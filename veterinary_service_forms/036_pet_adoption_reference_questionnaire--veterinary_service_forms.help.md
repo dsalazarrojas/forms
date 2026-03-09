@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect reference information about pet adoptions. It is meant to be filled out by users who have adopted pets in the past or are looking to adopt a new pet. The form is meant to be completed only once for each pet adopted, and not for each interaction or transaction related to the pet. Please ensure that you have the necessary information and consent from the pet owner before filling out this form.
-</thinking>
-
 # Pet Adoption Reference Questionnaire - Help Guide
 ## Purpose
 The Pet Adoption Reference Questionnaire is a form used to collect reference information about pet adoptions. It is meant to be filled out by users who have adopted pets in the past or are looking to adopt a new pet.

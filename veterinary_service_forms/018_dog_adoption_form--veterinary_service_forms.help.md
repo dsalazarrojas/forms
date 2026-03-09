@@ -1,11 +1,3 @@
-<thinking>
-The purpose of the "dog_adoption_form" is to collect information from individuals or organizations interested in adopting dogs from our veterinary service. The form is designed to gather essential details about the pet being adopted and the contact information of the adopter. This information will be used to process the adoption application and ensure a smooth transition for both the adopter and the animal.
-
-To avoid duplication and ensure accuracy, it's essential to review the form carefully before submitting it.
-
-This form will help us better understand the adopter's needs and preferences, making it easier to match the right dog with the right owner.
-</thinking>
-
 # dog_adoption_form - Help Guide
 ## Purpose
 The "dog_adoption_form" is used to collect information for adopting dogs from our veterinary service.

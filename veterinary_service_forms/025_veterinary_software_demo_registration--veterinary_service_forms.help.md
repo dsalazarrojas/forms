@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from veterinarians and veterinary clinics interested in demoing the software. This form helps us understand who is interested in the demo, what they are interested in, and when they would like to schedule the demo. This ensures that we can tailor the demo to their needs and schedule it at a time that works for them.
-</thinking>
-
 # Veterinary Software Demo Registration - Help Guide
 ## Purpose
 This form is for veterinarians and veterinary clinics interested in demoing our software. It's a simple, multi-page form that collects your contact information and preferred demo time.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to record information about a pet, including its name, type, and activities, as well as details about the owner, such as their name, email, and phone number. This form is intended to be completed by pet owners or caregivers to keep track of their pet's history and provide essential contact information. It is not intended to be a comprehensive veterinary medical record form, but rather a simple and accessible way to gather basic pet information.
-</thinking>
-
 # Pet Diary Form - Help Guide
 ## Purpose
 The Pet Diary Form is designed to record and manage information about your pet, including its name, type, activities, and care details.

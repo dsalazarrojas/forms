@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users document and report on the cleaning of a dog kennel, which is a facility that houses and cares for dogs. The form is intended to gather information on the areas to be cleaned, the details of the cleaning, and the schedule of the cleaning. This form is not intended for data collection from clients or pet owners, but rather for internal use by kennel staff or administrators.
-</thinking>
-
 # Dog Kennel Cleaning Checklist - Help Guide
 ## Purpose
 This form is used by kennel staff or administrators to document and report on the cleaning of a dog kennel. The form helps to ensure that the kennel is cleaned according to a scheduled and recorded cleaning schedule, and that all areas of the kennel are properly maintained.

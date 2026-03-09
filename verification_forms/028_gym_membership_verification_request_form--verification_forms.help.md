@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to request the verification of a member's details and documents for a gym membership. The purpose of this form is to allow members to request verification of their membership status and to upload any necessary documents to support their request. This form should not be used to submit new member applications or make changes to existing membership status. If you are not a current member, please do not fill out this form.
-</thinking>
-
 # Gym Membership Verification Request Form - Help Guide
 ## Purpose
 The Gym Membership Verification Request Form is designed to be used by current members to request verification of their membership status and to upload any necessary documents to support their request.

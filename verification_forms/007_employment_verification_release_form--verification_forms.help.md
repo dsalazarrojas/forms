@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the employment verification release form is to collect information about a job applicant's employment history for verification purposes. It should only be filled out by the applicant or an authorized representative. This form is intended to be submitted to the employer for verification, not by the employer to the employee. Please ensure this form is not submitted by the employer or anyone else other than the applicant or their authorized representative before proceeding.
-</thinking>
-
 # employment_verification_release_form - Help Guide
 ## Purpose
 The employment verification release form is used to collect information about a job applicant's employment history for verification purposes. This form should only be filled out by the applicant or an authorized representative and submitted to the employer for verification.

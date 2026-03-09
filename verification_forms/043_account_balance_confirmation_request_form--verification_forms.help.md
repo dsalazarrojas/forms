@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the "Account Balance Confirmation Request Form" is used correctly to avoid any confusion or errors. The form is intended for internal use by authorized personnel only. Before proceeding, please verify that the form is not being filled out for a duplicate request or for an account that has already been confirmed. This form is used to request an account balance confirmation for a specific client's account at a financial institution. The requestor is required to provide accurate and complete information to ensure that the confirmation process is smooth and efficient.
-</thinking>
-
 # Account Balance Confirmation Request Form - Help Guide
 ## Purpose
 The Account Balance Confirmation Request Form is a document used by authorized personnel to request confirmation of a client's account balance at a financial institution. This form helps ensure that the requested information is accurate and up-to-date.

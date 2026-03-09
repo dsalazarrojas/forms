@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from a parent or guardian regarding their child's participation in services. The purpose of this form is to verify the parent's or guardian's identity and to obtain their consent for the services. It also helps to track the status of the verification process. 
-To ensure the integrity and accuracy of the form, we check for duplication of verification forms for the same service and guardian. If the form is already completed for the same service and guardian, it will be rejected. 
-</thinking>
-
 # Parental Verification For Services - Help Guide
 ## Purpose
 The form is designed to collect information from a parent or guardian regarding their child's participation in services and to obtain their consent for the services.

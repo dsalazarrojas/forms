@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a vendor participation application form, used for collecting information about potential vendors. It is designed to help us get a better understanding of the vendor's capabilities, experiences, and qualifications. Before filling out this form, please make sure that you have read and understood the requirements and guidelines for participation in our vendor program. Also, please note that this form should not be used for duplicate applications. If you have previously submitted an application, please do not resubmit. 
 
 </thinking>

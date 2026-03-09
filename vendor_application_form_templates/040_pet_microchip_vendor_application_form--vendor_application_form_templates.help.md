@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed for pet microchip vendors to apply for some sort of certification, partnership, or registration. The "Vendor Status" field suggests that the vendor's status may be checked or verified at some point. It's possible that this form is meant for vendors to provide information about their microchip products, including details about the chips themselves and the vendor's contact and shipping information.
-The form asks for various types of information, including vendor, contact, shipping, payment, microchip, and additional comments. Some fields are optional, but others are required. The "Vendor Status" field is a select_one field with two options: Microchip Vendor and Not a Microchip Vendor.
-</thinking>
-
 # pet microchip vendor application form - Help Guide
 ## Purpose
 This form is for pet microchip vendors to apply for certification, partnership, or registration. You will need to provide detailed information about your vendor, contact, shipping, and microchip products.

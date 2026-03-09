@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to collect information about reported wildlife sightings in the context of veterinary collaboration. The form is likely used by wildlife veterinarians or organizations to gather data on reported animal sightings, including details about the location, species, and status of the animals. It appears to be a comprehensive form that covers various aspects of wildlife sighting reporting, including contact information and photos.
-
-Before creating this help guide, I'll review the form fields to ensure that each field is accurately explained. Based on the provided YAML, the form has several pages with a mix of text, select_one, select_multiple, email, and date fields. Some fields seem to be duplicates or have similar labels, which may cause confusion. I'll aim to provide clear explanations for each field, highlighting their purpose and any potential confusion points.
-
-</thinking>
-
 # Wildlife Veterinary Collaboration Review Survey - Help Guide
 ## Purpose
 The Wildlife Veterinary Collaboration Review Survey is a comprehensive form designed to collect information about reported wildlife sightings in the context of veterinary collaboration. It's intended to gather data on various aspects of wildlife sightings, including location, species, status, and contact information.

@@ -1,8 +1,4 @@
-# <thinking>
-This form appears to be a simple client and pet information form, possibly used in a veterinary setting to collect data from new clients and their pets. It seems to have 3 fields, with the first two being for individual input and the third being a note field. Based on this information, the form is likely used for registration or intake purposes. The form doesn't require any special knowledge or context to be understood, which indicates it's a basic form.
-</thinking>
-
-# New Client And Pet Information Form - Help Guide
+# # New Client And Pet Information Form - Help Guide
 ## Purpose
 This form is used to collect new client and pet information for registration or intake purposes in a veterinary setting.
 

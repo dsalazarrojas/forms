@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for veterinarians to provide health certificates for dogs, ensuring they meet the required standards for travel or other official purposes. The form gathers essential information about the dog, such as its contact information, medical conditions, and veterinary details. This guide will walk you through each section of the form to help veterinarians complete it accurately and efficiently.
-</thinking>
-
 # Dog Health Certificate Form - Help Guide
 ## Purpose
 This form is used to create a health certificate for dogs, which is typically required for international travel or other official purposes. It ensures that the dog's health is verified and meets the necessary standards.

@@ -1,11 +1,3 @@
-<thinking>
-This form is for product origin disclosure registration. The purpose of this form is to collect information about a product's origin, such as its category, name, description, image, and any relevant certifications. This information will help in ensuring the product's origin is properly disclosed to comply with regulatory requirements. 
-
-The form is designed for users to provide accurate and detailed information about their products. By filling out this form, users will be able to register their product's origin and receive a unique registration ID. This form is not affiliated with, endorsed by, or derived from any form platform and is an original adaptation created using public survey topic metadata.
-
-Please ensure you are filling out the form for the correct product to avoid duplication and inaccuracies. If you are unsure about any field, please review the field-by-field explanation provided below.
-</thinking>
-
 # Product Origin Disclosure Registration Form - Help Guide
 ## Purpose
 The Product Origin Disclosure Registration Form is designed to help product manufacturers and suppliers provide accurate and detailed information about their products' origin. This form is used to register a product's origin and obtain a unique registration ID, which can be used for various purposes such as labeling, packaging, and marketing materials.

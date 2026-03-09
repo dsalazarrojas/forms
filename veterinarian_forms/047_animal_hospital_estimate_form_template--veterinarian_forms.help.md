@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animal Hospital Estimate Form Template - Help Guide
 
 ## Purpose

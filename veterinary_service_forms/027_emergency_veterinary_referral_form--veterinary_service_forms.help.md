@@ -1,7 +1,3 @@
-<thinking>... This form appears to be a template for collecting information in emergency situations involving pets. The purpose of this form is to collect relevant details from pet owners, including information about their pet, the owner's own contact information, and any emergency contact details. I will assume that the form is intended for use by veterinary clinics or pet-related services.
-
-</thinking>
-
 # emergency_veterinary_referral_form - Help Guide
 ## Purpose
 This form is designed to collect information in emergency situations involving pets, allowing veterinary clinics or pet-related services to gather essential details from pet owners.

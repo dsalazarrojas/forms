@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to be completed by pet owners (or their representatives) to agree to a grooming service for their pet. It is likely intended to capture essential information from clients for the grooming process, such as pet details, desired services, appointment time, and contact information.
-</thinking>
-
 # Grooming Service Agreement - Help Guide
 ## Purpose
 This form is intended to be filled out by pet owners or their representatives to agree to a grooming service for their pet.

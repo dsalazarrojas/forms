@@ -1,14 +1,3 @@
-<thinking>
-The provided YAML defines a form for collecting information about a pet's veterinary care. The form includes fields for patient information, medical history, and other relevant details. The fields are likely used to gather data for record-keeping or reporting purposes.
-
-To ensure the form is completed correctly, it's essential to follow the required fields and options. Required fields are denoted by `required: true` in the YAML.
-
-Here's a brief overview of the form purpose: The veterinary care monitoring form is designed to collect essential information about a patient's veterinary care. This form should be used to gather details on patient information, vaccination history, medical history, medication list, check-up frequency, veterinarian comments, patient contact details, and other relevant information.
-
-Before starting, ensure you have all necessary information and documents at hand. This form should not be used for emergency situations or high-stakes decisions. The form's data should be reviewed and updated regularly to reflect any changes in the patient's veterinary care.
-
-</thinking>
-
 # veterinary_care_monitoring_form - Help Guide
 ## Purpose
 The veterinary care monitoring form is designed to collect essential information about a patient's veterinary care. This form should be used to gather details on patient information, vaccination history, medical history, medication list, check-up frequency, veterinarian comments, patient contact details, and other relevant information.

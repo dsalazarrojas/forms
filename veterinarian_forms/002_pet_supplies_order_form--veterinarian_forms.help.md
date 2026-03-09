@@ -1,6 +1,3 @@
-<thinking>
-The purpose of the Pet Supplies Order Form is to enable users to submit an order for pet supplies, such as food, toys, and bedding, for their pets. This form is designed to collect essential information from the user, including the type of pet, its name, the desired supplies, the quantity of the order, contact information, and any additional comments or messages. The form's design and layout are intended to make it easy for users to navigate and ensure they provide all necessary details for their order.
-</thinking>
 # Pet Supplies Order Form - Help Guide
 ## Purpose
 The Pet Supplies Order Form is a tool used to submit orders for pet supplies such as food, toys, and bedding. To use this form, follow the steps below.

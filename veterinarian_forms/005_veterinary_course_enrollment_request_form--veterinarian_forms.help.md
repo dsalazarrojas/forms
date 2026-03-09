@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # veterinary_course_enrollment_request_form--veterinarian_forms - Help Guide
 ## Purpose
 This form is used to request veterinary courses and related information. The form is designed to help veterinarians provide their course interest, background details, contact information, and other relevant details for course enrollment purposes.

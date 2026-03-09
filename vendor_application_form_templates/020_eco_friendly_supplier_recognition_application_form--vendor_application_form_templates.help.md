@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help suppliers apply for eco-friendly recognition, a process typically initiated by clients or partners. To complete this form, the supplier should provide detailed information about themselves, including their sustainability practices, certifications, and references. This form ensures that only legitimate suppliers with a strong track record of eco-friendly practices are acknowledged and promoted.
-
-Before filling out this form, ensure that you have not already submitted an identical or similar application. If you have any questions or concerns, please contact form@gic.mx.
-
-</thinking>
-
 # Eco Friendly Supplier Recognition Application Form - Help Guide
 ## Purpose
 The Eco Friendly Supplier Recognition Application Form is a template designed to help suppliers apply for eco-friendly recognition. This form gathers information about the supplier's sustainability practices, certifications, and other relevant details to ensure that only legitimate suppliers with a strong track record of eco-friendly practices are acknowledged and promoted.

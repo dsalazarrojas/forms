@@ -1,12 +1,3 @@
-<thinking>
-This guide is for the Fulfillment Partner Accreditation Application form. The purpose of this form is to collect information from fulfillment partners about their company's accreditation status, services, and other relevant details. This form is intended for use by fulfillment partners to apply for or update their accreditation status with our company.
-
-Before starting the application, please ensure that you are not duplicating an existing application. If you are unsure, contact our support team for assistance.
-
-The form is divided into several sections, each with its own set of fields. Please make sure to fill out each field carefully and accurately, as the information provided will be used to determine your company's accreditation status.
-
-</thinking>
-
 # Fulfillment Partner Accreditation Application - Help Guide
 ## Purpose
 The Fulfillment Partner Accreditation Application form is designed to collect information about your company's services, experience, and other details relevant to your accreditation status. Please answer the questions carefully and accurately to ensure a smooth application process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beauty Studio Vendor Renewal Application Form - Help Guide
 
 ## Purpose

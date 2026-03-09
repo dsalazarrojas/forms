@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to verify an individual's unemployment income, typically for benefit or tax-related purposes. This form is likely to be used by individuals, employers, or government agencies to confirm an individual's employment status and income details. To avoid non-duplication, it's essential to ensure that the form is completed accurately and with the most up-to-date information. This form may need to be filled out by the individual or their representative, and it's a good idea to check the form's status after submitting it to ensure that it's been received correctly.</thinking>
-
 # Unemployment Income Verification Form - Help Guide
 ## Purpose
 The Unemployment Income Verification Form is a document that confirms an individual's employment status and income details for a specific period. It's used to verify unemployment income, usually for government benefits, tax purposes, or other related reasons.

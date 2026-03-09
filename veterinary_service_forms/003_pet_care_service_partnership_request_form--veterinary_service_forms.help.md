@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from pet owners who are interested in partnering with the organization to provide pet care services. The form will be used by the organization's staff to assess the partnership request and follow up with the owner. To ensure that only relevant and unique requests are processed, the organization has implemented a system to check for duplication of requests and non-relevant submissions.
-</thinking>
-
 # Pet Care Service Partnership Request Form - Help Guide
 ## Purpose
 The Pet Care Service Partnership Request Form is used to collect information from pet owners who are interested in partnering with the organization to provide pet care services.

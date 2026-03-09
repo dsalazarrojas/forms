@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be designed for veterinarians or pet owners to gather information about an animal's behavior. The form likely aims to help veterinarians or pet owners report and analyze animal behavior, possibly for diagnostic or counseling purposes. The form seems to be comprehensive, covering various aspects of animal behavior, including the species, primary behavior concern, onset of behavior, observed behaviors, intensity of behavior, known triggers, current responses, previous training experience, and final details such as goals for behavior modification.
-
-This form does not appear to be redundant or similar to any other known form design, as it's an original adaptation using public survey topic metadata.
-
-</thinking>
-
 # Animal Behavior Information Form - Help Guide
 ## Purpose
 This form is designed to collect information about an animal's behavior for diagnosis, analysis, or behavioral modification purposes.

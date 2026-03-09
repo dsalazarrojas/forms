@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information from veterinarians about their marketing outreach and communication strategies. It will help us understand how they prefer to be contacted and what types of messages they find most effective. 
-The form is not meant to be filled out on a daily or weekly basis, and it will not take more than 5-10 minutes to complete. 
-
-This form is not a part of our regular workflow, and users will not receive any direct consequences or benefits from filling it out. 
-Please fill it out only if you are a part of our target audience (veterinarians, pet care professionals, and pet owners) 
-The form has 25 questions, which are split into categories like Marketing Channels, Outreach Effectiveness, and Message Topics. 
-The questions are not meant to be answered in an academic or scientific way, rather, answer them based on your personal preference and current practices. 
-This guide is designed to assist you in completing this form accurately and effectively. 
-</thinking>
-
 # Veterinary Marketing Outreach Survey - Help Guide
 ## Purpose
 This form is designed to gather information from veterinarians about their marketing outreach and communication strategies. It will help us understand how they prefer to be contacted and what types of messages they find most effective.

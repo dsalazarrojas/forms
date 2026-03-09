@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assess the readiness of veterinary practices to undergo digital transformation. Digital transformation in veterinary practices involves the integration of technology to enhance efficiency, improve patient care, and stay competitive in the market. This form aims to gather information on the current state of digital tools usage, challenges, and benefits of digital transformation in veterinary practices. The data collected will help veterinary professionals identify areas of improvement and provide insights for digital transformation.
-
-The form is not affiliated with, endorsed by, or derived from any form platform. It is an AI-generated form using public survey topic metadata as inspiration.
-
-Please note that the form is not a medical diagnostic tool, and the information collected is for general guidance and research purposes only.
-
-</thinking>
 # Veterinary Digital Transformation Readiness Survey - Help Guide
 ## Purpose
 The Veterinary Digital Transformation Readiness Survey is a tool designed to evaluate the current state of digital transformation in veterinary practices. This form helps veterinary professionals assess their readiness to adopt digital technologies and identify areas for improvement.

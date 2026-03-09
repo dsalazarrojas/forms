@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect personal identity information for verification purposes. The form is likely used in scenarios where a person's identity needs to be verified, such as in the context of account creation, onboarding, or other situations where accurate identity information is required. The form should not be used for identification purposes in high-security scenarios, such as banking or financial transactions. It's possible that the form is part of a larger application or system that requires user identification.
-</thinking>
-
 # Personal Identity Verification Form - Help Guide
 ## Purpose
 This form is used to collect personal information from users to verify their identity. It's recommended to fill out the form carefully and accurately to avoid any issues with account creation or verification.

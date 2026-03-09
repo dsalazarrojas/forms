@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to help vendors provide information about their participation in the application process. The form is used to collect basic contact information and other details about the vendor. The purpose of this form is to ensure that the vendor has the necessary information to complete the application process.
-This form will only be accessible to authorized personnel. Please do not submit this form if you are not a vendor participating in the application process.
-</thinking>
-
 # Vendors Participation Application Form - Help Guide
 ## Purpose
 The Vendors Participation Application Form is used to collect basic information from vendors participating in the application process. This information will be used to facilitate communication and ensure that vendors can complete the application process efficiently.

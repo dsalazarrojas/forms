@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gauge the level of satisfaction of clients who have visited a veterinary clinic. The form is intended to collect feedback from clients on their experiences, including their contact information, visit details, and perceptions of the clinic's quality of care and services. The purpose of this form is to identify areas of improvement and provide insights for the clinic to enhance its services.
-
-</thinking>
-
 # Veterinary Client Satisfaction Benchmark Survey - Help Guide
 ## Purpose
 The Veterinary Client Satisfaction Benchmark Survey is designed to collect feedback from clients about their experiences at the clinic. This form will help us understand what you think about our services and what we can do to improve.

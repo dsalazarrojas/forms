@@ -1,5 +1,3 @@
-<thinking>As a technical writer, I need to ensure that the form is well-understood by the end-users. Let's break down the form's purpose, completion instructions, and field-by-field explanation to create a user-friendly help guide.</thinking>
-
 # Utility Bill Verification Form - Help Guide
 ## Purpose
 The "Utility Bill Verification Form" is used to verify utility bills for customers, ensuring accuracy and correctness of the billing information. This form is essential for verifying and confirming the details of utility bills to prevent errors or discrepancies. By using this form, customers can accurately provide their billing information, reducing the likelihood of incorrect charges or missed payments.

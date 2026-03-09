@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to verify information related to a patient's prescription, ensuring that the provided data is accurate and up-to-date. This form will be used to gather specific details about the patient, including their contact information and medical records. To ensure the form is completed correctly, please check that you have the necessary permissions and approvals before proceeding. Additionally, please note that this form should not be used to collect duplicate patient information.
-</thinking>
-
 # Prescription Verification Form - Help Guide
 ## Purpose
 This form is designed to verify a patient's prescription details. It is essential to provide accurate and up-to-date information to ensure the verification process is completed correctly.

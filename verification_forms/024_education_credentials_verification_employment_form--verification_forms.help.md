@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to verify the education credentials of an individual, typically for employment purposes. It is designed to collect information about an individual's educational background, including their education provider (e.g., high school, university), level of education (e.g., diploma, degree), and date of graduation. The form also includes sections for employer confirmation, education provider verification, and contact information. This form is typically used by employers or organizations to verify an individual's education credentials before offering employment or other opportunities. 
-
-To avoid duplication or incorrect information, please ensure that the information provided is up-to-date and accurate.
-
-</thinking>
-
 # Education Credentials Verification Employment Form - Help Guide
 ## Purpose
 The Education Credentials Verification Employment Form is designed to collect and verify an individual's education credentials for employment purposes. This form helps employers to confirm an individual's educational background and ensure that they are providing accurate information.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to allow users to register their pets for various services, including bath, groom, and trim. The form captures essential details about the pet and its owner, including the pet's name, type, and contact information. By filling out this form, users can efficiently book services for their pets.
-
-To ensure that users can correctly fill out the form, we will review the form's purpose and requirements internally to prevent any duplication of efforts.
-
-The goal is to create a user-facing help guide that provides a clear and concise explanation of each field's purpose and required information.
-
-</thinking>
-
 # Pet Grooming Registration Form - Help Guide
 
 ## Purpose

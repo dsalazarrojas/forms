@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect verification information for citizen ID documents. It is crucial that the document is authentic and valid, so users should ensure they upload clear and legible scans or photos of the document's front and back sides. The form also requires users to provide personal information, verify the purpose of the verification, and consent to processing their personal data. The form will be used to verify the authenticity of the uploaded documents and perform the necessary checks with the legal authorities if required. Please ensure that the uploaded documents are valid and not tampered with before submitting this form.
-</thinking>
-
 # Citizen ID Document Upload Form - Help Guide
 ## Purpose
 This form is used to collect verification information for citizen ID documents. It is designed to ensure the authenticity and validity of the uploaded documents.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used by veterinarians to assess the aptitude of a puppy for adoption. The input fields cover various aspects of a puppy's characteristics and history, including name, birthdate, sex, breed, size, coat length, coat type, color, behavior type, training status, socialization status, health issues, medical issues, temperament, energy level, activity level, training method, training frequency, and vaccination status.
-To ensure the form is filled out accurately and relevantly, please ensure that you have all the necessary information about the puppy before proceeding. The form does not require all fields to be filled out, so only fill out the fields that are applicable to the puppy's characteristics.
-</thinking>
-
 # puppy_aptitude_test_form - Help Guide
 ## Purpose
 This form is used by veterinarians to assess the aptitude of a puppy for adoption. It gathers information about the puppy's characteristics and history to help determine its suitability for adoption.

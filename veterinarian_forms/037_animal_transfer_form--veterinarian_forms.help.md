@@ -1,14 +1,3 @@
-<thinking> 
-To ensure that the "Animal Transfer Form" serves as a clear and effective tool for end-users, the following help guide has been created.
-
-The main objective of the "Animal Transfer Form" is to capture the necessary information for the transfer of an animal to a new owner or location. This form gathers information about the animal's identity, the transfer reason, and other relevant details. The form aims to make the transfer process smooth and transparent for both the transferring and receiving parties.
-
-Before filling out the form, please ensure that you have all the necessary information about the animal and the transfer process. This will help you to complete the form accurately and avoid any potential issues during the transfer.
-
-The form is designed to be user-friendly, and each field is explained in detail below.
-
-</thinking>
-
 # Animal Transfer Form - Help Guide
 
 ## Purpose

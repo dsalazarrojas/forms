@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data from dog owners about their pet's supplement use habits. The goal is to gather information on how often dog owners use dog supplements, which type of supplements they use, and where they get their supplements recommended. This information will be used to inform business decisions and improve services for pet owners. To ensure that the data collected is accurate and relevant, please complete this form with care and attention to detail. Note that this form is a survey, and all answers will be kept confidential.
-
-</thinking>
-
 # Dog Supplements Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about dog supplement use habits from pet owners.

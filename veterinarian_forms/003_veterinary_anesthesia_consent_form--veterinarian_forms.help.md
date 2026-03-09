@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from the owner of an animal that is undergoing anesthesia. The form asks for the owner's information, the animal's information, details about the anesthesia procedure, and the owner's consent. Additionally, the form requests the veterinarian's signature, contact information, and a note to document the procedure.
-
-This form is intended to be completed by the owner of the animal, but in some cases, it may also be completed by the veterinarian. The purpose of this form is to ensure that the owner and the veterinarian are on the same page regarding the treatment options and procedures that will be performed on the animal.
-
-To the best of my knowledge, this form is not a duplicate of any other form in the system.
-</thinking>
-
 # Veterinary Anesthesia Consent Form - Help Guide
 ## Purpose
 The Veterinary Anesthesia Consent Form is used to gather information from the owner of an animal that is undergoing anesthesia. This form ensures that the owner and the veterinarian are aware of the treatment options and procedures that will be performed on the animal.

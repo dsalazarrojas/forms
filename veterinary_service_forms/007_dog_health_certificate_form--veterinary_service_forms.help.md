@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication of effort and ensure accurate completion of the form, let's first confirm that this form is a critical part of the vet's office workflow for obtaining a dog's health certificate. A health certificate serves as evidence of a dog's health status, typically required for travel or other specific purposes. This form should only be filled out by the owner of the dog and an authorized veterinary professional. To avoid errors, please carefully review the form fields and their requirements before completion.
-</thinking>
-
 # Dog Health Certificate Form - Help Guide
 ## Purpose
 The Dog Health Certificate Form is a document that verifies a dog's health status. It is usually required for travel or other specific situations where a dog's health is a concern.

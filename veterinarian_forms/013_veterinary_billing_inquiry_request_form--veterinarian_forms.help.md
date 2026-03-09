@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for veterinarians to submit billing inquiries. It will help you understand your billing process, and the information you will provide is crucial for the veterinary clinic to process your inquiry properly. Before proceeding, ensure that you are filling in the correct information and that the details you enter do not duplicate any previous inquiries. This form is a one-time inquiry, and once submitted, it will not be reusable. If you need to resubmit an inquiry, please create a new request.
-</thinking>
-
 # Veterinary Billing Inquiry Request Form - Help Guide
 ## Purpose
 This form is designed to help the veterinary clinic process your billing inquiry efficiently. Please fill out the form accurately and completely to ensure that your inquiry is handled correctly.

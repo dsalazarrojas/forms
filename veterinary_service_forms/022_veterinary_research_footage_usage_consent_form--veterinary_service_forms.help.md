@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect information and consent from the owner of an animal for research footage usage. This form might be used in a veterinary setting, such as a clinic or hospital, to document the owner's consent for researchers to use footage of their animal for study purposes. The form's purpose is to ensure that the owner is aware and agrees to the usage of their animal's footage. Before proceeding, ensure that this form is not a duplicate of an existing form and that it is not being used for a different purpose than intended.
-</thinking>
-
 # veterinary_research_footage_usage_consent_form - Help Guide
 ## Purpose
 This form is used to collect information and consent from the owner of an animal for research footage usage in a veterinary setting.

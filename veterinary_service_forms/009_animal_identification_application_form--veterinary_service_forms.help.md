@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Animal Identification Application Form serves its purpose correctly. This form is used to gather essential information about an animal, its owner, and its identification. The owner's personal details and the animal's identification type, ID number, and other characteristics are all important pieces of information that help us verify the ownership of the animal and its identity. We need to ensure that the form is completed accurately and thoroughly to prevent any errors or misidentification. Please review the following guide carefully to complete the form correctly.
-</thinking>
-
 # Animal Identification Application Form - Help Guide
 
 ## Purpose

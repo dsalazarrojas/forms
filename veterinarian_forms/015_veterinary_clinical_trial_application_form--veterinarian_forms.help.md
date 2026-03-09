@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for collecting information from veterinarians and veterinary clinics to participate in clinical trials. It is used to gather details about the animal, the owner's contact information, and the study status, among other relevant fields. This form is likely used for internal tracking and management purposes within the veterinary clinic or research institution, and it is not intended for public consumption. Before filling out this form, please ensure that you have the necessary permissions and authorization from your institution or organization to participate in clinical trials. Additionally, please review the form carefully to avoid duplicate submissions, as this form is meant to be used once per study participant.
 
 # Veterinary Clinical Trial Application Form - Help Guide

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Examination Appointment Form - Help Guide
 
 ## Purpose

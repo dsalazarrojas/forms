@@ -1,25 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the individual vendor application form. The form is designed to collect essential information from potential vendors for evaluation and approval. It is crucial to ensure that each field is completed accurately and completely to avoid duplication or errors in the vendor's profile.
-
-To begin, the form is divided into several sections, each focusing on a specific aspect of the vendor's details. The first section, "Vendor Information," requests basic facts about the vendor, including their name, contact information, and address. This section helps establish a foundation for further evaluation.
-
-The second section, "Business Information," gathers details about the vendor's experience, work status, and work experience. This information will aid in understanding the vendor's capabilities and qualifications.
-
-The "Vendor Profile" section is used to provide additional insights into the vendor's background and qualifications. This section is optional but can be used to add context to the vendor's application.
-
-The "Agreement Terms" section is where the vendor can review and accept the terms and conditions of the agreement. This section is essential in ensuring both parties are on the same page.
-
-The form also requests information on the vendor's employment type, annual salary, hours worked, sick leave, health insurance, and other relevant details. These fields are essential in evaluating the vendor's work arrangement and requirements.
-
-The "Vendor Category" and "Vendor Subcategory" sections allow the vendor to specify their primary and subcategory, providing a clear understanding of their area of expertise.
-
-The "Vendor Notes" section provides space for the vendor to add any additional comments or information that may be relevant to their application.
-
-The form's last section, "Vendor Contact Information," requests the vendor's email address and phone number for contact purposes.
-
-By following this guide, users will be able to complete the form accurately and effectively, ensuring that all required information is provided and that the vendor's application is complete and error-free.
-</thinking>
-
 # individual_vendor_application_form - Help Guide
 ## Purpose
 

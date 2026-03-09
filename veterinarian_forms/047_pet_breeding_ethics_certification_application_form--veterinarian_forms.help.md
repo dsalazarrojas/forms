@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from veterinarians and other organizations seeking certification in pet breeding ethics. The purpose of this form is to gather essential details from applicants, including their organization's name, address, contact person, email, phone number, certification date, and certification expiration date. This information is crucial for vetting and issuing a certification that verifies the applicant's adherence to pet breeding ethics standards. To avoid duplication, we will only process the application once we have received a complete and accurate submission. Please ensure that all required fields are filled out accurately and thoroughly.
-</thinking>
-
 # Pet Breeding Ethics Certification Application Form - Help Guide
 ## Purpose
 The Pet Breeding Ethics Certification Application Form is designed to gather information from applicants seeking certification in pet breeding ethics. This form is used to verify the applicant's adherence to pet breeding ethics standards and to issue a certification that confirms their commitment to responsible and humane pet breeding practices.

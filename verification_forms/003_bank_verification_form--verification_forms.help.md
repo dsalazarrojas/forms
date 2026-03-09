@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be for verifying banking information, likely for the purposes of account security, identity verification, or other similar purposes. It is likely used to collect information from individuals or businesses to verify their bank account details.
-The form appears to be well-structured with each field providing clear and concise labels, hints, and options. It seems to cover various aspects of bank verification, including entity type, personal/business information, account details, and verification method.
-There is no duplication or redundancy in the fields, and each field has a clear and distinct purpose.
-The form also includes optional fields for micro-deposits, additional notes, and authorization confirmation, providing flexibility for users to provide more information if needed.
-Overall, the form appears to be designed to be user-friendly and comprehensive for the purpose of banking verification.
-</thinking>
-
 # Bank Verification Form - Help Guide
 ## Purpose
 This form is used to verify banking information for security, identity, or other verification purposes.

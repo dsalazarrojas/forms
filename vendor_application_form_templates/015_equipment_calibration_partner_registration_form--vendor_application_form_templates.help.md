@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Equipment Calibration Partner Registration Form - Help Guide
 
 ## Purpose

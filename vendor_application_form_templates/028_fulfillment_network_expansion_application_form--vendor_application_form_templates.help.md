@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fulfillment Network Expansion Application Form - Help Guide
 
 ## Purpose

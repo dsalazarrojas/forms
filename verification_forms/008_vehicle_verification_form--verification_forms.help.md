@@ -1,17 +1,3 @@
-<thinking>
-This help guide is for users who are unfamiliar with the "vehicle_verification_form". To confirm that this form is relevant to the user's context, please review the form fields and instructions below. The form appears to be designed for vehicle verification purposes, and it includes fields for vehicle registration, make, model year, status, type, mileage, insurance status, last inspection date, last mileage reading, and last servicing date. This form likely serves a specific business or organizational need and is not a general-purpose form.
-
-To confirm that this form is relevant to your context, please consider the following:
-
-- What is the purpose of this form within your business or organization?
-- Do you have any existing processes or forms for vehicle verification that this form might be replacing or augmenting?
-
-If the form is not relevant to your context, please do not proceed with completing this form. If you are still unsure, please consult your supervisor or a relevant expert before proceeding.
-
-Please review the form fields below to understand the requirements and best practices for completing this form.
-
-</thinking>
-
 # vehicle_verification_form - Help Guide
 ## Purpose
 The vehicle verification form is designed to collect information about a vehicle for verification purposes. This form is used to gather essential details about a vehicle, including its registration, make, model year, status, type, mileage, insurance status, last inspection date, last mileage reading, and last servicing date.

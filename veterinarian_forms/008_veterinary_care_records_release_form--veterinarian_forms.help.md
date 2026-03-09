@@ -1,7 +1,3 @@
-<thinking>
-This form is for veterinary care records release, typically used to transfer a patient's records from one clinic to another. It's essential to ensure the transfer is done correctly to avoid duplication or loss of records. Please review this form carefully to understand what information is required and how to complete it accurately.
-</thinking>
-
 # veterinary_care_records_release_form - Help Guide
 
 ## Purpose

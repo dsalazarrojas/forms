@@ -1,5 +1,3 @@
-<thinking>As a healthcare professional, it is essential to track and manage a patient's medication schedule to ensure they receive the correct medication at the right time. This form is designed to help veterinarians and pet owners track and monitor a pet's medication regimen, including dosing frequency, medication schedule, and medical conditions. By using this form, you can easily identify potential issues and adjust the medication schedule as needed. This form is a critical tool for maintaining accurate and up-to-date records of a pet's medication, which can help prevent errors and ensure the best possible outcome for the pet.</thinking>
-
 # Pet Medication Tracker Form - Help Guide
 ## Purpose
 The Pet Medication Tracker Form is a tool used to track and monitor a pet's medication regimen. This form helps veterinarians and pet owners keep accurate and up-to-date records of a pet's medication schedule, dosage strength, and medical conditions.

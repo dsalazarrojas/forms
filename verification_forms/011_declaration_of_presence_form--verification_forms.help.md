@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for verifying the presence of an individual or entity, possibly for attendance, meeting, or event purposes. The form collects general information, contact details, and specific data such as dates, times, and selections. It's crucial to ensure the form is filled out accurately and completely to prevent errors and duplication of effort. Before proceeding, please review the form carefully and ensure you have all necessary information to avoid having to fill it out again.
-</thinking>
-
 # Declaration Of Presence Form - Help Guide
 ## Purpose
 The Declaration Of Presence Form is designed to capture essential information about an individual's or entity's presence, allowing for accurate verification and record-keeping.

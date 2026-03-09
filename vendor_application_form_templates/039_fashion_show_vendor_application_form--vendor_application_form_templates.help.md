@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help vendors apply to participate in the fashion show by providing their information and details about their business. The form is used to collect contact and business information, as well as details about the vendor's products and services. The form will be reviewed and verified by our team to ensure that all necessary information is provided and to confirm that the vendor meets the requirements for participation in the fashion show. Please note that this form is intended for vendors who have not already been approved or participating in the fashion show. If you have already participated in the fashion show or have been approved, please do not submit this form.
-</thinking>
-
 # Fashion Show Vendor Application Form - Help Guide
 ## Purpose
 The Fashion Show Vendor Application Form is used to collect information from vendors who want to participate in the fashion show. The form helps our team review and verify the vendor's information to ensure they meet the requirements for participation.

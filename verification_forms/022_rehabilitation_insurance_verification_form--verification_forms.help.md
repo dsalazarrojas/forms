@@ -1,9 +1,3 @@
-<thinking>
-
-To be clear about the purpose and relevance of the form, I assume it's used to verify patient information and services rendered by a clinic, which requires insurance verification. This form likely helps the clinic collect necessary information to process insurance claims and ensure accurate reimbursement. I also assume that the form is used by a healthcare provider to collect information from a patient or their representative.
-
-</thinking>
-
 # Rehabilitation Insurance Verification Form - Help Guide
 ## Purpose
 This form is used to verify patient information and services rendered by a clinic, allowing for accurate insurance claims and reimbursement.

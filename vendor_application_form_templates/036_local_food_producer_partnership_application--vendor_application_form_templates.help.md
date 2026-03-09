@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from local food producers about their business and partnerships. This form is meant to be used by potential partners and stakeholders to better understand the local food producers' operations, products, and partnerships. To ensure accuracy and efficiency, please make sure you're using the correct form for your specific needs. If you've already submitted this form in the past, you may not need to fill it out again.
-</thinking>
-
 # local_food_producer_partnership_application - Help Guide
 ## Purpose
 This form is used to gather information from local food producers about their business, products, and partnerships. It helps potential partners and stakeholders understand their operations and products.

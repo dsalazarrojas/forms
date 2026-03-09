@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to schedule a sick pet appointment at a veterinary clinic. The form is designed to collect information from the owner of the pet, including the pet's identification, owner's name and contact information, and any relevant medical information for the pet. This form ensures that the clinic has all necessary details for a successful and efficient appointment. To avoid duplication, this form should only be used for new appointments.
-</thinking>
-
 # Sick Pet Appointment Form - Help Guide
 ## Purpose
 The Sick Pet Appointment Form is a user-facing form designed to collect information for scheduling a sick pet appointment at a veterinary clinic. This form is intended for pet owners to provide essential details about their pet's condition, appointment preferences, and contact information.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to record details for the rehabilitation and care of pangolins in animal shelters or veterinary clinics. This report is crucial for tracking the progress and providing necessary information for the care and treatment of these animals. 
-
-Before filling out this form, ensure that the information is accurate and up-to-date. It is essential to understand the species, sex, and other relevant details about the pangolin to provide the best possible care.
-
-This form will guide you through the various sections to fill out the form efficiently and effectively.
-
-</thinking>
-
 # Pangolin Rehabilitation Daily Report - Help Guide
 ## Purpose
 The purpose of this form is to record details for the rehabilitation and care of pangolins in animal shelters or veterinary clinics.

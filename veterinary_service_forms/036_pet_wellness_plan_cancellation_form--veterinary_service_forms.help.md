@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Wellness Plan Cancellation Form - Help Guide
 ## Purpose
 The Pet Wellness Plan Cancellation Form is used to cancel or modify a pet's wellness plan. This form helps you provide the necessary information to update your pet's wellness plan according to your needs.

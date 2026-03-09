@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Graduate Employment Verification Form - Help Guide
 
 ## Purpose

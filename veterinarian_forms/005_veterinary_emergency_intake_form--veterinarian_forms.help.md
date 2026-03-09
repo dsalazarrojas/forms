@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for veterinarians or veterinary staff to quickly and efficiently document information about a pet's emergency visit or treatment. This form captures key details about the pet, the owner, and the visit itself.
-Before filling out this form, ensure that you're not duplicating work and that the information is not already available in the system. This form should only be used for new, unique cases.
-This form is typically filled out by veterinary staff in the following situations:
-  - When a pet comes in for an emergency visit
-  - When a pet requires immediate treatment or attention
-  - When a pet's owner has concerns or questions about their pet's health
-</thinking>
-
 # Veterinary Emergency Intake Form - Help Guide
 ## Purpose
 The Veterinary Emergency Intake Form is designed to gather essential information about pets that require urgent care or attention. This form helps veterinary staff quickly and accurately document the pet's details, ensuring that the animal receives the best possible care.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a vendor registration form for the 2016 Downtown Dog Walk, which aims to provide a platform for businesses and individuals to participate in the event. The form is designed to collect contact information, business details, and vendor services, allowing us to understand the participants' capabilities and plan the event effectively. 
-
-The form is divided into several sections: contact information, business details, vendor services, marketing assets, and event participation preferences. This structure helps to ensure that all required information is gathered efficiently. Please ensure you complete all required fields, as marked with an asterisk (*) next to the field label.
-
-</thinking>
-
 # 2016 Downtown Dog Walk Vendor Registration - Help Guide
 ## Purpose
 The 2016 Downtown Dog Walk Vendor Registration form collects information about your business and services, enabling us to effectively plan and coordinate the event. Please take a few minutes to complete this form accurately and comprehensively.

@@ -1,17 +1,4 @@
-# <thinking>
-This guide is intended to help users understand the purpose and requirements of the Veterinarian Appointment Form. Please note that this form is designed to collect information for veterinary clinic appointments, and users should only fill it out if they are making an appointment for themselves or their pet.
-
-To confirm the form's purpose, the following fields suggest the form is designed for:
-
-* Collecting pet and owner information
-* Scheduling appointment details
-* Confirming veterinary and clinic participation
-
-If you have already filled out a form with similar information, please do not submit this form.
-
-</thinking>
-
-# Veterinarian Appointment Form - Help Guide
+# # Veterinarian Appointment Form - Help Guide
 ## Purpose
 The Veterinarian Appointment Form is designed to collect relevant information for veterinary clinic appointments. This includes pet and owner details, appointment scheduling, and confirmation of participation from veterinarians and clinics.
 

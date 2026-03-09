@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # vin_verification_form - Help Guide
 ## Purpose
 This form is used to verify the Vehicle Identification Number (VIN) of a vehicle. The form collects basic information about the vehicle and checks the VIN number to provide an accurate verification result.

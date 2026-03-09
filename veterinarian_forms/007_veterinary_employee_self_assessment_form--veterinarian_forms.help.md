@@ -1,7 +1,3 @@
-<thinking>
-The form is for veterinary employees to self-assess their own performance, strengths, and professional development goals. The form is likely used to help employees reflect on their work and identify areas for improvement. It may also be used by management to assess employee performance and provide feedback. To avoid duplication of effort, it's recommended that employees only complete the form once a year, during their performance reviews. If an employee has already completed a similar form recently, they can simply review and update their previous submissions if necessary.
-</thinking>
-
 # Veterinary Employee Self-Assessment Form - Help Guide
 ## Purpose
 This form is designed to help veterinary employees self-assess their performance, strengths, and professional development goals. It's an opportunity for employees to reflect on their work and identify areas for improvement, and for management to assess employee performance and provide feedback.

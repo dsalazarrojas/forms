@@ -1,9 +1,3 @@
-<thinking>... (Internal reasoning block)
-
-The Veterinary Product Sample Request Form is used to request veterinary products, categories, and samples from suppliers. This form is not intended for general inquiries or business proposals. To confirm, the purpose of this form is to request product samples for evaluation and testing purposes, and only registered veterinary professionals or suppliers with existing agreements can complete and submit this form. By submitting this form, you are confirming that you have a legitimate business interest in the products listed and will be evaluating them for possible use in your business. By doing so, you will be able to review and test these products in a controlled environment and provide your feedback to the supplier. To avoid duplication, please only submit this form once for each type of product or sample you are interested in. 
-
-</thinking>
-
 # Veterinary Product Sample Request Form - Help Guide
 ## Purpose
 The Veterinary Product Sample Request Form is used to request veterinary products, categories, and samples from suppliers for evaluation and testing purposes.

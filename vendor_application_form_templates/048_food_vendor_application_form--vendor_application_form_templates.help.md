@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for food vendors to apply to participate in an event or sell their products in a specific context. The form collects information about the vendor's details, contact information, product offerings, event participation, application documents, payment method, availability, and additional information. The form ensures that the vendor provides the necessary details for a successful application process. To avoid duplication, the system will check for existing applications from the same vendor before accepting a new application.
-</thinking>
-
 # Food Vendor Application Form - Help Guide
 ## Purpose
 The Food Vendor Application Form is designed to collect information from food vendors to participate in an event or sell their products in a specific context. This form is used to assess the suitability of the vendor for the event or product sale.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a pet, including its name, owner's contact details, breed, age, weight, and any medical conditions. This form will likely be used in a veterinary clinic or pet-related business to gather necessary data about a pet for treatment or consultation purposes. 
-Before starting to fill out this form, it is crucial that the user understands the type of pet being entered in this form will determine the type of care and services the pet will receive. This form will be used for both new and existing pet clients, ensuring consistent and accurate data collection. 
-To avoid duplication, users should not fill out this form for a pet that has already been registered in the system.
-</thinking>
-
 # Pet Information Form - Help Guide
 
 ## Purpose

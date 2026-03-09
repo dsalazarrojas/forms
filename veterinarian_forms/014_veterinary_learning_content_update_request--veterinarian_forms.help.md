@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to create a Veterinary Learning Content Update Request. This form will be used by veterinarians and veterinary clinics to request updates to existing learning content in the veterinary learning platform. To ensure that this form is completed correctly and efficiently, please review the fields below.
-</thinking>
-
 # Veterinary Learning Content Update Request - Help Guide
 ## Purpose
 This form is designed to be used by veterinarians and veterinary clinics to request updates to existing learning content in the veterinary learning platform.

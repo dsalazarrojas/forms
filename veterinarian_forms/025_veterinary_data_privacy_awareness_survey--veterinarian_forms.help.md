@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gauge the level of data privacy awareness within the veterinary industry. It collects information on various aspects of data handling and protection, including data collection, storage, and disposal practices. The purpose of this form is to assess the current state of data privacy awareness in veterinary clinics, hospitals, or other related establishments.
-
-Please note that this form is an original creation and not derived from any existing form platform. It is released under a Creative Commons Attribution 4.0 license, allowing users to use, modify, and distribute it freely.
-
-Before proceeding, ensure that this form is not already available in your organization. If you have a similar form or a template, it would be best to review and compare its content with this one to avoid duplication of effort.
-
-Now that we've covered the basics, let's move on to the actual help guide.
-</thinking>
-
 # Veterinary Data Privacy Awareness Survey - Help Guide
 ## Purpose
 The Veterinary Data Privacy Awareness Survey is designed to collect information on various aspects of data handling and protection within the veterinary industry. This survey aims to assess the current state of data privacy awareness in veterinary clinics, hospitals, or other related establishments.

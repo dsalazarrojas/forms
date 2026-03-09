@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for vendors to apply to become a Sustainable Printing Partner. The form is used to collect information from potential partners about their company, products and services offered, sustainability practices, and other relevant details. It helps the sustainability team assess the suitability of the vendor to partner with us. Please ensure that you are filling out this form as part of a legitimate partnership application and not for other purposes. Also, please note that some fields might require further explanation or clarification from the vendor after submission.
-</thinking>
-
 # Sustainable Printing Partner Application Form - Help Guide
 ## Purpose
 This form is used to collect information from potential sustainable printing partners to assess their suitability to partner with us.

@@ -1,4 +1,4 @@
-<figure><thinking>...</thinking></figure>
+<figure></figure>
 
 # Quality Certificate Copy Request Form - Help Guide
 

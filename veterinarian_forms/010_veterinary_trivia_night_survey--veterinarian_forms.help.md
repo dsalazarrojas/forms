@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the Veterinary Trivia Night Survey is to collect feedback and ratings from attendees about a veterinary-themed event. This survey aims to gauge the attendees' engagement, satisfaction, and understanding of the event content. The information collected will help improve future veterinary Trivia Nights, making them more engaging and informative for all participants.
 
 ## Veterinary Trivia Night Survey - Help Guide

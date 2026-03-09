@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block for relevance and non-duplication...
-
-The purpose of this form is to verify the competency of an employee in various aspects, such as their ability to handle job vacancies, provide candidate details, and meet certain competency requirements. The form is designed to gather specific information about the employee's experience, certifications, and references, which will help in evaluating their suitability for a particular role. This form template is a standardised tool to ensure consistency and accuracy in the verification process.
-
-To prevent duplication of effort and ensure that the form is filled out correctly, it is essential to follow the instructions below...
-
-</thinking>
-
 # Employee Competency Verification Form Template - Help Guide
 ## Purpose
 This form is used to verify the competency of employees in various aspects, including job vacancy details, candidate information, competency requirements, relevant experience, certifications, references, and the upload of supporting documents.

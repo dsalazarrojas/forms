@@ -1,7 +1,3 @@
-<thinking>
-We are implementing a certificate upload form to allow users to upload their professional, educational, or other types of certificates. This form will be used to verify and validate the authenticity of the uploaded certificates. To prevent duplicate uploads, we will check for existing certificates with the same uploader name and date of upload. 
-</thinking>
-
 # Certificate Upload Form - Help Guide
 ## Purpose
 The Certificate Upload Form is designed to collect information and upload certificates for verification and validation purposes.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for new vendors to create or update their company information. The form should be filled out by a company representative or owner. It is not intended for existing vendors to resubmit their information, as the form does not include existing vendor information for verification. Please only fill out the form if you are a new or existing vendor without a company record in our system.
-
-</thinking>
-
 # new_vendor_form - Help Guide
 ## Purpose
 The new_vendor_form is for new or existing vendors to create or update their company information.

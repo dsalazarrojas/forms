@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Transfer Of Dog Ownership Form - Help Guide
 ## Purpose
 

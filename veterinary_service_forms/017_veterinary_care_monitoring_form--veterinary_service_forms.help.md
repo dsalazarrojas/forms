@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to monitor the veterinary care of a pet. It is used to collect information about a pet's vaccinations, medical history, symptoms, treatment plans, test results, and other relevant details. This form helps veterinary clinics and hospitals to keep track of a pet's health status and provide better care. Before filling out this form, ensure that you are authorized to do so and that the information provided is accurate and up-to-date. Please note that this form does not replace the need for regular veterinary check-ups and medical attention from a licensed professional.
-</thinking>
-
 # Veterinary Care Monitoring Form - Help Guide
 ## Purpose
 The Veterinary Care Monitoring Form is designed to collect and track information about a pet's health status, including vaccinations, medical history, symptoms, treatment plans, and test results. This form helps veterinary clinics and hospitals to monitor a pet's condition and provide better care.

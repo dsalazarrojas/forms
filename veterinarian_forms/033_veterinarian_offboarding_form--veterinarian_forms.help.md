@@ -1,7 +1,3 @@
-<thinking>
-The Veterinarian Offboarding Form is used to gather information from a client when they are offboarding their pet from a veterinary clinic. This form ensures that all necessary information is collected to maintain the pet's medical history, provide continuity of care, and communicate with the client effectively.
-</thinking>
-
 # Veterinarian Offboarding Form - Help Guide
 ## Purpose
 The Veterinarian Offboarding Form is a crucial document that helps to collect vital information about a pet's medical history, client feedback, and clinic information. It is essential to complete this form accurately to ensure that the pet receives the best care possible.

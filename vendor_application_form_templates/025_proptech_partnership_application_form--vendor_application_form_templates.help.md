@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # PropTech Partnership Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential partners for collaboration and partnership opportunities. It helps us to better understand your company's background, goals, and expectations for the potential partnership. 

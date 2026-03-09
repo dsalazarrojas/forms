@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "vehicle_information_verification_form" is intended to collect information about a vehicle's characteristics and insurance/loan providers. The form is part of the "verification_forms" category and is designed for users to input details about a vehicle. Each field is labeled with a clear and concise description.
 
 </thinking>

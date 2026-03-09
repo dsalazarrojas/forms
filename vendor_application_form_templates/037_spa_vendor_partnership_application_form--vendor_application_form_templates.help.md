@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from potential spa vendors who are interested in partnering with us. We want to ensure that we collect accurate and complete information from each applicant to assess their suitability for partnership. To avoid duplication, please do not submit multiple applications. If you have previously submitted an application, kindly check your email for the status update before resubmitting.
-</thinking>
-
 # Spa Vendor Partnership Application Form - Help Guide
 ## Purpose
 This form is designed to collect contact and business information from potential spa vendors interested in partnering with us. Please provide accurate and complete information to increase the chances of a successful partnership.

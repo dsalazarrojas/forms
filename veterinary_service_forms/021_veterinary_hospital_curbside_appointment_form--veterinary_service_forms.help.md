@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Veterinary Hospital Curbside Appointment Form - Help Guide
 
 ## Purpose

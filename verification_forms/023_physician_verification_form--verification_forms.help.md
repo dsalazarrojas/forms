@@ -1,7 +1,3 @@
-<thinking>
-The form purpose and design seem to be focused on collecting information from a physician for verification purposes. The form is likely being used to verify a physician's details for some sort of regulatory or administrative reason. The fields present a mix of personal details (name, address, phone, email), professional information (specialty, medical school), and identification (license number). The form does not have any required fields, which might suggest that it's for optional or supplementary purposes. However, the fact that it has fields for verification implies that it's meant to ensure accuracy and authenticity of the information.
-</thinking>
-
 # Physician Verification Form - Help Guide
 
 ## Purpose

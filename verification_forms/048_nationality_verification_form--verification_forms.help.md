@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's nationality, including their first name, surname, birth date, nationality status, passport number, country of birth, and status of their passport. The form is likely used in situations where the authenticity of an individual's nationality needs to be verified. The form's purpose is to collect data that can be used to confirm or deny an individual's nationality. 
-
-The form will likely be used by immigration officers, border control officers, or other individuals working in the field of international travel and identity verification. This form should not be used for personal identification purposes and its data should only be used for verification purposes. 
-</thinking>
-
 # Nationality Verification Form - Help Guide
 
 ## Purpose

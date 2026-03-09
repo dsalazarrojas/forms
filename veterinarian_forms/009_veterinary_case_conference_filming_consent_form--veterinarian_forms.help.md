@@ -1,5 +1,3 @@
-<thinking>...The provided YAML defines a form designed for veterinary case conference filming consent. This form likely serves as a template for capturing information and consent from participants, including filming details, participant information, and various other parameters related to filming and consent. To confirm, the form consists of 25 fields across multiple pages, including text, select, date, time, and note fields. It appears to be intended for use in a veterinary setting, possibly for educational or research purposes. Before proceeding, ensure this form is not a duplicate or unnecessary, as it may be a custom-designed form specific to the veterinary field or a particular organization...</thinking>
-
 # Veterinary Case Conference Filming Consent Form - Help Guide
 ## Purpose
 This form is designed to gather information and consent from participants for filming in a veterinary case conference. It captures details about the participant, filming location, date, time, and other relevant parameters.

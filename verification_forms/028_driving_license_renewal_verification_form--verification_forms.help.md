@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to verify the information of a person attempting to renew their driver's license. The goal of this form is to gather necessary details about the individual, such as their name, license number, license expiration date, and eligibility to renew. This information will be used to ensure that the individual is eligible for a driver's license renewal and to verify their identity. To avoid errors, please ensure that you are submitting this form for the correct individual and that all provided information is accurate. If you are unsure of any information, it's best to contact the relevant authorities before proceeding. Please note that this form is intended for internal use and should not be used for external purposes without proper authorization. Ensure that you have necessary permissions and permissions before using this form for any other purposes. Ensure that the information is accurate and up-to-date before proceeding. This form should not be used for any other purposes other than its intended purpose. 
 
 </thinking>

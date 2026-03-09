@@ -1,15 +1,3 @@
-<thinking>**Form Purpose and Relevance Check**
-
-This form is designed to collect information from artisanal businesses and vendors who wish to participate in a showcase or exhibition. The form aims to ensure that the vendors comply with the required standards and terms of participation. Each field in this form is essential for the organizers and other stakeholders to evaluate and manage the participation process. 
-
-- Check if the vendor's business aligns with the event's theme and category.
-- Prevent duplication of vendor applications by checking if the vendor's application has been processed.
-- Evaluate the vendor's compliance with required fields such as contact information, booth size, and participation fees.
-- Review vendor's product description and images to ensure they meet the event's standards.
-- Validate the vendor's agreement to terms and conditions of participation.
-
-</thinking>
-
 # Artisanal Brand Showcase Registration - Help Guide
 ## Purpose
 This form is used for Artisanal Brand Showcase Registration, a platform to discover and connect artisanal vendors with their target audience.

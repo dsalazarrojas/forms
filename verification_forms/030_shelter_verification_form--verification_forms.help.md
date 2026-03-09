@@ -1,8 +1,3 @@
-<thinking>
-This form is used for verification purposes, likely for shelters or social services. It's intended to collect information about an individual's shelter status, which may include details such as shelter name, location, date of admission, contact number, social worker involvement, case number, emergency contact, date of birth, gender, racial and ethnic background, disability status, and language proficiency. This form is likely used for administrative or bureaucratic purposes within shelters or social services, and the user should ensure they have the necessary permissions and access to complete this form. It's essential to fill out the form accurately and truthfully to ensure the correct information is collected. The form may be used for reporting, auditing, or other compliance purposes. Please ensure that the information is up-to-date and accurate to avoid any discrepancies or errors. The form is not intended for public use; it's for internal use by authorized personnel. Ensure that you have the necessary authority and clearance to access and fill out this form.
-
-</thinking>
-
 # shelter_verification_form - Help Guide
 ## Purpose
 The shelter_verification_form is designed to collect information for verification purposes, likely for shelters or social services. It is used to gather details about an individual's shelter status, which may include shelter name, location, and other personal details.

@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to collect information about vendors participating in a trade show. The form is used to collect vendor information such as their name, address, contact email, phone number, type of vendor, booth size, website, notes, social media handles, additional info, image, video, and document. This information will be used to create a vendor profile that will be displayed at the trade show. 
-The form is not meant to be filled out multiple times. Each vendor should only be entered once. If a vendor has already been entered into the system, you should not use this form again. 
-If you need to make an edit to a previously entered vendor, please use the update form.
-</thinking>
-
 # Trade Show Vendor Information Collection Form - Help Guide
 ## Purpose
 The Trade Show Vendor Information Collection Form is a form used to collect vendor information for display at the trade show. Each vendor should only be entered once into the system.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide should be used to check if the form is being used as intended, i.e., to ensure that the form is being used to gather information for veterinary operations, and that the form is not being used for other purposes that could compromise sensitive information, such as marketing or sales activities. It should be used by authorized personnel in the veterinary clinic to ensure that the participant information is accurate and up-to-date. The form should be checked to confirm that each field is filled out correctly and that no field is left blank. If any field is missing or incomplete, further investigation should be conducted to determine the reason why the form is not being used correctly.
-</thinking>
-
 # Veterinary Operations Participant Information - Help Guide
 ## Purpose
 The "Veterinary Operations Participant Information" form is used to gather essential details from participants involved in veterinary operations, ensuring accurate and up-to-date information is recorded for clinical purposes.

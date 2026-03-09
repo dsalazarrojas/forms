@@ -1,5 +1,3 @@
-<thinking> This form is used for grooming salons to conduct internal inspections of their facilities and staff. The purpose of this form is to gather information about the services offered, facility conditions, number of staff, and other relevant details. By providing a comprehensive inspection, salons can ensure they meet the necessary standards and provide quality services to their clients. This form is designed to be used internally, so the user does not need to be concerned about providing sensitive or private information. The form is self-explanatory, and the instructions below will guide the user through the completion process.</thinking>
-
 # Grooming Salon Inspection Form - Help Guide
 
 ## Purpose

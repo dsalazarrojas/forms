@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a participant's pet and owner details for veterinary operations. The form will be used by veterinarians to collect relevant information about a pet's species, breed, and owner's contact information. This form should be filled out for each participant and will help the veterinarian to better understand the pet's needs and provide proper care. Before filling out this form, please ensure that you have not filled it out before, and if you have any questions, feel free to ask.
-</thinking>
-
 # veterinary_operations_participant_information - Help Guide
 ## Purpose
 This form is designed to collect information about a pet and its owner's details for veterinary operations.

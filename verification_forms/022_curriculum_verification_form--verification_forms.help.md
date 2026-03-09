@@ -1,5 +1,3 @@
-<thinking>Curriculum Verification Form - a form created to collect information from students and schools to verify curricula. This form is designed to gather details about the student and their school for verification purposes. To ensure accurate data collection, please only submit this form once for each student. If you've already submitted this form for the same student, your submission will not be duplicated. Please review the form carefully before submitting to avoid errors.</thinking>
-
 # Curriculum Verification Form - Help Guide
 
 ## Purpose

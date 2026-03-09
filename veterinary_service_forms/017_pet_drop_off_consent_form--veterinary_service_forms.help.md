@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to capture the essential information for pet drop off situations, such as pet owner details, drop off dates and times, medication and vaccination information, and owner and vet signatures. This form is designed to minimize the risk of errors during pet drop off, ensure that all necessary information is collected, and provide a clear record of events.
-</thinking>
-
 # Pet Drop Off Consent Form - Help Guide
 ## Purpose
 The Pet Drop Off Consent Form is a document used to capture essential information for pet drop off situations. It is used to ensure that all necessary details are collected and that the pet is dropped off safely and efficiently.

@@ -1,7 +1,3 @@
-<thinking>...The purpose of this form is to collect information from retail chains for accreditation registration purposes. This form aims to gather contact, location, and accreditation details from retail chains. Please ensure that you only fill out this form once per retail chain location. Duplicate submissions will not be accepted.
-
-</thinking>
-
 # Retail Chain Accreditation Registration Form - Help Guide
 
 ## Purpose

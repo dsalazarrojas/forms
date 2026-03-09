@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # curbside_appointment_check_in - Help Guide
 
 ## Purpose

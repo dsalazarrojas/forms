@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from suppliers who want to be listed in the Automation Supplier Directory. The form is divided into sections that cover different aspects of a supplier's business, such as company information, primary contact details, business address, solutions and services offered, target industries, relevant certifications, and compliance standards. To ensure that the directory remains up-to-date and accurate, we check for duplicate entries and only allow one registration per supplier company. This is not a one-time submission; suppliers are encouraged to update their information as needed.
-</thinking>
-
 # Automation Supplier Directory Registration - Help Guide
 ## Purpose
 The Automation Supplier Directory is a collection of information about suppliers of automation-related services and solutions. This form is used to register a supplier company in the directory.

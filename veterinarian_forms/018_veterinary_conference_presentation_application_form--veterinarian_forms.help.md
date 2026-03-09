@@ -1,12 +1,3 @@
-<thinking> 
-The purpose of this form is to gather information from speakers and presenters for a veterinary conference. This form helps organizers to collect necessary details about the speaker, their abstract, and session proposal. 
-
-This form appears to be designed for a veterinary conference, with fields that cover various aspects of the speaker's profile, abstract, and session details. The form includes fields such as speaker name, email, phone number, abstract title, abstract text, session type, session duration, session start and end dates, and submit status. The form also allows speakers to express their interests. 
-
-Please review the following fields to ensure accuracy and completeness of information. Non-duplication and relevance checks will be performed. If you are a speaker, please ensure that the information you provide is accurate and up-to-date, as it will be used for conference planning and scheduling. 
-
-</thinking>
-
 # Veterinary Conference Presentation Application Form - Help Guide
 
 ## Purpose

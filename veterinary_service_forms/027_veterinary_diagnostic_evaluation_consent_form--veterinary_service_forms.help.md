@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from pet owners for a veterinary diagnostic evaluation. The purpose of this form is to collect relevant details about the pet's owner and medical history, as well as their consent for diagnostic procedures. This form will help veterinarians or veterinary clinics to better understand the pet's medical condition and provide accurate treatment. Before filling out this form, ensure that the information collected is accurate and up-to-date, as it will be used for medical purposes.
-
-To ensure the form is filled out correctly, please review each field carefully and answer all questions honestly. If a field is not applicable, please leave it blank. If you are unsure about any question, please consult with the veterinarian or veterinary clinic staff for clarification.
-
-This form is divided into sections for easy understanding. Each section has a specific purpose and will be explained in detail below.
-</thinking>
-
 # Veterinary Diagnostic Evaluation Consent Form - Help Guide
 ## Purpose
 This form is designed to gather information from pet owners for a veterinary diagnostic evaluation. The purpose of this form is to collect relevant details about the pet's owner and medical history, as well as their consent for diagnostic procedures.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting information from pet owners about their pets' medical history, current health status, and reason for visit to a veterinary clinic. The form is designed to be simple and easy to use, allowing the user to quickly provide the necessary information to help the veterinarian understand the pet's condition. Before proceeding, please note that this form is not affiliated with any form platform, is an original creation, and is released under Creative Commons BY 4.0. You are free to use, modify, and even sell the form, giving credit to the author.
-</thinking>
-
 # Veterinary Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from pet owners about their pets' medical history, current health status, and reason for visit to a veterinary clinic.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trust Service Provider Identity Verification Form - Help Guide
 ## Purpose
 The "Trust Service Provider Identity Verification Form" is used to verify the identity of Trust Service Providers (TSPs) that are registered on our platform. This form is a crucial part of our trust service provider verification process, and it helps us ensure that only legitimate and reliable TSPs are listed on our platform.

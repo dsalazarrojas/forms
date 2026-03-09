@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about boat ownership, and it is intended to be used by boat owners to declare their ownership status. This form is part of a process to ensure that boat ownership is properly registered and declared, which is a necessary step for various regulatory and administrative purposes. The form should only be filled out by the actual boat owner, or someone authorized by the owner to fill out the form on their behalf. The owner should not fill out the form for someone else.
-
-</thinking>
-
 # Boat Ownership Declaration Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for vendors to apply to become a supplier of recyclable materials. The form collects information about the vendor, their business, and their contact details. It is essential to fill out the form accurately and completely to ensure that your application is processed correctly. Please note that some fields are required, and you must fill them out to submit the form.
 
 # Recyclable Material Vendor Application Form - Help Guide

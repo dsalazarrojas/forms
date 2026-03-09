@@ -1,8 +1,3 @@
-<thinking>
-This form is for veterinary toxicology assessment, which is the process of evaluating the effects of toxins on animals. The form is designed to collect information from pet owners about the pet's medical history, exposure to potential toxins, and treatment outcomes. The purpose of this form is to help veterinarians gather all the necessary information to make an accurate diagnosis and provide effective treatment. Before filling out this form, please ensure that you have all the necessary information about your pet's medical history and exposure to potential toxins. This form is not a substitute for a physical examination or a consultation with a veterinarian. If you are unsure about any of the questions or have any concerns, please consult with a veterinarian directly.
-
-</thinking>
-
 # Veterinary Toxicology Assessment Form - Help Guide
 ## Purpose
 The Veterinary Toxicology Assessment Form is a tool designed to help collect information about a pet's medical history and exposure to potential toxins.

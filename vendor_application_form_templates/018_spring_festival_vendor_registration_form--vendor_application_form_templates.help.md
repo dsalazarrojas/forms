@@ -1,13 +1,3 @@
-<thinking>
-Internal reasoning check:
-This form is intended for vendors to register their application for the Spring Festival. 
-The form should be completed by vendors who wish to participate in the festival. 
-The form fields should be filled in accurately and completely to ensure a successful application. 
-Note: There is no clear indication of what constitutes a "complete" application. 
-The vendor application form has eight fields: vendor application, e-signature, vendor details, vendor application form, vendor license, vendor website, festival date, and vendor fee. 
-No fields are required.
-</thinking>
-
 # Spring Festival Vendor Registration Form - Help Guide
 ## Purpose
 The Spring Festival Vendor Registration Form is a document for vendors to submit their application to participate in the Spring Festival. Completing this form allows the festival organizers to review and evaluate the vendor's application.

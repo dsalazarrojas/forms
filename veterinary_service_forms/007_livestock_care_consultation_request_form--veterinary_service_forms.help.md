@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for farmers or ranchers to request consultations or appointments for their livestock care needs. The form might be used to gather information about the farm, animal, and consultation requirements. It's likely used by the farm's administrative or management staff to organize and prioritize consultations. The purpose of the form could be to ensure accurate and efficient allocation of resources for the consultations. Before proceeding, it's essential to check if this form is not a duplicate of another form with similar requirements.
-</thinking>
-
 # Livestock Care Consultation Request Form - Help Guide
 ## Purpose
 This form is designed for farmers or ranchers to request consultations or appointments for their livestock care needs. It helps farm administrative or management staff organize and prioritize consultations to ensure accurate and efficient allocation of resources.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help delivery partners apply for accreditation with the company. The information provided will be reviewed and verified to ensure that the delivery partner meets the necessary criteria for accreditation. This form will not be duplicated by the user as it requires a one-time submission with the company.
-
-</thinking>
-
 # delivery_partner_accreditation_application_form - Help Guide
 ## Purpose
 The purpose of this form is to gather the necessary information from delivery partners to review and verify their credentials for accreditation.

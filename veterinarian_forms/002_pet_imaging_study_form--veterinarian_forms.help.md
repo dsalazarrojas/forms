@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the Pet Imaging Study Form, I need to understand the purpose of the form and its various fields. The form is likely used to gather information about pets undergoing imaging studies, such as CT, MRI, X-ray, or US scans. This form will help users, presumably veterinarians or veterinary technicians, to collect relevant data for these studies.
 
 The form seems to be quite comprehensive, covering various fields such as:

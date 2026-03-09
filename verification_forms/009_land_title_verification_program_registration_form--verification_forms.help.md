@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes that the form is intended for registering property owners or applicants for a land title verification program, which aims to verify the ownership of properties. This form is not to be used for duplicate submissions, and internal reviewers should check for any existing submissions before proceeding with a new one. The form's purpose is to collect general information, applicant details, contact information, and property verification, which will be used to facilitate the verification process.
-</thinking>
-
 # Land Title Verification Program Registration Form - Help Guide
 ## Purpose
 The Land Title Verification Program Registration Form is designed to collect information from property owners or applicants to verify the ownership of properties. This form helps the program to verify the accuracy of property ownership, ensuring that the records are up-to-date and accurate.

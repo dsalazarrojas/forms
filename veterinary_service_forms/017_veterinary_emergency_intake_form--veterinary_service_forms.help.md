@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I understand that the Veterinary Emergency Intake Form is designed to collect crucial information about a pet's emergency situation. This form helps veterinarians quickly assess the situation, identify potential risks, and provide the best possible treatment. By following this guide, you'll be able to fill out the form accurately and effectively.</thinking>
-
 # Veterinary Emergency Intake Form - Help Guide
 ## Purpose
 The Veterinary Emergency Intake Form is a critical tool for veterinary professionals to gather essential information about a pet's emergency situation. This form helps identify the pet's condition, medical history, and treatment needs to provide the best possible care.

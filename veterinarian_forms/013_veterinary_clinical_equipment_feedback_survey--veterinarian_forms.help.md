@@ -1,9 +1,3 @@
-<thinking>
-We are designing a help guide for a veterinary clinical equipment feedback survey. This form is intended to gather information about the user's experience with specific veterinary clinical equipment. It is likely used for quality control or improvement purposes within a veterinary clinic. To ensure the guide is relevant, we will assume that the form is completed by a veterinarian or veterinary staff member who has used the equipment in question.
-The form should be completed by users who have practical experience with the equipment.
-The survey form should not be used for multiple purposes, as it is a single-purpose form focused on equipment feedback.
-</thinking>
-
 # veterinary_clinical_equipment_feedback_survey - Help Guide
 
 ## Purpose

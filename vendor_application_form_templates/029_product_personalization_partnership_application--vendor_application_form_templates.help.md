@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from potential vendors who are interested in establishing a product personalization partnership. The purpose of this form is to gather essential details about the company, their products, and their interests. This form will help our team evaluate the suitability of potential partners and facilitate a smoother partnership process. 
-
-Please note that this form is meant for new partnerships, and existing partners should not fill this out. If you're unsure about filling this form, please contact us to confirm.
-</thinking>
-
 # Product Personalization Partnership Application - Help Guide
 ## Purpose
 This form is intended for companies interested in establishing a product personalization partnership with us. The information collected will be used to evaluate potential partners and initiate a partnership process.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from vendors for a tbd-festival event. The form is used to gather details about the vendor's user information, contact information, business information, payment information, shipping information, and order details. This form is likely used for event management and order fulfillment purposes.
-
-Before completing this form, ensure that you are authorized to access the vendor information and that the form is not a duplicate of an existing record. 
-
-</thinking>
-
 # tbd-festival - Help Guide
 ## Purpose
 The tbd-festival form is designed to collect essential information from vendors for event management and order fulfillment purposes.

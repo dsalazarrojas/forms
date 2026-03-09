@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to allow pet owners to submit orders for pet supplies, such as food, toys, and other pet care essentials. This form is designed to be easy to use and provide clear instructions for end-users to complete their order accurately.
-The form consists of several sections, including Pet Type, Pet Breed, Order Date, Contact Info, and Order Notes. It is likely that the form is intended for use within a veterinary clinic or pet care business to facilitate ordering pet supplies.
-It is assumed that all fields on the form are optional, except for one field, which requires further explanation.
-</thinking>
-
 # Pet Supplies Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from pet owners to facilitate ordering pet supplies from a veterinary clinic or pet care business.

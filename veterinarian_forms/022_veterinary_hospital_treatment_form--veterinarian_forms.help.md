@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Veterinary Hospital Treatment Form, I will follow these steps:
-
-1. Identify the purpose of the form: The form is used to capture information about a pet's treatment in a veterinary hospital. This includes the pet owner's contact information, the pet's name, weight, and any complications that arose during the treatment process.
-2. Determine the relevance of the form: The form is relevant to ensure that the veterinary hospital has accurate and up-to-date information about the pet's treatment, which is crucial for providing proper care and follow-up.
-3. Check for non-duplication: The form does not duplicate any existing forms in the veterinary hospital's system.
-
-</thinking>
-
 # Veterinary Hospital Treatment Form - Help Guide
 ## Purpose
 The Veterinary Hospital Treatment Form is used to record information about a pet's treatment in the hospital. This form is essential for providing accurate and complete information about the pet's care and follow-up.

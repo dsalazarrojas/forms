@@ -1,9 +1,3 @@
-<thinking>
-This form is used to upload and manage vendor proposals for wedding events. Vendors must provide their information, upload relevant documents, and agree to terms. This form is not meant to be used for other purposes, so please ensure you've chosen the correct type of proposal to submit. 
-
-This form is part of a larger process and may require additional steps or approvals before it can be finalized. Please ensure you understand the internal flow and requirements before submitting this form. If you have any doubts or concerns, please reach out to the event organizers for clarification.
-</thinking>
-
 # Wedding Vendor Proposal Upload Form - Help Guide
 ## Purpose
 This form is used to upload and manage wedding vendor proposals. Vendors can provide their information, upload relevant documents, and agree to terms for their proposals to be reviewed and potentially selected for the wedding event.

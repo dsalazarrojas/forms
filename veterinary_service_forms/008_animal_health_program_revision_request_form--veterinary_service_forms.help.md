@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication, this form is only accessible to authorized users. Before filling out this form, please ensure that you have a legitimate reason for revising the Animal Health Program and that you have the necessary permissions to do so. The form will not accept changes for programs that are already in production or have been recently updated. The goal of the form is to gather information and propose changes that can be reviewed and approved by relevant stakeholders.
-</thinking>
-
 # Animal Health Program Revision Request Form - Help Guide
 ## Purpose
 The Animal Health Program Revision Request Form is used to propose updates to the current Animal Health Program. This form gathers necessary information from the requester, including their name, the name of the program to be revised, the reason for the revision, and the potential impact on animal health and operations.

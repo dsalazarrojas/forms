@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vendor Fee Review Consent Form - Help Guide
 
 ## Purpose
