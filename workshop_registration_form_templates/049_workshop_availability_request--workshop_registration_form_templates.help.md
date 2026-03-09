@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workshop Availability Request - Help Guide
 ## Purpose
 The Workshop Availability Request form is used to inquire about the availability of a workshop or event. The form helps to gather information from potential attendees about their preferred date, contact details, group size, availability, and any additional notes they may have. The form is designed to be simple and straightforward, making it easy to submit your request.

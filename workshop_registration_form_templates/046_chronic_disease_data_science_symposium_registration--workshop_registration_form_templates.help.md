@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from registrants for the Chronic Disease Data Science Symposium. The form aims to gather essential details from registrants, including their personal and professional background, to provide a smooth and personalized experience for attendees. To ensure accurate and relevant data collection, this form must be completed by registrants with the correct intention and attention to the provided fields.
-
-</thinking>
-
 # Chronic Disease Data Science Symposium Registration - Help Guide
 ## Purpose
 The Chronic Disease Data Science Symposium Registration form is designed to collect information from registrants to provide a tailored experience. This form gathers data about registrants' background and preferences for the symposium.

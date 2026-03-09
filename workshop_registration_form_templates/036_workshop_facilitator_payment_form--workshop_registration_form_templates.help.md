@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from workshop facilitators regarding their workshop payment details. It's essential to ensure that the payment information is accurate and up-to-date. Before filling out this form, please confirm that you are a registered facilitator and that you are not duplicating payment information already submitted. If you are unsure about any of the fields, please contact your workshop administrator for clarification.
-</thinking>
-
 # Workshop Facilitator Payment Form - Help Guide
 ## Purpose
 The Workshop Facilitator Payment Form is a critical document that helps workshop facilitators provide accurate and timely payment information for their workshops. This form ensures that payment details are correctly recorded and processed efficiently.

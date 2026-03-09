@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Access Bars Workshop Registration - Help Guide
 
 ## Purpose

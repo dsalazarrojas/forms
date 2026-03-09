@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from attendees for a financial symposium, likely for registration purposes. The fields should be filled out to provide accurate and complete information for the symposium organizers. Please ensure that you fill out the form completely and accurately to avoid any issues with your registration. If you are unsure about any field, please refer to this guide for clarification. Also, be aware that the form is not a duplicate of any other form, and the information provided will be used specifically for this event.
-</thinking>
-
 # Financial Symposium Registration - Help Guide
 ## Purpose
 This form is used to register for the Financial Symposium, providing essential information for the symposium organizers to process your registration.

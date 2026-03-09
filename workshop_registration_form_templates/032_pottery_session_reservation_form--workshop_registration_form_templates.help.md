@@ -1,19 +1,3 @@
-<thinking>
-This guide will cover the usage of the Pottery Session Reservation Form. The form is designed to capture information for a pottery session reservation, including participant's contact details, preferences, and session preferences.
-
-The form is split into two parts: participant details and session preferences.
-
-In the participant details section, the form asks for the participant's first name, last name, email address, phone number, and instructor preference. The last name, email, phone number, and instructor preference are required fields. This information will be used to contact the participant and provide them with updates about the session.
-
-In the session preferences section, the form asks for the participant's date and time preference, class preference, and whether they are booking the session. This section also includes a notes field for any additional information.
-
-The participant details section should be filled out by the participant, ensuring they provide accurate and up-to-date information. This information is crucial for the organization to communicate with them effectively.
-
-The session preferences should be filled out according to the participant's preference and availability. This will ensure that the participant gets the best possible experience from the session.
-
-The form will be submitted once all the required fields are filled out.
-</thinking>
-
 # Pottery Session Reservation Form - Help Guide
 ## Purpose
 The Pottery Session Reservation Form is designed to collect participant information and session preferences for a pottery session reservation.

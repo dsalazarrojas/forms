@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to help potential course registrants provide their personal and professional information to enroll in the Client Value Proposition (CVP) course. The form collects data on the registrant's background, experience, and preferences to ensure that they are suitable candidates for the course. 
-
-The form has sections that cover personal information such as name, email address, and phone number, as well as company information like company name, job title, and department. It also inquires about the registrant's experience with value proposition development, their primary goal for taking the course, and their preferred course start date and format.
-
-The form also asks about the registrant's role type and team involvement, as well as any special requirements or accommodations they may need. Finally, it inquires about their comfort level with online learning platforms and whether they are interested in obtaining a certificate of completion.
-
-Before proceeding, please ensure that you have not already completed this form. If you have any questions or concerns, please don't hesitate to reach out to us.
-
-</thinking>
-
 # Client Value Proposition Course Registration Form - Help Guide
 ## Purpose
 This form is used to register for the Client Value Proposition (CVP) course.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a Corporate Budget Presentation Registration. It's designed to collect information from individuals or entities interested in presenting their financial budgets to your company for potential collaborations or partnerships. The form is used internally to gather relevant details about the attendee, their financial presentation, and other necessary information. Before proceeding, please ensure you have read this guide thoroughly and understand the required fields.
 
 </thinking>

@@ -1,21 +1,3 @@
-<thinking> 
-This form is intended to gather information from participants registering for an architecture workshop. The purpose of this form is to collect essential details about each attendee, including their contact information, workshop preferences, experience level, and any special requirements. This form also aims to understand the participant's goals and expectations from the workshop and their accessibility needs. 
-
-The form is divided into several sections:
-
-1.  Participant Information: This section captures the participant's basic details such as first name, last name, email address, phone number, job title, and organization or company name.
-2.  Workshop Selection: This section asks the participant to choose which workshop they are registering for.
-3.  Experience Level: This section inquires about the participant's experience level in the field of architecture or relevant area.
-4.  Workshop Expectations: This section is a note section where the participant can provide any expectations they have from the workshop.
-5.  Logistics: This section is a note section for the participant to note any special logistics or requirements they need to be accommodated.
-6.  Registration Fee: This section asks the participant to confirm whether they have paid the registration fee or if they require payment information.
-7.  Accessibility Needs: This section is a place for the participant to share any special accessibility needs that the workshop organizers should be aware of.
-8.  Dietary Restrictions: This section is for the participant to mention any dietary restrictions they may have in case lunch is provided.
-
-This form is designed to collect all necessary information from participants in a structured and easy-to-understand format. 
-
-</thinking>
-
 # Architecture Workshop Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from participants registering for an architecture workshop.

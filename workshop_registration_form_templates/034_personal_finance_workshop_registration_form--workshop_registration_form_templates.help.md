@@ -1,18 +1,3 @@
-<thinking>
-The form is intended to be a registration form for a Personal Finance Workshop, and the purpose of the form is to gather relevant information about each participant to ensure a smooth and efficient experience at the workshop. The form includes questions about personal information, payment methods, and special requests or requirements.
-
-Before proceeding, please ensure that this is the correct form and that you have not already registered. If you have any issues or concerns, contact the workshop organizers.
-
-This form will ask you for information about your personal details, payment methods, and any special requests you may have. Please provide accurate and complete information for each question to ensure that we can provide you with the best experience possible.
-
-Please note that some fields are required, and you will need to fill them in order to complete the form. The required fields are marked with an asterisk (*) after their labels.
-
-Please review the following fields carefully to ensure you have all the necessary information:
-
-Please make sure to review the terms and conditions of the workshop before proceeding.
-
-</thinking>
-
 # Personal Finance Workshop Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from participants for the Personal Finance Workshop.

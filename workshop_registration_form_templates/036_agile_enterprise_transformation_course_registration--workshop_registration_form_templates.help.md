@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, my approach is to create a clear and concise user guide that aligns with the provided YAML form structure. I will carefully review each field to ensure that the explanations are concrete, practical, and accurately represent the intended purpose and functionality of each field. I will also ensure that the guide is easy to follow and free of jargon, making it accessible to a wide range of users. Additionally, I will verify that the field labels are well-defined and clear in their intent, avoiding any ambiguity or confusion.</thinking>
-
 # Agile Enterprise Transformation Course Registration - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in attending the Agile Enterprise Transformation course. It will help the course administrators to understand the participant's background, preferences, and expectations for the course.

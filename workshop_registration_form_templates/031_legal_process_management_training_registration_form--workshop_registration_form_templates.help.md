@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Legal Process Management Training Registration Form - Help Guide
 
 ## Purpose

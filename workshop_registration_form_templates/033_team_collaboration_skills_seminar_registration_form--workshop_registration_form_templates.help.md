@@ -1,18 +1,3 @@
-<thinking> 
-This form is for registering teams for the Team Collaboration Skills Seminar. It is meant for teams to provide information about themselves for the purpose of organizing and managing the seminar. To complete this form, you should have the following information ready: team details, seminar schedule, and contact information.
-
-This form is designed to be filled out by team members or representatives. Please make sure to provide accurate and complete information to avoid any confusion or delays in processing the registration.
-
-You can fill out this form as many times as you need, but please note that it will help us to manage the seminar and provide a more efficient experience for all participants.
-
-Before you start, please make sure you have the following information:
-
-* Team details (name, size, lead, role, description)
-* Seminar details (date, time, location, facilitator)
-* Contact information (email, phone number)
-
-Please review the form carefully and fill it out accurately to ensure a smooth and successful seminar experience.</thinking>
-
 # Team Collaboration Skills Seminar Registration Form - Help Guide
 
 ## Purpose

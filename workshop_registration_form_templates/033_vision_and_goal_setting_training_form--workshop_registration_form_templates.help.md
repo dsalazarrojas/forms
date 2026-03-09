@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a generic template for a workshop registration and goal setting form. The purpose of this form seems to be to gather information from participants to help facilitate a workshop or training session. The form collects general participant information, details about the workshop, and specific learning and workshop goals. It does not include any sensitive or sensitive-collecting fields, so it seems like it can be used for various workshops or training sessions without significant customization. Before proceeding, please ensure you are aware of the form's purpose and are collecting only the necessary information for your specific workshop.
-
-</thinking>
-
 # vision_and_goal_setting_training_form - Help Guide
 ## Purpose
 This form is designed to help participants register for a workshop and set their learning and workshop goals. It will collect essential information about the participant and the workshop to ensure a smooth and productive experience.

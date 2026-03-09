@@ -1,5 +1,3 @@
-<thinking>As a cultural immersion workshop is a valuable opportunity for participants to engage with a new culture and gain valuable life experience, it's essential to complete this form carefully and accurately. This form is designed to ensure a smooth and enjoyable experience for both you and the facilitators. Please take a moment to review the form and ensure you have provided all necessary information. If you're unsure about any field, you can contact the facilitators for assistance. Additionally, ensure that you're not registering multiple participants under the same email address, as this will create confusion and affect the workshop's organization.</thinking>
-
 # Cultural Immersion Workshop Booking Form - Help Guide
 
 ## Purpose

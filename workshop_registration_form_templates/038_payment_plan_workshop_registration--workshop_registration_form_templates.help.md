@@ -1,9 +1,3 @@
-<thinking>
-The Payment Plan Workshop Registration form is designed to collect information from users who are interested in registering for a payment plan workshop. The form is used to capture user details and payment plan preferences. This form is meant for individuals who want to attend the workshop and have payment plans to discuss. It is essential to fill out this form carefully and honestly to ensure that your registration is processed correctly.
-
-Please note that you may need to fill out this form only once. If you have filled out this form before and have not received any further instructions or confirmations from the workshop organizers, you are encouraged to contact them for assistance.
-</thinking>
-
 # Payment Plan Workshop Registration - Help Guide
 ## Purpose
 

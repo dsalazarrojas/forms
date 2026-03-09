@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the form's purpose and ensure it's relevant and non-duplicitious. The form is called "Skincare Workshop Planning Appointment Form" and its input schema defines four pages: "workshop_planning_form", "participant_details", "workshop_session_details", and "appointment_details". Each page is a text field, suggesting the form is for collecting information about a workshop, its participants, and appointment details. This form seems to be a straightforward tool for planning and organizing workshops, likely for a skincare-related business or organization. The form's fields are mostly optional, which might imply that users can fill it out at their convenience.</thinking>
-
 # Skincare Workshop Planning Appointment Form - Help Guide
 ## Purpose
 This form is designed to help you plan and organize a workshop related to skincare. It collects information about the workshop, its participants, and appointment details to ensure a smooth and successful event.

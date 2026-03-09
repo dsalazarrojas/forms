@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants attending a Team Dynamics Workshop. The form is intended to gather individual details such as names, contact information, and workshop-specific details. To ensure accurate and efficient completion, it is crucial to understand the purpose and the required fields for each participant. Please review this guide carefully to ensure a successful submission.
-</thinking>
-
 # Team Dynamics Workshop Attendance Form - Help Guide
 ## Purpose
 The Team Dynamics Workshop Attendance Form is designed to collect information from participants attending a workshop. This form will help the organizers to manage attendance, track participant interests, and provide a seamless experience to all attendees.

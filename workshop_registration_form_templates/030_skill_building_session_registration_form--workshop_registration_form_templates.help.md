@@ -1,15 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "skill_building_session_registration_form" form, which is used for registering participants for skill-building sessions. The form is designed to gather information from participants, including their workshop and session details, as well as their personal and contact information. 
-
-This form is intended for participants to register themselves for the workshops, and the fields are organized into two main sections: workshop details and participant information. 
-
-Before filling out the form, users should ensure that they have all the necessary information and details ready to provide accurate and complete responses. 
-
-The form requires no mandatory fields, but some fields may have hints or suggestions to help users understand what information is needed. 
-
-Please refer to the field-by-field explanations below for a clear understanding of each field.
-</thinking>
-
 # skill_building_session_registration_form - Help Guide
 ## Purpose
 This form is used for registering participants for skill-building workshops. It gathers information on workshop and session details, as well as participant personal and contact information.

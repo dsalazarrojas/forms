@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Livestock Welfare Workshop Recording Consent Form - Help Guide
 ## Purpose
 The Livestock Welfare Workshop Recording Consent Form is a document used to obtain informed consent from workshop participants for the recording of their sessions. This form is designed to ensure that participants understand and agree to the recording and use of their session materials.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Circular Economy Innovation Lab Registration Form - Help Guide
 ## Purpose
 The Circular Economy Innovation Lab Registration Form is designed to capture essential information from participants to facilitate a successful and effective lab experience. This form helps us understand your background, project, and expectations, ensuring you get the most out of our lab sessions.

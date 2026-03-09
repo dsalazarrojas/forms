@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a Plant Care Workshop Appointment Form, a tool for users to register for and provide details about their workshop participation. This form aims to collect user information for the purpose of workshop organization and participant management. Before proceeding, please review the following help guide to ensure a smooth and accurate completion of the form.
-</thinking>
-
 # Plant Care Workshop Appointment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect user registration and appointment details for the Plant Care Workshop. This form will be used to organize and manage participant information for the workshop.

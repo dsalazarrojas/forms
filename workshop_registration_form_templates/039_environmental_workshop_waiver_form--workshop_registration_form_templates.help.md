@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for participants to register for an environmental workshop, sign a waiver, and provide emergency contact details. It is not a mandatory form, and participants can choose not to fill it out if they so wish. The purpose of this form is to collect information that may be required for the workshop organizers to contact the participant in case of an emergency.
-</thinking>
-
 # Environmental Workshop Waiver Form - Help Guide
 ## Purpose
 This form is used to register for an environmental workshop and sign a waiver. It is recommended to fill it out for the workshop organizers to have the necessary information to contact you in case of an emergency.

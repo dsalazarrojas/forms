@@ -1,15 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the Leather Craft Workshop Booking Form. The form is designed for individuals to register for a workshop, providing relevant personal and workshop-related information. It is crucial to complete this form accurately, as it will be used to confirm attendance and prepare for the workshop.
-
-To ensure that users understand the form's purpose and the importance of accurate completion, this guide will cover each field's purpose and explanation.
-
-This guide is intended for end-users, such as workshop participants. To avoid duplication of effort, please ensure that you read this guide carefully before completing the form.
-
-Before starting the form, please note that this is a comprehensive guide, covering all relevant fields. Please do not attempt to fill out the form without reading this guide first.
-
-If you have any further questions or concerns, please contact the relevant authorities. This guide is not intended to be exhaustive, and additional information may be provided by other means.
-</thinking>
-
 # Leather Craft Workshop Booking Form - Help Guide
 ## Purpose
 The Leather Craft Workshop Booking Form is designed for workshop participants to provide accurate and complete information about themselves and their workshop preferences.

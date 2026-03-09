@@ -1,5 +1,3 @@
-<thinking>As a data literacy expert, I will create a user-facing help guide for the "Data Literacy Workshop Broadcast Consent Form" to assist users in understanding its purpose and completing it. I will carefully review the provided YAML fields to ensure the explanations are accurate and concise.</thinking>
-
 # Data Literacy Workshop Broadcast Consent Form - Help Guide
 ## Purpose
 

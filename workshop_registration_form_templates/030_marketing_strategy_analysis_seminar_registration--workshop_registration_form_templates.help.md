@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential attendees for the Marketing Strategy Analysis Seminar. This form will help us understand who is interested in attending the seminar, what their current marketing strategies are, and how they plan to use the information gained from the seminar. This information will aid in tailoring the seminar content and improving its relevance to the attendees. To avoid duplication, we will not register any user more than once.
-
-</thinking>
-
 # Marketing Strategy Analysis Seminar Registration - Help Guide
 ## Purpose
 The Marketing Strategy Analysis Seminar Registration form is designed to gather details from interested attendees about their company and their marketing strategy. This information will help us create a more valuable experience for all attendees by tailoring the seminar content.

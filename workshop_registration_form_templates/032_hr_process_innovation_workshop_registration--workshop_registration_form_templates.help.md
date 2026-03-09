@@ -1,5 +1,3 @@
-<thinking>...the form "hr_process_innovation_workshop_registration" is designed to register participants for an HR Process Innovation Workshop. It is intended for employees and HR professionals to sign up for a workshop focused on process improvement, which aims to enhance the efficiency and effectiveness of internal processes within an organization. This form is meant to be completed by individuals interested in attending, and it's recommended to register early to secure a spot. By registering, users will be able to receive important updates and details about the workshop, including schedules and logistics. It's not a duplicate registration for a specific team or role, but rather for individual attendees. To avoid over-registration, we will not allow duplicate registrations. Please ensure you only register once for this workshop...</thinking>
-
 # hr_process_innovation_workshop_registration - Help Guide
 ## Purpose
 The purpose of this form is to register individuals for an HR Process Innovation Workshop, a workshop focused on process improvement for HR teams and professionals.

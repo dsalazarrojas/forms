@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from attendees for the Health Data Privacy Seminar. This information will help us tailor the seminar content to their interests and ensure they can connect with other attendees. 
-Please note that this form is not a payment form, and we will not process any payment information. 
-Before filling out this form, please ensure that you are registering only once per person. If you need to register multiple people, please fill out the form separately for each individual. 
-</thinking>
-
 # Health Data Privacy Seminar Registration Form - Help Guide
 ## Purpose
 This form is designed to collect relevant information from attendees for the Health Data Privacy Seminar. The collected data will be used to tailor the seminar content and facilitate connections among attendees.

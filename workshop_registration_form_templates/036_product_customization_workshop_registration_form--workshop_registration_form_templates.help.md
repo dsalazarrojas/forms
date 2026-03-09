@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from users who want to attend a product customization workshop. The form asks for basic contact information (name, email, and phone), workshop preferences (workshop name, date, time, and venue), and any additional comments they may have. This information will be used to communicate with the user and prepare for the workshop.
-To ensure relevance and prevent non-duplication, it's essential to follow these guidelines:
-* Each field is optional, so users can provide as much or as little information as needed.
-* Be accurate when filling out contact information to ensure smooth communication.
-* Workshop preferences should be filled out with the actual intended workshop details to ensure accurate scheduling.
-</thinking>
-
 # Product Customization Workshop Registration Form - Help Guide
 ## Purpose
 This form is for users who wish to attend a product customization workshop. Fill out the form to register your interest and provide any additional comments.

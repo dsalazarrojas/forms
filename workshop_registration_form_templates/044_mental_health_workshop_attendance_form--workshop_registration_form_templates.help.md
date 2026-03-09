@@ -1,7 +1,3 @@
-<thinking>
-The Mental Health Workshop Attendance Form is a crucial tool for tracking participant engagement and feedback during workshops. Its purpose is to record attendance, collect demographic information, and gather feedback about the workshop's effectiveness. Before filling out this form, please ensure that you have not already submitted an attendance record for this workshop, as duplicates may cause confusion.
-</thinking>
-
 # Mental Health Workshop Attendance Form - Help Guide
 ## Purpose
 The Mental Health Workshop Attendance Form is designed to collect information about participants' attendance and experiences during a workshop. This form is essential for workshop organizers to track attendance, gather feedback, and improve future events.

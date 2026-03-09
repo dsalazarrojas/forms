@@ -1,7 +1,3 @@
-<thinking>
-The internal purpose of this form is to collect information from attendees and event stakeholders for a Computer Science event, ensuring a smooth registration process and accurate tracking of event details. This form is designed to be user-friendly, with clear labels and concise instructions to help users understand what is required from them. To ensure accuracy, the form has been created with specific fields that cater to the event's unique needs, such as ticket types and sessions selected. By using this form, event organizers can collect relevant information from attendees, which will help them prepare for the event's logistical and catering aspects.
-</thinking>
-
 # Computer Science Event Registration - Help Guide
 ## Purpose
 This form is designed to gather information from attendees and event stakeholders for a Computer Science event. It's essential to provide accurate and complete information to ensure a smooth registration process and effective event planning.

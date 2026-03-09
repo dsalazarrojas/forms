@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information from potential members of the Landscaping Association who wish to participate in a workshop. The purpose of this form is to gather relevant details about the participant, such as their workshop preferences, contact information, and payment details. Before filling out this form, please ensure you have not already submitted an application for the same workshop, as this form is intended for new or renewed membership applications. 
-Please also note that some fields are optional, but we recommend providing as much detail as possible to help the association process your application efficiently.</thinking>
-
 # Landscaping Association Workshop Membership Form - Help Guide
 ## Purpose
 The Landscaping Association Workshop Membership Form is designed to collect information from potential members who wish to participate in a workshop. It is intended for new or renewed membership applications.

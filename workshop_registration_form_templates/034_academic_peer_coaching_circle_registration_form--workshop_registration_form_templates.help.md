@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and requirements of the Academic Peer Coaching Circle Registration Form. It is crucial to ensure that the form is filled out correctly and that its purpose is clear.
-</thinking>
-
 # Academic Peer Coaching Circle Registration Form - Help Guide
 ## Purpose
 The Academic Peer Coaching Circle Registration Form is designed to register participants for a peer coaching circle. This form gathers essential information from participants, including their contact details, coaching focus areas, and availability for sessions. The form is used to create a list of registered participants for the peer coaching circle.

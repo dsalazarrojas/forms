@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users registering for the Smart Access Control Workshop. The purpose of this form is to gather essential details about the attendees, such as their name, email, topic interests, and preferred dates. The information collected will help the workshop organizers to better understand the attendees' requirements and preferences. 
-
-To avoid confusion, please ensure that you only fill out the relevant fields that pertain to your registration. For instance, if you are interested in multiple topics, select all the relevant topics from the "Topic Interests" field. If you have any additional information to share, feel free to add it in the "Notes" field.
-
-Before proceeding, please review the form carefully to ensure that all required fields are filled out correctly. You will not be able to save the form until all required fields are filled.
-
-</thinking>
-
 # Smart Access Control Workshop Registration - Help Guide
 ## Purpose
 The Smart Access Control Workshop Registration form is designed to gather information from attendees registering for the workshop. Please take a few minutes to review the form and provide your details correctly.

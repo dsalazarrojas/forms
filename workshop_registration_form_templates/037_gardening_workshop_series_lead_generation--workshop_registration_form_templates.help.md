@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for lead generation for a gardening workshop series. It gathers information about the workshop, including its title, category, description, email, phone number, and output file. This form is likely to be used by marketing or sales teams to capture leads and follow up with potential customers. The form is also likely to be used to generate reports or other outputs for internal use. To ensure that each lead is properly assigned to a team member, the form also includes fields for assigning a tool and a user to each lead.
-</thinking>
-
 # Gardening Workshop Series Lead Generation - Help Guide
 ## Purpose
 This form is designed to generate leads for a gardening workshop series. It captures essential details about the workshop, including its title, category, description, contact information, and output file.

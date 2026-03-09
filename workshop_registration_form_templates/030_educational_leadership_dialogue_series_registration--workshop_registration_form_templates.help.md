@@ -1,5 +1,3 @@
-<thinking>Here is the internal reasoning block explaining the form purpose and checks for relevance and non-duplication:</thinking>
-
 The "Educational Leadership Dialogue Series Registration" form is designed to collect information from individuals interested in participating in the Educational Leadership Dialogue Series. This form aims to gather essential details about their name, role, department, preferred date and time, language, location, institution, and contact information. The form helps the organizers to tailor the event to the participants' needs and preferences.
 
 To avoid duplication, please ensure that you are only registering once. If you are unsure whether you are a repeat registrant, please contact the organizers for verification.

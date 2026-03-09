@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect registration information for the Women's Empowerment Workshop. It is not affiliated with, endorsed by, or derived from any form platform. The form was created using AI-generated form templates and is released under the Creative Commons BY 4.0 license. It is meant to be used as is or modified and distributed. Please use it responsibly and give credit if you create a derivative work.
-
-</thinking>
-
 # Women's Empowerment Workshop Registration Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from participants for the Women's Empowerment Workshop. It will help us better understand who is attending, their contact details, event preferences, and other relevant information.

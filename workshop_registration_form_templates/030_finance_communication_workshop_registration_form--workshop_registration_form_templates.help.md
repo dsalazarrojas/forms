@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registering workshop attendees for a finance communication workshop. It is part of a larger workshop series and is used to track user data, including name, email, phone number, and other relevant information. The form is used by workshop organizers to collect information from attendees before the event.
-</thinking>
-
 # finance_communication_workshop_registration_form - Help Guide
 ## Purpose
 This form is used to register for a finance communication workshop. The information collected will be used by workshop organizers to track attendee data and ensure a smooth workshop experience.

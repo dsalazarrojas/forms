@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to register students for a workshop on research publishing, allowing them to provide personal details and preferences for the workshop. The form is composed of various fields that collect demographic information, workshop preferences, and feedback. The goal is to understand the students' backgrounds and interests, which will help tailor the workshop content to their needs.
-
-Before proceeding, please ensure that you are completing this form for the correct purpose and do not duplicate any existing registrations.
-
-</thinking>
-
 # Student Research Publishing Workshop Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from students attending the Student Research Publishing Workshop. It helps us understand your background, preferences, and expectations from the workshop.

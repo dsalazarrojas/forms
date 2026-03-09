@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from individuals or organizations interested in hosting an animal training workshop, including the type of workshop, desired dates, budget, and other logistical details. This form will help us determine whether we can accommodate their needs and provide a successful workshop experience. It's essential to ensure that the form is filled out correctly to ensure that we can efficiently process their request and provide the best possible service. Please review the form carefully and make sure to fill out all required fields to avoid delays in processing your request.
-</thinking>
-
 # Animal Training Workshop Scheduling Request - Help Guide
 ## Purpose
 This form is designed to help us schedule and plan an animal training workshop that meets your specific needs. By filling out this form, you will be able to select the type of workshop, desired dates, budget, and other details that are essential for a successful event.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for workshop registration for the Winter Winds Clinic. It aims to collect information from users regarding their participation in the clinic. The form is intended to be completed by workshop participants and instructors. Please ensure that you have the necessary permissions to access and use this form. If you are unsure, contact your supervisor or manager to clarify. Also, please be aware that this form should not be duplicated or shared without the required permissions.
-
-</thinking>
 # Winter Winds Clinic Registration - Help Guide
 ## Purpose
 The Winter Winds Clinic Registration form is designed to collect information from participants and instructors regarding their workshop participation. It is essential for workshop organization and communication.

@@ -1,6 +1,3 @@
-<thinking>
-This help guide is intended to be used by workshop participants who are registering for a mental health workshop. The purpose of this form is to collect essential contact and emergency contact information, as well as medical details and consent from the participant. By completing this form, you will be able to register for the workshop and agree to its terms and conditions. Please ensure that all required fields are filled out accurately and thoroughly.
-</thinking>
 # mental_health_workshop_consent_form - Help Guide
 
 ## Purpose

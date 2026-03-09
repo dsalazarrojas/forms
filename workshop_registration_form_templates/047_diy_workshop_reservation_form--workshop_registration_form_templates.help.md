@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants who are interested in attending a workshop. The form will likely be used by event organizers to collect relevant details about the participants, including their contact information and preferences for the workshop. This form is a generic template and may not be affiliated with any specific workshop or event. It's essential to ensure that this form is not used for any commercial purposes and to give credit to the original creator if any modifications are made to the form.
-</thinking>
-
 # diy_workshop_reservation_form - Help Guide
 
 ## Purpose

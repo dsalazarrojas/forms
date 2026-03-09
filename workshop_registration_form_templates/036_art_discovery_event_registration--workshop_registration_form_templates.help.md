@@ -1,11 +1,3 @@
-<thinking>
-The Art Discovery Event Registration form is designed to collect information from attendees for an event focused on art discovery. This form will help the organizers understand the attendee's background, interests, and preferences to better tailor the event experience. 
-
-To ensure that all attendees have a unique and enjoyable experience, please take the time to fill out this form carefully. 
-
-This form should only be filled out once per attendee.
-</thinking>
-
 # Art Discovery Event Registration - Help Guide
 ## Purpose
 The Art Discovery Event Registration form is designed to collect information from attendees for an art event. This information will help the organizers create a unique and enjoyable experience for each attendee.

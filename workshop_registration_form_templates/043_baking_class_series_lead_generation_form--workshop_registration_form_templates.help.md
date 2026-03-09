@@ -1,17 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand the form's purpose, which is to generate leads for a baking class series. This form likely targets individuals interested in baking classes, and the goal is to collect relevant information to tailor the class series to their needs.
-
-The form is a lead generation form, designed to capture potential students' interests, skills, and preferences. It's essential to ensure that the form is user-friendly and easy to complete, while also gathering the necessary information to create an effective class series.
-
-Before creating the help guide, let's consider the following:
-
-* The form has 25 fields, ranging from simple text inputs to select_one and select_multiple options.
-* Some fields have a high degree of specificity, such as "Type of Baking Class Interested In" and "Preferred Class Location or Online Platform."
-* The form requires a mix of required and optional fields, which can be confusing for users.
-* There might be a need to clarify the purpose of each field and provide examples or guidance to help users complete the form accurately.
-
-</thinking>
-
 # Baking Class Series Lead Generation Form - Help Guide
 ## Purpose
 This form is designed to generate leads for a baking class series. It will help us understand your interests, skills, and preferences to tailor the class series to your needs.

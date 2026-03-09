@@ -1,8 +1,3 @@
-<thinking>
-The scholarship workshop feedback form is designed to gather feedback from participants about the experience of attending a workshop. This form is used to ensure that the workshop organizers can understand the participants' perceptions of the event, identify areas of improvement, and make necessary adjustments for future events. It is essential to provide honest and constructive feedback to help create better workshops. Please ensure that you complete this form thoroughly and accurately, and do not duplicate your feedback as it may be considered redundant.
-
-</thinking>
-
 # Scholarship Workshop Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from workshop participants about their experience at the scholarship workshop. Your feedback is crucial in helping us improve future events.

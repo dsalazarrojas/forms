@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Voluntary Local Review Subang Jaya Workshop - Help Guide
 ## Purpose
 This form is designed to capture relevant information about a local workshop held in Subang Jaya. It will help us understand the details of the workshop, such as its name, date, and time.

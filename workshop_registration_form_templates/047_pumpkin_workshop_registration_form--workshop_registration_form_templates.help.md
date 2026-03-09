@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users regarding their interest in attending a workshop, specifically the Pumpkin Workshop. This form is meant to be user-friendly and collect relevant data in a clear and concise manner. It is essential to ensure that this form is completed accurately and thoroughly to capture the required information.
-Before proceeding, please note that the form has 12 fields, and some of these fields are optional. It is crucial to understand the purpose and required fields to complete this form successfully. If you have any doubts or concerns, please do not hesitate to reach out for clarification.
-</thinking>
-
 # Pumpkin Workshop Registration Form - Help Guide
 ## Purpose
 This form is designed to collect details from users regarding their interest in attending the Pumpkin Workshop. It is essential to fill this form accurately and thoroughly to ensure that the correct information is captured.

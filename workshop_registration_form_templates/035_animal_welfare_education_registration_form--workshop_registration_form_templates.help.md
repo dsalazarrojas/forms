@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to collect registration information from participants for an animal welfare education workshop. The form is divided into several sections, each with a specific purpose. To ensure accurate and complete registration, please carefully review each section and provide the required information. 
-
-The form has several fields that require input from the participant. These include:
-- Participant Full Name: This field is required and should be filled with the participant's full name.
-- Participant Age or Guardian Name: This field is also required and should be filled with the participant's age if they are an adult or their guardian's name if they are a minor.
-- Contact Email Address: This field is required and should be filled with the participant's email address.
-- Primary Interest Area: This field is required and should be selected from the provided options (e.g., Responsible Pet Ownership, Wildlife Conservation and Habitat, etc.).
-- Workshop Date Selection: This field is required and should be selected from the provided options (e.g., Session A, Session B, Session C).
-- Previous Animal Welfare Education: This field is optional and should be used to list any previous classes or workshops attended related to animal welfare.
-- Dietary Restrictions for Provided Lunch: This field is optional and should be used to specify any dietary restrictions or allergies.
-- Photography and Media Consent: This field is required and should be selected to indicate whether the participant consents to be photographed or not.
-- Emergency Contact Name: This field is required and should be filled with the name of the emergency contact person.
-- Emergency Contact Phone Number: This field is required and should be filled with the phone number of the emergency contact person.
-- Digital Signature: This field is required and should be filled with the participant's name as it appears on their government-issued ID.
-
-Please ensure that all fields are accurately and completely filled to ensure a smooth registration process. If there are any issues or concerns, please do not hesitate to reach out to us.
-</thinking>
-
 # Animal Welfare Education Registration Form - Help Guide
 ## Purpose
 

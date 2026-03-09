@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are interested in registering for an iPhoto Photography Workshop. This form is part of a larger system and its purpose is to gather relevant details from users in order to process their registration. It is crucial to ensure that the form is completed correctly to avoid duplication of effort and to guarantee that the necessary information is collected to facilitate the workshop experience. 
-
-</thinking>
-
 # iphoto_photography_workshop_registration - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information from users who are interested in attending an iPhoto Photography Workshop.

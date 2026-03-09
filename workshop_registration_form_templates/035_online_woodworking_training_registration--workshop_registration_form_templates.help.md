@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used for registering participants for an online woodworking training session. 
-- The purpose of this form is to collect participant information, including their name, email, phone number, and session details. 
-- It is intended to be completed by workshop organizers or administrators to register participants for their sessions. 
-- This form will likely be used in conjunction with other forms and tools to manage participant registration and session management. 
-- It is likely that there will be other forms with similar purposes but different fields. 
-- It is assumed that the user has the necessary permissions to access and complete this form. 
-</thinking>
-
 # Online Woodworking Training Registration - Help Guide
 ## Purpose
 The Online Woodworking Training Registration form is used to collect participant information for online woodworking sessions. It is intended for workshop organizers or administrators to register participants and manage session details.

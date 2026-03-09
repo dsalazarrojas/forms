@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect information from users who are interested in registering for a meditation workshop. The purpose of this form is to gather essential details such as full name, contact email, phone number (if provided), and registration details like workshop date and time, number of participants, and any additional comments. The form is likely to be used in a professional or educational setting, such as a wellness center or a meditation studio.
-
-The form is intended to be used for internal purposes, so the output will be in Markdown format.
-</thinking>
-
 # meditation_workshop_registration_form - Help Guide
 ## Purpose
 This form is used to collect information from users interested in registering for a meditation workshop. It is essential to fill out this form to help us better understand your needs and provide the best experience for you.

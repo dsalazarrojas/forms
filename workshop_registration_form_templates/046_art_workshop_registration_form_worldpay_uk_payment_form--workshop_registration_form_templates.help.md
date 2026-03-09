@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and that users understand the purpose and requirements of the form. This form is designed for workshop registration, which is a critical process for the art workshop. Users must fill out the form accurately and completely to ensure that their registration is processed correctly. This form requires a range of personal and workshop-related information, so users need to understand the purpose and requirements of each field to avoid errors and confusion.
-</thinking>
-
 # Art Workshop Registration Form WorldPay UK Payment Form - Help Guide
 ## Purpose
 This form is for registering participants for an art workshop. Please fill out the form accurately and completely to ensure your registration is processed correctly.

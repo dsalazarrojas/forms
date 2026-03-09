@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-This form is intended to gather information from team members to register for a Team Development Coaching Session. It's crucial to ensure that each team member provides accurate and complete information to facilitate a smooth and productive session. Before proceeding, please review the form carefully to prevent any duplication of effort or incorrect submissions.
-</thinking>
-
 # Team Development Coaching Session Registration Form - Help Guide
 ## Purpose
 The Team Development Coaching Session Registration Form is designed to collect essential information from team members to facilitate a successful and productive coaching session. This form will help us understand your team's needs, preferences, and availability, ensuring a tailored and effective coaching experience.

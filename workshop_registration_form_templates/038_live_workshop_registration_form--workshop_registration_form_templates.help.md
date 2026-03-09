@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for live workshop registration, allowing participants to provide their details, such as name, email, and contact information. It also includes fields for workshop selection and participant notes. The form is intended for workshop organizers to collect essential information from attendees. 
-
-To prevent duplication, it's essential to review the form's purpose and ensure that all required fields are completed accurately and truthfully.
-
-</thinking>
-
 # Live Workshop Registration Form - Help Guide
 ## Purpose
 This form is for registering participants in live workshops, ensuring that organizers have the necessary information to prepare for the event.

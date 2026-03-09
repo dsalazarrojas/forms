@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for participants to register for a workshop on sustainability in business. The form will gather information about the participant's background, preferences, and contact details.
-</thinking>
-
 # Sustainability In Business Workshop Registration Form - Help Guide
 ## Purpose
 This form is designed for participants to register for the Sustainability In Business Workshop, a workshop focused on sustainable practices and strategies for business.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to facilitate collaboration and registration for participants in a digital classroom research project. It gathers information about the participant's contact details, research involvement, and project specifics. This guide will walk you through the form fields and provide you with tips to ensure a smooth registration process.
 
 # Digital Classroom Research Collaboration Registration Form - Help Guide

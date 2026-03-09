@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Equipment Condition Monitoring Workshop Registration - Help Guide
 
 ## Purpose

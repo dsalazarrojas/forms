@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information from potential attendees for public health digital campaign training events. The purpose of the form is to gather necessary contact information, event preferences, and payment details from registrants. This form will help the organizers to efficiently manage event registrations and provide a smooth experience for the attendees.
-
-The form is designed to be user-friendly and adaptable to various event types. It includes fields for collecting attendee details, event preferences, and payment information. The form will be used to register participants for in-person and online events.
-
-</thinking>
-
 # Public Health Digital Campaign Training Registration Form - Help Guide
 ## Purpose
 This form collects necessary information from potential attendees to register for public health digital campaign training events. It is used to gather contact details, event preferences, and payment information to provide a smooth experience for attendees.

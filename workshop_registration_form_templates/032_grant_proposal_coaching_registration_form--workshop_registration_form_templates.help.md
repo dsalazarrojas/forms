@@ -1,7 +1,3 @@
-<thinking>
-This form, "Grant Proposal Coaching Registration Form," is a tool designed to help grant proposal coaching participants register their interest in participating in a coaching program. Before proceeding, please ensure that you have not already registered for this coaching program or have not been previously contacted for a grant proposal coaching opportunity. This form is intended to collect essential information from participants, including their contact information, coaching preferences, and goals. Please fill out the form carefully, as the information collected will be used to tailor coaching services to meet your specific needs.
-</thinking>
-
 # Grant Proposal Coaching Registration Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's quickly review the form's purpose and ensure it's not a duplicate effort. The form is designed to generate leads for photography workshops, and its purpose is to collect information about potential attendees. This form is likely intended to replace or complement existing forms, so let's double-check the current state of the workflow to avoid duplication of effort.</thinking>
-
 # Photography Workshop Lead Generation - Help Guide
 ## Purpose
 This form is designed to help generate leads for photography workshops. It's meant to collect information from potential attendees about their interests, preferences, and contact details.

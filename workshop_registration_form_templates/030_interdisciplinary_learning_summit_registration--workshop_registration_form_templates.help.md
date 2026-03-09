@@ -1,7 +1,3 @@
-<thinking>
-This guide helps ensure that the Interdisciplinary Learning Summit Registration form is completed accurately and consistently, reducing duplication and errors. It should only be accessed by individuals who are interested in registering for the summit. 
-</thinking>
-
 # Interdisciplinary Learning Summit Registration - Help Guide
 ## Purpose
 This guide is designed to assist users in understanding how to properly complete the Interdisciplinary Learning Summit Registration form, ensuring accurate and relevant submissions.

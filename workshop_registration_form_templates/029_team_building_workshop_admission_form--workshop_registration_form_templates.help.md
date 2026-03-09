@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from participants who are interested in attending a team building workshop. The form will help us understand the basics of each participant, such as their contact information and any special requirements they may have. It is essential that participants fill out this form accurately and completely to ensure their spot in the workshop is secured.
-
-</thinking>
-
 # Team Building Workshop Admission Form - Help Guide
 ## Purpose
 The Team Building Workshop Admission Form is a form designed to collect information from participants who are interested in attending a team building workshop.

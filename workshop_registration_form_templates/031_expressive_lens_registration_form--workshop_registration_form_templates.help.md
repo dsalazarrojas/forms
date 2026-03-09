@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering a participant in a workshop, likely for an expressive lens workshop given the name. This form likely serves to capture participant information for workshop organization and communication purposes. 
-The form does not have any fields that are specifically marked as "required", which may indicate that participants can choose not to fill out certain fields, but it's still important to understand the purpose of each field to ensure accurate registration. 
-</thinking>
 # Expressive Lens Registration Form - Help Guide
 ## Purpose
 This form is designed to capture information from participants for an expressive lens workshop. It is intended to be completed by workshop participants to register themselves for the workshop.

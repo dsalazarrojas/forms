@@ -1,5 +1,3 @@
-<thinking> This form is meant to be a tool for booking a leadership workshop for participants. It's designed to collect necessary information for the participant's registration, including booking details, participant's contact information, and confirmation details. This form should be used for internal purposes only and not for public consumption. It's crucial to ensure that participants are properly registered and their information is accurately recorded to avoid any confusion or duplication of bookings. </thinking>
-
 # Leadership Workshop Booking Form - Help Guide
 ## Purpose
 This form is used to register participants for a leadership workshop. It captures essential details such as booking date, time, and participant information.

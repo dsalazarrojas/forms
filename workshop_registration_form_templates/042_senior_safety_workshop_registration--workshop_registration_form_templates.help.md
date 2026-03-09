@@ -1,11 +1,3 @@
-<thinking>
-This form is used to register participants for a senior safety workshop. The purpose of this form is to gather essential information from participants to ensure their safe and enjoyable experience during the workshop. This form will be used by workshop administrators to verify participant registration and prepare for the workshop.
-
-Please note that you are not required to fill out this form if you have already registered for the workshop or if you are a workshop administrator.
-
-To fill out this form, please follow the instructions below.
-</thinking>
-
 # Senior Safety Workshop Registration - Help Guide
 ## Purpose
 This form is used to register participants for a senior safety workshop. Please ensure that you fill out all required fields accurately to ensure a smooth registration process.

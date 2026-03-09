@@ -1,5 +1,3 @@
-<thinking>...This form is used to register attendees for a workshop...This is a user-facing form, so it is designed for attendees to provide their personal information...It is assumed that the form will be filled out by one individual at a time, so no logic is required for checking for duplication...However, the internal application of the form can use the provided information for further processing and validation...The form is divided into several fields that are explained below...</thinking>
-
 # Workshop Sign In Form - Help Guide
 
 ## Purpose

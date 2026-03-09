@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to register teachers and students for a workshop or event, gathering essential details about the event, participants, and their institutions. This form should be completed by both teachers and their students to facilitate the registration process. To avoid errors, ensure you are registered as both a teacher and a student, and make sure your student's information matches your own.
-
-Please note that some fields are required to be filled out while others are optional. Ensure you fill out all the required fields to complete the registration process.
-
-</thinking>
-
 # Teacher Student Partnership Forum Registration - Help Guide
 ## Purpose
 The purpose of this form is to register teachers and students for a workshop or event. This form gathers essential details about the event, participants, and their institutions.

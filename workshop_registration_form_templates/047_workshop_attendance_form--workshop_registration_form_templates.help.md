@@ -1,8 +1,3 @@
-<thinking>
-This form is for registering attendees for a workshop, likely to be used for event management, tracking attendee information, and ensuring accurate attendance tracking. The form should be used for internal or public workshops, conferences, or events. The required fields are marked with an asterisk (*) to indicate that they must be filled in. To avoid duplicate registrations, please ensure that the form is submitted for each unique attendee.
-
-</thinking>
-
 # Workshop Attendance Form - Help Guide
 ## Purpose
 The Workshop Attendance Form is a tool used to collect information from workshop attendees, ensuring accurate attendance tracking and record keeping for events, conferences, or workshops.

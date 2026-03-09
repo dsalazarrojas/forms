@@ -1,7 +1,3 @@
-<thinking>
-The Innovative Pedagogy Symposium Registration form is a digital registration form designed to collect information from attendees for an event called the Innovative Pedagogy Symposium. This form is intended to help organizers collect relevant details from participants, including their session interests, accessibility needs, email address, phone number, and other attendee details. It is essential to ensure that this form is completed accurately and thoroughly to allow for effective communication and organization of the event.
-</thinking>
-
 # Innovative Pedagogy Symposium Registration - Help Guide
 ## Purpose
 This form is for attendees to register and provide their information for the Innovative Pedagogy Symposium.

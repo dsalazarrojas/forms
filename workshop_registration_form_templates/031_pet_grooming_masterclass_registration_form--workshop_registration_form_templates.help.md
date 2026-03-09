@@ -1,11 +1,3 @@
-<thinking>
-
-The form is intended for attendees to register for a pet grooming masterclass, where they can provide details about the session they want to attend, their information, pet information, session preferences, payment details, and any additional information they may want to share. This form is meant to gather all necessary information from attendees in a structured and organized manner, ensuring a smooth registration process.
-
-Before proceeding with the form, please ensure that you are registering for the correct session and not duplicating the process. If you have already registered for the session, please do not register again to avoid any inconvenience.
-
-</thinking>
-
 # pet_grooming_masterclass_registration_form - Help Guide
 ## Purpose
 The pet grooming masterclass registration form is designed for attendees to provide essential details about their session preferences and personal information to ensure a smooth and enjoyable experience at the event.

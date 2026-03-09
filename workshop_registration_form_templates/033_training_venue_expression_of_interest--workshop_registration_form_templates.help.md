@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help training venues express their interest in being listed on a training platform. It's intended for venues that offer training facilities and services to individuals or organizations. This form will help the platform administrators assess the venue's suitability and gather essential information about the venue. 
-
-To avoid duplication, please note that if you have already submitted an Expression Of Interest form for the same venue, you will be directed to the existing record after submitting this form. 
-
-</thinking>
-
 # Training Venue Expression Of Interest - Help Guide
 ## Purpose
 This form allows training venues to express their interest in being listed on our platform.

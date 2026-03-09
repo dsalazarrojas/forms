@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "heart_health_seminar_registration" form. The form is used for workshop registration, likely for attendees to sign up for a seminar on heart health. The purpose of this form is to collect necessary information from users to organize the event properly and provide a smooth experience for attendees. Before starting, let's ensure that this form is not being filled out for other purposes, such as for marketing or non-workshop events. This guide will explain each field's purpose to ensure users understand what to expect and how to complete the form correctly.
-</thinking>
-
 # heart_health_seminar_registration - Help Guide
 ## Purpose
 This form is for workshop registration for the heart health seminar. Please fill out this form to provide necessary information for a smooth and enjoyable experience at the event.

@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Employee Achievement Ceremony Registration" form, we need to understand the purpose of the form and its fields. This form is likely used to collect information from employees and their guests for a special event, such as an achievement ceremony. The fields may include employee and guest names, numbers, event details, RSVP information, and special requirements.
-
-The fields seem to be mostly optional, which suggests that the form is designed to provide a way for employees and their guests to register their interest in attending the event, rather than requiring a commitment from them. However, this requires further review of the form's internal logic and business rules to confirm.
-
-The form's fields seem to be designed to gather information that can be useful for event planning and organization, such as tracking RSVPs, managing guest numbers, and taking note of any special requirements.
-
-To avoid duplication, it would be good to ensure that the form is not used for other purposes that might conflict with this event's goals.
-
-</thinking>
-
 # Employee Achievement Ceremony Registration - Help Guide
 ## Purpose
 The Employee Achievement Ceremony Registration form is used to collect information from employees and their guests attending a special event, such as an achievement ceremony.

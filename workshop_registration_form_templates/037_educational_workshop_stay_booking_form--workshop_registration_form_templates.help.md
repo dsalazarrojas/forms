@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to register users for educational workshops, collecting information about the users and their workshop preferences. It is likely used internally to track user registrations and preferences for the workshops offered by the organization.
 
 This form should not be a one-time activity, but rather a recurring process. It is possible that this form is used to collect data for multiple workshops, not just one specific one.

@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to facilitate the registration process for health innovation camps, which is a type of workshop or event focused on health-related innovation. This form is likely used by organizers to collect contact information and preferences from attendees, allowing them to tailor the event to their needs and ensure sufficient resources for all participants. To ensure non-duplication, the form might be used in conjunction with other tools or systems that track event attendees and bookings. 
-</thinking>
-
 # health_innovation_camp_booking_form - Help Guide
 ## Purpose
 This form is used to register for the Health Innovation Camp event. You will be asked for your contact information and preferences for the event. This will help us tailor the event to your needs and make sure we have enough resources for all attendees.

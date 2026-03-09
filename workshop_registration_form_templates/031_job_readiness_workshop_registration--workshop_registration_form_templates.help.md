@@ -1,7 +1,3 @@
-<thinking>
-This form is used for participants to register for a job readiness workshop. The form is intended for collecting personal details of the participant, such as name, email, phone number, and date of birth. It also collects information about their job readiness score, job title, and job description. Furthermore, it collects workshop-specific details like workshop type, date, and participant status. This form is meant to be filled out by participants before they attend the workshop. Please ensure that you are eligible to register for the workshop and fill out the form accurately to avoid any issues with your registration.
-</thinking>
-
 # Job Readiness Workshop Registration - Help Guide
 ## Purpose
 This form is used to register participants for a job readiness workshop.

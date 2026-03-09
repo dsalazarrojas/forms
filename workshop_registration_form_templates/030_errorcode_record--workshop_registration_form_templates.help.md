@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Errorcode Record - Help Guide
 
 ## Purpose

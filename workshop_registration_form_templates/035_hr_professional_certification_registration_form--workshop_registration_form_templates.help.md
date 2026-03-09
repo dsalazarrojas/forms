@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to collect information about HR professionals and their certification details. It is intended for HR professionals who need to register their certifications for various purposes such as compliance, professional development, or internal records. This form is part of a larger system that will use the collected data to provide a comprehensive overview of certified HR professionals in the organization. 
-
-Before filling out this form, please ensure that you have already obtained the necessary certifications and have the required information readily available. The form is not meant to be a substitute for the actual certification process.
-
-Please complete this form accurately and thoroughly, as the information collected will be used for official purposes. If you are unsure about any of the fields, please refer to the explanations below.
-
-</thinking>
-
 # HR Professional Certification Registration Form - Help Guide
 ## Purpose
 This form is used to register HR professional certifications for tracking and record-keeping purposes.

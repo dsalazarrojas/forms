@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about events and workshops for internal review. It captures details such as event details, attendee information, affiliations, topics of interest, questions, and event type. This form will likely be used by event organizers to register their events with the internal review team. 
-</thinking>
-
 # fiscal_policy_review_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information about workshops and events for review and registration. It is a registration form for internal review.

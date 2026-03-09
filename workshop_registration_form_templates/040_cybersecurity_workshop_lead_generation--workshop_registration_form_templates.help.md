@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # cybersecurity_workshop_lead_generation - Help Guide
 ## Purpose
 The cybersecurity_workshop_lead_generation form is designed to collect information about workshop attendees to facilitate efficient lead generation and follow-up.

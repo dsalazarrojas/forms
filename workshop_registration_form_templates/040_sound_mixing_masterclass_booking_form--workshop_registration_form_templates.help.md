@@ -1,11 +1,3 @@
-<thinking>
-
-We are creating a user-facing help guide for the "Sound Mixing Masterclass Booking Form". This form is designed to collect information from users who want to book a workshop or masterclass in sound mixing. The purpose of the form is to gather necessary details about the user, such as their name, contact information, and preferences for the workshop or masterclass they wish to attend. The form is intended for individuals who are interested in sound mixing and want to learn more about this specific topic. 
-
-We will review the form carefully to ensure that the required information is provided and that the user understands the form's requirements. We will also review the form for any potential duplication of information or unnecessary fields.
-
-</thinking>
-
 # Sound Mixing Masterclass Booking Form - Help Guide
 ## Purpose
 The Sound Mixing Masterclass Booking Form is designed to collect information from users who want to book a workshop or masterclass in sound mixing. This form helps us understand the user's needs and preferences for the workshop, ensuring we can tailor the event to their interests and provide a better experience.

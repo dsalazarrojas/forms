@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Learning And Growth Week Registration - Help Guide
 ## Purpose
 This form is used to register participants for the Employee Learning And Growth Week program. Please fill out this form to provide your information and preferences for the event. If you have already registered for this event, please do not submit the form again. Duplicate registrations are not accepted.

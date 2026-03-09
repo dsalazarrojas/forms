@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information for the "interior design workshop" registration process. The purpose of this form is to collect details about a specific workshop, its participants, and their registration status. This form will be used by workshop organizers or administrators to track and manage workshop bookings.
-
-To avoid duplication and ensure relevance, please review the form carefully before filling it out. This form is intended for workshop organizers and participants who need to register for the interior design workshop.
-
-</thinking>
-
 # interior_design_workshop_booking_form - Help Guide
 ## Purpose
 The interior design workshop booking form is used to collect information about workshop participants and their registration status for the interior design workshop.

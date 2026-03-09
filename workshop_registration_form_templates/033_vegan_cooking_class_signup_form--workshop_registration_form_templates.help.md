@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect data from individuals interested in registering for a vegan cooking class. The form is structured into four main sections: User Information, Class Information, Participant Information, and Payment Information. 
-Each section contains text fields, which are used to input various types of information. This form does not involve any advanced logic or dependencies between fields.
-</thinking>
-
 # Vegan Cooking Class Signup Form - Help Guide
 ## Purpose
 This form is designed to gather details about individuals who wish to participate in a vegan cooking class.

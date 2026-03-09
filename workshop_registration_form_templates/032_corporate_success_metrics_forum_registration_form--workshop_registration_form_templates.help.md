@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to register users for a Corporate Success Metrics Forum. The form will be used to capture event preferences and manage data collection for the attendees. The purpose of this form is to ensure that all necessary information is collected and recorded accurately. Please note that this form is not intended for actual form submission, but rather as a template for creating form templates. Ensure that you are not duplicating the form or using it for a different purpose than intended.
-
-</thinking>
-
 # Corporate Success Metrics Forum Registration Form - Help Guide
 ## Purpose
 The Corporate Success Metrics Forum Registration Form is a template for creating form templates to register users for a Corporate Success Metrics Forum. It is designed to capture event preferences and manage data collection for attendees.

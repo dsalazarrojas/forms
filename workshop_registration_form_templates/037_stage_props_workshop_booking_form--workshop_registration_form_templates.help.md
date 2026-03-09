@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a booking form for a workshop, used to schedule and manage registrations for a stage props workshop. It is likely used by administrators or organizers to register participants and manage their information. This form should be filled out by workshop administrators or staff members to efficiently manage bookings and registrations.
-
-</thinking>
-
 # Stage Props Workshop Booking Form - Help Guide
 ## Purpose
 The Stage Props Workshop Booking Form is a tool for managing workshop registrations. It gathers essential participant and workshop details to ensure smooth and efficient scheduling and coordination.

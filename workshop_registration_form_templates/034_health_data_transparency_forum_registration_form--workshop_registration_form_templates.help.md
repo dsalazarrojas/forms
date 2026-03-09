@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect data from users who want to register for the Health Data Transparency Forum. The purpose of this form is to gather essential information about the user and their interests in the workshop. This form will be used to create a database of users interested in the workshop, and their preferences for attending it. The fields included are intended to provide the necessary details for organizing the workshop, including the user's contact information, workshop preferences, and personal notes. 
-</thinking>
 # health_data_transparency_forum_registration_form - Help Guide
 ## Purpose
 This form is designed to help the Health Data Transparency Forum organizers gather information from users interested in registering for the workshop. Please fill out this form to let us know about your interest in the workshop.

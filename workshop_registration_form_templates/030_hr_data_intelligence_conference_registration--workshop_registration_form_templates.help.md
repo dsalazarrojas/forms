@@ -1,8 +1,3 @@
-<thinking> 
-This form was created using AI to generate a registration form for HR Data Intelligence Conference. The purpose of this form is to collect registration information from attendees. The form is designed to be simple and easy to use. However, it may seem repetitive or confusing due to its structure and the large number of job title fields, which seems to be an error in the original form schema. This guide aims to clarify the form's purpose and each field's meaning.
-
-Please review each field to ensure it is relevant and not a duplication. If you find any issues, contact form@gic.mx.</thinking>
-
 # HR Data Intelligence Conference Registration - Help Guide
 ## Purpose
 The HR Data Intelligence Conference Registration form is designed to collect registration information from attendees. It is used to gather details about each attendee, including their name, job title, email, and organization.
