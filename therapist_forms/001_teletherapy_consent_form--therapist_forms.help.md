@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from patients before they receive teletherapy services. The purpose of this form is to collect the patient's contact information, sign an informed consent, and obtain their signature for future reference. It's essential to ensure that each field is completed accurately and thoroughly to provide the best possible service to the patient.
-</thinking>
-
 # teletherapy_consent_form - Help Guide
 ## Purpose
 The Teletherapy Consent Form is used to gather essential information from patients before they start receiving teletherapy services. This form aims to collect the patient's basic contact details, informed consent for the telehealth services, and obtain their signature.

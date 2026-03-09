@@ -1,7 +1,3 @@
-<thinking>
-This form is a contact form intended to gather information from customers or users about their thanksgiving-related inquiries, concerns, or suggestions. It captures basic contact information such as name, email, and phone number, as well as a comment for additional context. The form also includes a select_one field for categorizing the nature of the contact. This form will be used by customer service teams to respond to and address the inquiries. To avoid duplicates, this form should only be used for new inquiries.
-</thinking>
-
 # thanksgiving_contact_form - Help Guide
 
 ## Purpose

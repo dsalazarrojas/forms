@@ -1,7 +1,3 @@
-<thinking>
-Please ensure that this form is used for its intended purpose and that users understand the context in which it applies. This form is for patient consent for telemedicine services. Before filling out this form, please review the information on your own and ask questions if you are unsure. If you are not authorized to fill out this form, please contact your healthcare provider for further assistance. This form should not be used for other purposes without permission.
-</thinking>
-
 # telemedicine_consent_form - Help Guide
 ## Purpose
 The telemedicine_consent_form is a form used to obtain patient consent for telemedicine services. This form is typically filled out by the patient before starting a telemedicine appointment or session.

@@ -1,8 +1,3 @@
-<thinking>
-This guide will walk through the creation and completion of the Group Meeting Log form. This form is intended for employees to record and report details about group meetings. The form is used by managers and team leaders to keep track of meetings, who attended, and meeting status. This form will be used for administrative purposes only and is not intended for public use. Please ensure that you are authorized to access and complete this form before proceeding.
-
-</thinking>
-
 # Group Meeting Log - Help Guide
 ## Purpose
 The Group Meeting Log form is used to record and report details about group meetings. It helps managers and team leaders track who attended meetings, meeting status, and other important meeting details.

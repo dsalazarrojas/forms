@@ -1,14 +1,3 @@
-<thinking>
-We will design a user-facing help guide for the Cholesterol Screening Form. This form is intended to collect patient information for screening and monitoring of cholesterol levels. The form is used for patients undergoing a cholesterol screening test and is divided into two sections: patient information and screening information. 
-
-We will check that the form is relevant to patients undergoing a medical screening and not duplicating any other form.
-
-To complete this form, the patient will provide personal details such as name, date of birth, contact information, and medical history. The form will ask about the patient's cholesterol screening results, including test readings and risk assessment. The patient will also be asked about their lifestyle factors, such as diet, exercise frequency, and smoking status. Additionally, the patient will be asked about their medical conditions and medications.
-
-The form includes fields for height and weight, blood pressure, and other medical conditions. The patient will be asked to sign a consent form and provide a digital signature. The form will also include fields for the healthcare provider to take notes and make recommendations.
-
-</thinking>
-
 # Cholesterol Screening Form - Help Guide
 ## Purpose
 The Cholesterol Screening Form is a patient-facing form used for collecting personal and medical information for cholesterol screening and monitoring. The form is used for patients undergoing a cholesterol screening test and helps healthcare providers assess the patient's risk level and make recommendations for lifestyle changes and potential medication.

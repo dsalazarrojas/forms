@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information from users about their Thanksgiving party plans, including their name, address, what they will bring, if they will share food, when they will arrive, when they will leave, the number of guests they will bring, their phone number, email address, any additional notes, and who they are assigned to. This form is not intended to be filled out by users who are not part of a Thanksgiving party.</thinking>
-
 # Thanksgiving Party Signup Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users about their Thanksgiving party plans and preferences.

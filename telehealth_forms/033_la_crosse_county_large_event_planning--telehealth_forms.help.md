@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for planning and management of large events in La Crosse County. It is meant to gather information about events such as their name, location, description, and other relevant details. This form is not intended for general event registration or RSVP purposes. To avoid data duplication, please ensure that you only fill out this form once per event.
-</thinking>
-
 # La Crosse County Large Event Planning - Help Guide
 ## Purpose
 

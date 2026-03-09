@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information related to a patient's women's health, including routine check-ups, medical history, symptoms, and other related health information. This form aims to gather a comprehensive understanding of the patient's health status, facilitating better care and treatment. To ensure the collected data is valid and non-duplicative, the system checks for relevance and non-duplication before submitting the form.
-
-</thinking>
-
 # Women's Health Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather comprehensive information about a patient's women's health, facilitating better care and treatment.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information about website development projects that require pre-screening. The form asks for general project information, including project title, category, and description, as well as specific details about the project's goals, budget, timeline, and priorities. The form also gathers data on lead capture methods, sources, and qualification processes. This information will be used to assess project requirements and feasibility.
-</thinking>
-
 # Website Development Pre Screening Survey - Help Guide
 ## Purpose
 This form is a questionnaire designed to gather information about website development projects that need pre-screening. It's essential to fill it out accurately to ensure that all necessary details are captured.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Defect Inspection Report Form - Help Guide
 ## Purpose
 This form is designed to record defects found during an inspection of inspected items. The form captures the essential information needed to report and document defects, including the date and time of the inspection, the items inspected, and any defects found.

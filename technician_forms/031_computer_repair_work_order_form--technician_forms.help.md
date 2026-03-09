@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for technicians to document and submit work orders for computer repairs. It should be used to record and track information about a computer's problem category, operating system, and other details required to complete a repair. Ensure the fields are accurately filled out before submitting the form to prevent delays in service and billing errors. Please review each field below for accurate and complete information.
-</thinking>
-
 # Computer Repair Work Order Form - Help Guide
 ## Purpose
 The Computer Repair Work Order Form is designed for technicians to collect and document information needed to complete computer repairs.

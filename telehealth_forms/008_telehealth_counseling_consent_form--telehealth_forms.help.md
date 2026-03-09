@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture patient consent for telehealth counseling services. The form is divided into four sections: Patient Consent, Patient Information, Provider Information, and Provider Phone. 
-
-The purpose of this form is to ensure that the patient understands and agrees to the terms of their telehealth counseling service. This form will be used to inform patients about the services offered, any potential risks or benefits, and the patient's role in the process. 
-
-To avoid duplication of effort, it's essential to ensure that this form is completed accurately and thoroughly. 
-
-</thinking>
-
 # Telehealth Counseling Consent Form - Help Guide
 ## Purpose
 The Telehealth Counseling Consent Form is a document that requires patients to provide consent for telehealth counseling services. This form ensures that patients understand their rights, responsibilities, and the services they will receive.

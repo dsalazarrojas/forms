@@ -1,12 +1,3 @@
-<thinking>
-This form is used for tenants to provide their consent for access to the building's Wi-Fi access program. The form is designed to collect basic information about the tenant and their agreement to the terms of the program. 
-
-To ensure accuracy and relevance, please note that this form is intended for tenants who are already physically present in the building. If you're not a tenant, you won't be able to access the program. 
-
-To avoid duplication, please ensure that each tenant only fills out this form once. 
-
-</thinking>
-
 # Tenant Wi-Fi Access Program Consent Form - Help Guide
 
 ## Purpose

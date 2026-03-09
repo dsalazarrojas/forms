@@ -1,10 +1,3 @@
-<thinking>
-This form is used for patients to provide their information and medical history. It is used to collect data for a telehealth service.
-It is intended for patients to fill out their information, medical history, and preferences.
-The form is designed to be completed by patients, with each field being a specific section of the form that needs to be filled out.
-The form will be used to determine the patient's medical needs and preferences.
-</thinking>
-
 # Telegroup Guidelines And Agreement (ENGSPANISH) - Help Guide
 ## Purpose
 This form is used to collect patient information and medical history for a telehealth service. The purpose of this form is to provide the necessary information for the healthcare provider to assess the patient's medical needs and preferences.

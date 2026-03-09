@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about the hand tracking feature of a system or application. It's meant to gauge their overall satisfaction and provide a feature rating and comments. This feedback will help us understand what users think about the hand tracking feature and identify areas for improvement. 
-</thinking>
-
 # Hand Tracking Feature Feedback - Help Guide
 
 ## Purpose

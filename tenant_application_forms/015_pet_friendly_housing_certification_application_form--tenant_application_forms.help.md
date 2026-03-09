@@ -1,7 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's ensure that this form is intended to collect necessary information from tenants applying for pet-friendly housing. This form might be used by landlords or property managers to evaluate the pet-friendliness of a potential tenant's pet. It's essential to understand the purpose and relevance of each field to provide a clear and concise explanation. Additionally, we should avoid duplication of information that may already be collected through other means, such as the rental application process.
-
-This guide will walk the user through the form step-by-step, explaining each field's purpose and required information in a clear and concise manner. The guide will also provide tips to help users complete the form efficiently and effectively.</thinking>
-
 # Pet Friendly Housing Certification Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from tenants about their pet's details, health, and vaccination records, as well as their own contact and address information. This information will help landlords or property managers evaluate the pet-friendliness of a potential tenant's pet.

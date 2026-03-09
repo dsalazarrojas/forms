@@ -1,13 +1,3 @@
-<thinking>... internal reasoning block to check for form purpose and non-duplication
-
-To create the form, I will check if the form is a simple report form for employees to document their work hours spent, breaks, and tasks completed at the end of the day. I will ensure that the form doesn't duplicate any other form in the company, as per the context provided.
-
-After reviewing the form schema, I notice that it includes fields for tracking work hours spent, work location, notes, tasks completed, and other relevant details. The form is designed to gather data from employees at the end of their workday to provide insights into their productivity and work habits.
-
-Given the form's purpose and design, it's clear that the form is intended for internal use within the company to monitor employee work habits and ensure that the employee is accurately reporting their work hours and tasks completed.
-
-</thinking>
-
 # Employee End Of Day Report - Help Guide
 ## Purpose
 This form is a simple report form for employees to document their work hours spent, breaks, and tasks completed at the end of the day.

@@ -1,11 +1,3 @@
-<thinking>
-The "GPT Configuration Survey" form is designed to gather user preferences and feedback on the GPT (Generative Pre-trained Transformer) interface. This form is intended to be filled out by users who have interacted with the GPT interface, and their responses will help us understand how to improve the interface and better serve their needs.
-
-To avoid duplication, please only fill out this form if you have not already provided feedback or responded to similar surveys in the past.
-
-This form is not intended to be a substitute for other feedback channels or support requests. If you have specific issues or concerns, please reach out to us through other established channels.
-</thinking>
-
 # GPT Configuration Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather user preferences and feedback on the GPT interface. Your input will help us improve the interface and better serve your needs.

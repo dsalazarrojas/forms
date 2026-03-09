@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in completing the Social Media Ethics Survey form effectively and accurately. The form is designed to gather information on users' attitudes, behavior, and experiences with social media, which will help researchers understand social media ethics and user perspectives. It is crucial to ensure that users understand the form's purpose, which is to collect data for academic research, and to provide accurate and honest responses to the questions.
-
-Upon reviewing the form, we can see that the questions cover various aspects of social media, including users' experiences, attitudes, and behaviors. Some questions, such as "social media platforms" and "age," have multiple-choice options, while others, like "review," require a more detailed response. The form is divided into several sections, including demographics and questions about specific social media-related topics.
-
-To complete the form, users should start by reading each question carefully and choosing the most accurate response. For questions with multiple-choice options, users should select the answer that best reflects their experience or attitude. For questions that require a numerical response, users should enter their age in the format specified.
-
-Given the form's structure and questions, users should be able to complete it within a reasonable amount of time. It is essential to answer all questions honestly and to the best of their ability, as this will help ensure that the data collected is accurate and reliable.</thinking>
-
 # Social Media Ethics Survey - Help Guide
 ## Purpose
 

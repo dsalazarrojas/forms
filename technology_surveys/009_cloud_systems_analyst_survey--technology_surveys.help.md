@@ -1,7 +1,3 @@
-<thinking>
-This survey is designed to gather feedback from Cloud Systems Analysts about their experience, satisfaction, and challenges in their role. Please note that this guide is intended for end-users who are respondents to the survey. If you are the survey owner, please ensure that the respondents understand the purpose of this guide and that it is not a duplicate submission.
-</thinking>
-
 # Cloud Systems Analyst Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your experiences and opinions as a Cloud Systems Analyst. Your input will help us understand your needs and challenges in the field and inform future development and support for cloud-based systems.

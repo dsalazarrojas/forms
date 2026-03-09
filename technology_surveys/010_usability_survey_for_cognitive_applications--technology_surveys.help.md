@@ -1,13 +1,3 @@
-<thinking>
-
-The form is designed to gather feedback and ratings from users about the usability of cognitive applications. It is meant to be filled out by users who have used a cognitive application and want to provide their input on its usability. The data collected will help developers improve the application's usability and user experience.
-
-This form is not intended for internal use, but rather for gathering feedback from external users. Therefore, only users who have experience with the application should fill out this form.
-
-The form is a one-time submission form, and users will not be able to submit duplicate ratings.
-
-</thinking>
-
 # Usability Survey For Cognitive Applications - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and ratings from users about the usability of cognitive applications. It is meant to be filled out by users who have used a cognitive application and want to provide their input on its usability.

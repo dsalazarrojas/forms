@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be used by HVAC service staff to schedule service requests for their customers. The form is designed to be completed by the customer to provide essential details about the service required. This form will help to ensure that the customer's request is handled efficiently and accurately, reducing errors and miscommunication.
-
-Before filling this form, please make sure that you have not already completed this form for the same customer in the past 30 days. If you're unsure, please contact our support team to verify whether a similar form has already been completed recently.
-
-This form is designed to be completed by the customer, but if you're a technician, you may be able to fill in some fields as a representative for the customer. However, please use this option only with the customer's explicit consent. If you're a technician, please ensure that you're only filling in fields that are marked as optional or that you're explicitly authorized to fill in.
-
-</thinking>
 # HVAC Service Scheduling Request Form - Help Guide
 
 ## Purpose

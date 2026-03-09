@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their experience with a software application. The form's purpose is to gather information on the user's satisfaction level with the software, their usage frequency, and their opinions on its usability and feature set. The form is intended to be a simple and user-friendly way to collect qualitative feedback that can be used by the software development team to improve the product. To ensure that the same feedback is not duplicated, users are encouraged to only complete the form once per software evaluation.
-
-</thinking>
-
 # Software Evaluation Form - Help Guide
 ## Purpose
 This form is a feedback collection tool designed to help us improve our software application. Please take a few minutes to share your honest opinions about your recent experience.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information for the COVID-19 contact investigation process. It's essential to ensure that every person who has been exposed to COVID-19 can provide accurate and thorough information about themselves and their interactions with others. This process helps prevent the spread of the virus and allows healthcare professionals to take necessary precautions to protect others. Please ensure that you only fill out this form if you have been exposed to someone diagnosed with COVID-19 or if you are experiencing symptoms. 
-
-Before filling out this form, please review your answers to ensure that you are not duplicating information that may have already been provided to healthcare professionals or in a previous form.
-
-</thinking>
-
 # COVID 19 Contact Investigation Form - Help Guide
 ## Purpose
 This form is designed to gather information for the COVID-19 contact investigation process. It will help healthcare professionals to understand your interactions with others, identify potential risks, and take necessary precautions to prevent the spread of the virus.

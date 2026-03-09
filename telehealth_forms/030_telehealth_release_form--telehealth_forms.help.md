@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Telehealth Release Form - Help Guide
 ## Purpose
 The Telehealth Release Form is used to obtain consent from patients for the release of their medical information to third-party providers for telehealth services. This form is a mandatory step in the telehealth process to ensure that patients understand and agree to the release of their information.

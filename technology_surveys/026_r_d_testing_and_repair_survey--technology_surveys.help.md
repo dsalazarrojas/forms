@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about the testing and repair process of equipment. The purpose of this form is to gather data about the status of equipment, the outcome of tests, and any issues that were found during the testing process. This form is intended for use by personnel in the R&D department to record and track the testing and repair process. It is not designed for public use. Please ensure that you are logging in with valid credentials to access this form.
-
-Form submission will trigger automated processing and reporting. Please fill out the form accurately and completely to ensure that your data is recorded correctly. If you are unsure about any field, please refer to the field-by-field explanation below.
-
-</thinking>
-
 # R&D Testing And Repair Survey - Help Guide
 ## Purpose
 The R&D Testing And Repair Survey is a form used to collect information about the testing and repair process of equipment. This form is intended for use by personnel in the R&D department to record and track the testing and repair process.

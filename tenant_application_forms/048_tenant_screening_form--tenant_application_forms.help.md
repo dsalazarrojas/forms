@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for tenant screening purposes, likely for landlords or property managers to gather necessary information from potential tenants. Its primary goal is to collect detailed data about the applicant, including contact and address information, employment status, and rental history. This form also includes fields for income proof, employment frequency, and lease terms, which suggests it is meant to be used for rental property management.
-
-Before starting, ensure that the applicant has not already completed a similar form for the same purpose, as this may cause duplication of effort and unnecessary data collection. Ensure that the form is filled out accurately and comprehensively to avoid any issues with the application process.
-</thinking>
-
 # Tenant Screening Form - Help Guide
 ## Purpose
 The Tenant Screening Form is designed to collect essential information from potential tenants for rental property management purposes.

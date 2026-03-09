@@ -1,11 +1,3 @@
-<thinking>
-
-As an expert form designer and technical writer, I'd like to explain the purpose and requirements surrounding this leave or remote work request form. This form is intended to be used for employees to request leave or remote work arrangements, which can help balance work-life needs and improve productivity. The form is likely to be used by HR or department managers to review and manage leave or remote work requests in a structured and organized manner.
-
-Before proceeding, let's ensure that the form is not being used for duplicate or non-relevant purposes. This form is designed to cater to specific needs and should not be used for other types of requests or purposes. If you're unsure about the form's purpose or have questions, please review the following help guide to get the most out of this form.
-
-</thinking>
-
 # leave_or_remote_work_request_form - Help Guide
 
 ## Purpose

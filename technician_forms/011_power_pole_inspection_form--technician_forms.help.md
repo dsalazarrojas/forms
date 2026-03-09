@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by field personnel to inspect power poles and gather information about their condition and maintenance history. The purpose of this form is to ensure that power poles are properly maintained and inspected to prevent accidents and ensure public safety. This form should only be used for the inspection of power poles and not for other types of inspections or maintenance reports.
-</thinking>
-
 # Power Pole Inspection Form - Help Guide
 ## Purpose
 This form is used to document the inspection of power poles, including their condition, maintenance history, and any necessary repairs or replacements. It is intended for use by field personnel to gather information about power poles and ensure they are properly maintained.

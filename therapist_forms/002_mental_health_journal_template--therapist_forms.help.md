@@ -1,10 +1,3 @@
-<thinking>
-This template is designed to be a comprehensive mental health journal for individuals to track their daily mental health, emotions, and progress. The form is meant for personal use and is not intended to be a diagnostic or therapeutic tool. It is recommended that users complete each section as thoroughly as possible, being as honest as they can with themselves. Please note that some fields may be left blank if they do not apply to the user's current situation.
-
-To get the most out of this template, try to complete each section daily and reflect on the progress over time.
-
-</thinking>
-
 # Mental Health Journal Template - Help Guide
 ## Purpose
 This form is designed to help individuals track their mental health, emotions, and progress over time. It includes various sections to collect information on daily mood, emotions, physical symptoms, thoughts, and more. Completing this form will help users identify patterns and trends in their mental health, making it easier to reflect on their progress and seek help when needed.

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather information about the practice management software used by respondents. It aims to collect data on the current usage, implementation status, satisfaction levels, and future plans related to the software. This form is designed to be completed by individuals who have hands-on experience with practice management software. By completing this form, respondents will be able to provide valuable insights into their experiences with the software, which will help in improving its development and future releases. Please ensure that you have not completed this form in the past 2 years and that you have hands-on experience with practice management software.</thinking>
-
 # Practice Management Software Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your experience with practice management software. Your responses will help us improve the software and create a better experience for future users.

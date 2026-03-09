@@ -1,9 +1,3 @@
-<thinking>
-This form is a part of a larger process for retailers to apply to participate in a retail technology pilot program. The purpose of this form is to gather information from retailers about their current technology needs and pain points, as well as to collect details about the solutions they are interested in implementing.
-To ensure that this form is only completed by eligible retailers, please note that only retailers who meet the criteria outlined in the program's guidelines should proceed with filling out this form. If you are unsure about your eligibility, please reach out to the program administrators before starting the form.
-This form is designed to be completed by a single user, and the answers should be based on the retailer's own experiences and opinions. The information collected will be used to help guide the pilot program's development and decision-making process.
-</thinking>
-
 # retail-technology-pilot-application-form - Help Guide
 ## Purpose
 The purpose of this form is to help retailers apply for the retail technology pilot program. It gathers information about their current technology needs and pain points, as well as details about the solutions they are interested in implementing.

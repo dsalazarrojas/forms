@@ -1,8 +1,3 @@
-<thinking>
-Internal note: This form is for registering the responsible individuals for technology use. It should not be filled if you're just visiting our site as a guest.
-This form helps to track who is using our technology and ensures that the responsible individuals have the necessary training and qualifications to use it securely. Before filling out this form, make sure you've filled out our training sessions and have the required permissions to use our technology. To avoid duplication, please check our database first to see if your organization has already registered.
-</thinking>
-
 # Responsible Technology Use Registration - Help Guide
 ## Purpose
 This form is for registering the responsible individuals for technology use. It helps us to track who is using our technology and ensures that the responsible individuals have the necessary training and qualifications to use it securely.

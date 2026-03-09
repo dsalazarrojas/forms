@@ -1,5 +1,3 @@
-<thinking>As a technical writer, I need to understand the form's purpose and the fields it contains to create an effective help guide.</thinking>
-
 # Report An Issue Form - Help Guide
 ## Purpose
 The Report An Issue Form is designed to collect information about issues reported by users, allowing your team to efficiently track and resolve these issues. Please use this form to report any problems, errors, or concerns you're experiencing, and we'll do our best to address them promptly.

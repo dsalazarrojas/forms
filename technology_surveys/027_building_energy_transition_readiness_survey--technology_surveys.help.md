@@ -1,7 +1,3 @@
-<thinking>
-We're creating this guide to help building owners and facility managers understand how to fill out the Building Energy Transition Readiness Survey form. This form is designed to help assess a building's readiness for energy upgrades and transitions. It's essential to provide accurate and honest information to help us better understand the building's current state and identify areas for improvement. Please ensure you only answer the questions that apply to your building, and be as specific as possible when providing information. This survey should not be completed multiple times; each answer set should reflect the current state of your building. This guide will walk you through each section and explain what each field means and how to complete it accurately.
-</thinking>
-
 # Building Energy Transition Readiness Survey - Help Guide
 
 ## Purpose

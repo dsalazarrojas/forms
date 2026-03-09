@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Editing Tools Assessment - Help Guide
+> # Editing Tools Assessment - Help Guide
 
 ## Purpose
 This form is designed to gather information about your team's editing tools needs and preferences. The goal is to assess how well your team's editing tools are meeting their requirements and identify areas where improvements can be made. The form will help us better understand your team's needs and provide guidance on tools that would be beneficial for your team.

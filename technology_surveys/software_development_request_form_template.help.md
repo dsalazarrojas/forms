@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback on the software development request process and user experience. The purpose of this form is to collect data on how users perceive the ease of use, speed, clarity, and overall satisfaction with the software development request process. The feedback collected will help the development team to identify areas of improvement and make necessary adjustments to enhance the user experience.
-
-</thinking>
-
 # software_development_request_form_template - Help Guide
 ## Purpose
 This form is designed to gather feedback on the software development request process and user experience, with the aim of identifying areas of improvement and enhancing the user interface.

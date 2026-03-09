@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Work From Home Request Form - Help Guide
 
 ## Purpose

@@ -1,20 +1,3 @@
-<thinking>
-This form is intended to collect information about foreign object incidents, which likely refers to incidents involving objects or items that are not native to the environment or location where the incident occurred. The purpose of this form is to gather details about these incidents, including their nature, location, and the information provided by the reporting technician. The form is not meant to be a comprehensive report, but rather a quick and concise way to capture essential information.
-
-Given the current schema, it's likely that the form is used in a field or operational setting where incidents may not be frequent or routine, and the focus is on gathering basic information for initial assessment and response.
-
-There is no indication that this form is a survey or a form with conditional logic, so it is probably a simple, single-page form. The "Foreign Object Incident Report Form" title and the "Incident Report" page label suggest that the form is used to report incidents involving foreign objects.
-
-It's worth noting that all fields in the schema appear to be text fields, which implies that the form is designed for collecting narrative or descriptive information rather than numerical or yes/no data.
-
-Before filling out this form, please make sure you are reporting an incident involving a foreign object and that you have all the necessary information readily available.
-
-Please fill out this form to report incidents in a clear and concise manner, and make sure to provide as much detail as possible. If you are unsure about any information, please leave it blank or note that you are unsure.
-
-After filling out this form, make sure to review your responses for accuracy and completeness before submitting the report.
-
-</thinking>
-
 # Foreign Object Incident Report Form - Help Guide
 ## Purpose
 This form is used to report incidents involving foreign objects in a clear and concise manner.

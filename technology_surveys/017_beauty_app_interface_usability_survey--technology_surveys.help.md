@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect opinions and feedback from users about the usability of a Beauty App. It is intended to assess the respondent's experience with the app's interface, features, performance, and overall satisfaction. The form's purpose is to identify areas of improvement and provide insight for the app developers to make informed decisions about future updates and enhancements. To ensure the accuracy and relevance of the survey, it is recommended that users respond based on their actual experience with the Beauty App.
-</thinking>
-
 # Beauty App Interface Usability Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback from users on the usability of a Beauty App's interface and features.

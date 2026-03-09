@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the form is for collecting information from patients related to upper extremity consultations, which likely involves hands and arms. This form is designed to gather detailed information about the patient's condition, medical history, and other relevant details. The fields are likely tailored to accommodate this specific use case. This form does not appear to be a duplicate of other forms, and its fields are not redundant, so we can proceed with creating the user-facing guide.
-</thinking>
-
 # Upper Extremity Consultation Form - Help Guide
 ## Purpose
 The Upper Extremity Consultation Form is designed to collect information from patients about their upper extremity condition, medical history, and other relevant details.

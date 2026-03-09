@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from tenants or individuals applying for a rental property or lease. The form is part of the tenant digital portal pilot application process. This guide is intended for end-users who need to fill out this form to provide the required information. Please ensure this form is not filled out for the same purpose or person in the past to avoid any confusion or duplication of data.
-</thinking>
-
 # tenant_digital_portal_pilot_application_form - Help Guide
 ## Purpose
 The tenant_digital_portal_pilot_application_form is a form designed to collect information from tenants or individuals applying for a rental property or lease. This form is part of the digital tenant portal and is used to gather relevant details necessary for the application process.

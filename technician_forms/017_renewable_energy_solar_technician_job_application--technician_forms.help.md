@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for individuals interested in applying for a position as a Renewable Energy Solar Technician. It's essential to ensure the submitted applications are complete and accurate to facilitate the hiring process.
-
-To complete this form, follow the steps below. Please note that this form is not affiliated with or endorsed by any specific platform, but rather a generated form designed for general use.
-
-</thinking>
-
 # Renewable Energy Solar Technician Job Application - Help Guide
 ## Purpose
 This form is intended for applicants who wish to apply for a position as a Renewable Energy Solar Technician. It will help the hiring manager to understand your background, qualifications, and experience in the field.

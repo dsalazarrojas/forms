@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for the "Ketamine Therapy Consent Form", let's first clarify its purpose. This form is intended for patients to provide informed consent for ketamine therapy, a type of treatment typically used for mental health conditions such as depression, anxiety, or post-traumatic stress disorder (PTSD). The form likely requires patients to disclose their medical history, personal details, and agree to treatment terms. As a result, the form is a crucial document for both patients and medical professionals to ensure a safe and effective therapeutic relationship.
-
-Before proceeding, ensure that you're not creating another instance of this form for the same purpose and context. Duplicate efforts can lead to unnecessary work and potential inconsistencies.
-
-</thinking>
-
 # Ketamine Therapy Consent Form - Help Guide
 ## Purpose
 

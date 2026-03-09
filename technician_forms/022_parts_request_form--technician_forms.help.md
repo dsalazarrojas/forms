@@ -1,8 +1,3 @@
-<thinking>
-  This form is used for requesting parts from a customer or internal team member. It is designed to collect relevant information about the customer, contact details, part specifications, and special requests. This form reduces duplication of effort and ensures that all necessary information is collected in a single, easy-to-use interface.
-  Before filling out this form, please make sure that the parts request is not already in process. Check the internal database or previous requests from the customer to avoid submitting duplicate requests.
-</thinking>
-
 # parts_request_form - Help Guide
 ## Purpose
 The parts_request_form is used to request parts from a customer or internal team member.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on the browsing habits of users, including their age group, primary browser used, average daily browsing hours, privacy concerns, common device used for browsing, frequency of clearing browsing history, and use of private mode. This form is designed to be a self-service tool for respondents to provide information about their browsing habits, which will help our team to better understand how users interact with the web and identify areas for improvement.
-</thinking>
-
 # Browsing History Survey - Help Guide
 ## Purpose
 The Browsing History Survey is a collection of questions designed to gather information about users' browsing habits, helping us to better understand their behavior and improve our services.

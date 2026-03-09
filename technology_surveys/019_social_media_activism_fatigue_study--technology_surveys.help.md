@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on individuals' experiences with social media activism. It's meant to gauge the impact of social media on users' emotional and psychological well-being, as well as their perceptions of social media platforms and content. This form is likely part of a larger research or study on the effects of social media activism.
-</thinking>
-
 # Social Media Activism Fatigue Study - Help Guide
 
 ## Purpose

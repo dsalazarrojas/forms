@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect feedback from patients after a hypnotherapy session. The purpose of this form is to gather information about the session's effectiveness, the patient's experience, and any notable outcomes or challenges that arose during the session. The form is intended to be completed by the patient, and the data collected will be used to improve future sessions and services provided by the hypnotherapy practice. To ensure the form is completed by the correct individuals, it's best to only allow patients who have attended a hypnotherapy session to access this form.
-</thinking>
-
 # Hypnotherapy Session Feedback - Help Guide
 ## Purpose
 This form is used to collect feedback and information from patients after a hypnotherapy session, helping the practice to refine and improve its services.

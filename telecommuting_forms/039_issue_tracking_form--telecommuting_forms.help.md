@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to track issues that have occurred within a team or company. It's essential to fill out this form correctly to ensure that the right information is collected and addressed. This form has two pages, with the primary information collected on the first page and supporting details on the second. Please ensure you have all the necessary information before completing this form. 
-
-If you have already reported this issue, you might not need to fill out this form. Please check if the issue is already being tracked before starting.
-
-</thinking>
-
 # Issue Tracking Form - Help Guide
 
 ## Purpose

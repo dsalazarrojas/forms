@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from patients before scheduling an appointment. The purpose of this form is to gather essential details about the patient, including their personal and scheduling preferences. This form is typically filled out by a patient or their representative before contacting the healthcare provider to schedule an appointment.
-
-To ensure a smooth and efficient appointment process, please complete this form with accurate and up-to-date information.
-
-Before we begin, it's essential to check if you've already filled out this form. If you've done so, you can contact us to confirm or make changes to your existing form.
-
-</thinking>
-
 # New Patient Appointment Form - Help Guide
 ## Purpose
 The New Patient Appointment Form is designed to gather essential information from patients before scheduling an appointment. It helps healthcare providers prepare for the appointment and ensures that the patient's needs and preferences are met.

@@ -1,10 +1,3 @@
-<thinking>
-This guide will help you fill out the Webhook Delivery Platform Evaluation Form with ease. The form is used for evaluating the performance and suitability of different webhooks (APIs that trigger specific actions upon receiving specific events or messages) for our business. The purpose of this form is to gather information about your experience with a webhook delivery platform and provide insights for our team to make informed decisions about which platform to use.
-
-Before proceeding, please ensure you are filling out this form for a specific webhook delivery platform and not a duplicate evaluation. If you have already submitted an evaluation for the same platform, please do not submit another one.
-
-</thinking>
-
 # Webhook Delivery Platform Evaluation Form - Help Guide
 ## Purpose
 The Webhook Delivery Platform Evaluation Form is a tool used to gather information about the performance and suitability of different webhooks for our business. This form is used by our team to make informed decisions about which platform to use.

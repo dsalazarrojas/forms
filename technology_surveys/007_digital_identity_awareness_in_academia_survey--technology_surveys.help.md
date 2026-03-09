@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Identity Awareness In Academia Survey - Help Guide
 ## Purpose
 This survey aims to collect demographic and professional information from academics in academia to better understand digital identity awareness within the academic community. This information will help in identifying areas where academics may need more assistance or support in developing a secure digital presence.

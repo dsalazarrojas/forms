@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about system performance and issues. It will ask you to evaluate the performance of your system, determine whether there is an issue, describe the issue if you're experiencing one, select the area where the issue is happening, rate the severity of the issue, and other details related to system uptime and crashes.
-This guide will help ensure that all questions are asked and answered correctly to help with diagnosis and troubleshooting. Please review each field to make sure you're providing the best information possible.
-</thinking>
-
 # System Diagnostic Survey - Help Guide
 ## Purpose
 This form is designed to gather information about system performance and issues. It will help with system diagnosis and troubleshooting by providing a comprehensive view of your system's condition.

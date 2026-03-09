@@ -1,16 +1,3 @@
-<thinking>... internal reasoning block ...
-
-To ensure that this form is completed accurately and effectively, please consider the following:
-
-1. The form is designed to assess mental health status, specifically asking users to self-report their mental health conditions and symptoms.
-2. The form is divided into several sections, each focusing on different aspects of mental health status.
-3. To complete this form, users will need to select the most relevant and accurate options from the provided dropdown menus.
-4. It is essential to note that some sections are marked as "optional," while others are "required."
-5. Be thorough when answering each question, but also be mindful of your time and the amount of information you can provide.
-6. If you are unsure about a particular question or option, feel free to ask for clarification.
-7. The form is designed to be completed by the user themselves, without the need for external guidance or support.
-</thinking>
-
 # Mental Health Assessment Form - Help Guide
 ## Purpose
 The Mental Health Assessment Form is designed to help users assess their mental health status and identify potential areas of concern. This form is divided into several sections, each focusing on different aspects of mental health status.

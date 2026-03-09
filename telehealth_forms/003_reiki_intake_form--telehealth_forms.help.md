@@ -1,5 +1,3 @@
-<thinking>Reiki Intake Form helps healthcare providers understand a patient's medical history, current health status, and Reiki treatment preferences. This form is typically completed by the patient before a Reiki session. By filling out this form, patients can provide essential information about their health, allergies, and preferences, ensuring a safe and effective Reiki treatment. The form is designed to be completed by patients who are new to Reiki therapy or have not previously completed a Reiki intake form.</thinking>
-
 # Reiki Intake Form - Help Guide
 ## Purpose
 The Reiki Intake Form is a crucial document that provides healthcare providers with information necessary to understand a patient's medical history, current health status, and Reiki treatment preferences. It is designed to be completed by patients before their first Reiki session.

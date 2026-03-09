@@ -1,9 +1,4 @@
-# <thinking> 
-This form is for patients to provide consent for telehealth services, which involve remote healthcare consultations and communication with healthcare providers. This form ensures that patients understand their rights and responsibilities, and provides healthcare providers with the necessary information to deliver care effectively. This form is designed to be filled out by patients, with some sections intended for healthcare providers to sign and date as part of the consent process. To avoid duplication, this form should only be used for new patients or when a patient's previous consent has expired or is no longer valid.
-
-</thinking>
-
-# Telemedicine Consent Form Florida - Help Guide
+# # Telemedicine Consent Form Florida - Help Guide
 ## Purpose
 The Telemedicine Consent Form Florida is a document that outlines the terms and conditions of telehealth services, including the use of electronic communication and data sharing between patients and healthcare providers. This guide will help patients understand how to complete the form, what information is required, and what each field means.
 

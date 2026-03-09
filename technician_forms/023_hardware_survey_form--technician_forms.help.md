@@ -1,22 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I will first need to understand the purpose and context of this form. Based on the provided YAML fields, this form appears to be a survey for technicians to gather information about a computer's hardware specifications. The form likely aims to collect data for maintenance, troubleshooting, or upgrade purposes.
-
-However, to confirm this assumption, let's review the form fields:
-- **Hardware Survey** (Page 1): This page likely captures the overall survey purpose.
-- **Operating System** (Page 2): This field might be used to determine which operating system is currently running on the computer.
-- **Processor Type** (Page 3): This field is probably used to record the type of processor (i3, i5, i7) installed in the computer.
-- **Computer Age** (Page 4): This field could be used to track the computer's age, which might be useful for maintenance or upgrade planning.
-- **Operating System Version** (Page 5): This field would allow users to record the version of the operating system installed on the computer.
-- **Processor Version** (Page 6): Similar to the Operating System Version, this field would record the version of the processor installed.
-- **Motherboard Type** (Page 7): This field probably captures the type of motherboard (Intel, AMD, NVIDIA) installed in the computer.
-- **Monitor Size** (Page 8): This field is likely used to record the size of the monitor attached to the computer.
-- **Monitor Resolution** (Page 9): This field would be used to record the resolution of the monitor.
-- **Computer Model** (Page 10): This field would capture the specific model of the computer.
-
-After considering these fields, I believe the form is indeed designed for technicians to gather detailed information about a computer's hardware specifications for maintenance, troubleshooting, or upgrade purposes. This information can help them make informed decisions about necessary upgrades or repairs.
-
-</thinking>
-
 # Hardware Survey Form - Help Guide
 
 ## Purpose

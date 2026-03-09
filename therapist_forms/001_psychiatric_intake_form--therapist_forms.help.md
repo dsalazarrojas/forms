@@ -1,10 +1,3 @@
-<thinking>
-This form, "psychiatric_intake_form", is designed to collect important information from patients undergoing psychiatric treatment. Its purpose is to gather relevant details about the patient's medical and mental health, including their medical history, current condition, symptoms, and treatment plans. This form is intended for use by therapists and healthcare professionals to facilitate informed diagnosis and treatment.
-
-The form is structured to accommodate multiple fields, each representing different aspects of the patient's health. The following is a help guide to assist patients in completing the form accurately and efficiently.
-
-</thinking>
-
 # psychiatric_intake_form - Help Guide
 ## Purpose
 This form is used to collect information about a patient's medical and mental health for therapeutic diagnosis and treatment.

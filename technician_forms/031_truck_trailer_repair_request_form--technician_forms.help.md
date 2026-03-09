@@ -1,5 +1,3 @@
-<thinking>This form is used to collect information about a truck trailer that needs repair. It's essential to fill this form out correctly to ensure that the repair team has all the necessary details to fix the issue efficiently and effectively. Before starting, please make sure that the trailer in question is not already in the repair queue or already repaired.</thinking>
-
 # Truck Trailer Repair Request Form - Help Guide
 ## Purpose
 The Truck Trailer Repair Request Form is used to request repair services for a truck trailer. This form will help the repair team to gather all necessary information to fix the trailer as quickly and efficiently as possible.

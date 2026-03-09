@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for clients or patients to provide informed consent for group therapy sessions. It is essential to ensure that the client understands the nature of the therapy, the expectations of the group, and the payment terms. This form should only be used for group therapy sessions that do not involve individual therapy. Before filling out the form, please check that this is the correct form for your needs. If you are unsure, please contact the therapist or the organization providing the service.</thinking>
-
 # Group Therapy Informed Consent Form - Help Guide
 ## Purpose
 

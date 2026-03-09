@@ -1,8 +1,3 @@
-<thinking>
-This guide will help ensure that end users understand the purpose and requirements of the COVID-19 Patient Screening Questionnaire form. Before proceeding, please ensure that this form is relevant and not duplicated in your organization. If you're unsure, please review your organization's current forms and processes to avoid confusion.
-
-</thinking>
-
 # COVID 19 Patient Screening Questionnaire - Help Guide
 
 ## Purpose

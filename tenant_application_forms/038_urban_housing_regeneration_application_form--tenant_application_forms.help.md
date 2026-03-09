@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from tenants applying for the urban housing regeneration program. It includes fields for personal details, contact information, household details, employment details, income details, financial details, supporting documents, next steps, additional comments, and terms and conditions. The form is divided into several sections, and each section has a specific purpose and set of required fields. To ensure accurate and complete application submission, it is crucial to fill in all required fields carefully and truthfully. If this form is completed multiple times, please make sure to provide unique information for each application to avoid duplication.
-
-This form is designed to capture relevant information for the urban housing regeneration program. Please answer all questions truthfully and accurately. If you have any questions or concerns, please contact us.
-
-</thinking>
-
 # Urban Housing Regeneration Application Form - Help Guide
 
 ## Purpose

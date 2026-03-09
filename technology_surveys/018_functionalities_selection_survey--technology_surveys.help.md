@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to solicit feedback from users on the functionalities of a product and gather their suggestions for the next release. The primary purpose of this form is to understand how users would like to see the product's features improved and what they would prioritize in the next release. This form is not intended for any other purpose and is specifically designed for gathering user feedback on the product's functionalities.
-</thinking>
-
 # Functionalities Selection Survey - Help Guide
 
 ## Purpose

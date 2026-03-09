@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to record and update an employee's availability for telecommuting. Telecommuting, also known as remote work or flexible work, is a work arrangement that allows an employee to work from a location outside of the company premises, such as from home or a coffee shop. This form is an essential tool for managers and HR teams to ensure accurate and up-to-date employee availability for work assignments, meetings, and other work-related activities. It is essential to fill out this form accurately and completely to ensure that employee availability is correctly recorded and communicated throughout the organization.
-
-Before filling out this form, ensure that you have all necessary information ready, including your first name, last name, email address, start date, end date, start time, end time, and work hours for the requested period. This form should not be completed more than once for the same period.
-
-</thinking>
-
 # employee_availability_form - Help Guide
 ## Purpose
 The employee_availability_form is used to record and update an employee's availability for telecommuting.

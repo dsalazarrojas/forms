@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect feedback on ESG (Environmental, Social, and Governance) reporting from employees. The form is likely used for surveying employee awareness and understanding of ESG practices within a company. The form's design may be for internal use within the company to gather information and potentially to identify areas for improvement or training. The form is likely not meant for public-facing use, given its technical nature and the fact that it's intended for internal employee feedback. There may be other similar forms for different purposes, and this form is likely one of several that employees may need to fill out for work-related tasks. It's worth noting that some fields seem to be redundant or have similar labels, which might indicate that the form is in the process of being optimized or that there's a need for consolidation.</thinking>
-
 # ESG Reporting Awareness Survey - Help Guide
 ## Purpose
 This form is designed to collect employee feedback on ESG (Environmental, Social, and Governance) reporting within the company. The goal is to understand employee awareness and understanding of ESG practices.

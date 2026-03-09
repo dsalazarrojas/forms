@@ -1,5 +1,3 @@
-<thinking>... I'll create a concise and practical help guide for the Cluster Analysis Assessment form. This guide will explain the form's purpose, how to complete it, and provide field-by-field explanations for each section. The guide will be written in Markdown format, and I'll ensure it's easy to understand and follows the required structure. ...</thinking>
-
 # Cluster Analysis Assessment - Help Guide
 ## Purpose
 The Cluster Analysis Assessment form is designed to gather information about your data and project requirements for cluster analysis tasks. This form helps our team understand your specific needs, ensuring we provide the best possible solutions for your cluster analysis projects.

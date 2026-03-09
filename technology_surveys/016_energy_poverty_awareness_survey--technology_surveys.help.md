@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather data on energy poverty awareness among households. Energy poverty is a pressing issue, particularly in low- and middle-income households, where limited income hinders the ability to access and afford energy services. This form aims to collect information on household income, size, energy consumption patterns, and energy saving incentives. By understanding these aspects, policymakers and service providers can better develop targeted support programs to address energy poverty.
-
-Before filling out this form, please ensure that you are not duplicating your response, as it is intended for a specific household. Your responses will contribute to creating a comprehensive picture of energy poverty in households, informing policy and service development to improve energy access and affordability.
-</thinking>
-
 # Energy Poverty Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather data on energy poverty awareness among households, focusing on income, energy consumption patterns, and energy saving incentives.

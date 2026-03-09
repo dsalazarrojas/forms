@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect demographic and medical information from patients for telehealth purposes. It's likely used for research or clinical trials related to stem cell therapies or treatments. The fields are designed to be straightforward, with clear and concise labels. However, there may be redundancy or overlapping fields, such as the "Medical Condition" and "Medical History" fields.
-
-To ensure accurate completion, it's essential to fill out each field correctly, and if a field is marked as optional, it's still crucial to provide accurate information if applicable.
-
-</thinking>
-
 # Stem Cell Intake Form - Help Guide
 ## Purpose
 This form is used to collect demographic and medical information from patients for telehealth purposes.

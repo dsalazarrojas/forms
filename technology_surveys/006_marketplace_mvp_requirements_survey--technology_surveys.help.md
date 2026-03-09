@@ -1,11 +1,3 @@
-<thinking>
-To confirm, the form is intended for gathering feedback and requirements from end users regarding a new marketplace MVP.
-It should collect information about user preferences, needs, and expectations from different aspects of the marketplace.
-This is a critical input for our team to refine and improve the marketplace's features and functionality.
-This form will likely be filled out by users with some level of knowledge about the current state of the marketplace and their personal preferences.
-No, this form should not be filled out by the same user multiple times.
-</thinking>
-
 # Marketplace MVP Requirements Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and requirements from end users about the new marketplace MVP. It's essential for our team to understand your needs and expectations to refine and improve the feature set of the marketplace.

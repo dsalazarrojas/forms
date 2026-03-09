@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # AI Supply Chain Survey - Help Guide
 
 ## Purpose

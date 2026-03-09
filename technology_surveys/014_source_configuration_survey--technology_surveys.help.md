@@ -1,8 +1,3 @@
-<thinking>
-The goal of this form is to gather information about the source configuration of your team, which is essential for understanding the team's setup and making informed decisions. This form will help you provide details about your team's size, lead, configuration frequency, challenges, and areas for improvement. You should only fill out this form if you are a team lead or have been authorized by a team lead to complete it. If you've already completed this form, please don't fill it out again.
-
-</thinking>
-
 # Source Configuration Survey - Help Guide
 ## Purpose
 This form is used to collect information about your team's source configuration to help us understand your team's setup and make informed decisions.

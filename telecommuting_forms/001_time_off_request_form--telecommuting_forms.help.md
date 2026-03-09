@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Time Off Request Form - Help Guide
 ## Purpose
 This form is used to request time off for an employee. This includes requesting a leave of absence from work for a specified period. Before submitting a request, please ensure that you have discussed and received approval from your manager or HR representative.

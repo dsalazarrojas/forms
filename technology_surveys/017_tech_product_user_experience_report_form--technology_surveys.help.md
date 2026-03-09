@@ -1,7 +1,3 @@
-<thinking>
-We are going to create a user-facing help guide for a form designed to collect user experience reports for tech products. This form is intended to gather information about a product's performance, issues encountered, and suggestions for improvement. It is crucial that users understand the purpose and requirements of this form to ensure they provide accurate and relevant feedback. To avoid duplication of effort, we will ensure that the form is filled out correctly and consistently by all users.
-</thinking>
-
 # tech_product_user_experience_report_form - Help Guide
 ## Purpose
 This form is designed to collect user experience reports for tech products. It aims to gather information about the user's experience with a product, including the product's performance, any issues encountered, and suggestions for improvement. By filling out this form, users can help us understand their needs and make the product better suited for their needs.

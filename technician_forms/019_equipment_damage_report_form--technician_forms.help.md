@@ -1,9 +1,3 @@
-<thinking>
-
-To ensure that this form is filled out correctly and accurately, it's essential to clarify its purpose and the information it's meant to capture. The "Equipment Damage Report Form" is designed to report any issues or damages found on company equipment. This form will gather specific details about the damaged equipment, including its ID, description of the damage, and repair information. Before filling out this form, please review the following steps and guidelines to ensure you complete it correctly and efficiently.
-
-</thinking>
-
 # Equipment Damage Report Form - Help Guide
 ## Purpose
 This form is used to report any damages or issues found on company equipment. Fill out this form to provide detailed information about the equipment's condition, damage description, and repair requirements.

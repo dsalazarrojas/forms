@@ -1,7 +1,3 @@
-<thinking>As the AI-generated form "technology_survey_template" is designed to gather feedback on technology usage and preferences, its purpose is to collect opinions and insights from end-users. This form is not affiliated with or derived from any proprietary form platforms, but rather an original adaptation created using public survey metadata. The form is released under CC BY 4.0, allowing for modification, sharing, and even commercial use while giving credit.
-
-Before proceeding, it's essential to ensure that this form is relevant to your specific use case and not a duplicate of an existing form. This guide will walk you through the form's completion process and explain each field in detail.</thinking>
-
 # technology_survey_template - Help Guide
 ## Purpose
 The "technology_survey_template" is designed to gather your opinions and preferences on technology usage. This survey helps us understand your experiences, habits, and expectations from technology.

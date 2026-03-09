@@ -1,7 +1,3 @@
-<thinking>
-This form is used for individuals to apply for the Digital Health Knowledge Network, a platform that connects people with shared interests in digital health. Before filling out the form, please ensure you are not duplicating an existing application, and that your application aligns with the purpose of the network.
-</thinking>
-
 # Digital Health Knowledge Network Application Form - Help Guide
 ## Purpose
 The Digital Health Knowledge Network Application Form is designed to help you join the Digital Health Knowledge Network, a platform that connects people with shared interests in digital health. Please read this help guide to understand how to complete the form and maximize your application.

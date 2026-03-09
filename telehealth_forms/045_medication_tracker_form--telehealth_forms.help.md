@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medication Tracker Form - Help Guide
 ## Purpose
 This form is used to track a patient's medication schedule, including dosage instructions, frequency, and other relevant information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Doctor Availability Registration - Help Guide
 ## Purpose
 This form is designed to collect information about a doctor's availability for appointments. It is used to register a doctor's schedule and availability for patients.

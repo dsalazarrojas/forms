@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about the network and internet assessment experience of the user. The form is meant to gather data on the quality of the network, any issues with connectivity, the types of devices used, any additional information the user wants to share, and other comments.
-
-To ensure that this form is not used for the same purpose multiple times, we should add some logic to check if the form has been filled by the same user within a certain time frame (e.g., 24 hours).
-
-We should also add a validation to ensure that the user has selected an option for 'network_quality' and 'connectivity_issues' as these are required fields.</thinking>
-
 # network_and_internet_assessment - Help Guide
 ## Purpose
 

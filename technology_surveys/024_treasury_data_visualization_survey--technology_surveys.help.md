@@ -1,15 +1,3 @@
-<thinking>
-This form is for users to provide their feedback and suggestions on how to improve data visualization in the Treasury department. This form is not mandatory, and users can choose to provide any or none of the information. The form is divided into several pages with different types of questions and options. The pages include:
-- An introduction page where users can provide a brief overview of their thoughts on data visualization.
-- A page where users can select multiple tools that they use for data visualization.
-- A page where users can select one type of data that they work with.
-- A page where users can select one type of challenge they face when using data visualization.
-- A page where users can provide feedback on their experience with data visualization.
-- A page where users can provide comments or suggestions.
-- Multiple pages where users can select multiple tools, data types, challenges, or provide feedback and comments.
-
-Please note that the form is not a comprehensive survey, and users can skip or answer any or none of the questions.</thinking>
-
 # Treasury Data Visualization Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather user feedback and suggestions on how to improve data visualization in the Treasury department.

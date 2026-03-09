@@ -1,10 +1,3 @@
-<thinking>
-This guide is for the "satellite_technician_service_request" form, which is used to request service for a satellite. This form is intended for technicians to document and track satellite-related service requests. Before starting, please ensure you have reviewed the service request form and are familiar with the satellite's status, location, and equipment details.
-
-To avoid duplication, check if a similar service request has been made for the same satellite before proceeding.
-
-</thinking>
-
 # satellite_technician_service_request - Help Guide
 ## Purpose
 The satellite_technician_service_request form is used by technicians to document and track satellite-related service requests. This form helps in providing detailed information about the customer's satellite, service request, and technician's progress.

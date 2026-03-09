@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information about inventory management system requirements from users. 
-The form is designed to help the project team understand the user's contact information, system requirements, and implementation details for the inventory management system. 
-It is not necessary to fill out this form if you have already filled out a similar form in the past, as the information will be stored and linked to your account. 
-Please fill out this form carefully, and make sure to answer all required questions to the best of your ability.
-</thinking>
-
 # inventory_management_system_requirements_questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about inventory management system requirements from users.

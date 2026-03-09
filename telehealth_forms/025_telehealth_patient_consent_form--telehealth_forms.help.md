@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # telehealth patient consent form - Help Guide
 ## Purpose
 The telehealth patient consent form is a mandatory form used for patients to provide consent for telehealth services. It is a crucial document that ensures patients understand their rights and responsibilities when receiving telehealth services. Please ensure you are completing this form for a legitimate reason and not duplicating effort.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will aim to create a user-friendly help guide for this "Financial Risk Policy Survey" form that explains its purpose, how to complete it, and what each field means. I will draw upon the provided YAML fields to create a clear and concise guide. I will also ensure that the guide is not duplicative and is relevant to the form's purpose. I will base my explanation on the provided fields and aim to provide a practical and concrete help guide that users can easily follow.</thinking>
-
 # Financial Risk Policy Survey - Help Guide
 ## Purpose
 The Financial Risk Policy Survey is designed to gather information about the financial risk policy of your organization. This form aims to collect data on the frequency of policy reviews, the areas of financial risk, and other relevant details. Completing this form will help your organization assess and evaluate its financial risk policy, identify areas of improvement, and make informed decisions.

@@ -1,11 +1,3 @@
-<thinking>What a comprehensive form!
-
-This form is used to assess a user's database skills. It's designed to understand a person's experience with various database-related concepts and technologies. By providing an honest account of their proficiency, users can help us better understand their skills and provide relevant support or further training where needed.
-
-To prevent duplication, we should ensure that each user only fills out the form once. Therefore, if the user has already completed this form in the past, they should not be able to submit it again.
-
-</thinking>
-
 # Database Skills Assessment - Help Guide
 ## Purpose
 The Database Skills Assessment form is designed to evaluate your experience with various database-related concepts and technologies. This will help us better understand your skills and provide relevant support or further training where needed.

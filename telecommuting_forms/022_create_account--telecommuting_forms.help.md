@@ -1,10 +1,3 @@
-<thinking>
-This form, "create-account," is designed to collect information from users seeking to create an account on a platform. Its primary purpose is to gather essential details such as user's name and contact information, confirmatory questions to ensure the accuracy of provided data, and define their role within the platform. This form is likely to be used for user registration, account creation, or other similar purposes.
-Before proceeding, please note that:
-- Ensure you are not already registered on this platform before creating a new account.
-- This form is designed to collect information for account creation purposes only and should not be used for other uses, such as surveys or polls.
-</thinking>
-
 # create-account - Help Guide
 ## Purpose
 This form is designed to collect information for user account creation.

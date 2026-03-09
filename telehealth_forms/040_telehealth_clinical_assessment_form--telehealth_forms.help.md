@@ -1,14 +1,3 @@
-<thinking>
-The "telehealth Clinical Assessment Form" is designed to gather information about a patient's medical condition, status, location, vital signs, symptoms, allergies, medication, and medical history. This form is intended to be completed by healthcare professionals or caregivers to assess a patient's condition and provide accurate diagnosis and treatment recommendations.
-
-Before completing this form, please ensure that you are a healthcare professional or authorized to complete it. If you are unsure, please contact your supervisor or organization for clarification.
-
-This form is not a duplicate or derivative of any existing form. It is an original adaptation created using public survey topic metadata and is released under a Creative Commons BY 4.0 license. You are free to use, modify, and share this form, but please provide credit to the original creators.
-
-Please complete the form carefully and accurately to ensure that the patient receives the best possible care.
-
-</thinking>
-
 # telehealth Clinical Assessment Form - Help Guide
 ## Purpose
 The "telehealth Clinical Assessment Form" is designed to collect information about a patient's medical condition, status, location, vital signs, symptoms, allergies, medication, and medical history. It helps healthcare professionals assess a patient's condition and provide accurate diagnosis and treatment recommendations.

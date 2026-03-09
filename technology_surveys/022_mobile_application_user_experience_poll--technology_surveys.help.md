@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a collection of questions designed to gather user feedback on the user experience of a mobile application. The form likely aims to understand how users feel about the app's usability, features, and overall satisfaction. This form might also be used to collect ratings for the app, likely for rating different aspects of the app's performance, such as user interface, functionality, and overall quality. The presence of multiple "app_rating" fields suggests that the form might be collecting feedback on different aspects of the app's rating, possibly for different user groups or demographics. This form is probably used to collect user opinions and ratings on the app to help developers improve its performance and user experience.
-</thinking>
-
 # Mobile Application User Experience Poll - Help Guide
 ## Purpose
 The purpose of this form is to gather user feedback on the user experience of a mobile application. It collects responses to questions about the app's usability, features, and overall satisfaction.

@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users to provide telehealth services, and it's essential to ensure that users understand what each field means and how to complete it correctly. 
-
-The purpose of this form is to gather essential data from users for telehealth services, including medical information, contact details, and consent for services. This form is used by healthcare professionals to assess the user's medical history, contact information, and preferences for telehealth services. 
-
-Before filling out this form, please ensure that you have the necessary permissions and consents to complete this form, especially the telehealth consent section. This form is meant for informational purposes only, and the information collected will be used to provide better services. 
-
-Please note that not all fields are required, and you can skip fields that are not relevant to your situation.
-
-</thinking>
-
 # Telehealth Consent Form Colorado - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information from users for telehealth services. This form is used to assess user's medical history, contact details, and preferences.

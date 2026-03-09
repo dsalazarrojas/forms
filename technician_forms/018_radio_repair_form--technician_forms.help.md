@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Radio Repair Form - Help Guide
 ## Purpose
 This form is intended for technicians to report and document the repair process, symptoms, and resolution of a radio. The form helps to ensure that all necessary information is captured and communicated effectively, reducing the risk of errors and improving the overall repair process.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from tenants who shopped during Black Friday. It's meant for internal consumption only, not for public display or customer communication. To avoid duplicating feedback, it's essential that each user only fills out the form once.
-
-The feedback collected will be used to improve future Black Friday promotions and services to better serve tenants in the future. It's not meant to be an immediate or urgent response, so please be as detailed and honest as you'd like.
-
-The form can be filled out by anyone, regardless of whether their purchase was successful or not. However, it will likely be most helpful to those who experienced any hiccups or difficulties with their transaction.
-
-</thinking>
-
 # Tenant Black Friday Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from tenants who shopped during Black Friday, allowing us to improve future promotions and services.

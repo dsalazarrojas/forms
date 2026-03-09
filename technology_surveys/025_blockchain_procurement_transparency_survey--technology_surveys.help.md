@@ -1,11 +1,3 @@
-<thinking>
-
-As an expert form designer, my goal is to ensure that this form is easy to understand and use for the end user. Upon reviewing the form's YAML schema, I notice that it's a comprehensive survey designed to gauge the awareness, adoption, and challenges of blockchain technology in the procurement process across various industries and organizations of different sizes and with varying levels of familiarity with the technology.
-
-To avoid duplication, I'll ensure that the explanations are concise and focused on the most critical aspects of the form.
-
-</thinking>
-
 # Blockchain Procurement Transparency Survey - Help Guide
 ## Purpose
 This form is designed to gather information about blockchain adoption in procurement processes across various industries and organizations. It aims to understand the awareness, challenges, and benefits associated with blockchain technology in procurement.

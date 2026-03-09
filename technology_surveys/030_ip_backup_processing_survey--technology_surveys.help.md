@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect information on the backup and disaster recovery procedures and policies of an organization. It is designed to be filled out by IT administrators or system owners who are responsible for ensuring the security and integrity of data. The form is part of a broader process to evaluate and improve the organization's backup and disaster recovery practices.
-
-This form should only be filled out by authorized personnel, and the data collected will be used to identify areas of improvement and to document the current state of backup and disaster recovery practices. The form does not collect any personally identifiable information and will not be used for any marketing or promotional purposes.
-
-Before filling out this form, please ensure that you have permission from your organization's management to do so. This form is not meant to be filled out by individuals who are not responsible for backup and disaster recovery practices.
-
-</thinking>
-
 # IP Backup Processing Survey - Help Guide
 ## Purpose
 This survey is designed to collect information on the current state of your organization's backup and disaster recovery practices. It is intended to be filled out by IT administrators or system owners who are responsible for ensuring the security and integrity of data.

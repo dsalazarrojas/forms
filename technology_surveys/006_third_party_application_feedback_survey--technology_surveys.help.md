@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from users about third-party applications that they use. The purpose of this form is to gather information about the user's satisfaction with the third-party application, which features they find most useful, which features need improvement, and other relevant details. This feedback will help us understand the needs and pain points of our users, allowing us to make data-driven decisions to improve our relationships with third-party vendors.
-
-To complete this form, simply follow the instructions below.
-
-</thinking>
-
 # Third Party Application Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from users about their experiences with third-party applications. Your input will help us understand how to improve our relationships with these vendors and provide better services to you.

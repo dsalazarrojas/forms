@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive guide for auto technicians to gather necessary information from clients before performing services on their vehicles. It covers various aspects of the service, including client details, vehicle information, service requirements, and agreement terms. This form is crucial for ensuring that the technician has a clear understanding of the client's needs and expectations, and that both parties are on the same page regarding the service being performed. This helps to prevent misunderstandings and potential disputes during the repair process. To the best of my knowledge, there is no other form with the same fields and structure, making this form a one-of-a-kind tool for auto technicians to gather necessary information from clients.
-</thinking>
-
 # Auto Technician Service Agreement - Help Guide
 ## Purpose
 The Auto Technician Service Agreement form is designed to gather necessary information from clients before performing services on their vehicles. This form covers various aspects of the service, including client details, vehicle information, service requirements, and agreement terms. By completing this form, both the client and the technician have a clear understanding of the service being performed and can avoid potential misunderstandings.

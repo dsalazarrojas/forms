@@ -1,7 +1,3 @@
-<thinking>
-We can create a user-facing help guide for the "Intellectual Property Awareness Survey" form.
-</thinking>
-
 # Intellectual Property Awareness Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback and insights on intellectual property awareness among users. The questions are intended to understand your perceptions, knowledge, and concerns related to intellectual property rights and their impact on your work or daily life.

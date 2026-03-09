@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and requirements of the Telehealth Waiver Form. The form is used to obtain waivers or authorizations for medical care or services, typically in a telehealth context. It is essential to complete the form accurately to ensure that the patient and healthcare provider understand their roles and responsibilities. This guide will walk you through the form's purpose, how to complete it, and a field-by-field explanation of each section. Please review the form carefully before proceeding.
-
-</thinking>
-
 # Telehealth Waiver Form - Help Guide
 ## Purpose
 The Telehealth Waiver Form is used to obtain waivers or authorizations for medical care or services, typically in a telehealth context. It ensures that both the patient and healthcare provider understand their roles and responsibilities.

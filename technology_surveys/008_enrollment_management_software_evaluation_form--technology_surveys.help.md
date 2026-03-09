@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who are evaluating enrollment management software. The form is designed to collect feedback about these software systems. The purpose of this form is to gather information on the user's experience with various enrollment management software systems, including their features, functionalities, and overall satisfaction. It is essential to complete this form thoroughly and accurately to provide meaningful feedback that can help stakeholders make informed decisions. To avoid duplication of effort, please fill out this form only once, and make sure to review your answers carefully before submitting them.
-</thinking>
-
 # Enrollment Management Software Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback about enrollment management software systems. Please answer the questions honestly and thoroughly to provide valuable insights for stakeholders.

@@ -1,8 +1,4 @@
-> <thinking>
-This form, "Virtual Intake Survey," is designed to gather information from clients or patients about their virtual sessions. The purpose of this form is to collect relevant data that will help providers better understand their clients' needs and preferences for their sessions. 
-</thinking>
-
-# Virtual Intake Survey - Help Guide
+> # Virtual Intake Survey - Help Guide
 ## Purpose
 The Virtual Intake Survey is used to gather information from clients or patients about their virtual sessions. This information will help providers tailor their services to meet the client's needs.
 

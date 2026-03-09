@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the Okta Verification Training Survey, which is a tool used to collect feedback and comments from users about their training experience. Before starting, let's ensure that the form is completed correctly and that the information is up-to-date and relevant. Please verify that you have not already completed this form in the past and that the information you are about to provide is accurate and reflects your current status.
-</thinking>
-
 # Okta Verification Training Survey - Help Guide
 ## Purpose
 The Okta Verification Training Survey is a form used to collect feedback and comments from users about their training experience. The survey helps to identify areas of improvement and provide insights for future training sessions.

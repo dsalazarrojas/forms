@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information related to ventilation planning, likely for building design, maintenance, or engineering purposes. The form likely aims to gather details such as project specifics, space characteristics, system descriptions, and personnel involved. Each field in the form has a specific purpose, but the exact use case or context may not be immediately clear without further context. The form's structure appears to be a comprehensive collection of data points that are commonly found in similar forms used in various industries related to building engineering, architecture, or operations. Further investigation is recommended to determine the exact purpose and required fields for completion.
-</thinking>
-
 # Ventilation Planning Survey - Help Guide
 ## Purpose
 The Ventilation Planning Survey form is designed to collect and organize essential information about ventilation systems and their associated personnel for planning and coordination purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from developers about their usage experience with the API. It is intended for API maintainers and developers to gather insights on how the API performs in real-world scenarios. The form will help API maintainers understand the API's strengths and weaknesses, identify areas of improvement, and inform the development of future API versions.
-</thinking>
-
 # API Usage Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from developers about their experience with the API. It will help API maintainers understand how the API performs in real-world scenarios, identify areas of improvement, and inform the development of future API versions.

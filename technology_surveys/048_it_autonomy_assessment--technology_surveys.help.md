@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess an employee's level of autonomy in performing various IT tasks. Autonomy in this context refers to the ability to take independent action without needing constant oversight or approval from a manager or superior. The purpose of this form is to gauge how well an employee understands and is able to perform various IT-related tasks and responsibilities, such as network maintenance, security incident management, and asset lifecycle management. This information can be used to evaluate an employee's capacity to work independently and make decisions with minimal supervision.
-
-To ensure the form's relevance, I will review the following questions: Can you perform routine maintenance on our company's network? Can you resolve IT incidents independently? Can you perform upgrades and updates on our company's network and systems? Can you manage and resolve IT security incidents? Can you manage and resolve IT assets? Can you manage IT budget? Can you perform IT service management? Can you perform IT vendor management? Can you handle change requests? Can you handle problem management? Can you perform IT service request management? Can you handle security incidents? Can you manage IT asset management? Can you handle IT release management? Can you handle IT deployment management? Can you perform IT change management? Can you perform IT service request management?
-
-To prevent duplication of efforts, I will ensure that each question is unique and does not overlap with the previous or next question.
-
-</thinking>
-
 # IT Autonomy Assessment - Help Guide
 ## Purpose
 This form is designed to assess an employee's level of autonomy in performing various IT tasks.

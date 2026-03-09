@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect personal and contact information from patients for the telehealth organization's enrollment process. The form is designed to gather necessary details about the patient's background, emergency contacts, and medical history. This information will be used to create a comprehensive profile for the patient and aid in their care. To avoid duplication, please only submit this form once.
-
-</thinking>
-
 # New Patient Enrollment Form - Help Guide
 ## Purpose
 

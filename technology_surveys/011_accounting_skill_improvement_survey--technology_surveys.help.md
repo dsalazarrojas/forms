@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help us understand your perspective on accounting skills improvement. The purpose of this form is to gather information about your role in the accounting field, your experience, current proficiency level, comfort with accounting technology, areas where you feel you need more training, preferred learning method, available time for training, technology tools used, top priority for training, expectations from a training program, and your budget for training. This form will help us to identify areas where you need more training and support.
-</thinking>
-
 # Accounting Skill Improvement Survey - Help Guide
 ## Purpose
 This form is designed to help us understand your perspective on accounting skills improvement. The goal is to gather information that will help us identify areas where you need more training and support.

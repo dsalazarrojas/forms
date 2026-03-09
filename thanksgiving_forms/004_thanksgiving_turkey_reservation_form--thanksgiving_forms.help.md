@@ -1,8 +1,3 @@
-<thinking> 
-This form is a Thanksgiving Turkey Reservation Form, which is used to reserve a turkey for the holiday. To avoid over-reserving, this form will be used to track which turkeys are reserved, and which sizes are needed. This form will also help us ensure that we have enough turkeys to go around. We will not allow multiple reservations for the same time slot or date. If you have already submitted a reservation, please do not resubmit. If you need to make changes to your reservation, please reach out to us.
-
-</thinking>
-
 # thanksgiving_turkey_reservation_form - Help Guide
 ## Purpose
 The Thanksgiving Turkey Reservation Form is used to reserve a turkey for the holiday. This form helps us track which turkeys are reserved and which sizes are needed to ensure we have enough turkeys for everyone.

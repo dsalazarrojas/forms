@@ -1,7 +1,3 @@
-<thinking>... This form is designed to gather information from national security experts on their experience and views on various security topics. The purpose of this form is to help identify key areas of expertise and gather insights from those with extensive knowledge on national security. This form will be used to collect data that can be used to inform policy and decision-making. Please ensure that the information you provide is up-to-date and accurate as possible. This form will not be used for solicitation or promotion. 
-
-</thinking>
-
 # National Security Expert Survey - Help Guide
 ## Purpose
 The National Security Expert Survey is designed to gather information from national security experts on their experience and views on various security topics. This data will be used to inform policy and decision-making.

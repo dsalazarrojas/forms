@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on the utilization of data and analytics tools in your organization. This form is designed to help identify the challenges you are facing while using data and analytics, the tools you are currently using, and the benefits you have seen or heard about using these tools. The form will ask you to specify which tools you are currently using, and to submit your responses in a specific format.
-
-The form consists of several sections: Introduction, Challenges, Tools, Benefits, Submissions, Assigned Tool, Output File, Category, Description, Description 2, Assigned Tool 2, Submission ID, Submission ID 2, Submission ID 3, Submission ID 4, Submission ID 5, Submission ID 6, Submission ID 7, Submission ID 8, Submission ID 9, Submission ID 10, Submission ID 11, and Submission ID 12.
-
-This form should not be completed if you are already familiar with the data and analytics tools used in your work. If you are not sure which tools are used in your organization, please check with your IT department or data and analytics team before completing this form.
-
-Please fill out the form carefully, and make sure to select all the tools you are currently using. If you have any questions or need help, please don't hesitate to ask.
-
-This form will help us better understand your organization's data and analytics landscape and identify areas for improvement and opportunities for growth.</thinking>
-
 # data_analytics_utilization_survey - Help Guide
 ## Purpose
 This form is designed to collect data on the utilization of data and analytics tools in your organization. The goal is to understand which tools are being used, the challenges faced while using them, and the benefits gained from using data and analytics.

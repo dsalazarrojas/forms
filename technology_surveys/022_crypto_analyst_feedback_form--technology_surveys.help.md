@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from crypto analysts about their experiences and perceptions on specific aspects of their work. It should only be used for this specific purpose and not for other types of feedback or evaluations. Please make sure that you are using this form only for the intended purpose and not duplicate it for other forms that serve the same goal. This will help ensure that the data collected is relevant and accurate for future analysis and improvements.
-</thinking>
-
 # Crypto Analyst Feedback Form - Help Guide
 
 ## Purpose

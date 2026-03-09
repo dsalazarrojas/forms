@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for use in a medical setting, specifically for hypnosis therapy sessions. It appears to be a comprehensive intake form designed to collect various types of medical histories and complaints from patients. The form has multiple pages, but the actual page structure and layout are not specified in the provided YAML. This form is likely used to gather information about a patient's medical history, current complaints, and allergies. It may also be used to collect other relevant information for the therapist to assess the patient's condition.
-</thinking>
-
 # Hypnosis Intake Form - Help Guide
 ## Purpose
 This form is designed for hypnosis therapy sessions to collect information about a patient's medical history, current complaints, and allergies.

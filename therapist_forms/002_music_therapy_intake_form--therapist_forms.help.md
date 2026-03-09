@@ -1,5 +1,3 @@
-<thinking>As a music therapy intake form, this guide explains each field to help patients provide accurate and relevant information necessary for their music therapy sessions. Please ensure to carefully fill out this form to ensure the best outcome and to avoid any potential issues or misunderstandings.</thinking>
-
 # Music Therapy Intake Form - Help Guide
 ## Purpose
 The purpose of this Music Therapy Intake Form is to gather essential information about a patient's medical history, music history, therapy goals, and other relevant details to provide personalized and effective music therapy sessions. This form helps us understand each patient's unique needs and develop a suitable treatment plan.

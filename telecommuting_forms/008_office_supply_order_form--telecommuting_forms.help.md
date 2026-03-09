@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Office Supply Order Form - Help Guide
 ## Purpose
 The Office Supply Order Form is used to collect information about customer orders for office supplies, including order details, customer information, and payment information. This form is designed to be completed by customers to place orders for office supplies.

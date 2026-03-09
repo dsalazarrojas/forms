@@ -1,5 +1,3 @@
-<thinking>Is there any specific reason to create a user-facing help guide for a form designed to evaluate digital health adoption strategy in an organization? Are there any specific goals or requirements for this guide that I'm not aware of?</thinking>
-
 # Digital Health Adoption Strategy Evaluation Form - Help Guide
 ## Purpose
 

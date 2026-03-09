@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect information about the impact of heat waves on individuals and households. It's essential to understand the purpose of this form is to gather data that can be used to inform decision-making and policies related to heat waves. This form should not be filled out if you are already aware of the impact of heat waves and have already completed this form. If you have previously completed this form, please ensure you have not duplicated your responses.</thinking>
-
 # Impact Of Heat Wave Survey - Help Guide
 ## Purpose
 This form is used to collect information about the impact of heat waves on individuals and households. The purpose of this form is to gather data that can be used to inform decision-making and policies related to heat waves.

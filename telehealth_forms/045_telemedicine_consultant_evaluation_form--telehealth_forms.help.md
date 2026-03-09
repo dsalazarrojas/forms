@@ -1,10 +1,3 @@
-<thinking>
-This form is used for evaluating telemedicine consultants, which are healthcare professionals who provide medical consultations remotely through digital channels such as video conferencing, phone calls, or messaging apps. This form helps assess the quality of service provided by these consultants, ensuring that patients receive accurate and helpful diagnoses and treatments.
-
-Before completing this form, please ensure that you have not already completed this evaluation for the same patient. Duplicates may cause confusion and affect the consultant's score. If you are unsure, please check with the telemedicine platform's administrators or review previous submissions to confirm.
-
-</thinking>
-
 # Telemedicine Consultant Evaluation Form - Help Guide
 
 ## Purpose

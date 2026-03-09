@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The form is used to request authorization for equipment usage within an organization. It is meant to ensure that all necessary information is collected and approved before equipment is used. The form is typically filled out by the organization's technician and submitted for review and approval by designated personnel.
 
 </thinking>

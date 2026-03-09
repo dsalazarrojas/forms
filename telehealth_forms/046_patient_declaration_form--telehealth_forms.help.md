@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect patient information for telehealth services. It appears to be a comprehensive form for patient intake, requiring demographic information (name, contact details), medical condition, insurance provider, and other relevant medical information. This form is likely used by healthcare providers to prepare for patient consultations or treatments.
-
-Please note that the fields are all required, suggesting that this form is a critical component of the patient's onboarding process.
-
-</thinking>
 # Patient Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect patient information for telehealth services, including demographic details, medical history, and other relevant medical information. It is intended for patients to provide accurate and up-to-date information about themselves, which will be reviewed by healthcare providers before consultations or treatments.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be designed for users to complete a survey related to image annotation, possibly for research or quality assurance purposes. The form likely aims to collect information such as image upload, annotation details, and user contact information. To confirm, I'll review the fields and provide a concrete, concise, and practical explanation for end-users.
-
-</thinking>
-
 # image_annotation_survey - Help Guide
 ## Purpose
 The **image_annotation_survey** form is designed to collect information from users on image annotation, including upload, details, and additional context.

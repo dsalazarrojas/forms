@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to assess the IT support knowledge, skills, and experience of the respondent. It gathers information on various aspects of IT support, including troubleshooting skills, experience, confidence in one's knowledge, technical skills, and areas of expertise. The form aims to understand the respondent's level of proficiency in different domains, such as operating systems, network protocols, and hardware. By collecting this data, the form creators can get a better understanding of the IT support knowledge base and identify areas that require improvement.
-
-This form is likely used by IT support teams or organizations to evaluate the skills and knowledge of their support staff, identify training needs, and develop strategies for improving their IT support services. It may also be used by individuals looking to assess their own IT support skills and knowledge.
-
-Before filling out this form, please note that some fields are marked as "select_multiple" and "select_one". These fields allow you to select multiple options from the provided list or choose one option from the list. For example, if a field is marked as "select_multiple", you can choose two or more options by selecting them from the available list.
-
-</thinking>
-
 # IT Support Knowledge Assessment - Help Guide
 ## Purpose
 

@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect feedback on the software interface updates. The purpose of this form is to gather user input on the usability and functionality of the software interface. The form is used to collect feedback from users on their overall satisfaction, usability issues, and any comments they may have. The output will be in the format of a pdf or excel file, which will be used to track user feedback and improve the software interface accordingly.
-
-Please ensure that this form is being used for its intended purpose and not for non-essential feedback or repetitive submissions. This form should only be filled out by users who have a specific issue or suggestion for improvement.
-
-This form will also help us understand which tool is being used to submit the form, to better understand how to improve our interface.
-
-</thinking>
-
 # Software Interface Update Feedback Survey - Help Guide
 ## Purpose
 This form is used to collect feedback on the software interface updates.

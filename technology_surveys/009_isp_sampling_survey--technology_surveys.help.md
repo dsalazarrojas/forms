@@ -1,8 +1,3 @@
-<thinking>
-
-This help guide is meant to explain the purpose and usage of the ISP Sampling Survey form, ensuring that end users understand its context and each field's meaning. This guide will be written in Markdown format to provide a clear and concise explanation.
-
-</thinking>
 # ISP Sampling Survey - Help Guide
 ## Purpose
 The ISP Sampling Survey is a form designed to collect feedback and opinions from internet service providers (ISPs) regarding their satisfaction and experiences with various aspects of their services. This form is used to gauge the overall quality and satisfaction of their services, providing valuable insights for improvement and enhancement.

@@ -1,10 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the Telemedicine Appointment Form. This guide will aim to educate users on the form's purpose, how to complete it, and what each field means to ensure they fill it out accurately and efficiently. Let's assume that the form is used for scheduling telemedicine appointments with a specific doctor.
-
-This form is meant to gather information necessary for scheduling a telemedicine appointment, such as the date, time, and patient's contact information. Users will need to select a doctor, choose a date and time for the appointment, provide their email address and phone number, and confirm their email and phone number. Some fields, like the note to doctor and calendar, are optional and can be filled out if desired.
-
-</thinking>
-
 # Telemedicine Appointment Form - Help Guide
 
 ## Purpose

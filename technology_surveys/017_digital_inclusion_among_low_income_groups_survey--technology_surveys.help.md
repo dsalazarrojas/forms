@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect data from low-income groups on their experiences and perceptions about digital inclusion, internet access, and digital literacy. The form will help us better understand the challenges and barriers faced by low-income groups in accessing digital tools and services, and identify areas for improvement in digital inclusion programs. This form should only be filled out by individuals who have not completed it previously to avoid duplication of effort.
-</thinking>
-
 # digital_inclusion_among_low_income_groups_survey - Help Guide
 ## Purpose
 This form is designed to collect information about your experiences and perceptions on digital inclusion, internet access, and digital literacy among low-income groups.

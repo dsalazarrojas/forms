@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the "ServiceNow Knowledge Assessment" form is to collect feedback and information from end-users regarding their experience with ServiceNow, a cloud-based IT service management platform. This form is likely used for internal purposes, such as product development, to gauge the users' perceptions and needs, and to identify areas for improvement. To ensure accurate and relevant responses, please fill out the form only if you have had hands-on experience with ServiceNow.
-
-Before you start, please review the form carefully to avoid duplication of responses. If you have already submitted a similar assessment, it is recommended that you do not submit another one.
-</thinking>
-
 # ServiceNow Knowledge Assessment - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and information from end-users regarding their experience with ServiceNow.

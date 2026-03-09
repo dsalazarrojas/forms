@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to gather insights on end users' current digital media consumption habits and preferences. This information will help identify trends, patterns, and potential pain points in the way people interact with digital media.
-
-To ensure the form is used effectively, please double-check that the questions and fields are relevant to the intended audience and that the form is not a duplicate of any other existing form.
-
-</thinking>
 # media_usage_survey_template - Help Guide
 ## Purpose
 This form is designed to collect information about your digital media consumption habits and preferences.

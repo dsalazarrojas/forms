@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect data on the properties' digital experiences. The form is designed to capture various aspects of a property's digital presence, including contact information, rating, and feedback. This information will help us understand the overall digital experience of the properties and make data-driven decisions to improve their online presence.
-</thinking>
-
 # Property Digital Experience Index Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about the digital experience of properties. The data collected will help us understand the current state of properties' online presence and identify areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-The form "graph_analysis_survey" is designed to collect feedback and insights on the use and satisfaction of graph analysis tools. It appears to be a survey focused on the backgrounds, habits, and satisfaction of individuals who use such tools. The purpose of this form is to gather data that can be used to improve the tools and services provided to users. To ensure the form is completed correctly, it is essential to follow the provided instructions carefully.
-</thinking>
-
 # graph_analysis_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and insights on the use and satisfaction of graph analysis tools.

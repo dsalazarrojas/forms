@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information about a new server request from a customer or internal team member. This form is used to gather details about the server's specifications, operating environment, and other relevant information to facilitate the request process. Before proceeding, please ensure that this is not a duplicate request and that you have a valid reason for submitting this form. If you have already submitted a similar request in the past, please provide an explanation of the change in request.</thinking>
-
 # New Server Request Form - Help Guide
 
 ## Purpose

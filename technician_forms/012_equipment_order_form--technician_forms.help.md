@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect order details from customers. It is a crucial tool for technicians to gather necessary information for processing orders efficiently. Before proceeding, please ensure that this form is not a duplicate or outdated version of an existing form.
-
-This guide will walk you through the process of completing the equipment order form, explaining each field and its purpose.
-
-</thinking>
-
 # equipment_order_form - Help Guide
 ## Purpose
 The equipment order form is a tool used by technicians to collect vital information from customers for efficient order processing.

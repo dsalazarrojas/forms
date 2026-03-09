@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect consent from participants to collect and use their smart lighting usage data. This data will be used for research purposes and will not be shared with any third parties. The form will also collect participant information and contact details, which will be stored for future reference. The form is designed to be completed by the participant themselves, and the data collected will be handled in accordance with data protection regulations.
-</thinking>
-
 # Smart Lighting Usage Data Consent Form - Help Guide
 ## Purpose
 The Smart Lighting Usage Data Consent Form is a document that asks participants to give their consent to collect and use their smart lighting usage data for research purposes. This form is intended to ensure that participants understand how their data will be used and are willing to provide it.

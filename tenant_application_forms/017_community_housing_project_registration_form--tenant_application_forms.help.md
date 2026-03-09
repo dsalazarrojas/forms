@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals or groups who wish to register their community housing project. The purpose of this form is to gather essential details about the project, including the applicant's name, contact information, project description, and proposed start date. This information will be used to evaluate and approve the project's registration. Please ensure that you are only registering projects that have not already been registered, and that the information provided is accurate and truthful.
-</thinking>
-
 # Community Housing Project Registration Form - Help Guide
 
 ## Purpose

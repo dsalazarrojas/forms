@@ -1,9 +1,3 @@
-<thinking>
-
-This form was generated using AI and is designed to guide users in understanding the Telemedicine Informed Consent Form. 
-
-</thinking>
-
 # Telemedicine Informed Consent Form - Help Guide
 ## Purpose
 The Telemedicine Informed Consent Form is designed to ensure that patients and healthcare providers understand the terms and conditions of telemedicine services. This form outlines the necessary information for patients and healthcare providers to give informed consent before proceeding with telemedicine consultations or services.

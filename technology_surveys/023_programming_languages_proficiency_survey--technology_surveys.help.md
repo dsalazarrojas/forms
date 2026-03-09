@@ -1,9 +1,3 @@
-<thinking> 
-This help guide is intended to support end-users in completing a programming languages proficiency survey. The primary purpose of this form is to gather information about respondents' experience and familiarity with various programming languages. By completing this survey, users will be able to express their proficiency levels, years of experience, and frequency of use for each language, as well as share their favorite languages and reasons for learning new ones.
-The form will be used by users who have knowledge of programming languages and are interested in learning more about their own proficiency levels and areas for improvement.
-This guide is intended to be a helpful resource for users who are completing the survey for the first time or need a refresher on the form's purpose and structure.
-</thinking>
-
 # programming_languages_proficiency_survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experience and familiarity with various programming languages. By completing this survey, you will be able to express your proficiency levels, years of experience, and frequency of use for each language, as well as share your favorite languages and reasons for learning new ones.

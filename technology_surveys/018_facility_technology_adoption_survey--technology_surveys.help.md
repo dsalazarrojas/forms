@@ -1,7 +1,3 @@
-<thinking>...
-We are creating this form to gather data about facility technology adoption. This form will be used by facilities teams to collect information about the adoption of various technologies such as mobile devices, computers, software, and other technologies. The form is designed to be completed by facilities staff and will help us understand how different technologies are being used across facilities. This form should not be filled out by anyone outside of facilities teams.
-</thinking>
-
 # Facility Technology Adoption Survey - Help Guide
 ## Purpose
 This form is designed to gather information about facility technology adoption. It is intended for facilities teams to provide a snapshot of their current technology use. Please answer all questions to the best of your ability.

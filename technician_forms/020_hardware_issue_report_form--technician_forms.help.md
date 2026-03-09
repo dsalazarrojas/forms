@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hardware Issue Report Form - Help Guide
 ## Purpose
 The Hardware Issue Report Form is designed to collect information about hardware issues that need to be reported to the technical team. This form helps to streamline the process of reporting and resolving hardware issues, ensuring that all necessary details are captured and communicated effectively.

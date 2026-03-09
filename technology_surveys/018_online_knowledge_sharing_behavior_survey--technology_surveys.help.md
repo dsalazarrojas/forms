@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather data about online knowledge sharing behavior, which is crucial for understanding how users engage with online platforms and resources. The form aims to gather information on the types of online activities users participate in, the barriers they face when sharing, and the frequency of their sharing behavior. This data will help in identifying trends and patterns in online knowledge sharing, which can inform the development of more effective online platforms and resources.
-</thinking>
-
 # Online Knowledge Sharing Behavior Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your online knowledge sharing behavior. Your responses will help us understand how you engage with online platforms and resources, and will inform the development of more effective online tools.

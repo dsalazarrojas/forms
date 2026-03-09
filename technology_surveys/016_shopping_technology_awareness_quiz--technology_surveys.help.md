@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a retail employee's awareness, skills, and needs regarding modern retail technology. It aims to gather information on their role, department, and current usage of technology within the retail environment. The data collected will be used to provide targeted training and support for employees to improve their skills and adapt to changing retail technology landscape.
-</thinking>
-
 # Shopping Technology Awareness Quiz - Help Guide
 ## Purpose
 This form is intended to assess a retail employee's awareness, skills, and needs regarding modern retail technology. It helps gather information on their role, department, and current usage of technology within the retail environment, which will be used to provide targeted training and support for employees.

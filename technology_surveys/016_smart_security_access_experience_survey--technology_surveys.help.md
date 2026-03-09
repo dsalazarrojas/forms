@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to gather end users' experiences and feedback regarding the Smart Security Access system, specifically to understand their level of access, satisfaction, ease of use, and whether they have improvement suggestions, assigned tools, and categorization. The survey aims to capture their experiences to help improve the system.
-The form will not be required for all users, but only for those who want to participate voluntarily. 
-The form is designed to be completed within a few minutes, and it's not a burden on users' time.
-The survey will be reviewed internally to identify areas of improvement and provide feedback to the development team.
-</thinking>
-
 # Smart Security Access Experience Survey - Help Guide
 ## Purpose
 This form is designed to gather your experience and feedback about Smart Security Access. It's an opportunity for you to share your thoughts on how the system works for you, what you like, and what you think could be improved.

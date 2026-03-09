@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from individuals and families who are applying for the Housing Inclusion Program. The goal of the program is to provide support and assistance to those in need. This form is meant to be completed by the applicant, and it's essential to ensure that all required fields are filled accurately to avoid any issues with the application process. Before starting the application, please review the form carefully and ensure that you have all the necessary information required to complete it. 
-</thinking>
-
 # Housing Inclusion Program Application Form - Help Guide
 
 ## Purpose

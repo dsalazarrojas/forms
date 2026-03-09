@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers on their overall experience with software products and services. The goal is to collect information on how satisfied customers are with the software, its ease of use, valuable features, customer support, and areas for improvement. This feedback can help the company refine its products and services to better meet customer needs.
-This guide is intended for customers who want to provide constructive feedback to the company. Please ensure the provided information is relevant and accurate before submitting the form.
-Before proceeding, please note that this form is not a replacement for other feedback channels, such as contact support teams or in-app feedback mechanisms.
-
-</thinking>
-
 # software_customer_satisfaction_survey_template - Help Guide
 ## Purpose
 The software customer satisfaction survey aims to gather feedback on your experience with our software. This survey helps us understand what works well and what needs improvement, allowing us to provide better products and services in the future.

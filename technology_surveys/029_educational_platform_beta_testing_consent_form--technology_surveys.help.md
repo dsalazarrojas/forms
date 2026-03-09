@@ -1,12 +1,3 @@
-<thinking>
-We are creating a help guide for the Educational Platform Beta Testing Consent Form, which aims to gather information from participants in a beta testing process. This form is crucial in ensuring that all participants understand their roles and responsibilities during the testing phase. It's essential to review and complete this form carefully to avoid any confusion or miscommunication.
-
-To confirm, this form will be used for educational platform beta testing, and we need to ensure that all participants and schools understand their involvement in the testing process. This guide will walk you through each field of the form, explaining their purpose and requirements.
-
-Please note that this form should only be filled out by authorized personnel from the educational institution, and not by random individuals or fake users. We will review each entry to ensure that all information is accurate and valid. 
-
-This form is a critical part of our testing process, and we appreciate your cooperation in providing accurate and thorough information.</thinking>
-
 # Educational Platform Beta Testing Consent Form - Help Guide
 ## Purpose
 The Educational Platform Beta Testing Consent Form is designed to gather information from participants in the beta testing process of our educational platform. This form is intended to ensure that all participants understand their roles and responsibilities during the testing phase.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used in a workplace environment, likely in a service industry such as repair, construction, or IT. It's used to create a work order for a client or customer. This form is not intended to be used for emergency services or high-priority tasks. To avoid confusion and ensure accurate completion of the work order, please make sure to fill out all required fields carefully. The form is intended to be used once per job/task, not for multiple tasks or ongoing projects. If you need to create multiple work orders for the same customer, please create a new instance of this form for each task.
-</thinking>
-
 # Sample Work Order Form - Help Guide
 
 ## Purpose

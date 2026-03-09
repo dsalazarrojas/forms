@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Application Architect Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your experience and perspectives on application architecture, including your current role, company size, and technology stack. The data collected will help us better understand the needs and challenges of application architects and inform our development of resources and services for this community.

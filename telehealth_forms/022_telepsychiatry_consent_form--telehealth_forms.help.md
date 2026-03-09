@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for patients to provide information and consent for telepsychiatry services. It captures details about the patient, their contact and emergency contact, healthcare provider, and consent status with respect to telepsychiatry services. The form also captures the date and time when the consent is signed.
-Before proceeding, please ensure that you have not already accessed this form in the past and do not need to make any adjustments to the information already provided. This form is generated through AI, and any inaccuracies or missing sections may result in delays or complications with your telepsychiatry services.
-</thinking>
-
 # Telepsychiatry Consent Form - Help Guide
 ## Purpose
 This form is designed to capture information from patients for telepsychiatry services, including patient and contact information, healthcare provider details, and consent status.

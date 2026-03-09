@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for patients to provide their treatment plan consent. It's essential for patients to fill out this form carefully as it contains sensitive information about their treatment and healthcare details. Please make sure you're filling this form only once and for the right purpose. If you're unsure or have any questions, please don't hesitate to reach out to your therapist or healthcare provider.
 
 # treatment_plan_consent_form - Help Guide

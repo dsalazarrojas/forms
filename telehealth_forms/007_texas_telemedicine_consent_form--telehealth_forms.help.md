@@ -1,14 +1,3 @@
-<thinking>
-This form is used to obtain the necessary consent and contact information from patients before providing telehealth services. The purpose of this form is to ensure that patients understand the services they will receive, how they will be contacted, and what information will be shared. This form should be filled out by patients before their first telehealth appointment. 
-
-This form is not intended to be used in emergency situations where immediate attention is required. 
-
-The form fields are designed to be completed by patients themselves, but healthcare providers may also use it as a template to obtain the necessary information from patients. 
-
-Note: Before filling out this form, please ensure that you are using the correct version of the form and that you are aware of the changes made to it.
-
-</thinking>
-
 # Texas Telemedicine Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent and contact information from patients before providing telehealth services.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather user insights on their phone usage and satisfaction with current mobile technology. This form aims to collect information on various aspects of smartphone usage, including satisfaction levels, upgrade frequency, priority factors when choosing a new smartphone, primary use, and areas for improvement.
-</thinking>
-
 # phone_survey_template - Help Guide
 ## Purpose
 This form is designed to collect user insights on phone usage and satisfaction with current mobile technology.

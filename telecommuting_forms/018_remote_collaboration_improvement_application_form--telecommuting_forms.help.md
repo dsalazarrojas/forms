@@ -1,24 +1,3 @@
-<thinking>
-This form is used to collect information from team members about their collaboration needs and preferences for remote work. The purpose of this form is to help the team understand each member's work style, collaboration frequency, and preferences for communication methods, time zones, and collaboration length. This form will help the team identify areas for improvement and make informed decisions about remote collaboration.
-
-To complete this form, please follow the steps below.
-
-1. Please fill in your user information (User Information page)
-2. Provide a brief description of your collaboration needs and preferences (Description page)
-3. Select your preferred work arrangements (Work Arrangement page)
-4. Choose your preferred work arrangement and select your preferred collaboration methods (Collaboration Frequency and Collaboration Method pages)
-5. Enter your time zone and collaboration length (Time Zone and Collaboration Length pages)
-6. Select your collaboration type (Collaboration Type page)
-7. Choose the status of your current collaboration (Collaboration Status page)
-8. Select the priority of your collaboration (Collaboration Priority page)
-9. Enter the start date of your collaboration (Collaboration Start Date page)
-
-Please note that some fields are optional and you can skip them if they do not apply to you.
-
-Please ensure that you fill in all the required fields accurately and completely to ensure that your information is up-to-date and helpful for the team.
-
-</thinking>
-
 # remote_collaboration_improvement_application_form - Help Guide
 ## Purpose
 This form is used to collect information from team members about their collaboration needs and preferences for remote work.

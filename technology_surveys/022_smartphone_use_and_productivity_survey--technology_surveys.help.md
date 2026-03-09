@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect data on smartphone usage and productivity. It is intended for users who use smartphones regularly and want to understand their habits and behaviors related to smartphone use. The survey should be completed by individuals who have experience with smartphones and are interested in exploring their own smartphone use.
-
-To ensure accurate and relevant responses, we recommend that respondents only complete the survey if they have used a smartphone for an extended period. If you have not used a smartphone, your responses may not be as relevant or accurate.
-
-Please do not complete this survey if you have already completed it previously. Your responses will be used to improve our understanding of smartphone use and productivity and may be used in future research or data analysis.
-
-</thinking>
-
 # Smartphone Use And Productivity Survey - Help Guide
 ## Purpose
 This survey is designed to collect data on your smartphone usage habits, including how often you use your phone, how much time you spend on certain activities, and how these habits affect your productivity and emotions.

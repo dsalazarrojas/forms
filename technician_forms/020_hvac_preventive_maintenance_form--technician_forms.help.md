@@ -1,7 +1,3 @@
-<thinking>
-The hvac_preventive_maintenance_form is a form used to record and track preventive maintenance activities for HVAC equipment. This form is intended to standardize the collection of data on maintenance performed, status, and other relevant information. It is used to ensure that all required fields are filled out accurately and completely, reducing errors and increasing the efficiency of maintenance planning and execution. The form should not be filled out for non-maintenance activities or events.
-</thinking>
-
 # hvac_preventive_maintenance_form - Help Guide
 ## Purpose
 The hvac_preventive_maintenance_form is a form for recording and tracking HVAC equipment preventive maintenance activities.

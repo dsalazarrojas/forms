@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information about an individual's experience and practices in the field of Digital Humanities. The purpose of this survey is to gather data for research and development purposes, and responses will be used to inform the design and implementation of tools and resources for Digital Humanities practitioners. This survey should only be filled out by individuals who have actually practiced Digital Humanities in their work or projects, and responses are not intended to be anonymous. If you've already filled out this survey, please do not fill it out again.</thinking>
-
 # digital_humanities_practice_survey - Help Guide
 ## Purpose
 This form is designed to collect information about your experience and practices in the Digital Humanities field.

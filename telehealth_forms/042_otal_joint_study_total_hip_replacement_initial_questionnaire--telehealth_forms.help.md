@@ -1,6 +1,3 @@
-<thinking> 
-This help guide is intended to assist users in completing the "ortal_joint_study_total_hip_replacement_initial_questionnaire" form. It is crucial that users understand the form's purpose to ensure accurate and efficient completion. The form is designed to collect study information, patient details, and other relevant data related to total hip replacement surgery. Please ensure that the information collected is accurate and complete before submitting the form. It is also crucial that users do not duplicate any information already provided to the patient's medical team. Please review the form carefully and ask for clarification if needed.</thinking>
-
 # ortal_joint_study_total_hip_replacement_initial_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect study information and patient details related to total hip replacement surgery. 

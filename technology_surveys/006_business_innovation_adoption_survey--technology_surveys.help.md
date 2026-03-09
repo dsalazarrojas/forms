@@ -1,7 +1,3 @@
-<thinking>
-This form is part of an organization's effort to gauge the state of innovation adoption within the company. The goal is to collect data on employees' awareness, comfort level with new technologies, and perceived barriers to innovation adoption. The form will help identify areas where the organization can improve its innovation initiatives and provide a basis for targeted training and support.
-</thinking>
-
 # Business Innovation Adoption Survey - Help Guide
 ## Purpose
 This survey aims to gather information about employees' awareness, comfort level with new technologies, and perceived barriers to innovation adoption within the company. The data collected will help the organization improve its innovation initiatives and provide targeted support.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect informed consent for telehealth treatment from patients. It is designed to gather essential contact and demographic information, as well as emergency contact details, mental health provider information, and patient rights. The form is meant to be completed by the patient, providing them with an opportunity to review and acknowledge their understanding of their rights and responsibilities as a patient.
-</thinking>
-
 # Lifemark Informed Consent Telehealth Treatment - Help Guide
 ## Purpose
 The Lifemark Informed Consent Telehealth Treatment form is a comprehensive document that outlines the rights and responsibilities of patients seeking telehealth treatment. This guide is designed to assist patients in navigating the form and ensuring they understand their obligations and rights.

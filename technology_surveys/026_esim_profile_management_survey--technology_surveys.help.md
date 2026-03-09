@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user feedback and insights on their eSIM profile management experience. This form will help us understand how users plan to keep their eSIM, their usage frequency, and overall satisfaction with their eSIM profile. It also inquires about potential issues they've encountered and the type of eSIM profile they have. This form is designed to be a general survey, and the questions are meant to be answered honestly and to the best of your ability. Please fill out this form carefully and provide any additional comments or feedback you'd like to share.
-</thinking>
-
 # ESim Profile Management Survey - Help Guide
 ## Purpose
 The ESim Profile Management Survey is a tool designed to gather feedback from users about their eSIM profile management experience. The survey aims to collect data on how users plan to keep their eSIM, their usage frequency, and overall satisfaction with their eSIM profile, as well as any potential issues they may have encountered.

@@ -1,34 +1,3 @@
-<thinking>
-This form is designed for departmental reporting, allowing users to submit information about their department's current status, internal issues, payroll concerns, manager contact details, and document uploads. To ensure accuracy and consistency, please review this guide to understand the purpose and fields of the form.
-
-When completing this form, please ensure that all required fields are filled out and that you have reviewed the options carefully. If you are unsure about any field, please ask your department's supervisor or HR representative for guidance.
-
-Before proceeding, please note that this form is used for internal reporting purposes only and will not be shared publicly. All submitted information will be reviewed and stored securely within the company's internal systems.
-
-Please fill out the form with the following information:
-
-**department** (id: 1): Select your department name from the list of options. This field is not required but recommended for tracking purposes.
-
-*   **Department** (text): Enter your department name. If you are unsure about your department name, please check with your department's supervisor or HR representative.
-
-**internal_issues** (id: 2): Describe any internal issues or concerns that need to be addressed within your department. This field is not required but recommended for transparency and problem-solving.
-
-*   **Internal Issues** (text): Enter a brief description of the internal issues or concerns. Be as detailed as possible, but please keep your response concise.
-
-**payroll** (id: 3): Report any payroll-related issues or concerns. This field is not required but recommended for prompt attention.
-
-*   **Payroll** (text): Enter a brief description of the payroll-related issues or concerns. Be as detailed as possible, but please keep your response concise.
-
-**manager_contact** (id: 4): Select the contact information of your manager. This field is optional but recommended for efficient communication.
-
-*   **Manager Contact** (select_one): Choose the name of your manager from the list of options.
-
-**document_upload** (id: 5): Upload any supporting documents or evidence related to your report. This field is not required but recommended for further investigation.
-
-*   **Document Upload** (text): Upload the relevant documents or evidence in a supported file format. Please ensure that the file is compatible with our internal systems.
-
-</thinking>
-
 # Departmental Report Form - Help Guide
 ## Purpose
 

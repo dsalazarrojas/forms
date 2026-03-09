@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect feedback and ratings from users about the effectiveness of the Web Content Management Quiz. The quiz is used to gauge user understanding of web content management principles and identify areas for improvement. 
 
 The form is not meant for users to submit a new web content management quiz but rather to provide feedback on an existing one. If you are looking to create a new quiz, please visit the "New Web Content Management Quiz" form. 

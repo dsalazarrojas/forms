@@ -1,11 +1,3 @@
-<thinking>
-To confirm, the form is for assessing the veterinary practice's readiness in cybersecurity, and it's meant to be filled out by veterinary practices, not for end-users. The form is not meant to be a diagnostic tool for end-users. The form will be used to gather information about the practice's cybersecurity posture, and the answers will be used to provide guidance and support to the practice. This is a one-time form, and the goal is to get a snapshot of the practice's current state.
-
-Form fields are mostly multiple-choice or text fields, with some select_one and select_multiple fields. The 'Other' options in select_one fields allow the user to specify their own answer if their choice is not listed. The 'Other (please specify)' field is a text field for free-text input. Most fields are not required, except for the 'Email Domain' field, which is an email address input field. The 'Data Backup Policy' field is a date input field.
-
-The form is meant to be filled out by a person familiar with the practice's operations, and the answers should reflect the current state of the practice's cybersecurity.
-</thinking>
-
 # Veterinary Cybersecurity Readiness Survey - Help Guide
 ## Purpose
 This guide will help you complete the Veterinary Cybersecurity Readiness Survey form, which assesses your practice's current state of cybersecurity.

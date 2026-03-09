@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from potential telechaplaincy volunteers, including their name, email, phone number, role, location, availability, and other relevant details. The form also captures any special notes or tools that may be assigned to the volunteer. The goal is to gather comprehensive data about the volunteers for efficient management and coordination. To avoid duplication, this form is designed to be used exclusively for telechaplaincy volunteer registration and not for other purposes.
-</thinking>
-
 # Telechaplaincy Volunteer Registration Form - Help Guide
 ## Purpose
 The Telechaplaincy Volunteer Registration Form is designed to collect information from potential telechaplaincy volunteers. This form helps us understand your interests and availability for telechaplaincy volunteer work.

@@ -1,5 +1,3 @@
-<thinking>As a telehealth forms expert, my first question is: what is the purpose of this telemedicine platform approval form? Based on the provided YAML schema, it appears that this form is used for providers to onboard onto the platform, sharing their practice and contact information, as well as their specialty and certifications. The form also seems to cover the necessary details to verify providers' identities and credentials, such as state licenses and NPI numbers. This form will serve as a crucial step in the onboarding process, ensuring that providers are verified and ready to start offering telehealth services to patients.</thinking>
-
 # telemedicine_platform_approval_form - Help Guide
 ## Purpose
 The telemedicine platform approval form is a crucial document that enables healthcare providers to onboard onto the platform. It is designed to collect necessary information about the provider's practice and credentials, ensuring that they can effectively provide telehealth services to patients.

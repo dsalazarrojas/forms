@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Imaging Equipment Repair Technician Training Registration - Help Guide
 
 ## Purpose

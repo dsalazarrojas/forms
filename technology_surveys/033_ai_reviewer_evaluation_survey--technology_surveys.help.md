@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # AI Reviewer Evaluation Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is for the Commercial Space Leasing Application, which is used to collect information from potential tenants to determine their suitability for a commercial lease. The form asks for details about the applicant and their business entity, the intended use of the space, space requirements, financial disclosures, and contact information. It's crucial to ensure the form is filled out accurately and completely to facilitate a smooth leasing process. This form should not be duplicated, and if there's any confusion, please reach out to the relevant authorities for clarification.
-</thinking>
-
 # Commercial Space Leasing Application - Help Guide
 ## Purpose
 This guide is designed to walk you through the Commercial Space Leasing Application form. Please follow this guide carefully to ensure you complete the form correctly and accurately.

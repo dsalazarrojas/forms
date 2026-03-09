@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about an organization's current state of document automation, including their goals, challenges, and implementation plans. The form is designed to help identify areas where automation can improve processes and operations, and to provide insights for future development and implementation of document automation.
-
-This form is intended for organizations that are interested in automating their document processes, and it is recommended to be completed by a representative from the organization who is knowledgeable about their current processes and goals.
-
-Please note that this form is a survey, and the responses are anonymous and confidential. The information collected will be used to help improve the development and implementation of document automation solutions.
-
-Before proceeding, please ensure that the person completing the form has the necessary permissions and clearance to provide accurate and reliable information about the organization's processes and goals.
-
-</thinking>
-
 # Document_Automation_Survey - Help Guide
 ## Purpose
 The Document_Automation_Survey is a form designed to gather information about an organization's current state of document automation, including their goals, challenges, and implementation plans.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be a template for remote fitness coaching, allowing clients to provide their details, consent, and signatures for coaching sessions. The form should not be used for any other purpose. This is a public domain form and can be used, modified, and distributed freely, but please give credit to the original creators. 
-
-</thinking>
-
 # Remote Fitness Coaching Consent Form - Help Guide
 ## Purpose
 This form is used to gather information from clients before starting a remote fitness coaching program. It collects client details, risks, consent, signatures, trainer details, client risks, and client consent.

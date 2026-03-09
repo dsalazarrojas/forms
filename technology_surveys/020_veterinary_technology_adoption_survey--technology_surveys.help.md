@@ -1,17 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information on the veterinary sector's adoption of new technologies, specifically regarding their benefits, challenges, and future interests. This survey aims to understand the current state and potential future developments in the veterinary sector.
-
-The form collects data from veterinarians and practice owners to identify:
-
-* The types of technology they currently use or are interested in adopting (e.g., AI, telemedicine, 3D printing)
-* The benefits and barriers they face when adopting new technology
-* Their practice size and years of experience in the field
-
-This information will help the organization understand the veterinary sector's technology adoption trends, identify areas of interest, and inform future development and support strategies.
-
-</thinking>
-
 # Veterinary Technology Adoption Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information on the veterinary sector's adoption of new technologies, including their current uses, benefits, challenges, and future interests. Completing this survey will help us understand your experiences and opinions on these topics.

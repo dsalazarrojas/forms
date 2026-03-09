@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I've reviewed the provided YAML and crafted a user-facing help guide for the Telework Request Form. This guide aims to educate end users on the form's purpose, completion process, and individual field explanations, while ensuring they understand the importance of completing the form correctly.</thinking>
-
 # Telework Request Form - Help Guide
 
 ## Purpose

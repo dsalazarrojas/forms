@@ -1,13 +1,3 @@
-<thinking>
-This task requires creating a help guide for a survey form designed to collect information about smart motorways. The form is likely designed to gather data about users' awareness, experiences, and improvement ideas related to smart motorways. It appears to be a comprehensive form that covers various aspects of smart motorways, including user awareness, frequency of use, contact information, and more.
-
-The form's purpose is to collect feedback and data that will help the organization or project team understand how to improve smart motorways, their usage, and the overall experience of their users.
-
-The form fields are designed to gather specific types of data, such as text responses (awareness, experiences, improvement ideas), select-one or select_multiple options (frequency of use, awareness sources, experiences sources, improvement sources, contact preference), number input (survey awareness, experiences, improvement, frequency), email and phone number inputs (phone number, contact email), and a note field for additional comments.
-
-To ensure that the survey is completed correctly, users should be able to understand the purpose and requirements of each field. This guide will help them navigate the form effectively.
-</thinking>
-
 # Smart Motorways Information Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your experiences, awareness, and improvement ideas related to smart motorways. Your input will help us understand how to improve smart motorways and provide better services to you and our community.

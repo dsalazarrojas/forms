@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Youth Smartphone Feature Poll - Help Guide
 
 ## Purpose

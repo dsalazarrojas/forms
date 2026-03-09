@@ -1,8 +1,3 @@
-<thinking>... (Internal reasoning and checks)
-This form is designed to collect information from clients seeking sports massage therapy. The purpose of this form is to gather essential details about the client's health, massage preferences, and contact information. This form should only be filled out once per client, and it's essential to provide accurate and detailed answers to ensure the best possible treatment outcome. Please note that this form should not be used for duplicate clients, as each entry will be considered a new client. Also, please fill out the form carefully, and make sure to provide any necessary medical documentation or information when prompted. 
-
-</thinking>
-
 # Sports Massage Consultation Form - Help Guide
 
 ## Purpose

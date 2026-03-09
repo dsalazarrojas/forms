@@ -1,11 +1,3 @@
-<thinking>
-
-To ensure this survey doesn't get filled out by the same person multiple times, we should verify that the input data doesn't already exist. To prevent data duplication, we'll be checking for the email address provided. If it's already in our system, we'll be asking the user to fill out a new survey.
-
-This guide is intended to help users understand the purpose of the survey and how to fill it out correctly.
-
-</thinking>
-
 # Social Care Digital Transformation Survey - Help Guide
 ## Purpose
 This survey aims to collect information from users about their current digital tool usage, skills required for their role, and priorities for the next quarter. It will help us understand the current state of digital transformation in social care and identify areas where support is needed.

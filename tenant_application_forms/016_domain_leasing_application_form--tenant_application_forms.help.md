@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to be a one-time check for form duplication. Please verify that this form meets all of the required fields and form structure before proceeding with this guide creation.
-
-This form is used for domain leasing applications. It captures information necessary for a lessee (domain lessee) to provide for their domain lease application. The form is designed to be simple and user-friendly, with fields that correspond to essential details of the domain lease application process.
-
-The guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-</thinking>
-
 # Domain Leasing Application Form - Help Guide
 ## Purpose
 The Domain Leasing Application Form is a simple, user-friendly form designed to collect necessary information from a lessee for their domain lease application. The form is used to streamline the domain leasing process and ensure that all required details are captured accurately.

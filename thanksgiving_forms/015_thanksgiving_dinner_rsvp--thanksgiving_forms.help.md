@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Thanksgiving Dinner RSVP - Help Guide
 ## Purpose
 The Thanksgiving Dinner RSVP form is designed to gather information from guests attending the company's Thanksgiving dinner event. This form is used to record the guest's name, contact email (if provided), number of guests attending, if they are attending, their dietary restrictions, RSVP date, RSVP time, and any additional message they might have.

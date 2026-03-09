@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about the telehealth infrastructure, which is the technology and systems used to provide healthcare services remotely. This form is designed to be completed by users who have had experience with or have used the telehealth infrastructure. The form will help us understand how well the infrastructure meets their needs, what it does well, what it needs to improve, and what it does poorly. By using this form, you will be helping us to assess the effectiveness of the telehealth infrastructure and identify areas for improvement.
-
-**Please note that this form is not intended to be completed by technical staff or internal stakeholders who are familiar with the infrastructure. It's meant for end-users who have practical experience with it.**
-
-This form should not be completed by anyone who has not used the telehealth infrastructure before. If you're not sure whether you're eligible, please contact us for clarification.
-
-</thinking>
-
 # Telehealth Infrastructure Assessment Form - Help Guide
 ## Purpose
 The Telehealth Infrastructure Assessment Form is designed to gather feedback from end-users about their experience with the telehealth infrastructure. This form will help us identify areas where the infrastructure excels and areas that need improvement.

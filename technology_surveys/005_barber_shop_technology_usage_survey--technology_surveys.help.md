@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-friendly help guide that covers the key aspects of the Barber Shop Technology Usage Survey form. This guide will ensure that end-users understand the form's purpose, how to complete it, and what each field means.</thinking>
-
 # Barber Shop Technology Usage Survey - Help Guide
 
 ## Purpose

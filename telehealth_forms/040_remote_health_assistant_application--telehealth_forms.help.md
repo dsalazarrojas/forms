@@ -1,8 +1,3 @@
-<thinking>
-This form was designed to collect information from patients for telehealth services. The form collects patient demographics, availability, preferences, and contact information. To determine the most suitable telehealth assistant for the patient, the form will ask questions about their availability, preferences, and contact details. This form is a part of a remote health assistant application.
-
-</thinking>
-
 # remote_health_assistant_application - Help Guide
 ## Purpose
 The purpose of this form is to collect patient information for telehealth services.

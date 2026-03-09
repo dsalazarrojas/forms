@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate the physical condition of a patient, taking into account their general information, physical evaluation, patient condition, pain level, physical function, range of motion, and muscle strengthening frequency. This form is not a substitute for professional medical advice and should not be used to diagnose or treat any condition. The purpose of this form is to provide a standardized assessment of a patient's physical condition for the therapist to use as a reference when creating a treatment plan. If you are a medical professional, please use your expertise to determine the validity of the information provided. If you are a patient, please answer the questions accurately and honestly. If you have any questions or concerns, please consult the relevant medical professional.
-</thinking>
-
 # Physical Therapy Evaluation Form - Help Guide
 ## Purpose
 The Physical Therapy Evaluation Form is a tool used by medical professionals to assess the physical condition of a patient. It is used to gather information about the patient's general information, physical evaluation, patient condition, pain level, physical function, range of motion, and muscle strengthening frequency.

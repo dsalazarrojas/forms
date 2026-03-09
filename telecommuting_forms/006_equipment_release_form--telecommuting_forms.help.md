@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to document the release of company equipment, such as laptops, mobile phones, and tablets, that have been borrowed by employees for work purposes. This form helps ensure that all necessary information is collected and documented for both the employee and the IT department. It is essential to fill out this form accurately and completely to prevent any confusion or issues when releasing the equipment. Before filling out this form, please ensure that you have already checked with your supervisor or the IT department to confirm the equipment is due for release.
-
-</thinking>
-
 # Equipment Release Form - Help Guide
 ## Purpose
 

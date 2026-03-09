@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the telehealth nexus letter request form is used only for its intended purpose and is not filled out for other, unrelated reasons. Additionally, it's essential to confirm that the form does not duplicate any existing patient data. This form will be used to request a letter or other documentation from a telehealth visit or remote consultation. To complete this form, you should only fill it out for this specific purpose and avoid providing unnecessary information.
-</thinking>
-
 # telehealth_nexus_letter_request_form - Help Guide
 ## Purpose
 The telehealth nexus letter request form is used to request a letter or other documentation from a telehealth visit or remote consultation. It's essential to fill it out only for this purpose and avoid providing unnecessary information to prevent duplication of existing patient data.

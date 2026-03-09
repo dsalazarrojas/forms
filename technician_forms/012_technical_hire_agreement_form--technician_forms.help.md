@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture essential information related to a technical hire agreement between a manager and a contractor. This form will help in organizing and storing relevant details about the contract, such as hire date, contract duration, contract type, contract title, and other important particulars. Ensuring accuracy and completeness of the form is crucial for administrative and legal purposes. It should not be duplicated for other purposes or filled out without careful consideration.
-</thinking>
-
 # Technical Hire Agreement Form - Help Guide
 ## Purpose
 The technical hire agreement form is a document used to formalize the terms and conditions of a technical engagement between a manager and a contractor. This form helps in documenting all the necessary details of the engagement to ensure that all parties are on the same page and that there's a clear understanding of the agreement.

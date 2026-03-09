@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a tool designed for healthcare professionals to gather information from patients about their nutrition needs, medical conditions, and goals. It is intended to facilitate the creation of personalized nutrition consultation plans. This guide is provided to help patients understand the purpose and structure of the form, ensuring they can accurately and efficiently complete it.
-
-</thinking>
-
 # Nutrition Consultation Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about your nutritional needs, medical conditions, and goals. The data collected will help healthcare professionals create a tailored nutrition consultation plan to support your health and wellness objectives.

@@ -1,9 +1,3 @@
-<thinking>
-# Internal reasoning block: 
-We will assume that the form is used to collect feedback from users on their preferred mode of communication. The mode selection survey is likely designed to gather information on how often users use different modes of communication, such as Internet, Mobile, or Email, and their satisfaction level with each mode. We will also assume that the form is not intended for users who are not familiar with the concept of modes of communication or do not have a clear preference. Additionally, we will check if the user has already taken the survey before to avoid duplication.
-
-</thinking>
-
 # mode_selection_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from you on your preferred mode of communication. We want to understand which mode you use the most and how satisfied you are with each mode.

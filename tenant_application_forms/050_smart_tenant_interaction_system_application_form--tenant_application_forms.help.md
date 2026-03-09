@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from tenants about their interaction with the smart tenant interaction system, including their contact details, communication preferences, and other relevant information. This form is likely used by property managers or administrators to collect data about tenants' needs and preferences, which can help in providing better services. It is essential to ensure that the form is completed accurately and thoroughly, as the information collected will be used to inform the tenant's interaction experience. Please review the form carefully to understand the requirements and fill it out accordingly.
-</thinking>
-
 # Smart Tenant Interaction System Application Form - Help Guide
 ## Purpose
 The Smart Tenant Interaction System Application Form is designed to collect information from tenants about their interaction with the system, including their contact details, communication preferences, and other relevant information.

@@ -1,5 +1,3 @@
-<thinking>As a telehealth form designer and technical writer, I will create a comprehensive help guide that explains the purpose of the "Teledermatology Patient Registration Form" and walks the user through each field in a clear and concise manner. The form is designed to collect patient information for telemedicine dermatology consultations, and its accuracy and completeness are crucial. Before proceeding, I will provide a brief internal explanation of the form's purpose and the reasoning behind its design.</thinking>
-
 # Teledermatology Patient Registration Form - Help Guide
 ## Purpose
 The Teledermatology Patient Registration Form is designed to collect essential patient information for telemedicine consultations with dermatology providers. This form helps ensure that patients provide accurate and complete details about their medical history, condition, and appointment information. By filling out this form, patients can facilitate a smooth and efficient telemedicine consultation process.

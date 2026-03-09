@@ -1,11 +1,3 @@
-<thinking>
-
-We need to ensure that the Emerging Technology Integration Voting Form is filled out correctly and consistently across all users. This form is used to gauge the current state and future plans for Emerging Technology within the organization, providing valuable insights for its effective integration. To guarantee the accuracy and completeness of the feedback, the form should be filled out carefully, taking into account each field's purpose and requirements. 
-
-Before starting, review the form's purpose and the fields that need to be filled out, and please note that some fields may be required, while others are optional.
-
-</thinking>
-
 # Emerging Technology Integration Voting Form - Help Guide
 
 ## Purpose

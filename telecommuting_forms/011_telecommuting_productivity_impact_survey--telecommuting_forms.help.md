@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Telecommuting Productivity Impact Survey - Help Guide
 ## Purpose
 This form is designed to gather information about the impact of telecommuting on productivity and work-related experiences. Your responses will help us better understand the effects of telecommuting on work-life balance, job satisfaction, communication, and other aspects of work life. Please answer honestly to provide valuable insights.

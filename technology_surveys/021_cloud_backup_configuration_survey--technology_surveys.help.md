@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from respondents about their current cloud backup configuration, including their current backup solution provider, data volume, backup frequency, and recovery time objectives (RTO) and point objectives (RPO). This information will help us understand their pain points and preferences for a potential backup solution upgrade. 
-
-We want to ensure that this form is only filled out by people who are actually responsible for backup configurations in their organization, so we require their name, organization name, and email address. 
-
-We will use this form to identify potential candidates for a backup solution upgrade, and to inform our product development and sales teams about the needs and pain points of our customers. 
-
-Please make sure to fill out the form accurately and completely, as this will help us provide better services to you in the future.
-
-</thinking>
-
 # Cloud Backup Configuration Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect information about your current cloud backup configuration. This will help us identify potential candidates for a backup solution upgrade and inform our product development and sales teams about your needs and preferences.

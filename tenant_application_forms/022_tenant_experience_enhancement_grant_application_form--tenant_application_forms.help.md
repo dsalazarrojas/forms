@@ -1,5 +1,3 @@
-<thinking>...the form purpose is to provide a platform for tenants to apply for the Tenant Experience Enhancement Grant, a financial support program designed to improve the quality of life for tenants in various communities. This form will guide tenants through the application process, ensuring they provide necessary information and supporting documents to increase their chances of receiving the grant. It is essential to complete the form accurately and thoroughly to ensure a successful application. Please ensure that you have not applied for this grant before, as this form is intended for new applications only.</thinking>
-
 # Tenant Experience Enhancement Grant Application Form - Help Guide
 ## Purpose
 The Tenant Experience Enhancement Grant Application Form is a tool for tenants to apply for financial support to improve their living conditions. The form is designed to collect relevant information about the tenant's situation, goals, and experiences.

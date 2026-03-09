@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I'll review the form purpose and content to ensure it's accurate and relevant.</thinking>
-
 # Equipment Pickup Form - Help Guide
 
 ## Purpose

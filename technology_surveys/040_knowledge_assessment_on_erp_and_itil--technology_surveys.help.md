@@ -1,10 +1,3 @@
-<thinking> 
-This form is a survey aimed at assessing users' knowledge on Enterprise Resource Planning (ERP) and ITIL (Information Technology Infrastructure Library) systems. The form's purpose is to gather information on users' familiarity with various ERP and ITIL systems, their current knowledge level, and other related details. This will help in understanding the overall understanding and skills of the users on these topics.
-
-This guide will help users in filling up this form correctly and understanding each field's relevance and requirement in a clear and concise manner.
-
-</thinking>
-
 # knowledge_assessment_on_erp_and_itil - Help Guide
 ## Purpose
 The purpose of this form is to assess users' knowledge on ERP and ITIL systems, their familiarity, and current knowledge level.

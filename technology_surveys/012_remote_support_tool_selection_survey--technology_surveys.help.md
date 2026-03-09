@@ -1,11 +1,3 @@
-<thinking>
-The form "Remote Support Tool Selection Survey" is a tool for evaluating and selecting the best remote support tool for a company or organization. This form will help users choose the most suitable remote support tool based on their specific requirements and needs. The form is part of a survey that will gather information from users and help in decision-making process.
-
-This form is intended to be filled out by people who are familiar with the company's current remote support tools and software, and who can provide information on the company's requirements and preferences for the new tool. The form's purpose is to gather data on the company's current situation, and the desired features and functionalities of the new tool. 
-
-This form is a part of a larger process to select and implement a new remote support tool. It is recommended to be filled out by users who have an understanding of the company's current remote support tool setup and who can provide informed answers. 
-</thinking>
-
 # Remote Support Tool Selection Survey - Help Guide
 ## Purpose
 The Remote Support Tool Selection Survey is designed to gather information from users about their current remote support tools and software, and their requirements and preferences for the new tool. This will help in making an informed decision for the selection of the right remote support tool for the company.

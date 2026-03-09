@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions from instructors and educators about their experiences with online teaching platforms such as JotForm, Kahoot, Google Classroom, and Canvas. The primary purpose of this form is to gather information on users' satisfaction with these platforms, their level of satisfaction, and areas that need improvement. By filling out this form, you will be contributing to the improvement of these platforms and helping to shape their development for the betterment of education.
-
-This form collects both multiple-choice and open-ended feedback, which helps to provide a more nuanced understanding of users' opinions. The form is not mandatory, and users are encouraged to provide as much information as they deem relevant.
-
-To ensure that the gathered data is comprehensive and representative, it would be ideal to avoid duplication of effort and only collect responses from users who have had significant experience with the platforms in question.
-
-Please fill out the form below, providing honest and constructive feedback to help us improve these online teaching tools!
-</thinking>
-
 # Online Teaching Tools Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from instructors and educators about their experiences with online teaching platforms such as JotForm, Kahoot, Google Classroom, and Canvas. The primary purpose of this form is to gather information on users' satisfaction with these platforms, their level of satisfaction, and areas that need improvement.

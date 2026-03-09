@@ -1,9 +1,3 @@
-<thinking>... Internal reasoning block to understand the form purpose and ensure the form is not duplicated...
-
-This form appears to be a Scrum Task Management Survey, designed to gather information about a team's Scrum process and team members' experiences. The form is likely used to collect feedback and metrics on the team's performance, collaboration, and overall satisfaction. Before proceeding, let's ensure this form is not already being used for similar purposes elsewhere in the organization, and consider whether it's relevant to our current project goals and objectives.
-
-</thinking>
-
 # Scrum Task Management Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your team's Scrum process and experiences. Your input will help us understand your team's strengths and areas for improvement, enabling us to provide better support and guidance.

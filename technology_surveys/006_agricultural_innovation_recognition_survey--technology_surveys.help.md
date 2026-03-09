@@ -1,21 +1,6 @@
 # Agricultural Innovation Recognition Survey - Help Guide
 ## Purpose
 
-<thinking> This form is designed to collect information about agricultural innovations from various organizations. The purpose of this survey is to identify and recognize innovations that are making a significant impact on agriculture, such as new technologies, practices, or methods that improve productivity, sustainability, or food security. 
-
-This survey will help to:
-
-* Identify innovations that have a local, regional, or national impact
-* Assess the readiness level of these innovations (Research, Prototype, Pilot, or Commercial)
-* Evaluate the benefits and expected impact of the innovations
-* Understand the supporting evidence, such as trials, data, or case studies
-
-Please complete this form to contribute to the recognition and promotion of agricultural innovations.
-
-Note: This form will be used to create reports and summaries of the innovations, so please ensure that you have the necessary permission to share details about your innovation.
-
-</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

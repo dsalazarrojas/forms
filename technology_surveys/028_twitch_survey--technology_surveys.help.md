@@ -1,5 +1,3 @@
-<thinking>Before we dive into the detailed explanation of the form, let's make sure we understand its purpose and context. This form, named "Twitch Survey", seems to be designed for collecting feedback and opinions from users about their experience on a Twitch streamer's channel. It appears to be a mix of multiple-page form with various sections to gather different types of information. We'll focus on explaining each field clearly and concisely.</thinking>
-
 # Twitch Survey - Help Guide
 ## Purpose
 The Twitch Survey form is designed to collect feedback and opinions from users about their experience on a Twitch streamer's channel. This form is composed of multiple sections, each gathering different types of information to help the streamer improve their channel.

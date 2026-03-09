@@ -1,5 +1,3 @@
-<thinking>Internal note: The Signal Configuration Survey form is used to collect information about signal configurations for a variety of purposes, such as analyzing signal strength, identifying potential issues, and providing feedback. This form should only be used by authorized personnel to collect relevant and accurate data.</thinking>
-
 # Signal Configuration Survey - Help Guide
 
 ## Purpose

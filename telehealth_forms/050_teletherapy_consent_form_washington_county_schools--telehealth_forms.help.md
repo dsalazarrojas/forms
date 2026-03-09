@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'll review the provided YAML fields to understand the form's purpose and requirements. This form appears to be a consent form for teletherapy services, likely for students in Washington County Schools. It's designed to gather information from the student, their therapist, and emergency contact details. Each field has specific labels and types, but I'll try to explain each one in a way that's clear and concise for the end-user.</thinking>
-
 # Teletherapy Consent Form Washington County Schools - Help Guide
 ## Purpose
 This form is for students in Washington County Schools to provide consent for teletherapy services. It's essential to complete this form accurately and carefully, as it affects the student's access to online telehealth services.

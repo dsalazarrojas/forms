@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess an organization's readiness for innovation, which is a crucial aspect of business success in today's fast-paced and competitive environment. The form aims to measure an organization's current state of innovation, including its maturity, pipeline, and readiness for innovation. This information will help the Innovation Pipeline Team (IPT) and the Innovation Pipeline Manager (IPM) to identify areas of improvement and develop targeted strategies for innovation growth.
-
-The form consists of 13 questions, which are categorized into several sections. The following is a help guide to assist end users in completing the form effectively.
-
-</thinking>
-
 # innovation_pipeline_readiness_survey - Help Guide
 ## Purpose
 

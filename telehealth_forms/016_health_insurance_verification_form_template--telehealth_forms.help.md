@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be designed for collecting information about a patient's and policyholder's insurance details. It may be used by healthcare professionals to verify a patient's insurance coverage or by insurance companies to gather information about a policyholder's insurance status. I will assume that this form is meant to be used in a telehealth or healthcare setting.
-
-Before filling out this form, please note that some fields may be optional. If you are unsure about the purpose of a field or which fields are required, please refer to the instructions below.
-
-</thinking>
-
 # Health Insurance Verification Form Template - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's and policyholder's insurance details for verification purposes.

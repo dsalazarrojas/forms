@@ -1,10 +1,3 @@
-<thinking>
-We're designing a form for a housing authority to gather information from potential tenants. The form is called "hfh_tenant_app". The purpose of this form is to collect contact information, application type, and other relevant details from applicants. This form is not intended for submission to any specific authority or organization. Please ensure that you provide accurate and complete information as required fields are not marked. This form is a sample and may need to be reviewed and updated according to your organization's specific needs.
-
-The form consists of multiple pages with various fields, including text, email, phone, date, time, note, select multiple, select one, integer field, decimal field, and others. Please review each field carefully to understand its purpose and requirements.
-
-</thinking>
-
 # hfh_tenant_app - Help Guide
 ## Purpose
 The hfh_tenant_app form is designed to gather information from potential tenants for housing applications. It helps the housing authority to understand the applicants' needs and preferences.

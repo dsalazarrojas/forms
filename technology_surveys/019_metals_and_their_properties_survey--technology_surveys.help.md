@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about metals and their properties from respondents. It is designed to gather knowledge about metals and opinions on metal-related topics. This form is not intended for duplicate submissions, so users should not resubmit their responses. Before filling out this form, please ensure that you have the necessary information and that your answers are accurate.
-</thinking>
-
 # Metals And Their Properties Survey - Help Guide
 ## Purpose
 The Metals And Their Properties Survey is a form designed to collect information about metals and their properties from respondents. It aims to gather knowledge about metals and opinions on metal-related topics.

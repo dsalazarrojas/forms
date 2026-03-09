@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from patients about their experience with remote patient monitoring. The purpose of this form is to collect feedback that can help healthcare providers and administrators understand patient confidence and satisfaction levels. This form is likely to be used by healthcare professionals to assess the effectiveness of remote patient monitoring programs.
-
-To avoid duplication, we'll review this form's purpose and content to ensure it aligns with existing documentation and procedures.
-
-</thinking>
-
 # Remote Patient Monitoring Confidence Survey - Help Guide
 ## Purpose
 The Remote Patient Monitoring Confidence Survey is a form designed to collect patient feedback on their experience with remote patient monitoring. This form helps healthcare providers understand patient confidence and satisfaction levels, which can inform improvements to the program.

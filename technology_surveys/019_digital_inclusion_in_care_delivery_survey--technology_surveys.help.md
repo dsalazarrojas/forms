@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to understand the experiences and challenges of clinicians when using technology in care delivery settings. The form has 7 fields that ask clinicians about their access to devices in hospitals and homes, their comfort with technology, and the barriers they face when using technology. The form is intended to be completed by clinicians who provide care to patients. 
-
-Before completing the form, please ensure that you have a clear understanding of what the form is asking and how your responses will be used. This form is a survey, and your responses will help to identify areas where technology can be improved to better support clinicians in their work. If you have already completed this survey, please do not submit this form again. Thank you for taking the time to participate.
-
-</thinking>
-
 # Digital Inclusion In Care Delivery Survey - Help Guide
 ## Purpose
 This survey aims to understand the experiences and challenges of clinicians when using technology in care delivery settings. Your responses will help to identify areas where technology can be improved to better support clinicians in their work.

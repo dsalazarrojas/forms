@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the disposal of equipment within an organization. It's intended to be used by technicians or other relevant personnel to document the status of equipment that is no longer in use or has been removed from service. The form should not be used for other purposes, such as inventory tracking or maintenance scheduling.
-</thinking>
-
 # Equipment Disposal Form - Help Guide
 ## Purpose
 This form is used to document the disposal of equipment. It captures information about the equipment's status, condition, and location, as well as the reason for its disposal and any relevant authorization or confirmation.

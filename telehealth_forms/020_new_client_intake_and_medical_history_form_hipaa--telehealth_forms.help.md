@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # new_client_intake_and_medical_history_form_hipaa - Help Guide
 
 ## Purpose

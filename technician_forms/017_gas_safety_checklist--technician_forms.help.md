@@ -1,22 +1,3 @@
-<thinking>
-This form is part of a larger system for ensuring gas safety in industrial settings. The "Gas Safety Checklist" form is designed to help technicians inspect and verify gas appliances for safety. The form is meant to be completed during a regular inspection, and its purpose is to provide a quick and standardized way to assess the safety of gas appliances. This form is likely to be completed by technicians who are responsible for maintaining gas appliances, and its results will be used to identify potential issues that need to be addressed.
-
-The form is likely to be used in conjunction with other safety procedures and protocols, and its completion will help to ensure that gas appliances are properly installed, inspected, and maintained to prevent leaks and other safety hazards.
-
-Before completing this form, technicians should ensure that they have the necessary knowledge and experience to safely inspect and verify gas appliances. They should also familiarize themselves with the specific gas appliance being inspected, including its manufacturer's instructions and any relevant safety protocols.
-
-When completing this form, technicians should answer each question truthfully and accurately, and provide any additional comments or notes that may be relevant to the inspection. The form should be completed in a way that is consistent with other safety protocols and procedures used in the organization.
-
-Technicians should also be aware that this form is not a substitute for regular and thorough inspections, but rather a tool to help identify potential issues that need to be addressed.
-
-This form is designed to be completed by technicians who have a good understanding of gas safety and the specific gas appliances being inspected. If a technician is unsure about any aspect of the form, they should seek guidance from a qualified expert or supervisor.
-
-It is also worth noting that this form is part of a larger system for ensuring gas safety, and its completion will help to reduce the risk of gas leaks and other safety hazards.
-
-The form should be kept up-to-date and reviewed regularly to ensure that it remains relevant and effective in identifying potential safety issues.
-
-</thinking>
-
 # Gas Safety Checklist - Help Guide
 ## Purpose
 The Gas Safety Checklist is designed to ensure that gas appliances are properly inspected and verified for safety. It helps to identify potential issues that need to be addressed to prevent gas leaks and other safety hazards.

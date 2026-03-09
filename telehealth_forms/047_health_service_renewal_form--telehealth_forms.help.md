@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from patients for the purpose of renewing their health services. The form should only be accessed by authorized personnel, and users should not access it more than once. If a user has previously submitted this form, they should not be able to access it again without administrative intervention.
-
-</thinking>
-
 # Health Service Renewal Form - Help Guide
 ## Purpose
 This form is used to renew a patient's health services. It collects essential information from the patient, which is then used to update their service status.

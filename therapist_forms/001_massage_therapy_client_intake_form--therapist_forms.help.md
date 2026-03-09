@@ -1,9 +1,3 @@
-<thinking>
-The form is intended to gather information from potential clients for a massage therapy session. This form is not mandatory, and its completion depends on the client's consent. The form is likely to be used by massage therapists to gather necessary information about the client's medical history, contact information, and other relevant details to provide the best possible experience and services for the client. 
-
-The form is divided into several sections, each addressing a different aspect of the client's information. This guide will walk through each section and what information is being collected.
-</thinking>
-
 # Massage Therapy Client Intake Form - Help Guide
 ## Purpose
 This form is designed to gather relevant information from potential clients for a massage therapy session. 

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for collecting information about national salaries for technology professionals. The goal is to gather data to help us better understand salary trends in the industry and how different factors such as experience, location, job type, and company size can affect salaries. This information will be used for research and analysis to help inform future business decisions and provide valuable insights to technology professionals. Before starting, please make sure you have filled out this form recently, as we are looking to collect fresh data and avoid duplicates.
-
-</thinking>
-
 # national-salary-survey-for-technology - Help Guide
 ## Purpose
 

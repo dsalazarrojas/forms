@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # energy_infrastructure_innovation_survey - Help Guide
 ## Purpose
 This form is designed to gather information about energy infrastructure innovation. It's intended for gathering perceptions and ideas about the state of innovation in energy infrastructure, which is crucial for the industry's development and improvement. Please fill out this form if you're involved in or interested in energy infrastructure projects or research.

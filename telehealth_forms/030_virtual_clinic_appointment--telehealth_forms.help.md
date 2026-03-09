@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for patients to schedule virtual clinic appointments with healthcare providers, such as doctors. To prevent non-duplication, it's essential to ensure that the form is filled out with accurate and unique information. If the user has previously scheduled an appointment, they should not attempt to schedule another appointment with the same healthcare provider at the same time. The form requires the patient's name, email, appointment date, start and end time, selected time, doctor's name, and appointment ID (if available). The healthcare provider's name and phone number are also fields to be filled out.
-</thinking>
-
 # Virtual Clinic Appointment - Help Guide
 ## Purpose
 The virtual clinic appointment form is used to schedule virtual appointments with healthcare providers. Please fill out this form accurately and with unique information to avoid non-duplication.

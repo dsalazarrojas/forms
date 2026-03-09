@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information on the adoption of digital tools among users. The goal is to understand the current state of digital tool adoption within the organization and identify areas for potential improvement. This survey will help us gather feedback and insights on the usage and effectiveness of digital tools, which will be used to inform future development and improvement decisions.
-
-**Note:** This survey is intended for users who have interacted with digital tools within the organization. If you have not used any digital tools, please skip this survey.
-
-</thinking>
-
 # Digital Consulting Adoption Survey - Help Guide
 ## Purpose
 This survey aims to understand your usage and preferences regarding digital tools within our organization. Your responses will help us better understand the current state of digital tool adoption and identify areas for improvement.

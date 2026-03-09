@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to facilitate the checkout process for equipment by employees in the company. The form is used to record and track the check-out of equipment, including the employee's details, equipment information, and checkout status. This form ensures that the equipment is properly checked out and returned on time, reducing the risk of loss or damage. It also serves as a liability agreement between the employee and the company, outlining the responsibilities and expectations for equipment use.
-
-</thinking>
-
 # Computer Check Out Form - Help Guide
 ## Purpose
 This form is a tool for employees to check out company equipment, providing essential information for inventory tracking, asset management, and employee accountability.

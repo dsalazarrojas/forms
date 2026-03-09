@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to gather information about respondents' awareness, experience, and opinions on civic technology tools. The goal is to understand the level of awareness and use of these tools, as well as identify potential barriers to their adoption and suggest improvements. This form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation of a public survey topic and is released under CC BY 4.0.
-
-The form is intended for use by individuals who are familiar with the concept of civic technology and want to provide their honest opinions and experiences. It should take approximately 10-15 minutes to complete.
-
-The form is divided into several sections, each with a specific focus:
-
-* Respondent information: Gathering basic details about the respondent, such as name and email address.
-* Awareness of civic tech tools: Assessing the respondent's level of awareness and experience with various civic technology tools.
-* Experience and effectiveness: Rating the respondent's experience with civic tech tools and their effectiveness in participating in civic activities.
-* Barriers to use: Identifying potential barriers to using civic technology tools.
-* Suggestions for improvement: Collecting ideas on how civic tech tools can be improved.
-* Desired features: Gathering feedback on features that would be beneficial in civic tech tools.
-* Future use: Assessing the respondent's likelihood of using civic technology tools in the future.
-
-Please ensure that the respondents' information is accurate and honest, as their feedback will be used to inform the development of civic technology tools and services.
-</thinking>
-
 # Civic Technology Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your awareness, experience, and opinions on civic technology tools.

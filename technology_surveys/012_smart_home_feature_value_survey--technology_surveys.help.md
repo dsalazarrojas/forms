@@ -1,17 +1,3 @@
-<thinking>
-
-We need to create a user-facing help guide for the "Smart Home Feature Value Survey" form. This form is likely used by stakeholders or end-users to gauge the value and priorities of various features within the smart home domain. The purpose of the form is to understand which features are most important or relevant to users, which ones have high interest levels, and how users value them. This information can be used to inform product development and feature prioritization decisions.
-
-To determine if this form is relevant to your needs, please check the following:
-
-* Are you a stakeholder or end-user interested in smart home features?
-* Does your role align with the purpose of this form?
-* Have you completed similar surveys in the past and are looking for more information on this specific form?
-
-If you've answered "yes" to these questions, then this guide is for you!
-
-</thinking>
-
 # Smart Home Feature Value Survey - Help Guide
 ## Purpose
 

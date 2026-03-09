@@ -1,8 +1,3 @@
-<thinking>
-**This form is used to gather information about a Zoom appointment. The form consists of two pages: the first page asks for basic information such as the appointment title, category, and description, while the second page asks for more specific information like language and form ID. This form is designed for telecommuting forms. It is recommended to fill out the form completely and accurately to ensure the information is recorded correctly.**
-
-</thinking>
-
 # Zoom Appointment Form - Help Guide
 ## Purpose
 The Zoom Appointment Form is a tool used to collect information about a Zoom meeting or appointment.

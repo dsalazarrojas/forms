@@ -1,7 +1,3 @@
-<thinking>
-This form is a critical survey designed to gather information on the rollback of certain processes or actions. The main purpose of this form is to collect data on the reasons for rollbacks, the impact on the business, and other relevant details. This information will help teams make informed decisions on how to improve processes and minimize future rollbacks. Before starting, please ensure you're not duplicating an existing survey or providing information that's already been covered in a previous submission. Ensure you have all necessary permissions and approvals to complete this form accurately and without errors.
-</thinking>
-
 # Rollback Selection Survey - Help Guide
 ## Purpose
 The Rollback Selection Survey is a crucial tool for gathering information on rollbacks, which are critical incidents where a project or process is reverted or undone. The data collected through this form will help teams evaluate the reasons behind these incidents and make improvements to minimize their occurrence in the future.

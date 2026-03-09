@@ -1,7 +1,3 @@
-<thinking>
-The form, "Home Automation System Features Feedback Poll", is a tool for users to provide feedback on their experiences with our home automation system. It's essential to ensure that the system is meeting your needs and identifying areas for improvement. Please fill out this form to help us understand your thoughts and suggestions. We'll use this information to make informed decisions to better serve you and our community. This is a one-time feedback opportunity, so please be sure to fill out all relevant fields to provide a comprehensive response.
-</thinking>
-
 # Home Automation System Features Feedback Poll - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on our home automation system, allowing us to identify areas of improvement and make informed decisions to better serve you and our community.

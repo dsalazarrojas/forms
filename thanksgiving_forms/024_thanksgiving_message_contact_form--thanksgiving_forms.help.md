@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to submit a message for a specific purpose, likely for a business or organization's customer service or support team. The form is intended for users to share their thoughts, feedback, or inquiries related to the organization's services or products. 
-</thinking>
-
 # Thanksgiving Message Contact Form - Help Guide
 ## Purpose
 The Thanksgiving Message Contact Form is a tool for users to share their thoughts, feedback, or inquiries related to our organization's services or products. It is designed to allow users to send a message to our customer service team during the holiday season.

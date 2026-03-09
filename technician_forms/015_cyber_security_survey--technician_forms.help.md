@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from end-users on their cyber security posture. This includes questions such as what frequency and type of threats they face, their current risk level, and other relevant details. Before starting the survey, please make sure you have not completed this form previously. If you have any concerns or issues related to cyber security, please answer the questions honestly to provide accurate feedback.
-</thinking>
-
 # Cyber Security Survey - Help Guide
 ## Purpose
 This form is designed to collect information from end-users on their cyber security posture. The purpose of this form is to gather feedback on the types of threats you face, your current risk level, and other relevant details to help us better understand your situation.

@@ -1,9 +1,3 @@
-<thinking>
-
-As a form designer and technical writer, I will create a user-facing help guide for the "Landlord Permission Form" based on the provided YAML schema. I will ensure that the guide is concrete, concise, and practical, and that each field explanation is based on the actual field labels and types provided in the schema.
-
-</thinking>
-
 # Landlord Permission Form - Help Guide
 ## Purpose
 The "Landlord Permission Form" is a form used to collect information from tenants to request permission from their landlord to keep a pet in a rental property. This form is intended to gather essential details that will facilitate a smooth and informed decision-making process between the tenant and landlord.

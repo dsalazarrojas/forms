@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an individual's satisfaction level with their experience in their current position. This data will be used to identify areas of improvement and to understand the overall sentiment towards the organization's technology services. This form is not a mandatory form, and users are free to submit their feedback on a voluntary basis. This form will be used for internal analysis and improvement purposes only, and the information collected will be handled in accordance with the organization's data protection policies.</thinking>
-
 # it_satisfaction_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from individuals about their overall satisfaction with the organization's technology services. The data collected will help identify areas of improvement and provide insight into the overall sentiment towards our technology services.

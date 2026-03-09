@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to provide a clear understanding of the purpose and functionality of the Healthcare Technology Adoption Survey form. The form is designed to gather information about the primary goal of the organization, the type of organization, the role within the organization, level of experience with the technology, and other relevant questions to better understand the current state of healthcare technology adoption in healthcare settings.
-
-To ensure that users understand the correct use of the form, this guide will cover the following topics: the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-**Please note that this guide assumes that the user has a basic understanding of the concepts and terminology used in the form.**
-
-</thinking>
-
 # Healthcare Technology Adoption Survey - Help Guide
 ## Purpose
 The Healthcare Technology Adoption Survey is a form designed to gather information about the primary goal of the organization, the type of organization, the role within the organization, level of experience with the technology, and other relevant questions to better understand the current state of healthcare technology adoption in healthcare settings.

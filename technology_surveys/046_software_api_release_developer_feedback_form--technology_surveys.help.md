@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # software_api_release_developer_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from developers on the release of software APIs. It helps us understand your experience and concerns regarding the API release process. Please fill out this form to provide your feedback, so we can improve the process for future releases.

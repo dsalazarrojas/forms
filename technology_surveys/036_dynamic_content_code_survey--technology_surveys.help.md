@@ -1,7 +1,3 @@
-<thinking>
-# To avoid duplicated efforts and ensure a smooth user experience, please make sure that this form is only used for its intended purpose: providing feedback on the dynamic content code. The form should not be used for any other purpose, such as for general comments or questions.
-</thinking>
-
 # Dynamic Content Code Survey - Help Guide
 ## Purpose
 The Dynamic Content Code Survey is designed to collect feedback on the dynamic content code used in our applications. This survey aims to gather information about how you use the dynamic content code, what you like or dislike about it, and any suggestions you may have for improvement.

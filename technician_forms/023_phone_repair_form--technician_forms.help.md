@@ -1,7 +1,3 @@
-<thinking>
-The "phone_repair_form" is used to report phone-related issues or repairs to the service team. This form is not intended for general customer inquiries or feedback. It's best to use this form if you're a technician, supervisor, or team lead who needs to document and track phone repair status. Please ensure you're not duplicating effort and only submit new issues not already reported. This form is not meant for customer-facing purposes.
-</thinking>
-
 # phone_repair_form - Help Guide
 ## Purpose
 This form is designed for phone repair-related tasks, allowing you to report and track issues, as well as confirm service and technician involvement.

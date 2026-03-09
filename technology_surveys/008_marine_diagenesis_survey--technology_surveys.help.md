@@ -1,5 +1,3 @@
-<thinking>Is the goal to create a comprehensive guide that helps users understand the Marine Diagenesis Survey form, covering its purpose, step-by-step completion, and a detailed explanation of each field? This guide should be concise and practical, taking into account the provided YAML fields, while avoiding unnecessary assumptions about the business logic behind the form. I'll assume that each field label is a direct representation of its purpose or intent, as no further information is available.</thinking>
-
 # Marine Diagenesis Survey - Help Guide
 ## Purpose
 

@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to gather information on the sustainability practices integration within a company. This form is designed to be completed by employees of a company to indicate their level of integration with different sustainability practices. It will help in understanding the current status of sustainability practices within the company and identify areas that need improvement.
-
-Before proceeding, please ensure that you have not already completed this form in the past to avoid duplication of information.
-
-This guide will walk you through the process of completing the form step-by-step.
-
-</thinking>
-
 # Sustainability Practice Integration Survey - Help Guide
 ## Purpose
 The Sustainability Practice Integration Survey is designed to help us understand the current status of sustainability practices within your company. Please take a few minutes to complete this survey and provide honest feedback on the level of integration of different sustainability practices in your work.

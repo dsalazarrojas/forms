@@ -1,8 +1,3 @@
-<thinking>
-To verify that a Brow Sculpting Technician (BST) submits a form with accurate and up-to-date information to renew their registration.
-To prevent duplication of forms, this form is designed to only be completed by registered BSTs, and the technician's name and license number will be verified against our database before submission. This is to ensure that only valid registrations are updated, and to prevent potential errors or misrepresentations.
-</thinking>
-
 # Brow Sculpting Technician Renewal Registration Form - Help Guide
 ## Purpose
 This form is used by registered Brow Sculpting Technicians (BSTs) to renew their registration. 

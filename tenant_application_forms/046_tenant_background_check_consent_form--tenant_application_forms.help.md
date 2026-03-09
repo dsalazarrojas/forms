@@ -1,5 +1,3 @@
-<thinking>Internal purpose of this form is to collect tenant background check consent and relevant information from landlords/tenants. This form should only be filled out by landlords/tenants who are part of a background check process. It is recommended to fill out this form only once and not duplicate the information elsewhere.</thinking>
-
 # tenant_background_check_consent_form - Help Guide
 ## Purpose
 This form is used to collect background check consent and relevant information from landlords/tenants during the background check process.

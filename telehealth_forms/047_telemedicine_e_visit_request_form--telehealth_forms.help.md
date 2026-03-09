@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for a telemedicine e-visit, which is a virtual medical consultation between a patient and a healthcare provider. The form is used to gather necessary details from the patient before the e-visit, ensuring that the provider has all the necessary information to conduct an effective and safe virtual consultation. 
-The form is designed to be completed by the patient before the e-visit, and the information collected will be reviewed by the healthcare provider before the session. The form should only be used for new patients, and if a patient has already filled out the form, they should not be required to do so again.
-
-</thinking>
-
 # telemedicine_e_visit_request_form - Help Guide
 ## Purpose
 This form is used to gather information from patients before a virtual medical consultation (e-visit) with a healthcare provider. The form helps the provider to prepare for the e-visit and ensures that the patient has all the necessary information to provide accurate and safe medical care.

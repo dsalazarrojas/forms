@@ -1,11 +1,3 @@
-<thinking>
-
-To determine whether this form is relevant and should be included in the help guide, let's analyze its purpose and content. The form is called "Installation Check Form" and appears to be used for checking and reporting on the status of equipment installations. It seems to cover various aspects of the installation process, including equipment condition, location, systems and services involved, requirements, and installation status. 
-
-Given its structure, it's likely to be a valuable resource for technicians to record and document installation information accurately. Therefore, including this form in the help guide is relevant and useful for end-users.
-
-</thinking>
-
 # Installation Check Form - Help Guide
 ## Purpose
 The Installation Check Form is used to collect information about equipment installations, including their condition, location, systems and services involved, and installation status.

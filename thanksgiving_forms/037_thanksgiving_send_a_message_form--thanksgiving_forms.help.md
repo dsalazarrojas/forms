@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to allow users to express their gratitude and send messages to their friends and family during the Thanksgiving season. The form is intended to be a convenient and easy way to share thoughts, feelings, and appreciation with loved ones. 
-
-The form has been generated using AI and is not affiliated with any specific form platform. It is an original creation, released under a Creative Commons license, allowing users to use, modify, and distribute the form for their own purposes.
-
-This form is suitable for general use, but please note that it may not cover all specific business or personal needs. 
-
-</thinking>
-
 # Thanksgiving Send A Message Form - Help Guide
 ## Purpose
 This form is designed to allow users to express their gratitude and send messages to their friends and family during the Thanksgiving season.

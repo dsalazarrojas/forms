@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Thanksgiving Drinking Poll" form, I need to understand the purpose of the form and how it will be used. The form appears to be a survey designed to gather information about individuals' preferences for drinks during the Thanksgiving holiday. It asks users to choose their favorite drink types, preferred times to drink, and other related questions. This form seems to be designed for entertainment or social purposes, such as gathering information for a holiday gathering or event.
-</thinking>
-
 # Thanksgiving Drinking Poll - Help Guide
 ## Purpose
 This form is a survey designed to gather information about your preferences and habits regarding drinks during the Thanksgiving holiday.

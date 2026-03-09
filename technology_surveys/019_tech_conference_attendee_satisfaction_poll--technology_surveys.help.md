@@ -1,10 +1,3 @@
-<thinking>
-We're creating a form to gather feedback from conference attendees. The form will be used to gauge their satisfaction with various aspects of the conference, including the event name, date, sessions, speakers, food, and overall experience. This information will help us understand what worked well and what can be improved for future conferences.
-We'll be checking for duplication of answers to prevent multiple forms from being submitted with the same information. We need to ensure that each attendee's feedback is unique and accurate.
-This form is designed to be completed by conference attendees who have already been to the event.
-Please note that some fields are marked as "optional," but providing detailed and honest feedback will help us improve future conferences.
-</thinking>
-
 # Tech Conference Attendee Satisfaction Poll - Help Guide
 ## Purpose
 This form is designed to gather feedback from conference attendees on their overall experience at the conference.

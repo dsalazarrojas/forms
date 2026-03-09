@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to collect insights from farmers on their adoption of new agricultural technologies. This form will help researchers understand the awareness, adoption status, and main barriers to adoption of these technologies among farmers. It will also help gauge the interest in training and financing options for technology adoption.
-
-To ensure relevance, we are targeting farmers who are familiar with new agricultural technologies, and to avoid duplication, we are using a mix of multiple-choice and text fields to collect qualitative and quantitative data.
-
-</thinking>
-
 # Agricultural Technology Adoption Farmer Insights Survey - Help Guide
 ## Purpose
 This survey aims to collect information on your experiences, perceptions, and opinions on the adoption of new agricultural technologies. Your input is invaluable in helping us understand the challenges and opportunities associated with these technologies.

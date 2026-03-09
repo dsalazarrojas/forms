@@ -1,7 +1,3 @@
-<thinking>
-Internal Note: This form is part of the internal "thanksgiving_forms" category and is intended for employees to submit their holiday request, including a brief description and personal contact information. This form helps ensure that managers are informed of their team members' holiday schedules, preventing overlap and miscommunication. Ensure that the form is filled out correctly to avoid delays in processing.
-</thinking>
-
 # thanksgiving_request_form - Help Guide
 ## Purpose
 This form is used for employees to submit their holiday requests, including a brief description of their desired holiday schedule and personal contact information.

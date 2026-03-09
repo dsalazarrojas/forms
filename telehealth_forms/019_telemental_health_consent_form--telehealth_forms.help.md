@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to capture information related to telehealth services, specifically the informed consent of patients and healthcare providers. It is used for healthcare organizations to ensure that patients and healthcare providers are aware of their rights and responsibilities regarding telehealth services.
-
-</thinking>
-
 # telemental_health_consent_form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from patients and healthcare providers for telehealth services. It covers the basics of telehealth, patient rights, and responsibilities, as well as healthcare provider and healthcare organization requirements.

@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand the purpose and functionality of the form. Based on the provided YAML fields, it seems that this form is designed to gather feedback and opinions from users about smart locks, specifically on a company's security perception. The form asks about the level of trust users have in smart locks, their concerns, satisfaction, and other relevant details. It seems that the form is intended for companies to fill out, possibly as part of a market research or customer feedback process.
-
-However, we should double-check that this form is not a duplicate or unnecessary for the company's existing processes. If the form is a duplicate or not relevant, we should adjust the content accordingly.
-
-Assuming this form is necessary and relevant, let's create a user-facing help guide that explains its purpose, how to complete it, and what each field means.</thinking>
-
 # Smart Lock Security Perception Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and opinions from users about smart locks, specifically on a company's security perception. Your input will help us understand your trust level in smart locks, concerns, and overall satisfaction.

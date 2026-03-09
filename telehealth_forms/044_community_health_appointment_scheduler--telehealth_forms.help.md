@@ -1,7 +1,3 @@
-<thinking>
-This form is a Community Health Appointment Scheduler, which is used to book appointments with healthcare providers for various types of visits. This form should only be used for legitimate appointment scheduling and not for other purposes. Please do not duplicate your appointment requests, as this can lead to scheduling conflicts and confusion.
-</thinking>
-
 # Community Health Appointment Scheduler - Help Guide
 ## Purpose
 The purpose of this form is to schedule appointments with healthcare providers for various types of visits. 

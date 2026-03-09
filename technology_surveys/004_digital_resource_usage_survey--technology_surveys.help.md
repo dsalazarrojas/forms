@@ -1,7 +1,3 @@
-<thinking>
-This guide will help end users understand how to complete the Digital Resource Usage Survey form, which is used to gather information on how users access and use digital resources. This form is not intended for duplicate completions from the same user, so only one response per user will be collected. This is to ensure accurate and reliable data for analysis. If the user has already completed this survey, they will be directed to the next page or prompted to return to a later time.
-</thinking>
-
 # Digital Resource Usage Survey - Help Guide
 ## Purpose
 This survey is designed to gather information on how users access and use digital resources. Your input will help us understand your preferences and experiences with digital resources, which will inform future development and improvement of these resources.

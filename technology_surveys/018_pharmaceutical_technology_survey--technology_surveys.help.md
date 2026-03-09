@@ -1,10 +1,3 @@
-<thinking>
-This form is used to gather information about a pharmaceutical employee's experience, adoption, and attitudes towards various technologies. The goal is to understand the employee's proficiency, usage, and challenges related to pharmaceutical technology. This data will help the organization to better understand the current state of technology usage and identify areas for improvement.
-
-Before proceeding, please ensure that you are filling out the form for the purpose of gathering data for the "Pharmaceutical Technology Survey". This form should only be filled out once, as it will help us to collect comprehensive data. If you have previously filled out a similar form, please do not fill this out again.
-
-</thinking>
-
 # Pharmaceutical Technology Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experience, adoption, and attitudes towards various technologies used in the pharmaceutical industry. This will help us to better understand the current state of technology usage and identify areas for improvement.

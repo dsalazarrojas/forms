@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about the preferences of users regarding various features and platforms related to list widgets. The form is likely used for internal purposes, such as product development, market research, or user experience improvement. 
-
-It's essential to ensure that this form is filled out by users with the correct context and understanding of the questions being asked. To achieve this, it's crucial to provide a clear and concise help guide for end-users.
-</thinking>
-
 # List Widget Preferences Survey - Help Guide
 ## Purpose
 This form is designed to collect user opinions and preferences regarding various features and platforms related to list widgets. Your input will help our team improve and develop features that cater to your needs.

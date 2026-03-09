@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ### Family Needs Assessment Form - Help Guide
 
 ## Purpose

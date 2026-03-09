@@ -1,8 +1,3 @@
-<thinking>
-This guide assumes you are filling out the "Gadget User Experience Questionnaire". This form is meant to gather information about your interaction with a gadget, such as a device or tool. It's designed to help us understand how you use it, how satisfied you are with it, and areas for improvement.
-Please note that this guide only covers the fields of the form that are available, but you may not have access to all fields if your role or permissions do not allow it.
-</thinking>
-
 # Gadget User Experience Questionnaire - Help Guide
 ## Purpose
 

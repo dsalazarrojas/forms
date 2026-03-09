@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for users to submit requests for a Thanksgiving dinner box. The purpose of this form is to collect information from users about their preferences, including their name, email, phone, message, special requests, number of guests, and preferred date and time for pickup. This form is likely to be used by a business or organization offering a Thanksgiving dinner service, where users can request a customized box of food for a specific date and time.
-
-The form should only be completed once per user to avoid duplication of requests. Users should not submit multiple forms if they have already submitted one previously.
-
-Please make sure you are submitting a new request if you want to receive a new Thanksgiving dinner box.
-
-Please be honest when filling out the form, as this will help us to better understand your needs and provide you with a more accurate and personalized service.
-
-</thinking>
-
 # Thanksgiving Dinner Box Request Form - Help Guide
 ## Purpose
 The Thanksgiving Dinner Box Request Form is designed to collect information from users about their preferences for a customized Thanksgiving dinner box. This form helps the business or organization offering the service to understand the users' needs and provide a personalized experience.

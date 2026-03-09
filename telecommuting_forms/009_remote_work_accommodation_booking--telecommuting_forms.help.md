@@ -1,25 +1,3 @@
-<thinking>
-This form is designed to help employees request remote work arrangements, such as flexible work hours or remote work from home options, from their manager. The form is used to gather necessary information from the employee, including the dates they want to work remotely, the location, and the reason for the request. The manager will then review the request and provide approval or denial, which can be accompanied by comments.
-
-The form is composed of the following fields:
-
-*   Start Date
-*   End Date
-*   Location
-*   Reason
-*   Work Arrangement Terms
-*   Accommodation Details
-*   Terms Approval
-*   Work Arrangement Terms Approval
-*   Approval Comments
-
-This form is used to book remote work arrangements for employees, ensuring that the manager has all the necessary information to make an informed decision.
-
-The form is used to gather details about the employee's remote work arrangement, including the dates of the arrangement, the location, and the terms of the arrangement. The manager will review the request and provide approval or denial, which can be accompanied by comments.
-
-The form will be used to determine if the employee's work arrangement is approved or not. If approved, the manager will provide comments on the approval. If denied, the manager will also provide comments on the denial.
-</thinking>
-
 # Remote Work Accommodation Booking - Help Guide
 ## Purpose
 This form is used to request remote work arrangements for employees, such as flexible work hours or work from home options.

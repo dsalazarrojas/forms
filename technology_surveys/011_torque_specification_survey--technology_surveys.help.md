@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect data on torque specifications and their related standards, values, and challenges. The goal is to gather information that will help inform decisions on torque standardization and potential areas for improvement. Please note that this survey will only be relevant to users who have experience with torque specifications and standards in their professional work.
-</thinking>
-
 # Torque Specification Survey - Help Guide
 ## Purpose
 The Torque Specification Survey is a tool designed to collect information about your experience with torque specifications and standards. Your input will help us better understand your needs and preferences when it comes to torque standardization.

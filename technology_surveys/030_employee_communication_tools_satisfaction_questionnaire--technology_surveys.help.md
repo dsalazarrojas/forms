@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help us understand how employees perceive and utilize the communication tools provided by the company. The goal is to assess their satisfaction with these tools and identify areas for improvement. Please ensure that you are completing this form in an authentic and honest manner, as the results will help inform future decisions regarding employee communication. Before completing this form, please take a moment to review it carefully to ensure you're providing accurate and thorough feedback.
-</thinking>
-
 # Employee Communication Tools Satisfaction Questionnaire - Help Guide
 ## Purpose
 This form is used to gather feedback on employee satisfaction with company-provided communication tools. Please answer the questions honestly, and provide as much detail as possible.

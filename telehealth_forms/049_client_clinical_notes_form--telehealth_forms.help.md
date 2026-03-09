@@ -1,12 +1,3 @@
-<thinking>
-This form is used for clinical note-taking during telehealth and in-person sessions. The fields are designed to provide a standardized way to record essential information for client sessions, including client details, session specifics, and clinical observations. The form also includes fields for risk assessment, billing codes, and clinician signature. This is meant to be a general guide, and some fields might not be directly relevant to every session type, but rather serve as a base for most common scenarios.
-
-The form should not be filled out for sessions where HIPAA compliance is not necessary, or if the client is a minor (under 18 years old) or a court-appointed guardian. 
-
-Please fill out this form for each session, and ensure the client's personal details are accurately recorded.
-
-</thinking>
-
 # Client Clinical Notes Form - Help Guide
 ## Purpose
 The Client Clinical Notes Form is a tool for documenting client sessions, including telehealth and in-person interactions. This form ensures accurate and comprehensive recording of essential information for each session.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the "usage_context_survey" form, which is an AI-generated form used to collect feedback and information about user behavior and preferences. This form is not affiliated with, endorsed by, or derived from any form platform, and its purpose is to provide a neutral and objective way of collecting data for research and analysis. Before proceeding, please ensure that this form is relevant to your needs and not a duplicate effort. If you have similar forms or surveys already in use, it may be more effective to adapt or reuse your existing forms instead of creating another instance.
-</thinking>
-
 # usage_context_survey - Help Guide
 ## Purpose
 This form is designed to collect information about your usage habits and behaviors, helping us understand how you interact with tools, platforms, and services. Your input will aid in improving our services and providing more efficient solutions for our users.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback and opinions from employees about the company's remote work policy. It aims to understand what type of remote work arrangement employees prefer, their satisfaction with the current policy, and any suggestions for improvement. This form should only be filled out once by each employee to prevent duplication of effort and ensure consistent feedback.
-</thinking>
-
 # Tech Employee Remote Work Policy Poll - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and opinions from employees about the company's remote work policy. It will help us understand what type of remote work arrangement employees prefer, their satisfaction with the current policy, and any suggestions for improvement.

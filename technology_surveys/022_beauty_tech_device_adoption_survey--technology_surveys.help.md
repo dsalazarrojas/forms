@@ -1,8 +1,3 @@
-<thinking>
-To create a comprehensive help guide for this form, first, let's analyze the form's purpose. This is a "Beauty Tech Device Adoption Survey", which is likely designed to gather insights on how individuals use and perceive beauty technology devices. It aims to understand their adoption rates, satisfaction levels, and factors influencing their purchasing decisions. This form is probably meant to collect data for research or business development purposes, possibly to inform the development of future beauty technology products or services.
-
-We should ensure that users understand the form's purpose and relevance to their interests. If users are not familiar with beauty technology or devices, they might find some questions confusing. Therefore, it's essential to provide clear explanations to help them fill the form accurately and confidently. To avoid duplication, it's a good idea to verify that users do not have to fill out the survey multiple times, especially since the form is required in some fields, indicating its importance in the data collection process.</thinking>
-
 # Beauty Tech Device Adoption Survey - Help Guide
 
 ## Purpose

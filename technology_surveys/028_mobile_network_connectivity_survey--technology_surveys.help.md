@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect feedback about mobile network connectivity from end-users. The purpose of this form is to gather information about the user's experience with their mobile network, specifically their level of satisfaction, coverage, and any issues they may have encountered. This form should only be filled out by individuals who have experienced issues with their mobile network or are interested in providing feedback.
-
-To ensure the form's integrity, please note that:
-
-* Each field label is based on the provided YAML fields.
-* Fields are explained in a concrete and concise manner.
-* If a field label is weak or unclear, the explanation attempts to provide the best-effort intent.
-
-</thinking>
 # Mobile Network Connectivity Survey - Help Guide
 ## Purpose
 The Mobile Network Connectivity Survey is designed to collect feedback about your mobile network experience. This form helps us understand your level of satisfaction, coverage, and any issues you may have encountered.

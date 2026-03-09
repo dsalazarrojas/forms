@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Remote Work Survey - Help Guide
 
 ## Purpose

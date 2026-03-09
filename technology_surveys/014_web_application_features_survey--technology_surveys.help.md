@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather data on web application features, aiming to understand user opinions on their current state and suggestions for improvements. It's crucial to fill it out only once you have experience with the web application. This form will guide you through the questions, ensuring you provide the most accurate feedback.
-
-Please ensure you're not filling this form in multiple instances, as it might lead to duplicated responses and make it harder for us to understand your actual opinions.
-
-The form is divided into several sections, each covering a different aspect of the web application.
-</thinking>
-
 # Web Application Features Survey - Help Guide
 ## Purpose
 This survey is designed to gather your thoughts and suggestions on web application features, helping us to better understand your expectations and improve the application.

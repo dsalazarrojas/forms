@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help clinicians and therapists collect and analyze data about their clients' personal information, mental health concerns, and treatment goals. The form is part of a larger system used for case conceptualization and treatment planning. It's essential to understand that this form is AI-generated and does not replicate any specific proprietary platform. The form's purpose is to help therapists gather essential information for effective case conceptualization, which involves analyzing a client's biopsychosocial profile to identify key concerns, strengths, and areas requiring intervention.
-</thinking>
-
 # Case Conceptualisation Form - Help Guide
 ## Purpose
 

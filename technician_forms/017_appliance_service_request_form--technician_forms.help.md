@@ -1,6 +1,3 @@
-<thinking>
-To ensure the Appliance Service Request Form is used correctly and efficiently, please note that this form is intended for customers to request service for their appliances. It is meant to gather essential information about the customer's appliance and service requirements. Before proceeding, kindly confirm that you are not duplicating an existing request. If you have filled out this form previously, please do not resubmit. This will help us better prioritize and manage our service requests.</thinking>
-
 # Appliance Service Request Form - Help Guide
 
 ## Purpose

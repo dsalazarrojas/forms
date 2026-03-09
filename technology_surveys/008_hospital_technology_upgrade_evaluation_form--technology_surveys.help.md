@@ -1,9 +1,3 @@
-<thinking>
-
-The Hospital Technology Upgrade Evaluation Form is designed to assess the current state of hospital technology and infrastructure to identify areas where upgrades are needed to improve patient care and operational efficiency. This form collects information from hospital staff members about their experiences with current systems, their perceptions of the technology's effectiveness, and their suggestions for improvements. The form is designed to be completed by hospital staff members, and it helps identify common issues and areas for improvement. By evaluating technology use, the hospital can identify potential risks and opportunities for upgrading technology to enhance patient care, streamline operations, and reduce costs.
-
-</thinking>
-
 # Hospital Technology Upgrade Evaluation Form - Help Guide
 
 ## Purpose

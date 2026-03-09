@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Teaching Innovation Adoption Survey - Help Guide
 
 ## Purpose

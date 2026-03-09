@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants for a telehealth technology research grant. This form is used to gather necessary details about the applicant and their project, and will help the grant evaluation process. To ensure the integrity of the grant process, please fill out this form accurately and completely. If you're unsure about any field, you can contact us at form@gic.mx for clarification. This form is not intended to be a comprehensive survey, but rather a guide to help you provide essential information about yourself and your project. 
-</thinking>
-
 # Telehealth Technology Research Grant Application - Help Guide
 ## Purpose
 The Telehealth Technology Research Grant Application form is designed to collect necessary information from applicants for a telehealth technology research grant. Please fill out this form accurately and completely to ensure your application is considered for the grant.

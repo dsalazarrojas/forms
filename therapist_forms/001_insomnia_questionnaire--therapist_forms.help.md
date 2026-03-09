@@ -1,16 +1,3 @@
-<thinking>
-
-This form, titled "insomnia_questionnaire", is designed to collect information about a user's sleep habits and experiences. To ensure the form's purpose and relevance, consider the following:
-
-*   Are you a healthcare professional or a researcher conducting studies on sleep disorders?
-*   Are you looking to collect data on sleep habits and experiences for research or clinical purposes?
-*   Do you need to assess the effectiveness of a sleep-related intervention or treatment?
-*   Are you a patient or individual seeking help for sleep issues?
-
-If you've answered "yes" to these questions, this form may be a valuable tool for your needs. However, if you're unsure or need further clarification, please consult with a healthcare professional or a research expert.
-
-</thinking>
-
 # insomnia_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a person's sleep habits and experiences. It's intended to help healthcare professionals, researchers, or individuals seeking help for sleep issues by gathering data on various aspects of sleep quality, duration, and satisfaction.

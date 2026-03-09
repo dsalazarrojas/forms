@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information related to patient testing and appointment scheduling. It is possible that this form will be used for multiple purposes, such as collecting patient data for testing and appointment scheduling with a healthcare professional. However, to ensure that this form is relevant and not duplicating existing forms, please verify that the form fields are not already covered by another form and that the purpose of this form is not already met by an existing process.
-</thinking>
-
 # Testing Appointment Form - Help Guide
 ## Purpose
 The Testing Appointment Form is designed to collect information related to patient testing and appointment scheduling. This form is intended to be used in a healthcare setting to gather data for testing and appointment scheduling purposes.

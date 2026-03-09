@@ -1,26 +1,3 @@
-<thinking>
-We need to ensure that the "Workspace Login Experience Survey" form is filled out accurately by end users. This guide will help them understand the purpose of the form, how to complete it, and what each field means, to ensure they provide valuable feedback.
-
-To determine the relevance and non-duplication of this guide, let's analyze the form's purpose and fields. The form is designed to collect feedback on the login experience of users, specifically on how often they log in, devices they use, and issues they encounter during login. 
-
-The form consists of 12 fields, including:
-
-* login_frequency: How often users log in to the workspace.
-* days_logged_in: The number of days users log in.
-* devices_used: Devices used to access the workspace.
-* browsers_used: Browsers used to access the workspace.
-* issues_encountered: Issues encountered during login.
-* satisfaction: Level of satisfaction with the login experience.
-* device_type: Type of device used.
-* device_os: Operating system on the device used.
-* browser_type: Type of browser used.
-* browser_os: Operating system on the browser used.
-* issue_type: Types of issues encountered during login.
-* issue_description: Brief description of issues encountered during login.
-
-This guide will cover each field in detail to ensure end users complete the form correctly.
-</thinking>
-
 # Workspace Login Experience Survey - Help Guide
 ## Purpose
 

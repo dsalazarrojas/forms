@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to nominate a telehealth service. The purpose of this form is to collect relevant information to evaluate and improve the quality of the service. Please ensure that you are nominating a service that you have used in the past 30 days. To avoid duplication, only submit a single nomination per service.
-</thinking>
-
 # Best Telehealth Service Nomination Form - Help Guide
 ## Purpose
 The Best Telehealth Service Nomination Form is designed to collect user feedback on the quality and effectiveness of telehealth services. This form helps to identify areas of excellence and opportunities for improvement.

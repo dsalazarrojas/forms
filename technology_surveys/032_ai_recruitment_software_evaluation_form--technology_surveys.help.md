@@ -1,6 +1,3 @@
-<thinking>
-We should create a user-facing help guide for the AI Recruitment Software Evaluation Form to ensure that end-users understand the form's purpose, how to complete it, and what each field means. This guide will provide a clear and concise explanation of each field, helping users navigate the form effectively. Before proceeding, let's confirm that the form's purpose is to evaluate the AI Recruitment Software's features, user experience, and overall performance. This form is intended to collect feedback from evaluators on various aspects of the software, including its core features, ease of integration, accuracy of candidate matching, privacy and compliance support, total cost estimate, and recommendation. We should review the form's YAML fields to create a comprehensive explanation of each field's purpose and functionality.</thinking>
-
 # AI Recruitment Software Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on the AI Recruitment Software's features, user experience, and overall performance. It will help us evaluate the software's core features, ease of integration, accuracy of candidate matching, and other relevant factors.

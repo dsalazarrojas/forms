@@ -1,13 +1,3 @@
-<thinking>... internal reasoning and non-duplication check ...
-
-This form appears to be a user-facing feedback survey designed to gather insights from users about the Continuous Integration/Continuous Delivery (CI/CD) process. It seems to be focused on gathering data about the effectiveness, usability, and features of the pipeline. The survey asks users to rate various aspects of the pipeline on a scale of 1-5, select from options, or provide free-form text responses. The goal is likely to identify areas for improvement and make data-driven decisions to enhance the CI/CD process.
-
-The form has several fields that are marked as required, indicating that users are expected to provide responses for these fields. The optional fields allow users to provide additional feedback or comments.
-
-There is no clear indication that this form has been previously used or that there are any specific concerns or issues with the current CI/CD process.
-
-No further internal reasoning is needed, proceeding to the help guide...</thinking>
-
 # CI/CD Process Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from users about the Continuous Integration/Continuous Delivery (CI/CD) process. Your responses will help us identify areas for improvement and make data-driven decisions to enhance the process.

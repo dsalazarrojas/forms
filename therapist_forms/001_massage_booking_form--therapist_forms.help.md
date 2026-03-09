@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for massage bookings. It's likely used by a spa or wellness center to schedule and manage massage appointments. The form likely requires clients to select a date and time for their massage, choose a massage type and duration, and provide their contact information. This form might be used by a therapist or staff member at the center to prepare for the massage and ensure a smooth experience for the client. Before proceeding, ensure that the form is being used for a legitimate massage booking purpose and not for other internal use cases. Please verify that the form is not a duplicate of another form with similar fields.
-</thinking>
-
 # Massage Booking Form - Help Guide
 ## Purpose
 This form is used to collect information for massage bookings. It helps the spa or wellness center schedule and manage massage appointments.

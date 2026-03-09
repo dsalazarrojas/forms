@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their experience with a mobile application. The purpose of this form is to gather insights into the user's satisfaction, usage frequency, and experience with the app. This form will help us understand what users like and dislike about the app and identify areas for improvement.
-
-The form is not duplicated from any other form platform, but rather created based on publicly available survey topic metadata.
-
-</thinking>
 # mobile_app_survey_template - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with a mobile application. The purpose of this form is to gather insights into user satisfaction, usage frequency, and experience with the app.

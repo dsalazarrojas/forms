@@ -1,11 +1,3 @@
-<thinking>
-This form is a Remote Healthcare Services Effectiveness Survey, designed to gather feedback on various aspects of telehealth services. 
-This form is meant to assess the quality and satisfaction of patients with telehealth services, including patient experience, staff availability, communication effectiveness, and care coordination. 
-It's essential to ensure that the form is completed accurately and thoroughly, as the information collected will help healthcare providers evaluate and improve their services. 
-
-Before starting the survey, please ensure that you have not previously completed this form for the same service. 
-</thinking>
-
 # Remote Healthcare Services Effectiveness Survey - Help Guide
 ## Purpose
 This survey aims to collect feedback on the quality and effectiveness of telehealth services provided to you. Your input will help healthcare providers understand your needs and improve their services.

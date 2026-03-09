@@ -1,9 +1,3 @@
-<thinking>
-This form is used for a mood tracking form, likely for patients or individuals to log and report their mood and emotional state over a certain period. This form is designed to collect various pieces of information about the user's mood, emotions, and other relevant factors. 
-
-Before filling out this form, please ensure that you are not duplicating efforts or submitting this form for the same purpose more than once. It is essential to provide accurate and honest answers to the questions in the form.
-</thinking>
-
 # mood_tracking_form - Help Guide
 ## Purpose
 The mood_tracking_form is a questionnaire designed to help patients or individuals track their mood, emotions, and other relevant factors over a certain period. It provides a way to gather information about their mental state at different intervals, aiding in better understanding and management.

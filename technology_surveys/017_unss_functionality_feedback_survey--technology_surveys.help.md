@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback on the functionality of UNSS, soliciting end-users' opinions on their overall experience and satisfaction with specific features, as well as identifying areas that need improvement. This form is likely used for product development, quality assurance, or customer service purposes.
-This form appears to be a comprehensive survey that covers various aspects of UNSS, including overall satisfaction, feature-specific feedback, and suggestions for improvement. To ensure accuracy, please verify that the survey is being filled out by the intended audience.
-</thinking>
-
 # unss_functionality_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the functionality of UNSS, helping us to better understand your experience and identify areas for improvement.

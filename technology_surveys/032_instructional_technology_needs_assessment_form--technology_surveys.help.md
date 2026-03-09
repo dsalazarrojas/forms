@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about the instructional technology needs of a school or educational institution. It is intended to help educators and administrators assess the current state of technology use in the classroom and identify areas where improvement is needed. 
-To complete this form, follow the instructions below.
-</thinking>
-
 # Instructional Technology Needs Assessment Form - Help Guide
 ## Purpose
 The Instructional Technology Needs Assessment Form is used to gather information about the instructional technology needs of a school or educational institution. It is intended to help educators and administrators assess the current state of technology use in the classroom and identify areas where improvement is needed.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to collect feedback and preferences from users regarding voice guidance and features. It may be used to gather data for improving the overall user experience. Before proceeding, ensure that you haven't filled out this form in the past to avoid duplication of effort. If you're unsure or need clarification, please contact the relevant team.
-</thinking>
-
 # voice_guidance_preferences_survey - Help Guide
 ## Purpose
 This form is designed to collect your preferences and feedback on voice guidance and features. Your input will help us understand your needs and improve the overall user experience.

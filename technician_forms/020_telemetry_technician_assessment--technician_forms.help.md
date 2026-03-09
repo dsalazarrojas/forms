@@ -1,13 +1,3 @@
-<thinking>
-This guide is intended for technicians who wish to assess themselves on the Telemetry Technician Assessment form. This form is designed to gather information about the candidate's details, skills, experience, work hours, shift preferences, and emergency contact information. This guide is meant to be used by individuals who are familiar with the form's purpose and are seeking clarity on how to complete it properly. To ensure the most accurate and efficient completion of the form, it is essential to review this guide carefully.
-
-The Telemetry Technician Assessment form is a self-assessment form that is not meant to be completed by a hiring manager or supervisor. If you are an applicant, please refer to this guide for guidance on how to complete the form correctly.
-
-This guide is intended to provide a step-by-step walkthrough of the form, including explanations of each field and its intended use.
-
-Please review the form carefully and follow this guide to ensure accurate and efficient completion. If you have any questions or concerns, please consult with a technician or supervisor for assistance.
-</thinking>
-
 # Telemetry Technician Assessment - Help Guide
 ## Purpose
 The Telemetry Technician Assessment form is a self-assessment tool designed to collect information from candidates regarding their experience, skills, and availability. This form will help candidates to assess themselves on their fit for various roles and positions.

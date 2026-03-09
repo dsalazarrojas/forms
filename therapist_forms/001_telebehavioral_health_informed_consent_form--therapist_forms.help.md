@@ -1,25 +1,3 @@
-<thinking>
-**Note to the Form Designer and Writer:** This form appears to be a basic information gathering form for telebehavioral health services. The form asks for the user's (likely a therapist or healthcare provider) information, the date of consent, provider's name, patient's name, and patient's address. This form seems to be a standard setup for any healthcare or therapy-related service.
-
-Before proceeding, please review the form schema to ensure it is relevant and complete for the intended purpose and industry.
-
-Also, please note that the provided form has the following fields:
-
-* User Info (text)
-* Consent Date (date)
-* Provider Name (text)
-* Patient Name (text)
-* Patient Address (text)
-
-These fields are optional, meaning they are not marked as required.
-
-The form title suggests it is for telebehavioral health services, but it would be beneficial to add more fields or sections if the form is intended for multiple services or specific requirements.
-
-The provided form appears to be a basic setup for any healthcare or therapy-related service, but it is open to customization based on the specific needs of the service.
-
-Please proceed with creating the user-facing help guide, keeping these notes in mind.
-</thinking>
-
 # Telebehavioral Health Informed Consent Form - Help Guide
 ## Purpose
 This form is designed to gather essential information for telebehavioral health services, such as therapist or healthcare provider details, patient identification, and consent dates.

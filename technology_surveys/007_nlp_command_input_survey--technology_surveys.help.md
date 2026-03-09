@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## nlp_command_input_survey - Help Guide
 
 ## Purpose

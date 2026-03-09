@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Tech System Upgrade Impact Assessment Form", we first need to understand the purpose and structure of this form. The form, as described in the YAML input schema, is designed to assess the impact of a tech system upgrade. It's composed of several fields, each serving a specific purpose: expected impact, business risks, technical risks, readiness, technical readiness, business readiness, risks, date, time, email, phone number, comments, assigned team, and another text field. The form's primary goal is to gather information about the potential effects of a tech system upgrade on the business, including potential risks and readiness for the upgrade.
-
-We should ensure that users understand the importance of this information and how to fill out the form correctly to provide accurate feedback. This guide will provide a clear explanation of each field, helping users fill out the form with confidence.
-
-</thinking>
-
 # Tech System Upgrade Impact Assessment Form - Help Guide
 ## Purpose
 The Tech System Upgrade Impact Assessment Form is designed to collect data about the potential effects and implications of a tech system upgrade. This form should be filled out by users who are directly involved in or affected by the upgrade. The information gathered will help stakeholders assess and prepare for the upgrade.

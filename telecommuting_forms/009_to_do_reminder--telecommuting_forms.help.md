@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to provide a simple reminder system for users to create and manage tasks with deadlines and personal notes. This form can be used to generate a reminder template with the option to select multiple tasks, create a list of tasks, add personal notes, and set a deadline date.
-
-To ensure the form is relevant and not a duplication, the "To Do Reminder" form is primarily intended for users who need to create and manage tasks with deadlines, such as project managers, team leads, or individuals looking for a quick and efficient way to keep track of their tasks.
-
-</thinking>
-
 # To Do Reminder - Help Guide
 ## Purpose
 The "To Do Reminder" form is a tool for creating and managing tasks with deadlines and personal notes. It is designed to help users quickly generate a reminder template with the option to select multiple tasks, create a list of tasks, add personal notes, and set a deadline date.

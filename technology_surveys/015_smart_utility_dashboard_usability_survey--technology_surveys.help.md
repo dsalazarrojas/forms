@@ -1,10 +1,3 @@
-<thinking>
-To ensure that users understand the purpose and relevance of this form, we need to check for internal context and avoid duplication of effort. This form, "Smart Utility Dashboard Usability Survey", is designed to collect user feedback on the usability of a smart utility dashboard. The internal reasoning should help in ensuring that this form is being used correctly and for its intended purpose.
-
-For this form, the internal reasoning should focus on understanding the type of data it collects and its relevance to the internal project goals and objectives. 
-
-</thinking>
-
 # Smart Utility Dashboard Usability Survey - Help Guide
 ## Purpose
 The Smart Utility Dashboard Usability Survey is designed to collect user feedback on the usability of a smart utility dashboard. The survey aims to gather information on various aspects of the dashboard's usability, including user roles, usage frequency, usability ratings, feature feedback, improvement ideas, and more. 

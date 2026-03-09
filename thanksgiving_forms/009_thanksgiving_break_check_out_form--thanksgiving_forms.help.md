@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture information from students and staff members involved in the thanksgiving break checkout process. This includes student personal details, contact information, and sign-off procedures. The form is used to ensure accurate and efficient tracking of student checkouts, including dates and staff verification.
-</thinking>
-
 # Thanksgiving Break Check Out Form - Help Guide
 ## Purpose
 The Thanksgiving Break Check Out Form is used to gather information from students and staff members involved in the thanksgiving break checkout process.

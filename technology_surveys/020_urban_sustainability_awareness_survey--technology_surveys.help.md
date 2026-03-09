@@ -1,10 +1,3 @@
-<thinking>
-The Urban Sustainability Awareness Survey is a form designed to gather information from end-users on their current and future practices related to urban sustainability. This form is intended to help us better understand individual perspectives on contributing to urban sustainability. It is not a mandatory form, and users can answer as much or as little as they like. Please complete the form carefully and honestly to provide the most accurate information possible.
-To ensure the most effective and efficient use of this survey, please review and fill out each section carefully and thoughtfully. This will help us in our efforts to understand and improve urban sustainability practices.
-This form is not meant to be a lengthy or time-consuming process, but rather a brief and concise way for end-users to contribute their thoughts, practices, and interests related to urban sustainability.
-Please be aware that your responses will be kept confidential and anonymous. The information collected will be used to help inform future efforts and initiatives related to urban sustainability.
-</thinking>
-
 # Urban Sustainability Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather information from end-users on their current and future practices related to urban sustainability. It is not a mandatory form, and users can answer as much or as little as they like.

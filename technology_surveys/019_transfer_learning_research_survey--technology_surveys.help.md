@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Transfer Learning Research Survey - Help Guide
 
 ## Purpose

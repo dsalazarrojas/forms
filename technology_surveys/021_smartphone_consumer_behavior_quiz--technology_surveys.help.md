@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smartphone Consumer Behavior Quiz - Help Guide
 
 ## Purpose

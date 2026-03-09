@@ -1,8 +1,3 @@
-<thinking>
-To prevent duplicate submissions and ensure accurate feedback, this form is intended to collect feedback from patients who have received telehealth services. It is designed to gather information about the patient's experience, including the date and time of the visit, the rating of the telehealth service, and any technical issues encountered. 
-The form is meant to be completed by both the patient and the healthcare provider, and it helps to identify areas for improvement and provide feedback on patient outcomes.
-</thinking>
-
 # Patient Telehealth Service Poll Form - Help Guide
 ## Purpose
 The Patient Telehealth Service Poll Form is designed to collect feedback from patients who have received telehealth services. This form helps to gather information about the patient's experience, identify areas for improvement, and provide feedback on patient outcomes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Physician Referral Form", we should first analyze the form's purpose and the required information. The form is used for referrals, allowing one physician to refer a patient to another physician for further treatment or consultation. The form is likely used for internal record-keeping and may also be used for external referrals where a patient needs specialized care that the referring physician does not provide.
 
 This guide will cover the following sections: "Purpose", "How to Complete This Form", "Field-by-Field Explanation", and "Tips".

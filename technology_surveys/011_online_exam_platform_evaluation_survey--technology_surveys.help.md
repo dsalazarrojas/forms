@@ -1,7 +1,3 @@
-<thinking>
-This form is for evaluating the online exam platform, and it is crucial to provide accurate and constructive feedback. It is essential to complete this form thoroughly and honestly to help us improve the platform. Please ensure that you have thoroughly reviewed the platform before submitting this evaluation. If you have already submitted a review for the same platform, please do not resubmit. If you are not familiar with the platform, please do not provide feedback on features that you do not have experience with. We appreciate your cooperation in providing valuable feedback. Please complete the form as accurately and comprehensively as possible, and do not skip any questions that you are unsure or uncomfortable answering.
-</thinking>
-
 # online_exam_platform_evaluation_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with our online exam platform. It aims to evaluate the platform's usability, reliability, satisfaction, and overall performance.

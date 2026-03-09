@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Sync Settings Survey is a form designed to gather information about users' experiences with data syncing. It helps us understand the frequency and urgency of issues users face when syncing data, which is crucial for improving the overall performance and reliability of our data syncing service. To avoid duplication of efforts, please only fill out this survey if you haven't already completed one in the past few weeks.
 
 # Sync Settings Survey - Help Guide

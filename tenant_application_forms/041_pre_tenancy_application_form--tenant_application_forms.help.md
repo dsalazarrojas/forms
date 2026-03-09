@@ -1,9 +1,3 @@
-<thinking>
-This form is used for tenants to apply for tenancy. It is a one-page form that collects information such as name, email, phone number, date of birth, address, rental history, employment status, income, move-in and move-out dates. This form is likely used by landlords or property managers to assess the tenant's qualifications and suitability for tenancy. 
-This form is not to be filled out by non-tenants or unauthorized individuals. 
-Please complete this form accurately and honestly, as the information collected will be used to evaluate your tenancy application. 
-</thinking>
-
 # Pre Tenancy Application Form - Help Guide
 ## Purpose
 The Pre Tenancy Application Form is used to collect information from potential tenants applying for tenancy. This form helps landlords or property managers to assess the tenant's qualifications and suitability for tenancy.

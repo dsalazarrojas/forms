@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for technicians to create and manage service work orders, which are essentially requests for technical assistance or support from customers. The purpose of this form is to gather information about the service being requested, the customer's details, and the status of the service. It's likely used in a customer support or technical service setting, where technicians need to understand what service is required, who the customer is, and the current status of the service. This form may help technicians to streamline their workflow and ensure that all necessary information is collected to fulfill the customer's request efficiently.
-</thinking>
-
 # Service Work Order Form - Help Guide
 ## Purpose
 This form is used to create and manage service work orders for customers. It helps technicians gather essential information about the service being requested, the customer's details, and the status of the service.

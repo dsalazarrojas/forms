@@ -1,12 +1,3 @@
-<thinking>
-The form, "nonprofit_technology_adoption_survey", is designed to capture information on nonprofit organizations' technology adoption levels. The purpose of this form is to help us understand how well non-profit entities are utilizing technology to improve their operations and services. This form will not be used for marketing or promotional activities, and we will not share your responses without your explicit consent.
-
-When filling out the form, please ensure that you have not completed it previously. If you've submitted the form before, your responses will be recorded as submitted, and you will not be able to re-submit the form.
-
-Please note that some fields are marked as "required," which means that you will need to provide an answer for those fields to progress to the next page.
-
-</thinking>
-
 # nonprofit_technology_adoption_survey - Help Guide
 ## Purpose
 The nonprofit_technology_adoption_survey form is designed to gather information on nonprofit organizations' technology adoption levels to improve operational efficiency and service delivery.

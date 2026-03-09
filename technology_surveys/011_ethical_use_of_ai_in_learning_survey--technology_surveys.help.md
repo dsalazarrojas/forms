@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather opinions and insights from users on the use of AI in learning, focusing on the ethical aspects of its adoption. The form is intended for users in the technology industry, specifically those involved in education or learning processes. The questions aim to identify the benefits and concerns associated with the use of AI in learning, as well as gather information on users' experiences and thoughts on the matter.</thinking>
-
 # Ethical Use Of AI In Learning Survey - Help Guide
 ## Purpose
 This help guide is designed to assist users in completing the Ethical Use Of AI In Learning Survey form. The form is intended to gather opinions and insights from users on the use of AI in learning, focusing on the ethical aspects of its adoption.

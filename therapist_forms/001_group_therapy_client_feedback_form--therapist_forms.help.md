@@ -1,10 +1,3 @@
-<thinking>
-This guide is for users completing the Group Therapy Client Feedback Form. The purpose of this form is to collect feedback from clients about their experience with a therapist. It is intended to help therapists identify areas of improvement and provide better services to their clients. This form should only be used by clients who have actually interacted with a therapist, and not by anyone else.
-
-Before starting, please ensure you have a valid reason for submitting this form. Duplicate submissions may be discarded, and only the most recent submission will be processed.
-
-</thinking>
-
 # Group Therapy Client Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients about their experience with a therapist. It helps therapists identify areas of improvement and provide better services to their clients.

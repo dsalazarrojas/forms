@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for technicians to record and document information about oil changes for vehicles. It's essential to ensure accurate and thorough documentation of service history, which can aid in future maintenance and repairs. To confirm that this form is relevant and up-to-date, let's review the fields and instructions provided in the form definition. The form appears to be comprehensive, covering various aspects of the oil change process, including vehicle information, service details, and technician notes.
-
-To avoid duplication of effort, it's crucial to review the form's fields and instructions carefully before proceeding. The form's structure and fields suggest it's intended for use by technicians to record data in a standardized format.
-
-The form consists of two pages: "Vehicle Information" and "Service Details." The "Vehicle Information" page requests essential vehicle details such as year, make, model, vehicle identification number, current mileage, owner's name, and license plate number. The "Service Details" page focuses on the specific services performed during the oil change, including oil type, viscosity, quantity used, brand, filter type, and other services. The form also includes fields for technician information, service location, and additional services performed.
-
-To ensure accurate completion, it's essential to review each field carefully and follow the instructions provided. The form's fields are designed to guide the user through the process and minimize errors.
-
-</thinking>
-
 # Car Oil Change Record Form - Help Guide
 ## Purpose
 This form is designed for technicians to record and document information about oil changes for vehicles. It ensures accurate and thorough documentation of service history, aiding in future maintenance and repairs.

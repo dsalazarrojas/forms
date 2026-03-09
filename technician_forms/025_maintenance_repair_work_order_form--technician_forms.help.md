@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to facilitate maintenance and repair activities on site. The purpose of this form is for technicians to document and track work orders related to specific tasks performed on various equipment. Each field on the form will guide the technician in providing essential information needed to complete and process the work order.
-
-Before proceeding to fill out the form, please ensure you have access to the necessary equipment and location details.
-
-The following fields are optional, and the required fields are marked with a star (*) in the help guide below.
-
-</thinking>
-
 # Maintenance Repair Work Order Form - Help Guide
 ## Purpose
 This form is used to document and track work orders related to maintenance and repair activities on site.

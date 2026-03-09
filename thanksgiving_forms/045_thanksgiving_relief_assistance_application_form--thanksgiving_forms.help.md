@@ -1,7 +1,3 @@
-<thinking>
-Internal note to the developers: This form is designed to help individuals in need request relief assistance for Thanksgiving, particularly those who are facing financial difficulties or have other extenuating circumstances that prevent them from affording a traditional Thanksgiving meal. To ensure the form's intent is not misused, please be cautious not to duplicate submissions from the same individual or household.
-</thinking>
-
 # Thanksgiving Relief Assistance Application Form - Help Guide
 ## Purpose
 The Thanksgiving Relief Assistance Application Form is designed to aid individuals and families in need receive help for the holiday season. If you are struggling to afford a traditional Thanksgiving meal, you can fill out this form to request relief assistance. Our team will review your application and provide aid accordingly.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the disaster preparedness knowledge of individuals or households, likely for the purpose of identifying areas where education and training may be needed. The form will likely be used by emergency management or public health organizations to understand the preparedness and response capabilities of a given population. Non-duplication checks should be in place to prevent users from taking the survey multiple times or with inconsistent information.
-</thinking>
-
 # Disaster Preparedness Knowledge Survey - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the Disaster Preparedness Knowledge Survey, which is designed to assess your household's disaster preparedness knowledge and capabilities.

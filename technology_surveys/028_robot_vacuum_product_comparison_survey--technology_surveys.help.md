@@ -1,12 +1,3 @@
-<thinking> 
-This help guide is intended for users who wish to provide feedback and insights on their experiences with different robot vacuum brands and models. This form will gather information about users' satisfaction and preferences when it comes to robot vacuum features, purchase decisions, and general experiences with these products. 
-
-To provide accurate and helpful feedback, users should only participate if they have personal experiences with robot vacuums. Please ensure that you have owned or used a robot vacuum before completing this form.
-
-If you have already participated in this survey, you should not complete this form again. Your previous feedback is valuable to us and will be taken into account for future product development and improvement.
-
-</thinking>
-
 # Robot Vacuum Product Comparison Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and insights from users about their experiences with different robot vacuum brands and models. We aim to understand your preferences, satisfaction, and any issues you may be experiencing with these products.

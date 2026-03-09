@@ -1,10 +1,3 @@
-<thinking>
-This form is used to gather information on how youth perceive climate policy, their awareness and understanding of climate policy, their attitudes towards climate policy, and the impact of climate policy on their daily lives, actions, and opportunities. It is used to better understand the climate policy landscape in a youth perspective, helping policymakers make informed decisions.
-
-To prevent duplication of this form, ensure that you have not already completed the Youth Climate Policy Understanding Survey.
-
-</thinking>
-
 # Youth Climate Policy Understanding Survey - Help Guide
 ## Purpose
 This survey is designed to gather information on the youth perspective on climate policy, including their awareness, understanding, attitudes, and the impact of climate policy on their daily lives.

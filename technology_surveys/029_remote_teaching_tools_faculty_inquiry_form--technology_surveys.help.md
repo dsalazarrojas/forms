@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to gather information from faculty members regarding their use and satisfaction with remote teaching tools. It seems like a good idea to create a form to collect feedback from faculty members on their experience with remote teaching tools. However, it's essential to make sure that this form doesn't duplicate efforts and to ensure that the form's purpose and goals are well-defined and understood by all relevant parties. Before proceeding, let's review the form's fields and their explanations to create a clear and concise user-facing help guide.
-</thinking>
-
 # Remote Teaching Tools Faculty Inquiry Form - Help Guide
 ## Purpose
 The Remote Teaching Tools Faculty Inquiry Form is designed to collect feedback from faculty members on their experience with remote teaching tools. This form aims to gather information on the faculty's satisfaction with these tools, their support needs, and any other comments they may have.

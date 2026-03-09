@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess the accessibility of a GIF (Graphics Interchange Format) file. It is used to evaluate and document the accessibility of a GIF, including its potential to cause motion sickness, flashing risks, and other accessibility concerns. This form helps users provide structured and consistent feedback on the accessibility of GIFs throughout the organization.
-</thinking>
-
 # GIF Accessibility Assessment - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-To ensure this form is only completed once for each issue and by the correct user, please note that this form is intended for internal use within the organization, and any information collected will be reviewed and followed up by a technician. Please do not submit duplicate forms for the same issue.
-</thinking>
-
 # Security Equipment Technician Contact Form - Help Guide
 ## Purpose
 The Security Equipment Technician Contact Form is a document used to collect information about security equipment issues that need to be addressed. This form will help the technician to identify the problem, schedule a time for service, and follow up on the issue.

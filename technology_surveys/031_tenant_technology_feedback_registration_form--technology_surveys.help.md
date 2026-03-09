@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect feedback from tenants about the technology provided by their housing units. The purpose of this form is to gather information about the resident's opinion on the technology, their suggestions for improvement, and any other comments or concerns they may have. This form is an essential tool for the management to understand the resident's needs and preferences regarding technology and make informed decisions about future upgrades and improvements.
-
-When submitting feedback, please ensure that you are providing unique and relevant comments. Duplicate comments will not be accepted.
-
-</thinking>
-
 # Tenant Technology Feedback Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from tenants about the technology provided by their housing units.

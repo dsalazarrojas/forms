@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user feedback on the software's features and functions. It's meant to gauge user satisfaction and identify areas for improvement. The feedback will help the development team understand user needs and preferences. Please ensure that you're providing feedback on features you have actually used or encountered in the system. Duplicate or irrelevant feedback may be discarded, so please make sure to provide concrete and practical suggestions.
-</thinking>
-
 # Software Features And Functions Survey - Help Guide
 ## Purpose
 This form is designed to gather your opinions and feedback on the software's features and functions. Your input will help us improve the product to better meet your needs.

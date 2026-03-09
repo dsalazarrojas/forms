@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients seeking colonic hydrotherapy consultations. The purpose of this form is to collect the client's profile, medical history, and lifestyle habits to help the therapist understand their needs and provide appropriate treatment. This form will help identify potential contraindications and ensure a safe and effective treatment plan.
-</thinking>
-
 # Colonic Hydrotherapy Consultation Form Template - Help Guide
 ## Purpose
 This form is used to collect information from clients seeking colonic hydrotherapy consultations. It helps the therapist understand the client's medical history, lifestyle habits, and preferences, ensuring a safe and effective treatment plan.

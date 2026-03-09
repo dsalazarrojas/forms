@@ -1,7 +1,3 @@
-<thinking>This form is intended for checking in sessions between a telepsychologist and their patients. The form is used to document session details such as date, time, session provider, and session status. It also collects patient information like age, gender, and ID for tracking and billing purposes. This form will help telepsychologists keep accurate records and ensure seamless communication between sessions.
-
-To ensure accurate and complete data, this form checks for consistency with existing records and prevents duplication. It is recommended to fill in the form carefully and attentively before submitting. Ensure all required fields are filled and double-check the options selected to avoid errors.</thinking>
-
 # Telepsychology Session Check In Form - Help Guide
 ## Purpose
 The Telepsychology Session Check In Form is used for checking in sessions between telepsychologists and their patients. It is used to document session details and patient information for accurate tracking and billing purposes.

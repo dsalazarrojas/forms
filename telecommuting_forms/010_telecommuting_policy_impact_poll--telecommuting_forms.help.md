@@ -1,14 +1,3 @@
-<thinking>
-We are developing a Telecommuting Policy Impact Poll to gather opinions from employees on the effectiveness and potential challenges of current telecommuting policies. This form is designed to collect information on employees' experiences and perceptions of telecommuting, including their current policies, work environments, and communication habits. The purpose of this poll is to inform the development of more effective telecommuting policies that cater to the needs and preferences of employees.
-
-Before completing this form, please ensure that you have not already responded to the Telecommuting Policy Impact Poll. Your input is valuable, and we appreciate your participation.
-
-Please note that this form is anonymous, and your responses will be kept confidential.
-
-If you have any feedback or suggestions, please use the "suggestions" field to share them.
-
-</thinking>
-
 # Telecommuting Policy Impact Poll - Help Guide
 ## Purpose
 The Telecommuting Policy Impact Poll aims to gather opinions from employees on the effectiveness and potential challenges of current telecommuting policies. This will help us inform the development of more effective telecommuting policies that cater to the needs and preferences of employees.

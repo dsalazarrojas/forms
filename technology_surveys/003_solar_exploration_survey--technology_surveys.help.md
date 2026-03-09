@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect user feedback and data for the solar exploration survey. It is intended for users to provide their name, email, date, time, location, rating, comments, consent, demographics, education, department, affiliation, role, experience, comments 2, follow-up, consent 2, consent 3, consent 4, consent 5, consent 6, and consent 7. This data will be used to analyze user behavior and preferences, as well as to tailor future services and products according to user needs.
-Note: The following sections will not be included in the form if not applicable: consent_2, consent_3, consent_4, consent_5, consent_6, consent_7.
-</thinking>
-
 # solar_exploration_survey - Help Guide
 ## Purpose
 This form collects user feedback and data for the solar exploration survey.

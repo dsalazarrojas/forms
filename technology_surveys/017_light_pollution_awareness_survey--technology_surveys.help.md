@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about respondents' experiences and opinions on light pollution. It's intended for a general audience, and the goal is to understand how people perceive and interact with nighttime lighting in their daily lives. The form should not be used for any other purpose, and the questions should not be taken as a comprehensive or scientifically-validated assessment of light pollution. This guide will help users understand the purpose and process of completing this form.
-</thinking>
-
 # Light Pollution Awareness Survey - Help Guide
 ## Purpose
 The Light Pollution Awareness Survey is designed to gather information about your experiences and opinions on nighttime lighting. This form is for personal feedback and not for any other use.

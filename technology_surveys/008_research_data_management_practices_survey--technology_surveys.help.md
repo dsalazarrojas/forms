@@ -1,14 +1,3 @@
-<thinking> 
-This form is designed to collect information about research data management practices, which are essential for effective data utilization, security, and compliance with regulations. The form has multiple sections, each targeting different aspects of research data management. 
-
-To confirm that this form is relevant to the intended use case, the following conditions will be checked:
-- The form is part of the "technology_surveys" category.
-- The form's title is "research_data_management_practices_survey".
-- The form's content is consistent with the provided YAML fields, which define the structure and behavior of the form.
-- The form's purpose is to collect information about research data management practices.
-- The form's sections and fields are consistent with the provided YAML fields.
-</thinking>
-
 # research_data_management_practices_survey - Help Guide
 ## Purpose
 This form collects information about research data management practices to better understand the current state of data utilization, security, and compliance in your organization.

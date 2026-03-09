@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is for the "Smart Building Dashboard Experience Survey" form, which aims to gather feedback from users on their experience with the Smart Building Dashboard. The form is designed to gather information on various aspects of the dashboard's usability, satisfaction, and feature requests. To complete this form, please follow the steps below:
 
 # Smart Building Dashboard Experience Survey - Help Guide

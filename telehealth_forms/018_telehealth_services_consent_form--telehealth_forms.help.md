@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Telehealth Services Consent Form - Help Guide
 ## Purpose
 The Telehealth Services Consent Form is designed to obtain patient consent for telehealth services. This form helps patients acknowledge their understanding and agreement to receive telehealth services, ensuring that they are aware of the services' terms and conditions.

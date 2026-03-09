@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for a pediatric nephrology appointment request. 
-The form is used by medical professionals to record details about the patient's medical history, preferred contact method, and appointment schedule. 
-To avoid duplication of work, please ensure that this form is filled out only once for each new patient or appointment.
-</thinking>
-
 # pediatric_nephrology_appointment_request - Help Guide
 ## Purpose
 This form is used to collect information for a pediatric nephrology appointment request.

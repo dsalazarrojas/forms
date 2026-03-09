@@ -1,7 +1,3 @@
-<thinking>
-This guide explains the Tool Movement Form for technicians to report the movement of tools within the inventory management system. Before proceeding, make sure you're filling out this form for a legitimate reason and not duplicating an entry. 
-</thinking>
-
 # Tool Movement Form - Help Guide
 
 ## Purpose

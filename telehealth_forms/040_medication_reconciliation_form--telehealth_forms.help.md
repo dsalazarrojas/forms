@@ -1,9 +1,3 @@
-<thinking> 
-The form "medication_reconciliation_form" is a tool designed to gather information about a patient's medical history and treatment regimen. The primary purpose of this form is to reconcile a patient's medications and medical conditions, ensuring that the patient's healthcare team has a clear understanding of their overall health status. This form serves as an essential communication tool between healthcare providers and patients. 
-When using this form, healthcare providers can review a patient's medical history, including any known allergies, current medications, and medical conditions. They can also document a patient's social history, including information about their living situation, employment, and other relevant factors that might impact their health. The goal is to identify any potential issues or conflicts that need to be addressed. 
-The form will likely be completed by a healthcare provider, such as a doctor or nurse, after an in-person visit or over the phone. 
-
-</thinking>
 # medication_reconciliation_form - Help Guide
 ## Purpose
 The "medication_reconciliation_form" is a tool designed to gather information about a patient's medical history and treatment regimen. This form serves as an essential communication tool between healthcare providers and patients, helping healthcare teams understand a patient's overall health status.

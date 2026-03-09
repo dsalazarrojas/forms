@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to obtain consent from patients for telehealth services. It asks for the patient's name, address, contact information, and emergency contact. The form also includes a field for the date of consent, the practitioner's name, and whether the patient has given their consent. The form is designed to be used in an outpatient telehealth setting.
-
-</thinking>
-
 # Outpatient Telehealth Consent Form - Help Guide
 ## Purpose
 The Outpatient Telehealth Consent Form is used to obtain consent from patients for telehealth services. This form is designed to ensure that patients understand the terms and conditions of their telehealth care and to record their consent for future reference.

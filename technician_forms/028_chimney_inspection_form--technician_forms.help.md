@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for technicians to conduct a thorough inspection of a chimney and gather essential information for further analysis and action planning. The primary goal of this form is to assess the condition and safety of a chimney. The form will help gather data on the inspection date, inspector's name, certification number, property information, and other relevant details.
-</thinking>
-
 # Chimney Inspection Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking> 
-The form "mental_health_survey" is designed to collect information on an individual's mental health status and history, aiming to understand their current mental well-being and past experiences. It is not intended for clinical diagnosis or treatment; its purpose is to provide a broad overview of an individual's mental health situation. Please ensure that the form is not used in situations where a professional diagnosis is necessary or required.
-This form is not intended for duplication; each instance should be filled out by a unique individual.
-</thinking>
-
 # mental_health_survey - Help Guide
 ## Purpose
 This form is designed to collect information on an individual's mental health status and history.

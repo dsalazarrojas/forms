@@ -1,7 +1,3 @@
-<thinking>
-The Cybersecurity Analyst Exit Survey is designed to gather information from departing employees on their experience with the company's security tools, processes, and overall work environment. This survey aims to understand their satisfaction and reasons for resignation, which will help the organization to identify areas of improvement and make data-driven decisions to increase employee retention and improve job satisfaction. It's essential to complete this form honestly to provide valuable feedback.
-</thinking>
-
 # Cybersecurity Analyst Exit Survey - Help Guide
 ## Purpose
 

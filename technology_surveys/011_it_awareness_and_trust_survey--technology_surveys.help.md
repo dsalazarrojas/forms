@@ -1,7 +1,3 @@
-<thinking>... This form is part of our IT Awareness and Trust Survey, designed to gauge the level of awareness and trust among users regarding various IT-related topics. This survey is intended for users to provide feedback and insights that will help us improve our services and policies. Please note that your responses will be kept confidential and will not be used for any purpose other than to improve our services. If you have already filled this form, you can skip it, as you won't be able to submit duplicate responses.
-
-To complete this form, simply follow the instructions below.</thinking>
-
 # IT Awareness And Trust Survey - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for teleopto services, which likely refers to the monitoring and management of patients' health data using telehealth technology. The form is intended for healthcare professionals to input patient information, medical practice details, and monitoring settings. It is crucial to ensure that all required fields are filled in accurately and consistently with the patient's actual status.
-To prevent errors, it is recommended that users review the form carefully before submission to avoid duplication of entries. This form requires input from authorized personnel only.
-</thinking>
-
 # teleopto_services_form - Help Guide
 ## Purpose
 This form is used to collect information for teleopto services, including patient data, medical practice details, and monitoring settings.

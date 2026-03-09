@@ -1,9 +1,3 @@
-<thinking>
-
-To provide context and prevent non-duplication, this guide will assume that the user has already been exposed to a psychedelic experience and is reporting on their experience. The purpose of this form is to gather information about the user's experience in a structured and systematic way, allowing for easy comparison and analysis of the data. This form will help the user to provide a detailed account of their experience, including the type of psychedelic used, the setting in which it occurred, and the effects it had on their mood, emotions, and other aspects of their being. 
-
-</thinking>
-
 # Psychedelic Experience Intake Form - Help Guide
 ## Purpose
 The Psychedelic Experience Intake Form is a structured questionnaire designed to gather information about a user's psychedelic experience. This form is intended to help users provide a detailed account of their experience, which can be useful for research, treatment, or personal reflection.

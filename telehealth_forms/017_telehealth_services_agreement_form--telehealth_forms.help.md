@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to elicit consent from patients for telehealth services, including the types of services they are interested in and their preferred method of communication with the provider. The form also collects information on their emergency contact and preferred days and times for appointments. This form will be used by telehealth providers to assess a patient's needs and preferences, and to ensure they are comfortable with the services they will be receiving.
-</thinking>
-
 # Telehealth Services Agreement Form - Help Guide
 ## Purpose
 The Telehealth Services Agreement Form is a document that patients must fill out to indicate their consent for receiving telehealth services, including video visits, phone calls, and messaging.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback on digital tracking features from end users. The purpose is to understand user preferences and experiences with digital tracking features, such as tracking, data collection, and user experience. This form is likely to be used by product managers, designers, or developers to gather insights on how to improve digital products and services.
-
-The form is not intended for immediate action or decision-making, but rather for gathering opinions and preferences from users. The fields are designed to be easy to understand and complete, with clear labels and options.
-
-Before starting, please ensure you have not already completed this form, as it may have been previously submitted. If you are unsure, please check with the form's administrator or the product team.
-
-</thinking>
-
 # digital_tracking_features_survey - Help Guide
 
 ## Purpose

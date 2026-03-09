@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to collect information from technicians regarding their cleaning submissions. It's likely used by facilities management or maintenance teams to record and track cleaning schedules, areas, and tasks performed. This form could help ensure consistency and standardization in cleaning procedures.
-
-Before completing this form, ensure that you're not duplicating a previously submitted entry. If you're unsure, you can check with the relevant team or department to confirm.
-
-</thinking>
-
 # HACCP Cleaning Submission Form - Help Guide
 ## Purpose
 The HACCP (Hazard Analysis and Critical Control Points) Cleaning Submission Form is designed to collect information from technicians about their cleaning activities. This form helps ensure that cleaning schedules, areas, and tasks are accurately recorded and tracked.

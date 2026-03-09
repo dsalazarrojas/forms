@@ -1,5 +1,3 @@
-<thinking>Checking whether the form's purpose is clear and concise and checking for duplication in the context of similar forms or workflows...</thinking>
-
 # Tool Inspection Form - Help Guide
 ## Purpose
 The Tool Inspection Form is designed to collect information about the inspection of tools and machinery in a standardized and efficient manner. This form is used to ensure that all necessary details are captured during the inspection process, enabling technicians to provide accurate and reliable information about the tools' condition, usage, and maintenance needs.

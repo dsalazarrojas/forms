@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from users about their internet connectivity experience. This form will help us understand users' perceptions of their internet speed, service provider, location, device connections, and overall satisfaction with their internet services. We will use this information to identify potential issues and areas for improvement in our internet infrastructure. Please note that this form is not meant for users who are currently experiencing technical issues or problems with their internet connectivity. If you're reporting a problem, please contact our support team directly.
 
 # Internet Speed Survey Form - Help Guide

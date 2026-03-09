@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect glacier information from users, which is essential for understanding and monitoring glacial behavior. The fields in this form are designed to gather specific details about the glacier's characteristics, such as its length, width, height, depth, surface area, volume, aspect ratio, slope, orientation, color, and terminus. This information will help researchers better understand glacial dynamics and make more accurate predictions about glacial behavior.
-
-Before proceeding, please ensure you have not already completed this form for the same glacier. Duplicate entries can lead to inaccurate data and affect the reliability of research findings.
-
-Please note that the form has two main pages: "Glacier Information" and "Conditions". The "Glacier Information" page gathers general information about the glacier, while the "Conditions" page provides more specific details about the glacier's characteristics. 
-
-</thinking>
-
 # Glacier Information Survey - Help Guide
 ## Purpose
 This form is designed to collect essential information about glaciers, which is crucial for research and monitoring purposes.

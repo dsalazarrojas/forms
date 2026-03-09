@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect data on digital inclusion barriers in learning, a crucial aspect of ensuring equal access to education. It's essential to understand that digital inclusion barriers can vary depending on individual contexts, and this form aims to gather information on these challenges. 
-
-Before proceeding, please ensure that you're eligible to complete this survey. If you've already completed this survey, or have any concerns regarding your participation, please contact us for assistance. We appreciate your cooperation in helping us better understand digital inclusion barriers in learning.
-
-</thinking>
-
 # Digital Inclusion Barriers In Learning Survey - Help Guide
 
 ## Purpose

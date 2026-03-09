@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about nanobubble technology, a fictional field of study. The purpose of this form is to assess users' awareness, use cases, benefits, challenges, and goals related to nanobubble technology. This form is meant to be a comprehensive tool for gathering data and understanding the current state of knowledge and adoption of nanobubble technology among users.
-To prevent duplication, this form is an original adaptation of a survey created by a machine learning model using publicly available metadata about nanobubble technology and its categories. This form does not rely on any proprietary content or data from other form platforms.
-This form is released under a Creative Commons Attribution 4.0 (CC BY 4.0) license, allowing users to modify, share, and even sell adapted versions of the form, as long as they give proper credit.
-</thinking>
-
 # Nanobubble Technology Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your awareness, use cases, benefits, challenges, and goals related to nanobubble technology. By completing this form, you will help us understand your current state of knowledge and adoption of nanobubble technology.

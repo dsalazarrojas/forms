@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about their experiences with geo systems, specifically their usage of mapping platforms such as Google Maps, Google Earth, and Bing Maps. The form is designed to gather information on the user's mapping platform of choice, their rating of the platform, and any comments they may have. The form is likely to be used by the development team to understand user preferences and improve the overall geo systems user experience.
-
-To ensure this form is not duplicated or unnecessary, it's recommended to review the existing feedback channels and user engagement processes to confirm that this form is not redundant.
-
-This form appears to be a comprehensive feedback form that covers various aspects of the user's experience, including their mapping platform of choice, rating, and comments. It also includes input fields for email and phone numbers, which may be used for follow-up purposes or to gather more specific information from users.
-
-Before proceeding, it's essential to review the existing feedback mechanisms and user engagement processes to confirm that this form is not duplicating any efforts.
-
-</thinking>
-
 # Geo Systems Feedback Survey - Help Guide
 ## Purpose
 

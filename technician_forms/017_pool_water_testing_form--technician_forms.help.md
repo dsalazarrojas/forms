@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record the results of pool water testing. It is intended for use by pool technicians to report on the water quality and test methods used in each test. The form should only be used for pools that have been properly calibrated and maintained. The purpose of this form is to ensure accurate and consistent reporting of pool water quality.
-</thinking>
-
 # Pool Water Testing Form - Help Guide
 ## Purpose
 The Pool Water Testing Form is used to record and report on the results of pool water testing. This includes the test methods used, water samples taken, and any notable comments or results.

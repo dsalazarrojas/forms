@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from NGOs (Non-Governmental Organizations) about their technology capacity and needs. The purpose of this form is to assess the current state of technology resources and skills within an organization, as well as their needs and plans for implementing new technologies. This information will help the organization to better understand its own capacity and make informed decisions about technology investments.
-
-Before filling out this form, please ensure that you are completing it for your organization and not duplicating efforts. If you have already completed a similar form, you can skip this one or note the differences in your responses.
-</thinking>
-
 # NGO Technology Capacity Survey - Help Guide
 
 ## Purpose

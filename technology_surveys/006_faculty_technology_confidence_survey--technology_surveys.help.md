@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive survey designed to gauge the technology confidence and readiness of faculty members in an academic setting. The purpose of this form is to gather valuable insights into the technology proficiency, adoption, and challenges faced by faculty members. This information will help administrators and support teams better understand the technology needs and preferences of their staff, enabling them to provide targeted training, support, and resources. Before proceeding, please ensure that you are a faculty member and that you have not already completed this survey. If you have any doubts or concerns, please contact your administrator or support team. Please note that this survey is designed to be completed by one faculty member per department, and your responses will be treated as confidential and anonymous.
-</thinking>
-
 # Faculty Technology Confidence Survey - Help Guide
 ## Purpose
 The Faculty Technology Confidence Survey is designed to gather your thoughts and opinions on technology use, confidence, and readiness in the academic setting. Your input will help us better understand your technology needs and preferences, enabling us to provide targeted support and resources.

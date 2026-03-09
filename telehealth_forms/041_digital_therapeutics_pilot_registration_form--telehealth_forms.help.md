@@ -1,5 +1,3 @@
-<thinking>This form is designed for participants to register for a pilot project in digital therapeutics, a field that applies digital technologies to treat medical conditions. This form aims to collect participant information, contact details, and other relevant data to support the pilot. The form is structured to ensure data quality and consistency. Before completing this form, please ensure that you have read the participant agreement and consent carefully. If you have already registered for a similar pilot, please do not repeat your registration to avoid duplication of effort.</thinking>
-
 # Digital Therapeutics Pilot Registration Form - Help Guide
 ## Purpose
 This form is used to collect participant information for a digital therapeutics pilot project.

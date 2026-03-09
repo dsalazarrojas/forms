@@ -1,11 +1,3 @@
-<thinking>
-
-The form "vehicle_maintenance_request" is a request form for submitting information about a vehicle's maintenance needs. This form will help you provide details such as the type of vehicle, required services, and technician's notes to ensure that the maintenance is done efficiently and effectively. 
-
-To submit a vehicle maintenance request, please ensure that you are using this form for a new vehicle maintenance request and not duplicating an existing one.
-
-</thinking>
-
 # vehicle_maintenance_request - Help Guide
 ## Purpose
 This form is used to submit a new vehicle maintenance request. Please use this form to provide details about your vehicle's maintenance needs.

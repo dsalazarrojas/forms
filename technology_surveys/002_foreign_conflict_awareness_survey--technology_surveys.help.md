@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gauge the level of foreign conflict awareness among respondents. It's intended for users to share their views on the current situation, and provide insight for internal stakeholders. To complete this form, please make sure you are not completing it in duplicate or out of context. If you're unsure about any question or option, contact the relevant team before submission.
-
-</thinking>
-
 # Foreign Conflict Awareness Survey - Help Guide
 ## Purpose
 The Foreign Conflict Awareness Survey is designed to collect opinions and perceptions on current foreign conflicts. Your input will help us understand public awareness and sentiment, guiding our internal decision-making.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Donor Data Protection Awareness Survey - Help Guide
 
 ## Purpose

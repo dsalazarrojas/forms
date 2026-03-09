@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to obtain client consent for telehealth counseling services. The main purpose of this form is to ensure that the client understands their rights, responsibilities, and expectations during the telehealth counseling process. It is essential to complete this form carefully and thoroughly to establish a clear understanding of the client's consent.
-</thinking>
-
 # Telehealth Counseling Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain client consent for telehealth counseling services. It is a crucial document that ensures the client understands their rights, responsibilities, and expectations during the telehealth counseling process.

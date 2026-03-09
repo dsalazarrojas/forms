@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess the ergonomic setup for remote workers, helping them identify potential risks and make informed decisions about their workspace to prevent discomfort, injury, and improve productivity. This form is a self-assessment tool, allowing users to evaluate their current working conditions and provide insights for improvement. It's essential to complete this form honestly, as the results will help you create a more comfortable and healthy work environment.
-
-</thinking>
-
 # remote_work_ergonomic_assessment - Help Guide
 ## Purpose
 The remote_work_ergonomic_assessment form helps you identify potential ergonomic risks in your workspace and provides insights for improvement.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to allow employees to lodge complaints or concerns they may have regarding their work environment, colleagues, or management. This form is intended for internal use only and is not a formal grievance process, but rather a means for employees to report issues that may need to be addressed. 
-
-Before filling out this form, please ensure that you have not already submitted a similar complaint or issue in the past, and that this complaint is not a repeat of an existing issue. 
-
-</thinking>
-
 # Employee Complaint Form - Help Guide
 ## Purpose
 The Employee Complaint Form is a tool for employees to report concerns or issues they may have regarding their work environment, colleagues, or management. This form is for internal use only and is not a formal grievance process.

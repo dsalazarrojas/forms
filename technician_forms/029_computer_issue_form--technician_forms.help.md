@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Computer Issue Form" designed by an AI, we first need to understand the purpose and context of the form. The form is likely used by technicians to report and manage computer-related issues. It's intended for end-users to report computer problems in a structured and clear manner. 
-
-The form's purpose is to collect information about reported computer issues. It is not a duplicate or derivation of any existing form platform, but rather an original creation using only public survey topic metadata as inspiration.
-
-To confirm the form's relevance and ensure it isn't a duplicate, one would typically check existing form platforms, such as Jotform, Google Forms, ODK Collect, Tally, Formbricks, and Cloudflare, to see if there's a similar form or template available. Given the form's originality and its use of public metadata, it is unlikely that it's a duplicate. 
-
-</thinking>
-
 # Computer Issue Form - Help Guide
 ## Purpose
 The Computer Issue Form is used to report computer issues to the technicians for support. This form gathers information about the reported issues to help technicians resolve them efficiently.

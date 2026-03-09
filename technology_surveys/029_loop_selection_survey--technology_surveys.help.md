@@ -1,6 +1,3 @@
-<thinking>
-  The purpose of this form is to collect information about the user's experience with loops. It is likely used to gather data for research, training, or education on the subject of loops, and to understand how users interact with loops in their work. The form collects information on various aspects, such as the type of projects users work on that involve loops, how often they use loops, their preferred type of loops, and what kind of resources they use for help with loops. This form might be used by someone in a technical support or a training department to better understand how to improve support for loop-related tasks or training materials for loop usage.</thinking>
-
 # Loop Selection Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your experience with loops, including the types of projects you work on, how often you use loops, and what resources you use for help with loops.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pre Screening Form - Help Guide
 
 ## Purpose

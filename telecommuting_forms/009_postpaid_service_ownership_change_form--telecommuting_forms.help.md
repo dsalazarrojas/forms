@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of changing the ownership of a postpaid service. The form is meant for situations where the current owner of a postpaid service wishes to transfer ownership to another individual or entity. This form will help the current owner to provide necessary information to initiate the ownership transfer process.
-
-It is crucial that the current owner completes this form accurately and truthfully to ensure a smooth ownership transfer process. Please ensure that you are completing this form for the correct purpose and not for any other reason.
-
-To avoid any duplication of efforts, please check that this form is not already in progress or has been submitted before. If you have any doubts or concerns, please reach out to the relevant authorities for clarification.
-</thinking>
-
 # Postpaid Service Ownership Change Form - Help Guide
 ## Purpose
 The purpose of this form is to change the ownership of a postpaid service from the current owner to a new owner.

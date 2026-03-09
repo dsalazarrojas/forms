@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from patients regarding their naturopathic treatment and medical history. The form will be used for internal purposes only, and the information collected will not be shared with any external parties. To ensure that the form is completed accurately and effectively, please review the information below.
-
-</thinking>
-
 # Naturopathic COVID 19 Form - Help Guide
 ## Purpose
 

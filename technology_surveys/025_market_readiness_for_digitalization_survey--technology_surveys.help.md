@@ -1,11 +1,3 @@
-<thinking>...the internal reasoning block explaining the form purpose and checking for relevance and non-duplication...
-
-The purpose of this form is to assess an organization's readiness for digitalization. Digitalization refers to the process of converting traditional, manual processes into more efficient and automated digital processes. This form is designed to gauge the level of digitalization within an organization, specifically focusing on the transformation of existing processes, the use of digital technologies, and the organization's overall attitude towards digitalization.
-
-To confirm, this form should only be completed by organizations that are genuinely interested in evaluating their digitalization status. It is not intended for organizations that are simply testing the form or exploring the concept of digitalization. Please ensure that the information you provide is accurate and reflects your organization's genuine position.
-
-... </thinking>
-
 # Market Readiness For Digitalization Survey - Help Guide
 ## Purpose
 The Market Readiness For Digitalization Survey is designed to assess an organization's readiness for digitalization. It focuses on the organization's transformation, attitude, and technology usage to gauge its level of digitalization.

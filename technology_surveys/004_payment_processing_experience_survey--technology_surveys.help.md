@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their experience with payment processing. The form will help us identify areas of improvement and provide a better understanding of our customers' pain points. Please ensure that the form is only filled out by customers who have actually processed a payment, as this will help us gather accurate and relevant data. 
-</thinking>
-
 # Payment Processing Experience Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from customers about their experience with our payment processing services. Your input will help us improve our services and provide a better experience for our customers.

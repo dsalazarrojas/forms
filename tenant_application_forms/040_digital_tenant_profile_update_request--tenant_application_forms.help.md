@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for a digital tenant profile update request, where a tenant can submit changes to their information. This form is typically used for updating contact and address information. The purpose of this form is to ensure that the tenant's profile is up-to-date and accurate, facilitating communication and services from the landlord or property management team. To avoid duplication, please check the tenant's profile before submitting an update. If the form is already submitted, please wait for the update request to be processed before resubmitting.
-</thinking>
-
 # Digital Tenant Profile Update Request - Help Guide
 ## Purpose
 The Digital Tenant Profile Update Request form is used to update a tenant's contact and address information. This form helps to keep your profile up-to-date and accurate, allowing for efficient communication and services from the landlord or property management team.

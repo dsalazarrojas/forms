@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for technicians to request technical fixes for customer issues. Before filling out this form, please ensure that you've already:
-* Checked that this isn't a duplicate request (i.e., you're not submitting multiple requests for the same issue).
-* Consulted your supervisor or team lead to ensure you're not duplicating work.
-* Clarified any questions or concerns with the customer.
-
-</thinking>
-
 # CrowdStrike Fix Request Form - Help Guide
 ## Purpose
 The CrowdStrike Fix Request Form is used to collect information about technical issues that require attention from the support team. It's essential to accurately report these issues so that we can prioritize and resolve them efficiently.

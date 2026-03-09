@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about a technical application (app) usability. This form is used to gather users' thoughts and opinions about the app, specifically to understand their satisfaction level, how easy it was to use, and what features they would like to add or remove. This form is not intended for immediate feedback on critical bugs or issues with the app. Please only submit feedback if you have used the app and are providing honest and constructive comments.
-
-Before proceeding with the form, please make sure you have not submitted a similar feedback form in the past. Your feedback is valuable, and we appreciate your input.
-
-</thinking>
-
 # tech_app_usability_feedback_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback about the usability of a technical application (app). Please provide your honest and constructive thoughts about your experience with the app.

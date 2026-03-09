@@ -1,12 +1,3 @@
-<thinking>
-This form is a survey designed to collect feedback and insights from users about the recent software update. It aims to gauge user satisfaction, identify areas of improvement, and gather input on new features. The form is intended to be a tool for software developers to better understand user expectations and make informed decisions for future updates.
-
-Before completing this form, please ensure that you have recently used the software update and have a clear understanding of your experience. This form is not intended to be used by users who have not used the recent software update.
-
-Please note that this form is for feedback purposes only and will not be used for marketing or sales activities. Your input will help us improve the software and provide a better user experience.
-
-</thinking>
-
 # Software update feedback form - Help Guide
 ## Purpose
 This form is a survey designed to collect feedback and insights from users about the recent software update.

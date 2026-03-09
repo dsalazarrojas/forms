@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Network Cost Assessment Survey - Help Guide
 ## Purpose
 This form is designed to gather information about the cost implications of a network infrastructure or service. It is intended for use in assessing the current costs associated with your network and identifying potential opportunities for cost optimization. Please ensure that you are taking this survey if it aligns with your current situation and responsibilities.

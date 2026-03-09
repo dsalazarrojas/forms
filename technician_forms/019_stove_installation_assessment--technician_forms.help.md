@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for technicians to conduct a stove installation assessment, gathering necessary information about a property's stove installation, its type, ventilation setup, and other relevant details. This form will guide you through the process of filling out the Stove Installation Assessment form, ensuring you cover all necessary fields to provide a comprehensive assessment.
-</thinking>
-
 # Stove Installation Assessment - Help Guide
 ## Purpose
 The Stove Installation Assessment form is designed to collect essential information about a property's stove installation, including the type of stove, ventilation setup, and other relevant details. This information will help the technician assess the stove installation and provide an accurate and comprehensive evaluation.

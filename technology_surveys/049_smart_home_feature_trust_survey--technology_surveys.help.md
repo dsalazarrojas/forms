@@ -1,16 +1,3 @@
-<thinking>
-The form purpose is to gather feedback and opinions on the features of smart home systems, specifically to assess the trust and importance placed on these features by users. This form is part of a study to understand the perspectives and concerns of users regarding smart home systems. 
-
-This form is designed to be completed by users who have experience with smart home systems and can provide their honest opinions and feedback on the features of these systems. 
-
-Please note that the completion of this form is optional and anonymous. The data collected will be used to improve and refine the development of smart home systems.
-
-Before starting, please ensure that you have experience with smart home systems and can provide honest and informed responses.
-
-Also, please note that some fields may not be directly related to the actual functionality of the form, but rather to gather more information on how users think and feel about the smart home features. These fields are marked as "how determined".
-
-</thinking>
-
 # Smart Home Feature Trust Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and opinions on the features of smart home systems.

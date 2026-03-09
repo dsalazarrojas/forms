@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report incidents related to IT issues. It is designed to collect relevant information about the incident, including its category, type, description, severity, and priority. This form will help IT staff quickly and easily gather the necessary information to troubleshoot and resolve the issue. Before filling out this form, please ensure that the issue is not already being worked on by checking with your team's issue tracking system to avoid duplication of effort. If the issue is critical, please report it immediately.
-</thinking>
-
 # ticket_incident_portal_for_it_issues_form - Help Guide
 ## Purpose
 The ticket incident portal for IT issues form is used to report incidents related to IT issues. It helps IT staff gather information to troubleshoot and resolve issues efficiently.

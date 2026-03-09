@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and layout information from users. The purpose of this form is to gather information about the user's experience with a specific layout or design. By completing this form, users can provide feedback, rate their experience, and optionally select categories and subcategories related to the technology used.
-</thinking>
-
 # Layout Feedback Survey - Help Guide
 ## Purpose
 This form is used to collect feedback and layout information from users.

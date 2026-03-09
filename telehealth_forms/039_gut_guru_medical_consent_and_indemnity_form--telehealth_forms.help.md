@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect medical information from users, including their personal details, contact information, medical history, allergies, medication, medical conditions, and emergency contacts. This form is likely used for medical or health-related purposes and requires careful consideration of user privacy and confidentiality. 
-To ensure this form is not duplicated, consider the following:
-- Does the organization already have a similar form in use?
-- Are the form fields and purpose well-documented and understood by all relevant staff?
-</thinking>
-
 # Gut Guru Medical Consent And Indemnity Form - Help Guide
 
 ## Purpose

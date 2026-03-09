@@ -1,20 +1,3 @@
-<thinking>
-We need a form to collect complaints from homeowners. This form is likely used by property management or maintenance staff to gather information about issues that homeowners are experiencing. To make sure the form is used correctly, we should make sure to clearly explain its purpose and each field.
-
-To complete this form, the user (typically a property manager or maintenance staff) will need to:
-
-1. Select the category of the complaint (e.g. HOA Forms, Tenant Application Forms, Complaint Forms)
-2. Provide a description of the issue
-3. Specify the complaint (the issue itself)
-4. Choose a date (when the issue occurred or started)
-5. Choose a time (when the issue occurred or was noticed)
-6. Provide their email address (so we can contact them for more information)
-7. Optionally, provide their phone number
-8. Submit their response
-
-This form is used for general complaints from homeowners, and the information collected will help us track and address these issues.
-
-</thinking>
 # Homeowner Complaint Form - Help Guide
 ## Purpose
 This form is used for homeowners to submit complaints or issues they are experiencing. It is used by property management or maintenance staff to gather information about these issues and address them accordingly.

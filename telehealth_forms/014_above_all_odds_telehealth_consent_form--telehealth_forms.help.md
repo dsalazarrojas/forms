@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Above All Odds Telehealth Consent Form - Help Guide
 
 ## Purpose

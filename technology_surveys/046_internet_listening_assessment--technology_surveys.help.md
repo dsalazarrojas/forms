@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a user's internet listening habits, online communication skills, online listening skills, online community involvement, online content consumption, online security challenges, online safety concerns, online privacy concerns, and internet speed. The form is likely used to gather data on how users interact with the internet and what issues they face when online. This form should not be completed if the user is not familiar with the internet or online interactions.
-</thinking>
-
 # internet_listening_assessment - Help Guide
 ## Purpose
 This form is used to gather information about your online habits and experiences. It will help us understand how you use the internet and what challenges you face when online.

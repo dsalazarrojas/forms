@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form for collecting information about the setup completion of a machine. It is used for technicians to document the status of their work. Each field is optional, so users can complete as much or as little information as they like. This form is not to be used for any other purpose other than collecting information about machine setup completion. Please make sure to only use this form for the intended purpose.
 
 # Machine Setup Checklist - Help Guide

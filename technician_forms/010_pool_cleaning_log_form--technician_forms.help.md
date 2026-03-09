@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for logging pool maintenance activities, specifically the cleaning process. The purpose of this form is to record and track pool cleaning tasks, dates, times, and other relevant details. This form may be used by pool operators or maintenance personnel to efficiently manage pool maintenance activities.
-</thinking>
-
 # Pool Cleaning Log Form - Help Guide
 ## Purpose
 The Pool Cleaning Log Form is a tool for logging and tracking pool maintenance activities. It helps pool operators or maintenance personnel to keep a record of pool cleanings, including the type of pool, size, cleaning date, time, and maintenance tasks performed.

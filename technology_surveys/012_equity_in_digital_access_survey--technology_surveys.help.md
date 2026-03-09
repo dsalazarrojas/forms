@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to be used by users to provide feedback on their experiences with digital access. The survey is meant to gather information about the current state of digital access and identify areas where support is needed. It is not intended to be a comprehensive review of all digital access options, but rather a snapshot of the user's current situation. It is recommended to complete the form in its entirety to provide a thorough response. Please note that some fields are not required, but filling them out will help to gather more detailed information. 
-
-</thinking>
-
 # Equity in Digital Access Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your experiences with digital access. We want to understand your current situation and identify areas where support is needed.

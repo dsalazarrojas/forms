@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the digital innovation readiness of a hospital. It gathers information on various aspects of digital transformation, including the current state of digital transformation, IT infrastructure, data platforms, innovation budget, digital innovation team, digital transformation strategy, change management, digital skills development, innovation culture, data security, and digital innovation readiness score. The form aims to provide a comprehensive understanding of a hospital's digital innovation capabilities and challenges.
-</thinking>
-
 # hospital_digital_innovation_readiness_survey - Help Guide
 ## Purpose
 This form is designed to assess the digital innovation readiness of a hospital.

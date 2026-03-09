@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to assess an organization's data utilization capability, which is a critical aspect of data management and decision-making. This form will help you evaluate your organization's data sources, access to data, data training, collaboration tools, data governance, data scientists, data owners, data users, data management, data security, and data privacy capabilities. This information will help you identify areas where your organization can improve data utilization and make informed decisions about investments and initiatives.
-Please ensure this form is completed only once per team or department, and not by multiple individuals within a team or department. This will help ensure accurate and consistent data across the organization.
-</thinking>
-
 # Data Utilization Capability Survey - Help Guide
 ## Purpose
 This form is designed to evaluate your organization's data utilization capability. It will help you understand your team's or department's data sources, access to data, data training, collaboration tools, data governance, data scientists, data owners, data users, data management, data security, and data privacy capabilities.

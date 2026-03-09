@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to assess an individual's or organization's cybersecurity posture by gathering information on their password strength, use of two-factor authentication, email address, password manager, antivirus software, and regular backups. This form is designed to be a quick and efficient way to evaluate and improve one's cybersecurity measures, helping identify potential vulnerabilities and suggest necessary steps to increase security.
 
 The form is divided into seven sections, each covering a different aspect of cybersecurity. To complete the form, simply follow the instructions below.

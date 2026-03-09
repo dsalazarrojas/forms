@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used in telemedicine settings for patients to provide informed consent for telehealth services. This form is specific to California, implying that it complies with the state's regulations and laws. The form is intended to be completed by patients and their healthcare providers, ensuring both parties acknowledge the terms of telemedicine services. This form's creation does not copy or extract proprietary content from any form platform, instead, it's an original adaptation using AI. It's released under CC BY 4.0, allowing users to modify, share, and even monetize it while giving credit.
-</thinking>
-
 # telemedicine_informed_consent_form_california - Help Guide
 ## Purpose
 This form is used to obtain informed consent from patients for telemedicine services in California. It includes fields for patient and healthcare provider information, as well as terms and conditions for telemedicine services.

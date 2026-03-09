@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that this form is used for its intended purpose and that users don't fill out the form unnecessarily. The form appears to be designed to gather feedback and ratings from users of financial apps, with questions about their experience, feature priorities, and suggestions for improvement. To confirm, the form includes fields for user name, age, email, phone, financial institution, products used, product type, usage duration, frequency of use, rating of experience, feature priorities, and suggestions for improvements. We should consider adding a clear statement at the top of the form indicating that the survey is voluntary and that responses will be used to improve the product. We should also ensure that the form is easy to fill out and that each field is clearly labeled and explained. Let's review the form's fields and labels to ensure they align with the intended purpose and are clear to users.</thinking>
-
 # Financial App Development Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback and ratings from users of financial apps to help us improve our product.

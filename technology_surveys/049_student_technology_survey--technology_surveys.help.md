@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, I will check for existing forms with similar purpose and structure. This form is designed to collect data on student technology usage habits. The form's purpose is to gather information on students' usage of various technology tools, devices, and activities for classwork and personal use. This data will help educators understand students' tech habits and how they impact their learning experience.
-</thinking>
-
 # Student Technology Survey - Help Guide
 ## Purpose
 The Student Technology Survey is a collection of questions designed to gather information about students' usage of technology tools, devices, and activities for classwork and personal use. This data will help educators understand students' tech habits and how they impact their learning experience.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of the "Anger Log" form is to help individuals track and manage their anger episodes by recording and analyzing their emotions, triggers, and coping strategies. This form will help users become more aware of their anger patterns, identify factors that contribute to their anger, and develop more effective coping mechanisms.
-
-Before completing this form, it is essential to ensure that it is relevant to your situation. If you are not currently experiencing anger issues, it may not be necessary to fill out this form. Please only proceed if you are a healthcare provider or a person who is experiencing anger episodes and wants to track their patterns.
-
-Also, note that this form is intended to be a comprehensive and detailed record of your anger episodes. Please fill it out as thoroughly as possible to get the most out of it.
-</thinking>
-
 # Anger Log - Help Guide
 ## Purpose
 The "Anger Log" form is designed to help individuals track and manage their anger episodes, becoming more aware of their anger patterns, identifying triggers, and developing effective coping strategies.

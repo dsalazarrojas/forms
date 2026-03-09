@@ -1,6 +1,3 @@
-<thinking>
-...The purpose of this form is to assess the confidence and readiness of employees to adapt to digital transformation within their organization. It is essential to understand how employees perceive digital technology and its role in their job performance and decision-making processes. The questions in this survey aim to gather insights into their confidence in their digital skills, ability to adapt to new technologies, and their perception of the importance and effectiveness of data analytics in supporting decision-making and improving productivity.
-</thinking>
 # Digital Transition Confidence Survey - Help Guide
 
 ## Purpose

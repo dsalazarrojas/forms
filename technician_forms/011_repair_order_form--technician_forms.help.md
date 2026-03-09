@@ -1,7 +1,3 @@
-<thinking>
-The Repair Order Form is designed to collect repair order information from customers. This form is used to gather essential details about the customer, product, and contact information. To ensure relevance and non-duplication, please only fill out this form if you have a genuine repair request or inquiry.
-</thinking>
-
 # Repair Order Form - Help Guide
 ## Purpose
 The Repair Order Form is designed to collect essential details from customers for the purpose of processing their repair order. This includes customer information, product details, contact information, payment information, and any additional notes.

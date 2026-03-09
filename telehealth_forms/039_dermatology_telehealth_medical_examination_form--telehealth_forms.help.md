@@ -1,11 +1,3 @@
-<thinking>
-This form is a telehealth medical examination form for dermatology-related issues. It gathers information from patients, including their medical history, physical examination details, and treatment plans. The form is designed for remote consultations and may be used by healthcare professionals to assess and treat various dermatological conditions.
-To ensure this form is relevant and not duplicating existing forms, I will review the provided fields and provide explanations for each section.
-The form has multiple sections, including "Patient Info", "Medical History", "Exam", "Upload Photos", "Diagnosis", "Treatment Plan", "Next Steps", "Medical Info", "Payment Info", and "Payment Method" which seems to be a comprehensive structure for a telehealth medical examination.
-However, the form has some fields that seem to be missing or have been omitted in the provided YAML, such as "symptoms" or "contact info" sections. I will do my best to provide explanations based on the provided fields.
-I will ensure the explanations are concrete, concise, and practical.
-</thinking>
-
 # Dermatology Telehealth Medical Examination Form - Help Guide
 ## Purpose
 This form is a telehealth medical examination form for dermatology-related issues, designed for remote consultations. It helps healthcare professionals assess and treat various dermatological conditions.

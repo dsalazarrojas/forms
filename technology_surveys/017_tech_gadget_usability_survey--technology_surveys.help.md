@@ -1,27 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose and each field's explanation are clearly understood by the end-users. Let's review the form's YAML fields to create a comprehensive help guide. The form is designed to gather feedback and opinions on tech gadgets, focusing on usability, performance, and user experience. The goal is to collect data that can be used to improve tech gadget design and functionality.
-
-The form is divided into several sections:
-
-1. **Usage Frequency** (Page 1): This field asks about how often the user interacts with the tech gadget daily.
-2. **User Experience** (Page 2): This field rates the user's overall experience with the tech gadget using a 5-point scale.
-3. **Favorite Features** (Page 3): This field asks users to select multiple features they enjoy most about the tech gadget.
-4. **Recommendation** (Page 4): This field asks users how likely they are to recommend the tech gadget to a friend.
-5. **Work Use** (Page 5): This field inquires about how often the user uses the tech gadget for work-related activities.
-6. **Performance** (Page 6): This field gauges the user's satisfaction with the tech gadget's performance.
-7. **Suggestions** (Page 7): This field allows users to provide additional comments or feedback.
-8. **Battery Importance** (Page 8): This field assesses the importance of battery life for the user.
-9. **Design Aesthetic** (Page 9): This field rates the user's perception of the tech gadget's design.
-10. **Navigation** (Page 10): This field judges the ease of navigating the tech gadget's interface.
-11. **Software/Hardware Issues** (Page 11): This field asks if the user has encountered any software or hardware problems with the tech gadget.
-12. **Price** (Page 12): This field inquires if the user would pay more for a tech gadget with better performance.
-13. **Email** (Page 13): This field requests the user's email address.
-14. **Additional Comments** (Page 14): This field allows users to provide further feedback or suggestions.
-
-To avoid duplication and ensure consistency, we will review each field's explanation to ensure they align with the form's overall purpose. This guide will be used by end-users to fill out the form accurately and effectively.
-
-</thinking>
-
 # Tech Gadget Usability Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions on tech gadgets, focusing on usability, performance, and user experience. Your responses will help us improve the design and functionality of tech gadgets.

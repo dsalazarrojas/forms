@@ -1,20 +1,3 @@
-<thinking>
-This help guide is intended to be a user-facing document that helps end users understand the purpose and requirements of the "European Union Institutions Survey" form. The form is part of the "technology_surveys" category, and its primary goal is to collect feedback from users about their experience with EU institutions.
-The form has been designed to gather input on five different areas: 
-1. "eu_bodies_organisation" - which seems to be asking users to select one or more of the listed EU institutions they work with. 
-2. "technology_survey" - This field is likely asking users to express their satisfaction level with technology, though the label is quite generic. 
-3. "feedback" - This is a text input field that likely asks for any additional comments or suggestions. 
-4. "email_input" - This is a field for users to provide their email address, potentially for follow-up or additional information. 
-5. "category_input" - This field allows users to select one of the predefined categories. 
-6. "phone_input" and "description_input" are text fields that seem to ask for additional information, though their labels are not clearly explained. 
-
-Before proceeding, please check that:
-* You are familiar with the EU institutions and categories listed in this form.
-* You have a clear understanding of your current level of satisfaction with technology, if applicable.
-* You are ready to provide any additional feedback or comments.
-* You have a valid email address and a preferred category for selection.
-* You are comfortable providing any additional phone information and description.
-</thinking>
 # European Union Institutions Survey - Help Guide
 ## Purpose
 The European Union Institutions Survey is a tool designed to collect feedback from users about their experience with EU institutions.

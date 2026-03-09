@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Institutional Digital Ethics Awareness Survey - Help Guide
 
 ## Purpose

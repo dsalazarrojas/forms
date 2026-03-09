@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gearbox Design Feedback Form - Help Guide
 ## Purpose
 The Gearbox Design Feedback Form is a tool for providing feedback on the design of a gearbox. This form is intended to collect feedback from users on the design of a gearbox, including its usability, functionality, and overall performance. This feedback will help us improve the design of the gearbox and make it more efficient and effective for users.

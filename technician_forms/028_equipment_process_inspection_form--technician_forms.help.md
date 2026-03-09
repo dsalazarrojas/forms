@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, we need to understand the form purpose. Based on the provided YAML structure, the form is intended to collect data for equipment inspection processes. It's likely used for maintenance or quality control purposes. The form might be used by technicians or inspectors to record and report on the status of various pieces of equipment. This form likely serves as a general-purpose inspection report, where users can record details about the equipment's status, location, and any issues or notes. This form could be used in various industries such as manufacturing, healthcare, or construction, where regular equipment inspections are crucial for maintaining equipment efficiency and safety.
-
-</thinking>
-
 # Equipment Process Inspection Form - Help Guide
 ## Purpose
 The Equipment Process Inspection Form is used to record and report on the status of various pieces of equipment. This form is intended for technicians or inspectors to document details about equipment status, location, and any issues or notes.

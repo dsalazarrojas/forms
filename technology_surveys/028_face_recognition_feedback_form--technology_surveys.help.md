@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users on their experience with the face recognition system. This feedback will be used to improve the overall face recognition system performance, accuracy, and user interface. 
-The feedback form is designed to be user-friendly and should not be completed multiple times by the same user. 
-The form is divided into pages for better clarity and readability. Each page has multiple fields to gather specific information from the users.
-The form includes fields to gather information about the user's experience (face_recognition_experience), their feedback (feedback), suggestions (suggestions), performance (face_recognition_system_performance), accuracy (face_recognition_accuracy), speed (face_recognition_speed), ease of use (face_recognition_ease_of_use), helpfulness (face_recognition_helpfulness), security concerns (face_recognition_security_concerns), security confidence (face_recognition_security_confidence), email (email), phone (phone) and additional comments (additional_comments).
-</thinking>
-
 # Face Recognition Feedback Form - Help Guide
 ## Purpose
 The Face Recognition Feedback Form is designed to collect user feedback on their experience with the face recognition system. Your input will help us improve the system's performance, accuracy, and user interface.

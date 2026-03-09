@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users on their experiences with lease digitalization processes. It aims to gather information on their preferences, pain points, and suggestions for improvement in the leasing process. The form will help identify areas where digitalization can be improved to make the process more efficient and user-friendly.
-
-This form should only be filled out by users who are familiar with the lease process and have first-hand experience with it. If you're not sure about the questions or feel that you've already completed a similar survey, please double-check that this is the correct survey for you before proceeding.
-
-The information collected from this form will be used to inform future development and improvement of digital lease processes. It will help us understand your needs and pain points to make the process more streamlined and convenient for everyone.
-
-Please note that the form is divided into several sections, each with its own purpose. Be sure to review the explanation of each field below for more information.
-
-</thinking>
-
 # Lease Digitalization Perception Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback from users on their experiences with lease digitalization processes.

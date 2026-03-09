@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about data governance perception in an organization. The purpose of this form is to collect feedback and insights from users about their understanding and practices related to data governance. This form will help us to better understand the current state of data governance in our organization and identify areas for improvement.
-
-Before proceeding, please note that this form is not intended to be a comprehensive assessment of data governance practices, but rather a starting point for further discussions and explorations.
-
-If you have previously completed this form, please do not resubmit. Your input is valuable and will help us to better understand the current state of data governance in our organization.</thinking>
-
 # data_governance_perception_survey - Help Guide
 ## Purpose
 The data governance perception survey is designed to gather information about data governance practices and perceptions within your organization. The survey will help us to understand your understanding and current practices related to data governance.

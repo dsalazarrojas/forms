@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information on the progress and adoption of data transformation within an organization. It appears to be a crucial tool for monitoring and improving the data transformation process. The form seems to have a structured format, with multiple pages dedicated to different aspects of data transformation, such as progress, adoption, feedback, and milestones. The form will likely serve as a key indicator of the effectiveness and areas of improvement in the data transformation process.
 
 To fill out this form, follow these steps:

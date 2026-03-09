@@ -1,14 +1,3 @@
-<thinking>
-
-The Telemedicine Convenience Poll form is intended to collect user feedback on their experiences with telemedicine services. This form is a part of a broader effort to identify areas of improvement and optimize the delivery of telehealth services. The form has four sections:
-
-- **How often do you use telemedicine?**: This section gauges the user's frequency of using telemedicine services.
-- **On a scale of 1-5, how would you rate your telemedicine experience?**: This section assesses the user's overall satisfaction with their telemedicine experience.
-- **How would you rate our services?**: This section asks the user to rate the quality of services provided by the telehealth organization.
-- **Why did you rate our services as you did?**: This section seeks to understand the reasoning behind the user's rating.
-
-</thinking>
-
 # Telemedicine Convenience Poll - Help Guide
 ## Purpose
 This form is designed to gather user feedback on their experiences with telemedicine services, aiming to identify areas of improvement and optimize service delivery.

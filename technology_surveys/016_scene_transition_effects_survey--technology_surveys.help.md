@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Scene Transition Effects Survey - Help Guide
 
 ## Purpose

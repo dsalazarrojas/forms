@@ -1,12 +1,3 @@
-<thinking>
-To ensure this form is correctly filled out, let's first understand its purpose. The "Community Housing Alliance Application Form" is designed to gather essential information from applicants seeking housing assistance through the Community Housing Alliance. The form is used to collect personal and household details, employment status, and other relevant information to determine eligibility and suitability for housing programs.
-
-Before proceeding, check that the information provided is accurate and up-to-date. Ensure that you have all necessary documents and data ready for submission. Note that some sections are marked as "required," meaning they must be filled out for the application to be complete.
-
-Before filling out this form, please review the following sections to understand the type of information required and how it will be used in the application process.
-
-</thinking>
-
 # Community Housing Alliance Application Form - Help Guide
 ## Purpose
 The Community Housing Alliance Application Form is designed for individuals and families seeking housing assistance. The form helps the organization assess applicants' eligibility and suitability for its housing programs.

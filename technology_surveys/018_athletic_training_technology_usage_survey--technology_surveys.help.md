@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to gather information about the current state of technology usage in athletic training settings. The goal is to understand the adoption and perceived benefits of various technologies, such as electronic medical records, video analysis software, and communication tools. The form will help identify potential barriers to technology adoption and areas where more training or support is needed. It will also gather feedback on desired technologies and recommendations for further adoption. This form should only be completed by individuals with experience in athletic training, such as coaches, trainers, or medical staff. 
-
-This form has been designed to be comprehensive, yet concise and easy to complete. Please answer the questions honestly and provide any additional comments or feedback in the "Additional Comments" field. Please note that this form does not collect any sensitive or personal information, and all responses will be kept confidential.
-
-</thinking>
-
 # Athletic Training Technology Usage Survey - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # thanksgiving-buffet-dining-reservation - Help Guide
 
 ## Purpose

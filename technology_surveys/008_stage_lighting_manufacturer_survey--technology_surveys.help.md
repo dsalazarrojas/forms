@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to gather information about stage lighting manufacturers and their capabilities. The goal is to collect data on the types of stage lighting they offer, their market trends, capacity, and any research partnerships or industry analysis they may have. This form will be used by the research team to gather information and create reports on stage lighting manufacturers.
-
-The form does not currently have any duplicate fields, but please make sure to fill out each field only once to avoid confusion. If you are unsure about any of the fields, please refer to the help guide below.
-</thinking>
-
 # stage_lighting_manufacturer_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information from stage lighting manufacturers about their products, market trends, capacity, and research partnerships or industry analysis.

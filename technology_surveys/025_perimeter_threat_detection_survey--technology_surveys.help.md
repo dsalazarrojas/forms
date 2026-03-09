@@ -1,11 +1,3 @@
-<thinking>
-This form is used for collecting information about an organization's perimeter threat detection systems and processes. It is designed to be used by security professionals to gather data on the types of threats detected, incident history, concerns, and detection capabilities of their systems. 
-
-Before filling out this form, ensure that you are familiar with the topic and have access to relevant information about your organization's systems and processes. 
-
-To fill out this form, follow the instructions below.
-</thinking>
-
 # perimeter_threat_detection_survey - Help Guide
 ## Purpose
 The perimeter threat detection survey is a form designed to collect information about an organization's perimeter threat detection systems and processes.

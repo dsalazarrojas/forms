@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cold Climate Home Building Survey - Help Guide
 ## Purpose
 This form is designed to gather information from homeowners, builders, and other professionals about their experiences and challenges with building and designing homes in cold climate regions. The survey aims to understand the various factors that influence building in such regions, including insulation types, heating systems, window specifications, air sealing methods, ventilation systems, foundation types, and roof design considerations. The collected data will help to identify best practices and areas for improvement in cold climate home building.

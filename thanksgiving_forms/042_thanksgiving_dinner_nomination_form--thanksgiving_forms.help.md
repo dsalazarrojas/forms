@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for a Thanksgiving dinner nomination, which involves nominating a family or individual for a special holiday dinner event. This form is likely used by community organizations or social services to identify eligible families or individuals in need and provide them with a free or low-cost dinner during the holiday season. To ensure accurate nominations and avoid duplication, please review the form carefully and provide as much detail as possible.
-
-This form is designed to collect various types of information from the nominator, including the nomination title, contact information, nomination details, family demographics, volunteer hours, and other relevant details. The form's fields are carefully crafted to guide the nominator through the process and help them provide the necessary information to support the nomination.
-
-Before filling out this form, please make sure you have all the necessary information ready. The form is divided into several sections, each with its own specific purpose. This guide will walk you through each section, explaining the purpose and requirements of each field.</thinking>
-
 # Thanksgiving Dinner Nomination Form - Help Guide
 ## Purpose
 This form is designed to collect information for a Thanksgiving dinner nomination. It's used to identify families or individuals in need and provide them with a special holiday meal.

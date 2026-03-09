@@ -1,5 +1,3 @@
-<thinking>...Internal validation checks: This form is designed to gather information from end-users about their readiness to adopt digital learning solutions. It will be reviewed for completeness and consistency. This form will not ask for any personal identifiable information. It's a one-time survey and the answers will be used to improve the organization's understanding of end-users' needs and preferences. If you've already completed this survey, please do not submit it again. If you're not sure about any question, please provide the best answer you can or skip it if you don't know. Please fill it out as quickly as possible and don't worry about grammar or spelling errors. Your input will be reviewed and used to improve our services... </thinking>
-
 # Digital Learning Readiness Survey - Help Guide
 ## Purpose
 This form aims to gather information about your readiness to adopt digital learning solutions. It's a one-time survey that will help us improve our services.

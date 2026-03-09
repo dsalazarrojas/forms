@@ -1,7 +1,3 @@
-<thinking> 
-This help guide will outline the purpose, completion process, and field-by-field explanation of the NGO Digital Transformation Study form. This form is designed to assess an NGO's readiness for digital transformation. It will collect data on tools used, skills needed, digital literacy, digital abilities, needs assessment, data analysis, tool satisfaction, skill satisfaction, digital skills, digital literacy score, skills training, training satisfaction, digital tools, tool evaluation, tool usage frequency, digital skills training, training type, training provider, tool cost, tool implementation time, tool evaluation criteria, digital skills assessment, skills assessment criteria, and overall satisfaction. Please ensure that you have reviewed the form carefully before proceeding. If you have any doubts or concerns, please reach out to the form administrators for clarification. 
-</thinking>
-
 # NGO Digital Transformation Study - Help Guide
 ## Purpose
 The NGO Digital Transformation Study is a survey designed to assess the digital transformation readiness of NGOs. This study will help us understand the tools used, skills needed, and overall satisfaction levels among NGOs. Your input is valuable in helping us shape the digital transformation landscape for the sector.

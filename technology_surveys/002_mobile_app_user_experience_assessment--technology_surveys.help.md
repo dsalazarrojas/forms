@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to assess the user experience of a mobile app, gathering feedback on its usability, satisfaction, and feature requirements. The form is composed of 12 fields, each focusing on a different aspect of the app's performance. The fields are designed to be completed by app users, providing valuable insights to help improve the app's development.
-
-Before proceeding, ensure that this form is relevant to your role and responsibilities. If you're not an app user or developer, your input may not be applicable or necessary. 
-
-Please note that some of the fields may not be marked as required, so you can fill them out according to your comfort level.
-
-To confirm, the form is intended to collect feedback on the following:
-- Usability: How easy is it to navigate the app?
-- Satisfaction: How satisfied are you with the app overall?
-- Feature needs: Which features are missing or would you like to see improved?
-- Overall experience: How would you rate your experience with the app?
-</thinking>
-
 # Mobile App User Experience Assessment - Help Guide
 ## Purpose
 This form is designed to gather feedback on the mobile app's user experience, helping developers understand areas for improvement and what features are missing or needed.

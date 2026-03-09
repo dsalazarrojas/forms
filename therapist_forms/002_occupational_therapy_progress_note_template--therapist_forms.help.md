@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect progress notes from occupational therapy sessions. 
-It is designed to accommodate patient demographics, session data, and notes taken during the session.
-The form is meant to be used for internal documentation and tracking purposes.
-Please ensure that this form is used only for the intended purpose and not duplicated or shared without proper authorization.
-</thinking>
-
 # occupationalTherapyProgressNoteTemplate - Help Guide
 ## Purpose
 The occupationalTherapyProgressNoteTemplate is a form designed to record the progress of occupational therapy sessions. It gathers information about the patient's demographics, session details, and notes taken during the session to ensure that therapists can track and document patient progress effectively.

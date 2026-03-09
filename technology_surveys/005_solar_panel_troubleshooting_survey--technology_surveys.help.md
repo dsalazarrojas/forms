@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who have experienced issues with their solar panels. The form aims to gather details about the problem, the brand of the panel, and the steps taken to resolve the issue. This information will help the support team understand the customer's concerns and provide better assistance. Before starting this form, please ensure that you have not filled it out previously, as this may be a duplicate submission. If you have already filled out this form, please do not resubmit. Thank you for your cooperation.
-</thinking>
-
 # Solar Panel Troubleshooting Survey - Help Guide
 ## Purpose
 This form is designed to collect information from customers who have experienced issues with their solar panels. The form aims to gather details about the problem, the brand of the panel, and the steps taken to resolve the issue.

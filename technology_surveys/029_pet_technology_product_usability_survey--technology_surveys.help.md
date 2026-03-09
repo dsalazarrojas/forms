@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be designed to gather user feedback and input on the usability of a product related to pet technology. The fields suggest it's meant to collect demographic information, preferences, and feedback on specific features. It's essential to ensure this form is completed accurately and consistently by all users.
-
-To avoid duplication and ensure relevance, we need to verify that this form doesn't already exist in the system or that the purpose is not covered by an existing form.
-</thinking>
-
 # Pet Technology Product Usability Survey - Help Guide
 ## Purpose
 This form is designed to gather user feedback and input on the usability of a pet technology product. It helps us understand user preferences, experiences, and suggestions for features.

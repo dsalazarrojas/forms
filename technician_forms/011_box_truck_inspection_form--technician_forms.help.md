@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Box Truck Inspection Form - Help Guide
 ## Purpose
 The Box Truck Inspection Form is a comprehensive tool used to evaluate the condition of a box truck's vehicle. The form assesses various aspects of the vehicle, including its identification, inspection details, exterior condition, interior condition, and mechanical systems. The goal is to determine whether the vehicle is ready for rental or requires repair.

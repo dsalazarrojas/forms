@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # virtual_reality_equipment_request_form - Help Guide
 
 ## Purpose

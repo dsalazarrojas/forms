@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-friendly guide for the "ecommercemanagementsoftwareevaluationchecklist" form, we need to understand its purpose and the intended audience. This form is designed to evaluate the functionality of ecommerce order management software, and it's likely intended for use by IT professionals, software evaluators, or business analysts who need to assess the capabilities of various ecommerce order management software systems.
-
-Before proceeding, let's review the form's structure and content. The form has two sections: a header with a general introduction, and several fields that ask specific questions related to product customization, order management, and other relevant topics. The fields are a mix of text input fields, select options, and multi-select fields, which allows the user to input various types of information.
-
-Given the form's structure and content, we can now create a user-facing help guide that explains the form's purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # ecommercemanagementsoftwareevaluationchecklist - Help Guide
 ## Purpose
 This form is designed to help you evaluate the functionality of ecommerce order management software. It guides you through a series of questions to assess the capabilities of various software systems and provide a comprehensive evaluation report.

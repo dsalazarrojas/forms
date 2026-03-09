@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ### Simple Time Sheet Form - Help Guide
 
 ## Purpose

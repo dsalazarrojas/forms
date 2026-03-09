@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to gather feedback on the system's configuration. The form is intended to help gather information on the user's experience with the system, specifically on the system's performance, user interface, and overall experience. This feedback will be used to make improvements and adjustments to the system.
-
-To ensure the form is filled out correctly, please note that:
-
-- The form is divided into eight pages.
-- Each page contains one or multiple questions with text inputs or select multiple options.
-- All fields are not required, but filling out as much information as possible will help provide more accurate feedback.
-- Select multiple options for "System Setup" questions as applicable.
-- Enter as much detail as possible in text fields.
-
-</thinking>
-
 # System Configuration Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback on the system's configuration, specifically on its performance, user interface, and overall experience.

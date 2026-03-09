@@ -1,5 +1,3 @@
-<thinking>Form purposes: The "Tenant Income Declaration Form" is designed for tenants to provide accurate information about their income. This form helps tenants report their income sources, frequency, and tax status to the landlord/landlady. This information is used to determine rent rates and other applicable charges. Non-residential income sources and expenses should be accurately reflected. This form is part of the tenant's responsibility to maintain accurate financial records, which is also essential for tax purposes. This form may be part of a rental agreement or a separate document required for rent renewal or lease signing. The form should not be used to declare business income unless it is specifically permitted by the rental agreement. Non-compliance or inaccurate information may lead to disputes or penalties.</thinking>
-
 # Tenant Income Declaration Form - Help Guide
 ## Purpose
 The Tenant Income Declaration Form is a tool for tenants to report their income sources, frequency, and tax status to the landlord/landlady. This information is used to determine rent rates and other applicable charges.

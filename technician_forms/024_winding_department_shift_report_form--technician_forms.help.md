@@ -1,7 +1,3 @@
-<thinking>
-This form is used for technicians to report the status of the winding department. It should only be filled out by authorized personnel who have a good understanding of the department's operations. The goal of this form is to provide a simple way for technicians to report their shift start and end times, the status of their machines, and any notable notes. This form should not be used by non-authorized personnel or for other purposes. If you're not authorized to fill out this form, please do not attempt to do so.
-</thinking>
-
 # Winding Department Shift Report Form - Help Guide
 
 ## Purpose

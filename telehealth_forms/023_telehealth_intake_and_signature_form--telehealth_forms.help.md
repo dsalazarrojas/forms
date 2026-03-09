@@ -1,8 +1,3 @@
-<thinking>
-This form is for gathering patient information and consent for telehealth services. Telehealth refers to healthcare services delivered remotely through digital means, such as video conferencing or phone calls. This form ensures that patients are aware of the services they are receiving and that they understand their role in the healthcare process.
-Before proceeding with this form, please ensure that it is not being used for any other purpose or as a duplicate effort. The form should only be used for gathering patient information and consent for telehealth services.
-</thinking>
-
 # Telehealth Intake And Signature Form - Help Guide
 ## Purpose
 The Telehealth Intake And Signature Form is designed to gather essential information from patients and obtain their consent for telehealth services. This form is a crucial document that ensures patients understand their role in the telehealth process and the services they will receive.

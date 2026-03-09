@@ -1,7 +1,3 @@
-<thinking>
-This form is used to adjust an employee's time clock, which is crucial for accurate time tracking and payroll calculations. Before proceeding, please ensure that you are authorized to access and edit time clocks. This form should not be used to duplicate existing entries or adjust someone else's clock without their knowledge. Please fill in the form fields accurately and honestly, as they will be reviewed and verified by management.
-</thinking>
-
 # Time Clock Adjustment Form - Help Guide
 ## Purpose
 This form is used to adjust an employee's time clock for accurate time tracking and payroll calculations.

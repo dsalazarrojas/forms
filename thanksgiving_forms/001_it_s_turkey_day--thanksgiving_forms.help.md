@@ -1,10 +1,3 @@
-<thinking>
-The goal of this form is to create a digital representation of a Thanksgiving dinner planning template that captures information about a specific Thanksgiving dinner. This template can be used in various contexts, such as planning and coordination of events, surveys, or even just a personal note-taking exercise. This form aims to gather details about guests, main course, side dishes, dessert course, drinks, comments, phone number, and email.
-Before proceeding with filling out the form, please make sure that:
-* You are using the correct template for your use case.
-* You have all the necessary information at hand.
-</thinking>
-
 # Its Turkey Day Thanksgiving Forms - Help Guide
 
 ## Purpose

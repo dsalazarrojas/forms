@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in completing the PC Management Survey form, a tool designed to collect feedback and insights from employees regarding their computing experience. The form is part of an effort to gauge the quality of service provided by the PC team and identify areas for improvement. To avoid duplication or irrelevant responses, users are expected to answer the survey only once and truthfully, providing valuable information about their interactions with the PC team.
-
-Before completing this form, consider whether you have already provided feedback to the PC team or have been part of a previous survey. If so, your responses may be similar, and it's essential to focus on new or changing circumstances. Your input is crucial in helping the PC team understand your needs and concerns, so please take a few minutes to provide detailed and honest answers.
-
-</thinking>
-
 # PC Management Survey - Help Guide
 ## Purpose
 The PC Management Survey is designed to gather information about the quality of service provided by the PC team, including support, communication, and overall experience. Your feedback will help us understand your needs and concerns, enabling us to improve our services and better serve you.

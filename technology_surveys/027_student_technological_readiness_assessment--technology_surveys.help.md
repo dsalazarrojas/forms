@@ -1,6 +1,4 @@
-# <thinking>This form is designed to assess a student's technological readiness, which is a measure of their ability to use digital tools and resources effectively to support their learning. This form is part of a larger framework for evaluating student readiness for blended learning, which combines face-to-face instruction with technology-enhanced learning experiences. This form was created to be used in educational settings to help educators identify areas where students may need additional support or training to effectively use technology in their learning process.</thinking>
-
-# Student Technological Readiness Assessment - Help Guide
+# # Student Technological Readiness Assessment - Help Guide
 ## Purpose
 The Student Technological Readiness Assessment is a form designed to evaluate a student's technological readiness, which is crucial for effective learning in today's digital age.
 

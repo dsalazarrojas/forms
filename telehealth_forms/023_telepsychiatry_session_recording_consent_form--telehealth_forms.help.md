@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Telepsychiatry Session Recording Consent Form - Help Guide
 
 ## Purpose

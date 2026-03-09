@@ -1,7 +1,3 @@
-<thinking>
-We need to check if we have any existing database models to evaluate. If yes, we should not duplicate the work by re-completing the form. If no, we should proceed to fill out this form. The Vector Database Model Evaluation Form is designed to guide users through the evaluation process of a database model.
-</thinking>
-
 # Vector Database Model Evaluation Form - Help Guide
 ## Purpose
 The Vector Database Model Evaluation Form is a tool for evaluating a database model. It helps users to assess the compatibility, usability, satisfaction, implementation difficulty, and maintenance difficulty of a database model.

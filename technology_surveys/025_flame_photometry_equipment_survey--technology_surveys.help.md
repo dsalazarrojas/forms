@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and insights from users who have interacted with flame photometry equipment. It's likely used for quality control, improvement, and development of the equipment. The form is designed to gather information about the user's experience with the equipment, including their satisfaction level, issues encountered, and the type of help they received or required. This form is not necessarily affiliated with any specific platform or company, as it appears to be a generic adaptation of a form created by AI.
-
-Form completion is likely intended for users who have had some experience with the flame photometry equipment and can provide feedback on its performance, maintenance, or usage. The form may not be required, but its completion can help improve the equipment and provide valuable insights for future developments.
-
-The form includes several fields for the user to provide their feedback and input, including text fields for descriptions, issues, and outcomes, as well as select multiple-choice fields for rating satisfaction and types of problems encountered. The form also has options for users to indicate whether they would like to see changes to the equipment in the future.
-
-Overall, this form is designed to be a user-friendly and informative tool for gathering feedback and insights from users of flame photometry equipment.
-
-</thinking>
-
 # flame_photometry_equipment_survey - Help Guide
 
 ## Purpose

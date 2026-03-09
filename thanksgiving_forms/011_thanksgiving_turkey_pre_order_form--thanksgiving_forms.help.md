@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a thanksgiving turkey pre-order. It includes fields for user information, shipping details, payment information, order confirmation, shipping address, phone number, email, date of birth, time, order quantity, order total, shipping cost, notes, order status, status reason, shipping provider, shipping method, and payment method. 
-
-The form has a mix of required and non-required fields, with the majority being optional. This indicates that the form is for general information gathering and does not require strict adherence to specific data. 
-
-The form types include text fields for user input, select_one for categorizing options, and date/time fields for specific time-related information. 
-
-This form likely serves as a template or a base for more specific forms, as it covers a wide range of categories and does not have any unique or specific data fields.
-
-</thinking>
-
 # thanksgiving_turkey_pre_order_form - Help Guide
 ## Purpose
 This form is designed to collect information from users for a thanksgiving turkey pre-order. It will ask for general information such as user details, shipping information, and payment details to facilitate the pre-order process.

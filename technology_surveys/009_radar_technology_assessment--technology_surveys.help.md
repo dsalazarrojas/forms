@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information about the Radar Technology Assessment. This form is likely used within an organization to conduct assessments and evaluations of radar technologies, which are critical in fields like defense, aerospace, and surveillance. 
-The primary goal of this form is to collect various aspects of the technology, including its name, primary application, future use, strengths, limitations, performance ratings, and capture benefits and risks. This data is used for internal purposes and may not be visible to users outside the organization. 
-To avoid duplication of assessments, please ensure this form is not filled out twice for the same technology. 
-</thinking>
-
 # Radar Technology Assessment - Help Guide
 ## Purpose
 

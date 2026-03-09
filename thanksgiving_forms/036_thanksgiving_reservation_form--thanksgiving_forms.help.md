@@ -1,10 +1,3 @@
-<thinking>
-We will create a help guide that explains the purpose and usage of the "Thanksgiving Reservation Form" to end-users. The form will be designed to collect information for Thanksgiving reservations, allowing users to input details such as reservation date and time, guest count, and customer contact information.
-
-To ensure relevance and non-duplication, we'll check the form's fields and their corresponding labels. The form appears to be designed for basic customer reservation information collection. We will follow the provided YAML structure to create a comprehensive guide.
-
-</thinking>
-
 # Thanksgiving Reservation Form - Help Guide
 ## Purpose
 The "Thanksgiving Reservation Form" is a simple form designed to collect basic customer information for Thanksgiving reservations. This form helps users to submit their reservation details, including dates, times, and contact information.

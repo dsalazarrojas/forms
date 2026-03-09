@@ -1,7 +1,3 @@
-<thinking>
-This form is likely intended for employees or staff members within an organization to report or assess potential risks to the treasury department. The purpose of this form is to help identify and document risks that may impact the organization's financial operations, such as fraudulent activities, financial errors, or compliance issues. By filling out this form, users can provide valuable insights to the treasury team to help them better understand and manage risks. It's assumed that the form is part of an internal process and that users have access to the relevant information and context.
-</thinking>
-
 # Treasury Risk Awareness Survey - Help Guide
 ## Purpose
 The Treasury Risk Awareness Survey is a tool designed to help identify and document potential risks that may affect the organization's financial operations. This form gathers information about risks related to company-wide concerns, risk areas, risk impact, frequency, and severity.

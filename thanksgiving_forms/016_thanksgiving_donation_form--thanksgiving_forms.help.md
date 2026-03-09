@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a user's Thanksgiving donation. The purpose of this form is to gather details about the donor, the donation amount, contact information, and any additional notes or comments. This form is likely used by an organization or community that collects donations for a specific cause, such as food or monetary donations.
-
-The form appears to be redundant, with multiple "donation_note" fields. However, the field "donation_type" is marked as required, indicating that this field is a critical piece of information for the form's functionality.
-
-The form has a mix of required and non-required fields, including text, number, and note fields.
-
-</thinking>
-
 # Thanksgiving Donation Form - Help Guide
 ## Purpose
 The Thanksgiving Donation Form is designed to collect information about donors and their donations. This form is used to gather details about the donor, the type of donation, and any additional notes or comments.

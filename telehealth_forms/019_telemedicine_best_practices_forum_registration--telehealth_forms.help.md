@@ -1,23 +1,3 @@
-<thinking>
-This form is used for registering users for the Telemedicine Best Practices Forum, a platform for healthcare professionals to share knowledge and expertise on telemedicine best practices. This form is used to capture user information and preferences for the purpose of registration.
-
-Internal reasoning checks:
-
-* This form should only be accessed by users who are interested in or are required to attend the Telemedicine Best Practices Forum.
-* This form should not be accessed by users who have already registered for the forum.
-
-The form is designed to collect the following information:
-
-* Attendee name
-* Email address (twice, for double confirmation)
-* Phone number (twice, for double confirmation)
-* Topic interests
-* Comments (for additional information)
-
-The form will be displayed in multiple pages, each page will have the relevant fields for the specific page.
-
-</thinking>
-
 # Telemedicine Best Practices Forum Registration - Help Guide
 
 ## Purpose

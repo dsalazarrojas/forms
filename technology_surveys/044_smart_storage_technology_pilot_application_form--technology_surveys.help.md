@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to gather information from organizations interested in participating in a Smart Storage Technology Pilot, a testing phase for new storage technologies. The purpose of this form is to collect contact and company information, as well as specific details about the organization's technology use and goals. The form is meant to be completed by a person in the company, and their supervisor or manager should have reviewed it before submission. The form's data will be reviewed internally to determine if the company is eligible for pilot participation.
-
-To confirm, this form is not suitable for companies that:
-
-* Have already been part of the pilot project
-* Do not align with the pilot project's goals and objectives
-* Are not authorized to submit on behalf of their company
-
-Please complete the form carefully to avoid duplication and ensure your organization is considered for the pilot project.
-
-</thinking>
-
 # Smart Storage Technology Pilot Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from organizations interested in participating in a Smart Storage Technology Pilot, a testing phase for new storage technologies.

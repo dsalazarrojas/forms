@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Robotics Onboarding Survey - Help Guide
 ## Purpose
 This form is designed to onboard new members into the robotics team. It collects essential information to help the team understand your background, skills, and availability. Completing this form ensures you're properly introduced to the team and helps us tailor the onboarding process to your needs.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be a simple evaluation survey for therapists, allowing them to provide feedback on their experience and satisfaction with their therapy sessions. The form consists of four pages with text fields that gather information on the client's experience and the therapist's evaluation. This form is intended to be completed by therapists and should not be used for any other purpose without proper authorization.
-
-</thinking>
-
 # Therapist Evaluation Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback from therapists on their experience with a particular therapy session, program, or service.

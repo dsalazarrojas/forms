@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to collect feedback on the usability of a software application. The purpose of this form is to gather information about the user's experience with the software, including their perception of its intuitive nature, usefulness, and documentation. The form also aims to collect ratings and comments on specific features, as well as additional comments on the software's usability.
-The form has eight fields, each with a specific purpose:
-- **Introduction**: This is a note field where users can provide a brief overview of their experience with the software.
-- **Feedback**: Another note field for users to share their thoughts and opinions about the software.
-- **Usability Questions**: This field presents multiple-choice questions about the software's features, asking users whether they are intuitive, useful, and well-documented.
-- **Feature Ratings**: Users can rate their experience with specific features of the software on a scale of 1 to 5.
-- **Feature Ratings Comments**: This field allows users to provide comments on their ratings of specific features.
-- **Technology Survey Questions**: Multiple-choice questions about the user's experience with the software, asking about its usage frequency, specific tasks performed, liked and disliked aspects, and more.
-- **Additional Comments**: A field for users to provide any additional thoughts or suggestions about the software's usability.
-- **Submit**: This field allows users to submit their completed form.
-</thinking>
-
 # Software Usability Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on the usability of a software application.

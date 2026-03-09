@@ -1,14 +1,3 @@
-<thinking>What's the purpose of this form and how to ensure end-users complete it without duplicating effort or providing irrelevant input? 
-This form, "ERP User Feedback Survey," is designed to gather end-user feedback on the implementation and adoption of the Enterprise Resource Planning (ERP) system. This will help the organization understand user satisfaction and identify areas that need improvement. To avoid duplication of effort, end-users should:
-- Only complete the form once, ensuring they don't submit multiple responses.
-- Review the form carefully before submitting it, making sure to provide accurate and relevant input.
-- Avoid submitting feedback for a department or module that they haven't actually interacted with or have limited experience with.
-- Be honest and thorough in their feedback, providing detailed comments and suggestions where applicable. 
-The end-users should not:
-- Submit a response with missing or blank fields, especially if it's required.
-- Use the form to complain or report non-ERP related issues.
-</thinking>
-
 # ERP User Feedback Survey - Help Guide
 ## Purpose
 

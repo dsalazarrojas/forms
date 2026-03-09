@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to gather information for physiotherapy assessment purposes. It is intended for patients to report their progress and condition after receiving physiotherapy treatment. The form is used to track changes in symptoms, improvement, or any new concerns that have arisen since the last assessment. It is essential to complete this form accurately to provide healthcare professionals with a clear understanding of the patient's status. Before starting, ensure that you have not completed this form in the past 24 hours to avoid duplication of effort. If you have already completed this form, please do not re-submit. If you need assistance, consult with a healthcare professional or the physiotherapist in charge of your care. 
-
-</thinking>
-
 # physiotherapy_assessment_form - Help Guide
 ## Purpose
 The physiotherapy assessment form is a patient-facing tool used to record and track changes in physical symptoms, improvement, or new concerns after receiving physiotherapy treatment. It helps healthcare professionals monitor progress and make informed decisions about treatment plans.

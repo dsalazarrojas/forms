@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Work Ticket Form - Help Guide
 ## Purpose
 The Work Ticket Form is used to create and manage work tickets. It is intended for requesting and tracking tasks that require attention from the technical team.

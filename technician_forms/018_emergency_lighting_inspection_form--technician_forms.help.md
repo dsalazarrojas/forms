@@ -1,11 +1,3 @@
-<thinking>
-This is a custom form designed to aid in the inspection of emergency lighting systems. The form is intended for use by certified technicians to record the results of their inspections. To ensure accuracy and consistency, please follow these guidelines:
-
-This form has eight fields, each of which requires specific information related to the inspection. The form is not a duplicate of any other form, but rather an original adaptation of public survey topic metadata. It is released under a Creative Commons 4.0 license, allowing free use, modification, and even commercial use, as long as credit is given.
-
-The purpose of this form is to gather information on emergency lighting systems, including location, inspection date, inspection time, inspector name, inspector license, and any notes relevant to the inspection. This form is designed to be completed by certified technicians and is intended for use in the inspection of emergency lighting systems.
-</thinking>
-
 # emergency_lighting_inspection_form - Help Guide
 ## Purpose
 The emergency_lighting_inspection_form is a custom form used by certified technicians to record the results of inspections of emergency lighting systems. The form is designed to collect information on location, inspection date, inspection time, inspector name, inspector license, and any notes relevant to the inspection.

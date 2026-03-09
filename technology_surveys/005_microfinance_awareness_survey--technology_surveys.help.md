@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended for users who are completing the Microfinance Awareness Survey form. The purpose of this form is to gather information about users' awareness and experiences with microfinance services. The survey is designed to understand users' knowledge, perceptions, and interests in microfinance services. This form should be completed by users who are interested in microfinance services or have experience using them.
-
-Before proceeding, please ensure that you have not already completed this survey. If you have any questions or concerns, feel free to ask.
-
-Please note that this survey is intended for research purposes only and all responses will be kept confidential.
-</thinking>
-
 # Microfinance Awareness Survey - Help Guide
 ## Purpose
 The Microfinance Awareness Survey is designed to gather information about users' awareness and experiences with microfinance services. This survey will help us understand your knowledge, perceptions, and interests in microfinance services.

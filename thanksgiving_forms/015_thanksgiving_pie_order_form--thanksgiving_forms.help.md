@@ -1,5 +1,3 @@
-<thinking>...internal reasoning block...</thinking>
-
 The form is designed to collect information from customers who want to order a pie for Thanksgiving. The purpose of this form is to gather the customer's contact information, their preferred type of pie, the quantity they want to order, and their preferred pickup time. This form will help the pie shop to know how many pies to bake and when to deliver them.
 
 ## Thanksgiving_Pie_Order_Form - Help Guide

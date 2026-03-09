@@ -1,8 +1,3 @@
-<thinking>
-This is a generated form created by AI using public metadata to create a form based on the "technology" category and "quizzes" topic. The form is designed to gather user feedback and opinions on various aspects of technology, including general knowledge, practices, concepts, and specific technologies. The form has a total of 25 fields, each representing a different aspect of technology.
-Before filling out this form, please ensure you have not filled it out before and that your responses are genuine and not duplicated.
-</thinking>
-
 # Technology Quiz - Help Guide
 ## Purpose
 This form is designed to gather your opinions and feedback on various aspects of technology. Your responses will help us better understand your thoughts and opinions on technology-related topics.

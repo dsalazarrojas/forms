@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes that the form is used to collect information from individuals or teams for a Thanksgiving lunch event. The purpose of the form is to gather event details, track the number of attendees, their dietary needs, and their food preferences. This will help the organizers plan and cater to the needs of all participants.
-</thinking>
-
 # Thanksgiving Lunch Sign Up - Help Guide
 ## Purpose
 The form is designed to collect information for the Thanksgiving lunch event, ensuring that everyone's needs are considered when planning the meal.

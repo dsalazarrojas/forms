@@ -1,7 +1,3 @@
-<thinking>
-This form is used by educators and staff to report concerns about a child's behavior, academic performance, or well-being. The form helps to collect relevant information about the child's situation and provides space for the reporter to describe the issues they've observed and the actions they recommend. The form is meant to be filled out on a one-time basis and does not require duplication. It is an essential part of the school's process for identifying and addressing student needs.
-</thinking>
-
 # Child Concerns Report Form - Help Guide
 ## Purpose
 The Child Concerns Report Form is used to gather information about a child's concerns, such as behavioral issues, academic performance, or physical well-being. The form is completed by educators and staff to report their observations and provide recommendations for next steps.

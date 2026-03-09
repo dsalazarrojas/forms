@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about patients' sleep consultations. It gathers data on sleep quality, sleep schedule, sleep disorders, sleep duration, sleep onset latency, and provides an opportunity for the patient to provide their own feedback and suggestions. This form is likely used in a healthcare setting, possibly in conjunction with other forms to provide a comprehensive assessment of a patient's sleep habits and issues. The form's purpose is to help clinicians and healthcare professionals understand a patient's sleep patterns and offer personalized advice and guidance to improve their sleep.
-</thinking>
-
 # sleep_consultation_form - Help Guide
 ## Purpose
 The sleep consultation form is a tool used to collect information about a patient's sleep habits and provide guidance on improving their sleep quality, schedule, and disorders.

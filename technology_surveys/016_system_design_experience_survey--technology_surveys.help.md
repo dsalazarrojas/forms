@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users on their system design experience. The form is part of a broader effort to understand user perceptions and pain points when designing systems. The form's purpose is to collect data on users' technical skills, experience levels, and the challenges they face when designing systems.
-
-Before filling out this form, please ensure that you are providing feedback on your actual experience with system design, and not just hypothetical or idealized scenarios. Also, note that this form is for the purpose of improving system design practices, and your input is valuable to us.
-
-Please answer the questions honestly, and feel free to provide additional comments or insights in the text box if you have more to say.
-
-</thinking>
-
 # System Design Experience Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users on their system design experience. Your input will help us improve our design practices and better serve you and other users in the future.

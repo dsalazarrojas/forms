@@ -1,7 +1,3 @@
-<thinking>
-This guide is used by technicians to help ensure that all necessary information is gathered when a new equipment replacement request is made, which is crucial for the timely and efficient fulfillment of the replacement process. This form should only be filled out for new requests and not for updates to existing ones. To avoid duplication, please make sure a separate form is not submitted for the same equipment item. If you're unsure, reach out to the team for clarification.
-</thinking>
-
 # Equipment Replacement Request Form - Help Guide
 ## Purpose
 This form is used to request a replacement for a piece of equipment. It ensures that all necessary information is gathered for the timely and efficient fulfillment of the replacement process.

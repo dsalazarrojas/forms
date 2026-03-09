@@ -1,7 +1,3 @@
-<thinking>
-This form is used for reporting the status of equipment on a weekly basis. It ensures that the equipment's status is up-to-date and accurate, helping the team to stay on track with maintenance and other tasks. This form should not be used for other purposes and should only be completed once a week.
-</thinking>
-
 # weekly_equipment_report_form - Help Guide
 ## Purpose
 The weekly equipment report form is used to track the status of equipment, ensuring accuracy and consistency in reporting.

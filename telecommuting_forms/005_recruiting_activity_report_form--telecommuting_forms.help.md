@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Recruiting Activity Report Form - Help Guide
 
 ## Purpose

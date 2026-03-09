@@ -1,5 +1,3 @@
-<thinking>As a designer, I need to ensure that this form serves its purpose without duplication of effort. The purpose of this form is to gather feedback from users about the edtech app features, and the goal is to collect information that will help the development team to improve the app. I should consider that users might not always provide feedback for every field, so I need to make sure that the required fields are clearly marked and the form is easy to navigate. I will also need to double-check that the labels are clear and not misleading.</thinking>
-
 # edtech_app_feature_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about the edtech app features. The data collected will help the development team to improve and enhance the app.

@@ -1,25 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to understand the purpose and functionality of the form first. The form is likely designed for testing the usability of a mobile app. Its purpose is to collect feedback and information about the app's general features, navigation, search functionality, content, and usability test results. The form likely serves as a checklist to evaluate the app's usability and identify areas for improvement.
-
-Based on the provided YAML fields, the form collects the following information:
-
-*   General features: The user is asked to rate whether the general features of the app are present or not.
-*   Navigation: The user is asked to provide feedback about the app's navigation.
-*   Search: The user is asked to rate whether the search functionality of the app is working correctly.
-*   Search results: The user is asked to select the date when they last performed a search in the app.
-*   Content: The user is asked to provide feedback about the content of the app.
-*   Usability test results: The user is asked to enter the time it took them to complete the usability test.
-*   Device compatibility: The user is asked to rate whether the app is compatible with different devices.
-*   Operating system: The user is asked to rate the operating system of the app.
-*   Issue reported: The user is asked to report whether they encountered any issues while using the app.
-*   Issue description: The user is asked to describe the issue they encountered.
-*   Screenshot: The user is asked to provide a screenshot of the issue.
-*   Additional comments: The user is given space for any additional comments or feedback.
-
-This guide will explain how to complete the form, provide an overview of the form's structure, and offer tips for users.
-
-</thinking>
-
 # Mobile App Usability Testing Checklist - Help Guide
 ## Purpose
 This form is designed to help you evaluate the usability of a mobile app. Please complete the form to provide feedback on the app's general features, navigation, search functionality, content, and usability test results.

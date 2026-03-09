@@ -1,14 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for this form, we should consider the purpose and requirements of the form. Based on the provided YAML fields, the form appears to be used for employee improvement suggestions. The purpose of this form is to allow employees to submit suggestions or ideas for improvement within their departments.
-
-To avoid duplication and ensure that each suggestion is valuable, we should ensure that the submitted suggestions are reviewed and considered for implementation. This can be achieved by having the employee's manager review and provide feedback on the submission.
-
-The form fields appear to be designed to gather information from the employee, including their name, job title, department, suggestion, email, manager's name, email, and phone number. However, some fields have optional or no validation rules, suggesting that some fields might not be mandatory or may need further clarification.
-
-To create the user-facing help guide, we will focus on the form's purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # employee_improvement_suggestion_form - Help Guide
 ## Purpose
 This form is used to submit improvement suggestions for the company. Please use this form to provide your ideas and feedback on how we can improve our work processes, products, or services.

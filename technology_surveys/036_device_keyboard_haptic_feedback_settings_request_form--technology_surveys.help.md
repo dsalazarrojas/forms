@@ -1,13 +1,3 @@
-<thinking>...
-This form is a request form for users to provide settings for haptic feedback on their device keyboards. This form is intended for users who would like to provide feedback on their device's haptic feedback settings, which are used to simulate touch and feel sensations when interacting with the keyboard. The form is designed to be completed by users to request changes to their current haptic feedback settings.
-
-Before submitting this form, please ensure that:
-
-* You have not submitted a similar request recently, as duplicate requests will not be processed.
-* You have selected the correct device type to which the feedback settings are related.
-
-</thinking>
-
 # Device Keyboard Haptic Feedback Settings Request Form - Help Guide
 
 ## Purpose

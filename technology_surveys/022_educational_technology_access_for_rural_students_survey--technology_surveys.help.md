@@ -1,7 +1,3 @@
-<thinking>This form is a survey designed to gather information about the educational technology access of rural students. The purpose of this survey is to gather data on the availability and accessibility of technology tools for students, such as computers, tablets, and internet access, as well as the support provided by teachers, family, and school administration. The survey also aims to understand the types of devices students have at home and at school, the condition of devices provided, and the challenges faced by students in using technology for educational purposes.
-
-Before you start, please make sure you are taking this survey for the purpose intended. If you are not a rural student, please do not proceed. If you have already completed this survey, your input will not be recorded.</thinking>
-
 # Educational Technology Access For Rural Students Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about the educational technology access of rural students.

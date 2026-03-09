@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mobile_app_feature_suggestion_contact_form - Help Guide
 
 ## Purpose

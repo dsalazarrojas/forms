@@ -1,13 +1,3 @@
-<thinking>
-
-Before we dive into the form, let's quickly review its purpose. This form is designed for employees to request equipment checkout for work-related activities. The form helps the company to track and manage equipment usage, which is a crucial aspect of telecommuting.
-
-The form is likely to be used by employees who need to use company-provided equipment for their work tasks, and it helps the administration to keep a record of equipment usage, assign equipment to employees, and track the status of the equipment.
-
-This form should not be used for other purposes, like general company announcements or non-work-related activities. If you're unsure, please reach out to your supervisor or the IT department for clarification.
-
-</thinking>
-
 # Equipment Checkout Form - Help Guide
 ## Purpose
 This form is designed to help employees request equipment checkout for work-related activities. It helps the company to track and manage equipment usage, assign equipment to employees, and monitor the status of the equipment.

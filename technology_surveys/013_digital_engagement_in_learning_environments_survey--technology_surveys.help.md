@@ -1,11 +1,3 @@
-<thinking>
-
-This is a help guide for the "Digital Engagement In Learning Environments Survey" form. This form is intended to gather feedback and opinions from users about their experiences with digital learning environments. Before starting the form, please ensure that you have read the following guide carefully to understand each section and field requirements.
-
-To confirm, this form is not a duplicate or a continuation of any previous survey, and you are answering these questions based on your current understanding of digital learning environments. Please take your time to read each question carefully, as your feedback is essential in shaping the future of digital learning environments.
-
-</thinking>
-
 # Digital Engagement In Learning Environments Survey - Help Guide
 ## Purpose
 This survey aims to collect your thoughts, experiences, and opinions about digital learning environments. Your input will help us improve the way we design and implement digital tools and resources for learning.

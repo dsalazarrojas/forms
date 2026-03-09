@@ -1,8 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Tenant Retention Motivation Survey" form, let's first consider the form's purpose. Based on the provided YAML fields, this form appears to be designed to gather feedback and information from tenants about their satisfaction with a service or product, their intent to renew, and their improvement suggestions. This form likely aims to identify areas of improvement to enhance the tenant's experience and increase retention rates. Before proceeding, I will review the form's structure and ensure that it is not duplicated or redundant.
-
-</thinking>
-
 # Tenant Retention Motivation Survey - Help Guide
 ## Purpose
 The Tenant Retention Motivation Survey is designed to gather feedback from tenants about their satisfaction with a service or product, their intent to renew, and their improvement suggestions. This survey aims to identify areas of improvement to enhance the tenant's experience and increase retention rates.

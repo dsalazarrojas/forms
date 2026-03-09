@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow customers to pre-order items for a Thanksgiving Bake Sale. The form is designed to gather information from customers, including their name, email, phone number, selected item, quantity, and any additional notes they may have. This form is intended for internal use within the organization and will likely be used to fulfill pre-orders and track customer information. It is essential to ensure that each customer fills out the form accurately and completely to prevent errors and miscommunication. Before starting, please review the form carefully to understand the required fields and the purpose of each field. Ensure that you are not duplicating efforts by checking if you have already pre-ordered items or have the same information on file with the organization.
-</thinking>
-
 # Thanksgiving Bake Sale Pre Order Form - Help Guide
 ## Purpose
 The form is designed to gather pre-order information from customers for the Thanksgiving Bake Sale. Please use this guide to complete the form accurately and efficiently.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I've reviewed the form fields and understand that this Education Technology Product Demo Consent Form is designed for participants to provide their details, consent, and agreement for a product demo. The form is used to collect participant information, including their name, email, company name, and contact details. It also requires participants to agree to certain terms and conditions, and to sign off on a specific date. To ensure that the form is completed correctly, I will provide clear instructions and explanations for each field. I'll make sure to cover all the required fields and provide additional tips for users who may need help.</thinking>
-
 # Education Technology Product Demo Consent Form - Help Guide
 ## Purpose
 This form is for participants to provide their details, consent, and agreement for a product demo. It is essential to fill in all the required fields to ensure that we can proceed with the demo and communicate with you effectively.

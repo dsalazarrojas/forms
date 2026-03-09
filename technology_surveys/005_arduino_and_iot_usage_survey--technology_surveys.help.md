@@ -1,20 +1,3 @@
-<thinking>
-The Arduino And IoT Usage Survey is designed to collect information from users about their experience with Arduino boards and IoT (Internet of Things) platforms. The survey aims to gather data on user demographics, their level of experience with Arduino, the types of projects they work on, the platforms and protocols they use, the challenges they face, and their overall satisfaction with available documentation and support.
-
-This form is intended for users who have experience with Arduino boards and IoT platforms. If you are new to Arduino, you may find this survey confusing or irrelevant. Please let us know if you have any questions or concerns.
-
-We will review the responses from this survey to identify areas where users are facing challenges and to gather insights on how to improve the Arduino ecosystem. Your participation is crucial in helping us better understand the needs and pain points of our users.
-
-Before you start the survey, please note that some questions are optional or have multiple selections. You can choose one or more options depending on your experience and preferences.
-
-Please answer the questions honestly, and if you are unsure about any question, feel free to ask us for clarification.
-
-We will keep your responses anonymous and confidential. If you have any questions or concerns about the survey, please contact us at [your_email_address].
-
-This survey should take around [insert time] minutes to complete. Please take your time to answer the questions carefully and accurately.
-
-</thinking>
-
 # Arduino And IoT Usage Survey - Help Guide
 ## Purpose
 The Arduino And IoT Usage Survey is designed to gather information from users about their experience with Arduino boards and IoT platforms.

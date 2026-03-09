@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to provide users with a clear understanding of the Wireless Technology Feedback form purpose, completion process, and field-by-field explanations.
-
-The purpose of this form is to gather feedback from users regarding their experience with wireless technology services. This feedback will help identify areas of improvement and provide insight into user satisfaction and expectations. The form is designed to collect information about various aspects of wireless technology services, including overall satisfaction, issues with wireless connection or devices, signal reception, and potential areas for improvement. By providing a comprehensive view of user experiences and opinions, this form aims to facilitate informed decision-making and service development.
-
-Before proceeding, please ensure that you have completed this form for the first time to avoid duplication. If you have already submitted a similar form, please note that this guide will cover the current form version.
-
-</thinking>
-
 # Wireless Technology Feedback - Help Guide
 ## Purpose
 

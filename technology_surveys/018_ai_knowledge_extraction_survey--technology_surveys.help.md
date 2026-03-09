@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for gathering information about a user's experience with AI Knowledge Extraction, a process that involves extracting relevant information from unstructured data sources. The form aims to collect data on the specific project details, user's involvement in the project (name, organization, role), and their experience in using AI for extraction tasks (primary use cases, data sources, extraction frequency, desired outputs, etc.). This form should be completed by users who are familiar with AI-related projects and tasks. Please ensure that you are the right person to fill this form and that your answers are accurate.
-</thinking>
-
 # AI Knowledge Extraction Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experience with AI Knowledge Extraction. It will help us understand your needs and challenges in extracting knowledge from various data sources.

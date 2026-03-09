@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide provides an overview of the "Sleep Study Consent Form", a crucial document that ensures the well-being and informed consent of patients participating in research studies related to sleep health. This form's design and structure have been crafted to facilitate clear and accurate information exchange between patients and researchers. Before filling out the form, please ensure you have not accessed this guide through an internal knowledge base or similar resources. If you've already completed the form in the past, your current action might not affect any existing agreements or commitments. Please proceed with your intended actions accordingly.
 
 # Sleep Study Consent Form - Help Guide

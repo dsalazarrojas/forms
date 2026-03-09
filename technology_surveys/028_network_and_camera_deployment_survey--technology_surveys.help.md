@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about a site's network and camera deployment. The purpose of this form is to gather details about the site's network requirements, camera placement, and other specifications. This form is intended for use by site managers, IT professionals, or other stakeholders who need to assess the network and camera infrastructure of a site. Please ensure that you have reviewed the form carefully and that the information you enter is accurate and relevant to your situation.
-
-Before starting, check that you have not filled out this form previously and that the information is up-to-date. This will save you time and ensure that your input is not duplicated.
-
-If you're unsure about any of the fields or options below, please refer to the Field-by-Field Explanation section for more information.
-</thinking>
-
 # Network And Camera Deployment Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a site's network and camera deployment.

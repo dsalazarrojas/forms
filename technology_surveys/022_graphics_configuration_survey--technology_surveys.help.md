@@ -1,5 +1,3 @@
-<thinking>What the graphics configuration survey is used for: This form is intended to help us gather valuable insights from users on their graphics settings, display preferences, and overall experience. The goal is to collect data on the level of satisfaction with the current graphics settings, display resolution and refresh rate, and other comments or suggestions for improvements.</thinking>
-
 # graphics_configuration_survey - Help Guide
 ## Purpose
 The graphics configuration survey is designed to collect feedback on your graphics settings, display preferences, and overall satisfaction with our product. This will help us improve and tailor our graphics configuration options to better meet your needs.

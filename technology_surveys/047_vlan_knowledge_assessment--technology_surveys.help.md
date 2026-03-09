@@ -1,15 +1,3 @@
-<thinking>
-
-This form is a vlan_knowledge_assessment form, used to gauge a user's knowledge about virtual LAN (VLAN) settings. The form will ask the user various questions about VLANs, including their configuration, identification, and status. It is likely intended for technical professionals who need to understand their knowledge level about VLANs in order to better assist their customers or peers. 
-
-The form is designed to be completed by one user at a time, and each question is meant to be answered truthfully to provide an accurate assessment of the user's knowledge level. 
-
-Please note that the form does not track individual results, so users are encouraged to answer truthfully and complete the form in one sitting. 
-
-This is a survey form, and not a test or evaluation form used for performance assessment.
-
-</thinking>
-
 # vlan_knowledge_assessment - Help Guide
 ## Purpose
 This form is used to gauge your knowledge about virtual LAN (VLAN) settings. Please answer the questions truthfully to provide an accurate assessment of your knowledge level.

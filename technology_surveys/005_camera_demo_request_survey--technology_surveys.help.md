@@ -1,8 +1,3 @@
-<thinking>
-This is a form designed to gather information from potential customers for camera demo requests. To prevent duplicate entries and to ensure that the form is filled out with the most relevant and accurate information, it is suggested that potential customers fill out this form only once they have made the decision to request a demo, and that they have a clear understanding of their own needs and requirements. This includes having identified the specific type of camera solution they need, and having an estimated budget in mind. 
-Before proceeding, ensure that you have a clear understanding of the answers to the questions in this form and that it reflects your true needs and requirements.
-</thinking>
-
 # Camera Demo Request Survey - Help Guide
 ## Purpose
 This form is designed to gather information from potential customers for camera demo requests. It helps us understand your needs and requirements for a camera solution.

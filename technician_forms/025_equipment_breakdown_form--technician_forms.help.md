@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information about equipment breakdowns. It is meant to be used by technicians to report and track equipment failures. The form should be used only for recording actual equipment breakdowns, not for routine maintenance requests or other non-emergency situations.
-
-The form can be used to report a breakdown in one of three areas: broken equipment, broken parts, or notes. Broken equipment and broken parts are both text fields, where the technician can describe the specific equipment or part that has failed. The notes field is a note field, where the technician can add additional information about the breakdown.
-
-The form is intended to be filled out by technicians who are on-site or in the field, and the information collected will be used to help with troubleshooting and repair of the equipment.
-
-This form should not be used for any other purpose, as it is designed to be a specific tool for equipment breakdowns.
-
-</thinking>
-
 # Equipment Breakdown Form - Help Guide
 ## Purpose
 The Equipment Breakdown Form is a tool for technicians to report and track equipment failures. It is designed to be used in the field or on-site, and helps with troubleshooting and repair of equipment.

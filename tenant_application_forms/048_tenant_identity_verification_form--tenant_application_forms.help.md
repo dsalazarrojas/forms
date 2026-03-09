@@ -1,8 +1,4 @@
-> <thinking>
-This form is designed to gather essential information for tenant identity verification purposes. Its purpose is to collect personal details from tenants, including their name, contact information, and identification documents. The form is used to ensure that the tenant's identity is accurate and up-to-date in our records. Please note that this form is a generic template and may not reflect the exact requirements of your organization or institution. You should review and adapt it according to your specific needs and regulations.
-</thinking>
-
-# Tenant Identity Verification Form - Help Guide
+> # Tenant Identity Verification Form - Help Guide
 ## Purpose
 The Tenant Identity Verification Form is a tool used to collect and verify the identity of tenants. It gathers essential information to ensure accuracy and update in our records.
 

@@ -1,5 +1,3 @@
-<thinking>As I review the form schema, it appears to be designed for patient registration in a telehealth setting. The form collects various personal and medical information from the patient, including name, contact method, email, phone number, insurance status, address, date of birth, emergency contact information, medical history, and consent. This form likely serves as an intake process for new patients, helping healthcare providers to gather essential information for patient care and treatment. To avoid duplication, it's essential to ensure that the form is filled out by the patient only once, and the information is accurately and thoroughly completed.</thinking>
-
 # Telehealth Patient Registration Form - Help Guide
 ## Purpose
 This form collects essential information from patients for telehealth care and services.

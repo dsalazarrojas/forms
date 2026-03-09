@@ -1,7 +1,3 @@
-<thinking>
-This form is for tenants to acknowledge that they have read and agree to the rules of a property. This is a crucial step in the tenant application process, ensuring that tenants are aware of their responsibilities and obligations as a tenant. This form is not intended to be a lengthy or complex process, but rather a clear and concise way to collect necessary information from tenants. Before proceeding, please review the form carefully and ensure that you are submitting accurate and complete information.
-</thinking>
-
 # Tenant Rules Acknowledgment Form - Help Guide
 ## Purpose
 The Tenant Rules Acknowledgment Form is a mandatory form that requires tenants to acknowledge that they have read and agree to the rules of the property. This form is a crucial part of the tenant application process, ensuring that tenants are aware of their responsibilities and obligations as a tenant.

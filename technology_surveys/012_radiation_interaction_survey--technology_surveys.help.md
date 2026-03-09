@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to support end users in completing the "radiation_interaction_survey_form" form. The form is designed to collect information about radiation exposure frequencies, durations, symptoms, and experiences related to radiation interactions. To ensure that the form is completed accurately and without duplication, users should only fill out the form if they have had radiation exposure or interactions, and should not repeat questions that are identical or similar in nature.
-</thinking>
-
 # radiation_interaction_survey_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about radiation exposure frequencies, durations, symptoms, and experiences related to radiation interactions.

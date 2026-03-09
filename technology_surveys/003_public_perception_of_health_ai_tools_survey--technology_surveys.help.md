@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gauge the public perception of health AI tools. It collects feedback on users' experiences, satisfaction, and expectations from AI-powered health tools. The goal is to gather data on how users perceive the usability, accuracy, and overall value of these tools in their professional settings.
-
-This form will likely be used by professionals in healthcare-related fields who have used AI-powered health tools in the past 6 months. The questions are designed to be straightforward and easy to understand.
-
-Before completing this form, ensure you're eligible to participate by having used AI-powered health tools within the past 6 months.
-
-</thinking>
-
 # public_perception_of_health_ai_tools_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on public perception of health AI tools used in the past 6 months.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Temperature And Fuel Usage Survey - Help Guide
 
 ## Purpose

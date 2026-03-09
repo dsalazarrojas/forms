@@ -1,10 +1,3 @@
-<thinking>
-The Voice To Invoice Automation Survey is a form designed to gather information from users about their current workflow and experiences with invoice automation. This form is intended to collect feedback and insights to improve the development and deployment of invoice automation technology.
-
-Before proceeding, please verify that you have not already completed this survey to prevent duplicate responses.
-
-</thinking>
-
 # Voice To Invoice Automation Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand your current workflow and experiences with invoice automation. Your input will guide the development and deployment of invoice automation technology that caters to your needs.

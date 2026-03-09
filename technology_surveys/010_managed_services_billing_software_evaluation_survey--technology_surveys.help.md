@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Managed Services Billing Software Evaluation Survey - Help Guide
 
 ## Purpose

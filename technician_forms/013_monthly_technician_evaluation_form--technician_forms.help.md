@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for evaluating the performance of a technician on a monthly basis. The purpose of this form is to collect feedback and comments from managers on a technician's performance, which will help in assessing their progress and identify areas for improvement. This form should only be completed for technicians who are regularly evaluated on a monthly basis. Please do not duplicate this form for bi-weekly or weekly evaluations. Ensure that the manager who is completing the form is familiar with the technician and their work before filling out this form.
-</thinking>
-
 # Monthly Tech Evaluation Form - Help Guide
 ## Purpose
 The Monthly Tech Evaluation Form is a tool for managers to provide feedback and comments on a technician's performance on a monthly basis.

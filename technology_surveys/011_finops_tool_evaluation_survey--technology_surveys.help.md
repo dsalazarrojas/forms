@@ -1,13 +1,3 @@
-<thinking>
-To determine whether the form is being submitted correctly, please confirm you're filling out the FinOps Tool Evaluation Survey as part of your regular evaluation process. If you're not evaluating a tool for its intended purpose, please do not submit the form.
-
-The FinOps Tool Evaluation Survey is a tool for evaluating the effectiveness and usability of various FinOps (Financial Operations) tools. This form will help you provide feedback on the tools you've used, which will help us improve them and provide better support for the community.
-
-Before starting, please ensure you're evaluating a specific tool and not a general concept or a non-FinOps related topic. If you're unsure, feel free to ask for clarification.
-
-When filling out this form, please make sure to complete all required fields and answer each question based on your actual experience with the tool.
-</thinking>
-
 # FinOps Tool Evaluation Survey - Help Guide
 ## Purpose
 

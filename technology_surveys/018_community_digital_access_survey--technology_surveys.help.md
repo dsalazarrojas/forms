@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Digital Access Survey - Help Guide
 
 ## Purpose

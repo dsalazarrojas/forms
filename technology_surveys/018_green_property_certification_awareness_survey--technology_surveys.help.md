@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gauge users' awareness and understanding of green property certification, a process that verifies a property's compliance with environmental and sustainability standards. The purpose of this form is to collect feedback from users on their level of awareness, importance, and impact of green property certification on their business or organization. This information will help stakeholders understand the current state of knowledge and perceptions on green property certification and inform future initiatives.
-Before proceeding, please ensure that you have not completed this survey before. If you have, please refrain from submitting duplicate responses.
-</thinking>
-
 # Green Property Certification Awareness Survey - Help Guide
 ## Purpose
 

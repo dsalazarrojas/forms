@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect feedback from virtual classroom teachers on their experiences and challenges in teaching in a virtual environment. It's crucial that teachers respond to this survey honestly, as their input will help us improve our services and better support them in their roles.
-
-Before filling out this form, ensure that you haven't already responded to this survey. Duplicate responses can skew the data and undermine the survey's purpose.
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Virtual Classroom Teacher Challenges Survey - Help Guide
 ## Purpose
 This survey aims to gather insights from virtual classroom teachers on their experiences, challenges, and suggestions for improvement in teaching in a virtual environment.

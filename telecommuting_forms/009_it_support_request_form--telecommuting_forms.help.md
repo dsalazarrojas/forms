@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used by employees to submit an IT Support Request, which allows them to report any issues or problems they are experiencing with their work devices or systems. The form helps to ensure that support requests are thorough, clear, and well-documented, making it easier for IT staff to identify and resolve the issues efficiently. To prevent duplicate requests, please fill in your name and employee ID in the first field (not included in this form schema), as this will serve as your unique identifier. Please fill out the form only if you are experiencing a new issue, and not for routine maintenance or updates.
-
-</thinking>
-
 # IT Support Request Form - Help Guide
 ## Purpose
 The IT Support Request Form is designed to help employees submit requests for assistance with issues they are experiencing with their work devices or systems.

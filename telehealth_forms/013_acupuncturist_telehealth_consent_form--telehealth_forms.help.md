@@ -1,5 +1,3 @@
-<thinking>... This form is designed for patients to provide consent for telehealth services, ensuring they understand the limitations and requirements of remote sessions. This includes collecting patient demographic information, contact details, and emergency contact information. The form also covers privacy concerns, billing and cancellation policies, and a signature block for the consent record. This form should only be created once for each patient and not duplicated for the same individual...</thinking>
-
 # Acupuncturist Telehealth Consent Form - Help Guide
 ## Purpose
 This form is for patients to provide consent for telehealth services. It ensures they understand the limitations and requirements of remote sessions.

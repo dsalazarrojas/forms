@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather insights from users on their current process automation efforts, aiming to understand their pain points and potential solutions.
-The form will cover various aspects such as the primary workflow being automated, tools used, challenges faced, potential improvements, suggested solutions, and team involvement.
-The form is open to all users, and responses will be kept anonymous to ensure a safe and honest environment.
-Please complete this form carefully as it will help us improve our services and provide better support.
-</thinking>
-
 # Process Automation Insight Survey - Help Guide
 ## Purpose
 This form is designed to gather insights from users on their current process automation efforts, aiming to understand their pain points and potential solutions.

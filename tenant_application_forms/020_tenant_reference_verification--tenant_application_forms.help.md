@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to verify the reference of a tenant. The purpose of this form is to gather information about a tenant's employment status and history. It is likely used in the context of evaluating a tenant's creditworthiness or verifying their employment details for a rental application.
-</thinking>
-
 # Tenant Reference Verification - Help Guide
 ## Purpose
 The Tenant Reference Verification form is used to gather information about a tenant's employment status and history for evaluating their creditworthiness or verifying their employment details for a rental application.

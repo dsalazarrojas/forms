@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tenant Access Code Reset Request Form - Help Guide
 ## Purpose
 This form is used to request the reset of a tenant's access code, which is a unique code used for authentication and verification. The purpose of this form is to allow tenants to request a new access code when they have forgotten or lost their existing code.

@@ -1,14 +1,3 @@
-<thinking>
-To evaluate the performance of your autonomous robot, please fill out this form after completing a test with your robot. Please ensure you have collected all necessary information before proceeding, and try to fill out this form in as much detail as possible.
-
-Before starting, take a moment to review this form to see if you have previously submitted similar data. If you have, you might be able to save some time by using information from your previous submission.
-
-This form is designed to gather data on several key aspects of your robot's performance. Please provide accurate and honest answers to help us better understand your robot's capabilities and any areas for improvement.
-
-If you have any questions or concerns while filling out this form, please don't hesitate to reach out to us for assistance.
-
-</thinking>
-
 # Autonomous Robot Performance Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect data on your autonomous robot's performance during a test. This information will help us to better understand your robot's capabilities and identify areas for improvement.

@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to gauge the user's proficiency in programming languages and their debugging skills. The form asks about the user's preferred programming language, years of experience, debugging ability, and time taken to debug a problem. This form is likely used to create a diagnostic assessment for programming language knowledge.
-Before attempting to complete this form, ensure that you have relevant experience in programming languages. If you do not have experience in any of the listed languages, do not fill this form.
-</thinking>
-
 # Programming Language Debug Quiz - Help Guide
 ## Purpose
 The Programming Language Debug Quiz is a diagnostic assessment designed to gauge your proficiency in programming languages and debugging skills.

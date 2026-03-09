@@ -1,26 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback on clean technologies, such as solar power, wind energy, electric vehicles, and others. This form is designed to collect information on various aspects of these technologies, including their usage duration, overall satisfaction, performance and reliability, cost-effectiveness, ease of use, environmental impact, primary benefits, and challenges or drawbacks. The goal is to better understand the user experience and identify areas for improvement.
-
-To complete this form, follow these steps:
-
-1.  Select the clean technology you are evaluating, such as solar power or wind energy.
-2.  Indicate how long you have been using the technology, which is a critical factor in determining its effectiveness.
-3.  Rate your overall satisfaction level with the technology.
-4.  Evaluate its performance and reliability.
-5.  Assess its cost-effectiveness, considering its efficiency and value for money.
-6.  Provide an honest opinion on its ease of operation and maintenance.
-7.  Express your thoughts on its environmental impact.
-8.  Identify the primary benefit you have experienced from using the technology.
-9.  Share your experiences with any major challenges or drawbacks.
-10.  Suggest improvements that could enhance the technology.
-11.  Indicate your likelihood of recommending the technology to others.
-12.  If you're interested, provide your email address to receive the survey results.
-13.  Finally, express your interest in adopting other clean technologies in the future.
-
-This form is designed to be completed by users who have hands-on experience with clean technologies. Your input will help drive innovation and make these technologies more effective and accessible to everyone.
-
-</thinking>
-
 # Clean Technology Feedback Survey - Help Guide
 
 ## Purpose

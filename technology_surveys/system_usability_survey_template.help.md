@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect user feedback and identify areas for improvement in the system. This form is intended to be a template and is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created using AI and public survey topic metadata. This form is released under CC BY 4.0, allowing for free use, modification, and even commercial use with proper credit.
-</thinking>
-
 # system_usability_survey_template - Help Guide
 ## Purpose
 This form is designed to gather information about your experience with the system, aiming to understand how well the system meets your needs and expectations. Your feedback will help us improve the system's usability and overall user experience.

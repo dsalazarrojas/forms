@@ -1,14 +1,3 @@
-<thinking>
-The "Quality Assurance Check Form" is a tool designed to ensure the quality of products, services, or processes. This form is typically used to conduct regular check-ups to identify and rectify any issues, deviations, or defects that may have occurred during production, deployment, or delivery. It's essential to ensure that the output meets the established standards, specifications, and expectations.
-
-To complete this form, users must understand the context and relevance of each field. The form's purpose is to collect data on the quality of a product, service, or process, and identify areas that need improvement. The quality of the output is crucial, and the form is designed to help users detect and correct any issues that may have arisen.
-
-When filling out this form, users should carefully review each page and answer the questions accurately and thoroughly. Each page is designed to gather specific information, and users should ensure they answer accordingly.
-
-To avoid duplication, it's essential to review the form carefully and make sure that each question is answered uniquely and correctly. If a user is unsure about any field or question, they should contact the form's maintainer (form@gic.mx).
-
-</thinking>
-
 # Quality Assurance Check Form - Help Guide
 ## Purpose
 

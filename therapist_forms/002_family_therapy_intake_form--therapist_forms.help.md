@@ -1,13 +1,3 @@
-<thinking> 
-
-Family therapy is a collaborative process where a family works with a mental health professional to address their emotional and psychological issues affecting the family dynamics. The purpose of this form is to collect essential information about the family's medical, psychological, and social background to create an effective therapy plan.
-
-This form is not intended to be a comprehensive assessment or diagnosis but rather a starting point for the therapeutic process. The information collected will help the therapist understand the family's concerns, strengths, and goals to develop a personalized plan.
-
-To ensure accurate and relevant information is gathered, please answer each question as thoroughly as possible and provide any additional details or context when applicable.
-
-</thinking>
-
 # Family Therapy Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your family's background, concerns, and goals to aid in the creation of a personalized therapy plan.

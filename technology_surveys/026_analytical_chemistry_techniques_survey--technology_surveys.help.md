@@ -1,8 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Analytical Chemistry Techniques Survey" form. This form is designed to collect information from respondents about their primary analytical chemistry techniques used in their work. The purpose of this form is to help us better understand the current state of analytical chemistry practices in various laboratories and institutions. This form will not be duplicated, and its completion is optional. However, filling it out will help us gather valuable insights to inform our future services and training programs.
-
-</thinking>
-
 # Analytical Chemistry Techniques Survey - Help Guide
 ## Purpose
 This form is designed to collect information from respondents about their primary analytical chemistry techniques used in their work.

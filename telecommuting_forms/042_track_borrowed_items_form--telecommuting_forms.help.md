@@ -1,10 +1,3 @@
-<thinking>
-The form is used to track items that have been borrowed from the classroom.
-This form is intended to track items that have been borrowed from the classroom by users. It collects information about the item, user, and dates of checkout and return.
-The form is designed to be used by teachers, administrators, or other authorized personnel to track the borrowing of classroom items.
-It's essential to complete this form accurately and thoroughly to ensure that the item is properly tracked and returned on time.
-</thinking>
-
 # track_borrowed_items_form - Help Guide
 ## Purpose
 The track_borrowed_items_form is a form used to track items that have been borrowed from the classroom.

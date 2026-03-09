@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for patients to provide their informed consent for physical therapy treatment. The purpose of this form is to collect necessary patient information and ensure that the patient is aware of and agrees to the treatment plan and associated risks. The information collected will be used to tailor the treatment plan to the patient's specific needs and ensure that they understand their role in the treatment process.
-
-The following guide will walk you through the process of completing this form.
-</thinking>
-
 # Physical Therapy Informed Consent Form - Help Guide
 ## Purpose
 

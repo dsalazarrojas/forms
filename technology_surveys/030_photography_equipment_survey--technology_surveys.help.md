@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # photography_equipment_survey - Help Guide
 
 ## Purpose

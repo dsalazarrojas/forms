@@ -1,11 +1,3 @@
-<thinking>
-This guide will cover the creation and completion of the Mobile App Usage Survey form. The form has 25 questions across two pages, and it aims to collect various aspects of a user's mobile app usage habits.
-- Each page consists of several questions, with different types, such as select-one and select-multiple options, text inputs, and email inputs.
-- The form is divided into two sections: one with questions about the app's usage frequency, time spent, and user behavior, and the other with questions about the app's features and updates.
-- The form is designed to be completed by users in a step-by-step manner, with each question being answered in sequence.
-- The form requires a minimum of 5 fields to be filled out, with the remaining fields being optional.
-</thinking>
-
 # Mobile App Usage Survey - Help Guide
 ## Purpose
 The Mobile App Usage Survey is designed to collect data on users' mobile app usage habits, including the frequency of app usage, time spent on the app, and user behavior. The survey aims to gather information on various aspects of app usage, such as how often users access the app, how much time they spend on it, and how they usually find out about new features or updates.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a virtual critical incident response disclaimer, possibly for medical or legal purposes. It is designed to collect information about incidents that have occurred, including dates, times, locations, and details. The form likely serves as a way to document and report incidents in a standardized format. I will make sure to keep this in mind while writing the help guide.
-</thinking>
-
 # Virtual Critical Incident Response Disclaimer - Help Guide
 ## Purpose
 This form is used to document and report virtual critical incidents. Please fill it out thoroughly and accurately to ensure that incidents are properly reported and addressed.

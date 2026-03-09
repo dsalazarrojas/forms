@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from employees regarding their computer request needs. It's meant to be used to determine the type of equipment required, its specifications, and other related details. Before proceeding, please make sure you have a valid reason for the request and that you have checked that the equipment is not already available for use. Please note that some fields are required, so ensure you fill those in correctly.
-</thinking>
-
 # Computer Request Form - Help Guide
 ## Purpose
 

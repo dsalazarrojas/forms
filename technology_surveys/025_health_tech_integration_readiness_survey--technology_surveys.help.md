@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to assess the integration readiness of health technology in a specific context. It is used to evaluate whether a particular health technology is ready for integration and what steps can be taken to ensure a smooth and successful integration process. This form is likely used by health technology companies, researchers, or stakeholders to gauge their readiness for integration and identify potential barriers or next steps.
-
-This form is likely not to be used for general public or patients as the questions are mostly related to professional and business matters.
-
-The following fields are used for this survey: Readiness, Barriers, Contact, Integration Method, Integration, Next Steps, Additional, which are all related to integration readiness evaluation. The other fields (Submit) are likely there for form completion.
-
-</thinking>
-
 # Health Tech Integration Readiness Survey - Help Guide
 ## Purpose
 The Health Tech Integration Readiness Survey is used to assess the integration readiness of health technology in a specific context. It aims to evaluate whether a particular health technology is ready for integration and what steps can be taken to ensure a smooth and successful integration process.

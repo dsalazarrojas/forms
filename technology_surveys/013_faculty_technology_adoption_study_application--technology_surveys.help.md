@@ -1,13 +1,3 @@
-<thinking>
-The Faculty Technology Adoption Study Application form is designed to collect data from faculty members about their technology adoption habits and experiences. This form is intended to gather information about faculty contact information, course details, and technology usage. The data collected will be used to analyze technology adoption patterns among faculty members and to identify areas for further investigation and improvement.
-
-To ensure the form is being used for its intended purpose, please ensure that you are a faculty member or have been invited by a faculty member to complete this form. If you are unsure about the purpose or eligibility to complete this form, please do not proceed.
-
-Before completing this form, please take a moment to review the following pages and fields to understand what information is being requested.
-
-This form has been created using AI-generated technology and is not affiliated with any form platform. It is intended to be an original adaptation of public survey metadata.
-</thinking>
-
 # Faculty Technology Adoption Study Application - Help Guide
 ## Purpose
 

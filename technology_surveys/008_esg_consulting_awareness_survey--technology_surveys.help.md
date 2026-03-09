@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a help guide for the ESG Consulting Awareness Survey form. The form aims to gather information about a company's or organization's awareness and understanding of Environmental, Social, and Governance (ESG) issues. ESG is a critical aspect of sustainable business practices that considers the impact of a company's operations on the environment, social responsibility, and good governance. The survey will help us understand your level of familiarity with ESG principles and identify areas where more education and support are needed.
 
 </thinking>

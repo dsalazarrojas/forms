@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # tech_gadget_consumer_preference_poll - Help Guide
 ## Purpose
 This form aims to collect information on consumers' preferences and behaviors regarding technology gadgets, specifically their device ownership, priorities when choosing a new phone, buying plans, and features of their current phone.

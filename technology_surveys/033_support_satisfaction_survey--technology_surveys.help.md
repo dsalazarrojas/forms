@@ -1,5 +1,3 @@
-<thinking>...The Support Satisfaction Survey is designed to gather feedback from customers on their experience with our support team. This survey is intended to help us understand how well we're meeting our customers' needs and identify areas for improvement. The survey will only be shown to customers who have previously interacted with our support team. This will ensure that we get accurate and relevant feedback from those who are most familiar with our support processes. To avoid duplication of effort, we'll only show the survey to customers who have not yet completed it. If you've already taken this survey, you won't see it again...</thinking>
-
 # Support Satisfaction Survey - Help Guide
 ## Purpose
 The Support Satisfaction Survey is designed to gather feedback from customers on their experience with our support team. This survey is intended to help us understand how well we're meeting our customers' needs and identify areas for improvement.

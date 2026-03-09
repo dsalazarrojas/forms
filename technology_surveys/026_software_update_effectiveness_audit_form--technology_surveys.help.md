@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Software Update Effectiveness Audit Form - Help Guide
 ## Purpose
 The Software Update Effectiveness Audit Form is designed to gather information about the success or failure of a software update. This form helps identify areas where the update process can be improved and provides valuable insights for future updates. It should only be used to report on one software update per form submission.

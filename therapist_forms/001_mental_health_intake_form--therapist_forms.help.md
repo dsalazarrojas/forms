@@ -1,7 +1,3 @@
-<thinking>
-We can see that this form is designed to collect patient and therapy information for mental health services. The form will help us to better understand the patient's situation and provide more personalized care. We can check if this form is being used for other purposes or to avoid duplication of efforts. If the form is being used for other purposes or to duplicate efforts, we should consider revising the form's design and purpose.
-</thinking>
-
 # mental_health_intake_form - Help Guide
 ## Purpose
 This form is designed to collect patient and therapy information for mental health services. It is meant to be a comprehensive guide for patients to provide detailed information about their mental health history, medical history, and contact details.

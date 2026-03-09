@@ -1,7 +1,3 @@
-<thinking>
-This form is used by potential tenants to apply to become tenants of a building or property. The form is meant to collect information about the applicant, such as their name, contact details, and address. The form is intended to be completed by the applicant themselves, rather than someone representing them. This form is not meant to be used for other purposes, such as employee applications or customer support requests. Before filling out this form, the applicant should ensure that they have all the necessary information and documents required for the application.
-</thinking>
-
 # Tenant Application Form - Help Guide
 ## Purpose
 The Tenant Application Form is used by potential tenants to apply to become tenants of a building or property. This form helps us to collect the necessary information about the applicant and their contact details.

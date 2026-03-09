@@ -1,5 +1,3 @@
-<thinking>...This form is designed to help healthcare professionals, such as psychiatrists and psychologists, document progress notes for patients undergoing mental health treatment. It provides a structured format for capturing essential information about the patient's condition, progress, and treatment goals. Completing this form ensures that all relevant details are recorded accurately and consistently, promoting better patient care and facilitating communication among healthcare providers... </thinking>
-
 # Psychiatry Progress Note - Help Guide
 ## Purpose
 This form is a progress note for documenting patient information and treatment details. It helps healthcare providers to track patient progress, set goals, and plan for future appointments.

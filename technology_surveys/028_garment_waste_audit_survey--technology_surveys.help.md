@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for collecting data on garment waste audits. The form collects information on the location where the waste is being produced, the description of the waste, the quantities of waste, methods of disposal, challenges faced in dealing with the waste, and ideas for improvement.
-It is expected that the form will be completed by someone who is familiar with the process of garment waste audits and has access to the necessary information.
-The form may be used by various stakeholders, including but not limited to, garment manufacturers, suppliers, retailers, and recyclers.
-</thinking>
-
 # Garment Waste Audit Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect data on garment waste audits, which is used to identify and address the challenges and opportunities in the garment industry.

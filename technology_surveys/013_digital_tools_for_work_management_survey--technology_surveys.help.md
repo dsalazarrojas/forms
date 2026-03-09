@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Tools For Work Management Survey - Help Guide
 
 ## Purpose

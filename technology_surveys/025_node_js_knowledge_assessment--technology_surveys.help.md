@@ -1,8 +1,3 @@
-<thinking>
-This form is a knowledge assessment tool designed to evaluate a user's experience, skills, and proficiency with Node.js. The form is meant to be completed by individuals with varying levels of familiarity with Node.js, from beginners to experts. It's crucial to understand that this form is for internal use only, and the information collected will help shape the company's training and support strategies for Node.js users. 
-The form has 12 fields in total, each focusing on a different aspect of Node.js knowledge and usage. Some fields are select options, while others are more open-ended, allowing users to provide detailed descriptions of their experiences. The form's purpose is to create a comprehensive view of the user's strengths and weaknesses in Node.js, enabling the company to tailor its support and training initiatives accordingly. 
-</thinking>
-
 # node-js-knowledge-assessment - Help Guide
 ## Purpose
 This form is designed to assess your knowledge and experience with Node.js. It will help us understand your goals, experience level, and proficiency with the technology. Your input will guide our support and training efforts to better serve you and our community.

@@ -1,6 +1,3 @@
-<thinking>
-This form is used to report equipment issues that affect employees in the company. It allows employees to submit a brief description of the issue they are experiencing, along with other relevant details such as the type of equipment involved, the employee's ID, and the priority and status of the issue. This form helps the IT department to quickly identify and address equipment issues, reducing downtime and improving overall employee productivity. It's essential to fill out this form accurately and thoroughly to ensure that the issue is resolved efficiently. Please note that this form is not intended to be a substitute for the official reporting process, but rather a supplement to support the reporting process. Please ensure that the issue you are reporting is not already being addressed through another channel before submitting this form.</thinking>
-
 # employee_equipment_issue_form - Help Guide
 ## Purpose
 The employee_equipment_issue_form is used to report equipment issues that affect employees in the company.

@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to gather information about Thanksgiving gatherings, allowing guests to RSVP and indicate if they plan to bring a dish to share. This is a text-only form with a simple structure, ideal for small to medium-sized groups. It's meant for casual settings, and the goal is to get basic information about who's coming and what they plan to bring.
-</thinking>
-
 # Thanksgving rsvp - Help Guide
 ## Purpose
 This form is used to RSVP to a Thanksgiving gathering and indicate if you plan to bring a dish to share with the group.

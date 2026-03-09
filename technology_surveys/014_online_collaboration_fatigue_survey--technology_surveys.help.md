@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and insights from end-users about their experiences with virtual meetings and online collaboration. It helps to understand how participants feel about virtual meetings, their role in the meeting, how long they have been participating, the amount of time spent in virtual meetings, their preference for video in virtual meetings, their overall satisfaction with virtual meetings, and how virtual meetings affect their productivity. This form will gather anonymous and non-intrusive data, ensuring that participants' responses are not tied to their organizational identity.
-</thinking>
-
 # online_collaboration_fatigue_survey - Help Guide
 ## Purpose
 This form is intended to collect feedback about online collaboration and virtual meetings from end-users.

@@ -1,8 +1,3 @@
-<thinking>
-The Patient Health Questionnaire PHQ9 is a comprehensive form designed to assess various aspects of a patient's health, including their general well-being, physical health, social health, emotional health, and other specific health concerns. This form helps healthcare providers gather detailed information about the patient's experiences, symptoms, and behaviors related to their mental and physical health. By using this form, healthcare providers can identify potential areas of concern and develop personalized treatment plans to address these issues.
-To avoid duplication of effort, please ensure that the patient has not recently submitted a similar form or has not been assessed by this form within the last 30 days.
-</thinking>
-
 # Patient Health Questionnaire PHQ9 - Help Guide
 
 ## Purpose

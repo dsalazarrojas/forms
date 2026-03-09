@@ -1,7 +1,3 @@
-<thinking>
-The "Rust Developer Survey Form" aims to gather information from Rust developers about their adoption and experiences with the language. This form will help us understand the current state of the Rust ecosystem, identify areas for improvement, and provide valuable insights for future development and decision-making. Before proceeding, please ensure that you haven't completed this form before as your input will not be saved. This is to prevent duplicate submissions and ensure the integrity of the data.
-</thinking>
-
 # Rust Developer Survey Form - Help Guide
 ## Purpose
 The Rust Developer Survey Form is designed to collect data from Rust developers about their experiences and opinions on the language and its ecosystem.

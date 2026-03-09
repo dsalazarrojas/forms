@@ -1,11 +1,3 @@
-<thinking>**Form Designer and Technical Writer's Note:**
-
-This form is designed to assess the security posture of Voice over Internet Protocol (VoIP) systems, which are widely used for voice communications. The form is meant to help organizations identify potential vulnerabilities and weaknesses in their VoIP systems and take steps to improve their security.
-
-To ensure that the form is used correctly, please review each field carefully and only select the options that accurately reflect your organization's VoIP systems and concerns. If you are unsure about any of the options or have a different scenario, please provide a clear and detailed explanation in the "Other" field.
-
-The form is not intended to be a comprehensive security assessment, but rather a starting point for organizations to gauge their current security posture and identify areas for improvement.</thinking>
-
 # VoIP Security Assessment Survey - Help Guide
 ## Purpose
 This survey is designed to help organizations assess the security posture of their Voice over Internet Protocol (VoIP) systems. It's meant to be a starting point for identifying potential vulnerabilities and weaknesses in your VoIP systems.

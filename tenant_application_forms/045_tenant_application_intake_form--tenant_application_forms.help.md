@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tenant Application Intake Form - Help Guide
 
 ## Purpose

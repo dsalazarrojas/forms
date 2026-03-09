@@ -1,8 +1,3 @@
-<thinking>
-This form is for the telehealth training certification program application. To ensure that the form is relevant and not duplicated, I need to understand that it is used by individuals seeking certification in telehealth training.
-
-</thinking>
-
 # Telehealth Training Certification Program Application - Help Guide
 ## Purpose
 This form is for individuals seeking certification in telehealth training. To be eligible, applicants must meet the program's specific requirements and criteria.

@@ -1,9 +1,3 @@
-<thinking>
-We are checking the form purpose and ensuring it is not a duplicate of an existing form.
-The Smart Checkout Technology Application Form is used to collect information from business users to assess their fit with smart checkout technology. This form is likely used by IT or product teams to evaluate the feasibility of implementing specific technologies within a business. The form's purpose is to provide a structured evaluation process for the business users and the technology teams. 
-There are no identical forms in the database that we can find, so we will proceed with creating the help guide.
-</thinking>
-
 # Smart Checkout Technology Application Form - Help Guide
 ## Purpose
 

@@ -1,12 +1,3 @@
-<thinking> 
-The purpose of this Geometric Dimensioning And Tolerancing (GD&T) Survey is to gather information about the principles, techniques, and practices related to geometric dimensioning and tolerancing. The survey aims to understand the current state of GD&T in the industry, including the principles used, techniques employed, and measurement systems and equipment involved. This information will help identify areas of improvement and potential best practices in the field.
-
-To ensure accuracy, please note that this form is an original adaptation and not affiliated with, endorsed by, or derived from any form platform. If you have completed a similar survey before, please answer accordingly. Otherwise, answer based on your current knowledge and experience in the field of geometric dimensioning and tolerancing.
-
-Before starting, please review the form carefully and answer all questions that apply to your experience and knowledge in the field. If you are unsure about any question, please provide the best answer you can based on your understanding.
-
-</thinking>
-
 # Geometric Dimensioning And Tolerancing (GD&T) Survey - Help Guide
 ## Purpose
 

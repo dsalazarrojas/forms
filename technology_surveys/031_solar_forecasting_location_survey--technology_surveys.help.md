@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information on a specific location's solar forecasting capabilities. The survey is intended to collect data on the location's latitude, longitude, elevation, orientation, solar altitude, and slope angle, as well as any additional notes or contact information. This data will help us understand the site's solar potential and optimize solar forecasting models.
-
-This guide will walk you through the steps to complete the Solar Forecasting Location Survey form.
-
-</thinking>
-
 # Solar Forecasting Location Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect data on a specific location's solar forecasting capabilities. This information will help us better understand the site's solar potential and optimize solar forecasting models for improved accuracy.

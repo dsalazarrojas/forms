@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Operating System Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with the operating system. The goal is to gather information about bugs, performance, and usability issues users have encountered while using the operating system. This form will help the development team to understand user concerns and improve the operating system accordingly.

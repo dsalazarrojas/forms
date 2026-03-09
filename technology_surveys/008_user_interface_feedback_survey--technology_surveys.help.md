@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users about their interface experience. The purpose of this form is to identify areas where the user interface can be improved to better serve the users' needs. This information will be used by the development team to make data-driven decisions about the user interface. This form is not meant to be a comprehensive assessment, but rather a starting point for improvement.
-Please note that this form is only meant for users who have experienced issues with the user interface, and it is not intended for users who have not encountered any problems.
-</thinking>
-
 # user_interface_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their interface experience. The information gathered will help the development team identify areas for improvement and make data-driven decisions to enhance the user interface.

@@ -1,13 +1,3 @@
-<thinking>
-This form is used to request authorization from a parent or other responsible individual for a patient's medical treatment. This form helps to gather information about the patient's parent or other responsible individual, including their name, emergency contact, and authorization status. The form also collects the patient's phone number and email address for contact purposes. The authorization fields indicate if the parent or other responsible individual has given medical and other authorization. 
-
-The form is designed to be completed by a healthcare provider and is intended for patients who are minors or have a parent or other responsible individual who needs to be informed about their medical treatment. 
-
-The form should not be completed if the patient is an adult or has a legal guardian who is already aware of their medical treatment. 
-
-Note: This form is for internal use only and should not be shared with external parties without proper authorization.
-</thinking>
-
 # Parent Authorization - Help Guide
 ## Purpose
 The Parent Authorization form is used to request authorization from a parent or other responsible individual for a minor patient's medical treatment.

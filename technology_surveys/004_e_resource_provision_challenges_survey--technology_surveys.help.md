@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to gather information on the challenges users face when accessing resources related to the "E Resource Provision" category. This survey aims to understand the difficulties users encounter and identify areas that require improvement. Please ensure you're taking this survey only once, as duplicate responses will not provide any additional value. If you're an administrator, you may want to review your responses before submitting, to ensure accuracy and completeness. 
-
-</thinking>
-
 # E Resource Provision Challenges Survey - Help Guide
 ## Purpose
 This survey aims to collect feedback on the challenges you face when accessing resources related to the "E Resource Provision" category. Your input will help us better understand your needs and identify areas for improvement.

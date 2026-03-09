@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Institutional Innovation Readiness Survey - Help Guide
 ## Purpose
 This survey aims to assess the institutional readiness for innovation within your organization, providing valuable insights to help you better understand your current innovation capacity and identify areas for improvement.

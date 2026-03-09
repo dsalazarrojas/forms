@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about rural health technology adoption, which is a crucial aspect of healthcare in rural areas. The purpose of this form is to gather data on the adoption and utilization of various technologies in rural healthcare settings. This form is intended for individuals who have experience with rural health technology and are willing to share their perspectives on the current state of adoption and challenges faced by rural health providers. Please note that this form will not gather sensitive or personal identifiable information. Before starting, please ensure that you are not duplicating your efforts and that your responses are accurate and honest. You will be able to provide information in multiple fields, and you can skip any section that you do not feel comfortable answering or is not applicable to you.</thinking>
-
 # rural_health_technology_adoption_survey - Help Guide
 ## Purpose
 The rural health technology adoption survey is designed to collect information about the adoption and utilization of various technologies in rural healthcare settings. The survey aims to gather data on the current state of adoption, challenges faced by rural health providers, and areas for improvement.

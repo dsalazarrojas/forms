@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Tech App Experience Survey - Help Guide
 ## Purpose
 This form is designed to gather your experience and feedback about the Pet Tech App. The survey will help us understand how you use the app, what you like or dislike about it, and what features you would like to see in the future. Please answer the questions as honestly as possible, and select all that apply to provide a complete picture of your experience.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gauge users' awareness and attitudes towards human rights, specifically focusing on various aspects such as definition, importance, and consequences of human rights violations. This survey is likely designed for a global audience, hence the term "Global." Given that the form fields are mostly select-type questions, users will be selecting from options such as "Yes" or "No" or "Yes" and "No" for multiple options. It seems like a mix of knowledge and opinion-based questions are being asked. The introduction page is a note-type field which will likely provide some context about the survey purpose and goals.
-
-The form appears to have no fields that require numerical input or dates. Therefore, it's possible that this form is meant to gauge awareness, attitudes, and opinions on human rights without requiring any numerical data or dates. This seems to be a survey intended for a general audience to express their views on human rights without requiring any sensitive information.
-</thinking>
-
 # Global Human Rights Awareness Survey - Help Guide
 
 ## Purpose

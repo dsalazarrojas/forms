@@ -1,14 +1,3 @@
-<thinking>
-We are creating a form to gather feedback and opinions from users about their experience with a database client software. This form is designed to collect information on whether they would use the software again, what they liked or disliked about it, and if they would recommend it to others. This form is meant to be a comprehensive evaluation tool to help us understand user satisfaction and identify areas of improvement.
-
-Before filling out this form, ensure you are providing honest and detailed feedback. If you are unsure about any of the questions, please feel free to add any additional comments or explanations in the designated text fields.
-
-Please note that this form is designed to be completed by one person per submission. If you are filling out this form on behalf of a team, please ensure that you are representing the collective opinions of your team.
-
-Also, please do not submit this form if you have not actually used the database client software. Your honest and informed feedback is crucial in helping us improve the software, but we value accuracy and validity of the information you provide.
-
-</thinking>
-
 # Database Client Software Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from users about their experience with the database client software. This form helps us understand what users like and dislike about the software, whether they would use it again, and if they would recommend it to others.

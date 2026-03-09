@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for new client intake, where a therapist or administrative staff member can collect essential information about a new client. The purpose of this form is to ensure that all relevant details are collected accurately and consistently, making it easier for the therapist to provide the best possible care and services to the client. This form will help to avoid duplication of information and ensure that the data is up-to-date. It is essential to fill out this form carefully and accurately, as it may be used in various situations, such as creating a client record, scheduling sessions, or communicating with the client.
-</thinking>
-
 # new_client_intake_form - Help Guide
 ## Purpose
 The new_client_intake_form is a crucial document that helps therapists and administrative staff collect essential information about new clients. This form ensures that all relevant details are collected accurately and consistently, making it easier for the therapist to provide the best possible care and services.

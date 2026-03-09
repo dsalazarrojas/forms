@@ -1,10 +1,3 @@
-<thinking>
-The form is used to assess the impact of robotics on diversity and inclusion in various contexts. The purpose of this form is to collect information on how robotics affects different demographics and communities, and to identify potential areas where diversity, equity, and inclusion could be improved. This form will help to:
-    - Assess the current state of robotics in various industries and fields
-    - Identify areas where diversity, equity, and inclusion need to be improved
-    - Provide recommendations for improvement and solutions to enhance participation and inclusion
-</thinking>
-
 # Robotics And Diversity Impact Survey - Help Guide
 ## Purpose
 The purpose of this form is to assess the impact of robotics on diversity and inclusion in various contexts, such as education, industry, and society as a whole. This form will help to identify areas where diversity, equity, and inclusion need to be improved and provide recommendations for improvement and solutions to enhance participation and inclusion.

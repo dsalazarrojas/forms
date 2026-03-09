@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used by technicians to inspect Slushie machines, which are likely a type of machine that produces or involves slushie, a type of frozen drink. The purpose of the form is to gather information about the machine's operational state and any issues or concerns that need to be addressed.
 
 This form is likely used in a field or industrial setting, possibly as part of a routine maintenance or quality control process.

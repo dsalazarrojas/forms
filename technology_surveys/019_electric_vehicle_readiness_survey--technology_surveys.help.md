@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from users about their readiness to adopt electric vehicles. This will help us understand the needs and preferences of potential electric vehicle customers. This form should only be filled out by users who are current or interested in buying electric vehicles. If you're unsure about the purpose or relevance of this form, please don't fill it out.
-</thinking>
-
 # Electric Vehicle Readiness Survey - Help Guide
 ## Purpose
 This survey is designed to gather information from users about their current or future plans for owning an electric vehicle. By completing this form, we aim to understand your needs and preferences, and tailor our outreach efforts to better serve you.

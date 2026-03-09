@@ -1,10 +1,3 @@
-<thinking>
-This form is a Tenant Background Check Form used to collect information about potential tenants. The form is used to gather background information on a tenant, including contact details, employment status, income, and housing status. The purpose of this form is to gather all necessary information to conduct a thorough background check on a potential tenant.
-
-Before proceeding, ensure that you have the necessary information readily available. If you have filled out this form in the past, you may not need to fill it out again as the form does not store data. 
-
-</thinking>
-
 # Tenant Background Check Form - Help Guide
 ## Purpose
 This form collects background information on a potential tenant.

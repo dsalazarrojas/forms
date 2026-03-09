@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a pet technology demonstration request. It is intended for internal use within the organization and is not intended for external use. To ensure that the form is completed correctly, please review the following fields carefully:
-* Page 1: This page is the introduction to the form and is not a field for input.
-* Page 2: This page collects information about the pet in question.
-	+ Pet Type: Select one or more pet types from the options provided.
-	+ Date of Birth: This field is a date field for the pet's date of birth.
-	+ Month: Select the month of the pet's birth from the options provided.
-	+ Year: Select the year of the pet's birth from the options provided.
-	+ Day: Select the day of the pet's birth from the options provided.
-* Page 1: This page collects contact information for the person requesting the demonstration.
-	+ Contact Name: Enter the name of the person requesting the demonstration.
-	+ Contact Email: Enter the email address of the person requesting the demonstration.
-	+ Contact Phone: Enter the phone number of the person requesting the demonstration.
-	+ Comments: Enter any additional comments or requests for the demonstration.
-* The "Demos Wanted" field is optional and allows the user to indicate if they are interested in any additional demonstrations.
-* The form should not be completed if the user is requesting a demonstration for an external purpose or if the information collected will be used for external purposes. If you are unsure, please contact the organization's support team.
-</thinking>
-
 # Pet Technology Demonstration Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users for a pet technology demonstration request. It is intended for internal use within the organization and is not intended for external use.

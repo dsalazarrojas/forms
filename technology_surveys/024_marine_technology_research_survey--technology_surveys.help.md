@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "marine technology research survey" form, we need to ensure that end-users understand the form's purpose, how to complete it, and what each field means. This guide will break down the explanation into several sections to facilitate easy reading and comprehension. 
-
-We will use the provided YAML fields to create a user-facing help guide that is concise, practical, and easy to follow.
-
-After creating the form's internal reasoning and checks for relevance and non-duplication, we can proceed with the final help guide output.
-
-</thinking>
-
 # Marine Technology Research Survey - Help Guide
 ## Purpose
 This marine technology research survey is designed to gather information on various aspects of marine technology, including research interests, roles, areas of focus, common challenges, and tool usage. The survey aims to collect valuable insights that will help improve marine technology planning and research processes. 

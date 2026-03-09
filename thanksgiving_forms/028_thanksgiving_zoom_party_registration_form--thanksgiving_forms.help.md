@@ -1,5 +1,3 @@
-<thinking>This is a form for the Thanksgiving Zoom Party Registration Form, which is used to collect information from guests attending the party. The form is likely used by the host to get an overview of who is attending and what messages they want to share with other guests.</thinking>
-
 # Thanksgiving Zoom Party Registration Form - Help Guide
 ## Purpose
 

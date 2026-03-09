@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from electronics repair technicians about referrals to other repair technicians. The purpose of this form is to provide a standardized way of capturing and tracking referrals. This form should be used when a technician believes a customer's issue is beyond their expertise and a referral is necessary. Please make sure to complete the form accurately and thoroughly to ensure the referral is successful. 
-</thinking>
-
 # Electronics Repair Technician Referral Form - Help Guide
 ## Purpose
 This form is used to refer customers to other electronic repair technicians when their issues are beyond the expertise of the current technician.

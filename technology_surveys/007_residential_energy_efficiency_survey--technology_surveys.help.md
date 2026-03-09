@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Residential Energy Efficiency Survey - Help Guide
 
 ## Purpose

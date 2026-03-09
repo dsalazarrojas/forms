@@ -1,9 +1,3 @@
-<thinking>
-
-The Hipaa Medical History Form is designed to collect information about a patient's health history, including their contact information, current symptoms, medications, allergies, drug use, and family medical history. This form is intended to help healthcare providers gather accurate and comprehensive information about a patient's health status, which can inform diagnosis, treatment, and care planning. This form is not intended to replace medical professional judgment or diagnosis, but rather support it. Before filling out this form, please note that it is not a substitute for a face-to-face consultation with a healthcare provider. If you are unsure about any of the questions, please contact a healthcare professional for clarification. 
-
-</thinking>
-
 # Hipaa Medical History Form - Help Guide
 ## Purpose
 The Hipaa Medical History Form is a tool designed to gather information about a patient's medical history, which is used to support the diagnosis and treatment process.

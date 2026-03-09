@@ -1,9 +1,3 @@
-<thinking>
-To help determine how users interact with software, we are implementing a form that captures information about their company and experience with software tools.
-This form is a self-reported survey form that is not meant to be completed by an admin. It is meant to provide insights to software teams on how users are using their software and what their pain points are.
-Please complete this form honestly and thoroughly, it will only be used to better understand your company's and software usage.
-</thinking>
-
 # Software Survey Form - Help Guide
 ## Purpose
 This form is designed to gather information about your company and your experience with software tools. By completing this form, you will help us understand your company's and software usage, which will aid our development team in creating better software solutions for you and others.

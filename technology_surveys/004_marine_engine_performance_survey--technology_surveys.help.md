@@ -1,17 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand the purpose of the Marine Engine Performance Survey form. From the provided YAML, it appears that the form is designed to collect data related to marine engines, including their performance, maintenance, and other related factors. The form seems to be a survey or a data collection tool, possibly for research or analysis purposes.
-
-To confirm, let me summarize the key points:
-
-* The form is not for creating or editing a marine engine, but rather for collecting data about existing marine engines.
-* The form asks for specific details about the engine, such as model, horsepower, year manufactured, and operating conditions.
-* The form also asks for performance-related data, like engine performance, fuel type, emissions impact, and engine maintenance.
-* The form is designed to be completed by someone who is familiar with marine engines or has access to their specifications.
-
-This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-</thinking>
-
 # Marine Engine Performance Survey - Help Guide
 
 ## Purpose

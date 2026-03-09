@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from clients about their personal and mental health details, medical history, and preferences for therapy. It is intended to be a comprehensive tool for the therapist to understand the client's situation, goals, and needs. Please ensure that you fill out this form accurately and thoroughly, as the information provided will help us tailor our services to meet your specific requirements.
-
-Before filling out this form, please note that you can save your progress at any time and resume later. If you have any questions or concerns, you can reach out to us directly.
-
-</thinking>
-
 # Client Intake Form - Help Guide
 ## Purpose
 The Client Intake Form is a mandatory document that helps us understand your needs and preferences for therapy. Please complete this form with accurate and clear information to ensure the best possible care.

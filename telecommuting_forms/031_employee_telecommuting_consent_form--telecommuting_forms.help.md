@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to capture information from employees who are telecommuting or working remotely. The form asks for consent from the employee to work from a remote location, and gathers details about their work arrangement, manager information, and contact details. 
-This form is likely used in a corporate or organizational setting to ensure that employees who are working remotely are aware of and agree to their work terms and conditions.
-
-Please note that this explanation and the form guide that follows are based on a provided YAML structure. The form fields and their purposes are assumed to be relevant to the use case described above. If this assumption is incorrect, please let me know.
-
-</thinking>
-
 # Employee Telecommuting Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from employees who are working remotely or telecommuting. It captures essential information about their work arrangement, manager details, and contact information.

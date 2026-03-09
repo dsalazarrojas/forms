@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow employees to submit support requests to the support team. This form will be used to gather information about the issue or problem the employee is experiencing and provide a way to track and manage these requests. It's essential to ensure that the form is filled out correctly to provide the support team with the necessary details to effectively address the issue. Before filling out this form, make sure you're not duplicating a previous request.
-</thinking>
-
 # support_request_form - Help Guide
 ## Purpose
 The support_request_form is designed to collect information about support requests from employees. It's a crucial tool for the support team to understand the issue and provide timely assistance.

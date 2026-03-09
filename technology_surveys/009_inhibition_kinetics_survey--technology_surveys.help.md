@@ -1,10 +1,3 @@
-<thinking>
-This form is for gathering information about inhibition kinetics experiments.
-Inhibition kinetics is a fundamental concept in biochemistry that describes the rate of inhibition of an enzyme-substrate reaction. This form will help collect data for analysis and comparison across different experiments.
-To ensure that the information provided is accurate and complete, please review the form carefully and ensure you are providing the necessary details for your experiment.
-Please note that this form is for internal use only and the data collected will be used for research and development purposes.
-</thinking>
-
 # Inhibition Kinetics Survey - Help Guide
 ## Purpose
 

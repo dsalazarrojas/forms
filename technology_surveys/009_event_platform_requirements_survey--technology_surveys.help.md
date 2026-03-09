@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about the event platform requirements from the end-users. The form asks for details about the event platform type, vendor, priority, integrations, and various platform features. The form also collects information about data retention, security, support, cost, user and event limits, and geographical location. The goal is to get a comprehensive understanding of the event platform requirements, which will help in choosing the right event platform for the specific needs. To avoid duplication, please do not fill out this form if you have already filled it out in the past. Please ensure that you provide accurate and up-to-date information. 
-
-</thinking>
-
 # Event Platform Requirements Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the event platform requirements from the end-users to get a comprehensive understanding of the event platform needs.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # COVID Plasma Donation Form - Help Guide
 
 ## Purpose

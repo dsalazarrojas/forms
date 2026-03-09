@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users about their experience with the Smart TV App. The form aims to collect information on the user's overall satisfaction with the app and any issues they may have encountered during their session. This feedback will help the development team to identify areas of improvement and make necessary changes to enhance the user experience.
-</thinking>
-
 # Smart TV App Feedback Survey - Help Guide
 ## Purpose
 The Smart TV App Feedback Survey is designed to collect information about your experience with the Smart TV App. This form will help us understand your satisfaction with the app and identify areas that need improvement.

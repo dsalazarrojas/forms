@@ -1,12 +1,3 @@
-<thinking> 
-**Form Purpose:**
-This form is designed to gather feedback and evaluations from users about their experiences with different Enterprise LLM (Large Language Model) providers. The form aims to collect information on the provider's performance, adoption, and overall satisfaction, as well as the user's willingness to recommend the provider and any comments they may have.
-
-**Relevance and Non-Duplication Check:**
-This form is intended for users who have interacted with different Enterprise LLM providers and have an opinion about their performance. Please ensure that you have actually worked with the provider and have a genuine experience to share. If you're unsure or have no experience with the provider, please do not fill out this form.
-
-</thinking>
-
 # Enterprise LLM Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluations from users about their experiences with Enterprise LLM providers. It aims to gather information on the provider's performance, adoption, and overall satisfaction.

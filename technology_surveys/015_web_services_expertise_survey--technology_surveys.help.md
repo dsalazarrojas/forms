@@ -1,7 +1,3 @@
-<thinking>
-This form is a Web Services Expertise Survey designed to gauge users' knowledge and experience in various aspects of web services, such as APIs, web services expertise, current usage patterns, proficiency in APIs, tools used, and common usage patterns. It is essential that users provide honest and accurate answers to help us understand their expertise levels, which will aid in refining our services and ensuring they align with user needs.
-</thinking>
-
 # Web Services Expertise Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your expertise in web services, including your experience with APIs, web services expertise, current usage patterns, proficiency in APIs, tools used, and common usage patterns.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # telehealth_consent_form - Help Guide
 ## Purpose
 This form is intended for patients to provide their consent for telehealth services, which allow healthcare providers to offer medical care remotely through phone, video, and messaging. This form ensures that patients understand and agree to the terms of telehealth services, including the use of electronic communication methods and the sharing of their personal health information.

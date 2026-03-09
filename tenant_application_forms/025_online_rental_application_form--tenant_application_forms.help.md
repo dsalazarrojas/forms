@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, this form is designed to collect information from applicants who wish to rent a property. The form is used for both internal and external purposes, such as verifying the identity of the applicant and assessing their suitability for rental agreements. Please ensure that you fill in your real information as this will be used to verify your identity.
-</thinking>
-
 # Online Rental Application Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from applicants who wish to rent a property. It is used for verifying the identity of the applicant and assessing their suitability for rental agreements.

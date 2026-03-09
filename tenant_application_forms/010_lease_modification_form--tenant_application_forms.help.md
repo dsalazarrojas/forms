@@ -1,7 +1,3 @@
-<thinking>
-This form is used for modifying leases. The "Lease Modification Form" is used to make changes to an existing lease. This form is likely used in real estate or property management settings.
-</thinking>
-
 # lease_modification_form - Help Guide
 ## Purpose
 The "Lease Modification Form" is used to make changes to an existing lease. This form allows users to select the category of the request, provide a description of the modifications, and specify the changes they would like to make to the lease.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Grid Plotting Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and insights on experiences, tools, and training related to grid plotting, with the goal of understanding what users find most challenging or useful in these areas.

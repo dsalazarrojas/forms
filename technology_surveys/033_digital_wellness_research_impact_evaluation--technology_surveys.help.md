@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to evaluate the impact of the "Digital Wellness Research" program, a survey intended to gather feedback and ratings from program participants about their experiences with the program, its researcher, and the overall program evaluation.
-
-The form collects information on a participant's name, their digital habits prior to the program, their ratings of the program and researcher performance, and any feedback they may have about their experience. 
-
-Please review this guide to ensure you understand the purpose and process of completing this form accurately and thoroughly.
-
-</thinking>
-
 # Digital Wellness Research Impact Evaluation - Help Guide
 
 ## Purpose

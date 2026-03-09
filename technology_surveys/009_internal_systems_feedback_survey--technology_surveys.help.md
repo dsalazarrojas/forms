@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from internal users on our systems and tools. The purpose of this form is to gather information on how our internal systems are performing, where they are falling short, and potential suggestions for improvement. 
-
-This form will likely be used by internal employees, and it's essential to ensure that the feedback provided is relevant and not duplicated. Before submitting your feedback, please take a moment to review the following instructions to ensure you're completing the form correctly. If you've already provided feedback on this topic, please do not submit duplicate feedback, as it will not be included in our analysis. 
-
-Please note that all fields are optional, but providing clear and concise responses will help us better understand your thoughts and suggestions.
-</thinking>
-
 # internal-systems-feedback-survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from internal users on our internal systems and tools. This feedback will help us identify areas for improvement and make data-driven decisions to enhance our internal systems.

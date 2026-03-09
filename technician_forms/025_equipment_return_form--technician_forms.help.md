@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is for technicians to document equipment returns, ensuring accurate tracking and record-keeping. The form is likely to be filled out when equipment is returned to the school after it has been borrowed by a student or teacher. This form is intended to be completed by staff or technicians who manage the equipment inventory and want to ensure that the return process is accurate and up-to-date.
-
-To avoid duplication of effort, this form is meant to be used when equipment is indeed being returned. It should not be used when requesting or reporting a loan, maintenance, or issue with the equipment. If you're unsure, check with the team managing the equipment inventory for confirmation.
-
-Please note that the form has multiple fields that can potentially be confusing. However, each field's description should help clarify its purpose.
-
-</thinking>
-
 # Equipment Return Form - Help Guide
 ## Purpose
 This form is used to document the return of equipment after it has been borrowed by a student or teacher.

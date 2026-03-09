@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Serial Number Generator - Help Guide
 ## Purpose
 The Serial Number Generator form is a tool used to generate serial numbers for various purposes. This form is typically used to create serial numbers for inventory tracking, product identification, and other similar applications. 
