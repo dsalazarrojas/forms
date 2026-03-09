@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # emerging_technology_integration_voting_form - Help Guide
 ## Purpose
 The Emerging Technology Integration Voting Form is a tool for evaluating and prioritizing technologies for integration into an organization. It helps in making informed decisions by providing a structured and transparent process for assessing and selecting technologies.

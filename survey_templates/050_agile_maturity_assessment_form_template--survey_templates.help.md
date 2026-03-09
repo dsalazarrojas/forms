@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Agile Maturity Assessment Form Template - Help Guide
 ## Purpose
 This form is designed to assess the Agile maturity level of an organization. It helps to identify areas of improvement and provide recommendations for growth. The assessment covers various aspects such as Agile practices, leadership support, measurement maturity, team autonomy, cultural readiness for change, and suggested maturity level.

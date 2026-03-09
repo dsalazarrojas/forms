@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Wedding Artist Fee Survey" form, which is used to collect information from artists who participate in wedding events. The form is designed to elicit relevant details from artists regarding their fees, services offered, and contact information. It is essential that users understand the purpose and requirements of the form to ensure accurate and complete data collection.
-
-To begin with, it is crucial to note that the form is divided into multiple pages, with each page containing one or more fields. This guide will walk you through each field in the form, explaining its purpose and the expected input.
-
-</thinking>
-
 # Wedding Artist Fee Survey - Help Guide
 ## Purpose
 The Wedding Artist Fee Survey is a form designed to collect information from artists participating in wedding events. The form aims to gather details about their fees, services offered, and contact information. This information will help event organizers and wedding planners make informed decisions about hiring artists for future events.

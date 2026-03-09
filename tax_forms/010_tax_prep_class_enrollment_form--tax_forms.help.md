@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for collecting various types of information, likely for some sort of administrative or reporting purpose. The form has 8 fields, which can be grouped into three categories: base information, contact information, and dates/agreement. This form likely requires user input for a specific process or task, and may be used in a business or organizational setting.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to gather specific information for a particular process or task. Its purpose is to collect details about a subject or incident, which will be used to generate a report.

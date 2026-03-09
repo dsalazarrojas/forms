@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to track an individual's mood, emotional state, and various aspects of their well-being over time. The data collected from this form will be used to analyze patterns and trends in the individual's mental health, allowing for more informed decision-making and better support. This form is not intended for individuals with severe mental health issues or emergencies. Please do not use this form as a substitute for professional medical or therapeutic treatment.
-
-</thinking>
-
 # Mood Tracking Form - Help Guide
 ## Purpose
 The Mood Tracking Form is designed to help you monitor and track your mental health and well-being over time. The form collects information on various aspects of your emotional state, physical health, and social support.

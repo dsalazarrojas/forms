@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used as a template for instructors to create a quiz on research paper comprehension. It allows users to upload a research paper and provide feedback on student answers and quiz completion status. The form is meant to be used by instructors to evaluate student submissions and provide comments and feedback.
-</thinking>
-
 # research_paper_comprehension_quiz - Help Guide
 ## Purpose
 The "research_paper_comprehension_quiz" form is a template used by instructors to create a quiz on research paper comprehension. This guide will walk you through the steps to complete the form.

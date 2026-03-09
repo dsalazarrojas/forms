@@ -1,7 +1,3 @@
-<thinking>
-  This form is used to collect feedback and evaluations from students about their instructors. It is intended to gather data on various aspects of the instructor's performance, including their teaching quality, professionalism, attitude, effectiveness, presentation, and overall satisfaction. Before filling out this form, please ensure you have completed this form for a similar instructor and are not submitting duplicate feedback. This form is not intended for self-evaluation, but rather for students to share their honest and constructive feedback with the instructor.
-</thinking>
-
 # instructor_evaluation_form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and evaluations from students about their instructors. This form helps instructors to improve their teaching quality, professionalism, and overall performance.

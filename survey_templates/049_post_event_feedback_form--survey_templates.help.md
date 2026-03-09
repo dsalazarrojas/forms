@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We have included the Post Event Feedback Form for users to provide valuable feedback on events they have attended. This form helps us understand their experiences and gather information on how we can improve future events. Please note that this form is for general feedback purposes, and the data collected will be used to refine and enhance our event management. To ensure accurate data, kindly be as specific as possible while filling out this form, and avoid submitting duplicate responses.
 
 # Post Event Feedback Form - Help Guide

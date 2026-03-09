@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is designed to gather information about electricity usage from users. It is used to collect data on electricity consumption patterns, location, and frequency of usage. The form is used to help us better understand how electricity is being used and to inform decisions on energy-saving initiatives. It is not intended to be a complex form, and users should be able to complete it quickly and easily.
-
-</thinking>
-
 # electricity_usage_survey - Help Guide
 ## Purpose
 This form is designed to collect information about electricity usage patterns and consumption habits from users. It will help us better understand how electricity is being used and inform decisions on energy-saving initiatives.

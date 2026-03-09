@@ -1,10 +1,3 @@
-<thinking>
-This form is used to gather information about end-of-life support services. The purpose of this form is to collect data on the support experience of patients or individuals who are nearing the end of their life. This information will help us better understand their needs and preferences, and will guide our efforts to improve end-of-life care and support services. It's essential that you complete this form accurately and honestly, as the data collected will contribute to the development of more effective and personalized support programs.
-
-To avoid duplication, please only complete this form once for each individual or patient. If you have already completed a similar form, please do not resubmit your data.
-
-</thinking>
-
 # end_of_life_support_survey - Help Guide
 ## Purpose
 This form is used to gather information about end-of-life support services.

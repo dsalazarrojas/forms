@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect information about safe sleep practices and environment from parents or caregivers for children. The form is intended to be completed by the user to provide insight into the child's sleep habits and environment.
-
-This form will be used to assess the child's safe sleep practices and environment. To avoid duplicate entries and ensure accurate data collection, this form should only be filled out once per child.
-</thinking>
-
 # Safe Sleep Post Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your child's safe sleep practices and environment. The survey is intended to help us understand your child's sleep habits and environment, which will aid in providing better guidance and support for your child's safety and health.

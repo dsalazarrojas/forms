@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Studio Usage Feedback form. The form is meant to collect feedback from users about their experience with the studio, focusing on their overall satisfaction and potential areas for improvement.
-
-To determine the relevance of this form, please ensure that you are accessing the studio's feedback mechanisms for the purpose of providing constructive insights to improve user experience. Duplicate submissions may lead to data inconsistency and are not recommended.
-
-Before starting with the form, please note that this is a critical form for providing valuable feedback, so please respond truthfully and thoroughly. Your input will contribute significantly to the studio's growth and development.
-
-</thinking>
-
 # Studio Usage Feedback - Help Guide
 ## Purpose
 The Studio Usage Feedback form is designed to collect information about your experiences and satisfaction with the studio. Your feedback will help us understand your needs and preferences, enabling us to make necessary adjustments and improvements.

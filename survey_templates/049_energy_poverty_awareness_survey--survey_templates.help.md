@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to be a survey on energy poverty awareness, likely for research or data collection purposes. The form is structured into multiple pages, each with various questions that cover different aspects of energy poverty, including experiences, awareness, opinions, and demographic information. The form is intended to be completed by individuals who are familiar with the concept of energy poverty and can provide informed responses. This form should not be completed by individuals who are not familiar with the concept or are not able to answer the questions truthfully. To ensure accuracy and relevance, users should answer the questions based on their personal experiences and opinions.</thinking>
-
 # Energy Poverty Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather information on energy poverty awareness, including experiences, awareness, and opinions. It is intended to be completed by individuals who are familiar with the concept of energy poverty.

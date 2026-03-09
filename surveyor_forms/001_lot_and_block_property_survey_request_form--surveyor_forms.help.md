@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a property survey request. This form will be used to request a survey for a specific property, which can be a lot, block, or mixed property type. The form will ask for the surveyor's name, email, request date, property address, property type, and other relevant details. This form is designed to ensure that the survey request is properly documented and tracked.
-
-</thinking>
-
 # Lot And Block Property Survey Request Form - Help Guide
 ## Purpose
 This form is used to request a property survey for a specific property. You can use this form to request a survey for a lot, block, or mixed property type.

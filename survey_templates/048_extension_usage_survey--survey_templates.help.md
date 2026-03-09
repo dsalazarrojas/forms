@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect data on the usage of extensions within the organization. The purpose of this form is to gather information on which extensions are being used, by whom, and in which category. This will help the management team to understand the adoption and usage patterns of extensions, which will aid in making informed decisions on resource allocation and extension development. 
-
-The form is designed to be filled out by users of extensions, and will be used to collect data for reporting and analysis. 
-
-Please ensure you only fill out this form if you are an authorized user of the extension. 
-
-</thinking>
-
 # Extension Usage Survey - Help Guide
 ## Purpose
 The Extension Usage Survey form is used to gather information on the usage of extensions within the organization. This will help the management team to understand which extensions are being used, by whom, and in which category, aiding in making informed decisions on resource allocation and extension development.

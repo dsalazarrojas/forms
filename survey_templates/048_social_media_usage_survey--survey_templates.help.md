@@ -1,10 +1,3 @@
-<thinking>
-We are creating a help guide for a form designed for a Social Media Usage Survey. This form has 25 pages, each with a unique label and no specific instructions or hints provided. Given the lack of specific information about the form's purpose or the questions it intends to ask, it is challenging to determine its exact objective. However, based on the title "Social Media Usage Survey" and the presence of multiple pages, it's possible that the form is intended to gather data on people's social media usage habits or behaviors.
-
-To create a helpful guide, we will need to make assumptions based on the provided YAML structure. We will also need to consider that the form is likely meant to collect information from a wide range of users, potentially across different demographics or industries. 
-
-Before creating the guide, I would like to confirm that the form's purpose and questions are not duplicated or overly broad, and that the guide will effectively communicate the necessary information to the users. If you have any further information or clarification on the form's intent, please provide it to us.</thinking>
-
 # Social Media Usage Survey - Help Guide
 ## Purpose
 The Social Media Usage Survey is designed to collect data on your social media usage habits and behaviors.

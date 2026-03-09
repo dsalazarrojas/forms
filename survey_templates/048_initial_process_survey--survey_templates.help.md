@@ -1,7 +1,3 @@
-<thinking>
-We should confirm that the "Initial Process Survey" form is intended to gather feedback and insights from project participants about the project's progress, goals, and outcomes. This form will help us understand what worked well and what didn't, which will inform future project decisions. Please review each field carefully to ensure it accurately represents your experiences with the project. We'll be using this form to identify areas for improvement and make data-driven decisions.
-</thinking>
-
 # Initial Process Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback and insights about the project's progress, goals, and outcomes. Your input will help us improve future project management and delivery.

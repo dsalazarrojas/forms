@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the water heater assessment from end-users. It's likely that this form will be used by facilities management teams, maintenance personnel, or other stakeholders responsible for managing and maintaining water heaters in a building or organization. To ensure the form is used correctly, it's essential to understand its purpose and the types of questions it asks.
-
-To prevent data duplication and ensure accurate results, the form should not be filled out multiple times for the same water heater. It's best to use this form for each water heater only once, and if the same water heater is reassessed, use the updated information to update the existing record.</thinking>
-
 # Water Heater Assessment Survey - Help Guide
 
 ## Purpose

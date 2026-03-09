@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on social isolation, social connections, and feelings of safety and trust. The purpose of this form is to understand how individuals perceive their social isolation and support networks. It is not a mandatory form, and responses are voluntary. Please ensure that you understand the purpose and relevance of the form before proceeding. If you have already completed this form, you do not need to fill it out again.
-</thinking>
-
 # Social Isolation Survey - Help Guide
 
 ## Purpose

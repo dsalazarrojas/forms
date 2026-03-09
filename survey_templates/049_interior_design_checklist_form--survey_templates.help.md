@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Interior Design Checklist Form - Help Guide
 
 ## Purpose

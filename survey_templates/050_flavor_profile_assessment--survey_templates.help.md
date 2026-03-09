@@ -1,7 +1,3 @@
-<thinking>
-**Internal reasoning:** This form is designed to assess a customer's flavor profile, gathering information on their preferences and restrictions. This form will help us better understand our customers' needs and preferences, allowing us to provide more tailored experiences. Before proceeding, please ensure you are completing this form for the intended purpose and not duplicating efforts. If you have already completed a similar form, please do not submit this one as well.
-</thinking>
-
 # flavor_profile_assessment - Help Guide
 ## Purpose
 This form is used to gather information about a customer's flavor preferences and dietary restrictions. It helps us understand their needs and preferences to provide a more personalized experience.

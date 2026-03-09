@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from participants after a training session, collecting their impressions, suggestions, and ratings on various aspects of the session. This feedback will help the organization to improve future training sessions and provide better experience to its participants. It is essential to provide honest and constructive feedback, as it will be used to assess the effectiveness of the training and make necessary adjustments.
-This form is designed to be completed by participants after the training session, and it is recommended that they provide their feedback in an honest and sincere manner. Please note that all fields are optional, and participants can choose to answer as many or as few questions as they feel comfortable with.
-</thinking>
-
 # post_test_assessment_survey - Help Guide
 ## Purpose
 The post_test_assessment_survey form is designed to gather feedback from participants after a training session. It helps the organization to understand their impressions, suggestions, and ratings on various aspects of the session.

@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, I want to make sure that this form is not a duplicate or redundant form. After reviewing the provided YAML, I see that this form has a large number of fields with similar labels and options, which may indicate that it's part of a larger survey or feedback collection process. To confirm, I'd like to know if this form is a part of a product launch feedback collection process, and if it's intended to be used by multiple users or teams. If so, please let me know if there are any specific requirements or constraints that need to be considered when designing the help guide.</thinking>
-
 # Product Launch Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers after a product launch. The survey aims to gather information about customers' satisfaction and preferences regarding the product, its launch date, and other relevant details.

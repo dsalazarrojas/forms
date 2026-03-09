@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the phishing risk of a given situation. The form is designed to gather information about the phishing risk level, email address, phone number, department, and description of the phishing attempt. This form should only be used for internal purposes within your organization.
-</thinking>
-
 # phishing_risk_assessment_form - Help Guide
 ## Purpose
 The phishing_risk_assessment_form is used to assess the risk of a potential phishing attempt.

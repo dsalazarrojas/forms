@@ -1,7 +1,3 @@
-<thinking>
-The form "W4-Form" is designed to collect employee information for a W-4 form, which is a tax-related document used by employees to authorize a specific withholding rate. This form should only be used for collecting information from employees and not for any other purpose. Ensure that you are completing this form for the correct use case and do not duplicate this form for other unrelated purposes.
-</thinking>
-
 # W4-Form - Help Guide
 ## Purpose
 The W4-Form is a form used to collect employee information for a W-4 form, which is a tax-related document used by employees to authorize a specific withholding rate.

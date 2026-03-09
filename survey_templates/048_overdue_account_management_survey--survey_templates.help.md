@@ -1,14 +1,3 @@
-<thinking>
-To be honest, it seems like you're asking me to create a user-facing help guide for a form that's likely used to manage overdue accounts, but I'm not entirely sure. However, based on the provided YAML, I'll take a stab at creating a comprehensive guide that covers the form's purpose, how to complete it, and a field-by-field explanation of each component. Please let me know if I'm correct or if I need to make any adjustments!
-
-The form, "overdue_account_management_survey," appears to be designed to collect information about account management, client responsiveness, communication practices, and collections workflows. I'll assume it's used to gather data on how efficiently the account management process is running, how clients are responding to follow-ups, and how workflows can be improved.
-
-To be honest, I'm not entirely sure why some of the fields are marked as required or optional. Perhaps there's more to the story? Nevertheless, I'll create a guide based on the provided YAML fields, and we can always make adjustments if needed.
-
-After reviewing the YAML, I'll provide the user-facing help guide in Markdown format as requested.
-
-</thinking>
-
 # overdue_account_management_survey - Help Guide
 ## Purpose
 The overdue_account_management_survey form is designed to collect information about account management, client responsiveness, communication practices, and collections workflows. This form is likely used to gather data on how efficiently the account management process is running, how clients are responding to follow-ups, and how workflows can be improved.

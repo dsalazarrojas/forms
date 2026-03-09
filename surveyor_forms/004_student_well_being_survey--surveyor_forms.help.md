@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the well-being of students, specifically their emotional state and habits related to sleep and leisure time. This form is not affiliated with any specific platform or service, and the responses will be used for general research purposes. Please note that this form is a generated adaptation and does not contain any proprietary content from existing platforms.
-</thinking>
-
 # Student Well Being Survey - Help Guide
 ## Purpose
 The Student Well Being Survey is a tool designed to collect data on students' emotional states, sleep patterns, and leisure time habits.

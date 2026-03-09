@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cleft Condition Awareness Quiz - Help Guide
 ## Purpose
 This form is designed to educate participants about cleft conditions, a group of rare birth defects that affect the lip and palate. The quiz aims to gauge the participant's knowledge and awareness of cleft conditions, including their causes, symptoms, treatment options, and impact on individuals and their families.

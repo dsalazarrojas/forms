@@ -1,16 +1,3 @@
-<thinking>
-
-The form is designed to conduct a psychological reliability assessment, likely used in a business or personal setting where the subject's mental state or well-being needs to be evaluated. This could include assessing an individual's emotional stability, coping mechanisms, or other relevant psychological factors.
-
-To determine if a Psychological Reliability Assessment should be conducted for a user, consider the following questions: 
-- Is this form used for research, risk assessment, or employee performance evaluation? 
-- Has the individual provided informed consent to undergo the assessment? 
-- Has the subject's psychological well-being been a concern in the past or is there a valid reason to suspect it may be a concern now?
-
-If the answer to these questions is yes, then the form may be relevant. Otherwise, there may be concerns with data duplication or redundancy in collection. Please proceed with caution and review the field explanations below to ensure proper completion of the form.
-
-</thinking>
-
 # Psychological Reliability Assessment - Help Guide
 ## Purpose
 The Psychological Reliability Assessment form is designed to gather information about an individual's mental state and coping mechanisms. It is likely used in settings where an individual's psychological well-being needs to be evaluated.

@@ -1,8 +1,3 @@
-<thinking>
-This form is for creating an integrative program quiz that helps users gauge their understanding of a particular topic or program. It is designed to be used in educational settings or for professional development. The form is meant to be completed by individuals who have taken a course, attended a workshop, or have experience with the topic.
-Please note that this form is an original adaptation, not copied or derived from any other form platform. You may use, modify, and sell forms derived from this one, just give credit.
-</thinking>
-
 # Integrative Program Quiz - Help Guide
 ## Purpose
 This form is designed to help you gauge your understanding of a particular topic or program by creating an integrative program quiz.

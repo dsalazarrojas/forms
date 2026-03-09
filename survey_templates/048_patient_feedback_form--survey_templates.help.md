@@ -1,5 +1,3 @@
-<thinking>...This form is intended to gather patient feedback on the quality of care provided by healthcare professionals. It's essential to complete this form thoroughly to help us understand your experience and identify areas for improvement. Please ensure that you have not already provided feedback on this form, as this may lead to duplicate submissions and skew the data. If you're unsure, you can always contact our support team for guidance...</thinking>
-
 # Patient Feedback Form - Help Guide
 ## Purpose
 The Patient Feedback Form is designed to gather feedback from patients on the quality of care provided by healthcare professionals. This form helps us understand your experience and identify areas for improvement.

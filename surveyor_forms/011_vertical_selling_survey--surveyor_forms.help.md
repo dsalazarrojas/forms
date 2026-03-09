@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users related to their company and industry. The form aims to gather data on the company's vertical, which refers to the specific industry it operates in, as well as the user's email address. This form is likely used for marketing or research purposes.
-
-It is essential to ensure that the form is filled out accurately, as the data collected will be used to categorize and target the company. This information will not be shared or sold to any third-party vendors. The data collected will be stored securely and used only for internal purposes.
-
-Before filling out the form, please ensure that you are providing accurate and up-to-date information about your company and industry. If you are unsure about any of the fields, please refer to this help guide for clarification.
-
-</thinking>
-
 # Vertical Selling Survey - Help Guide
 ## Purpose
 The Vertical Selling Survey is a form designed to collect information about your company and industry. The form is used to categorize and target companies based on their specific industry. Please fill out the form accurately to ensure that the data is used correctly.

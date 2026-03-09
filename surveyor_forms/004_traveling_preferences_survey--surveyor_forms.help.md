@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information about your preferences for traveling, including your destination preferences, travel dates, budget, transportation, accommodation, food and drink, transportation, activity, safety, communication, emergency, health and safety, financial, skill, interest, previous travel experience, reasons for travel, previous travel agency, countries visited, preferred travel mode, travel companions, facilities used, and whether the survey has been surveyed before. It is essential to fill out this form to help us understand your preferences and tailor our services to meet your needs.
-
-To avoid duplication and ensure accurate information collection, please fill out the form in its entirety. If you have any doubts or questions, feel free to ask.
-
-Please note that this form is a one-time survey, and your answers will not affect your current travel plans. We aim to improve our services with your feedback.
-
-This survey is a part of our efforts to improve the travel industry as a whole, and your participation will contribute to the development of better travel experiences.
-
-Please take about 5-7 minutes to fill out this form, and thank you for your time and input.
-
-</thinking>
-
 # Traveling Preferences Survey - Help Guide
 ## Purpose
 This survey aims to understand your preferences and needs for traveling. Your input will help us provide better services and recommendations.

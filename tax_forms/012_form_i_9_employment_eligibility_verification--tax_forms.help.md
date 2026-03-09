@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Form I 9 Employment Eligibility Verification - Help Guide
 ## Purpose
 The Form I 9 Employment Eligibility Verification is used to confirm an employee's or former employee's immigration status and employment eligibility. This form is typically completed by an employer or a representative to verify the employee's or former employee's employment eligibility under the Immigration and Nationality Act.

@@ -1,12 +1,3 @@
-<thinking> 
-This form is used to assess the performance of students in an educational setting. It is meant to be completed by teachers or instructors to provide feedback on a student's progress, strengths, and areas for improvement. The form is designed to be a quick and easy way to capture key information about each student, and to help guide discussions and decisions about their academic performance.
-
-Before starting the form, make sure you are familiar with the student's performance and have any necessary information or documentation readily available. You may also want to review the student's profile and any previous assessments to ensure consistency and accuracy in your feedback.
-
-This form is not meant to be a comprehensive, in-depth assessment, but rather a snapshot of the student's current performance. It should take around 10-15 minutes to complete, and is intended to be a quick and efficient way to provide feedback.
-
-</thinking>
-
 # Student Performance Assessment Questionnaire - Help Guide
 ## Purpose
 The Student Performance Assessment Questionnaire is a tool used to assess the performance of students in an educational setting. It is meant to be completed by teachers or instructors to provide feedback on a student's progress, strengths, and areas for improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Museum Visitor Survey - Help Guide
 
 ## Purpose

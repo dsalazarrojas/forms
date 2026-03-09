@@ -1,7 +1,3 @@
-<thinking>
-The W 8BEN form is likely related to tax forms, given the category and ID fields. To ensure this form serves its intended purpose, let's verify that it's not a duplicate of an existing form. We'll aim to make the form easy to understand and use.
-</thinking>
-
 # W 8BEN - Help Guide
 ## Purpose
 The W 8BEN form is designed to collect information about tax forms. It seems to be used for categorizing and organizing tax forms within a specific category.

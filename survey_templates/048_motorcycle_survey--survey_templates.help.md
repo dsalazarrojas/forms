@@ -1,6 +1,3 @@
-<thinking>
-We will be creating a help guide for a form designed to collect information about a motorcycle survey. This form is used to gather data from users about their motorcycle experiences, preferences, and behaviors. The form consists of multiple fields that ask questions about the user's motorcycle, their riding preferences, performance rating, frequency of use, number of motorcycles owned, and other related details. This form aims to collect actionable insights that can be used to improve the overall experience of motorcycle users. Before we proceed, let's confirm that this form is correctly designed to cater to the intended audience and that all necessary fields are included to gather the required data without duplication or redundancy.</thinking>
-
 # Motorcycle Survey - Help Guide
 ## Purpose
 This form is designed to collect information from users about their motorcycle experiences, preferences, and behaviors to gather actionable insights that can be used to improve the overall experience of motorcycle users.

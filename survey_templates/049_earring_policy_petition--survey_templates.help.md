@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather feedback and support for an earring policy. The purpose of this form is to collect information from individuals who want to express their opinion or show their support for the policy. The form is not affiliated with any specific platform or organization, and the data collected will be used solely for this purpose. This form is an original creation, designed to be used freely and modified as needed.
-
-Please note that this form is designed to gather general feedback and opinions, and it is not a formal petition or legal document. If you're looking to submit a formal petition or document, you may want to consider using a more specialized tool or service.
-
-</thinking>
-
 # earring_policy_petition - Help Guide
 ## Purpose
 The earring policy petition form is designed to gather feedback and support for an earring policy. This form is meant to be a general-purpose tool for expressing opinions and thoughts on the policy, and it is not intended for any specific organization or entity.

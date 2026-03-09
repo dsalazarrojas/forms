@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather information on a location history of a particular area or individual, which helps track the spread of a virus or disease through human contact or other means. It is crucial that this form is used to collect data in a systematic and organized manner, to minimize duplication of effort and errors. The purpose of this form is to gather location information for contact history, which can aid in public health interventions and outbreak management. Before starting, please make sure the location in question has not been previously surveyed, as repeating data entry can lead to confusion and errors in tracking and analysis.</thinking>
-
 # Location History Form - Help Guide
 
 ## Purpose

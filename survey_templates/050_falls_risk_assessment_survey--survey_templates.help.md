@@ -1,7 +1,3 @@
-<thinking>
-The form "Falls Risk Assessment Survey" is designed to assess the risk of falls in patients. This form helps healthcare professionals evaluate the risk factors and level of risk associated with falls in patients, providing valuable information for patient safety and care planning. To ensure accuracy, please review the fields carefully and answer truthfully.
-</thinking>
-
 # Falls Risk Assessment Survey - Help Guide
 ## Purpose
 This survey is used to assess the risk of falls in patients, including identifying risk factors and determining the level of risk.

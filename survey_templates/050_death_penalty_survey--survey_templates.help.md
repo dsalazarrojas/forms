@@ -1,7 +1,3 @@
-<thinking>Before creating this guide, let's review the form purpose and context.
-
-This form is likely designed to collect opinions and demographics from respondents about the death penalty. It includes questions about their personal characteristics, such as age, education level, occupation, and political party affiliation, as well as their opinions on the effectiveness and cost-effectiveness of the death penalty, and their demographic characteristics, such as gender, ethnicity, and marital status. This form may be used for research or survey purposes, possibly to gauge public opinion on the death penalty and its related issues.</thinking>
-
 # Death Penalty Survey - Help Guide
 ## Purpose
 This form is designed to collect opinions and demographics from respondents about the death penalty. It includes questions about their personal characteristics, opinions on the effectiveness and cost-effectiveness of the death penalty, and demographic characteristics.

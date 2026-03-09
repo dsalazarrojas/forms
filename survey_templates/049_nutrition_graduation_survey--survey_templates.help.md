@@ -1,5 +1,3 @@
-<thinking>...This form is designed to gather feedback from graduates regarding their experiences in the nutrition program. It is meant to be used to evaluate the effectiveness of the curriculum and identify areas for improvement. This form should not be used to collect sensitive or confidential information. Please ensure that you have the necessary permissions and approvals before sharing this form with graduates... </thinking>
-
 # Nutrition Graduation Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from graduates regarding their experiences in the nutrition program. It will help us evaluate the effectiveness of the curriculum and identify areas for improvement.

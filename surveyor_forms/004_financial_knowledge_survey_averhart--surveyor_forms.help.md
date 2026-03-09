@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Financial Knowledge Survey Averhart - Help Guide
 ## Purpose
 This form is designed to collect information on individuals' financial knowledge, literacy, and investment habits for the Averhart financial education program. The purpose of this form is to gather data that will be used to identify areas of improvement in financial education for future program development.

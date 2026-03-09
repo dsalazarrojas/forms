@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to be used by customers to request tax and financial services from a professional services firm. The purpose of this form is to gather information about the customer's tax and financial service requests, including their tax ID, financial service request, date and time of the service request, and contact information. The form will help the firm to assess and provide the most suitable tax and financial services to the customer based on their needs and requirements.
-
-The form is divided into different sections to make it easier for the customer to provide the necessary information. Each section is designed to gather specific information related to tax and financial services. The form will be reviewed and responded to by the firm's staff, and the customer will be informed of the outcome of their request.
-
-Please note that some fields may be optional and are intended to provide additional context to the firm's staff. However, filling out all fields is highly recommended to ensure that the firm can provide the best possible service to the customer.
-
-</thinking>
-
 # Tax And Financial Service Request Form - Help Guide
 ## Purpose
 This form is designed to allow customers to request tax and financial services from our firm. It is an opportunity for customers to express their needs and requirements, and our staff will review and respond accordingly.

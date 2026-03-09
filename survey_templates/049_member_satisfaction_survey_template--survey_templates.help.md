@@ -1,8 +1,3 @@
-<thinking>
-The Member Satisfaction Survey Template is used to collect feedback from members about their experience with the gym. This template is designed to help the gym staff understand what members like and dislike about their experience, identify areas for improvement, and make data-driven decisions to enhance member satisfaction and engagement. This template is typically completed by members after a visit or at regular intervals, and the collected data is used to analyze member behavior and preferences.
-
-Before completing this form, please ensure that you have not already provided feedback, as duplicate responses may not be recorded.</thinking>
-
 # Member Satisfaction Survey Template - Help Guide
 ## Purpose
 The Member Satisfaction Survey Template is a tool to help the gym staff understand member satisfaction and preferences, allowing us to make informed decisions to improve the member experience.

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, I'd like to clarify the form's purpose and the relevance and non-duplication checks. This form is designed to collect feedback and communication information from users after an event. The form should only be accessible to users who have already created an event, to avoid duplication of data. Additionally, this form should only be completed for events where the user has not already received communication from the organizer, to prevent sending unnecessary emails. This is a one-time communication form, and users should not be able to submit multiple forms for the same event.</thinking>
-
 # post_event_communication_form - Help Guide
 ## Purpose
 This form is designed to collect feedback and communication information from users after an event. It should only be used for events where the user has not already received communication from the organizer.

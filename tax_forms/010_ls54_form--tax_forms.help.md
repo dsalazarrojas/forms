@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that our LS54 Form is correctly understood by the end-user, so we'll review the form's purpose and potential duplication of effort before proceeding. This form is used to collect information about an employee's work-related details and their employer's information. To avoid duplication of effort, we'll need to ensure that the fields are properly labeled and that the user knows what's expected of them. Our form has a mix of text, date, and select_one fields, which we'll need to explain clearly. Let's start by identifying the fields and their corresponding labels to create a comprehensive help guide.
-</thinking>
-
 # LS54 Form - Help Guide
 ## Purpose
 The LS54 Form is used to collect information about an employee's work-related details and their employer's information.

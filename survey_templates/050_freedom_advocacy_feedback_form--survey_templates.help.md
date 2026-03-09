@@ -1,5 +1,3 @@
-<thinking>This Freedom Advocacy Feedback Form is designed to collect information about individuals or groups who are advocating for or supporting a cause or campaign. This form is typically used to gather demographic information, preferences, and experiences from supporters, which can help organizations better understand their target audience and tailor their advocacy strategies accordingly. Before filling out this form, please ensure you have not already provided feedback or information about yourself, as it is not intended to be a duplicate submission.</thinking>
-
 # Freedom Advocacy Feedback Form - Help Guide
 ## Purpose
 The Freedom Advocacy Feedback Form is used to collect information about individuals or groups supporting or advocating for a cause or campaign. This data helps organizations better understand their target audience and tailor their advocacy strategies.

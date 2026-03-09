@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about student technology usage, teacher support, and other related aspects of technology integration in the classroom. The purpose of this form is to gather data on student preferences, device access, internet connectivity, and other technology tools used in the classroom. This form is intended to be completed by students, teachers, or parents and is not a formal evaluation or assessment tool. To ensure accurate and relevant data, please only answer the questions that are applicable to you and your context.
-
-Before filling out this form, please note that each field is optional and you can choose not to answer any question that you feel is not relevant. However, your feedback is valuable to us, and every answer will help us improve the education system.
-
-When answering the questions, please choose the correct answer from the provided options, and feel free to provide additional comments or notes if needed.
-</thinking>
-
 # Student Technology Survey - Help Guide
 ## Purpose
 The Student Technology Survey is designed to collect information about student technology usage, teacher support, and other related aspects of technology integration in the classroom.

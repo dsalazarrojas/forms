@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback and usability evaluation data from users who interact with a digital learning platform. This information will help developers understand how users navigate the platform, identify pain points, and suggest improvements.
-This form is not a replacement for traditional usability testing or user research methods, but rather a quick and efficient way to gather user feedback.
-Please fill out this form if you have used the digital learning platform and have some thoughts or suggestions on how to improve it.
-</thinking>
-
 # digital_learning_platform_usability_evaluation_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with the digital learning platform.

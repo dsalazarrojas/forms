@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess the experience of exhibition visitors, gathering feedback on the overall quality of the exhibition and its individual elements. It is likely used to monitor and improve the exhibition's performance, and to inform future event planning and organization decisions. This form should only be filled out once by each visitor, and not multiple times by the same person.
-
-</thinking>
-
 # exhibition_visitor_experience_assessment_form - Help Guide
 ## Purpose
 The **Exhibition Visitor Experience Assessment Form** is used to gather feedback from exhibition visitors on their experience. Please take a few minutes to answer the questions below and provide honest and detailed feedback.

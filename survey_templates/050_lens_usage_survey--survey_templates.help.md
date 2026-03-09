@@ -1,10 +1,3 @@
-<thinking>
-The form "Lens Usage Survey" is designed to gather information about users' experiences and preferences regarding the Lens tool, a data analysis platform. This form aims to understand how users utilize the Lens in their work, their familiarity with the tool, and how they perceive its features. The goal is to identify areas of improvement and potential features to add to the Lens to make it more user-friendly and effective. By completing this form, you will help us better understand your needs and preferences, which will ultimately enhance the Lens experience for you and other users.
-
-Before proceeding, please note that this form is anonymous and your responses will not affect your usage of the Lens or any related projects.
-
-</thinking>
-
 # Lens Usage Survey - Help Guide
 ## Purpose
 This form is designed to understand your experiences and preferences regarding the Lens tool. By completing this form, you will help us identify areas of improvement and potential features to add to the Lens.

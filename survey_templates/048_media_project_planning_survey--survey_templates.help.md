@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information about a media project, including its objectives, timeline, resources, contacts, budget, location, and any additional notes. It's likely used by project managers or coordinators to gather relevant details for project planning and tracking. Before proceeding, ensure you're filling out the form for a media project that fits the scope and purpose of this form. If you're unsure which form to use, check the project's category and purpose to ensure it aligns with this survey's goals.</thinking>
-
 # Media Project Planning Survey - Help Guide
 ## Purpose
 This form is designed to collect information about media projects, including objectives, timeline, resources, contacts, budget, location, and any additional notes.

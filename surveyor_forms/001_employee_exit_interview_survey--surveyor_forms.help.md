@@ -1,13 +1,3 @@
-<thinking>
-
-To create this help guide, I will need to understand the form's purpose and content. From the provided YAML, it appears that this form is an "Employee Exit Interview Survey" which is used to gather information about an employee's reasons for leaving the company, their next job or career goals, and their overall experience and satisfaction with their previous role.
-
-The form has several sections with different fields for collecting information, including "Why Are You Leaving", "New Company", "Reason For Leaving", and "Date of Last Day Worked" among others. The fields seem to be mostly free-text or single-select fields, with some of them being rated on a scale (e.g. "How Would You Rate Company" and "Job Satisfaction").
-
-The purpose of this form is likely to gather feedback and information from departing employees to help the company understand the reasons behind their departure and identify areas for improvement.
-
-</thinking>
-
 # Employee Exit Interview Survey - Help Guide
 ## Purpose
 This survey is designed to collect information from departing employees about their reasons for leaving the company, their next career goals, and their overall experience with their previous role. This will help the company gain valuable insights to improve the work environment and employee satisfaction.

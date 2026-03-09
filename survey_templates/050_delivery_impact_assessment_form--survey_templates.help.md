@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form, and how can we make sure it's being used effectively? This form is designed to assess the impact of a delivery, which could be a project, service, or product being delivered to a client or customer. To ensure this form is being used correctly, it's essential to review and understand the fields included. Each field should be filled in with the correct information, taking into account the type of data expected. This form should be used by authorized personnel, and the answers should reflect the actual impact of the delivery. To avoid duplication, this form should be used for new deliveries only, and not for recurring or ongoing assessments. We should also ensure that the form is reviewed and approved by relevant stakeholders before submission. By following these guidelines, we can ensure accurate and useful data collection.</thinking>
-
 # Delivery Impact Assessment Form - Help Guide
 
 ## Purpose

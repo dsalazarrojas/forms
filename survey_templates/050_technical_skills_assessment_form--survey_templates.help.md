@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # technical skills assessment form - Help Guide
 
 ## Purpose

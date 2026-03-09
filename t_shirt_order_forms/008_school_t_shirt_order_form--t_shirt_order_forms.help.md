@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School T Shirt Order Form - Help Guide
 
 ## Purpose

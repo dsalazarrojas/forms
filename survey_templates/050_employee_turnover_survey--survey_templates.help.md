@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback and insights from employees who have left the company for any reason. It's essential to complete this form to help us understand the reasons behind employee turnover, which can inform future retention and growth strategies. Please ensure that you have the necessary authorization and permission to complete this form, as it may contain sensitive information. 
-</thinking>
-
 # employee_turnover_survey - Help Guide
 ## Purpose
 This guide is designed to help you complete the Employee Turnover Survey form effectively and accurately. Please read through the guide to familiarize yourself with the form's purpose, fields, and instructions.

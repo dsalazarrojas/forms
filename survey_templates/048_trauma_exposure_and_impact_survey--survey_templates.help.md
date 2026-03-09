@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to assess an individual's exposure to traumatic events and their impact on daily life. It is designed to gather information on various aspects of trauma exposure and its effects on daily functioning. 
-
-Before filling out this form, ensure that you have not previously submitted it, as this will help maintain data accuracy and prevent duplication of effort.
-
-Please ensure that the form is filled out by a single person to prevent any potential issues with data collection.
-
-This form is intended for personal use and should not be used for commercial purposes without explicit permission from the form creators.
-
-This form is designed to provide a thorough understanding of the individual's trauma exposure and impact on daily life. It is not intended to diagnose or treat any mental health conditions.
-
-Please provide honest and accurate answers to the questions, as they will be used to inform further assessment and support.
-
-</thinking>
-
 # trauma-exposure-and-impact-survey - Help Guide
 ## Purpose
 The Trauma Exposure and Impact Survey is designed to provide a comprehensive assessment of an individual's trauma exposure and its effects on daily life. This form will help you understand your experiences and identify areas where you may need additional support.

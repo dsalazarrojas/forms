@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for the selection of finance executives, typically by HR professionals or hiring managers. The purpose of the form is to gather information about a candidate's experience, skills, and abilities in the finance department. The form should only be used for internal purposes within the company, such as for selecting candidates for promotion or new hire positions. Please ensure that this form is not shared or used for external purposes without approval.
-</thinking>
-
 # Finance Executive Selection Survey - Help Guide
 ## Purpose
 This form is used to gather information about a candidate's experience, skills, and abilities in the finance department. It is intended to be used by HR professionals or hiring managers for the selection of finance executives.

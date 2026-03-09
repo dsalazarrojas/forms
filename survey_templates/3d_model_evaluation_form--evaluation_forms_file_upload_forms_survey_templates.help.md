@@ -1,5 +1,3 @@
-<thinking>Form purpose: This 3D model evaluation form is designed to collect feedback and assess the quality and performance of 3D models. It's used to provide a structured and systematic way to evaluate and improve 3D models for various applications, such as gaming, web applications, and film/animation. The form will guide the evaluator through a series of questions and ratings to ensure a comprehensive assessment, including general information, quality assessment, performance metrics, and suggestions for improvement. The goal is to gather reliable and consistent feedback for future model development and enhancement.</thinking>
-
 # 3D Model Evaluation Form - Help Guide
 ## Purpose
 The 3D Model Evaluation Form is a structured and systematic guide that helps assess the quality and performance of 3D models. This form ensures that evaluators provide consistent and comprehensive feedback, which is essential for future model development and enhancement.

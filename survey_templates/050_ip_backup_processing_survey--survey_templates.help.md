@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information about a company's backup process, specifically their backup policies, methods, and practices. It will likely be used by IT or data management teams to understand the current state of a company's backup infrastructure and identify areas for improvement. This form is meant to be completed by company representatives, such as backup administrators or IT teams.
-
-</thinking>
-
 # IP Backup Processing Survey - Help Guide
 ## Purpose
 This guide is designed to help you complete the IP Backup Processing Survey. The survey is a collection of questions that gather information about your company's backup processes and practices.

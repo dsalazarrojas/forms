@@ -1,15 +1,3 @@
-<thinking>
-
-To create an effective user-facing help guide for this form, we'll need to understand what the form is intended to do and how it fits into the overall system or process.
-
-From the provided YAML, it appears that this form is designed to collect information about the top 25 college football teams, but it's not clear what specific purpose it serves or how the information will be used.
-
-Assuming that this form is used to create a snapshot of the current standings in college football, the form is likely part of a larger system that tracks and updates team rankings. However, without further context, we can only speculate about its internal purpose and usage.
-
-To proceed, we'll create a help guide based on the information provided, assuming that the form is indeed for tracking college football team rankings.
-
-</thinking>
-
 # Top 25 College Football Poll - Help Guide
 ## Purpose
 The Top 25 College Football Poll form is designed to collect information about the current standings in college football. This form helps track the top 25 teams in the sport.

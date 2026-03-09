@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the form "student_motivation_survey--survey_templates" is properly understood by the end users, so let's take a closer look at its purpose and functionality.
-This form is intended to gauge student motivation, strengths, weaknesses, needs, and goals. It's an essential tool for educators and administrators to gather insights on how to support students' growth and development.
-Let's ensure we're not duplicating any existing forms or processes. A quick review of the form schema reveals that it's a comprehensive assessment tool with a clear structure.
-Now, let's create a user-friendly guide to help end users navigate the form efficiently.
-</thinking>
-
 # student_motivation_survey--survey_templates - Help Guide
 ## Purpose
 This form is designed to help educators and administrators understand student motivation, strengths, weaknesses, and goals. It's an essential tool for identifying areas of support and development.

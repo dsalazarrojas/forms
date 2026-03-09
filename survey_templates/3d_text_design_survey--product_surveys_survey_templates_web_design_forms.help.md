@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a survey designed to gather opinions and feedback from users about their experience with 3D text design tools. The purpose of this form is to understand the user's satisfaction, frequency of use, and preferences regarding 3D text design. The form seems to be targeting users who are already familiar with 3D text design tools, likely professionals or hobbyists with some level of expertise. I'll make sure to check for any potential duplication with existing forms or surveys in the market. The form fields appear to be well-structured and concise, making it easy to gather relevant information from users.</thinking>
-
 # 3D Text Design Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experience with 3D text design tools. It will ask you about your level of satisfaction, how often you use these tools, and your preferences when it comes to design flexibility, performance, ease of use, support, pricing, and integration.

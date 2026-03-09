@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to help bridesmaids fill out a survey about their preferences and characteristics. The form is designed to gather information about their relationships with the bride, their interests, and their availability for bridal events. It's likely that the survey is used to determine the best fit for bridesmaids in the bridal party, considering their skills, interests, and personality traits.
-
-To prevent duplication of information, bridesmaids may only fill out the survey once. If they have previously filled out the survey, they should not attempt to complete it again. 
-
-</thinking>
-
 # Bridesmaid Survey - Help Guide
 
 ## Purpose

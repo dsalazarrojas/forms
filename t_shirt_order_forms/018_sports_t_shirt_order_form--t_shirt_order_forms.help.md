@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to take orders for sports T-shirts, likely for team members, customers, or events. The purpose of this form is to collect relevant information from the user, including their team name, contact details, and order preferences. This form should be used for new orders, not for editing or updating existing orders.
-
-To ensure consistency and accuracy in the data collected, it's essential to review and update this form regularly to reflect any changes in our ordering process or business requirements.
-
-The form is split into sections, making it easier to fill out. Each section is designed to collect specific information, and the fields are labeled accordingly. This guide will help you understand each field's purpose and how to fill it out correctly.
-
-</thinking>
-
 # Sports T Shirt Order Form - Help Guide
 ## Purpose
 The Sports T Shirt Order Form is used to take orders for sports T-shirts. It collects team information, customer details, and order preferences to ensure accurate and timely processing of orders.

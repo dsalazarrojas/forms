@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback and ratings from clients who have received spa services. The purpose of this form is to collect information about their experience, any questions they may have, and feedback on how the service was provided. This form will help the spa staff to improve their services and provide better experiences for their clients in the future.
-This form is a part of a larger system, so ensure you fill it out only once for each service received.
-</thinking>
-
 # Spa Service Survey Form - Help Guide
 ## Purpose
 The Spa Service Survey Form is a tool to gather feedback and ratings from clients who have received spa services. This form aims to improve the quality of services provided by the spa.

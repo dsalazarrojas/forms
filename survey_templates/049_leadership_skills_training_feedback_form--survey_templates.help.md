@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants in leadership skills training sessions. The purpose of this form is to gather information about the effectiveness of the training and identify areas of improvement. The form is meant to be completed by training participants and should not be duplicated or filled out by the same person multiple times. This form will help the training organizers understand what worked well and what didn't, and use this feedback to make future sessions more effective.
-</thinking>
-
 # Leadership Skills Training Feedback Form - Help Guide
 
 ## Purpose

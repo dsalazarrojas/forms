@@ -1,9 +1,3 @@
-<thinking>
-This form's primary function is to gather information about users' views and experiences with iconography and church settings. It's intended to help the church better understand the effectiveness of their iconography and identify areas for improvement. 
-The form consists of 8 fields, divided into 3 main sections: introduction, questions, and personal information. 
-This guide will walk you through each field, making sure you understand what to expect and how to complete it.
-</thinking>
-
 # Iconography And Church Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from church members about their experiences and views on iconography, a key element in church settings. Your input is invaluable in helping us understand the impact of iconography on worship and church activities.

@@ -1,11 +1,3 @@
-<thinking>
-We should first clarify the purpose of this form and ensure there are no similar forms being used in parallel.
-
-Based on the provided YAML, this form is meant for evaluating the performance of a rehabilitation program. Each field is designed to collect specific data to assess the effectiveness of the program. To avoid duplication, we should review other forms related to rehabilitation programs and eliminate any overlap or redundancy. Let's proceed with the assumption that this form is the primary means of evaluating the program's performance.
-
-We will now create a user-facing help guide for the form.
-</thinking>
-
 # Rehabilitation Program Performance Evaluation Form - Help Guide
 ## Purpose
 The Rehabilitation Program Performance Evaluation Form is a critical tool used to assess the effectiveness of a rehabilitation program. The form collects data on various aspects of the program's performance, including its effectiveness, patient feedback, and satisfaction data. The collected data will help in making informed decisions for improvement and evaluation purposes.

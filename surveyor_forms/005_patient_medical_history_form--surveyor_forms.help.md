@@ -1,13 +1,3 @@
-<thinking>
-
-As a form designer and technical writer, my goal is to create a clear and concise help guide for the "Patient Medical History Form" to educate end-users on its purpose, completion process, and field-by-field explanation.
-
-After reviewing the provided inputSchema, I've determined that this form is intended to collect patient information, including demographic details (full name, date of birth, and contact information), medical history (allergies, medical conditions, surgeries, and healthy/unhealthy habits), and a text field for any other medical history the patient may have. The form's purpose is likely to gather comprehensive information for medical professionals to assess patient health and provide accurate treatment.
-
-To avoid duplication, I'll ensure that the form does not request redundant or sensitive information that might compromise patient privacy or create confusion.
-
-</thinking>
-
 # Patient Medical History Form - Help Guide
 ## Purpose
 The Patient Medical History Form is a comprehensive questionnaire designed to gather essential information about a patient's health background. This form helps medical professionals assess patient health and provide accurate treatment.

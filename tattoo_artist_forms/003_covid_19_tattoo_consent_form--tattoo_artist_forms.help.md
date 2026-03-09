@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect client information and provide a comprehensive understanding of the client's health, preferences, and consent for the tattoo procedure. 
-- The form includes demographic details such as client full name, date of birth, email, and phone number.
-- Client's health status and medical history such as COVID-19 status, vaccination status, skin conditions, skin allergies, and blood thinners usage are recorded. 
-- It also captures details about the tattoo procedure including location, size, color, and type of tattoo. 
-- Client consent and acknowledgment for the risks associated with getting a tattoo, COVID-19 transmission risks, aftercare instructions, and liability waiver are included in the form.
-- The form is required to be completed by clients before undergoing a tattoo procedure in the studio.
-</thinking>
-
 # COVID 19 Tattoo Consent Form - Help Guide
 ## Purpose
 This form is designed to collect client information and provide a comprehensive understanding of the client's health, preferences, and consent for the tattoo procedure.

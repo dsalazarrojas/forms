@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Email Communication Survey - Help Guide
 ## Purpose
 The Email Communication Survey is designed to collect information about the frequency and effectiveness of your email communications. This survey will help us understand how often you interact with emails and what the target audience for your emails is, allowing us to better understand the impact of our communication efforts.

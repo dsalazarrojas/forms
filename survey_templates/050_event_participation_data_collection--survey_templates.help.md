@@ -1,15 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for this form, I'll need to understand its purpose and design decisions. This form appears to be a data collection form for event participation, likely used to gather information from attendees or registrants. 
-
-The purpose of this form is to collect various aspects of event participation, including event details, contact information, event participation status, and other relevant data. The form is designed to be flexible, with several fields for collecting different types of data.
-
-Before starting the guide, I'd like to check if there are any internal reasoning or assumptions that should be considered:
-
-* Is there a specific event type (e.g., conference, workshop, festival) that this form is designed for?
-* Are there any specific requirements or constraints for certain fields, such as email or phone fields?
-* Are there any specific fields that should be emphasized or highlighted for users?
-</thinking>
-
 # event_participation_data_collection - Help Guide
 
 ## Purpose

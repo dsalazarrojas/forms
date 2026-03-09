@@ -1,10 +1,3 @@
-<thinking>
-We'll be creating a user-facing help guide for a "Hospital Community Outreach Perception Survey" form. This form aims to gather feedback from hospital visitors about their perception of the services offered by the hospital, their experience with the services, and their overall satisfaction with the hospital. The form has several questions that cover different aspects of the hospital, including services offered, quality of care, cleanliness, and visit frequency. The purpose of this guide is to ensure that users understand the form's intent, how to complete it, and what each field is for.
-
-Before creating the form, ensure you're not duplicating any existing form or survey.
-
-</thinking>
-
 # Hospital Community Outreach Perception Survey - Help Guide
 ## Purpose
 

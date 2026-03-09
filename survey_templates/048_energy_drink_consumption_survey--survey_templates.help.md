@@ -1,13 +1,3 @@
-<thinking>
-This is a help guide for the Energy Drink Consumption Survey form. 
-
-To ensure the form is filled out correctly and its data is used for research purposes only, it would be ideal if the survey respondents have a basic understanding of the form's purpose and how it's designed. 
-
-The form is intended to gather data on energy drink consumption habits. It's not designed to diagnose or treat any health issues, and it will not share personal data with any third-party companies. 
-
-Please ensure the form is not filled out by people who are under the age of 18, as the data collected may not be accurate or safe for minors. 
-</thinking>
-
 # Energy Drink Consumption Survey - Help Guide
 ## Purpose
 The Energy Drink Consumption Survey form is designed to gather data on energy drink consumption habits from individuals to better understand their behavior and preferences.

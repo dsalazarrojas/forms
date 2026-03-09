@@ -1,12 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Educational Conference Keynote Voting Form" to ensure that end-users understand the purpose and functionality of the form. This guide will be concise, practical, and easy to follow.
-
-The form is designed to collect feedback and ratings from attendees on various aspects of the conference, including keynote speakers, sessions, and overall satisfaction. The goal is to help conference organizers understand the strengths and weaknesses of the event and make informed decisions for future conferences.
-
-The guide will cover the three main sections: Purpose, How to Complete This Form, and Field-by-Field Explanation.
-
-</thinking>
-
 # Educational Conference Keynote Voting Form - Help Guide
 ## Purpose
 

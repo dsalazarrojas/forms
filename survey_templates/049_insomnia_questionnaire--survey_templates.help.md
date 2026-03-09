@@ -1,5 +1,3 @@
-<thinking>What is this form for? It seems like it's designed to collect information about a person's sleep patterns, habits, and experiences. It's probably for some kind of research or study to better understand sleep behavior. The form has multiple pages and fields, which are likely used to collect various aspects of sleep. There is no indication that this form is meant for anything more complex than collecting basic data on sleep history, quality, onset, duration, efficiency, and disorders. It does not appear that any advanced medical knowledge or special conditions would be needed for this form.</thinking>
-
 # Insomnia Questionnaire - Help Guide
 ## Purpose
 The Insomnia Questionnaire is a form designed to collect information about a person's sleep patterns, habits, and experiences. It is meant to gather data for research or study purposes.

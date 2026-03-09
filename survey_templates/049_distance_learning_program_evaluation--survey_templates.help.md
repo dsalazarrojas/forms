@@ -1,10 +1,3 @@
-<thinking>
-We will be creating a help guide for a form called "Distance Learning Program Evaluation" that is used to evaluate and assess the effectiveness of distance learning programs. This form is used to gather information from participants about their experience with the program, including their goals, course content, overall satisfaction, and recommendations for improvement. This form will help identify areas of improvement and provide insights for future program development.
-
-Before proceeding, please ensure that you are completing this form for the purpose of evaluating a distance learning program and not for other purposes. If you have already completed this form previously, please note that your previous responses will be overridden.
-
-</thinking>
-
 # Distance Learning Program Evaluation - Help Guide
 ## Purpose
 This form is designed to gather feedback and evaluations from participants about their experience with the distance learning program.

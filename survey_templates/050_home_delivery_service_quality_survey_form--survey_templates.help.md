@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the quality of a home delivery service. It is meant to be completed by customers who have received their order, and it will help the service provider understand how they can improve. The form is divided into two pages, with multiple questions on each page. Please make sure to answer each question honestly, and provide as much detail as possible in the text fields. This form is meant to be completed by customers who have received their order, and it will help us identify areas for improvement.
-</thinking>
-
 # Home Delivery Service Quality Survey Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers on the quality of our home delivery service. Your responses will help us understand how we can improve our service to better meet your needs.

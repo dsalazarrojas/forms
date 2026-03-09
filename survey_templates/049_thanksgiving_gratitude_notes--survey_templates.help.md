@@ -1,11 +1,3 @@
-<thinking>
-The form purpose and field selection should ensure that users understand what the form is for and how to complete it without unnecessary confusion or duplication of effort. It's essential to explain each field in a way that clarifies its meaning and relevance to the form's purpose. The user should be able to quickly and easily navigate the form and provide the necessary information.
-
-The form is for users to express their gratitude for the Thanksgiving holiday and gather feedback. This form aims to collect notes on what's on their mind, which is a text-based input field. Users are also asked to provide their name, email, and phone number for contact purposes. Additionally, they can select from multiple options on how they heard about the form and to whom they are grateful. The form also includes two optional fields for date and time, which are probably meant for scheduling or logging purposes.
-
-The form will likely be used by people who are grateful for something or someone and want to express their appreciation. It's a way to gather feedback and notes from users, which can be helpful for future improvements and understanding of the form's purpose.
-</thinking>
-
 # Thanksgiving Gratitude Notes - Help Guide
 ## Purpose
 The Thanksgiving Gratitude Notes form is a way to express your gratitude for something or someone. It's a simple form that lets you share your thoughts and feelings with others.

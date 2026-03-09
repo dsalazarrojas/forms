@@ -1,11 +1,3 @@
-<thinking>
-
-This Socioeconomic Registration Form is used to collect information on a family member's socioeconomic status. The form aims to gather data on their household income, family size, employment status, education level, and other relevant details. This form will help in understanding the socioeconomic conditions of the family member and can be used for research, policy-making, or other relevant purposes.
-
-The form will be used to collect information on the family member's demographic details, employment status, education level, and language proficiency. The form will be used to create a comprehensive profile of the family member and help in making informed decisions.
-
-</thinking>
-
 # Socioeconomic Registration Form - Help Guide
 ## Purpose
 The Socioeconomic Registration Form is used to collect information on a family member's demographic details, employment status, education level, and language proficiency.

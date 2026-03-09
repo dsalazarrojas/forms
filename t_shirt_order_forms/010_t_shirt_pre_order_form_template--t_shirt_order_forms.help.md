@@ -1,7 +1,3 @@
-<thinking>
-This form is a pre-order form for t-shirts. It is intended to be filled out by customers to specify their desired t-shirt order details. The form will likely be used by a sales team to gather information from customers and prepare their orders for production. This form will be used in conjunction with other forms, such as payment and shipping information forms. The form fields should be completed by the customer and submitted to the sales team for processing.
-</thinking>
-
 # T Shirt Pre Order Form Template - Help Guide
 ## Purpose
 This form is a pre-order form for t-shirts. It is intended to be filled out by customers to specify their desired t-shirt order details.

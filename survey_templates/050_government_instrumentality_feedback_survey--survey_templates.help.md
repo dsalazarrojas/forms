@@ -1,18 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Government Instrumentality Feedback Survey" form, we need to understand the purpose of the form, how to complete it, and what each field means. The form is designed to gather feedback from users about their experience with government instrumentality services. The feedback will help the agency improve its services and provide better support to its users.
-
-The form has multiple pages with various fields, including select_one, number, and note fields. Each field is labeled with a descriptive name and has an option to provide additional information or comments. 
-
-The form is designed to be completed by users with a basic understanding of the services provided by the government instrumentality. However, we need to ensure that the form is user-friendly and easy to understand. 
-
-The form's purpose is to gather feedback about the agency's work, service quality, and overall satisfaction. The fields are designed to collect specific information about the user's experience, such as satisfaction with the agency's work, rating of the service quality, and comments about the service interaction.
-
-To complete the form, the user will need to navigate through the pages and fill in the required fields. Each field has a label that describes its purpose, and some fields have additional options to choose from. The user can provide comments and additional information in the note fields.
-
-We will now create a user-facing help guide that explains the form's purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # Government Instrumentality Feedback Survey - Help Guide
 ## Purpose
 The Government Instrumentality Feedback Survey is designed to gather feedback from users about their experience with government instrumentality services. The feedback will help the agency improve its services and provide better support to its users.

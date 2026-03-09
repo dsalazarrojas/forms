@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to collect information about R&D Testing and Repair surveys. It is meant to be used by R&D teams to record and track issues, defects, and actions taken during the testing process. The form will be filled out by testers, and the purpose of this guide is to help them understand how to complete it accurately and effectively.
-
-To ensure that the form is filled out correctly, please review the following:
-
-- **Required fields**: Fields marked as "required" must be completed. 
-- **Select One/Select Multiple fields**: For these fields, select all that apply.
-- **Text fields**: Enter as much detail as possible.
-- **Date fields**: Enter in the format of MM/DD/YYYY.
-- **Email fields**: Enter in the format of XXXXXXXXXX@XXXXX.com.
-
-</thinking>
-
 # R&D Testing And Repair Survey - Help Guide
 ## Purpose
 This form is used by R&D teams to collect information about R&D Testing and Repair surveys.

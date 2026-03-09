@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from participants who have undergone skill development training, helping instructors to assess the effectiveness of their training methods and make data-driven decisions to improve future trainings. The goal is to understand participants' experiences, acquired skills, and overall satisfaction with the training.
-This guide will walk you through completing the form, field by field, to ensure that you, as a participant, can provide valuable feedback that will benefit the training instructors.
-</thinking>
-
 # Skill Development Training Feedback Questionnaire - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # series_creation_survey - Help Guide
 
 ## Purpose

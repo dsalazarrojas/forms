@@ -1,7 +1,3 @@
-<thinking>As I analyze the provided YAML form schema, I notice that it's a form designed for gathering feedback or opinions about products or services. The form consists of multiple sections, each with different types of questions, from open-ended text fields to multiple-choice select options. To ensure that end-users understand the purpose and usage of this form, I will create a clear and concise help guide.
-
-</thinking>
-
 # product survey form - Help Guide
 ## Purpose
 The "Product Survey Form" is designed to gather opinions and feedback about products or services. This form aims to collect information about your products or services' performance, effectiveness, and quality compared to competitors, as well as your overall experience and satisfaction.

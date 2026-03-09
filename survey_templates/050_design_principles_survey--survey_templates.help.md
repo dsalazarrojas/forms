@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather user opinions on design principles, likely for the purpose of assessing or comparing the alignment of design principles within an organization, project, or initiative. The form is likely part of a larger initiative or assessment to evaluate the understanding and application of design principles across different stakeholders. The purpose of this form is not specified, so it will be assumed that it is a general survey to gather user opinions on design principles. This form is likely not intended for high-stakes decisions or evaluations that require more in-depth analysis or specialized expertise.
 
 # Design Principles Survey - Help Guide

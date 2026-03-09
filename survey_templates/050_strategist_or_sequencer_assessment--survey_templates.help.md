@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess the characteristics and preferences of an individual, likely a project manager or strategist, to help with resource allocation or team composition decisions. The purpose of this form is to collect data on the strategist's planning style, problem-solving style, and other relevant attributes. This form is intended for internal use within an organization and should not be used to gather information about individuals without their explicit consent. To ensure the data collected is meaningful, please ensure that the form is filled out by the correct person and that the responses are honest and accurate. This form is not intended to be a comprehensive assessment, but rather a tool to gather additional context for future decisions.
-
-Please note that this form is not intended to be filled out multiple times by the same person, as the purpose is to capture a snapshot of the individual's current situation and preferences. If you have already filled out this form, please do not fill it out again, as this may lead to outdated or inconsistent data.
-
-This form is designed to be completed by a single individual and should not be filled out by multiple people simultaneously. If you are unsure about any of the questions or options, please refer to the field-by-field explanation below for guidance.
-
-</thinking>
-
 # Strategist Or Sequencer Assessment - Help Guide
 
 ## Purpose

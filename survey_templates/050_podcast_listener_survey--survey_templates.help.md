@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form purpose is clear and the user understands what they're being asked to do. The form is a survey for podcast listeners, and it's essential to explain why this information is necessary for the creators of the podcast. This will help set expectations and provide a positive experience for the user. Before proceeding, let's confirm that this form is not a duplication of other surveys or forms with similar purposes. In this case, the unique combination of questions suggests it's a distinct survey for a specific audience.
-</thinking>
-
 # Podcast Listener Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from our podcast listeners to better understand their preferences, habits, and expectations. Your input will help us create a more engaging and informative podcast experience for you and our audience.

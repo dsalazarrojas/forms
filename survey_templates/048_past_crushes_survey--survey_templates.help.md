@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about users' past and current crushes, including the age of the first crush, how the user knew the first crush, the duration of the first crush, and the user's current relationship status. The form also asks about the user's current crush, including the user's current crush's age, how the user knew the current crush, and the user's current crush's gender. The purpose of this form is to gather data for a survey, and the questions are designed to be clear and concise. This form is part of the "survey_templates" category, suggesting that it is a pre-defined template for surveys.
-
-To ensure data quality, it is assumed that the user will answer the questions truthfully, and that the form will be filled out by users who are willing to share their personal experiences.
-
-Please note that the form has been designed to collect sensitive information, so users' responses will be kept anonymous.
-</thinking>
-
 # Past Crushes Survey - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about their experience with a new product launch. The purpose of this form is to collect information on what went well and what could be improved in the product's design, user interface, functionality, and overall user experience. By providing detailed and honest feedback, users can help the product development team understand their pain points and make informed decisions for future product development.
-Please make sure to complete this form only once you have used the new product, as your feedback is crucial in helping us improve it. If you've already filled out this form for a different product launch, please don't fill it out again.
-</thinking>
-
 # Product Launch Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with a new product launch.

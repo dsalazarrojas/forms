@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # CPD Representative Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from CPD (Certified Professional Dancer) representatives regarding their interactions with customers or clients. It aims to gather information on the representative's professionalism, communication skills, knowledge, and overall satisfaction with their service. The feedback collected will help the organization to identify areas of improvement and ensure that the CPD representatives provide the best possible experience for their clients.

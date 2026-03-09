@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bidder Registration Survey - Help Guide
 ## Purpose
 The Bidder Registration Survey is a form designed to gather information about bidders who are interested in participating in auctions. The form will help us better understand your preferences, experiences, and expectations, which will help us tailor our services to meet your needs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a peer-to-peer relationship between two individuals, including the nature of the relationship, frequency of interaction, and level of satisfaction. The form will be used to gather data that will help improve the relationships between team members, which is crucial for team collaboration and productivity. It is essential to fill out this form accurately and honestly to ensure that the data collected is reliable and useful for analysis. Please do not duplicate or submit the same form multiple times, as this will skew the results and make them less valuable.
-</thinking>
-
 # Peer To Peer Relationship Survey - Help Guide
 ## Purpose
 This survey aims to collect feedback and insights about your relationship with a peer, colleague, or partner. It will help us understand how often you interact with each other, how you feel about the relationship, and what can be done to improve it.

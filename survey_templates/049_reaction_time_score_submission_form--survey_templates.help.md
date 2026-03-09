@@ -1,12 +1,3 @@
-<thinking>
-This form is used to submit scores for the "Reaction Time" game, where users input their scores for a series of entries. The purpose of this form is to collect data from players who have participated in the game. The form is divided into several pages, each with a single field for inputting a score. The form does not require any additional information beyond the scores, such as names or dates, making it straightforward and to the point.
-
-Before starting, please check if you have already submitted scores for this game. If you have, your submission will not be accepted, as duplicate submissions are not allowed.
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Reaction Time Score Submission Form - Help Guide
 ## Purpose
 This form is used to submit scores for the "Reaction Time" game.

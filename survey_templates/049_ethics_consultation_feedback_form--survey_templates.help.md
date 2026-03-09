@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to collect feedback from customers or clients about their experience with ethics consultations. It's likely part of a larger customer service or feedback process. Please ensure you're completing this form to provide constructive feedback on the ethics consultation process. If you've already submitted feedback, your input may not be recorded here. Please review each field carefully to ensure you're providing accurate and relevant information. 
-
-</thinking>
-
 # Ethics Consultation Feedback Form - Help Guide
 ## Purpose
 The Ethics Consultation Feedback Form is designed to collect feedback from customers or clients about their experience with ethics consultations. This information will help us understand what we're doing well and what we can improve.

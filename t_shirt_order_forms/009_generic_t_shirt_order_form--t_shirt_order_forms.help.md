@@ -1,21 +1,3 @@
-<thinking>
-This form is likely to be used for customers or end-users to place orders for t-shirts, allowing them to select the desired t-shirt style, size, color, and quantity, as well as shipping and payment details. It's possible that this form is part of a larger e-commerce system, and the fields are designed to capture relevant information for order fulfillment and billing purposes. To ensure accuracy, it's best to review the form fields carefully before proceeding with a purchase.
-
-This form may be part of a larger application or system, and it's possible that the fields are linked to other forms or features that are not visible in this snippet. Reviewing the form's behavior and potential connections with other parts of the application is essential to understand its true purpose and potential use cases.
-
-Please ensure that the form fields are correctly populated before proceeding with a purchase, as incorrect or incomplete information may lead to issues with order processing or billing.
-
-Before completing this form, make sure you have the necessary information and permissions to do so. If you're unsure about any field or its requirements, it's best to seek clarification from the form's administrators or support team.
-
-To avoid duplication of effort and ensure accurate order processing, please review the form fields carefully and ensure that you're not duplicating any existing orders.
-
-Please note that this form may have specific requirements or restrictions on certain fields, such as shipping or payment methods. Be sure to review these carefully to ensure a smooth and successful order processing.
-
-This form is designed to be user-friendly, but if you're experiencing issues or have concerns, please don't hesitate to reach out to the form's administrators or support team for assistance.
-
-By reviewing and completing this form accurately, you'll be able to place your order efficiently and effectively.
-</thinking>
-
 # Generic T Shirt Order Form - Help Guide
 ## Purpose
 This form is designed to help customers place orders for t-shirts, allowing them to select the desired t-shirt style, size, color, and quantity, as well as shipping and payment details.

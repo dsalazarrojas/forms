@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Job Satisfaction Survey" form, I'll first need to understand the purpose of the form and its relevance to the users. The form appears to be designed to gauge employees' satisfaction with their job, asking questions about their overall job satisfaction, salary, benefits, time off, work-life balance, relationships with their manager and team, job security, growth opportunities, and willingness to provide feedback. This form likely serves as a tool for HR or management to gather data on employee satisfaction and identify areas for improvement.
-
-</thinking>
-
 # Job Satisfaction Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand your job satisfaction and identify areas for improvement. Your feedback is valuable in helping us create a positive work environment.

@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "online-community-forum-rules-voting-form" form, I'll first clarify the form's purpose and check for relevance and non-duplication. This form appears to be a simple survey or voting form designed to collect opinions or preferences on various topics from users. The form asks multiple questions, each with different types of input fields such as select_one, select_multiple, text, email, and date. The form's purpose is to gather information from users, which could be used for various purposes such as market research, product development, or community engagement.
-
-Upon reviewing the form's fields, I noticed that most of them are optional, and some fields seem to be duplicates or similar in nature (e.g., question_13 and question_19, question_16 and question_23). To create a user-friendly guide, I'll focus on providing clear explanations for each field and highlight the required fields.
-
-</thinking>
-
 # online-community-forum-rules-voting-form - Help Guide
 ## Purpose
 This form is designed to collect opinions or preferences from users on various topics. Your input will help us understand your thoughts and preferences, which will be used to improve our online community and forum.

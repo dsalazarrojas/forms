@@ -1,7 +1,3 @@
-<thinking>
-This form is a Meeting Evaluation Survey designed to collect feedback and information about a meeting. The form is likely used to gauge the effectiveness and relevance of the meeting, and to identify areas for improvement. Before filling out this form, please ensure you have not already completed it for the same meeting. 
-</thinking>
-
 # Meeting Evaluation Survey - Help Guide
 ## Purpose
 The Meeting Evaluation Survey is a tool used to gather feedback and insights about a meeting. It helps to identify what worked well and what could be improved upon.

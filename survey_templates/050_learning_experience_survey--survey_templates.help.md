@@ -1,5 +1,3 @@
-<thinking>...this form is designed to gather feedback from users about their learning experience. This form will be used to identify areas of improvement and gather insights to enhance the overall learning experience for users. It is intended for users who have recently participated in a learning activity. To avoid duplication, this form should not be filled out by users who have already completed it in the past.</thinking>
-
 # Learning Experience Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from users about their recent learning experience. Your input will help us identify areas of improvement and make informed decisions to enhance your learning experience.

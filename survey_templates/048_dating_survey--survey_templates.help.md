@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information about users' preferences and behaviors related to dating. The purpose of this form is to help us better understand your habits and interests. Please be honest in your responses, and do not provide information that you do not want to share. If you have any concerns about data sharing, please do not proceed with the form.
-
-We will review your submission carefully and use the data to improve our services.
-</thinking>
-
 # Dating Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your preferences and behaviors related to dating.

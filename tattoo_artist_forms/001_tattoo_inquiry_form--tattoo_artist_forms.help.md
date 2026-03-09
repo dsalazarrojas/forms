@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # tattoo_inquiry_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers interested in inquiring about tattoos. It is used to gather details about the customer and their desired tattoo style and size.

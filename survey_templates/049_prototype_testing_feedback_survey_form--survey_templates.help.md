@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for users to provide feedback on a prototype testing experience. The feedback will help improve the overall quality and usability of the prototype. The form should be filled out by users who have participated in a prototype testing session. To ensure consistency and accuracy, please fill out the form for every session you participate in.
-
-Please note that this form is a template and may require additional fields or modifications based on specific use cases.
-
-</thinking>
-
 # Prototype Testing Feedback Survey Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from users who have participated in a prototype testing session. Your feedback will help us improve the quality and usability of the prototype, making it more user-friendly and effective.

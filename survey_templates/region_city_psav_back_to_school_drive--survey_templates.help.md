@@ -1,11 +1,3 @@
-<thinking>
-We are developing a form to collect information for a (Region/City) PSAV Back To School Drive. This form is designed to gather relevant details from participants, including their personal information, learning style, and needs. To ensure accuracy and consistency in our data collection, it's essential to follow this guide carefully.
-
-Before starting, please note that some fields are required to be filled out, marked as 'true' in the form metadata. This is to ensure we have the necessary information to proceed with the program.
-
-This form is a critical component of our community drive, and your cooperation is invaluable. Please review the form carefully, and if you have any questions or concerns, do not hesitate to reach out.
-</thinking>
-
 # (Region/City) PSAV Back To School Drive - Help Guide
 ## Purpose
 The (Region/City) PSAV Back To School Drive form is designed to gather participant information, learning style, and needs for an upcoming back-to-school drive. The collected data will help us provide the right support and resources to students in need.

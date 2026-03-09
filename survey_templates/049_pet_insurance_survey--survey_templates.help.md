@@ -1,13 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly by end-users and that they understand each field's purpose and requirements. To achieve this, we'll provide a comprehensive help guide that explains the form's purpose, how to complete it, and each field's meaning. Let's start by considering the following:
-
-* The form is called "Pet Insurance Survey" and seems to be designed to collect information about pets and their insurance status. This suggests that it's used for insurance-related inquiries or feedback purposes.
-* There are a lot of fields, ranging from basic contact information (name, address, phone number) to more advanced questions like policy details (provider, start and end dates).
-* Some fields seem to be optional or not required, which might indicate that they're only necessary for specific cases.
-
-We can now create the help guide to ensure that end-users understand the form's purpose and how to fill it out correctly.
-</thinking>
-
 # Pet Insurance Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your pet and its insurance status. Please answer the questions honestly and thoroughly to help us better understand your situation.

@@ -1,7 +1,3 @@
-<thinking>
-We need to check if this form is relevant and not duplicated. The form is designed for evaluating the school graduation ceremony, so let's make sure this form is not already available or that its purpose is clear. This form seems to be a simple feedback and evaluation tool for the school graduation ceremony, and it's not a duplicated form. We will design it with the end-user in mind, ensuring they understand the form's purpose and how to complete it.
-</thinking>
-
 # School Graduation Ceremony Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from students, parents, or staff members about their experience with the school graduation ceremony. The feedback will help the school administration to identify areas of improvement and make necessary adjustments for future events.

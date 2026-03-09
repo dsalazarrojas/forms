@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from sports clubs about their policy and conduct. The form is designed to gather data on the club's sports club information, answers to policy and conduct questions, any additional comments, the club's coach or manager status, staff or coach status, training completed status, training required status, feedback, contact email, contact phone number, address (if provided), and comments. This form is intended for internal use within the organization, and the data collected will be used to inform future policy and conduct decisions.
-
-</thinking>
-
 # Sports Policy And Conduct Survey - Help Guide
 ## Purpose
 This form is used to collect information from sports clubs about their policy and conduct.

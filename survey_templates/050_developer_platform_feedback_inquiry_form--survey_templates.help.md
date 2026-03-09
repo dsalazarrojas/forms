@@ -1,11 +1,3 @@
-<thinking>
-This form is for developers to provide feedback on the developer platform, which is a critical component of our platform that allows developers to build and deploy their applications. It is essential that we receive feedback from developers to identify areas of improvement and ensure that the platform meets their needs.
-
-Before submitting feedback, please ensure that you are not duplicating a request that has already been made. To check, please search our issue tracker or contact our support team.
-
-Please note that this form should not be used for support requests. If you have a specific issue with your application, please contact our support team directly.
-</thinking>
-
 # Developer Platform Feedback Inquiry Form - Help Guide
 ## Purpose
 

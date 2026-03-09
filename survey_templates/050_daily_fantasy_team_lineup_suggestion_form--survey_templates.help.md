@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a daily fantasy team lineup suggestion. It is likely used to collect user input for a specific purpose related to sports, such as creating a fantasy sports team or simulating a sports competition. To avoid duplication of efforts, ensure that you only submit this form if you have not already provided similar input or feedback.
-</thinking>
-
 # Daily Fantasy Team Lineup Suggestion Form - Help Guide
 ## Purpose
 This form is used to collect information for daily fantasy team lineup suggestions.

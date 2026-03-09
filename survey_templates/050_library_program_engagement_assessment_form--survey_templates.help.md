@@ -1,5 +1,3 @@
-<thinking>...This form is designed to help library administrators assess the engagement level of their library programs. The form asks about various aspects of events, such as event participation, satisfaction levels, and attendance frequency, to gather data that can inform program development and decision-making. Please ensure that you are not filling this form unnecessarily, as the data collected will be used to improve the library's programs. Also, be aware that your responses will be reviewed and may influence program planning and evaluation... </thinking>
-
 # Library Program Engagement Assessment Form - Help Guide
 
 ## Purpose

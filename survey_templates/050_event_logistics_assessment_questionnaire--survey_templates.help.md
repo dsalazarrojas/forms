@@ -1,7 +1,3 @@
-<thinking>
-Form purposes are generally used to collect information from users about various events or situations. In this specific case, the "Event Logistics Assessment Questionnaire" form is designed to gather data about events that might have happened in the organization. It's possible that this form is used for quality control, to identify areas where events might have gone wrong, or to analyze how well the organization handled the event.
-</thinking>
-
 # Event Logistics Assessment Questionnaire - Help Guide
 ## Purpose
 The Event Logistics Assessment Questionnaire is a form designed to collect information about events that have occurred in the organization. This form helps to gather data that can be used to improve event management and organization.

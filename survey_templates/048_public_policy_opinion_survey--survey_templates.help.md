@@ -1,7 +1,3 @@
-<thinking>
-This form, titled "public_policy_opinion_survey", is designed to collect information about users' opinions on public policy issues. The form is intended to gather data from a diverse range of users, including employees, customers, or other stakeholders. It appears to be a comprehensive survey that captures demographic information (First Name, Last Name, E-mail, Phone, and Dates), select/dropdown options (Select Policy Issue, Select Issues, Date 2, Time 2), numerical ratings (Rating 1, Rating 2, Rating 3, Decimal 1, Decimal 2, Decimal 3), and notes (Note, Note 2). This form might be used for various purposes, such as understanding public perception on policy issues, gathering feedback for policy development, or tracking user engagement. Before filling out this form, please ensure you have not already submitted it, as this would cause duplication of effort.
-</thinking>
-
 # public_policy_opinion_survey - Help Guide
 ## Purpose
 This form collects users' opinions on public policy issues.

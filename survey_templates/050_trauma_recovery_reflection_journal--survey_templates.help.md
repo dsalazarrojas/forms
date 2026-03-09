@@ -1,5 +1,3 @@
-<thinking>...the form purpose and non-duplication checks are internal considerations that are typically not communicated to end-users...</thinking>
-
 # Trauma Recovery Reflection Journal - Help Guide
 ## Purpose
 This form is designed to help individuals track and reflect on their daily trauma recovery journey. It allows users to report their current mood, coping progress, personal reflections, trauma score, date, time, contact information (email and phone number), and other relevant details. This information can be used for personal development, research, or other purposes.

@@ -1,5 +1,3 @@
-<thinking>Form purpose: The Container Entry Survey is designed to inspect and document the condition of a container's entry, including its seal, contents, and any issues or defects observed during the inspection. This form is used to gather information on the container's state, verify the accuracy of its contents, and determine the need for corrective actions or follow-up inspections.</thinking>
-
 # Container Entry Survey - Help Guide
 ## Purpose
 The Container Entry Survey is a form used to inspect and document the condition of a container's entry, including its seal, contents, and any issues or defects observed during the inspection. This form helps verify the accuracy of its contents and determine the need for corrective actions or follow-up inspections.

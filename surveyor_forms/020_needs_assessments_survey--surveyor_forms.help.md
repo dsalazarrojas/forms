@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the "needs_assessments_survey" form, which is intended to collect contact information from users. The form has multiple pages with various fields for contact details, including names, email addresses, phone numbers, and physical addresses. The primary purpose of this form is to gather relevant information to create a comprehensive contact list. The form requires the following information: first name, last name, email, phone number, and manager's contact information (if applicable). The user can optionally provide more contact details, such as organization, job title, department, manager's name, manager's email, manager's phone number, manager's organization, and manager's job title. However, these additional fields are not required for form submission.
-
-</thinking>
-
 # needs_assessments_survey - Help Guide
 ## Purpose
 The "needs_assessments_survey" form is designed to collect contact information from users for the purpose of creating a comprehensive contact list.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about the usage of various ICT (Information and Communication Technology) tools by end-users. The form is part of the "survey_templates" category and is titled "ICT_Tools_Usage_Survey". The purpose of this form is to gather data on the usage habits of users regarding 24 different ICT tools. It is meant to be completed by end-users, but the instructions are clear and concise, making it user-friendly and easy to understand.
-
-The form consists of 25 fields, each representing a specific ICT tool, with a "Tool [number]" label and options to select either "Yes" or "No" regarding the tool's usage.
-
-To complete this form, simply select "Yes" or "No" for each tool that you use or don't use. There is no need to provide further explanations for each tool, as the "Yes" or "No" selection will suffice.
-
-</thinking>
-
 # ICT_Tools_Usage_Survey - Help Guide
 ## Purpose
 The ICT_Tools_Usage_Survey form is designed to collect information about your usage of various ICT tools.

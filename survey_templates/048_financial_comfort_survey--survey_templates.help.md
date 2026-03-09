@@ -1,5 +1,3 @@
-<thinking>Understanding the purpose of this form is the first step to filling it out correctly. This form, called "financial_comfort_survey," is designed to collect information about users' comfort with financial situations. It's likely used to gauge users' confidence in their financial stability or their ability to manage financial challenges. Before starting, please ensure this form is relevant to your situation and not a duplication of another form you've already filled out. This form has three sections: "survey_questions", "financial_concerns", and "financial_situation". Make sure to review each section carefully and answer honestly.</thinking>
-
 # financial_comfort_survey - Help Guide
 ## Purpose
 The financial_comfort_survey form is designed to collect information about users' comfort with financial situations. It helps gauge users' confidence in their financial stability or their ability to manage financial challenges.

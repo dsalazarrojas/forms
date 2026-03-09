@@ -1,24 +1,3 @@
-<thinking>
-The purpose of the "Geodetic Mark Recovery Report" form is to gather information about the status and recovery of geodetic marks. The form likely serves as a record-keeping tool for tracking the status of geodetic marks, which are reference points used for geospatial surveys. This form may be used by surveyors or other professionals in the field to report on the recovery of these marks, providing a standardized way to document their status, location, and recovery date.
-
-To determine if this form is relevant to your task, consider the following:
-
-* Are you a surveyor or someone involved in geospatial surveys?
-* Do you need to track the status and recovery of geodetic marks?
-* Are you looking to submit a report on the recovery of a specific geodetic mark?
-
-If you've answered "yes" to these questions, this form is likely relevant to your task.
-
-To avoid duplication, consider the following:
-
-* Have you already submitted a report on this geodetic mark's status?
-* Do you have access to the previous report or survey data?
-* Are there any updates or new information to report on this geodetic mark?
-
-If you've answered "no" to these questions, proceed with filling out the form.
-
-</thinking>
-
 # Geodetic Mark Recovery Report - Help Guide
 ## Purpose
 The Geodetic Mark Recovery Report is a form used to track the status and recovery of geodetic marks. This form helps surveyors and other professionals in the field to document their work and provide a standardized way to report on the recovery of these marks.

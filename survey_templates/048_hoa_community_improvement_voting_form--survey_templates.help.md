@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback and suggestions from HOA (Homeowners Association) residents on proposed community improvement projects. Before filling out this form, please ensure you haven't already submitted your thoughts or opinions on this project, as duplicate submissions can be confusing for the HOA board. If you're unsure, you can check with the HOA staff or board to confirm whether your submission has already been received.
-</thinking>
-
 # HOA Community Improvement Voting Form - Help Guide
 ## Purpose
 The HOA Community Improvement Voting Form is used to gather input from residents on proposed community improvement projects. Please use this form to provide your opinions and suggestions on the projects listed below.

@@ -1,19 +1,3 @@
-<thinking>
-This is a guide for the municipal_waste_survey form, which seems to be designed to gather information about a resident's waste management practices. The form appears to be part of a survey to collect data on household waste disposal habits. However, I need to clarify the purpose and relevance of the form to ensure that I provide an accurate and practical guide.
-
-Upon reviewing the form, I assume that it is intended to gather information on the following aspects:
-- Resident's demographic information (household type, size, etc.)
-- Waste disposal methods (recycling, composting, landfill)
-- Frequency of waste collection and disposal
-- Type of waste (organic, inorganic, glass)
-- Disposal location (home, curbside, landfill)
-- Description of waste types
-- Frequency of waste generation
-- Completion of the survey
-- Contact information for further queries
-
-Please let me know if this assumption is correct or if I have misinterpreted the form's purpose. If it is correct, I will proceed to create the user-facing help guide in Markdown format.</thinking>
-
 # municipal_waste_survey - Help Guide
 ## Purpose
 This form is designed to collect information about a resident's waste management practices for a survey.

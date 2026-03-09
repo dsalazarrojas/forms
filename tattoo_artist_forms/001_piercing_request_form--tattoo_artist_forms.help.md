@@ -1,7 +1,3 @@
-<thinking>
-This form is used by customers to request a piercing, and the goal is to gather information about the client, their body areas that they are interested in getting pierced, the type of piercing they want, and some basic contact information. This form is not meant to be a comprehensive medical questionnaire, but rather a simple way to get started with the piercing process. The form is designed to be completed by the client themselves, and the information will be reviewed by the tattoo artist to understand their needs and preferences.
-</thinking>
-
 # piercing_request_form - Help Guide
 ## Purpose
 This form is used to request a piercing from a tattoo artist. The form collects information about the client, their body areas of interest, the type of piercing they want, and some basic contact information.

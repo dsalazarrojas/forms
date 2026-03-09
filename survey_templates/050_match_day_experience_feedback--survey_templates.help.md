@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Match Day Experience Feedback - Help Guide
 
 ## Purpose

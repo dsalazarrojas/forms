@@ -1,5 +1,3 @@
-<thinking>As a healthcare professional, this form is designed to evaluate the long-term safety of medication for patients. The form is used to collect information on various aspects of medication usage, including medication side effects, adherence patterns, overall experience, and safety concerns. The form will help healthcare providers assess the potential risks and benefits of long-term medication use and identify potential issues that need to be addressed. It's essential to complete the form accurately and thoroughly to ensure that patients receive optimal care. This form should not be used for patients who have not been previously evaluated for long-term medication safety.</thinking>
-
 # Long Term Medication Safety Evaluation Form - Help Guide
 ## Purpose
 

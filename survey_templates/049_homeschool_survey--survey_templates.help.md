@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from homeschooling students and their parents/guardians. The goal is to gather feedback and data that can be used to improve the homeschooling experience. This form is not intended for public display, and the data collected will be used internally to inform program decisions. Please ensure that you're filling out this form as a homeschooling student or parent/guardian.
-</thinking>
-
 # Homeschool Survey - Help Guide
 ## Purpose
 This form is designed to collect information from homeschooling students and their parents/guardians to gather feedback and data that can be used to improve the homeschooling experience.

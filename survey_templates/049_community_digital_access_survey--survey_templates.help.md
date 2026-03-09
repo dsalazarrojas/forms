@@ -1,10 +1,3 @@
-<thinking>
-As I review the form fields, it appears to be a comprehensive survey designed to gather information about community residents' digital access and access to devices, digital skills, and training needs, and their overall comfort level with digital technology. It's likely that this survey aims to assess the current state of digital access within the community and identify areas for improvement. Given the required fields for contact information and digital signature, it's possible that this survey is part of a larger effort to provide support and resources to residents who may be struggling with digital access.
-
-This guide is intended to help users navigate the form and understand what each field is asking for, ensuring they provide accurate and helpful information.
-
-</thinking>
-
 # Community Digital Access Survey - Help Guide
 ## Purpose
 

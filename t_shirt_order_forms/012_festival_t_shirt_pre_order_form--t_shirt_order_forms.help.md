@@ -1,13 +1,3 @@
-<thinking>
-This form is for pre-ordering T shirts for a festival. The purpose of this form is to collect information from customers about their order, delivery preference, and payment method. The form is intended for customers who want to order T shirts in advance of the festival. This form is not intended for customers who want to make an immediate purchase or for customers who are already at the festival.
-
-To use this form, customers must provide the following information: name, email, delivery preference, payment method, first name, last name, order quantity, and delivery method. 
-
-The fields on this form should not be filled out unless a customer has a genuine intention to order T shirts for the festival. 
-
-The form's information will be used to process the order and prepare for the festival.
-</thinking>
-
 # Festival T Shirt Pre Order Form - Help Guide
 ## Purpose
 This form is for pre-ordering T shirts for a festival. Fill out this form to provide us with your order information, delivery preference, and payment method.

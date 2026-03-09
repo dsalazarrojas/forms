@@ -1,11 +1,3 @@
-<thinking>
-The "AI Ethics In Healthcare Survey" form is designed to gather opinions and insights from various stakeholders in the healthcare industry on their views and experiences with AI systems in healthcare. This form aims to explore the benefits, risks, and challenges associated with AI adoption in healthcare, and to gather input on how to improve AI ethics in this field. By responding to this survey, participants will be contributing to a better understanding of the complexities and implications of AI in healthcare, which will inform future research, policies, and best practices.
-
-This survey is not a mandatory or official form, and responses will be treated as anonymous. The form will not collect any personally identifiable information, and responses will be used for research purposes only.
-
-Before starting the survey, please ensure that you have not already completed this form, and that your responses will not duplicate any existing answers.
-</thinking>
-
 # AI Ethics In Healthcare Survey - Help Guide
 ## Purpose
 This form aims to gather opinions and experiences from healthcare stakeholders on AI ethics in healthcare, including benefits, risks, and challenges associated with AI adoption.

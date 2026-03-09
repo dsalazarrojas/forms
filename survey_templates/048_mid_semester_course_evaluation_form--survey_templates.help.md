@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mid Semester Course Evaluation Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about hospital waste reduction practices from healthcare professionals. It will help us better understand how healthcare facilities are managing waste generation, types, and reduction efforts. Please note that this form is for informational purposes only and will not be used for commercial or marketing activities.
-</thinking>
-
 # Hospital Waste Reduction Practices Survey - Help Guide
 ## Purpose
 This form is designed to collect information about hospital waste reduction practices, allowing us to better understand how healthcare facilities are managing waste generation, types, and reduction efforts.

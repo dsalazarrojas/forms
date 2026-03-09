@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their experience with smoking. It's meant to be used internally within a business or organization to collect data on smoking habits and categories. Before proceeding, ensure this form is relevant to your use case and not a duplication of existing surveys. If you're unsure, please review your survey goals and objectives to ensure this form meets your specific needs.
-</thinking>
-
 # smoking_survey - Help Guide
 ## Purpose
 The smoking_survey form is designed to collect information from users about their experience with smoking, including categorizing their smoking habits and providing a brief description of their responses.

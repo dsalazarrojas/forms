@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a user's experience with a game. It is meant to be completed by players who have played the game and would like to share their high score, gameplay experience, and other relevant details. This form will help game developers and designers understand user feedback and improve the game accordingly.
-This form will be used to gather data about game performance, player experience, and other metrics that will inform future game development decisions.
-It is recommended that users only fill out this form once per game session, and do not duplicate entries.
-</thinking>
-
 # High Scores Survey - Help Guide
 ## Purpose
 The High Scores Survey form is designed to collect information from players about their game experiences. This form helps game developers understand player performance and make informed decisions to improve the game.

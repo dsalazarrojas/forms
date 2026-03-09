@@ -1,15 +1,3 @@
-<thinking>
-  This form is designed to collect data on family dynamics, management, and various aspects related to family members and relationships. 
-  The "Family Management" field asks for a brief description of how family dynamics are managed within the household. 
-  The "Family Members" field is a multiple-choice question asking if family members are present or not. 
-  The "Family Relationships" field inquires about the presence of certain relationships. 
-  The "Family Counselor" fields are text inputs for users to provide information about their family counselors. 
-  The purpose of this form is to collect relevant data for family-related activities.
-  Please note that this form is not intended to be used for any other purpose other than the one specified.
-  This form has a lot of fields which seems to be a repetition of "family_counselor" with different IDs and labels.
-  It seems that these fields might be a list of counselors with different specialties.
-</thinking>
-
 # Family Management Survey - Help Guide
 ## Purpose
 The Family Management Survey is a form designed to collect data on family dynamics, management, and various aspects related to family members and relationships. This form will help us better understand how families interact and manage their relationships.

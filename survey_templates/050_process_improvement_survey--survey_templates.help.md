@@ -1,8 +1,3 @@
-<thinking>
-This form is a survey designed to gather feedback and suggestions for improvement from employees. The purpose of this survey is to help identify areas where the workplace environment, management performance, and assigned tools can be improved. This information will be used to inform process improvements and make data-driven decisions. To avoid duplication, please only complete this survey if you have not already provided feedback on the same topics.
-
-</thinking>
-
 # Process Improvement Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and suggestions for improvement from employees on various aspects of the workplace.

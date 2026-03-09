@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to gather user feedback on the document management process. The form is part of a broader effort to understand user experiences and areas for improvement in this process. The form is not intended to be a mandatory requirement, but rather an optional tool for users to provide their insights. 
-
-Before completing the form, please consider the following: 
-
-* You can answer all questions or only answer those that are relevant to your experience. 
-* The form is designed to be completed by users who have interacted with our document management process. 
-* Your input is valued and will help inform future improvements.
-
-</thinking>
-
 # document_management_survey - Help Guide
 ## Purpose
 The document management survey is designed to gather user feedback on the document management process. This form aims to understand user experiences and identify areas for improvement.

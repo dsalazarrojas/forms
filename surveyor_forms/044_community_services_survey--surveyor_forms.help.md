@@ -1,11 +1,3 @@
-<thinking>... 
-
-To ensure this form is filled out correctly, the respondent should be aware that this is a survey meant to gauge their awareness and experience with community services in the area. The form is not a test, but rather a tool to gather information about the community's needs and perceptions. Please take your time and answer honestly. If you need help with any field, please let us know and we'll do our best to assist you. 
-
-This form is divided into different sections, and each section has its own purpose. We'll go through each field to help you understand what's expected of you.
-
-... </thinking>
-
 # Community Services Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather information about your awareness, usage, and experience with community services in the area. Your honest answers will help us understand the community's needs and perceptions, allowing us to better serve you and the community as a whole.

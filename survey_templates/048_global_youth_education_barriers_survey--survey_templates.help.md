@@ -1,8 +1,3 @@
-<thinking> 
-To confirm the purpose of the form, I will first analyze the input YAML file. The form is a "Global Youth Education Barriers Survey" which aims to collect information on various aspects of education, including demographics, barriers, education status, and more. Upon reviewing the form structure, I notice that most fields are select_one or select_multiple types, suggesting that the form collects categorical data. The fields are also mostly optional, indicating that the form is designed to be a survey or a collection of opinions rather than a critical data collection form. I will make sure to reflect this in the help guide.
-
-</thinking>
-
 # Global Youth Education Barriers Survey - Help Guide
 ## Purpose
 This form is designed to collect information on the barriers to education faced by individuals, particularly youth. It aims to gather data on various aspects of education, including demographics, education status, and more.

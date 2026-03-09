@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their home renovation experience. It is intended to be filled out by customers who have recently completed a home renovation project. The purpose of this form is to understand the customer's satisfaction with the services provided during the project and their experience working with the project manager.
-</thinking>
-
 # Home Renovation Feedback Form - Help Guide
 ## Purpose
 This form is used to gather feedback from customers about their home renovation experience.

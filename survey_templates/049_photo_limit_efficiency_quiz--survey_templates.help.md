@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the efficiency of a photography service or product, focusing on three key aspects: photo limit, storage efficiency, and quality of photo. This evaluation is necessary to ensure that the service or product meets the needs and expectations of its customers. The form will help determine whether the service or product has a photo limit, storage efficiency, and quality of photo that meets the standards set by the company or organization.
-The form is designed to be completed by a photographer or product manager, and the results will be used to improve the photography service or product offering.
-</thinking>
-
 # Photo Limit Efficiency Quiz - Help Guide
 ## Purpose
 The Photo Limit Efficiency Quiz is a survey designed to evaluate the efficiency of a photography service or product in terms of photo limit, storage efficiency, and quality of photo.

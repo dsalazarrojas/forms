@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from respondents about their opinions on a campaign, specifically their support level for the candidate, the key issues they care about, their main concern, their voting intent, information sources, and any additional comments or suggestions. The form aims to understand the respondent's demographics, opinions, and behavior. It is crucial to fill out this form carefully, as the information gathered will help the campaign understand the public's sentiment and tailor its message accordingly. 
-
-To avoid confusion, please ensure that you are only filling out one form per person. 
-</thinking>
-
 # Campaign Survey Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Zoo Member Experience Survey - Help Guide
 ## Purpose
 The "Zoo Member Experience Survey" is a form designed to gather feedback from visitors about their experience at the zoo. The survey helps us understand what you enjoyed, what you didn't enjoy, and what we can improve to provide better services in the future. Please take a few minutes to complete this form and share your thoughts.

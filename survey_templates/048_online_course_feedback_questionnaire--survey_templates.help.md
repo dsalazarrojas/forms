@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from students on their experience with an online course. It is likely intended to be used by instructors or course administrators to collect insights that can be used to improve future course offerings. The form likely aims to collect both general feedback and more specific comments on particular aspects of the course, such as the instructor, materials, and learning pace. It's possible that the form is used in conjunction with a course evaluation process to provide a comprehensive understanding of the student's experience.
-
-The purpose of this form should be to help the course creators understand what aspects of the course worked well and which ones need improvement.
-
-</thinking>
-
 # Online Course Feedback Questionnaire - Help Guide
 ## Purpose
 The Online Course Feedback Questionnaire is a form designed to collect feedback from students on their experience with an online course. It helps course creators understand what aspects of the course worked well and what needs improvement.

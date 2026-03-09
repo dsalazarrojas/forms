@@ -1,15 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "decode_e_numbers_survey" form, we need to determine the purpose of the form based on the provided YAML structure. From the structure, it seems that this form is designed to collect feedback or insights from users on various aspects of a product or service, specifically regarding their awareness, concerns, behaviors, demographics, email, and comments. It's possible that the form aims to help identify areas where users are struggling with certain numbers or concepts, and gather information on how they interact with a product or service. This is a reasonable assumption, but further research and review of the form's content and purpose within the organization would be necessary to confirm this understanding.
-
-Before we dive into the help guide, let's ensure this is not a duplicate guide, and we've checked the following:
-
-* There is no existing guide for this form.
-* There are no similar forms that have the same purpose.
-* The form's purpose has not changed significantly since its previous iteration, if applicable.
-
-If any of the above points are not true, please let us know for further review and updates.
-</thinking>
-
 # decode_e_numbers_survey - Help Guide
 ## Purpose
 The "decode_e_numbers_survey" form is designed to collect feedback and insights from users on their awareness, concerns, behaviors, demographics, email, and comments related to a product or service. This form aims to identify areas where users may be struggling with certain numbers or concepts and gather information on how they interact with the product or service.

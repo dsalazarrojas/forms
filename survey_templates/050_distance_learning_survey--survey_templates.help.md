@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about distance learning experiences. The purpose of this form is to collect information about the user's perceptions of our service in a distance learning setting. The form will help us identify areas of improvement and better serve our users. This form should only be filled out by users who have actually used our distance learning service, as it asks for specific feedback about their experience.
-
-</thinking>
-
 # Distance Learning Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their distance learning experiences with our service. It helps us identify areas of improvement and better serve our users.

@@ -1,12 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Social Support Survey" form, which is part of the "survey_templates" category. This form is designed to collect information about an individual's social interactions and support systems. The form has 7 questions, each focusing on a different aspect of social interactions, such as interaction with family, friends, colleagues, and peers. This form is likely used to gather data for research or analysis purposes. 
-Before creating the help guide, we will review it against the following criteria: 
-  - Is it clear and concise?
-  - Is it easy to follow?
-  - Does it cover all the essential aspects of the form?
-
-</thinking>
-
 # Social Support Survey - Help Guide
 ## Purpose
 The Social Support Survey is a form designed to collect information about an individual's social interactions and support systems. The survey is intended to gather data for research or analysis purposes, such as understanding social support networks and relationships.

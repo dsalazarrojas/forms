@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect data about the success of university outreach programs. 
-It's intended to be used by program participants, organizers, or staff to provide feedback on specific events. 
-The form is meant to be a quick and straightforward way to collect information without requiring extensive effort. 
-Please note that this form is for internal use and the collected data will not be publicly shared. 
-It's recommended that users fill this form only once per event.
-</thinking>
-
 # University Outreach Program Success Poll - Help Guide
 ## Purpose
 This form is designed to collect data about the success of university outreach programs. It's intended to be used by program participants, organizers, or staff to provide feedback on specific events.

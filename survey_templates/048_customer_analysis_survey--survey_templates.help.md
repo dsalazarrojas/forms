@@ -1,7 +1,3 @@
-<thinking>...The purpose of this form is to collect information about customers' preferences and behaviors. This form is used to analyze customers' responses to better understand their needs, preferences, and purchasing habits. Please ensure that this form is used for its intended purpose and not for any other use that may be considered a duplication of work or a deviation from the original goal.
-
-Before starting the survey, please review the information provided below to ensure that you understand the form's purpose and how to complete it correctly.</thinking>
-
 # Customer Analysis Survey - Help Guide
 ## Purpose
 The Customer Analysis Survey is a tool used to collect information about customers' preferences and behaviors. This information is used to better understand their needs, preferences, and purchasing habits.

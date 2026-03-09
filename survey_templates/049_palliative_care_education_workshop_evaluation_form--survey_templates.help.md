@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather feedback from participants of a palliative care education workshop. The purpose of this form is to assess the effectiveness of the workshop in educating participants and to identify areas of improvement. This form should be filled out by all workshop participants. Please ensure that you are filling out the form honestly and completely, and that you are responding to each question to the best of your ability.
-
-Before starting, please check that you have not filled out this form previously.
-</thinking>
-
 # palliative_care_education_workshop_evaluation_form - Help Guide
 ## Purpose
 

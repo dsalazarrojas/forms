@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this survey is to gather information about users' plans for Spring Break. The survey is designed to collect data on various aspects of travel, including travel purpose, mode of transportation, date of travel, number of people accompanying, and any additional comments or contact information. This survey aims to provide valuable insights into user behavior and preferences during this time of the year.
-
-Before starting, please note that the survey is intended for one-time completion and is not meant to be repeated. It is a one-time submission form. Ensure that you answer accordingly.
-
-</thinking>
-
 # Spring Break Survey - Help Guide
 ## Purpose
 The Spring Break Survey is a brief questionnaire designed to gather information about your Spring Break plans. Your responses will help us better understand your preferences and habits during this time of the year.

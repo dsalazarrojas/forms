@@ -1,7 +1,3 @@
-<thinking>
-To the best of my abilities, this form is a survey about the assessment of gas turbine knowledge. It seems to be designed to evaluate the understanding and familiarity of gas turbine-related concepts such as fundamentals, efficiency, design, maintenance, safety procedures, and troubleshooting. The form is not affiliated with or derived from any form platform and is an original adaptation. It can be used, modified, and even sold with proper credit. The form consists of eight fields, each asking different questions or seeking information, including the assessment of gas turbine fundamentals, efficiency, design, and maintenance.
-</thinking>
-
 # Gas Turbine Knowledge Assessment - Help Guide
 ## Purpose
 This form is intended to assess the knowledge and familiarity of gas turbine concepts, including fundamentals, efficiency, design, maintenance, safety procedures, and troubleshooting.

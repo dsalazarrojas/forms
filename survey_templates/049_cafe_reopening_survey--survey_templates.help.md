@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cafe Reopening Survey - Help Guide
 ## Purpose
 This form is designed to help us understand your thoughts and preferences as we prepare to reopen our cafe after a temporary closure. Your responses will help us tailor our services to better meet your needs and ensure a comfortable and enjoyable experience for everyone. Please be as honest as possible, and thank you for participating!

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users evaluate the usability of software tools and platforms. It is meant to gather information on how users interact with the software, their experiences, and suggestions for improvement. This form is likely used by software developers or UX designers to collect feedback from users to identify areas for improvement in their software products.
-</thinking>
-
 # Software Usability Evaluation Form - Help Guide
 ## Purpose
 This form is a tool for gathering feedback on the usability of software tools and platforms. It helps users provide detailed information about their experiences with the software, including how they use it, what they like and dislike, and areas for improvement.

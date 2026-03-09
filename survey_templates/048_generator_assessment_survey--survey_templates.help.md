@@ -1,8 +1,3 @@
-<thinking>
-This form is for assessing the performance of a generator, and its fields are designed to collect relevant information from the user.
-Before proceeding, please ensure that you're filling this form for a valid reason and not duplicating your assessment. This form is intended to be completed once per generator.
-</thinking>
-
 # Generator Assessment Survey - Help Guide
 ## Purpose
 The Generator Assessment Survey is designed to collect information about the performance and efficiency of a generator. This form will help you evaluate the generator's capabilities and identify areas for improvement.

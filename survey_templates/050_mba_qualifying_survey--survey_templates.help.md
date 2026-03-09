@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the "mba_qualifying_survey" form, which is used to assess a user's qualification for an MBA program. This form is used to gather information about the user's educational background, work experience, and other relevant details. Before completing this form, please ensure that you have not already filled out this survey, and that you have a legitimate reason for taking this survey (e.g., you are applying for an MBA program or have been invited to take this survey by a representative of the program).
-</thinking>
-
 # mba_qualifying_survey - Help Guide
 ## Purpose
 This form is used to collect information about your qualification for an MBA program. It will guide you through a series of questions that will help us understand your background, work experience, and other relevant details.

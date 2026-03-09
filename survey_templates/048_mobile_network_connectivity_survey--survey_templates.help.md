@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback on mobile network connectivity, which is crucial for understanding the user experience with mobile networks in a specific area. This survey will help identify areas where users are experiencing issues and provide insights for improvement.
-The form is meant for users to report their mobile network experience in a particular area, and it is not intended for general feedback on mobile networks.
-It is essential to ensure that users do not fill out the form multiple times, as each submission will add valuable information to the dataset.
-</thinking>
-
 # Mobile Network Connectivity Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback on mobile network connectivity in a specific area. It will help identify areas where users are experiencing issues and provide insights for improvement.

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information about the load management of a passenger on a flight. This form likely aims to capture details about the passenger's travel history, flight preferences, and load management experiences. It is crucial to ensure the form is being used for its intended purpose and not for duplicate submissions. If you're unsure about the form's purpose, refer to the original metadata used for its creation, which includes the category "survey_templates" and title "PAX Load Management Survey Form". To confirm the form's relevance, consider the fields included, such as "flight_information" and "load_management". If you're still unsure, please reach out to <form@gic.mx> for further clarification.</thinking>
-
 # PAX Load Management Survey Form - Help Guide
 
 ## Purpose

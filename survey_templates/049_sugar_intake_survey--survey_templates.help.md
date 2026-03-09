@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on an individual's sugar intake habits, which could be used to better understand how often and in what quantities individuals consume sugar, and what are the sources of the sugar consumed and the reasons for consuming sugar. It is essential to note that this form does not imply any specific dietary recommendations or restrictions, and the information collected will be used for general research purposes only. It's recommended that end-users fill out this form honestly and accurately, without any bias or self-deception. This form should not be filled out more than once to avoid duplication of data.
-</thinking>
-
 # Sugar Intake Survey - Help Guide
 ## Purpose
 This form aims to gather information about your sugar intake habits, allowing us to better understand your sugar consumption patterns.

@@ -1,7 +1,3 @@
-<thinking>
-Form purpose is to collect information about virtual family events and attendees' attendance. It's crucial to understand that this form is for events where family members can connect remotely. This form is likely used for internal organization and event planning purposes. Before filling out the form, ensure you're using it for this intended purpose and not duplicating any information already collected in similar forms.
-</thinking>
-
 # virtual_family_event_attendance_form - Help Guide
 ## Purpose
 This form is designed to collect attendance information and details about virtual family events. Use it for events where family members can attend remotely, and ensure you're not duplicating information from similar forms.

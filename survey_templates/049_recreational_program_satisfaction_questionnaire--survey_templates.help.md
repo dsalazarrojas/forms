@@ -1,7 +1,3 @@
-<thinking>
-We'll be creating a user-facing help guide for the Recreational Program Satisfaction Questionnaire form, which likely aims to gather feedback on how participants enjoy or rate recreational programs. This guide will clarify the purpose, completion process, and explanation of each field. We'll ensure it's concrete, concise, and practical, focusing on the provided YAML fields.
-</thinking>
-
 # Recreational Program Satisfaction Questionnaire - Help Guide
 ## Purpose
 The purpose of this questionnaire is to gather feedback from participants about their experience in recreational programs. This will help in understanding what works well and what areas need improvement, ultimately enhancing the program's quality and participant satisfaction.

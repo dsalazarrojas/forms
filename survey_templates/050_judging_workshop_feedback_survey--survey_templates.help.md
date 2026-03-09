@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to be a clear and concise guide for end users to understand the purpose and completion process of the Judging Workshop Feedback Survey form. The form is designed to gather feedback from participants to improve the judging process. Upon reviewing the YAML, we can see that the form consists of five sections: an introduction, a rating section, a comments section, a recommendations section, and a rating for the judging idea. The purpose of this form is to collect feedback on the judging workshop, and the fields are designed to elicit relevant information to inform future improvements.
-</thinking>
-
 # Judging Workshop Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants to improve the judging process. Your input is crucial in helping us understand how to make the process better.

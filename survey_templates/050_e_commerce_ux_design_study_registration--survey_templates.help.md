@@ -1,11 +1,3 @@
-<thinking>
-This form is for registering participants in an e-commerce UX design study. It is intended for individuals who are interested in providing their input and opinions on e-commerce user experience (UX) design. The form will help us better understand how people think about and interact with e-commerce platforms. The study will help us improve the overall UX design of e-commerce websites and applications.
-
-By filling out this form, you will be helping us understand your thoughts, preferences, and behaviors related to e-commerce UX design. This will help us create more user-friendly and effective e-commerce experiences for everyone.
-
-We kindly ask that you do not complete this form if you have already participated in this or a similar study in the past year.
-</thinking>
-
 # E Commerce UX Design Study Registration - Help Guide
 ## Purpose
 This form is for registering participants in an e-commerce UX design study. By filling out the form, you will be helping us understand how you think about and interact with e-commerce platforms.

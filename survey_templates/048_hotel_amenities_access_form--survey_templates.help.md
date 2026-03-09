@@ -1,11 +1,3 @@
-<thinking>
-
-To create this help guide, I will follow the provided YAML fields and create a comprehensive guide that covers the form's purpose, how to complete it, and a detailed explanation of each field. Here is the internal reasoning behind this guide:
-
-This help guide is designed for hotel staff members who need to access and manage hotel amenities. The form is titled "Hotel Amenities Access Form" and it aims to gather information about guests' preferences, arrival status, room rates, and available amenities. The fields are categorized into different sections to ensure a smooth navigation through the form.
-
-</thinking>
-
 # Hotel Amenities Access Form - Help Guide
 
 ## Purpose

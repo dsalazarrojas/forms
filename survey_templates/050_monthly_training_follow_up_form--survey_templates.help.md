@@ -1,5 +1,3 @@
-<thinking>As a user facing form, this form is designed to gather information about the training follow-up process. It seems to be intended for tracking and recording details about training sessions, including participants, programs, dates, times, tools, and feedback. The form may be used for administrative purposes such as sending reminders, updating status, and making follow-up plans. To complete this form, the user will need to provide accurate and relevant information. To avoid duplication, this form should not be filled out if the training follow-up process has already been completed. This form should only be used for new or ongoing training follow-ups.</thinking>
-
 # Monthly Training Follow Up Form - Help Guide
 ## Purpose
 The Monthly Training Follow Up Form is designed to track and record details about training sessions, including participants, programs, dates, times, tools, and feedback.

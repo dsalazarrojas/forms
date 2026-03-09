@@ -1,7 +1,3 @@
-<thinking>
-This form is for the Financial Knowledge Survey. The purpose of this survey is to gather information on various topics related to financial knowledge and awareness among respondents. Please note that this form is not a mandatory or mandatory survey, and completion is voluntary. If you have already completed this survey, please do not repeat the process.
-</thinking>
-
 # Financial Knowledge Survey - Help Guide
 ## Purpose
 The Financial Knowledge Survey is a tool to gather information on financial topics and assess the level of awareness among respondents. Please answer the questions honestly to provide valuable insights.

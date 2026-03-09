@@ -1,12 +1,3 @@
-<thinking>
-The provided YAML form definition is a survey questionnaire with multiple sections and fields. Upon analyzing the form, I will provide a clear and concise help guide to assist end-users in understanding its purpose and usage.
-
-The form appears to be designed to collect information about a patient's medical history, cognitive functioning, and family history. It has a variety of fields, including text inputs, number inputs, and select multiple and select one inputs. The form is likely used in a clinical or healthcare setting to gather data for research, diagnosis, or treatment planning purposes.
-
-Before proceeding, I will review the provided YAML definition to ensure that the form is correctly and thoroughly explained.
-
-</thinking>
-
 # Dementia Questionnaire - Help Guide
 ## Purpose
 The Dementia Questionnaire is a survey designed to collect information about a patient's medical history, cognitive functioning, and family history. This form is intended to be used in a clinical or healthcare setting to gather data for research, diagnosis, or treatment planning purposes.

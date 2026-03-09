@@ -1,14 +1,3 @@
-<thinking> 
-This form is designed to gather information about a user's shopping behavior, specifically their frequency and habits when it comes to shopping in stores, online, and other places outside of stores. The form is meant to collect data that can be used to improve the shopping experience for users. The questions asked cover various aspects of shopping behavior, from frequency to preferences. This form is not meant to be filled out by users who do not shop or do not have shopping preferences. If you are not a frequent shopper, this form may not be relevant to you. 
-
-Please note that this form contains both mandatory and optional questions. Mandatory questions are marked as required: true and are necessary to complete the form. Optional questions allow users to provide additional information but are not necessary. 
-
-This form's purpose and questions are designed with the assumption that users are shoppers who have preferences and habits related to shopping. If you have not shopped recently, you might not find these questions relevant or might find some questions confusing. 
-
-If you are not sure about any of the questions or have any issues, please contact our support team. 
-
-</thinking>
-
 # Shopping Behavior Survey - Help Guide
 
 ## Purpose

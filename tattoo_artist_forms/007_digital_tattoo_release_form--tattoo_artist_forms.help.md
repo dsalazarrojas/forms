@@ -1,9 +1,3 @@
-<thinking>
-
-This form was created by AI using public survey topic metadata as inspiration, not copying or derived from any form platform. It's a free and open-source form released under CC BY 4.0. You are free to use, modify, and even sell forms derived from it - just give credit.
-
-</thinking>
-
 # Digital Tattoo Release Form - Help Guide
 ## Purpose
 This form is a legal document that allows a client to grant permission for a tattoo artist to display, use, or reproduce their work. It's a crucial step in the tattoo process, ensuring that the artist has the necessary rights to share their art publicly.

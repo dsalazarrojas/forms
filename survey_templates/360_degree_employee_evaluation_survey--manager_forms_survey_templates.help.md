@@ -1,18 +1,3 @@
-<thinking>
-This form is a 360-degree employee evaluation survey designed to gather feedback from various raters, including self, peer, manager, direct report, HR, and external stakeholders. The purpose of this survey is to evaluate an employee's performance across different dimensions, including communication skills, leadership, teamwork, problem-solving, reliability, adaptability, technical competence, and observed behaviors. The survey aims to gather both positive and constructive feedback to help employees grow and develop professionally.
-
-The survey is designed to be completed by multiple raters, who will assess the employee's performance from their unique perspective. The form is organized into two main sections: "Employee Information" and "Rater Relationship & Context." The first section gathers basic information about the employee, such as their full name, email address, department, job title, and date of hire. The second section asks the rater to provide feedback on the employee's performance, including their relationship to the employee, their name (if desired), communication skills, leadership and influence, teamwork and collaboration, problem-solving and decision-making, reliability and accountability, and adaptability to change. The final section allows raters to provide additional comments or remarks.
-
-Please ensure that you are completing this survey as a rater with a direct relationship to the employee being evaluated. Select the correct relationship category that best describes your role or position within the organization.
-
-When completing the survey, please answer each question honestly and thoughtfully. If you are unsure about any aspect of the employee's performance, please select "Not observed" or "Not applicable" as appropriate.
-
-For observed behaviors, please select all that apply from the provided list. For strengths, please list up to three specific strengths. For areas for improvement, please provide concrete suggestions for development.
-
-Finally, please complete the overall recommendation and overall performance score sections to summarize your feedback.
-
-</thinking>
-
 # 360 Degree Employee Evaluation Survey - Help Guide
 ## Purpose
 The 360-degree employee evaluation survey is designed to gather feedback from various raters on an employee's performance across different dimensions, including communication skills, leadership, teamwork, problem-solving, reliability, adaptability, technical competence, and observed behaviors.

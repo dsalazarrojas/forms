@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for ordering custom screen printed t-shirts. It is a multi-page form that collects information for the customer, product details, and order status. The form is required for every order, and it includes fields for customer details, t-shirt design, color, size, material, quantity, shipping address, payment method, and order total. The form is designed to be completed by the customer, and it will be used to process their order and update the order status accordingly.
-
-It seems that some of the fields are redundant or could be combined into a single field, but for the purpose of this guide, we will go through each field as it is.
-
-</thinking>
-
 # Screen Printing Order Form - Help Guide
 ## Purpose
 This form is used for ordering custom screen printed t-shirts. It is a multi-page form that collects information for the customer, product details, and order status.

@@ -1,7 +1,3 @@
-<thinking>
-To determine whether to create this documentation, let's assess the purpose and scope of this form. Based on the provided YAML structure, it appears that this form is part of a risk assessment process, likely used for safety and risk management purposes in a workplace or similar setting. The form likely aims to collect information on potential hazards, risks, and their severity. It is essential to create this documentation to ensure end-users understand the form's purpose and can complete it accurately and efficiently.
-</thinking>
-
 # Risk Assessment Survey - Help Guide
 ## Purpose
 The Risk Assessment Survey is a tool used to identify and evaluate potential risks in a workplace or similar setting. This form helps to gather information on hazards, risk assessment questions, risk evaluation, risk level, risk category, risk frequency, risk probability, and risk consequence. The data collected through this form will help in making informed decisions for risk management and ensuring a safe working environment.

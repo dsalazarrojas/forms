@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive assessment of a user's AI knowledge and experience. The purpose of this form is to evaluate the user's current proficiency level in various AI techniques, their practical application, and their self-assessment of their understanding of specific AI concepts. This will help identify areas where the user needs improvement and suggest relevant resources for further learning.
-</thinking>
-
 # AI Technique Assessment - Help Guide
 ## Purpose
 The AI Technique Assessment is a self-assessment form that evaluates your current knowledge and experience in various AI techniques. It consists of multiple sections that cover different aspects of AI, including participant details, knowledge assessment, practical application, and self-evaluation.

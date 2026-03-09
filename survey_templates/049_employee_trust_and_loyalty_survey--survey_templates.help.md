@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear and concise overview of the Employee Trust And Loyalty Survey form. The form is designed to gather feedback from employees on their level of trust and loyalty towards their manager. The questions cover various aspects of the employee-manager relationship, including trust, awareness, communication, and overall job satisfaction. It is essential to complete this form to help management understand employee perceptions and feelings, ultimately leading to a more positive and productive work environment.
-</thinking>
-
 # Employee Trust And Loyalty Survey - Help Guide
 ## Purpose
 The Employee Trust And Loyalty Survey is a tool used to measure employee trust and loyalty towards their manager. It helps management understand employee perceptions and feelings, allowing them to identify areas of improvement and create a more positive work environment.

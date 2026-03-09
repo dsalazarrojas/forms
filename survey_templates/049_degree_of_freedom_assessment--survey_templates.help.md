@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect data for assessing the degree of freedom (DoF) of a system or process.
-This form is designed to gather information about the freedom of movement or flexibility of a particular entity. It includes fields for collecting numerical and text-based input from multiple sources, including trainers, to assess and score their flexibility and mobility.
-The form will be used to assess the DoF of entities based on the scores collected from trainers.
-</thinking>
-
 # Degree Of Freedom Assessment - Help Guide
 ## Purpose
 The Degree Of Freedom Assessment form is used to collect data for assessing the degree of freedom (DoF) of a system or process. This form is designed to gather information from trainers to score and evaluate the freedom of movement or flexibility of a particular entity.

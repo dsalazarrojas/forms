@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect feedback on lot surveys from surveyors and developers. It's intended for use in the construction industry, likely for surveying land or properties. The form has a few required fields for personal information (Surveyor Name, Developer Email, etc.) and some optional fields for comments and date submitted. This form is likely used for monitoring and tracking progress or performance on construction projects. To prevent duplication, ensure that each submission is filled out carefully and accurately. If the same lot is surveyed multiple times, the feedback may be unnecessary or redundant. </thinking>
-
 # Lot Survey Feedback Form - Help Guide
 ## Purpose
 The Lot Survey Feedback Form is designed to collect feedback from surveyors and developers on land or property surveys. It helps in monitoring and tracking progress or performance on construction projects.

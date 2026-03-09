@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vendor Satisfaction Survey Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from vendors on their experience with your company. This form helps to identify areas of improvement and areas of success, allowing your team to make data-driven decisions to enhance relationships and services with vendors.

@@ -1,7 +1,3 @@
-<thinking>
-The "Subscriber Survey" form is designed to collect demographic and contact information from subscribers to our services. This form is intended to gather data that will help us better understand our subscribers' needs and preferences. Please ensure that you have the necessary permissions and consent to collect this information.
-</thinking>
-
 # Subscriber Survey - Help Guide
 ## Purpose
 The "Subscriber Survey" form is used to collect demographic and contact information from our subscribers. This information will help us understand our subscribers' needs and preferences.

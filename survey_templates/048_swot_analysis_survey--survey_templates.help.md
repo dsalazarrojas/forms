@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the creation of a SWOT (Strengths, Weaknesses, Opportunities, and Threats) analysis, which is a comprehensive evaluation tool used to identify the current and potential state of an organization, project, or business. This form is designed to guide the user through a structured process of identifying internal and external factors that may impact the success of a given entity.
-Before starting the survey, please ensure that you're familiar with the concept of SWOT analysis and have a clear understanding of the entity being analyzed. It's also essential to note that this form is not affiliated with or derived from any specific form platform.
-If you've used this form before, please do not duplicate your previous responses. This form is designed to collect unique responses for each analysis.
-</thinking>
-
 # swot_analysis_survey - Help Guide
 ## Purpose
 This form is designed to facilitate the creation of a SWOT analysis for an entity, such as an organization, project, or business. The SWOT analysis is a structured evaluation tool that identifies internal and external factors that may impact its success.

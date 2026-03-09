@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # public_service_program_efficiency_assessment - Help Guide
 ## Purpose
 The public service program efficiency assessment is a form designed to gather feedback and assess the efficiency of public services. It helps identify areas of improvement and provides valuable insights for service providers to enhance their services.

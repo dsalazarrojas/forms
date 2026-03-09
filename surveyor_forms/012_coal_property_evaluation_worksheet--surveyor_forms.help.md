@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect data for a coal property evaluation, which is a crucial process in the coal industry. This evaluation assesses the feasibility of a coal property for mining, including geological, geotechnical, and environmental factors. The form is intended for surveyors, engineers, and other experts to input data on the property's characteristics, such as its location, geological features, coal quality, and potential reserves. This data will help stakeholders make informed decisions regarding the property's economic viability and potential for mining operations.
-
-The form should only be completed by authorized personnel, and the inputted data should not be duplicated or misused. Each field is essential for the evaluation process, and missing or incorrect data can affect the overall assessment.
-
-</thinking>
-
 # Coal Property Evaluation Worksheet - Help Guide
 ## Purpose
 The Coal Property Evaluation Worksheet is a tool for surveyors, engineers, and other experts to evaluate coal properties. This form helps assess the property's potential for mining operations by collecting data on its geological, geological, and environmental features.

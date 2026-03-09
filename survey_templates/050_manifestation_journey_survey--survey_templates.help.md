@@ -1,5 +1,3 @@
-<thinking>As a facilitator, it's essential to understand the purpose and context of this form to effectively support its users. The Manifestation Journey Survey is designed to collect data about the client's goals, progress, and experiences with a program or project. This form aims to identify areas where the client needs support, guidance, or resources to achieve their objectives. By collecting relevant information, you'll be able to provide personalized coaching and guidance to help clients reach their goals more effectively.</thinking>
-
 # Manifestation Journey Survey - Help Guide
 
 ## Purpose

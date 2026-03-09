@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the rubric evaluation survey is to assess a person's performance based on a set of predetermined criteria. This form allows you to evaluate whether a person meets the expectations and standards set forth in a rubric. Each field in this form is designed to gather specific information that contributes to the overall assessment. It is essential to complete this form carefully and accurately to ensure that you are providing a fair and comprehensive evaluation.
-
-Before filling out this form, please ensure that you have a clear understanding of the rubric and the criteria you are evaluating. This form should not be used to collect duplicate information or to evaluate the same person multiple times. Each evaluation should be unique and based on the individual's performance at the time of evaluation.
-
-</thinking>
-
 # rubric_evaluation_survey - Help Guide
 ## Purpose
 The rubric evaluation survey is a form used to assess a person's performance based on a set of predetermined criteria. It is designed to gather information about their strengths and weaknesses and provide a fair and comprehensive evaluation.

@@ -1,6 +1,3 @@
-<thinking>...
-This form is designed to gauge industrial engagement among employees, focusing on work environment, job satisfaction, communication, manager support, employee satisfaction, engagement, and communication channels. It's crucial to ensure that the responses are accurate and not duplicated, as this data will be used to inform organizational development and policy-making. Please note that the fields are mostly optional, and some might be skipped if not applicable to the employee's situation.</thinking>
-
 # Industrial Engagement Survey - Help Guide
 
 ## Purpose

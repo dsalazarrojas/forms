@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Statement Ranking Survey - Help Guide
 ## Purpose
 The Statement Ranking Survey is a form designed to collect user input on various statements, allowing users to rank their preferences or opinions on a scale. This form is intended for collecting data on user opinions, experiences, or preferences regarding specific statements.

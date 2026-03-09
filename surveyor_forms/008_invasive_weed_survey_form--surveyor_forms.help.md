@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Invasive Weed Survey Form - Help Guide
 
 ## Purpose

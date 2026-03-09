@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information about economic programs, specifically their outcomes, satisfaction, agency partners, and participant feedback. This form will likely be used by administrators or researchers to assess and evaluate economic programs, possibly for funding or program management purposes.
-</thinking>
-
 # Economic Programs Assessment - Help Guide
 ## Purpose
 The Economic Programs Assessment form is a tool used to collect and analyze information about economic programs. This form is designed to provide insight into the outcomes, satisfaction, and other key aspects of economic programs, which can help administrators or researchers evaluate and improve these programs.

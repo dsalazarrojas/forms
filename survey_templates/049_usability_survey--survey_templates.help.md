@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect usability feedback from users, helping organizations understand how well their products or services are meeting their users' needs. This survey will guide you through a series of questions to help you provide valuable insights into your experience. Please ensure you have filled out this survey only once, and if you have already completed it, your responses will not be recorded.</thinking>
-
 # Usability Survey - Help Guide
 ## Purpose
 This usability survey aims to gather feedback on your overall experience with a product or service. Your responses will help us understand how well our product is meeting your needs and identify areas for improvement.

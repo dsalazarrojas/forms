@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Route Efficiency Rider Inquiry Form - Help Guide
 ## Purpose
 The Route Efficiency Rider Inquiry Form is a tool used to collect feedback and data from riders on the efficiency of routes. This form helps us understand the experiences and perspectives of our riders, which is essential for identifying areas of improvement and providing better service. Please fill this form only once for each ride, and make sure to provide as much detail as possible to help us better understand your experiences.

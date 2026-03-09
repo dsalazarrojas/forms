@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help evaluate and improve training programs by gathering feedback from participants. It's essential to fill out this form carefully to provide valuable insights for the training program's development. Before starting, please ensure that you're not duplicating an already submitted evaluation. This form is intended to collect data from one participant.
-
-</thinking>
-
 # Training Program Audit Form - Help Guide
 ## Purpose
 This form is used to gather feedback from participants on various aspects of the training program, providing valuable insights to improve the program.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about Hallowfest, a seasonal festival. To ensure that each survey submission is valid, please ensure that the form is filled out with relevant and complete information. Please also note that the purpose of this form is to gather data, so it's essential to provide accurate and honest answers. If you find that your answers are incomplete or incorrect, please contact the festival organizers so they can assist you in resolving the issue.
 
 # Hallowfest Survey - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for data collection related to SNF (Social Normative Form) measurements. It is a crucial tool for gathering relevant information about site measurements, which can be used to track and analyze site performance. Before proceeding, ensure you have the necessary permissions and approvals to access and input data in this form.
-</thinking>
-
 # snf_measurement_data_survey - Help Guide
 ## Purpose
 This form is used to collect data related to SNF measurements.

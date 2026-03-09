@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from users about their experience with an interdisciplinary teaching approach. The purpose of this form is to gather data on how users perceive the effectiveness, challenges, and benefits of this approach. It is crucial to complete this form to help us improve our teaching methods and provide better support to our users. Please note that this form is for anonymous feedback, and your responses will be kept confidential.
-</thinking>
-
 # Interdisciplinary Teaching Perception Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback about your experience with our interdisciplinary teaching approach. Your anonymous responses will help us improve our teaching methods and provide better support to our users.

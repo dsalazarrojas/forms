@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect data on the usage frequency and characteristics of digital resources, likely for research or analysis purposes. It appears to be a general survey that can be applied to various industries and categories. The form does not have any explicit affiliation or endorsement from other form platforms, indicating that it's a unique creation. The purpose of the survey is to gather information about the respondents' digital resource usage habits, and the questions are structured to collect data on various aspects of this usage. This guide will walk you through how to complete the survey.
-
-</thinking>
-
 # Digital Resource Usage Survey - Help Guide
 
 ## Purpose

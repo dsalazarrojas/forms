@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fashion Design Preference Poll Form - Help Guide
 
 ## Purpose

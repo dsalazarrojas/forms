@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from artists who are experiencing difficulties or challenges in their artistic endeavors. The purpose of this form is to collect relevant data on the nature of these challenges, the duration, and the impact on their artistic practice. This information will be used to inform support services and resources that can help artists recover from these challenges.
-</thinking>
-
 # Artist Recovery Survey Form - Help Guide
 ## Purpose
 The Artist Recovery Survey Form is designed to help artists who are experiencing difficulties or challenges in their artistic endeavors. This form is a tool to gather information on the nature of these challenges, their duration, and the impact on their artistic practice. The data collected will be used to inform support services and resources that can help artists recover from these challenges.

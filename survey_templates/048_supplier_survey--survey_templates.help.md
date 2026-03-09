@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from suppliers about their business and order details. The purpose of this survey is to gather data that will help suppliers provide better services to customers. It is recommended to only fill out this form once and use the answers to improve your business relationship with us. 
-
-Please fill out this form only if you are a legitimate supplier with a business relationship with us.
-</thinking>
-
 # Supplier Survey - Help Guide
 ## Purpose
 This form is designed to collect information from suppliers about their business and order details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Treasury Satisfaction Benchmark Survey - Help Guide
 ## Purpose
 The Treasury Satisfaction Benchmark Survey is a form designed to gauge the satisfaction of employees with various aspects of the treasury department. It is meant to collect feedback on general questions, operations, performance metrics, and other relevant factors. The survey aims to provide valuable insights for the treasury team to improve their services and processes.

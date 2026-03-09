@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'll assume that the form is used for leadership development and assessment purposes within an organization. This form is designed to gather information about an individual's leadership skills, including their self-assessment, interpersonal skills, decision-making abilities, communication skills, conflict resolution skills, adaptability, problem-solving skills, leadership ability, leadership style, leadership values, team management, feedback skills, leadership development, and leadership skills survey.</thinking>
-
 # Leadership Skills Survey - Help Guide
 ## Purpose
 The Leadership Skills Survey is designed to help individuals evaluate their leadership skills and provide valuable information for personal growth and development. This form is used to collect detailed information about an individual's leadership abilities, style, and development needs.

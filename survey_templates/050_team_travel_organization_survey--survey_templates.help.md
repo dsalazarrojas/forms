@@ -1,13 +1,3 @@
-<thinking>
-To provide a clear and concise help guide for end-users, we need to understand the purpose of this form and its relevance to the target audience.
-
-The form is called "Team Travel Organization Survey" and appears to be designed to collect information about team travel arrangements. It seems to be intended for team managers or administrators to gather details about team members' travel plans, including flight and travel costs, travel agency used, travel class, and other relevant information.
-
-Before we proceed, let's ensure that this form is not a duplicate or a variation of an existing form. A quick review of the form fields and options reveals that it is a new form with unique fields such as "Travel Cost" with options ranging from $0-$20 to $40-$60, which is not commonly found in travel-related forms. This suggests that it may be a custom-built form for a specific use case.
-
-Assuming this form is a one-off, let's create a help guide that covers its purpose, completion instructions, and field-by-field explanation.
-</thinking>
-
 # Team Travel Organization Survey - Help Guide
 ## Purpose
 The Team Travel Organization Survey is designed to collect information about team member travel plans, including flight details, travel agency used, travel class, and other relevant details. This data will help team managers and administrators better organize and budget for team travels.

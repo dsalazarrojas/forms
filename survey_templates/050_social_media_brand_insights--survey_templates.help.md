@@ -1,10 +1,3 @@
-<thinking>
-The Social Media Brand Insights form is a data collection tool used to gather information about your social media presence and engagement. It is designed to help users gain a better understanding of their brand's social media performance.
-The form is used to collect data on several key aspects of social media presence, including first name, last name, email, social media platforms used, presence score, engagement score, areas for improvement, and additional comments. This data can be used to identify areas of strength and weakness in the brand's social media presence, allowing for targeted efforts to improve performance.
-When filling out this form, users should ensure that all required fields are completed accurately and thoroughly. The form is not intended for use by children under the age of 13.
-Please note that the form data will be used for business purposes only and will be stored securely.
-</thinking>
-
 # Social Media Brand Insights - Help Guide
 ## Purpose
 The Social Media Brand Insights form is a tool used to collect data about your social media presence and engagement.

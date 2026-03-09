@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers on their experience with seasonal products. It aims to gather insights on various aspects of the products, including customer satisfaction, product recommendations, and inventory management. By analyzing this feedback, businesses can make data-driven decisions to improve their seasonal product offerings.
-
-The form consists of 25 fields, which can be completed by customers to provide their feedback. The fields are divided into several sections, including customer survey, seasonal product info, customer satisfaction, product recommendations, and seasonal insights.
-
-Before filling out this form, please ensure that you have the necessary information and permission to complete it. The form is designed to be completed by customers, and the feedback collected will be used to improve the business's seasonal products and services.
-
-To complete this form, please follow the instructions below:
-
-1. Answer each question carefully and thoroughly.
-2. Select the appropriate options for the questions that require them.
-3. Provide as much detail as possible in the text fields.
-
-</thinking>
-
 # Seasonal Inventory Feedback Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers on their experience with seasonal products.

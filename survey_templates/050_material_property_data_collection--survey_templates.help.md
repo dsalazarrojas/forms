@@ -1,12 +1,3 @@
-<thinking>
-To create a helpful user guide for this form, we need to first understand the purpose and requirements of the form. This form appears to be designed to collect data about materials, specifically their properties. It seems to be used for some sort of material management or inventory system.
-
-From the YAML fields, we can see that the form has several options for material properties such as material category, size, weight, color, and chemical composition. There's also an option for material safety rating and a hazard statement. These fields are all select or text types, suggesting that they are meant to be filled in with specific values or answers.
-
-The form is not required, as indicated by the `required: false` field, which means that users can choose not to fill in these fields if they don't have the information or prefer not to provide it.
-
-</thinking>
-
 # Material Property Data Collection - Help Guide
 ## Purpose
 This form is designed to collect data about materials, including their category, size, weight, color, chemical composition, safety rating, and hazard statement.

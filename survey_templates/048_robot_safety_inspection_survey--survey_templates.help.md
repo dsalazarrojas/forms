@@ -1,5 +1,3 @@
-<thinking>Before we proceed, let's ensure this form's purpose and required fields are well understood. The form's internal title, "Robot Safety Inspection Survey", suggests that it's used for inspecting robot-related facilities for safety. The form has several required fields: `maintenance_status`, `assigned_inspector`, `assigned_tool`, and `facility_type`, indicating that a thorough inspection is essential. This survey likely aims to assess the safety of robot facilities and assign responsibilities for maintenance and inspection tasks.</thinking>
-
 # Robot Safety Inspection Survey - Help Guide
 ## Purpose
 This form is designed to collect information about robot facilities during safety inspections. It helps identify potential safety concerns and assigns responsibilities for maintenance and inspection tasks.

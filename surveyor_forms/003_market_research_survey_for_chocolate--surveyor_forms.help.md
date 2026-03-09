@@ -1,7 +1,3 @@
-<thinking>
-The market research survey for chocolate form is designed to gather information from customers about their purchasing habits, contact preferences, and demographic details. The form is not intended for employees or partners of our company. This form aims to collect data that can be used to improve the customer experience, enhance customer communication, and inform product development. Before proceeding, please ensure you have not completed this form previously, as the data collected will be used to analyze and identify trends.
-</thinking>
-
 # Market Research Survey For Chocolate - Help Guide
 ## Purpose
 This market research survey for chocolate is a customer feedback form designed to gather information about your purchasing habits, contact preferences, and demographic details. Your responses will help us improve the customer experience and inform product development.

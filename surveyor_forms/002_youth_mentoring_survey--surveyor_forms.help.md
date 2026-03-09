@@ -1,7 +1,3 @@
-<thinking> 
-The Youth Mentoring Survey form is designed to collect data on programs that provide mentoring services to youth. The purpose of this form is to gather information about the structure and demographics of the program, including its title, description, goals, start and end dates, evaluation scale, number of participants, participant demographics, location, funding sources, and evaluation methods. This form helps program administrators to track and compare data on various youth mentoring programs.
-</thinking>
-
 # Youth Mentoring Survey - Help Guide
 ## Purpose
 The Youth Mentoring Survey is designed to collect data on youth mentoring programs.

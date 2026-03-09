@@ -1,8 +1,3 @@
-<thinking>
-This form is used for gathering research data on customer products. 
-To be considered for inclusion in this form, responses typically fall under two categories: customer product research and customer survey. Customer product research includes information about products that have the potential to be included in our product suite, and customer survey data is used to gauge customer satisfaction and feedback. This form is used to collect this data from customers. This form is intended for use in a variety of research contexts, and the fields may be adjusted based on the specific research goals of the researcher.
-</thinking>
-
 # customer_product_research_survey - Help Guide
 ## Purpose
 The "customer_product_research_survey" form is used for gathering research data on customer products.

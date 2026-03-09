@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to gather information about the integration of a specific manifestation with a practitioner. It is meant to be filled out by the practitioner who is currently working with the manifestation. The purpose of this form is to understand the current integration goals, the progress made so far, and any challenges or support needs that need to be addressed. This form is likely to be used by the team managing the integration process to assess the status of the integration and make informed decisions.
-
-</thinking>
-
 # manifestation_integration_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about the current state of a specific manifestation's integration with a practitioner. It helps the team to assess the progress, identify challenges, and provide necessary support.

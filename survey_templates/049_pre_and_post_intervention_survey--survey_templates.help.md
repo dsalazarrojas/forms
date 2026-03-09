@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the pre_and_post_intervention_survey form, I'll follow the provided YAML structure and create a clear and concise guide.
-
-</thinking>
-
 # pre_and_post_intervention_survey - Help Guide
 ## Purpose
 The **pre_and_post_intervention_survey** form is designed to gather feedback and insights on the effectiveness of interventions or treatments. It helps users evaluate the results of pre- and post-intervention assessments, document the process, and identify areas for improvement.

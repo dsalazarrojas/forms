@@ -1,5 +1,3 @@
-<thinking>What is this form for, and why do I need to fill it out? The "Likert Scale Feedback Survey" form is a series of questions that gather feedback from users about their experience with a particular topic or service. This form is designed to collect binary answers (yes/no) to gauge opinions and sentiments. Each question is a Likert scale, which means you will be presented with a set of predefined options (yes or no) for each question. You can answer each question with one of the two options, and your answers will help us understand your perspective. This form is not mandatory, but your input is valuable to us, and it will only take a few minutes to complete. Please answer all the questions that apply to you, and you can skip any that do not.</thinking>
-
 # Likert Scale Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with a particular topic or service. Your input will help us understand your opinions and sentiments.

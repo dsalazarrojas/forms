@@ -1,19 +1,3 @@
-<thinking>
-
-The "Homeownership Readiness Consultation Form" is a comprehensive form designed to assess an individual's readiness to own a home. This form collects information on various aspects of a person's financial situation, employment status, and demographic details. The form is used to provide valuable insights to financial advisors or lenders to help them determine whether a person is prepared to take on the responsibilities and commitments of homeownership.
-
-Upon reviewing the form, it appears that some fields have duplicate names (e.g., employment_status, employment_status_1, etc.). To provide clarity, the form is likely designed to cater to different scenarios or preferences, but this may cause confusion for end-users. To avoid duplication, we can suggest combining the duplicate fields into one field with options (e.g., employment_status with options for employed, unemployed, retired, etc.).
-
-This form collects information on:
-
-* Income (annual income range)
-* Employment status (active, inactive, or specific employment status categories)
-* Home ownership status (active, inactive, or specific ownership status categories)
-* Date of birth (date format)
-* Mortgage status (active or inactive)
-
-</thinking>
-
 # Homeownership Readiness Consultation Form - Help Guide
 ## Purpose
 The Homeownership Readiness Consultation Form is designed to gather information about an individual's financial situation, employment status, and demographic details to assess their readiness to own a home.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from clients after a coaching session. It aims to gather information on various aspects of the session, including the client's overall satisfaction, helpfulness of the session, coach's listening skills, understanding of their issues, and quality of feedback provided. The form also seeks to identify areas for improvement in the coaching process and gather suggestions for future sessions.
-
-The form is composed of 25 questions, ranging from general satisfaction and helpfulness to specific aspects of the coach's performance and the client's progress. Some questions are required, while others are optional, allowing clients to provide as much or as little information as they feel comfortable sharing.
-
-When filling out this form, please provide honest and sincere feedback. Your input will help coaches improve their skills and better serve their clients in the future.
-
-</thinking>
-
 # Coaching Session Client Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients after a coaching session, aiming to understand their satisfaction, experience, and areas for improvement.

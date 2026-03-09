@@ -1,8 +1,3 @@
-<thinking>Internal reasoning and checks for relevance and non-duplication:
-The purpose of this form is to collect feedback on the Quality Control Process. It is designed to gather opinions from users on the quality of the process, areas for improvement, and suggestions for enhancement. The form should only be used by authorized personnel who are familiar with the Quality Control Process. The form is likely used in a business setting to evaluate and improve business processes.
-
-Relevance check: The form is under "survey_templates" category, which suggests that it's meant to collect feedback and opinions. Non-duplication check: There are no identical fields that can be completed in the same way, so users will not be able to submit identical information for the same field. The form seems to cover a wide range of topics related to the Quality Control Process, including its description, feedback frequency, score, and areas for improvement.</thinking>
-
 # Quality Control Process Feedback Questionnaire - Help Guide
 ## Purpose
 The Quality Control Process Feedback Questionnaire is designed to collect feedback and opinions from users on the Quality Control Process. It is used to evaluate and improve the process.

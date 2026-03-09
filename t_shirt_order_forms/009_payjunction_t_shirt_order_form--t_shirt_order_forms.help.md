@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to allow users to place an order for a t-shirt, which is a common use case for an e-commerce platform or online store. The form collects information about the user, such as their name, email, and phone number, as well as details about their shipping address. The user is also asked to select a T-shirt design and quantity, which implies that the form is integrated with a fulfillment system that will process the order and ship the t-shirt accordingly.
-The form's purpose is likely to be used by customers or website visitors to place an order for a t-shirt, and it's expected that the order will be processed and shipped to the customer's address.
-</thinking>
-
 # PayJunction T Shirt Order Form - Help Guide
 
 ## Purpose

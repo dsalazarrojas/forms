@@ -1,6 +1,3 @@
-<thinking>**Form Purpose**
-This form is designed to collect feedback from World Cup 2026 viewers about their plans and excitement levels for each match. The form helps us understand how people intend to watch the matches, their excitement levels for each game, and their preferences for favorite players and teams.</thinking>
-
 # world_cup_2026_viewing_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from viewers about their plans and excitement levels for the World Cup 2026 matches.

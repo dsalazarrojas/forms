@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about staff satisfaction, which is essential for managers and HR teams to understand the sentiment and needs of their team members. This form will help to gather feedback on various aspects of staff satisfaction, including overall job satisfaction, work environment, team satisfaction, work-life balance, job security, communication, feedback, contact information, manager, department, job performance, and job satisfaction. Before filling out this form, please ensure that the questions are relevant to your current role and department. If you have already provided feedback on these aspects, you may skip this form.
-</thinking>
-
 # staff_satisfaction_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about staff satisfaction, which is essential for managers and HR teams to understand the sentiment and needs of their team members.

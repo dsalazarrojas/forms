@@ -1,12 +1,3 @@
-<thinking>
-We'll need to create a user-facing help guide for the "Employee Satisfaction Survey" form, which is used to gather feedback from employees about their job satisfaction and work-life balance. To ensure that the form's purpose and fields are clear, let's review the YAML structure and think about how to best explain it to end users.
-
-Upon reviewing the YAML, I notice that the form has 9 fields, which can be broadly categorized into three sections: employee satisfaction, job satisfaction, and work-life balance. The form does not have any complex logic or conditional fields, making it relatively straightforward to explain.
-
-To write the help guide, we'll break it down into four sections: Purpose, How To Complete This Form, Field-by-Field Explanation, and Tips. We'll aim to make the explanation concrete, concise, and practical for end users.
-
-</thinking>
-
 # Employee Satisfaction Survey - Help Guide
 ## Purpose
 The Employee Satisfaction Survey is a form designed to gather feedback from employees about their job satisfaction, work-life balance, and overall satisfaction with their job. This feedback will help management understand what employees like and dislike about their job, which will enable us to make informed decisions to improve the work environment and increase employee engagement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Teaching Survey - Help Guide
 
 ## Purpose

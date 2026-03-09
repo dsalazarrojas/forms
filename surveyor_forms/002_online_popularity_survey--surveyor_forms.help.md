@@ -1,9 +1,3 @@
-<thinking>
-This form is a simple online survey designed to collect information about users' preferences and opinions. The purpose of this form is to gather user feedback and opinions on various topics, such as favorite websites, colors, foods, and animals. This information will be used to understand user behavior and preferences, which can be useful for product development and user experience improvement.
-The form is divided into several sections, each with its own set of questions or fields. The questions are a mix of open-ended and multiple-choice questions, with some fields requiring users to provide their email address and other contact information. The form is not mandatory, and users can choose to fill it out or not.
-Before filling out the form, users should be aware that their responses will be collected and used to improve the product or service they are interacting with. The form does not require any personal or sensitive information, and users can fill it out anonymously if they choose.
-</thinking>
-
 # online_popularity_survey - Help Guide
 ## Purpose
 This form is designed to collect information about users' preferences and opinions on various topics.

@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to collect information about the drainage system, which is a crucial part of maintaining a healthy and functional water management system. This form will help assess the status of the drainage system, evaluate its performance, and identify potential issues or areas that need improvement.
-
-To avoid duplication, ensure you are not filling out this form if you have already completed a similar one in the past or if the situation has not changed significantly.
-
-</thinking>
-
 # Drainage Survey - Help Guide
 ## Purpose
 This form is designed to assess the status of the drainage system, including its condition and performance. It will help identify areas of concern and suggest potential improvements to maintain or optimize the drainage system.

@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Personalized Plan Intake Survey" form, I will need to analyze the provided YAML fields and understand the form's purpose, structure, and fields. Based on the YAML, it appears that the form is designed to collect information from users in multiple sections, likely for creating a personalized plan. The form has 11 sections, each labeled with a unique "section-<number>-label" and all of type "text". This suggests that the form is asking for open-ended answers or descriptions from the user in each section. The form does not have any specific fields for collecting numerical or date-based information. Given that all fields are optional and there is no clear indicator of what kind of information is expected from the user, it's possible that the form is intended for users to provide context or background information about themselves or their plans. The form's title "Personalized Plan Intake Survey" implies that it's for creating a customized plan based on this input. However, without more specific details, the exact purpose and expected outcome of the form are unclear.
-</thinking>
-
 # Personalized Plan Intake Survey - Help Guide
 ## Purpose
 This survey is designed to collect information from you to create a personalized plan tailored to your needs. By providing your background and context, you will help us understand your goals and aspirations, allowing us to craft a customized plan just for you.

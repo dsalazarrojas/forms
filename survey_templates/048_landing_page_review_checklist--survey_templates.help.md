@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Landing Page Review Checklist" form, I need to understand the form's purpose and fields. Based on the provided YAML, the form is likely used for reviewing and evaluating a landing page, focusing on various aspects such as the title's clarity and focus, the headline's effectiveness and persuasiveness, and the call-to-action's persuasiveness. This form will help users assess whether the landing page meets certain criteria. It is not explicitly defined as required or optional, suggesting that users can skip fields if they are not applicable.
-
-</thinking>
-
 # Landing Page Review Checklist - Help Guide
 
 ## Purpose

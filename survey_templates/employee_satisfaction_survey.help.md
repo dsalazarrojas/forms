@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from employees about their overall satisfaction with their role in the organization, their experience with management, and areas where they would like to see improvement. This survey is created using a machine learning model, taking into account various aspects of an ideal employee satisfaction survey.
-
-</thinking>
-
 # employee_satisfaction_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees on their overall satisfaction with their role in the organization and areas where they would like to see improvement.

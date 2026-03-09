@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a simple, one-page survey designed to collect information about student training sessions. It is meant to be used for exit tickets, which are a common practice in academic and professional settings where students or trainees provide feedback and insights about their training experiences. The form should be filled out by students after completing a training session, and it will help trainers and educators assess the effectiveness of the training and identify areas for improvement.
-
-The form is suitable for any setting where students or trainees need to provide feedback on their training experiences, such as in educational institutions, corporate training centers, or coaching sessions.
-
-</thinking>
-
 # exit_ticket - Help Guide
 ## Purpose
 The exit_ticket form is designed to collect feedback and insights from students or trainees after a training session. This information will help trainers and educators evaluate the effectiveness of the training and identify areas for improvement.

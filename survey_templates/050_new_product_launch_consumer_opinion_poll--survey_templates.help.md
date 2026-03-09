@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather data from consumers regarding their opinion on the new product launch. It is designed to collect insights on the product's launch information, purchase intentions and behaviors, and overall product performance. This form may be used internally to inform product development and launch decisions. Please review the following guide to ensure you understand how to correctly fill out this form. Please be aware that some fields are required for this form and may not be completed without providing this information.
-</thinking>
-
 # new_product_launch_consumer_opinion_poll - Help Guide
 ## Purpose
 This form is designed to gather data from consumers regarding their opinion on the new product launch.

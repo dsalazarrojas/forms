@@ -1,10 +1,3 @@
-<thinking>Internal reasoning:
-This form is designed to collect feedback from customers about their experience with the real estate agent services offered by the company. The form aims to gather information on various aspects of the customer's experience, including overall satisfaction, communication, responsiveness, follow-up, negotiation, knowledge, professionalism, and overall satisfaction. The form also includes fields for additional comments and contact details. The purpose of this form is to help the company understand its strengths and weaknesses in providing real estate services to customers.
-
-Before completing this form, ensure you have a clear understanding of the customer's experience with the real estate agent. This form is not intended for customers who have not interacted with the company's real estate agents.
-
-The following sections will provide detailed explanations for each field in the form to help you complete it accurately.</thinking>
-
 # Real Estate Agent Service Experience Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their experience with our real estate agent services. Your input will help us improve our services and provide better experiences for our customers in the future.

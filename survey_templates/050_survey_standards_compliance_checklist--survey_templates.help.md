@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help ensure that your project adheres to the standards set by your organization. Completing this form will help you demonstrate your awareness and compliance with these standards. Please make sure to fill out all required fields accurately to receive credit for your project. This form should only be used for projects that are currently active or inactive.
-</thinking>
-
 # Survey Standards Compliance Checklist - Help Guide
 ## Purpose
 The Survey Standards Compliance Checklist is a form designed to help ensure that your projects adhere to the standards set by your organization. It's essential to complete this form accurately to receive credit for your project and demonstrate your compliance with these standards.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cultural Awareness Training Evaluation Form - Help Guide
 ## Purpose
 The Cultural Awareness Training Evaluation Form is used to evaluate the effectiveness of cultural awareness training programs and assess the participant's experience, satisfaction, and perception of the training.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from employees on various aspects of their work experience, specifically their manager, department, and overall job satisfaction. This form is meant to be completed by employees to provide insights that can inform process improvements. The form will be used to help managers and HR teams understand the current state of employee satisfaction and identify areas where improvements can be made.
-</thinking>
-
 # Process Improvement Survey - Help Guide
 ## Purpose
 This guide is designed to assist employees in completing the Process Improvement Survey form to provide valuable feedback on their work experience.

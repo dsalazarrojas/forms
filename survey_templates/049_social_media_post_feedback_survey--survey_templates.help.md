@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback on social media posts from users. The purpose of this form is to provide a structured way for users to provide their opinions on social media posts, which can be used to improve content creation and engagement strategies. The form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created using public survey topic metadata as inspiration.
-
-To ensure the accuracy of the form's purpose and to prevent duplication of efforts, please double-check that this form meets your specific needs and hasn't been created before. If you're unsure, you can contact form@gic.mx for further clarification.
-</thinking>
-
 # Social Media Post Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about social media posts.

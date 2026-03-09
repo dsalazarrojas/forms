@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather feedback and evaluation from participants in the Orange Challenge, a program aimed at improving overall well-being and satisfaction. It is intended to collect information on various aspects of the participant's experience, including their overall satisfaction, suggestions for improvement, contact details, event attendance, and demographic information. This form is likely to be completed by participants who have attended the Orange Challenge event. Please ensure you are completing this form as relevant and not duplicating responses.
 
 </thinking>

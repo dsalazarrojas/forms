@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about grocery shopping habits and preferences from users. This form is designed to help users create a customized grocery shopping checklist based on their shopping habits and store information. The form is likely used by market research or customer service teams to understand consumer behavior and preferences.
 
 </thinking>

@@ -1,5 +1,3 @@
-<thinking>As a user-facing help guide, we need to make sure the end-user understands the purpose and functionality of the form, so let's assume this form is being used by casting directors, producers, or other production staff to gather feedback on auditions. We should also check if this form has been created to avoid duplication, especially considering it's an AI-generated form. Lastly, we'll aim to make this form as user-friendly as possible.</thinking>
-
 # Casting Feedback Survey - Help Guide
 ## Purpose
 This form is designed for casting directors, producers, or other production staff to gather feedback on auditions. It helps them to evaluate a performer's professionalism, acting ability, fit for the requested role, and other essential qualities.

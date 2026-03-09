@@ -1,5 +1,3 @@
-<thinking>As you're about to begin, let's quickly review why we need this form. The purpose of the Patient Feedback Form is to gather information from patients about their experience with our clinic. We want to hear about how we've done well, where we've missed, and any suggestions or concerns they might have. This form is meant to be brief and to the point, so please answer the questions honestly, and feel free to add any comments you'd like.</thinking>
-
 # Patient Feedback Form - Help Guide
 
 ## Purpose

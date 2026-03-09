@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to evaluate the effectiveness, relevance, impact, and participant satisfaction of a research study. 
-It is meant to be filled out by participants after completing a study, providing valuable feedback that can be used to improve future studies and enhance the participant experience. 
-To ensure accurate and reliable feedback, please fill out the form carefully and thoroughly. 
-Please note that this form is not a duplication of existing forms, but rather an original creation inspired by public survey topic metadata. 
-</thinking>
-
 # Research Study Evaluation Form - Help Guide
 ## Purpose
 This form is used to gather feedback from participants on the effectiveness, relevance, and impact of a research study. It helps researchers to identify areas for improvement and enhance the participant experience.

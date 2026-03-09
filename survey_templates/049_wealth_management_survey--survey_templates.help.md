@@ -1,10 +1,3 @@
-<thinking>
-This form is part of a larger wealth management system that aims to gather relevant information from users to create personalized financial plans. It is essential to ensure that each user completes the form accurately and honestly, as the information gathered will be used to tailor recommendations and services to their specific needs.
-Before proceeding, check that:
-- You have not completed this form recently to avoid duplication of effort.
-- The provided information is up-to-date and accurate.
-</thinking>
-
 # wealth_management_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your financial situation, goals, and preferences to help us provide you with personalized advice and services tailored to your needs.

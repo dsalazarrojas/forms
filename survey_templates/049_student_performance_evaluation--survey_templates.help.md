@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to evaluate student performance in various aspects, such as academic progress, attendance, and overall performance. It is meant to be filled out by teachers to provide a comprehensive view of student performance.
-The form consists of 25 fields, divided into several categories, including student demographics, performance evaluation, and form status.
-</thinking>
-
 # Student Performance Evaluation - Help Guide
 ## Purpose
 The purpose of this form is to assess the overall performance of students, evaluating their progress and attendance.

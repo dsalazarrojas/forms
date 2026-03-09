@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and ratings from users about a story, gathering information on various aspects such as story title, ranking, rating, and demographic details like age, gender, and occupation. It's essential to ensure that users understand the purpose and usage of each field to provide accurate and relevant feedback. To avoid duplication of effort, please note that some of these fields might be redundant, especially for users who are familiar with similar forms. Before proceeding, please ensure that you've read through the entire form carefully to understand its intent and requirements.
-</thinking>
-
 # Story Ranking Survey - Help Guide
 ## Purpose
 The Story Ranking Survey is a form designed to collect feedback and ratings from users about a story, gathering information on various aspects such as story title, ranking, rating, and demographic details.

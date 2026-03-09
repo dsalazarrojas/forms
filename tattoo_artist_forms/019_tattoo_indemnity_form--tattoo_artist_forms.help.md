@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from clients about their tattooing experience, including the details of the tattoo they wish to get, the artist who will perform the tattoo, and the payment terms. This form is part of an indemnity process to protect both the client and the artist. It's a required form that all clients must complete before a tattooing session, ensuring they understand their rights and responsibilities. 
-
-Please ensure you have read this form carefully and understand its purpose and requirements before proceeding. If you have any doubts or concerns, please don't hesitate to reach out to us.
-
-</thinking>
-
 # tattoo_indemnity_form - Help Guide
 ## Purpose
 The tattoo indemnity form is a required document that ensures both you and the artist understand your rights and responsibilities before a tattooing session. This form is designed to collect information about your tattoo experience, including details about the tattoo, payment terms, and contact information.

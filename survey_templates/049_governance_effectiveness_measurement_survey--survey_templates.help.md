@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to measure the effectiveness of a board of directors in a corporate setting. It assesses various aspects of board governance, including decision-making processes, communication, accountability, and evaluation practices. The goal is to provide a comprehensive picture of the board's performance and identify areas for improvement.
-The form consists of 25 questions, each covering a specific aspect of board governance. The questions are categorized into three areas: decision-making, communication, and evaluation. Some questions require textual descriptions, while others are multiple-choice or select-one/select-multiple options.
-</thinking>
-
 # Governance Effectiveness Measurement Survey - Help Guide
 ## Purpose
 The Governance Effectiveness Measurement Survey is designed to evaluate the performance of a board of directors in a corporate setting. The survey assesses various aspects of board governance, including decision-making processes, communication, and evaluation practices.

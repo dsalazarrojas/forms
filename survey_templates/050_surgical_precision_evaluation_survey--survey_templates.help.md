@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect data from surgeons and medical professionals for evaluating the precision and quality of surgical procedures. It is meant to be completed by surgeons, anesthesiologists, or other medical professionals who have performed or participated in the procedure. The form will be used to gather information on various aspects of the procedure, including patient demographics, procedure details, and outcomes.
-
-Before proceeding, please ensure that this form is relevant to your specific use case. If you have already completed a similar form, you may not need to do so again. This form is intended to capture detailed information and is not meant to be a general survey or poll.
-
-If you are unsure about any of the questions or options, please reach out to your supervisor or the person who created the form for clarification.
-
-</thinking>
-
 # Surgical Precision Evaluation Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect data from surgeons and medical professionals for evaluating the precision and quality of surgical procedures.

@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect feedback from customers about their home delivery experience. It's crucial to gather accurate and detailed information about the service delivery process to improve the overall customer experience and identify areas of improvement. The form should only be filled out by customers who have received a home delivery service from the company. To ensure data quality, the form should not be filled out by customers who have not received a home delivery service.
-
-</thinking>
-
 # Home Delivery Service Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their home delivery experience. We value your input and use it to continuously improve our service to better serve you.

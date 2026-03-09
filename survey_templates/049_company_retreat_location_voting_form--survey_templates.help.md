@@ -1,7 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the Company Retreat Location Voting Form to ensure that end-users understand the purpose and requirements of the form. This form aims to collect information from employees about their preferred retreat location, activities, and accommodation preferences. The goal is to create a more personalized and enjoyable experience for attendees.
-</thinking>
-
 # Company Retreat Location Voting Form - Help Guide
 ## Purpose
 The Company Retreat Location Voting Form is designed to gather information from employees about their preferred locations, activities, and accommodation preferences for company retreats. This form helps the retreat planning team to create a more enjoyable and inclusive experience for all participants.

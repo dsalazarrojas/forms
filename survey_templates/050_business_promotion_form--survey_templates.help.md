@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a customer's visit to a business, including their visit date, contact information, and feedback on their experience. This form is intended to be used for business promotion purposes, such as understanding customer behavior, preferences, and pain points. To ensure accurate and relevant data collection, please ensure that you have visited the store location during the time period specified in this form and that you are providing honest and genuine feedback about your experience.
-</thinking>
-
 # Business Promotion Form - Help Guide
 ## Purpose
 This form is designed to collect customer feedback and information to improve our business services and customer experience.

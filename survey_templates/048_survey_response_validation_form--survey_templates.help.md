@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for survey responses validation, likely used for feedback collection and validation purposes. It's likely used for quality control or data validation for surveys. Each field in this form is likely designed to collect specific information from survey responders, and it's probable that the survey ID and response ID fields are related to tracking and identifying individual survey responses. The purpose of this form is to collect information from survey responders in a structured and controlled manner. However, I would need some more information about the specific requirements and constraints of this form to provide a more detailed explanation of its purpose and use cases.
-
-</thinking>
-
 # Survey Response Validation Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-To ensure relevance and non-duplication, this form is designed to gather essential information for creating an academic plan for students in grades 9-12. The purpose of the 9 12 Academic Plan form is to collect details about a student's academic progress and goals, including their student name, date of birth, grade level, academic year, curriculum, total planned credits, extracurricular activities, accommodations or services, and additional notes or parent explanation of the plan. This form is intended for educational settings, such as schools or school districts, and is used to facilitate the creation of individualized plans for students.
-
-</thinking>
 # 9 12 Academic Plan - Help Guide
 ## Purpose
 This form is designed to gather essential information for creating an academic plan for students in grades 9-12. It is intended for use in educational settings, such as schools or school districts.

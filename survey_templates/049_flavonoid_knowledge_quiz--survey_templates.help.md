@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess the user's knowledge of flavonoids, their benefits, sources, and consumption habits. This quiz aims to collect information on the user's understanding of flavonoids, their advantages, and their daily intake. It is a self-assessment tool, allowing users to rate their knowledge and consumption habits of flavonoids. The form is divided into several sections, each covering a different aspect of flavonoids. The user will be presented with a series of questions, including multiple-choice and open-ended questions, to gauge their understanding and habits. This information will help users identify areas where they need to improve their knowledge and consumption of flavonoids. The form is not intended to be a comprehensive test, but rather a guidance tool for users to evaluate their own knowledge and habits.
-</thinking>
-
 # Flavonoid Knowledge Quiz - Help Guide
 ## Purpose
 This form is a self-assessment tool designed to gauge your knowledge of flavonoids, their benefits, sources, and consumption habits.

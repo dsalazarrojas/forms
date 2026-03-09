@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Gym Reopening Survey form, we need to understand its purpose and ensure that the form is used correctly. The purpose of this form is to collect feedback and insights from users about a gym's reopening plans, which can help the gym management make informed decisions on how to effectively reopen and cater to their customers' needs. This form should not be used for non-essential purposes, such as marketing surveys or promotional activities. To prevent misuse, we will need to carefully review and analyze the responses received.
-
-</thinking>
-
 # Gym Reopening Survey - Help Guide
 ## Purpose
 The Gym Reopening Survey is designed to gather feedback and insights from users to help the gym management make informed decisions on how to effectively reopen and cater to their customers' needs.

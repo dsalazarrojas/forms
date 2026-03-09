@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect personal information from tax clients, including their individual information, tax year, tax return type, tax status, dependents, income, deductions, tax advisor, and address. This form is intended to be completed by the tax client themselves, and the information collected will be used to provide tax-related services.
-
-The purpose of this form is to gather necessary information to understand the client's tax situation and provide personalized tax recommendations. The form is not intended to be a replacement for professional tax advice or a substitute for a detailed tax consultation. It is essential to ensure that the form is completed accurately and thoroughly to get the most out of the information collected.
-
-Before completing this form, please check that you are not duplicating your efforts. If you have already completed a similar form or provided this information in a previous session, please do not repeat the process. This form is designed to be a one-time submission, and your input will be used to create a tailored tax strategy for you. If you are unsure about any section or have questions, please feel free to ask your tax advisor for clarification.
-
-Please note that all information collected through this form will be kept confidential and secure, and it will only be used for tax-related purposes. By completing this form, you are agreeing to the terms of use outlined in our privacy policy.
-
-Please ensure that you have all necessary information before starting to complete the form. Completing this form takes approximately [insert estimated time].
-
-</thinking>
-
 # Personal Tax Client Intake Form - Help Guide
 ## Purpose
 This form is designed to collect personal information from tax clients, including their individual information, tax year, tax return type, tax status, dependents, income, deductions, tax advisor, and address. It will be used to provide personalized tax recommendations.

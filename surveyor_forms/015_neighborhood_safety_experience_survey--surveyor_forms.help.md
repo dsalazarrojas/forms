@@ -1,13 +1,3 @@
-<thinking>
-The Neighborhood Safety Experience Survey is designed to gather information about the safety experiences of the respondents in their neighborhood. This form is used to collect data on the frequency and type of crime victims' experiences, as well as their perception of the safety of their neighborhood. The form is intended for use by local authorities to understand the safety concerns and experiences of the community. To ensure that the data collected is valid and reliable, we need to make sure that the form is completed accurately and consistently.
-
-To avoid duplication, please fill out the form only once per respondent. If you have previously completed this survey, do not fill it out again.
-
-Before starting, please note that some questions might be perceived as repetitive or confusing. However, every question is designed to gather specific information and contribute to a better understanding of the neighborhood's safety experiences.
-
-Please answer all questions honestly and to the best of your abilities. If you are unsure or lack confidence in any question, please select "No" or "I don't know" and move on to the next question.
-</thinking>
-
 # Neighborhood Safety Experience Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about your safety experiences in your neighborhood, including the frequency and type of crimes you or a family member have been a victim of, and your perception of the safety of your neighborhood.

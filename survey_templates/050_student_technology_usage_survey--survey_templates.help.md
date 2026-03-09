@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect data about students' technology usage habits, including their primary source of internet access, technology devices owned, and their online behavior such as safety practices and help-seeking habits.
-</thinking>
-
 # Student Technology Usage Survey - Help Guide
 ## Purpose
 

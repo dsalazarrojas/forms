@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from teachers about their professional background and experiences. This form is likely used for research or internal reporting purposes within an educational institution or organization. The form should be completed by a teacher who wants to participate in a survey about their professional life. Please review the form carefully and only complete it if you have the necessary information and authority to do so.
-</thinking>
-
 # teacher_survey - Help Guide
 ## Purpose
 This form is designed to collect information from teachers about their professional background, including their title, department, salary range, years of experience, education level, language proficiency, area of interest, and employment status.

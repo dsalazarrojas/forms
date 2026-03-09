@@ -1,5 +1,3 @@
-<thinking>...I will create a user-facing help guide for the "Crystal Form Submission" form based on the provided YAML fields...</thinking>
-
 # Crystal Form Submission - Help Guide
 ## Purpose
 The "Crystal Form Submission" form is designed to collect information from users about their crystal submissions, which includes the date of submission, user contact details, event information, and other relevant details.

@@ -1,5 +1,3 @@
-<thinking>...This form is called "retrospective survey". It is used for customers to provide feedback on their experience and expectations from a business. The form is designed to gather information on customer feedback, business goals, customer goals, customer satisfaction, and more... (checks for relevance) ... This form was generated based on public survey topic metadata and is an original adaptation of existing survey templates. It does not contain proprietary content from any form creation platform. (checks for duplication)</thinking>
-
 # retrospective_survey - Help Guide
 ## Purpose
 The "retrospective survey" form is designed to gather customer feedback on their experience and expectations from a business. It helps businesses understand customer satisfaction, goals, and expectations, while also identifying areas of improvement.

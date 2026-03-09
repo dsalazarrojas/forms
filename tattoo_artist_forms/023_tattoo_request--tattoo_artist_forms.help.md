@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information from customers or clients to facilitate communication with tattoo artists. The form will likely be used by a business or service that offers tattoo services, such as an appointment scheduler for a tattoo parlor or a customer support team. The form should be completed by a person who wants to book a tattoo appointment or inquire about a specific tattoo design. 
-
-The form should not be used for other purposes such as data collection for market research or as a general contact form.
-
-</thinking>
-
 # Tattoo Request - Help Guide
 ## Purpose
 This form is designed to collect information from customers or clients who want to book a tattoo appointment or inquire about a specific tattoo design. It will be used by a business or service that offers tattoo services.

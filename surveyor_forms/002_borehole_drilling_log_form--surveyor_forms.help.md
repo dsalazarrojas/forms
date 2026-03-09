@@ -1,5 +1,3 @@
-<thinking>... This form is designed to collect and record information about borehole drilling activities. The primary purpose of this form is to gather data for future reference and analysis. This form is not intended for real-time decision-making or critical operations. It is assumed that the user is already familiar with the standard operating procedures and safety protocols for borehole drilling. If this form is being used for duplicate or redundant activities, please use the existing records instead of creating new ones. ...</thinking>
-
 # Borehole Drilling Log Form - Help Guide
 ## Purpose
 The Borehole Drilling Log Form is used to record and document borehole drilling activities. This form helps to gather essential information, such as date, driller's name, borehole identifier, start and end times, depth reached, drilling method, lithology observed, groundwater encountered, and any remarks or safety notes. This information is crucial for future reference, analysis, and reporting.

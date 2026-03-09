@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end users in completing the "Dynamic Dropdown Selection Form" which is a form used to gather information from users on their preferences for enhancing user experience and data collection. This form consists of multiple pages, each containing a series of questions that require user input. The form is not required, meaning users can skip it if they are not interested in providing their input. Each field within this form has a specific purpose, and below, I'll break down each field to help users understand what they are being asked to do.
-</thinking>
-
 # Dynamic Dropdown Selection Form - Help Guide
 
 ## Purpose

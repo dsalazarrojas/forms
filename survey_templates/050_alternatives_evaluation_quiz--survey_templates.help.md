@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Alternatives Evaluation Quiz - Help Guide
 ## Purpose
 The Alternatives Evaluation Quiz is a tool used to gather data and insights about the evaluation process of alternatives. This form helps to structure and document a systematic evaluation process to aid decision-making. 

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to document and collect information about open houses, including details about the property, visitors, contact information, comments, lead generation, follow-up status, and date and time of visit. This form is likely used by real estate agents or property managers to gather information for future reference and follow-up.
-
-Before filling out this form, please make sure that you are authorized to use it and that the information you provide is accurate and up-to-date. This form should only be filled out once per open house event.
-
-</thinking>
-
 # Open House Check Out Form - Help Guide
 
 ## Purpose

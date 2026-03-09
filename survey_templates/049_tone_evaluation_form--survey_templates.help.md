@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the tone of a given text, allowing users to provide their subjective impression and feedback. The form is composed of 12 questions that assess different aspects of the text's tone, including overall impression, tone recognition, rating, feedback, emotional impact, consistency, and recommendation. The form is intended to be completed by users who have read the text and are familiar with its content. Please ensure that you have read the text before starting to fill out this form. This form is not meant to be a scientific or objective measure of tone, but rather a subjective evaluation based on your personal impression.
-</thinking>
-
 # Tone Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the tone of a given text, allowing users to provide their subjective impression and feedback. It is intended to be completed by users who have read the text and are familiar with its content.

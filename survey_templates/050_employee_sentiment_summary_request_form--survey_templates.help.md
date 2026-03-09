@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Sentiment Summary Request Form - Help Guide
 
 ## Purpose

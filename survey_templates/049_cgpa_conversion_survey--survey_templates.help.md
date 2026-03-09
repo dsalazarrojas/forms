@@ -1,11 +1,3 @@
-<thinking>...Internal reasoning block to check if the form purpose is clear and non-duplication of existing knowledge...
-
-The purpose of this form is to assist users in converting their Cumulative GPA (CGPA) scores from one grading system to another. This process is essential for students who have studied in different systems and need to convert their grades to apply to graduate schools or for job applications. The form aims to gather relevant academic details, such as the student's name, university name, country of education, academic major, and original grading scale, to accurately convert the CGPA score. The conversion process will also require the upload of official transcripts for verification.
-
-To ensure that the data is accurate and efficient, the form checks for duplicate submissions and ensures that users understand the purpose of conversion. The CGPA Conversion Survey form is a critical step in facilitating academic mobility and compatibility.
-
-... </thinking>
-
 # CGPA Conversion Survey - Help Guide
 ## Purpose
 The CGPA Conversion Survey form is designed to convert CGPA scores from one grading system to another, helping students facilitate academic mobility and compatibility in their applications.

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I understand that a well-crafted help guide can make all the difference in ensuring end-users understand how to complete a form efficiently and effectively. In this case, I'll create a comprehensive help guide for the "it_infrastructure_evaluation_form". This guide will cover the form's purpose, a step-by-step guide on how to complete it, and a detailed explanation of each field, so users can fill out the form with confidence and clarity.</thinking>
-
 # it_infrastructure_evaluation_form - Help Guide
 ## Purpose
 The "it_infrastructure_evaluation_form" is designed to gather information about your company's IT infrastructure. This form will ask you to evaluate the quality and performance of different components of your infrastructure, such as hardware, software, network, and more. This information will help you identify areas of improvement and make informed decisions about future infrastructure investments.

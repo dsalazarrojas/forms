@@ -1,9 +1,3 @@
-<thinking>
-To ensure the quality and accuracy of the data collected, it's essential to understand the context and purpose of this Bullying Survey form. The primary goal of this form is to gather information about the experiences and perceptions of individuals regarding bullying, both as a victim and a witness. This survey aims to collect data that will inform schools and organizations about the prevalence, types, and impact of bullying, as well as the effectiveness of their anti-bullying efforts. This information will help them identify areas of improvement and develop strategies to prevent and address bullying. 
-
-To avoid duplication of efforts and ensure consistency, it's recommended that this survey should not be filled out by the same individual more than once. If you're unsure or have concerns, please contact the administrator before completing the survey.
-</thinking>
-
 # Bullying Survey - Help Guide
 
 ## Purpose

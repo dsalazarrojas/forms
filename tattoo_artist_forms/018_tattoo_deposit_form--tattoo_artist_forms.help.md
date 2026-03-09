@@ -1,9 +1,3 @@
-<thinking>
-This form is used for clients to deposit a tattoo design and provide relevant details for the tattoo artist to proceed with the tattoo process. The form is designed to be completed by the client, ensuring they have all necessary information available before proceeding with the tattoo appointment. The form helps the tattoo artist understand the client's preferences and requirements, making the tattoo process more efficient and accurate.
-
-Before starting, check if you have already completed a similar form. This form is not affiliated with or endorsed by any form platform, but rather a generated adaptation using public survey topic metadata.
-</thinking>
-
 # Tattoo Deposit Form - Help Guide
 ## Purpose
 The Tattoo Deposit Form is used to gather details from clients for their upcoming tattoo appointment. This includes their client information, deposit details, design options, appointment details, contact information, and payment information. This form helps the tattoo artist understand the client's preferences and requirements, ensuring a smooth and efficient tattoo process.

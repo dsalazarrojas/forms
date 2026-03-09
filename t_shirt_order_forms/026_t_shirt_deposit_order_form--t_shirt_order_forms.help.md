@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We're creating this help guide for the "T Shirt Deposit Order Form" to inform end users on how to complete it effectively. The form is part of the "t_shirt_order_forms" category and is intended to collect customer information, order details, total amount, date, shipping address, and billing information. This form is designed to be used for ordering t-shirts, and all required fields must be filled out to proceed. 
 
 </thinking>

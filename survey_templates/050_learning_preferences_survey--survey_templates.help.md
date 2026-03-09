@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user preferences and feedback on learning styles and survey templates. It is designed to gather information on user familiarity with new information, new tasks, and preferred methods of receiving new information. This form will likely be used to inform development of learning resources and templates.
-</thinking>
-
 # Learning Preferences Survey - Help Guide
 
 ## Purpose

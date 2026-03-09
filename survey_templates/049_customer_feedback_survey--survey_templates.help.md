@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and suggestions from customers, allowing the company to better understand their experience and preferences. It is likely that this form will be used by customers to provide input on the company's products or services, and will be used by the company to improve their offerings accordingly.
-This form is part of the "survey_templates" category, which likely indicates that it is a template form used for surveys. It's worth noting that the form has a mix of required and optional fields, indicating that customers are not obligated to answer all questions.
-</thinking>
-
 # customer_feedback_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and suggestions from customers, allowing the company to understand their experience and preferences and improve their products or services accordingly.

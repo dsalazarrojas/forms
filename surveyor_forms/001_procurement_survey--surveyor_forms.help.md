@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users about their business or organization's offerings. It is likely used for internal business purposes, such as sales or marketing initiatives. The form is divided into several pages, each with a specific label and a text field for users to input their answers. The form does not have any specific validation rules or options for users to choose from, suggesting that it is not intended for public-facing purposes.
-</thinking>
-
 # procurement_survey - Help Guide
 ## Purpose
 This form is designed to collect information from users about their business or organization's offerings. It is likely used for internal purposes, such as sales or marketing initiatives.

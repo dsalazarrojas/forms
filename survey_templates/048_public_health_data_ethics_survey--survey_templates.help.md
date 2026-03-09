@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's attitudes, concerns, and priorities regarding data sharing in the context of public health. It is intended to be completed by individuals, and the data collected will be used to better understand their perspectives on data sharing. The form is divided into two main sections: introduction, and demographic information. The introduction section is optional and is meant to provide a brief explanation of the purpose and importance of the survey. The demographic information section asks for contact details and demographic information about the individual, such as their level of awareness about data privacy, participation in informed consent processes, and contact preferences.
-</thinking>
-
 # Public Health Data Ethics Survey - Help Guide
 ## Purpose
 This form is designed to gather information about an individual's attitudes, concerns, and priorities regarding data sharing in the context of public health.

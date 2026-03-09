@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # T Shirt Request Form Template - Help Guide
 
 ## Purpose

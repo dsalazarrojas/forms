@@ -1,16 +1,3 @@
-<thinking>
-The Software Implementation Evaluation Form is designed to help teams evaluate their software implementation experience. The form is used to collect feedback and information from teams about their deployment process, challenges faced, lessons learned, and next steps.
-
-To prevent duplication, this form is intended for internal use only, and should not be shared with external parties. If you're not a member of the deployment team or have access to this form, please do not fill it out.
-
-This form is meant to be filled out by the team members who have experience with software implementation. It's a crucial part of the evaluation process, and your input will help improve our software implementation process.
-
-Please make sure to fill out the form honestly and thoroughly. The more information you provide, the better we can understand your experience and make improvements.
-
-Before you start filling out the form, make sure you have the required information and permissions to access the form.
-
-</thinking>
-
 # Software Implementation Evaluation Form - Help Guide
 ## Purpose
 The Software Implementation Evaluation Form is a crucial tool for internal teams to evaluate their software implementation experience. It helps us understand the successes and challenges faced by teams during the implementation process.

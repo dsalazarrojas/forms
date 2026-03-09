@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect user feedback on fire-resistant jackets. The purpose of this form is to gather information on how well a fire-resistant jacket performs in different aspects such as safety, comfort, and overall satisfaction. It is intended to help manufacturers understand their product's strengths and weaknesses and improve their offerings accordingly. This form is not meant to be taken seriously and is for informational purposes only. Please make sure to only take this form if you have experience with fire-resistant jackets and are familiar with the product category.
-</thinking>
-
 # Fire Resistant Jacket Survey - Help Guide
 ## Purpose
 The Fire Resistant Jacket Survey is designed to collect feedback on fire-resistant jackets from users. It is intended to help manufacturers understand how their products perform in various aspects.

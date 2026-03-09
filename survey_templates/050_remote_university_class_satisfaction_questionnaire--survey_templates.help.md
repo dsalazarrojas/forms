@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from students about their experience in a remote university class. This form is designed to gather data about the quality of the course, instructor, communication, and overall experience. The form is meant to be completed by students who have taken the course and can provide an honest assessment of their experience. This form will help the remote university identify areas of strength and weakness in their course offerings and instructors.
-This form is likely to be filled out by students who have recently taken a course, so ensure that the form is filled out in a timely manner to ensure accurate and relevant feedback. 
-This form is part of the university's quality control process and should not be filled out multiple times. If you have already filled out this form, do not complete it again.
-</thinking>
-
 # Remote University Class Satisfaction Questionnaire - Help Guide
 ## Purpose
 The Remote University Class Satisfaction Questionnaire is a form designed to collect feedback from students about their experience in a remote university class.

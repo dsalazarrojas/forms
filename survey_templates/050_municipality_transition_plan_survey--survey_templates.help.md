@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to gather feedback on the municipality transition plan, ensuring that stakeholders have a clear understanding of their concerns, readiness, and ideas for improvement. This form is crucial in identifying areas of improvement and refining the transition plan to better serve the community. To confirm that the form is not a duplicate or redundant in our records, please check our internal database for existing responses with similar feedback or concerns.
-</thinking>
-
 # Municipality Transition Plan Survey - Help Guide
 
 ## Purpose

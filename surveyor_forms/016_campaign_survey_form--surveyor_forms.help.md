@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Campaign Survey Form - Help Guide
 
 ## Purpose

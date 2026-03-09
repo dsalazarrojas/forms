@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect user responses to a survey, likely for research or feedback purposes. The form is divided into several sections, each asking a different question or set of questions. To complete this form, users will need to answer each question to the best of their ability. 
-
-The purpose of this form is to gather information about the users' opinions, experiences, or thoughts on a particular topic or set of topics. This form is likely used for research, feedback, or assessment purposes.
-
-</thinking>
-
 # IA Survey - Help Guide
 
 ## Purpose

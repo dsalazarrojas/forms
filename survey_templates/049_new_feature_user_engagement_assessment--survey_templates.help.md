@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge the user engagement and satisfaction with a new feature introduced in the system. The form aims to understand how users perceive and interact with the feature, providing valuable insights to improve the feature's development and future development of similar features. Before completing this form, ensure you're familiar with the new feature and have had sufficient time to use it.
-</thinking>
-
 # new_feature_user_engagement_assessment - Help Guide
 ## Purpose
 The "new_feature_user_engagement_assessment" form is used to gather feedback on the usage and satisfaction of a new feature. This form asks users about their experiences with the feature, their opinions on its adoption, and their suggestions for improvement.

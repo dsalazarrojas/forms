@@ -1,10 +1,3 @@
-<thinking>
-The form, "vet_course_preparation_survey", is likely intended for veterinary professionals to gather information on course preparation and delivery details. This form might be used for various purposes such as planning, coordinating, or reviewing course delivery processes. 
-
-To avoid duplication or irrelevant entries, ensure that the form is not submitted more than once for the same course or program, as this could lead to unnecessary and duplicate work. It is also essential to ensure that each entry accurately reflects the relevant information.
-
-</thinking>
-
 # vet_course_preparation_survey - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge the satisfaction level of customers with the event catering services provided. It is crucial to gather feedback to improve the quality of services and make informed decisions about future events. Ensure this form is completed by the customer who attended the event. Duplicate responses from the same customer will not be accepted.
-</thinking>
-
 # Event Catering Satisfaction Questionnaire - Help Guide
 ## Purpose
 The Event Catering Satisfaction Questionnaire is designed to collect feedback about the quality of the catering services you experienced at a recent event. Your input will help us understand your expectations and preferences, allowing us to refine our services and provide better experiences in the future.

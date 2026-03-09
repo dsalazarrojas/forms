@@ -1,14 +1,3 @@
-<thinking>
-To be honest, I'm not entirely sure what this form is for, since the YAML doesn't provide explicit information about its purpose. Let's assume it's a form for customers to input their shirt order information, including details about themselves, their order, and payment information. I'll do my best to explain each field as if it were for this purpose.
-
-This form will likely be used by customers to provide their order details, including their contact information, order specifics, and payment methods. The form will likely be used by staff to process orders and keep track of customer information.
-
-I'll assume that the form is meant for customers to input their information, and staff will use this information to fulfill their orders. The form will be used for customer service purposes, to ensure that orders are accurately processed and customer needs are met.
-
-I'll base my explanation on the provided YAML fields, trying to make the best guess about each field's purpose.
-
-</thinking>
-
 # Shirt Order Form - Help Guide
 ## Purpose
 This form is used by customers to provide their shirt order information, including contact details, order specifics, and payment methods. This information will be used by staff to process the order and ensure it is accurately fulfilled.

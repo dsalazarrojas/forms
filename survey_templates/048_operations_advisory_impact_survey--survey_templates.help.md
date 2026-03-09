@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from end-users on the impact of operational advisories within their teams or departments. The purpose of this survey is to assess the perceived effects of these advisories on the operational processes and identify potential areas for improvement. It is not designed to capture sensitive or confidential information. 
-Before attempting to complete this form, please ensure you have the necessary permissions to do so and that you are not duplicating a survey that has already been completed for the same or similar purpose.
-</thinking>
-
 # Operations Advisory Impact Survey - Help Guide
 
 ## Purpose

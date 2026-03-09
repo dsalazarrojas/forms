@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a dealership maintenance service feedback poll, aiming to gather customer feedback on their recent service visit, including details such as service type, technician name, service quality, and overall satisfaction. This form may be used to gauge customer satisfaction and identify areas for improvement in dealership services. The fields seem to be well-structured and logical, with clear labels and options for the customer to provide their feedback.
-</thinking>
-
 # Dealership Maintenance Service Feedback Poll - Help Guide
 ## Purpose
 

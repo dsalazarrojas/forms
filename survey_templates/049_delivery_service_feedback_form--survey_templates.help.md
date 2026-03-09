@@ -1,13 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "Delivery Service Feedback Form" based on the provided YAML fields. The form is designed to collect feedback on the delivery experience, including its quality, communication, and other related aspects. To ensure the end-users understand the purpose and requirements of the form, I'll follow these steps:
-
-- Check if this form is relevant to the company's business processes ( delivery service feedback is a common feedback mechanism)
-- Review the form fields and their properties to understand how the feedback data will be used.
-- Design and write a user-friendly help guide that explains the purpose, completion steps, and field-by-field explanation.
-
-Before creating the guide, I'll assume that the "delivery service feedback form" is a legitimate form that collects feedback on the delivery experience and is relevant to the business process.
-
-</thinking>
-
 # Delivery Service Feedback Form - Help Guide
 ## Purpose
 The delivery service feedback form is designed to help us understand your experience with our delivery services. Your feedback will help us improve our services to better meet your needs.

@@ -1,7 +1,3 @@
-<thinking>
-The "Student Baptism Interest Survey" form is designed for students who are interested in being baptized. The primary goal of this form is to collect information about the student's contact details, faith background, and preferences for baptism. This form is not intended for students who have already been baptized or for those who are not interested in baptism.
-</thinking>
-
 # Student Baptism Interest Survey - Help Guide
 ## Purpose
 This form is for students interested in being baptized to gather information about their contact details, faith background, and preferences for baptism.

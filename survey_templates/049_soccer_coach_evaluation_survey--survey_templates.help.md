@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for evaluating the performance of soccer coaches. It is designed to gather feedback on various aspects of coaching, including player experience, communication, leadership, sportsmanship, and overall satisfaction. The form is likely used by athletic directors or other administrative personnel to assess the quality of coaching and identify areas for improvement.
-
-</thinking>
-
 # Soccer Coach Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the performance of soccer coaches. It assesses their experience, communication, leadership, sportsmanship, and overall satisfaction.

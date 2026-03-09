@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to help users reflect on their ideal job characteristics. It's meant to be a comprehensive guide for users to identify their personal preferences and aspirations in the workplace. This form is not intended for immediate action or submission, but rather as a tool for personal introspection and exploration of career goals.
-
-Before proceeding, please note that this form is designed to be completed individually and not as a group exercise. It's also not a replacement for professional career advice or guidance.
-
-Please ensure that you've reviewed the form carefully and have considered each question before proceeding.
-</thinking>
-
 # dream_job_survey - Help Guide
 ## Purpose
 The dream_job_survey form is designed to help you identify your ideal job characteristics. It's a series of questions that will guide you through your preferences and aspirations in the workplace.

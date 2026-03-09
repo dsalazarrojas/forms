@@ -1,7 +1,3 @@
-<thinking>
-We are developing this form to gather customer feedback on our products to identify areas for improvement and enhance our product offerings. To avoid duplication, we will only be sending this form to customers who have not already filled out a similar form in the past 30 days. This information will be used to help us better serve our customers and improve our products.
-</thinking>
-
 # Product Customer Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather your feedback on our products. Your responses will help us identify areas for improvement and enhance our product offerings.

@@ -1,6 +1,3 @@
-<thinking>
-This form is meant to gather information about note-taking methods and memory retention among users. It's possible that this form might be part of a larger study or research project focused on how people take notes, how often they take notes, and their overall performance in retaining information. The form is likely used by educators, researchers, or others who want to understand individual differences in note-taking behaviors. Before proceeding, double-check that this form is relevant to your specific use case and not a duplicate of another form.</thinking>
-
 # Note Taking Methods And Memory Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your note-taking habits, memory retention, and other relevant details. The data collected will help researchers or educators understand how people take notes and how well they remember information.

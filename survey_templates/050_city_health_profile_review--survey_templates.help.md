@@ -1,5 +1,3 @@
-<thinking>...This form is designed to gather feedback and ratings from city residents about the overall health of their city. It will help identify areas of concern and priority areas for improvement. Please fill in your information and answers truthfully to help create a better city for all its residents...</thinking>
-
 # City Health Profile Review - Help Guide
 ## Purpose
 This form is a tool to gather your thoughts and opinions on various aspects of your city's health profile. It's designed to identify areas that require improvement and provide valuable insights for policymakers and stakeholders.

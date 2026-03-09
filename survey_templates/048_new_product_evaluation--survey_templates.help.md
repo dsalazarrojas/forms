@@ -1,10 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "New Product Evaluation" form, we need to consider the purpose of the form, the steps to complete it, and a detailed explanation of each field. This form is likely designed to collect feedback and information about a new product from customers, employees, or stakeholders.
-
-The form purpose is to gather input on new products, focusing on general information, product details, customer service, product features, product image, product description, customer feedback, employee feedback, company information, contact details, and product information. This information can be used to improve the product, enhance customer service, and develop a better understanding of the market.
-
-</thinking>
-
 # New Product Evaluation - Help Guide
 ## Purpose
 This form is designed to collect feedback and information about new products. It's essential to provide accurate and honest responses to help us better understand your thoughts and experiences with the product.

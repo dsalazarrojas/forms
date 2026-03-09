@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on consumer spending habits, including demographic data, shopping preferences, and financial habits. The goal is to understand how consumers allocate their income, how they shop, and what influences their purchasing decisions. This information will help businesses and organizations better understand consumer behavior and develop targeted marketing strategies. Please ensure that the data is filled out accurately and completely, as it will contribute to a comprehensive analysis of consumer spending patterns. This form is meant to be completed by one individual per submission, so please do not fill it out multiple times. If you have any questions or concerns, please feel free to ask.
-</thinking>
-
 # Consumer Spending Survey - Help Guide
 ## Purpose
 The Consumer Spending Survey is designed to collect information on how consumers allocate their income, shop, and make purchasing decisions. This data will help businesses and organizations better understand consumer behavior and develop targeted marketing strategies.

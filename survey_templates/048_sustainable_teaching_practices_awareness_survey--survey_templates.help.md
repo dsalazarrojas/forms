@@ -1,7 +1,3 @@
-<thinking>
-This help guide is being created to ensure that end users understand the purpose and requirements of the Sustainable Teaching Practices Awareness Survey form. The form is designed to gather information on various aspects of sustainable teaching practices, including current and future adoption, barriers to adoption, and other relevant details. This guide will cover the form's purpose, how to complete it, and a detailed explanation of each field to ensure accurate and efficient completion.
-</thinking>
-
 # Sustainable Teaching Practices Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather information on sustainable teaching practices, including current and future adoption, barriers to adoption, and other relevant details. Please complete this form to provide valuable insights and contribute to the development of effective sustainable teaching practices.

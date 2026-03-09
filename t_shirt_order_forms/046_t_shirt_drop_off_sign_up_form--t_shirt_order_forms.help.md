@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to sign up for the T-Shirt drop off event. The fields are designed to gather information necessary for event organization and logistics. This form may need to be filled out by users who want to participate in the event by dropping off their t-shirts. To avoid duplication of effort, please make sure you're not signing up for the same time slot multiple times.
-</thinking>
-
 # T Shirt Drop Off Sign Up Form - Help Guide
 
 ## Purpose

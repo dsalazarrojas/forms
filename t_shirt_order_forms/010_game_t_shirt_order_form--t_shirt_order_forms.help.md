@@ -1,7 +1,3 @@
-<thinking>
-This form is used to take orders for Game T shirts. The purpose of this form is to gather information about the order details, including the size and color of the T shirt, and the quantity of T shirts ordered. Before proceeding, please ensure that you have the necessary information and permissions to place an order. Additionally, double-check that you are not duplicating an order, as this form is not intended for multiple orders from the same customer.
-</thinking>
-
 # Game T Shirt Order Form - Help Guide
 ## Purpose
 The Game T Shirt Order Form is designed to collect information about T shirt orders from customers. It's used to gather details such as size, color, and quantity of T shirts ordered.

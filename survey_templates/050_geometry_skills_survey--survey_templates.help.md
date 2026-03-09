@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is likely to collect feedback and opinions from users on their geometry learning experiences, specifically to identify challenging topics and areas that need improvement in geometry-related training or education. This form might be used in educational settings or by organizations offering geometry courses to refine their curriculum and content. The field types seem to cover aspects such as learning feedback, confidence levels, and topics of difficulty or need. However, further context would be required to fully understand the form's scope and potential use cases. It's worth noting that some fields are optional and seem to cover similar topics. It might be worth considering removing redundant fields or rephrasing questions for better clarity and consistency in the form's purpose.
-</thinking>
-
 # Geometry Skills Survey - Help Guide
 ## Purpose
 The Geometry Skills Survey is a form designed to collect feedback and opinions from users on their geometry learning experiences. This form aims to identify challenging topics and areas that need improvement in geometry-related training or education.

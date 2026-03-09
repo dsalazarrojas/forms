@@ -1,16 +1,3 @@
-<thinking>
-
-This form is intended to gather information from clients about their braiding preferences and experiences. The form is likely used to understand client behavior and preferences related to braiding, a type of hair treatment. The form is not required, suggesting it's for informative or optional purposes.
-
-To complete this form, follow these steps:
-
-1. Select the relevant options for each field, indicating your braiding preferences and experiences.
-2. For fields with select options, choose the correct answer from the provided options.
-3. For fields with text options, enter your answer in the provided text field.
-4. Ensure you complete all required fields.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is a survey to gather information about client braiding preferences and experiences.

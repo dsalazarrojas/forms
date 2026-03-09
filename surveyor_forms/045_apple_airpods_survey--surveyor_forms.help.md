@@ -1,7 +1,3 @@
-<thinking>...this form is designed to collect feedback from users about their experience with Apple AirPods. The form is meant to elicit responses about the user's demographic information, device ownership, and usage habits. This data will be used to improve the design and functionality of future AirPods products. Please ensure that you fill out the form accurately and honestly, and do not provide any sensitive or personal information that could identify you or other individuals. If you have already completed this survey, you will not be able to submit the same responses. Thank you for taking the time to help us improve AirPods!
-
-</thinking>
-
 # Apple Airpods Survey - Help Guide
 ## Purpose
 This guide is designed to walk you through the AirPods survey, a series of questions that will help us understand your experience with Apple AirPods.

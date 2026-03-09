@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in completing the help desk satisfaction survey form. The form is designed to gather feedback from users about their experience with the support service provided by the Help Desk. It appears that this form is used to gauge the user's satisfaction and perception of the support service, including their experience with the resolution process, likelihood of recommending the company, and any suggestions or comments they may have.
-
-The form consists of 8 questions, including multiple choice and free-text questions, that are intended to collect both quantitative and qualitative feedback. The survey is likely to be used to identify areas of improvement for the Help Desk service and to make informed decisions about how to enhance the user experience.
-
-Before proceeding, review the questions carefully and answer them based on your honest feedback.
-
-</thinking>
-
 # help_desk_satisfaction_survey - Help Guide
 ## Purpose
 This form is a survey designed to collect feedback from users about their experience with the Help Desk service. It helps the company identify areas of improvement and make informed decisions to enhance the user experience.

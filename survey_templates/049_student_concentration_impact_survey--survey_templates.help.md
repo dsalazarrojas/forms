@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Concentration Impact Survey - Help Guide
 ## Purpose
 This form is designed to help educators, researchers, or anyone interested in understanding the impact of concentration on students' learning experience. It gathers information about the focus areas, classroom distractions, study habits, and other factors that affect students' concentration.

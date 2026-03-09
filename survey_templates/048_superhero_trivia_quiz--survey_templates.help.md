@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to administer the Superhero Trivia Quiz, a fun and interactive way to test users' knowledge about various superheroes. It is designed to gather information from participants about their favorite superheroes, colors, and demographics. The goal is to create a fun and engaging experience for end-users while collecting valuable data for analysis and research.
 
 ## Superhero Trivia Quiz - Help Guide

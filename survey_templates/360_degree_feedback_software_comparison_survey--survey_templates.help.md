@@ -1,12 +1,3 @@
-<thinking> 
-This form is used for creating an agreement between a client and an artist or studio regarding a 3D sculpture project. The form collects essential information such as client contact details, project title and description, materials and mediums used, estimated dimensions, agreed-upon fee, payment schedule, estimated completion date, revisions allowed, delivery terms, cancellation and refund terms, client acknowledgement, client signature date, and additional project notes.
-
-This form is designed to guide both parties in establishing a clear understanding of the project's scope, timeline, and financial terms. By filling out this form, clients and artists/studios can ensure a smooth collaboration and avoid potential disputes.
-
-Please note that this form's purpose is to provide a general template, and users are free to modify it as needed to suit their specific requirements and preferences.
-
-</thinking>
-
 # 3D Sculpture Agreement Form - Help Guide
 ## Purpose
 The 3D Sculpture Agreement Form is designed to create a comprehensive agreement between a client and an artist or studio regarding a 3D sculpture project. It collects essential information to ensure a smooth collaboration and clear understanding of project scope, timeline, and financial terms.

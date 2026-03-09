@@ -1,7 +1,3 @@
-<thinking>
-This form will be used to collect feedback from dance studio customers, helping the studio understand their experiences and opinions about the services provided. This form should only be filled by people who are actually customers or have visited the studio, to provide genuine and relevant feedback. 
-</thinking>
-
 # Dance Studio Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with our dance studio. We value your opinion and encourage you to be honest and thorough in your responses.

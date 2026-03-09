@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and requirements of the NGO Community Trust Survey form. The form is designed to gather information about the services offered by the NGO and the frequency of use, level of trust, and contact details of users. It is recommended that users only fill out the form if they have actually been contacted by the NGO and have had a service interaction. Filling out the form multiple times with different information may lead to duplicate responses and skew the survey data. Please ensure that you are filling out the form with accurate and relevant information.
-
-</thinking>
-
 # NGO Community Trust Survey - Help Guide
 ## Purpose
 The NGO Community Trust Survey is designed to gather feedback from users about their experience with the services offered by the NGO. The survey aims to understand the level of trust users have in the organization, the frequency of service use, and contact details for follow-up communication.

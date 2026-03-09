@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect feedback from users about their experience with the Smart TV App. The form is designed to gather information about the user's experience, including their model of TV, their rating of the app, any issues they encountered, and their suggestions for improvement. Additionally, the form asks if the user would like to provide their email address for further communication. This form is intended to help us better understand how to improve the Smart TV App. 
 
 It's assumed that the user has already been exposed to the Smart TV App and has some familiarity with its functionality. This form is not intended to be a comprehensive review of all features, but rather a quick snapshot of their experience. Please note that some fields may be optional, but providing accurate information will help us better serve you.

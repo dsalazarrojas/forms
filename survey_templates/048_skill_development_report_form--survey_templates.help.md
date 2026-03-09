@@ -1,11 +1,3 @@
-<thinking>
-**Purpose**
-The Skill Development Report Form is designed to gather information on the skills and training programs of users. This form helps to create a comprehensive report on the skills and training needs of users, which can be used for further analysis and development.
-
-**Non-duplication Check**
-Before starting the form, ensure that you are not duplicating any previously submitted reports. This will save time and prevent confusion.
-
-</thinking>
 # Skill Development Report Form - Help Guide
 ## Purpose
 The Skill Development Report Form is designed to gather information on the skills and training programs of users. This form helps to create a comprehensive report on the skills and training needs of users, which can be used for further analysis and development.

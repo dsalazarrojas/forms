@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's human behavior, including their daily routines, stress levels, relationships, work-life balance, and self-care practices. This form should only be used for research or academic purposes, not for commercial or marketing surveys. Please ensure that you are not duplicating a survey that already exists and that your survey does not target any specific group or demographic. If you are unsure, please consult with the relevant stakeholders before proceeding.
-</thinking>
-
 # human_behavior_survey - Help Guide
 ## Purpose
 This form is designed to gather information about an individual's human behavior, including their daily routines, stress levels, relationships, work-life balance, and self-care practices.

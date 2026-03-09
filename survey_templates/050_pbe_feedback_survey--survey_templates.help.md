@@ -1,7 +1,3 @@
-<thinking>
-This form was created for feedback purposes only. Before proceeding, please check that this form is relevant to your specific use case and not a duplicate effort. Ensure that you are not duplicating work that has already been done or is ongoing. The form's purpose is to gather feedback on Prophets, their class performances, and student outcomes. It's essential to provide thoughtful and honest feedback to help improve the quality of Prophets' classes.
-</thinking>
-
 # PBE Feedback Survey - Help Guide
 ## Purpose
 The PBE Feedback Survey is designed to gather feedback from students on their experiences with Prophets. The form is used to assess how Prophets inform their classes, perform in class, encourage student attendance, create lesson plans, provide feedback, communicate effectively, and evaluate student outcomes. Your responses will help us improve the quality of Prophets' work.

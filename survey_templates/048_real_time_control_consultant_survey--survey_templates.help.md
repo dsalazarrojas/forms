@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for real-time consultants who need to gather information from individuals. The purpose of this form is to collect personal and work-related information, as well as contact details, in order to provide consulting services. This form should only be completed by real-time consultants who need to gather information, and it is not intended for general use. 
-Please ensure that you are using this form as intended and not for any other purpose.
-</thinking>
-
 # real_time_control_consultant_survey - Help Guide
 ## Purpose
 This form is designed to gather personal and work-related information from individuals for real-time consulting purposes. 

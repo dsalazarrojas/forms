@@ -1,7 +1,3 @@
-<thinking>
-This form is likely a customer satisfaction survey used by restaurants to gather feedback from their customers. It's purpose is to measure customer satisfaction, identify areas of improvement, and provide a channel for customers to express their opinions. This form will help restaurants refine their service and food quality, as well as make informed decisions about future offerings and customer interactions.
-</thinking>
-
 # Restaurant Customer Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience in a restaurant. By filling out this form, customers can rate their satisfaction with the restaurant and provide information about their visit.

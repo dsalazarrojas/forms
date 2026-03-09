@@ -1,5 +1,3 @@
-<thinking>...the form purpose is to gauge employee satisfaction and communication with their job, manager, and teams, while also asking about their satisfaction with various aspects of their employment...it seems the form is intended to collect opinions on several aspects related to job performance, team dynamics, and employee-manager relationships...the form has several text input fields for collecting free-form answers and multiple choice options for selecting responses from predefined lists...</thinking>
-
 # Efficiency Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about employees' satisfaction and experiences with their job, manager, and teams. It aims to gather insights into various aspects of their employment, including job performance, communication, and overall satisfaction.

@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect data from residents on their budget allocation priorities for various city services. The form will help identify areas where residents feel the most strongly about allocating the budget. This will guide the city government in making informed decisions on how to allocate resources. 
-
-The form is designed to be completed by individual residents who will be asked to allocate a virtual budget of $100 among different service categories. The categories include Education, Public Safety, Infrastructure, Parks and Recreation, Healthcare, Transportation, Housing, Environment, Economic Development, Social Services, Arts and Culture, and Budget Balance Check.
-
-Please note that the form is for individual residents, not business or organizational submissions. The budget allocation will be based on the resident's personal perspective and not on organizational or professional interests. 
-
-It is also important that the form should not be submitted more than once. If a resident has already submitted their budget allocation, they should not submit another one.
-
-</thinking>
-
 # City Budget Allocation Voting Form - Help Guide
 
 ## Purpose

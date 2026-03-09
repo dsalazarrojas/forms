@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll first provide an internal explanation of the purpose and relevance of this form. This form is intended to gather feedback from users on how they perceive the visibility of certain elements on our platform. It's essential to understand that this feedback will help us identify areas where we can improve user experience and visibility. Please note that this form should not be filled out if the user has already submitted feedback on this topic, to avoid duplication of effort.</thinking>
-
 # Visibility Improvement Feedback Form - Help Guide
 ## Purpose
 The Visibility Improvement Feedback Form is designed to collect feedback from users on how they perceive the visibility of certain elements on our platform. This feedback is essential for us to identify areas where we can improve the user experience and visibility.

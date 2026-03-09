@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the AHP Pairwise Comparison Survey, a method used in decision-making scenarios. Its purpose is to evaluate the experience and effectiveness of this method in real-world applications.
-The form is part of a larger study to improve and refine the AHP Pairwise Comparison Survey, and its results will help in understanding its strengths and weaknesses.
-The fields included in this form cover various aspects of the user's experience, from demographic information to the decision-making process and overall satisfaction.
-This form is meant to be completed by users who have used the AHP Pairwise Comparison Survey in their work or personal decision-making processes.
-To avoid duplication of effort, please do not complete this form if you have already submitted feedback on a similar survey.
-</thinking>
-
 # AHP Pairwise Comparison Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the AHP Pairwise Comparison Survey, a method used in decision-making scenarios. Its purpose is to evaluate the experience and effectiveness of this method in real-world applications.

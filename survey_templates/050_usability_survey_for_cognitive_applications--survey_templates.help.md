@@ -1,12 +1,3 @@
-<thinking>
-...The form purpose is to gather feedback from users about the usability of cognitive applications, specifically regarding their ratings and comments on the features and overall user experience...
-
-This form is designed to be completed by users after interacting with a cognitive application, and its results will help in identifying areas of improvement and enhancement for the application.
-
-Please ensure that this form is not completed by users without prior experience with the application...
-
-</thinking>
-
 # usability_survey_for_cognitive_applications - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with the cognitive application. It helps us identify areas of improvement and enhancement for the application.

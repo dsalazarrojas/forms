@@ -1,5 +1,3 @@
-<thinking>...thinking...</thinking>
-
 # Fast Food Survey - Help Guide
 ## Purpose
 This form is used to collect information about fast food establishments, including their type, size, location, and contact information. It is designed to gather data that can be used for various purposes, such as market research or customer service inquiries.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for ordering a Summer T Shirt. The form includes fields for choosing visuals of the t-shirt, quantity, size preference, shipping address, credit card details, and order notes. This form is likely used for e-commerce or online shopping purposes, where customers can input their preferences and details for a customized or general order. It's essential to review this form's purpose and content to ensure that the instructions provided are clear and concise for end-users.
-</thinking>
-
 # Summer T Shirt Order Form - Help Guide
 ## Purpose
 The Summer T Shirt Order Form is a form used to collect information for ordering a Summer T Shirt from customers.

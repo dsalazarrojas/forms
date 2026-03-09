@@ -1,5 +1,3 @@
-<thinking> 
-The Seasonal Trend Report Form is a crucial tool for analyzing and reporting on seasonal trends in the market. This form is designed to gather essential information on products, sales, and marketing strategies for different seasons. It's essential to fill out this form accurately to provide valuable insights for business decision-making. Please note that the form is divided into several sections, and each field is designed to capture specific information that complements the others. Ensure that you complete all the required fields to ensure the form is submitted correctly. Please make sure that you are filling this form for the correct season and product category. </thinking>
 # Seasonal Trend Report Form - Help Guide
 ## Purpose
 This form is designed to gather information on seasonal trends in the market, including product categories, sales, and marketing strategies. Completing this form will help you provide valuable insights for business decision-making.

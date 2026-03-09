@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who will be completing the homemade_soap_survey_form, which is part of the survey_templates category. This form is designed to gather information about user preferences and satisfaction with various soap products. To ensure the form is completed accurately and thoroughly, please review the following guide before starting.
-</thinking>
-
 # homemade_soap_survey_form - Help Guide
 ## Purpose
 This form is designed to collect data on user preferences for homemade soap products, including purchase location, soap type, price range, purchase frequency, satisfaction level, and other relevant information.

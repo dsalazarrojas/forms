@@ -1,5 +1,3 @@
-<thinking>...This form is designed to gather information from users about their skincare habits and preferences. It's intended to be used for research or marketing purposes, but it's essential to ensure that the user understands the context and relevance of the questions. To avoid duplication of efforts, please only fill out this form once. If you have already completed a similar form, you can disregard this one. Please provide accurate and honest information to help us better understand your skincare needs...</thinking>
-
 # Skincare Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information from users about their skincare habits and preferences.

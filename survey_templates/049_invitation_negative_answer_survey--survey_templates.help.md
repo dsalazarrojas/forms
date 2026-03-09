@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about why they declined an invitation to an event. The "Invitation Negative Answer Survey" form is used to gather data on users' responses to understand the reasons behind their denials. This data can be used to improve future event invitations. This form is not designed to be a mandatory requirement for users, as the fields are marked as optional. However, filling out this form can help provide valuable insights for event planners.
-</thinking>
-
 # Invitation Negative Answer Survey - Help Guide
 ## Purpose
 The "Invitation Negative Answer Survey" form is used to collect information on why users declined an invitation to an event. Providing this information can help event planners understand the reasons behind the denials and make adjustments for future event invitations.

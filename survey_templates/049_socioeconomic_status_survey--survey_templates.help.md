@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "socioeconomic_status_survey" form, which aims to collect information about the household's socioeconomic status. Please ensure that you are taking this survey only once, and not repeating it. If you have already taken this survey, you will not be able to proceed. This form is used to collect data for analysis and research purposes, and all the information you provide will be kept confidential.
-</thinking>
-
 # socioeconomc_status_survey - Help Guide
 ## Purpose
 This form is designed to collect information about the household's socioeconomic status, which is essential for analysis and research purposes. The data collected will help us understand the demographics and characteristics of our target population.

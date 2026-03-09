@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to complete the "Public Policy Research Records Release Form". The form is used to collect information about research projects and their associated records, and it is likely used by researchers to obtain permission to share their research data. This guide will provide step-by-step instructions on how to complete the form, which includes providing contact information, project details, data sharing preferences, and more. Please note that this guide will cover the form's fields and their intended use, but it will not go into details about the research process itself.
-</thinking>
-
 # Public Policy Research Records Release Form - Help Guide
 ## Purpose
 The Public Policy Research Records Release Form is used to collect information about research projects and their associated records. This form is used by researchers to obtain permission to share their research data. By completing this form, you will be providing consent for the release of your research records and data sharing preferences.

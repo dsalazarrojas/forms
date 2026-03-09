@@ -1,6 +1,3 @@
-<thinking> 
-This form is used to assess the mortality themes that an individual has experienced or is likely to experience, based on their answers to various questions in each theme. Each theme consists of two parts: "what is mortality" and "fears and concerns". This form aims to gather information about the individual's perceptions and emotions related to mortality. This form is likely used in research or clinical settings where understanding mortality themes can help professionals provide better care or support. There should not be any overlap between this form and any other assessment or survey form used in the same context, as it is designed to gather unique information.</thinking>
-
 # Mortality Themes Assessment - Help Guide
 
 ## Purpose

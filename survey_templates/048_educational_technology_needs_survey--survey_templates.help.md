@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Educational Technology Needs Survey - Help Guide
 ## Purpose
 This survey is designed to understand the educational technology needs of schools and educators. It will help us gather information on the level of educational technology, departmental needs, and other requirements to better support your institution's educational technology needs.

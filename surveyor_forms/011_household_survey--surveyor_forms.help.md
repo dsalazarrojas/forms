@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect household information from respondents, including demographics, employment status, income, education level, language, and other related details. The form is intended to be completed by household members or a designated representative, and its purpose is to gather data for research or statistical analysis. 
-
-This form should only be filled out once for each household, and not for each individual member. If there are multiple members in the household with different employment status, education level, and other attributes, please select the attribute that best represents the majority or primary household characteristics.
-
-</thinking>
-
 # Household Survey - Help Guide
 ## Purpose
 This form collects household information from respondents, including demographics, employment status, income, education level, language, and other related details, for research or statistical analysis purposes.

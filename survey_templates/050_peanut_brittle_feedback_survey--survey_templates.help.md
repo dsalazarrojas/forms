@@ -1,11 +1,3 @@
-<thinking>
-We have a situation where we need to create a user-facing help guide for a form called "Peanut_Brittle_Feedback_Survey". 
-The form purpose is to collect feedback from customers regarding a product. 
-This form is part of a larger system that handles customer feedback and reviews for product improvement.
-To determine if the form is being correctly filled out, we need to check for form completion and ensure that all required fields are filled in.
-If the form is incomplete or missing any required fields, we need to check for duplication to avoid redundant entries.
-</thinking>
-
 # Peanut_Brittle_Feedback_Survey - Help Guide
 
 ## Purpose

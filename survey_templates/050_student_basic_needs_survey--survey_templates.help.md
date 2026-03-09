@@ -1,9 +1,3 @@
-<thinking>
-
-This is a survey designed for students to report their experiences and needs related to basic needs such as food, shelter, education, health care, and so on. The purpose of this survey is to understand the current state of students' basic needs and gather information on areas where they are struggling or have difficulty accessing these needs. This data will be used to inform initiatives and programs aimed at supporting students' well-being and success.
-
-</thinking>
-
 # Student Basic Needs Survey - Help Guide
 ## Purpose
 This survey aims to understand students' experiences and needs related to basic needs such as food, shelter, education, health care, and more. Your responses will help inform initiatives and programs to support students' well-being and success.

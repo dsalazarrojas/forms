@@ -1,7 +1,3 @@
-<thinking>
-To create this form, we need to consider the purpose and functionality of the form. This form is intended to gather feedback and information from customers about homemade soaps, likely for the purpose of improving or understanding customer preferences. The fields in this form cover various aspects such as customer feedback, rating, and purchase information.
-</thinking>
-
 # Homemade Soap Survey Form Template - Help Guide
 ## Purpose
 The Homemade Soap Survey Form Template is designed to gather information and feedback from customers about homemade soaps. This form helps us understand your experience and preferences, which will aid us in creating better products and services for you.

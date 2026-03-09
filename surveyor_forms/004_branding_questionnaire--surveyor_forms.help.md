@@ -1,11 +1,3 @@
-<thinking>
-
-This form, "Branding Questionnaire," is designed to gather essential information about a brand from a client or company. The purpose of this form is to help designers understand the client's needs, preferences, and expectations for their brand's visual identity and messaging. It is crucial to fill out this form accurately to ensure the designer creates a brand identity that meets the client's goals and expectations.
-
-Before proceeding, please ensure you have read and understood the form's purpose and the questions it contains. If you have any questions or concerns, please contact [form@gic.mx](mailto:form@gic.mx).
-
-</thinking>
-
 # Branding Questionnaire - Help Guide
 ## Purpose
 The Branding Questionnaire is a form designed to gather essential information about a client's brand identity and preferences. This information will be used to create a tailored brand identity that meets the client's goals and expectations.

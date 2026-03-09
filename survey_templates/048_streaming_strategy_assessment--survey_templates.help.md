@@ -1,7 +1,3 @@
-<thinking>
-The form "Streaming Strategy Assessment" is designed to evaluate the streaming habits and performance of creators. It's likely intended for streamers to reflect on their own habits and challenges, and possibly for streamers or streaming platforms to gather insights on how to improve their streaming experience. This form is an AI-generated adaptation of a public survey topic, so it's not affiliated with or endorsed by any specific form platform.
-</thinking>
-
 # Streaming Strategy Assessment - Help Guide
 ## Purpose
 This form helps you assess your streaming habits and identify areas for improvement. It's designed to help streamers evaluate their performance and habits, and potentially help streaming platforms or organizations optimize their streaming experience for their users.

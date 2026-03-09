@@ -1,12 +1,3 @@
-<thinking>
-You are likely trying to create a form that collects data from users to assess their experience with a product or service. This form will collect information on various aspects of their experience, including satisfaction level, product design, product features, and more.
-
-This form is likely used for research or feedback purposes, and the data collected will help you understand the user's perception of your product or service. The form includes a mix of multiple-choice questions, open-ended text fields, and numerical inputs.
-
-To confirm, this form is not for general user registration or login purposes, but rather for collecting specific feedback or data. Is this correct?
-
-Please let me know if I'm right or not. If you'd like me to add or modify anything, feel free to let me know!</thinking>
-
 # User Experience (UX) Assessment Form - Help Guide
 ## Purpose
 The User Experience (UX) Assessment Form is designed to collect information from users about their experience with a product or service. This form will help us understand your satisfaction level, impressions of our product design, and other relevant aspects of your interaction with our product or service.

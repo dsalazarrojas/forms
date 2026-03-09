@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect feedback on extracurricular activities. It is intended to be completed by individuals who have participated in these activities. The form should only be filled out once for each activity. To ensure accurate and efficient data collection, please fill out the form completely and honestly...</thinking>
-
 # extracurricular_activities_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback on extracurricular activities. It is intended to be completed by individuals who have participated in these activities.

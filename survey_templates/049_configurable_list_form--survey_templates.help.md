@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Configurable List Form - Help Guide
 
 ## Purpose

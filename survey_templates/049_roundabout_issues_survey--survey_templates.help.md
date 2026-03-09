@@ -1,9 +1,3 @@
-<thinking>
-This form's purpose is likely related to collecting feedback from users about roundabouts, which are a type of traffic circle or circular intersection. The form's title suggests that it's meant to gather information about issues or concerns users have with roundabouts. I'll assume this form will help gather information about safety concerns, user experience, and possibly suggestions for improvement.
-
-To avoid duplication or irrelevant responses, I'll aim to cover all potential issues with roundabouts that users might face, but I won't be too broad or vague in explanations.
-</thinking>
-
 # Roundabout Issues Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your experiences and concerns regarding roundabouts. We want to know about any issues you've encountered while interacting with roundabouts, which will help us improve the design and functionality of roundabouts in the area.

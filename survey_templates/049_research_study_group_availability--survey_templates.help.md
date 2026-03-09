@@ -1,11 +1,3 @@
-<thinking>
-  The form "research_study_group_availability" is designed to gather information about research study group availability. This form is likely used by researchers to collect data about the availability of participants in a research study group, which can include information like member schedules, meeting formats, contact details, and session durations. This form may be used to prepare for a research study by ensuring that all participants are aware of the meeting formats and session schedules, which can help to optimize the research process.
-
-  To confirm, the purpose of this form is to collect information from participants about their availability. This form is likely used in a research context.
-
-  It's also important to note that the fields in this form may be used in conjunction with other forms, and may need to be filled out only once for each participant.
-</thinking>
-
 # research_study_group_availability - Help Guide
 ## Purpose
 The "research_study_group_availability" form is a tool used by researchers to collect information about participant availability.

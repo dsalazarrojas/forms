@@ -1,12 +1,3 @@
-<thinking>
-We will create a comprehensive help guide for the "Follow Up Survey" form, ensuring that end users understand its purpose, how to complete it, and what each field means. This guide will be concise, concrete, and practical, covering all the necessary details for users to fill out the form accurately and effectively.
-
-We will base the explanation on the provided YAML fields and use a Markdown structure for the help guide. We will also include a "Tips" section for any additional guidance or clarification needed for users to complete the form correctly.
-
-The guide will be divided into four sections: Purpose, How To Complete This Form, Field-by-Field Explanation, and Tips.
-
-</thinking>
-
 # Follow Up Survey - Help Guide
 ## Purpose
 The Follow Up Survey form is designed to gather information from customers after a follow-up action has been taken. This form helps to ensure that the follow-up process is efficient and effective, allowing us to stay in touch with customers and gather feedback.

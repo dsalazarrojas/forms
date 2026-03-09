@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose and importance of this form, and that we don't create confusion by duplicating information or providing unnecessary steps. The Onion Shed Management Survey form is a vital tool for onion farmers to gather essential data about their onion sheds. The form helps track the storage capacity, conditions, and challenges faced during the storage process. By completing this form, users can provide valuable insights into their onion shed's operations, helping them optimize their practices and improve the overall onion storage process.
-
-The form is designed to gather information from onion shed managers, and the provided instructions should guide users through the completion process. The goal is to make it easy for users to understand what the form is asking for and how to provide the necessary information.
-
-To avoid duplication, let's make sure that each field is explained clearly and concisely, and that users understand what is expected from them.
-
-</thinking>
-
 # Onion Shed Management Survey - Help Guide
 ## Purpose
 The Onion Shed Management Survey is a form designed for onion farmers to gather information about their onion sheds, including storage capacity, conditions, and challenges faced during storage. This form helps users optimize their practices and improve the onion storage process.

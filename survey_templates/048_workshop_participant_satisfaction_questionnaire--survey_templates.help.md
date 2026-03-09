@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # workshop_participant_satisfaction_questionnaire - Help Guide
 ## Purpose
 

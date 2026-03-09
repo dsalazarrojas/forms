@@ -1,32 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, we need to ensure that the form's purpose and requirements are clearly explained, and that each field is properly explained. The form is called "Relationship Conflict Survey" and its purpose is likely to collect information about conflicts in relationships. However, we don't know the exact business logic or rules behind the form without further context.
-
-Given the provided YAML fields, we can assume that the form collects information about conflicts in relationships from the perspective of both partners. The form appears to be collecting data on:
-
-* Conflict patterns and frequency
-* Relationship quality
-* Topics of conflict
-* Relationship stage and time in relationship
-* Styles of conflict (aggressive, defensive, blaming, giving up, withdrawal, passive-aggressive)
-* Resolution methods and effort
-* Resolution success rate
-* Relationship satisfaction
-
-The form likely aims to gather data to analyze and provide insights on how conflicts in relationships occur, how they are managed, and what factors contribute to relationship satisfaction.
-
-Before proceeding, let's review the form's fields for any potential issues or areas of confusion.
-
-Upon reviewing the form, I've identified a few areas for consideration:
-
-* The field "conflict_topic_other" has a hint of "null", which suggests it might not be clearly explained. This field could be renamed or rephrased to make it more intuitive.
-* Some fields have a large number of options, which might be overwhelming for users. Consider simplifying the options or providing clear guidance on how to choose the most relevant one.
-* The form does not specify what "null" hints mean. It would be helpful to provide examples or explanations for fields with this hint.
-
-With this analysis in mind, let's create a user-facing help guide for this form.
-
-</thinking>
-
 # Relationship Conflict Survey - Help Guide
 ## Purpose
 This form is designed to collect information about conflicts in relationships from both partners. The goal is to gather data on how conflicts arise, how they are managed, and what factors contribute to relationship satisfaction.

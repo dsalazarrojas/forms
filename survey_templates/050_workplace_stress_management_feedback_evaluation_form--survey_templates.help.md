@@ -1,11 +1,3 @@
-<thinking>
-The internal reasoning block that explains the purpose and checks for relevance and non-duplication of the form.
-
-This form is part of a larger system designed to collect feedback on workplace stress management. The purpose of this form is to evaluate the effectiveness of the current stress management strategies and policies in place within an organization. It is intended to be completed by employees to provide their input on their current stress levels, areas of stress, causes of stress, and suggestions for improvement. The form will help administrators understand where to focus their efforts to reduce stress in the workplace.
-
-This form is likely to be filled out by employees who are experiencing stress or have experienced stress recently. The form should not be filled out by those who have not experienced stress or do not have suggestions for improvement.
-</thinking>
-
 # Workplace Stress Management Feedback Evaluation Form - Help Guide
 ## Purpose
 The workplace stress management feedback evaluation form is designed to collect information from employees on their current stress levels, areas of stress, causes of stress, and suggestions for improvement. This form will help administrators understand where to focus their efforts to reduce stress in the workplace.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to screen for sleep behavior disorder in patients. It assesses various symptoms and questionnaires to help healthcare professionals identify potential cases of sleep behavior disorder. This form is typically used in a clinical setting, such as a hospital or medical office, to gather information about a patient's sleep habits and behaviors. It is essential to complete this form accurately to ensure that the patient's condition is properly assessed and treated.
-</thinking>
-
 # rem_sleep_behavior_disorder_screening_questionnaire - Help Guide
 ## Purpose
 The rem_sleep_behavior_disorder_screening_questionnaire is a form used to screen for sleep behavior disorder in patients.

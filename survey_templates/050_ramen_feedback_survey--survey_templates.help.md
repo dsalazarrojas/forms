@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear and concise explanation of the Ramen Feedback Survey form, its purpose, and how to complete it. The form is designed to gather feedback from customers about their experiences at a restaurant, specifically Ramen. The survey is meant to be filled out by customers who have visited the restaurant and can provide valuable insights into their satisfaction, quality of food, service, ambiance, and overall experience. This guide is intended to help customers complete the form accurately and provide useful feedback to the restaurant.
-
-The survey consists of multiple questions that cover various aspects of the customer's visit, including their overall experience, quality of food, service, ambiance, and whether they would recommend the restaurant to others. The form is designed to be user-friendly and easy to complete, with clear labels and options for each question. The guide will walk users through each field, explaining its purpose and how to complete it effectively.
-
-</thinking>
-
 # Ramen Feedback Survey - Help Guide
 ## Purpose
 The Ramen Feedback Survey is designed to gather feedback from customers about their experiences at the restaurant. The survey aims to understand customer satisfaction, quality of food, service, ambiance, and overall experience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect feedback from parents about their child's experience at summer camp. This form will help the summer camp staff understand what activities and experiences the campers enjoyed the most, what can be improved, and whether the parents would recommend the camp to others. 
 
 This form is designed to be user-friendly and easy to complete, with clear instructions and explanations for each field. By providing your feedback, you will be contributing to the improvement of the camp and helping us better understand your child's experience. Please take a few minutes to complete this form, and thank you for your time!

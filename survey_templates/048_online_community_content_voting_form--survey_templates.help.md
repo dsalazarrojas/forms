@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Community Content Voting Form - Help Guide
 ## Purpose
 The Online Community Content Voting Form is designed to gather feedback from community members on content submitted to the online community. This form helps moderators and administrators to understand user preferences and opinions on various content items.

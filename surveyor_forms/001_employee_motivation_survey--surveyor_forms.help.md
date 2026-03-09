@@ -1,5 +1,3 @@
-<thinking>Our organization wants to understand the level of motivation among its employees to improve work environment and overall performance. This form is designed to gather information from employees about their motivation level, reasons for motivation, and other relevant details. Please ensure that you are filling out this form in the context of your role and position within the organization, and that the information provided is accurate and up-to-date. Please do not fill out this form if you have already done so in the past, as your responses might not reflect the current situation.</thinking>
-
 # Employee Motivation Survey - Help Guide
 ## Purpose
 The Employee Motivation Survey is designed to help your organization understand the level of motivation among its employees and identify areas of improvement. Please answer the questions honestly to provide valuable insights that can lead to a more positive and productive work environment.

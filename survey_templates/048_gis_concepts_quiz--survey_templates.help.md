@@ -1,7 +1,3 @@
-<thinking>
-The form "gis_concepts_quiz" is designed to assess the user's understanding of various geographic information system (GIS) concepts. This form is intended to be completed by individuals with some background in GIS, such as students, researchers, or professionals in the field. The form has four pages, each with a text field for the user to provide their responses.
-</thinking>
-
 # gis_concepts_quiz - Help Guide
 ## Purpose
 This form is designed to test the user's knowledge of GIS concepts.

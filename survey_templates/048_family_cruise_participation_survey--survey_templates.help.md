@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Family Cruise Participation Survey - Help Guide
 
 ## Purpose

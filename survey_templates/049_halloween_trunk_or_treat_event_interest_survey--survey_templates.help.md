@@ -1,10 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the provided YAML fields. The form appears to be designed for collecting information about a Halloween trunk or treat event. The purpose of this form is likely to gather details about the event, such as its name, contact information, location, and other relevant details. This form may be used by event organizers to gather information from attendees and parents about their event.
-
-Upon further analysis, we can see that the form is divided into several sections, each with a specific type of information being requested. For example, there's a section for contact information, a section for event details, and a section for event notes. This suggests that the form is designed to be a comprehensive survey to gather as much information as possible about the event.
-
-Before starting this form, please note that it's recommended to fill out this form carefully and accurately. If you're unsure about any of the questions or fields, please ask the event organizer for clarification.</thinking>
-
 # Halloween Trunk or Treat Event Interest Survey - Help Guide
 
 ## Purpose

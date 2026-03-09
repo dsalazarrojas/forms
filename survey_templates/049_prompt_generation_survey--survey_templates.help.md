@@ -1,9 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "prompt_generation_survey" form that explains its purpose, how to complete it, and what each field means. The form is used for collecting information about a prompt, which is a sequence of words used to trigger a response from a system, model, or user. The form is used to gather details about the prompt, including its topic, category, description, target audience, and purpose. We want to ensure that users understand the intent behind the form and how to fill it out accurately.
-
-We will review the form's properties and fields to provide clear and concise explanations for each section.
-</thinking>
-
 # prompt_generation_survey - Help Guide
 ## Purpose
 

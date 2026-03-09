@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tax File Declaration Form - Help Guide
 ## Purpose
 The Tax File Declaration Form is a tool used to declare and track tax files. This form is designed to help users accurately and efficiently report their tax information. By completing this form, users can ensure that their tax records are up-to-date and compliant with relevant regulations.

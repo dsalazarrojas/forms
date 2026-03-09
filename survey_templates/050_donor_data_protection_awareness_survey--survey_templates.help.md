@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect data from donors about their awareness and understanding of data protection practices. The form is intended to gauge the level of awareness and compliance of donors with respect to their data protection practices. 
-
-This form is part of a larger initiative to protect donor data and ensure that donors are aware of their rights and responsibilities regarding their data. The form is not intended to be a legal document, but rather a tool to educate and inform donors about data protection practices.
-
-Before completing this form, please note that the form is divided into several sections. Each section is designed to gather specific information from donors about their data protection practices. The form should be completed in its entirety, with each section providing a comprehensive overview of the donor's data protection practices.
-
-The form will be reviewed and verified by relevant authorities to ensure that the information provided by donors is accurate and compliant with relevant data protection regulations.
-
-Please take your time to complete the form carefully, and do not hesitate to ask if you have any questions or need clarification on any of the sections.
-
-</thinking>
-
 # Donor Data Protection Awareness Survey - Help Guide
 ## Purpose
 This form is designed to collect data from donors about their awareness and understanding of data protection practices. The form is intended to gauge the level of awareness and compliance of donors with respect to their data protection practices.

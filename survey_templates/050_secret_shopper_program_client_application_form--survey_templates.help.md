@@ -1,7 +1,3 @@
-<thinking>
-This guide is for individuals who want to apply to the Secret Shopper Program as a client. Please note that this form is for new client applications, and we do not use this form for existing client updates. If you already have an account with us, please contact your relationship manager for assistance.
-</thinking>
-
 # Secret Shopper Program Client Application Form - Help Guide
 ## Purpose
 The Secret Shopper Program Client Application Form is a form that helps us understand your business requirements and preferences for our secret shopper program. It allows you to provide us with information about your store, including its address, phone number, hours of operation, and manager's contact information. We will use this information to tailor our program to meet your unique needs and preferences.

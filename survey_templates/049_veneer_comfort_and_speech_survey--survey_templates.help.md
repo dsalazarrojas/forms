@@ -1,6 +1,3 @@
-<thinking>
-The internal reasoning block is here to provide a clear explanation of the form's purpose and how it was designed to be non-duplicative. This form appears to be a survey designed to gather feedback from patients or clients about their experience with a veneer treatment or procedure. The form asks about the patient's comfort level, sensitivity, and overall satisfaction, as well as their ability to speak after the procedure. It also collects additional comments and contact information for follow-up purposes. This form is likely intended to be used in a clinical or dental setting to assess the effectiveness and comfort of the veneer procedure.
-</thinking>
 # Veneer Comfort And Speech Survey - Help Guide
 ## Purpose
 The Veneer Comfort And Speech Survey is a tool used to gather feedback from patients about their experience with a veneer treatment or procedure. This form helps to assess the patient's comfort level, sensitivity, and overall satisfaction, as well as their ability to speak after the procedure.

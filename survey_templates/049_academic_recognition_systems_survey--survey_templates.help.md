@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Academic Recognition Systems Survey - Help Guide
 ## Purpose
 This survey aims to gather information about academic recognition systems, including respondents' roles, awareness of these systems, and their effectiveness and equity. This information will help us understand the strengths and weaknesses of current systems and provide insights for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from users on holiday office hours. It's meant to be used by employees to provide their input on office hours and satisfaction with the current state of office hours. The form is used to gauge user satisfaction and gather suggestions for improvement. Please ensure that you're not filling out this form if you've already done so in the past 30 days.
-</thinking>
-
 # Holiday Office Hours Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on holiday office hours. It helps us understand how employees feel about the current office hours and gather suggestions for improvement.

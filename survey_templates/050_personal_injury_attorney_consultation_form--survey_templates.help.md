@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Injury Attorney Consultation Form - Help Guide
 
 ## Purpose

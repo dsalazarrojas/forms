@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # environmental_impact_assessment_request_form - Help Guide
 
 ## Purpose

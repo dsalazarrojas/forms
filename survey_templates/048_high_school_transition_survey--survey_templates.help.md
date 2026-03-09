@@ -1,13 +1,3 @@
-<thinking>
-The form purpose is to collect feedback and opinions from students, parents, and school administration on the transition process of high school students. This form is designed to gather information on various aspects of the high school transition process, including school background, student information, support systems, resources, student experience, parent experience, school administration, student recommendations, parent recommendations, and comments.
-
-Before using this form, please note that it is an original adaptation created by AI using public metadata and does not copy or use proprietary content from any form platform. It is released under CC BY 4.0, allowing you to freely use, modify, and distribute it.
-
-To avoid duplication, ensure that you have not filled out this form before or have not filled out other forms with similar questions in the past 30 days.
-
-To confirm, this form is for gathering feedback and opinions on the high school transition process, and your input is valuable for improvement.
-</thinking>
-
 # High School Transition Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and opinions from students, parents, and school administration on the transition process of high school students. Your input is valuable for improvement and will help us understand various aspects of the high school transition process.

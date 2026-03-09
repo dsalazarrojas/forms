@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from participants after a 24-hour experience, likely an event or conference. The feedback collected will help organizers evaluate and improve future events.
-- This form is meant to be completed by event participants, not organizers or staff.
-- This form should only be filled out once per participant.
-</thinking>
-
 # 24 Hour Experience Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants after a 24-hour experience event. Your input will help us evaluate and improve future events.

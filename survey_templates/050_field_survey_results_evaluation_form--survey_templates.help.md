@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-To ensure that end users understand the purpose and requirements of this form, it's essential to review its design and functionality. 
+> To ensure that end users understand the purpose and requirements of this form, it's essential to review its design and functionality. 
 
 This form appears to be a collection of questions related to field surveys, likely used for gathering feedback, evaluating, and rating the effectiveness of a field survey program. The form is divided into sections for questions and answers, participants, comments and suggestions, date, time, contact information, and field survey details.
 

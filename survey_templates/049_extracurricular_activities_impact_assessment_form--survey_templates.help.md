@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 ## extracurricular_activities_impact_assessment_form - Help Guide
 
 ## Purpose

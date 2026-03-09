@@ -1,5 +1,3 @@
-<thinking>Are we creating a help guide for a survey form called "Spell Survey"?</thinking>
-
 # Spell Survey - Help Guide
 
 ## Purpose

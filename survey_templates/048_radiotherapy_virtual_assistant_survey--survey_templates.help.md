@@ -1,14 +1,3 @@
-<thinking>
-This form is a feedback survey for the Radiotherapy Virtual Assistant, aiming to gather information about users' experiences and opinions on the virtual assistant's performance. The survey is designed to collect data on various aspects of the virtual assistant, including its user satisfaction, feature usefulness, improvement suggestions, overall experience, contact details, and specific features such as discoverability, interface, response time, and accuracy.
-
-The survey should only be completed by users who have interacted with the virtual assistant, ensuring that feedback is gathered from actual users rather than random individuals.
-
-It is recommended to keep the survey concise and user-friendly, ensuring that users can easily provide their feedback without feeling overwhelmed. The survey should be filled out in a way that allows users to express their genuine opinions and experiences, helping to improve the virtual assistant's performance and user satisfaction.
-
-To avoid duplication, the survey should not be filled out by users who have already completed it before.
-
-</thinking>
-
 # Radiotherapy Virtual Assistant Survey - Help Guide
 
 ## Purpose

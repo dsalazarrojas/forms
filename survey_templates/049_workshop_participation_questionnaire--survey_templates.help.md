@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workshop Participation Questionnaire - Help Guide
 
 ## Purpose

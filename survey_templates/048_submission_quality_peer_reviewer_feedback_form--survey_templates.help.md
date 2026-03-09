@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from peer reviewers on the quality of submissions, providing a structured format for reviewers to share their ratings, comments, and suggestions. The purpose of this form is to facilitate the peer review process and help authors improve their work. To avoid duplication, this form should only be used for submissions that have not been reviewed previously.
-</thinking>
-
 # Submission Quality Peer Reviewer Feedback Form - Help Guide
 ## Purpose
 The Submission Quality Peer Reviewer Feedback Form is used to collect feedback from peer reviewers on the quality of submissions. This form helps authors to improve their work by providing constructive comments and suggestions.

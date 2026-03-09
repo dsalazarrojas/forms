@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by library patrons to suggest new forms for the library's collection. The form is designed to gather information from patrons about the types of forms they would like to see added to the library's collection. Each field is meant to be filled out by the patron, and their suggestions will be reviewed and added to the library's collection if they fit the criteria. To ensure that the library's collection is comprehensive and relevant, we will review each form submission to check for duplication and relevance.
-</thinking>
-
 # Library Patron Suggestion Form - Help Guide
 
 ## Purpose

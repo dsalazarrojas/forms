@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a comprehensive questionnaire designed to help skincare professionals understand the skincare habits, preferences, and concerns of their customers. It aims to gather information on various aspects of skincare, including the types of products used, frequency of use, skin concerns, and purchasing habits. This data can be invaluable in helping skincare professionals create effective and personalized skincare recommendations for their customers.
-
-This questionnaire consists of 18 questions, each designed to collect specific information from the respondent. The form is divided into several sections, including product interests, skin type, skin concerns, skincare frequency, skincare budget, and more.
-
-</thinking>
-
 # Skincare Questionnaire - Help Guide
 ## Purpose
 

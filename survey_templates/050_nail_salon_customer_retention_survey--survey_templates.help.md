@@ -1,5 +1,4 @@
-# <thinking>...</thinking>
-To prevent duplication of effort and ensure accurate information, I will review the form purpose and provide a concise, concrete, and practical help guide for the user.
+# To prevent duplication of effort and ensure accurate information, I will review the form purpose and provide a concise, concrete, and practical help guide for the user.
 </thinking>
 
 # Nail Salon Customer Retention Survey - Help Guide

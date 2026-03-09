@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals interested in getting involved in literary events and programs. It is intended to help organizers and administrators understand the level of interest in these events and tailor their programs accordingly. This form will ask about your name, email, phone number, and other contact details, as well as about your role in the community, the types of events and programs you are interested in, and your preferred frequency of contact. It will also ask about the methods and frequency of follow-up communication you would like.
-Please ensure that you fill out this form only once. If you have already filled out this form, do not submit it again.
-</thinking>
-
 # Literary Involvement Interest Form - Help Guide
 ## Purpose
 This form is designed to help us understand your interests and involvement in literary events and programs. Your input will help us tailor our offerings to better meet your needs and interests.

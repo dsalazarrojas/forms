@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate language functions, likely in the context of language proficiency or language skills assessment. This form is designed to collect information from users about their language abilities, communication skills, and other related aspects. It's essential to ensure that users understand the form's purpose and can provide accurate and relevant answers.
-</thinking>
-
 # Language Function Evaluation Survey - Help Guide
 ## Purpose
 The Language Function Evaluation Survey is designed to assess language functions, including language proficiency, communication skills, and other related aspects. This survey is used to gather information about a language user's abilities, strengths, and areas for improvement.

@@ -1,10 +1,3 @@
-<thinking>
-This guide will help you understand the purpose and usage of the "Online Popularity Survey" form. The form is designed to collect information about online surveys, specifically their titles, descriptions, categories, and status. It is intended for internal use by authorized personnel and is not a public-facing form.
-
-Before proceeding, please ensure that you have the necessary permissions and authorization to access and complete this form.
-
-</thinking>
-
 # Online Popularity Survey - Help Guide
 ## Purpose
 This form is used to collect information about online surveys, specifically their titles, descriptions, categories, and status.

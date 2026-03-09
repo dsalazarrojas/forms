@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from users about their experience with the website interface. It is used to collect information about the user's name, email, feedback, browser, device, operating system, and comment. This form will help us understand how users interact with our website and identify areas for improvement. Please ensure you only submit one form per issue. This form is not meant for general or repetitive issues that can be addressed in a more comprehensive feedback loop.
-</thinking>
-
 # Website Interface Feedback Request Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with the website interface. It helps us understand how users interact with our website and identify areas for improvement.

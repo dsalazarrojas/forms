@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wildlife Health Outreach Effectiveness Survey - Help Guide
 
 ## Purpose

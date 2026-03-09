@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for tax extension purposes. It appears to be related to tax forms, specifically Form 4868, which is a form used for tax extension requests in various countries. This form is likely used by individuals or businesses to request an extension for tax filing deadlines. The purpose of this form is to collect information necessary for processing and approving these requests. I will now create a help guide for this form using the provided YAML fields.
-</thinking>
-
 # Form 4868 Tax Extension Form - Help Guide
 
 ## Purpose

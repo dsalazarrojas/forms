@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'm thinking about the purpose of this "Tester Accountability Survey" form. The form is designed to collect data on the status of test cycles, blockers, and other relevant information from testers. The primary goal is to gather insights on the accountability of testers in terms of their blockers, frequency, impact, type, and other metrics. This data can be used to evaluate the performance of testers and identify areas for improvement. It's essential to ensure that this form is completed accurately and thoroughly to provide reliable data for evaluation and decision-making. Also, I'll check to see if the form fields are not duplicated or overlapping in terms of purpose.</thinking>
-
 # Tester Accountability Survey - Help Guide
 ## Purpose
 The Tester Accountability Survey is a form designed to collect data on the status of test cycles, blockers, and other relevant information from testers to evaluate their performance and identify areas for improvement.

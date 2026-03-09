@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from students about the Student Tutoring Program, allowing program administrators to evaluate the effectiveness and areas for improvement of the program. This form is not intended for immediate program scheduling, but rather for collecting general feedback and comments. Please ensure that you have reviewed this form carefully and only submit it if you have relevant and useful feedback to offer. If you need to provide detailed, time-sensitive feedback, please reach out to program staff directly.
-</thinking>
-
 # Student Tutoring Program Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from students on the Student Tutoring Program, allowing the program to evaluate its effectiveness and areas for improvement.

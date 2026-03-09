@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Survey - Help Guide
 ## Purpose
 This form is a student survey, designed to gather feedback and information from students. Its main purpose is to collect data on students' preferences, perceptions, and experiences. The survey helps us understand your thoughts, opinions, and feelings, providing valuable insights for improving our services.

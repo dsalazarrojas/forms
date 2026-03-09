@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healing Arts Interest Survey - Help Guide
 ## Purpose
 This form is designed to gauge your interest in various healing arts workshops, allowing us to better understand your preferences and availability. By completing this survey, you'll help us tailor future workshop offerings to meet your needs.

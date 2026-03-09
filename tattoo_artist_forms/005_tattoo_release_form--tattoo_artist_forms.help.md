@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from both the tattoo artist and the client for a tattoo release form. The form's purpose is to document important details about the tattooing process, including the artist's and client's contact information, the tattoo design, and the dates related to the tattoo's creation and expiration. This form will help ensure that all parties involved in the tattooing process are on the same page and that the necessary documentation is completed accurately and efficiently. The form's fields are carefully crafted to minimize duplication of effort and to ensure that all required information is collected. The form's layout is designed to be user-friendly and easy to complete.
-
-</thinking>
-
 # tattoo_release_form - Help Guide
 ## Purpose
 This form is used to document the details of a tattooing process, including the artist's and client's contact information, the tattoo design, and the relevant dates.

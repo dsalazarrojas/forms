@@ -1,6 +1,3 @@
-<thinking>
-The "Dad Sweatshirt Order Form" is used to collect information for a custom t-shirt order. To confirm, the purpose of this form is to gather details for a unique, personalized t-shirt, not a regular retail transaction. This form is likely used in an online store or a sales platform for a business that specializes in custom apparel. The form is not intended for mass production or bulk orders, so users should be aware that each form submission will result in a one-off production process.</thinking>
-
 # Dad Sweatshirt Order Form - Help Guide
 ## Purpose
 The Dad Sweatshirt Order Form is designed to collect order details for custom t-shirts. This form is used to gather information for a single, unique order, and users should be aware that each submission will result in a one-off production process.

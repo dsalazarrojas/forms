@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # robotics_and_diversity_impact_survey - Help Guide
 
 ## Purpose

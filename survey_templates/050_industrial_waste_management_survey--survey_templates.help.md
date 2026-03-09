@@ -1,13 +1,3 @@
-<thinking> 
-
-This form is designed to collect information for Industrial Waste Management. It's intended to be a survey for organizations to report their waste management practices and experiences. The goal is to gather data on various aspects of waste management, including challenges, satisfaction, and frequency of review and submission. The form has a mix of required and optional fields, ensuring that respondents provide the necessary information for a comprehensive assessment. 
-
-Please note that this form is not affiliated with any proprietary form platforms, and it's an original adaptation using public metadata as inspiration. It's released under CC BY 4.0, allowing for free use, modification, and even commercial use, as long as credit is given. 
-
-If you have any questions or need more information, feel free to contact form@gic.mx. 
-
-</thinking>
-
 # Industrial Waste Management Survey - Help Guide
 ## Purpose
 This form is designed to collect information about waste management practices, challenges, and experiences from industrial organizations. It's essential to provide accurate and detailed answers to ensure a thorough assessment.

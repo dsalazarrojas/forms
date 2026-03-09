@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather feedback from facility management teams on their satisfaction with the current workflow process and identify areas for improvement. It's intended for teams responsible for managing facilities within an organization. The form asks questions about workflow satisfaction, challenges faced, potential improvement ideas, satisfaction levels, and other relevant aspects of facility management. Please ensure that the form is filled out completely and honestly to provide valuable insights for improvement. This form will not collect any duplicate or redundant data, so please only answer each question once.</thinking>
-
 # Facility Management Workflow Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from facility management teams on their satisfaction with the current workflow process.

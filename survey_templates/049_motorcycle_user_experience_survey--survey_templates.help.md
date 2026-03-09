@@ -1,7 +1,3 @@
-<thinking>
-This form is for capturing motorcycle user experiences, specifically their satisfaction levels and feedback. It's essential to collect this information to improve our understanding of motorcycle user behavior and preferences. Please ensure that you're not duplicating efforts, and this form is not intended to be filled out by those who have already submitted feedback on this topic before.
-</thinking>
-
 # Motorcycle User Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from motorcycle users, focusing on their satisfaction levels and preferences. We'd like to understand their experiences to improve our services and better cater to their needs.

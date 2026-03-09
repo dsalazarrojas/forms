@@ -1,7 +1,3 @@
-<thinking>
-Is this form intended for collecting feedback or opinions from postal workers or customers? Is it a duplicate or an update to an existing form? Does it serve as a template for future surveys? The purpose of this form, as defined in the input schema, seems to be a survey with multiple pages. Each page represents a different section of the survey, and the fields within each page are used to collect specific information. The fields include text, number, note, date, time, and email inputs. The form is likely used to collect feedback or opinions from customers, as there is a "Customer Experience" page.
-</thinking>
-
 # Post Office Survey - Help Guide
 ## Purpose
 The Post Office Survey is a form designed to collect feedback and opinions from customers. It has multiple pages, each representing a different section of the survey.

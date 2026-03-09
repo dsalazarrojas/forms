@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for stock market analysis, collecting feedback from individuals or institutions about their current perceptions and behaviors in the stock market. This form was designed to be adaptable and reusable, allowing for modifications based on specific market or company needs. To ensure consistency in feedback collection, the form follows a standard structure with clear field labels and options. This form is not affiliated with or copied from any other platform, but rather a unique AI-generated adaptation of public survey data.
-
-Before completing the form, please verify that this information accurately reflects your market analysis requirements. If you are unsure, please consult your internal resources or contact the form creators for guidance.
-</thinking>
-
 # Stock Market Analysis Survey - Help Guide
 ## Purpose
 This form is designed to gather your insights and opinions about the stock market, helping to inform our analysis and decision-making process.

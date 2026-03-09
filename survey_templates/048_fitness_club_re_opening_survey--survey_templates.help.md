@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from fitness clubs about their re-opening plans. It is crucial to ensure that the collected data is accurate and comprehensive, as it will help in understanding the club's offerings, membership policies, and operational details. To confirm that the form is filled out correctly, please review the following fields to ensure you have selected all necessary options.
-</thinking>
-
 # Fitness Club Re Opening Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information from fitness clubs about their re-opening plans, including the services offered, membership types, and operational details.

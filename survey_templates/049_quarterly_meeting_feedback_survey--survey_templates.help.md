@@ -1,7 +1,3 @@
-<thinking>
-We'll create a comprehensive help guide for the "Quarterly Meeting Feedback Survey" form to ensure end-users understand its purpose, how to complete it, and what each field means. This guide will be concise and practical, covering all fields and their explanations, and including additional tips for users. We'll draw upon the provided YAML fields to inform our explanations.
-</thinking>
-
 # Quarterly Meeting Feedback Survey - Help Guide
 
 ## Purpose

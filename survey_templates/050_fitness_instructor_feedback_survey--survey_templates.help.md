@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a block explaining the purpose and relevance of the form:
 
 This form is a feedback survey designed to collect information from fitness instructors about their experience and satisfaction with a program. The form asks for the instructor's name, rating, comments, and other information about their experience with the program. This feedback will help us understand the strengths and weaknesses of our programs and improve the overall quality of instruction. 

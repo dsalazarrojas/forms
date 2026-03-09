@@ -1,5 +1,3 @@
-<thinking>Understanding this form's purpose is crucial to complete it successfully. This form is used to collect data on user's menu sequence preferences. It is not a duplicate of any other form, and it's essential to fill it out thoroughly. Please ensure you are filling this form for the right purpose.</thinking>
-
 # menu_sequence_survey - Help Guide
 ## Purpose
 

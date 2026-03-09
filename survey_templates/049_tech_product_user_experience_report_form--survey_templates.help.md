@@ -1,11 +1,3 @@
-<thinking>
-The form "tech_product_user_experience_report_form" seems to be a comprehensive survey to gather user feedback on technical products, focusing on aspects such as user experience, product usability, and support channels. However, I'm not sure what kind of specific technical product is being referred to here. Is this form designed to gather feedback on a specific product, like a software or a hardware device, or is it more general? If more context is provided about the product, I may be able to better guide the creation of the form's help document.
-
-Additionally, it seems that the form fields are quite diverse and may not be mutually exclusive (e.g., "tech_product_usability_features" and "tech_product_usability_features_improvements" seem to be related). I'll need more information about the form's purpose and any potential relationships between fields to better understand how to create a clear and concise help document. Please, provide more context or clarify the form's intent.
-
-If more context is not available, I'll create a generic help guide based on the provided YAML fields, but it may not be as accurate or comprehensive as a more specific guide that takes into account the form's actual purpose and relationships between fields.
-</thinking>
-
 # tech_product_user_experience_report_form - Help Guide
 
 ## Purpose

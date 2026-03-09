@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patriotism And National Identity Quiz - Help Guide
 
 ## Purpose

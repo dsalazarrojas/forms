@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect knowledge from users about Input/Output (IO) modules, which are crucial components in electronics and embedded systems. The purpose of this form is to gather information about the users' understanding of IO modules, including their types, uses, and design principles. The form is composed of six questions that cover various aspects of IO modules, ranging from the basics to more advanced topics.
-</thinking>
-
 # i_o_module_knowledge_quiz - Help Guide
 
 ## Purpose

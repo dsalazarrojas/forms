@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended to prevent duplication of effort and ensure that users understand the purpose and requirements of the "Logistics Service Feedback Questionnaire" form. To complete this form, users will be guided through the following sections.
-
-</thinking>
-
 # Logistics Service Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their logistics service experience. It is used to collect information about their satisfaction and suggestions for improvement.

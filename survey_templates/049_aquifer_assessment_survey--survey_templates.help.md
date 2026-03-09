@@ -1,10 +1,6 @@
 # Aquifer Assessment Survey - Help Guide
 
 ## Purpose
-<thinking>
-We use this form to collect information about aquifers. This form is used by experts in the field to assess the quality and health of an aquifer. The data collected here is used to understand the aquifer's characteristics and identify potential issues.
-</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

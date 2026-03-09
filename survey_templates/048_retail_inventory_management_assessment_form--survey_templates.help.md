@@ -1,5 +1,3 @@
-<thinking>Is the form for evaluating and assessing the effectiveness of the retail inventory management practices in the stores? It seems like it's used to analyze and compare the inventory practices across different stores. This form will help identify strengths and weaknesses, which can be used to improve the overall management and reduce losses. Before starting, double-check if this form is relevant to your current project or task, and avoid filling it out unnecessarily. This form is not intended for general user feedback or general store data collection. Please fill this form if you have specific questions or concerns related to store's inventory practices.</thinking>
-
 # Retail Inventory Management Assessment Form - Help Guide
 ## Purpose
 This form is designed to help evaluate and assess the effectiveness of the retail inventory management practices across different stores. It will help identify strengths and weaknesses, which can be used to improve the overall management and reduce losses.

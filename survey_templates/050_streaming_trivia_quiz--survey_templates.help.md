@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Streaming Trivia Quiz - Help Guide
 
 ## Purpose

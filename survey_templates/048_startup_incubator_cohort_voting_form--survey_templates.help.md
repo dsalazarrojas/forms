@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to collect feedback and scores on various aspects of a startup incubator, including whether the startup is in an incubator, has a mentor, has a review committee, and whether the startup has received scores and feedback from these entities. The form is likely used to monitor and improve the performance of the incubator.
-
-This form is a multi-page form, with some pages being select_multiple or select_one type fields, while others are text or date/time fields. Some fields are required while others are optional. The form does not have a clear structure or organization, which might make it slightly confusing to navigate.
-
-To ensure that the data is valid and useful, it would be beneficial to implement some checks to prevent non-duplication and ensure that users do not select conflicting options. For instance, it would make sense to check that a startup can only be marked as being in an incubator if it actually has a review committee. Also, some fields like incubator_score and mentor_score should have a maximum value to prevent non-sensical ratings.
-
-</thinking>
-
 # startup incubator cohort voting form - Help Guide
 ## Purpose
 The startup incubator cohort voting form is designed to collect feedback and scores on various aspects of a startup incubator.

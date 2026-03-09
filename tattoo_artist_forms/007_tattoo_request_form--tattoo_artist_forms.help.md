@@ -1,7 +1,3 @@
-<thinking>
-...the form is intended to capture information from a customer about their tattoo requests. It's meant to be filled out by customers who are considering getting a tattoo, whether it's for personal or professional reasons. This form will help the tattoo artist to understand the customer's preferences and provide a more personalized experience. Please make sure that you're filling this out for the intended purpose and not for other reasons, as it will affect the quality of service. Also, please note that the form will not be filled out by tattoo artists or staff, as it's intended for customer input only.
-</thinking>
-
 # Tattoo Request Form - Help Guide
 ## Purpose
 This form is to help you, our valued customer, to communicate with our tattoo artists and provide them with the necessary information to create a unique and personalized tattoo design for you.

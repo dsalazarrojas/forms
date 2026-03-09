@@ -1,11 +1,3 @@
-<thinking>
-The "Superlative Selection Survey" form is designed to collect information about awards and nominees. This form is part of an evaluation process, possibly for an academic or professional setting, and aims to gather details about the schools and individuals involved in award nominations. To ensure that this guide is helpful, it is assumed that you are using this form to collect award nominations for a specific purpose, such as for a recognition or appreciation ceremony. 
-
-The form is likely intended for schools to fill out on behalf of students, teachers, or staff members who have been nominated for an award. The fields are organized into categories, with some fields asking for details about the nominator (the person nominating the award) and others for the nominee (the person being nominated). 
-
-This guide is designed to walk you through each field of the form, providing explanations for each label to help you complete it correctly and efficiently. It is recommended to review this guide carefully before starting the form to ensure that you have all the necessary information ready.
-</thinking>
-
 # Superlative Selection Survey - Help Guide
 ## Purpose
 The "Superlative Selection Survey" form is used to collect information about awards and nominations. This form is part of an evaluation process for recognizing and appreciating outstanding individuals within an organization or school.

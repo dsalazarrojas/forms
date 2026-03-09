@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mental-health-in-volunteerism-survey - Help Guide
 ## Purpose
 The mental health in volunteerism survey is a tool for understanding how volunteering affects the mental health and well-being of individuals. It aims to gather information on various aspects of mental health, such as emotional stress, burnout, and self-care activities.

@@ -1,7 +1,3 @@
-<thinking>What is the purpose of the form and how can I create a user-facing help guide that is concise and practical?
-The form is for customer retention survey, which likely aims to collect feedback from customers about their experience with the company.
-</thinking>
-
 # customer_retention_survey - Help Guide
 ## Purpose
 The customer retention survey aims to collect feedback from customers about their experience with the company. This feedback will help the company understand the customer's satisfaction with the services and products provided.

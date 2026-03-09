@@ -1,11 +1,3 @@
-<thinking>
-The "Culinary Course Feedback Poll" form is designed to collect feedback from users who have taken a course on culinary arts. The form asks for ratings, opinions, and comments on various aspects of the course, including the content, instructor, and overall experience. This feedback is crucial for improving future courses and providing better services to users. This form is intended to be completed by users who have taken the course and are willing to share their thoughts and suggestions. The form is not designed for users to provide general feedback or comments unrelated to the course they took.
-
-Before completing the form, please ensure that you have taken the course and are providing feedback related to the specific course you attended. The form will ask for details such as the course title, ratings, and comments, which will help us understand your experience and identify areas of improvement.
-
-Please note that some fields are marked as "required", which means they are compulsory to fill in for the form to be submitted successfully. Make sure to fill in all required fields to provide accurate and complete feedback.
-</thinking>
-
 # Culinary Course Feedback Poll - Help Guide
 ## Purpose
 The Culinary Course Feedback Poll form is designed to collect feedback from users who have taken a course on culinary arts. This feedback is crucial for improving future courses and providing better services to users.

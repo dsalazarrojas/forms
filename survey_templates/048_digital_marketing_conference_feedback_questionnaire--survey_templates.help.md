@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and opinions from attendees of a digital marketing conference. It's designed to gather information on various aspects of the conference, including attendee details, session ratings, and general comments. This form aims to understand the attendees' experiences and opinions to help improve future conferences.
-
-This form is a unique creation based on public survey topic metadata and is released under a Creative Commons license, allowing users to freely use, modify, and distribute the form.
-
-This form is not affiliated with or endorsed by any form platform, and its design and structure are original, not copied or extracted from any other form creation, data collection, or survey platform.
-</thinking>
-
 # Digital Marketing Conference Feedback Questionnaire - Help Guide
 ## Purpose
 The Digital Marketing Conference Feedback Questionnaire is designed to collect feedback and opinions from attendees of the conference. Its purpose is to gather information on various aspects of the conference to help improve future events.

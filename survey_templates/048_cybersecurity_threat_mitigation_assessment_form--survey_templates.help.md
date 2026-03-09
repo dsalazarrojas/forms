@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to aid in the assessment of cybersecurity threat mitigation strategies for a company. The form is part of a larger process used to identify and prioritize potential risks. By filling out this form, users will be able to:
-- Identify areas where the company's cybersecurity posture needs improvement
-- Assess potential threats and assign risk scores
-- Determine the most effective security controls and mitigation strategies
-
-To avoid duplication of effort, users are advised to only complete this form if they have been authorized to do so and are familiar with the company's current cybersecurity posture and procedures.
-
-</thinking>
-
 # cybersecurity_threat_mitigation_assessment_form - Help Guide
 ## Purpose
 This form is designed to aid in the assessment of cybersecurity threat mitigation strategies for a company.

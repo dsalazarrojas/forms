@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to gather data on the efficiency and performance of facilities in a specific location. The form is designed to collect information on various aspects of facility operations, such as energy usage, maintenance spend, maintenance schedule, and more. It is likely that this form is used to analyze and optimize facility operations, identify potential areas of improvement, and make informed decisions. 
-
-Please confirm that this form is relevant to your needs and that you have not already created a similar form to achieve the same purpose. If you have, please provide more information on the differences between this form and the previous one so that I can provide more tailored guidance. 
-
-If this form is a new requirement, please note that it is intended to be a comprehensive assessment of facility efficiency and performance, and the information gathered will be used to inform strategic decisions. 
-
-Please let me know if you have any further questions or if there's anything else I can help with.
-</thinking>
-
 # Facility Efficiency Analysis Report Form - Help Guide
 ## Purpose
 The Facility Efficiency Analysis Report Form is used to collect data on the efficiency and performance of facilities in a specific location.

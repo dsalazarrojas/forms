@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions from users about a newspaper, allowing the newspaper to understand their readers' perceptions and preferences. The purpose of this form is to gather information that can help improve the newspaper's content, design, and overall user experience. This form is not intended to be used for any other purpose.
-</thinking>
-
 # Newspaper Survey - Help Guide
 ## Purpose
 This guide is to help you complete the Newspaper Survey form in a way that provides valuable and useful feedback for our newspaper.

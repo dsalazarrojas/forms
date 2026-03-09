@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a tool for resolving vendor disputes in a structured and organized manner. It is meant to be filled out by a user in response to a vendor dispute, and is intended to gather information about the dispute from the user's perspective. This form should only be filled out once per dispute, and should not be duplicated or repeated.
-</thinking>
-
 # Vendor Dispute Resolution Survey - Help Guide
 ## Purpose
 This form is used to collect information about a vendor dispute from the user's perspective. It is meant to be a tool for resolving the dispute in a structured and organized manner.

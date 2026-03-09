@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect demographic information and feedback from magazine readers. It is used to gather insights into the reader's preferences, interests, and demographics. The data collected will help the magazine team better understand their audience and create content that is relevant to their needs.
-</thinking>
-
 # magazine_reader_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect demographic information and feedback from magazine readers. It is used to gather insights into the reader's preferences, interests, and demographics.

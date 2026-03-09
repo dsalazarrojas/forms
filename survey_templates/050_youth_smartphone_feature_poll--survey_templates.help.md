@@ -1,10 +1,4 @@
-## <thinking>
-
-This form is designed to collect opinions on the preferences and habits of young individuals regarding smartphones. It is intended to gather data on the age group, current smartphone brand, primary reason for buying a smartphone, and desired features in a smartphone. This form is likely used for market research or product development purposes, and it's essential to understand its purpose and how to fill it correctly to provide valuable insights. Please ensure this form is not filled out multiple times by the same individual.
-
-</thinking>
-
-# Youth Smartphone Feature Poll - Help Guide
+## # Youth Smartphone Feature Poll - Help Guide
 
 ## Purpose
 The purpose of this form is to collect opinions and preferences from young individuals on their smartphone usage and desired features.

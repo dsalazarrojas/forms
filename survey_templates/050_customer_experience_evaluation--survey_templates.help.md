@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect customer feedback and ratings on the quality of experience provided to them by your company. This form will help to identify areas of improvement and areas of success in customer service. It will also help to understand customer expectations and provide a channel for them to communicate their needs and preferences. This form should only be filled out by customers who have had an interaction with your company, and the form should be filled out in its entirety. If a customer has already provided feedback or filled out a similar form, it would be best not to have them fill out this form as well to avoid duplication of effort and data.</thinking>
-
 # Customer Experience Evaluation - Help Guide
 ## Purpose
 This form is used to collect feedback and ratings from customers on their experience with your company, helping to identify areas of improvement and areas of success in customer service.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information about the lead generation practices within departments. It's a survey aimed at understanding how teams currently approach lead generation, identify areas where they can improve, and determine key contributors to this process. This form should be filled out by team members or department heads to provide valuable insights into their lead generation processes. Please ensure that you're not duplicating the survey for the same department, as this may skew the results.</thinking>
-
 # Lead Generation Survey - Help Guide
 ## Purpose
 This form is designed to gather information about the lead generation practices within departments. It's a survey aimed at understanding how teams currently approach lead generation, identify areas where they can improve, and determine key contributors to this process.

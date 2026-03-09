@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to gather suggestions for training topics from users. It's intended for users to input their preferred format for the training (video, in-person, or online) and list specific topics or subject areas they're interested in. The goal is to collect information that can be used to create relevant and engaging training content. Please make sure to only complete this form if you have a genuine interest in suggesting topics and formats for training.
-</thinking>
-
 # Training Topic Suggestions - Help Guide
 ## Purpose
 This form is designed to gather suggestions for training topics from users. It's intended for users to input their preferred format for the training and list specific topics or subject areas they're interested in.

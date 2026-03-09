@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect feedback from customers and other users about their experience with the Voice Agent, which is a crucial aspect of customer service. The feedback collected will help the team improve their communication style, problem resolution, tone, and overall service delivery. To ensure the feedback is helpful, please make sure to answer the questions honestly and thoroughly, and avoid duplication of effort by not submitting the same feedback multiple times. Please note that some questions are optional and only required for specific use cases. Thank you for taking the time to help us improve!</thinking>
-
 # Voice Agent Evaluation Survey - Help Guide
 ## Purpose
 The Voice Agent Evaluation Survey is designed to collect feedback from customers and other users about their experience with the Voice Agent, which is a crucial aspect of customer service. The feedback collected will help the team improve their communication style, problem resolution, tone, and overall service delivery.

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "Youth Empowerment Assessment" form. This form is designed to assess various aspects of youth empowerment programs and services offered by organizations. To complete this form, users will need to answer a series of questions that help evaluate the effectiveness and quality of these programs.</thinking>
-
 # Youth Empowerment Assessment - Help Guide
 
 ## Purpose

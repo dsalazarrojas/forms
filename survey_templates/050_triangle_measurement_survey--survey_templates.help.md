@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Triangle Measurement Survey" form.</thinking>
-
 # Triangle Measurement Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on a survey related to measuring a triangle. It has been created to gather information on the best way to measure a triangle, the ease of use of the method, the role of the user in using the survey, and other relevant details such as the accuracy of the data collected and the frequency of use. The form is divided into several pages, each addressing a specific aspect of the survey.

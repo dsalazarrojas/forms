@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Youth And Eternity Feedback Form - Help Guide
 ## Purpose
 The Youth And Eternity Feedback Form is designed to gather feedback from individuals about their experience with the "Youth And Eternity" program. This form is intended to be completed by program participants to provide their thoughts, feelings, and feedback on the program.

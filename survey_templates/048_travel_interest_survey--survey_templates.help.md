@@ -1,5 +1,3 @@
-<thinking>Before creating the help document, let's take a moment to understand the purpose and structure of this form. The Travel Interest Survey is designed to collect information about users' travel experiences, preferences, and interests. It's likely used for market research, travel industry analysis, or customer profiling purposes. This form has a mix of single- and multi-select fields, as well as fields for free-text input and date entry. We'll make sure to explain each field in a clear and concise manner.</thinking>
-
 # Travel Interest Survey - Help Guide
 
 ## Purpose

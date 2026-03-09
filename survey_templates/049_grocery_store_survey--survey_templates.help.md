@@ -1,33 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their experience with a grocery store. The purpose of this form is to collect data on the store's appearance, service, products, and overall quality. This form is intended for internal use within the organization and is not meant to be shared publicly. The form is not intended to be used as a legal document or a binding agreement. The content of this form is not intended to be used in any way that could be considered discriminatory or biased. Please ensure that you understand the purpose and intent of this form before proceeding.
-
-The questions and answers provided are based on the input schema and are intended to guide the user through the form's fields.
-
-Please ensure that you are familiar with the store you are surveying before completing this form.
-
-Before filling out this form, please ensure that you are providing your honest and accurate feedback.
-
-This form will take a few minutes to complete. Please answer the questions truthfully and to the best of your ability.
-
-If you have any issues or concerns, please reach out to the store management for assistance.
-
-If you have any additional comments or feedback, please use the "Additional Comments" field to provide them.
-
-Please note that the "Time Spent" field requires numerical input. Please ensure that you enter the time spent at the store correctly.
-
-Please select the correct options for each question based on your experience at the store.
-
-If you are unsure about any of the questions, please ask the store staff for assistance.
-
-Please ensure that you provide your feedback for each question before proceeding to the next.
-
-If you are unable to complete this form, please contact the store management.
-
-Please be as specific as possible when providing your feedback.
-
-Thank you for taking the time to complete this survey.
-</thinking>
-
 # Grocery Store Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from customers about their experience with a grocery store. It is intended for internal use within the organization and is not meant to be shared publicly.

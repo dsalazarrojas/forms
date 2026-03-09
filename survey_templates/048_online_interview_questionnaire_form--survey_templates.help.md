@@ -1,5 +1,3 @@
-<thinking>**This form is designed to collect contact information from online interview participants**. It is meant to be filled out by individuals who have been invited to participate in an online interview. **Please note that all fields are required except for the Job Position field.**</thinking>
-
 # online_interview_questionnaire_form - Help Guide
 ## Purpose
 This form is used to gather contact information from online interview participants, including their First Name, Email, Phone Number, Job Position (if applicable), and Department (if applicable).

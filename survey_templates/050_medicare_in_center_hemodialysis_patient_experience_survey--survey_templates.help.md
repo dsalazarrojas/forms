@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to measure the patient's experience with hemodialysis services at an in-center dialysis unit. It is not to be used as a replacement for other forms, and should only be completed by patients who have received hemodialysis services in the past 30 days. This form is meant to be used for research purposes only.
-</thinking>
-
 # Medicare In Center Hemodialysis Patient Experience Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experience with hemodialysis services at our center. Your feedback will help us better understand your needs and provide more effective care.

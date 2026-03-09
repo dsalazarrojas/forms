@@ -1,13 +1,3 @@
-<thinking>
-
-As a form designer and technical writer, my goal is to create an easy-to-understand user guide for the Vacant Land Listing Survey form. To do this, I will carefully review the provided YAML structure and provide a clear and concise explanation for each field. 
-
-Upon reviewing the YAML, I notice that the form is designed to collect information about vacant land listings, including details about the land, location, property, and contact information. The form appears to be designed for surveyors or land managers to collect data for land listings.
-
-Before creating the guide, I will review the fields to ensure that I understand the context and purpose of each field. I will then provide a clear and concise explanation for each field, avoiding any unsupported business logic or assumptions.
-
-</thinking>
-
 # Vacant Land Listing Survey - Help Guide
 
 ## Purpose

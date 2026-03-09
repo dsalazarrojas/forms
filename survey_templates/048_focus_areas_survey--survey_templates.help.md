@@ -1,11 +1,3 @@
-<thinking>
-A focus_areas_survey form is used to gather information on a user's focus areas, which are specific aspects of their work or life that they want to improve or concentrate on. This form helps to identify areas where the user needs more focus, and to prioritize them. It is essential to complete this form accurately to help the user gain a clear understanding of their focus areas.
-
-To avoid duplication and ensure that the form is completed correctly, it's crucial to review the form carefully and answer the questions based on your actual focus areas. If you're unsure about any of the questions, please clarify your understanding before proceeding.
-
-It is also a good idea to review the focus_areas_survey form regularly to monitor any changes in your focus areas over time.
-</thinking>
-
 # focus_areas_survey - Help Guide
 ## Purpose
 The focus_areas_survey form is used to gather information on your focus areas, which are specific aspects of your work or life that you want to improve or concentrate on.

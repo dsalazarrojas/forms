@@ -1,7 +1,3 @@
-<thinking>
-We'll create a user-facing help guide for the Dyadic Communication Assessment Form. This form is used to assess the level of communication between two individuals, typically in the context of dyadic communication research or studies. The form is designed to collect information on the support level and communication level of two individuals, their feedback, and any comments or observations. It may also collect information on the date and time of submission.
-</thinking>
-
 # Dyadic Communication Assessment Form - Help Guide
 ## Purpose
 The Dyadic Communication Assessment Form is used to assess the level of communication between two individuals. This form is designed to collect information on the support level and communication level of two individuals, their feedback, and any comments or observations.

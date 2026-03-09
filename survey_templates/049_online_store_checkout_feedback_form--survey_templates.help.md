@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect customer feedback and ratings after an online store purchase. It will help identify areas of improvement and ensure customers' satisfaction with their shopping experience. Before filling this form, please ensure that you're not duplicating a similar feedback or survey. This form will be reviewed and acted upon by the store management to better serve customers in the future.
-</thinking>
-
 # online_store_checkout_feedback_form - Help Guide
 ## Purpose
 The online store checkout feedback form is a tool to gather customer opinions and ratings after a purchase. This information will help the store management to better understand customer needs and preferences.

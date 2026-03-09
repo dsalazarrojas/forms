@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to create a historical camps knowledge quiz for learners. It's intended to gather information about learners' knowledge on historical camps, focusing on categorization, dates, and personal contact information. This form will be used to collect data for educational purposes, specifically to evaluate learners' understanding of historical events.
-</thinking>
-
 # Historical Camps Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to gather information about learners' knowledge on historical camps.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a standardized template for collecting information from parents and guardians to purchase school T-shirts. It aims to streamline the process of ordering school merchandise and ensures that all necessary details are captured accurately. This form will be used for both new and existing customers, so please ensure that all fields are filled out correctly.
-</thinking>
-
 # School T Shirt Purchase Form - Help Guide
 ## Purpose
 The School T Shirt Purchase Form is a standardized template for collecting information from parents and guardians to purchase school T-shirts. It is designed to gather all necessary details accurately and efficiently.

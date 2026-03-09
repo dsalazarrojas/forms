@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cybersecurity Threat Report Form - Help Guide
 ## Purpose
 The Cybersecurity Threat Report Form is a tool used to collect information about potential or actual threats to your organization's cybersecurity. This form helps gather essential details about the nature and frequency of threats, their impact, and the methods used to resolve them. It also captures information on how threats are reported and resolved.

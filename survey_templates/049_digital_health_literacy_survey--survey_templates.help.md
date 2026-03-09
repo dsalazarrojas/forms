@@ -1,14 +1,3 @@
-<thinking>
-This form, called "digital_health_literacy_survey", aims to gather information about an individual's health literacy. The purpose of this form is to collect data on various aspects of health care, including demographics, medical history, and interactions with healthcare providers. It is essential to complete this form accurately to ensure the collected data is reliable and useful for research or other purposes.
-
-Please note that this form is part of a larger project, and it's possible that some questions might be redundant or overlap with others. However, this form has been designed to collect comprehensive data on various health-related topics.
-
-Before proceeding, please ensure you have a clear understanding of each question and its relevance to your specific situation. If you're unsure about any question, please don't hesitate to ask for clarification.
-
-This guide will walk you through each section of the form, explaining what each field is for and how to complete it accurately.
-
-</thinking>
-
 # digital_health_literacy_survey - Help Guide
 ## Purpose
 This form is designed to collect data on an individual's health literacy. It is essential to complete this form accurately to provide reliable data for research or other purposes.

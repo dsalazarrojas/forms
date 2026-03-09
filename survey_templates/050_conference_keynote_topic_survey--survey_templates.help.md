@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from conference attendees on their preferences for keynote topics, speakers, and session formats. This will help the conference planning committee better understand the interests and needs of the attendees and tailor the keynote sessions accordingly. Please ensure you are completing this form only if you are an actual attendee of the conference. If you are a non-attendee, your input will not be included in the analysis.
-</thinking>
-
 # Conference Keynote Topic Survey - Help Guide
 ## Purpose
 

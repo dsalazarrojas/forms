@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # vaccination_schedule_inquiry_form - Help Guide
 ## Purpose
 This form is designed to collect information from patients about their vaccination schedule. It is used to gather details such as patient name, contact number, date of birth, vaccination history, schedule date and time, preferred language, schedule method, and follow-up reminders preferences.

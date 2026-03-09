@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is designed to gather feedback on a presentation from a user. The purpose of this form is to collect information about the user's experience with the presentation, including their rating, comment, questions, and contact information. This form is intended for internal use and will not be made publicly available. It is expected that the user has already viewed the presentation and is providing feedback based on their genuine experience.
-
-</thinking>
-
 # Presentation Survey - Help Guide
 ## Purpose
 This guide will walk you through the Presentation Survey form, explaining its purpose and how to complete it.

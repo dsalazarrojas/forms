@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the creation of a new T Shirt order, allowing customers to provide their information and preferences for a customized T Shirt. It's essential to ensure that the form is completed accurately to avoid any issues with the order. To the best of my knowledge, this form does not have any existing documentation or guides available, so we'll aim to create a comprehensive help guide that covers all aspects of the form.
-</thinking>
-
 # T Shirt Order Form - Help Guide
 ## Purpose
 The T Shirt Order Form is designed to gather information required for a T Shirt order, including customer details and order specifics, such as T Shirt designs, quantities, and payment information. 

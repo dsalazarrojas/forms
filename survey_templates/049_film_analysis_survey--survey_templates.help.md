@@ -1,7 +1,3 @@
-<thinking>
-This is a form to collect user feedback on films, likely for a movie theater or cinema. The form is designed to gather information on the user's rating and reflections about their viewing experience. To ensure accurate and relevant feedback, please only fill out this form for films you have recently watched. Avoid filling out the form multiple times for the same film, as this can create duplicate entries and skew the analysis. 
-</thinking>
-
 # Film Analysis Survey - Help Guide
 ## Purpose
 This form is designed to collect user feedback on films, allowing us to understand your viewing preferences and improve our movie selection. We appreciate your honesty and insights!

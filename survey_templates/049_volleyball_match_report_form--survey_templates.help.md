@@ -1,7 +1,3 @@
-<thinking>
-The Volleyball Match Report Form is used for reporting on the details of a volleyball match, including match date, time, location, scores, and other relevant information. This form is meant to be completed by coaches, players, or officials after a match, and the collected data will be used for analysis and review. This form should not be used for duplicate reporting, as this can lead to confusion and inaccuracies in the record-keeping process. Please make sure to report only the most accurate and up-to-date information available.
-</thinking>
-
 # Volleyball Match Report Form - Help Guide
 ## Purpose
 The Volleyball Match Report Form is used for reporting on the details of a volleyball match. It provides a structured format to document match dates, times, scores, and other relevant information.

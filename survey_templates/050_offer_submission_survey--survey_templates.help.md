@@ -1,5 +1,3 @@
-<thinking>Is this form intended for users to submit their proposals for review and evaluation? It appears that the form is designed to gather information about offer submissions, including dates, team members involved, evaluation criteria, and comments. The form might be used to track and manage the review and evaluation process for these submissions. However, without more specific information about the form's purpose and usage, it's difficult to determine its exact use case. It's also unclear whether the form is meant for internal use only or if it's intended for external users. It's possible that the form is part of a larger workflow or system for managing and evaluating offer submissions. To confirm, can you provide more context or clarify the form's purpose?</thinking>
-
 # Offer Submission Survey - Help Guide
 ## Purpose
 The Offer Submission Survey is designed to gather information about offer submissions, including dates, team members involved, evaluation criteria, and comments. This form might be used to track and manage the review and evaluation process for offer submissions.

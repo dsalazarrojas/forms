@@ -1,9 +1,3 @@
-<thinking>
-This guide will help you understand the purpose and structure of the Doctor Appointment Feedback Form. The form is designed to gather feedback from patients about their experiences with their doctors, with the aim of improving the quality of care provided. It is not necessary to complete this form, but your feedback will help us better understand what we are doing well and where we can improve.
-
-Before starting, make sure that you have not already filled out this form for this doctor. Your feedback is valuable, but we can only use it to improve if it is unique.
-</thinking>
-
 # Doctor Appointment Feedback Form - Help Guide
 ## Purpose
 The Doctor Appointment Feedback Form is designed to gather feedback from patients about their experiences with their doctors. Your feedback will help us understand what we are doing well and where we can improve.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the growth potential of a company. It is intended to gather information about the company's size, industry, product or service, and challenges, as well as their current and desired relationships with contacts. The form is used to understand the company's growth opportunities and challenges, their solutions, next steps, and overall satisfaction with the company's dynamics. Please ensure you are filling out the form for the right company. If you have previously filled out this form for this company, you don't need to fill it out again. Please answer the questions honestly and thoroughly. This form is meant to help us understand your company's growth potential and dynamics, and will not be used for any other purpose.
-</thinking>
-
 # Growth Potential Assessment Form - Help Guide
 ## Purpose
 The Growth Potential Assessment Form is designed to help us understand your company's growth potential and dynamics. It's meant to be filled out by the company representative, and will help us assess the company's size, industry, product or service, and relationships with contacts.

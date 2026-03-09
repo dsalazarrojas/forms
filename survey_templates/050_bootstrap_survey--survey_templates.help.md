@@ -1,14 +1,3 @@
-<thinking>
-To determine the purpose of this form, we analyze the input YAML fields. The form appears to be a survey template with questions about user experience and feedback regarding a website's performance, design, and content quality. This survey likely aims to gather data on website visitors' opinions to help the site's developers and administrators make informed decisions on improvements.
-
-We also observe that several questions require responses, while others are optional. We need to ensure that users understand the distinction between required and optional fields.
-
-The form fields appear to cover various aspects of user experience, including navigation, website design, content quality, and overall performance. We should consider including a section to address potential issues and suggestions.
-
-To prevent duplication, we will emphasize that users should only answer the questions once.
-
-</thinking>
-
 # Bootstrap Survey - Help Guide
 ## Purpose
 This survey is designed to gather your opinions and experiences about our website. Your feedback will help us understand how to improve and better serve you.

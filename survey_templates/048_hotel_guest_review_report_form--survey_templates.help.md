@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a generic form for collecting user feedback or data for a survey. The purpose of this form is to gather information from users on various topics, likely for research or analysis. The form consists of 9 pages, each with its own set of fields. To complete this form, the user will need to navigate through each page, filling out the required fields for each page.
-
-To avoid duplication, ensure that you have not completed this form recently or are not logged in as the same user. If you are a returning user, you may need to clear your browser cookies or log out and log back in.
-
-The form will not submit automatically, so be sure to click the "Submit" button at the end of the form to send your data to the server.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This guide will walk you through the fields and steps to complete the survey form.

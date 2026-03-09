@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a survey template designed to assess the costs associated with In Vitro Fertilization (IVF) treatments. The form may be used by healthcare professionals or clinics to gather information from patients about their insurance coverage, financial situation, medical history, and treatment interests. The form might be used to determine the feasibility of IVF treatment for a patient, taking into account their individual circumstances. However, without further context or business logic, it's impossible to determine the exact purpose and scope of this form. Therefore, I'll provide a general help guide based on the provided YAML fields.
-</thinking>
-
 # IVF Cost Assessment Survey - Help Guide
 ## Purpose
 The IVF Cost Assessment Survey is designed to collect information from patients about their insurance coverage, financial situation, medical history, and treatment interests related to In Vitro Fertilization (IVF) treatments. This information will help healthcare professionals determine the feasibility of IVF treatment for each patient.

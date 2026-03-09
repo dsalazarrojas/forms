@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist soccer players in providing feedback on their experience at a soccer event. This form is not required, and respondents may choose to provide as much or as little information as they feel comfortable sharing.
-</thinking>
-
 # Soccer Experience Feedback Survey - Help Guide
 ## Purpose
 This guide will walk you through the Soccer Experience Feedback Survey, a form designed to collect your thoughts and opinions on your recent soccer experience.

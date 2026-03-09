@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sales Period Selection Form - Help Guide
 
 ## Purpose

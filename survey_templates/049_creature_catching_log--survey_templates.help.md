@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information on creatures caught for research purposes. The form's title, "Creature Catching Log," suggests that it is used to record and document the capture of creatures in a structured and systematic way. The fields in this form appear to be designed to gather information on the species caught, the date and time of capture, any photographs taken, as well as any additional notes or details about the creature and the capture location. This form may be used by researchers or fieldworkers to record and track the data on creature captures for further analysis and study.
-
-Upon reviewing the form fields, it seems that the form is not overly complex, with most fields being optional. The species field appears to be a simple select_one field with three options: Cat, Dog, and Bird. The capture_date and capture_time fields suggest that the form is designed to record the timing of the creature capture. The photo field is a text field, implying that it may be used to attach or describe a photo of the creature. The location field is also a text field, which could be used to record the location where the creature was caught.
-
-The researcher field is also a text field, which may be used to record the name or details of the person or team responsible for the capture. Finally, the notes field is a text field that likely allows for additional comments or observations about the creature and its capture.
-
-It seems that the form is designed for relatively simple data collection and documentation, without requiring complex calculations or conditional logic. Therefore, the purpose of the form is likely to provide a straightforward and efficient way to record creature capture data for research or study purposes.
-</thinking>
-
 # Creature Catching Log - Help Guide
 ## Purpose
 This form is designed to collect information on creatures caught for research purposes. It is intended to be a simple and structured way to record and document the capture of creatures.

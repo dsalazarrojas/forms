@@ -1,8 +1,3 @@
-<thinking>
-**Context:** We're creating a form to collect feedback on the software update. The form is used to gauge user satisfaction and help us understand areas for improvement.
-**Check for duplicates:** This form is not a survey in the classical sense. We're not collecting data for analytical purposes or creating a comprehensive report. This form is primarily meant to collect feedback from end-users and help us understand their experiences with the software update. We'll be using this feedback to identify areas where we can improve the update process.
-</thinking>
-
 # Software Update User Satisfaction Assessment - Help Guide
 ## Purpose
 This form is designed to collect feedback from end-users about their experience with the software update. Your input will help us improve the update process and make it more satisfactory for you and future users.

@@ -1,5 +1,3 @@
-<thinking>... This form aims to gather opinions on effective conflict resolution, power sharing models, community involvement, decision-making processes, and other factors related to political power sharing. It is not designed to measure opinions on a specific political context or entity, so please respond based on general principles and experiences. To avoid duplication of responses, please only take the survey once. Please ensure that your responses reflect your genuine thoughts and opinions. ...</thinking>
-
 # Political Power Sharing Survey - Help Guide
 ## Purpose
 This form gathers your opinions on various aspects of political power sharing, including conflict resolution, models, community involvement, decision-making processes, and more.

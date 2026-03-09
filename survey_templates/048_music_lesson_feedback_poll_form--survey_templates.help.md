@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Music Lesson Feedback Poll Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from students about their recent music lessons. It helps us understand how you perceive the quality of our lessons, identify areas for improvement, and gather suggestions from students like you! Please take a few minutes to fill out this form and help us make our music lessons even more enjoyable and effective for everyone.

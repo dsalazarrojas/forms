@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from team members or collaborators who have worked on a specific project or team. It's meant to evaluate how well they performed in their role and identify areas where they may need improvement. To complete this form, you should only fill in information if you have actually worked with the person. This form should only be used for evaluating collaborators and team members, not for general performance reviews or evaluations that don't involve a specific collaboration or project. 
-</thinking>
-
 # Co Evaluation Feedback Survey - Help Guide
 ## Purpose
 The Co Evaluation Feedback Survey is a tool to gather feedback from team members or collaborators who have worked on a specific project or team. This form helps evaluate their performance, identify areas of improvement, and provide recommendations for future collaborations.

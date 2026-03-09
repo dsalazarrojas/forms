@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather user feedback and insights on a specific feature within the "smart home" system. This form is likely to be part of a broader user research or survey activity, where the organization aims to understand user interest, perception, and expectations related to the feature. 
-The form is designed to be user-friendly, allowing respondents to provide their opinions on various aspects of the feature. The data collected will help the organization to understand how users perceive and interact with the feature, which is essential for improving and tailoring the feature to better meet user needs. 
-
-Please note that the form is designed to be filled out by a single individual, hence the fields are mostly single-page based.
-</thinking>
-
 # smart_home_feature_value_survey - Help Guide
 
 ## How To Complete This Form

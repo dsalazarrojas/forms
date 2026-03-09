@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to poll eco-friendly business investors on their preferences and behaviors, gathering data on their investment habits, priorities, and communication preferences. This form will help us understand how often they invest in environmentally positive businesses, the type of impact they prioritize, and what drives their investment decisions. It will also collect information on their investment frequency, average investment size, preferred investment amount range, business model, focus industry, and communication preferences.
-
-This form is not meant to be a comprehensive assessment of an investor's entire portfolio, but rather a quick and convenient way to gather insights on their eco-friendly business investment behavior. Please note that this form is for internal use only and the data collected will not be shared or used for external purposes.
-
-To ensure the accuracy and completeness of the data, please fill out this form carefully and honestly.
-
-</thinking>
-
 # Eco Friendly Business Investor Poll - Help Guide
 ## Purpose
 This form is designed to gather information from eco-friendly business investors on their investment habits, priorities, and communication preferences.

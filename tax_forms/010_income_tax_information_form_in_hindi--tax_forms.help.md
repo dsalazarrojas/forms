@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect income tax information from taxpayers. It is designed to gather essential details such as tax year, name, address, phone number, email, income, and other relevant information.
-The form is divided into sections with clear labels and hints to guide the user through the process.
-The form is not intended to be a comprehensive financial report, but rather a brief overview of the taxpayer's income situation.
-</thinking>
-
 # Income Tax Information Form In Hindi - Help Guide
 ## Purpose
 This form is used to collect income tax information from taxpayers in Hindi. It is designed to be a brief and straightforward way to provide necessary details for tax purposes.

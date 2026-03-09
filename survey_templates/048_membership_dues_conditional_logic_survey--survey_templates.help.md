@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from members about their membership dues preferences and payment methods. The purpose of this form is to understand how members want to pay their dues and when they would like to pay them. This form should only be used for members who are currently paying or have paid membership dues, or for prospective members who are considering joining the membership program. Please ensure that you only fill out this form if you are indeed a member or a prospective member of the membership program. This form is not designed for non-members or for general inquiries.
-</thinking>
-
 # Membership Dues Conditional Logic Survey - Help Guide
 ## Purpose
 This form is used to collect information from members about their membership dues preferences and payment methods. It helps the membership organization to understand how members want to pay their dues and when they would like to pay them.

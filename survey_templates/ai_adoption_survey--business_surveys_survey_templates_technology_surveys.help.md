@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on AI adoption in organizations. It includes questions about the respondent's demographics, company information, and AI-related experiences and plans. The form is intended to provide insights into the current state of AI adoption and identify areas of improvement. This form is a part of a larger survey and is meant to be completed by respondents from various industries and company sizes.
-</thinking>
-
 # AI Adoption Survey - Help Guide
 ## Purpose
 The AI Adoption Survey is designed to collect data on AI adoption in organizations, including demographic information, company details, and AI experiences and plans. This form is part of a larger survey and is meant to be completed by respondents from various industries and company sizes.

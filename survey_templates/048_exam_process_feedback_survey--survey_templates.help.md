@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students about their experience with the exam process. It is intended for internal use within the organization and is not meant to be publicly shared. This form should not be used to collect sensitive or personal information. Please ensure that you are only filling out this form if you are a student who has taken the exam.
-</thinking>
-
 # Exam Process Feedback Survey - Help Guide
 ## Purpose
 

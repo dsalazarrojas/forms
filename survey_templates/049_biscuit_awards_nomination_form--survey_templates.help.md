@@ -1,6 +1,3 @@
-<thinking>
-This is a form for nominating individuals or achievements for Biscuit Awards. The purpose of this form is to gather information about the nominee, their achievements, and the justification for the nomination. This form is used to ensure accurate and fair nomination process. The information provided will be reviewed for relevance and duplication to ensure the integrity of the award process.</thinking>
-
 # Biscuit Awards Nomination Form - Help Guide
 ## Purpose
 The purpose of this form is to nominate individuals or achievements for Biscuit Awards. This form gathers information about the nominee, their achievements, and the justification for the nomination.

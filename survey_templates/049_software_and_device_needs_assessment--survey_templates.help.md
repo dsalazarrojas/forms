@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # software_and_device_needs_assessment - Help Guide
 ## Purpose
 This form is designed to help you assess the software and device needs of your organization. It's meant to be a starting point for evaluating what tools and technologies your team requires to perform their tasks efficiently and effectively.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # drone_surveillance_equipment_inspection_form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form was created to collect feedback from participants on their cross-training experiences. The purpose of this form is to gather information about the participants' thoughts and opinions on the cross-training program, helping trainers and program managers to understand the effectiveness and areas for improvement of the program. This form is a public adaptation of a survey template, designed to be a starting point for your own use, and you are free to modify it as needed.
-
-</thinking>
-
 # Cross Training Feedback Survey - Help Guide
 
 ## Purpose

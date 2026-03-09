@@ -1,7 +1,3 @@
-<thinking>
-This form is for assessing an individual's knowledge about lenses. The form is part of a larger knowledge assessment survey, likely used to gauge understanding of a particular topic. To ensure relevance, the form should only be used for this purpose and not for other types of surveys.
-</thinking>
-
 # Lens Knowledge Assessment - Help Guide
 ## Purpose
 The Lens Knowledge Assessment form is designed to evaluate an individual's knowledge about lenses. It consists of a series of questions that test their understanding of various aspects of lenses.

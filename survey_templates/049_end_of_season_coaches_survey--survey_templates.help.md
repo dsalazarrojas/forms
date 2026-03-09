@@ -1,7 +1,3 @@
-<thinking>
-The end_of_season_coaches_survey form is intended to be used by coaches to provide feedback on the end of each season. This form helps to assess the overall performance of teams, coaching attitudes, and player behavior. It's crucial to complete this form carefully, as it will help the team management make informed decisions for the next season. Make sure to review each field carefully and provide honest responses. If you have already completed this form in previous seasons, please ensure that you are not duplicating your response.
-</thinking>
-
 # end_of_season_coaches_survey - Help Guide
 ## Purpose
 The end_of_season_coaches_survey is a form designed for coaches to provide feedback on the performance and behavior of teams and players at the end of each season. This feedback is essential for team management to make informed decisions for the next season.

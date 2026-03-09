@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to evaluate the impact of a community health program. The purpose of this form is to gather information on the effectiveness and sustainability of the program, as well as identify areas for improvement. The form will ask about the respondent's personal involvement with the program, their relationship to the program, and their evaluation of the program's strengths, weaknesses, and potential consequences. It is essential that respondents answer honestly and thoroughly, as their feedback is crucial for the program's development and future improvements. Before proceeding, ensure that you have not already completed this form in the past to avoid duplication of responses.</thinking>
-
 # Community Health Impact Research Evaluation - Help Guide
 ## Purpose
 This form is designed to evaluate the impact of a community health program. It aims to gather information on the program's effectiveness and sustainability, as well as identify areas for improvement.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect opinions on industry trends and their impact on a business. It is intended to gather information on how respondents perceive the current state of their industry and the potential effects of trends on their operations. This form is relevant to anyone in the industry who wants to stay informed and adapt to changes in the market.
-
-To avoid duplication of effort, it is recommended that you only complete this form once. If you need to provide feedback or updates, please contact the form maintainers at form@gic.mx.
-
-</thinking>
-
 # industry_trends_opinion_survey - Help Guide
 ## Purpose
 This form is designed to collect opinions on industry trends and their impact on a business.

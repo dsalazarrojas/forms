@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help users provide regular check-ins and updates on their fitness progress. This form is likely used for tracking and monitoring employee or client fitness goals, progress, and habits, enabling the organization to provide personalized guidance and support. This form should not be used for collecting sensitive or personal identifiable information, as it is not indicated by the form's design or the provided options. 
-</thinking>
-
 # Fitness Weekly Check In Form - Help Guide
 ## Purpose
 The Fitness Weekly Check In Form is designed to help you provide regular check-ins and updates on your fitness progress, goals, and habits. This form is meant for tracking and monitoring progress, and providing a platform for the organization to offer personalized guidance and support.

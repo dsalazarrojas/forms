@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather user feedback and survey responses from the 2017 2018 Media Center Survey. The form collects information on demographics, user experience, and preferences. It is not affiliated with any form platforms and is a publicly available, AI-generated form. This form does not collect any sensitive or proprietary information, only providing a comprehensive and neutral survey experience.
-
-</thinking>
-
 # 2017 2018 Media Center Survey - Help Guide
 ## Purpose
 The 2017 2018 Media Center Survey is designed to gather feedback and responses from users to better understand their experience, preferences, and satisfaction with the Media Center.

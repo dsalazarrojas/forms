@@ -1,12 +1,3 @@
-<thinking>
-Internal reasoning block to check for form purpose and duplication:
-
-This form is intended to collect data for IP (Insertion and Puncture) and quality foley rounding reports. The purpose of this form is to record the details of each IP and quality foley round, including the date and time of the round, the number of rounds completed, and the reason for the round. This form is designed to be used by healthcare professionals to document their rounds and provide a record of their activities.
-
-Before continuing, let's quickly check if this form has any duplicates or similar forms in our internal documentation. (No, we do not have any identical forms, but this form may be similar to other forms in the category "survey_templates" that collect data for different types of rounding activities. Let's make sure to highlight the unique features of this form and provide clear guidance on how to complete it.)
-
-</thinking>
-
 # ip_and_quality_foley_rounding_report - Help Guide
 
 ## Purpose

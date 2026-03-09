@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Class Superlatives Survey - Help Guide**
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is likely designed for customers to provide feedback and rate the performance of a company's support team. The "support_satisfaction_survey" form is probably used to gather information about customer satisfaction, identify areas for improvement, and measure the effectiveness of customer service efforts. This form may be used by support team members or managers to analyze customer feedback and make data-driven decisions to enhance the support experience.
-
-</thinking>
-
 # support_satisfaction_survey - Help Guide
 ## Purpose
 The support_satisfaction_survey form is a tool for customers to provide feedback on their experiences with a company's support team. It helps identify areas of improvement and measures the effectiveness of customer service efforts.

@@ -1,9 +1,3 @@
-<thinking>
-
-The School Visitation Survey Form is used to capture visitor's information for the school's visitors' book. Please ensure that you are filling this form for each and every person visiting the school. This form is designed to collect data on each visitor, and it will help the school administration to get a general idea of who visited the school. Please ensure that you're filling the form accurately and completely.
-
-</thinking>
-
 # School Visitation Survey Form - Help Guide
 ## Purpose
 This form is used to collect data on visitors to the school, including their names, contact information, and any comments or feedback they may have.

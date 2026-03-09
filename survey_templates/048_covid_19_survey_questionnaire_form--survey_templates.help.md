@@ -1,11 +1,3 @@
-<thinking>
-To be honest, I'm not entirely sure what form platform this YAML is designed for, but based on the fields provided, it seems like this form is intended for gathering information related to the COVID-19 pandemic, likely for public health or medical purposes.
-It appears that this form is trying to collect information on various aspects of the COVID-19 pandemic, such as symptoms, travel, contact with affected individuals, testing, and self-isolation. The form seems to be asking a lot of yes/no or yes/any questions, which might be for data collection or risk assessment purposes.
-However, I'm not sure if the form is complete or if there are any gaps or inconsistencies in the provided YAML. For instance, some questions seem to overlap or duplicate others (e.g., "Did you come into contact with someone affected?" and "Did you contact public place?").
-I'll assume that the form is intended for public health purposes and provide the following help guide based on the provided fields.
-
-</thinking>
-
 # Covid 19 Survey Questionnaire Form - Help Guide
 ## Purpose
 This form is designed to collect information related to the COVID-19 pandemic for public health or medical purposes. The information collected will help assess risks and provide insights into the spread of the virus.

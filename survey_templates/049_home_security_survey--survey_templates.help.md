@@ -1,8 +1,3 @@
-<thinking>
-We should ensure that the form purpose, field explanations, and instructions are clear, concise, and practical to aid end-users in filling out the Home Security Survey form. Given the form's purpose is to collect information on home security features and ratings, we should focus on explaining each field's role in this process. We should also check if the fields are properly explained to prevent confusion and ensure consistency throughout the form. The required/optional status of each field should be clearly stated to avoid any potential confusion.
-
-</thinking>
-
 # Home Security Survey - Help Guide
 ## Purpose
 The Home Security Survey form is designed to collect information on home security features and ratings from clients. It's essential to fill out this form to provide detailed insights into your home security setup, allowing us to better understand your needs and provide personalized recommendations.

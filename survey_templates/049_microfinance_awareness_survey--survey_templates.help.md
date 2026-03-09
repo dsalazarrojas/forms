@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their awareness and experience with microfinance institutions. The purpose of this form is to collect data that can help microfinance institutions understand their customers' needs, preferences, and pain points. This data can be used to improve existing services and develop new ones that better meet the needs of users.
-
-Before you start filling out this form, please note that your responses will be anonymous and confidential. Your input will help us understand the microfinance landscape better, but your personal data will not be collected or shared.
-
-Please answer the questions honestly, and remember that this form is designed to gather information about your general attitudes and experiences, not to collect any sensitive or identifying information about you.
-
-To ensure that your responses are accurate, please consider the following: If you answer a question about something you have not experienced or observed, please mark the "Not Applicable" or "Don't Know" option. If you are unsure about the meaning of a question, feel free to ask for clarification or ask a colleague/ friend to help.
-
-This form is divided into different sections, and each section has questions that help us understand a specific aspect of microfinance. Please take your time to answer each question thoroughly and accurately.
-
-Please do not submit this form if you have already completed it or are not a new user.
-
-This form is a general assessment tool and not intended to be a comprehensive or in-depth survey. Your responses will be anonymous and used for internal purposes only.
-
-</thinking>
-
 # Microfinance Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather information from users about their awareness and experience with microfinance institutions.

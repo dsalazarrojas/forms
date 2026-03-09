@@ -1,26 +1,3 @@
-<thinking>
-This form is designed to collect data from participants about their demographics, medical history, and health-related behaviors. It is intended to assess the participant's risk factors for atherosclerosis, a condition characterized by the buildup of plaque in the arteries, which can lead to heart disease and other serious health issues.
-
-To ensure that the form is not filled out by people who do not have the necessary qualifications to participate in the survey, the following rules will be applied:
-
-* Only participants between 18 and 80 years old are eligible for this survey.
-* Participants with a known medical history of atherosclerosis or heart disease are not eligible to participate.
-* Participants with a known history of other chronic conditions (e.g., diabetes, high blood pressure, high cholesterol, etc.) may not be eligible to participate.
-
-The following questions are included in the survey:
-
-* Demographic information (name, date of birth, contact information)
-* Medical history (family history of heart disease, smoking status, medications, etc.)
-* Behavioral habits (diet, physical activity level, alcohol consumption, etc.)
-* Symptoms of heart disease (chest pain, shortness of breath, etc.)
-* Prior cardiovascular events (heart attack or stroke)
-
-This form should only be filled out by participants who meet the above criteria.
-
-Please review the form carefully before completing it, and make sure to answer honestly.
-
-</thinking>
-
 # Atherosclerosis Assessment Survey - Help Guide
 
 ## Purpose

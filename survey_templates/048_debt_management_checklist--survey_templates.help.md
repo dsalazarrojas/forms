@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users assess and manage their debt, including assessing debt frequency, type, and payment status. The form is intended to gather information on various aspects of debt management, including payment methods, frequency, and reduction methods. By completing this form, users can gain insights into their debt situation and identify areas for improvement.
-</thinking>
-
 # Debt Management Checklist - Help Guide
 ## Purpose
 This form is designed to gather information about debt assessment, management, and repayment. It's meant to help users understand their debt situation and identify areas for improvement.

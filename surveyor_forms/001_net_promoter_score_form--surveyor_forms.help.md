@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge customer satisfaction and loyalty towards a company. The Net Promoter Score is a widely used metric to measure customer loyalty and retention. By completing this form, respondents will be providing valuable feedback on their experiences with the company. To ensure accurate and relevant responses, please ensure that you have had a recent interaction with the company and are answering based on that experience.
-</thinking>
-
 # Net Promoter Score Form - Help Guide
 ## Purpose
 This form is designed to measure customer satisfaction and loyalty towards this company. The Net Promoter Score is a widely used metric to evaluate the likelihood of customers to recommend a company to others, with scores ranging from 0-100.

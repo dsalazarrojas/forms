@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about users' gaming preferences, specifically their favorite video game genres, preferred platforms, and scores in various categories. This form will help us understand users' gaming knowledge and preferences, which will be used for various analyses and studies.
-
-This form is likely used in a research or survey context, where the data collected will be used to inform decisions or create new products or services related to gaming.
-
-Please note that this form has many repeated questions with the label "score", "note", "name", etc., which are likely duplicates and can be removed to simplify the form.
-
-Before proceeding with the form, please ensure that you have reviewed it thoroughly and understand the purpose and requirements of the survey.
-
-</thinking>
 # Gaming Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to collect information about your gaming preferences and knowledge.

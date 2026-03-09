@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect client information and consent for a tattoo or body piercing procedure. The purpose of this form is to inform the client about the risks and aftercare instructions associated with the procedure, and to obtain their consent to move forward with the appointment.
-
-To ensure that this form is completed accurately and in its entirety, we kindly request that clients read and understand each section carefully. Please note that this form is not a substitute for a medical consultation, and it is the client's responsibility to disclose any medical conditions that may impact their ability to receive a tattoo or piercing.
-
-Please be aware that this form is a waiver, and by completing it, the client acknowledges that they have read, understood, and agreed to the terms and conditions outlined in the form.
-
-</thinking>
-
 # Tattoo And Body Piercing Procedure Waiver - Help Guide
 ## Purpose
 

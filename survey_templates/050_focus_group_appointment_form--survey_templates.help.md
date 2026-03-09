@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Focus Group Appointment Form - Help Guide
 
 ## Purpose

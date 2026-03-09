@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect personal information from users for the purpose of customization effects. It is intended to be filled out by individuals who have been assigned to a team and need to share their preferences and characteristics. The form is not to be filled out by individuals who are not assigned to a team. Please ensure you are filling out the correct form for your assigned group. If you're not sure, contact your team lead for clarification.</thinking>
-
 # Customization Effects Survey - Help Guide
 ## Purpose
 This survey is designed to collect personal information from users for customization purposes.

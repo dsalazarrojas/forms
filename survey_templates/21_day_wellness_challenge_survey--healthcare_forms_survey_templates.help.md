@@ -1,10 +1,3 @@
-<thinking>
-The 21 Day Wellness Challenge Survey is designed to assess participants' experiences and progress after completing a 21-day wellness challenge program. This form is intended to help us understand how well participants achieved their goals, what practices they found most impactful, and what aspects of the challenge they found helpful or challenging. By analyzing this data, we can identify areas for improvement and make informed decisions for future challenge iterations.
-
-Before filling out this form, please ensure you have not already filled it out. This survey is only intended for participants who have completed the 21-Day Wellness Challenge.
-
-</thinking>
-
 # 21 Day Wellness Challenge Survey - Help Guide
 ## Purpose
 The 21 Day Wellness Challenge Survey is designed to gather information about your experiences and progress after completing the 21-Day Wellness Challenge. Your feedback is crucial in helping us improve the challenge for future participants.

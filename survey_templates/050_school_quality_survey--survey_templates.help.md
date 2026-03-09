@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data from schools about their quality, location, size, and other relevant details. It's meant to be filled out by school staff or administrators. The form should only be filled out by one school at a time. If you're not sure which school to fill out, please check with your supervisor or the relevant department.
-
-</thinking>
-
 # School Quality Survey - Help Guide
 ## Purpose
 This form is used to collect information from schools about their quality, location, and other details. This data will be used to evaluate and improve school standards.

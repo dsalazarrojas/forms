@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # 4 Point Inspection Form - Help Guide
 ## Purpose
 This form is designed for inspectors to conduct a comprehensive 4-point inspection on a property. The goal is to evaluate the condition of various systems and components of the property, including the roof, electrical, plumbing, and HVAC systems. The form is intended to collect information about property conditions, observed defects, and recommended actions or repairs.

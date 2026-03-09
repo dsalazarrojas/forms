@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect feedback and information about production and marketing-related topics. It's essential to complete this form accurately to help us understand our customers' perceptions and needs. Please ensure that the information you provide is up-to-date and relevant to your current production and marketing efforts. If you have already completed this form, please do not submit duplicate responses.
 
 </thinking>

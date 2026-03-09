@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ayurveda Knowledge Quiz - Help Guide
 
 ## Purpose

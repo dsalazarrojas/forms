@@ -1,13 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "newsletter_feedback_form" form. This form is used to collect feedback from users about our newsletter, and its purpose is to gather information on what users think about our newsletter content, whether it's helpful or not, and how we can improve it. We want to ensure that users understand the form's purpose and how to complete it correctly to get the most out of this feedback. We also want to clarify each field's label to avoid confusion.
-
-The form will be used in the "survey_templates" category.
-
-Before starting the guide, we should check if the form's purpose aligns with our current project requirements and if we've already created a similar form with the same purpose in the past.
-
-Please review this guide and let me know if there's anything we can improve.
-</thinking>
-
 # newsletter_feedback_form - Help Guide
 ## Purpose
 The "newsletter_feedback_form" form is designed to collect feedback from users about our newsletter content. This feedback will help us understand what users think about our newsletter and identify areas for improvement.

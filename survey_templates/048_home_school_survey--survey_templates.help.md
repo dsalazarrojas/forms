@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about home schools, likely for administrative, educational, or research purposes. This form will guide you through the process of filling it out step-by-step.
-</thinking>
-
 # Home School Survey - Help Guide
 ## Purpose
 The Home School Survey is a tool used to collect data about home schools for administrative, educational, or research purposes.

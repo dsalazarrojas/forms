@@ -1,5 +1,3 @@
-<thinking>Internal note: The form is used for assessing the impact of job training programs on employment outcomes. It appears to be a structured survey with multiple questions covering various aspects of job placement, retention, and outcomes. The form might be used by training program administrators or managers to evaluate the effectiveness of their training programs. It is likely used to identify areas for improvement and inform future training initiatives. To ensure the form's relevance and accuracy, it is crucial to review the field types and options provided in the input schema.</thinking>
-
 # job_training_employment_impact_assessment - Help Guide
 ## Purpose
 The Job Training Employment Impact Assessment form is used to evaluate the effectiveness of job training programs on employment outcomes. This form collects data on job placement, retention, and outcomes to help administrators and managers identify areas for improvement and inform future training initiatives.

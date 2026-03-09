@@ -1,12 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Electrical Services Customer Satisfaction Survey" form. This form is designed to gather feedback from customers who have received electrical services from our company. The purpose of this form is to understand the customer's experience and satisfaction with our services. We want to ensure that the customers are satisfied with the quality of work done and that we are meeting their needs. This form will help us identify areas of improvement and make necessary changes to provide better services in the future.
-
-The form consists of several fields that require customers to provide some personal information and their experience with our services. To complete this form, customers will need to provide their name, email address, and phone number. They will also be asked to select the date they received our services, the type of service they received, and rate their overall satisfaction with the service.
-
-We need to ensure that the form is clear and easy to understand, and that customers can easily navigate through it. Each field should have a clear and concise explanation to help customers understand what is required.
-
-This guide will be used by customers who are not familiar with our company or our services, so we need to keep it simple and straightforward.</thinking>
-
 # Electrical Services Customer Satisfaction Survey - Help Guide
 
 ## Purpose

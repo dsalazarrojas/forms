@@ -1,5 +1,3 @@
-<thinking>As an employee onboarding process, the goal of this form is to collect valuable information from new employees to better understand their onboarding experience. It will help us identify areas of improvement and provide more tailored support to ensure a smooth transition into the team. Before starting, please note that this form is designed for one-time completion. Duplicate submissions will not impact your onboarding process, so feel free to focus on providing honest and thorough feedback. This guide will walk you through each section to help you complete the form accurately and effectively.</thinking>
-
 # Employee Onboarding Survey - Help Guide
 
 ## Purpose

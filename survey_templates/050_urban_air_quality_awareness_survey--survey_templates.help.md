@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about individuals' awareness and experiences with urban air quality in their community. It is intended to gather data that can be used to better understand the perceptions and concerns of community members regarding air pollution. The form will help us to identify areas where residents are more or less concerned about air quality, and to gather suggestions for improvement. Please note that this form is anonymous and the information collected will be used to improve the community's air quality.
-
-</thinking>
-
 # Urban Air Quality Awareness Survey - Help Guide
 ## Purpose
 This form is designed to collect information about urban air quality awareness and experiences from community members. The goal is to understand how much time people spend outdoors, their primary source of air pollution, and their level of concern about air quality.

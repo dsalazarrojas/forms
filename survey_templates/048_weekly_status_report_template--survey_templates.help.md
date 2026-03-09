@@ -1,8 +1,3 @@
-<thinking>
-This form, "weekly_status_report_template", is designed to gather status updates on a weekly basis for various departments. 
-The purpose of this form is to collect information about the weekly status of different departments, including any issues or concerns that need to be addressed. This data will be used to track progress and identify areas for improvement.
-</thinking>
-
 # weekly_status_report_template - Help Guide
 ## Purpose
 The "weekly_status_report_template" form is a template used to report the status of various departments on a weekly basis. It collects information on weekly activities, issues, and submitted data.

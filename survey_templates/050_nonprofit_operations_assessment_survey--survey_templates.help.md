@@ -1,10 +1,3 @@
-<thinking>
-This is a form designed to assess nonprofit operations and governance. The form is intended to evaluate the overall functioning of a nonprofit organization, focusing on various aspects such as governance, financial management, program delivery, and more. This form can be used by nonprofit organizations to identify areas for improvement and develop strategies to enhance their operations and governance. To ensure accuracy and relevance, it is recommended to review the form carefully and only use it for the specific purpose it was designed for.
-
-Before filling out this form, ensure that you are familiar with the nonprofit's operations and governance structure. If you are not sure about any of the questions or sections, consult with the nonprofit's management or leadership.
-
-</thinking>
-
 # Nonprofit Operations Assessment Survey - Help Guide
 ## Purpose
 This form is designed to assess the overall functioning of a nonprofit organization, evaluating aspects such as governance, financial management, program delivery, and more.

@@ -1,6 +1,3 @@
-<thinking> 
-This form is meant to help teams assess the effectiveness of peer feedback. The goal is to gather information on how well the team is communicating and providing feedback, what types of feedback are being given and received, and how often this feedback is happening. This form is designed to help team members provide honest and constructive feedback to each other, and to help the team identify areas for improvement. This form will likely be completed by team members, and will help the team understand how well they are working together. Please make sure to complete this form only once, and be honest in your responses. If you've already completed this form, please do not complete it again.</thinking>
-
 # Peer Feedback Effectiveness Survey - Help Guide
 ## Purpose
 This survey is designed to help teams assess the effectiveness of peer feedback. It will help you understand how well your team is communicating and providing feedback, and identify areas for improvement.

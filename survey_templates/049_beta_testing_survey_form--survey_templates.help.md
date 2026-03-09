@@ -1,7 +1,3 @@
-<thinking>
-The "Beta Testing Survey Form" is designed to gather feedback from beta testers to evaluate and improve the product. This form collects information from users who have participated in the beta testing phase. The goal is to understand their overall experience, usability, and expectations. By analyzing this data, the product development team can identify areas of improvement and enhance the product's overall quality. To avoid redundant information, please only respond to the survey once and truthfully provide your honest feedback.
-</thinking>
-
 # Beta Testing Survey Form - Help Guide
 ## Purpose
 The "Beta Testing Survey Form" is designed to gather feedback from beta testers to improve the product.

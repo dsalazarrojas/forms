@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about consumers' awareness and behaviors related to ethical consumerism, which refers to the practice of making purchasing decisions that align with one's values and principles. This survey aims to understand consumers' levels of awareness, attitudes, and behaviors related to various aspects of ethical consumerism, such as animal welfare, environmental issues, fair trade, and more. The survey will help identify areas where consumers may need education or support to make more informed and responsible purchasing decisions. This information can be used to inform marketing strategies, product development, and other business practices that promote ethical consumerism.
-Please note that the survey is for research purposes only and does not collect personal data or sensitive information.
-</thinking>
-
 # Ethical Consumerism Awareness Survey - Help Guide
 
 ## Purpose

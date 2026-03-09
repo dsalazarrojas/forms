@@ -1,8 +1,3 @@
-<thinking>
-The Event Outcome Report Form is used to gather information about the outcomes of events or incidents. It's a multi-page form that covers various aspects of the event, including its success, participants, dates, and other relevant details. This form is typically used by event organizers or coordinators to document the results of events, and its completion is mandatory for accurate record-keeping.
-
-Before filling out this form, please ensure that you're completing it for the correct event and not duplicating an existing one. If you're unsure, contact the relevant authorities for clarification.</thinking>
-
 # Event Outcome Report Form - Help Guide
 ## Purpose
 The Event Outcome Report Form is used to document the outcomes of events or incidents. It covers various aspects of the event, including its success, participants, dates, and other relevant details.

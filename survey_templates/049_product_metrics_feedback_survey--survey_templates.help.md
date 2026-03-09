@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and metrics from users on various aspects of a product, including its usage frequency, satisfaction, improvement ideas, and feature usage. The form is intended to gather information that can be used to improve the product and enhance user experience. 
-
-The purpose of this form is to collect information from Prophets (users or stakeholders) on their usage and satisfaction with the product, as well as any improvement ideas they may have. The form will help to identify areas of improvement and inform decisions on product development.
-
-To prevent duplication of feedback from the same Prophet, we will use the Prophet ID and Name as identifiers. 
-
-</thinking>
-
 # product_metrics_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and metrics from Prophets on the usage and satisfaction with the product. This information will be used to improve the product and enhance user experience.

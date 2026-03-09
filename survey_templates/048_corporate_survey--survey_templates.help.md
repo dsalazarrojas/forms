@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Survey - Help Guide
 
 ## Purpose

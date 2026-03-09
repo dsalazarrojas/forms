@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to be used by students to report their experiences with leadership development programs at their school. The goal is to gather information about the programs' effectiveness in developing leadership skills and their overall impact on students. This form should not be used to collect data on programs that are not relevant to the student's leadership development. Please ensure that you are filling out the correct form for your program. Note that this form should only be completed once per school year, and that the survey year should reflect the current academic year.</thinking>
-
 # Student Leadership Development Impact Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information about the impact of leadership development programs on students in your school. Your input will help us understand the effectiveness of these programs and identify areas for improvement.

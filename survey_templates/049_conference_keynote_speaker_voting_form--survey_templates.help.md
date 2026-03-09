@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from attendees on their preferred keynote speaker choices for a conference. The purpose of this form is to allow attendees to vote on their top three speaker choices, providing a subjective measure of their interest in each speaker. The form will help identify popular speaker choices and aid in the selection process. The form's responses will be used by the conference organizers to gauge public interest and make informed decisions on speaker selection. The form's fields are designed to be simple and straightforward, ensuring that attendees can quickly and easily provide their feedback. The form will only be accessible to attendees who have been granted access by the conference organizers, ensuring that only authorized users can participate in the voting process. The form's data will be kept confidential and only used for the purpose of speaker selection.
-
-The form is part of a larger process, and its responses will be used in conjunction with other feedback mechanisms to ensure that the conference program is tailored to the needs and interests of the attendees. The form is not meant to be a comprehensive evaluation of each speaker, but rather a way to gauge general interest and popularity.
-
-Please note that the form is not intended for duplicate voting. Each attendee can only submit one response. 
-
-</thinking>
-
 # Conference Keynote Speaker Voting Form - Help Guide
 ## Purpose
 The Conference Keynote Speaker Voting Form is a survey that enables attendees to vote on their top speaker choices for the conference.

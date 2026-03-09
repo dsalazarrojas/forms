@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # workplace_feedback_channel_survey - Help Guide
 ## Purpose
 The Workplace Feedback Channel Survey is designed to gather information about employee feedback channels, communication channels, and overall satisfaction with the workplace. This survey helps us understand how employees experience and perceive the workplace environment and provides valuable insights to improve it.

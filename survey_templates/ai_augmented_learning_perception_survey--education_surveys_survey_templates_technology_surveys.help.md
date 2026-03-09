@@ -1,7 +1,3 @@
-<thinking>
-This is a survey template designed to gather insights on the perception of AI in educational settings. Before proceeding, please note that this form was created based on publicly available metadata and is not affiliated with any specific form creation platform. It is intended to be an original adaptation and does not copy, extract, or use proprietary content from any form creation or survey platform.
-</thinking>
-
 # AI Augmented Learning Perception Survey - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a clear and concise help guide that explains the purpose and usage of the "Key Checkout Survey" form. This guide will help users understand what the form is for, how to fill it out, and what each field means, making it easier for them to complete the form accurately and effectively.</thinking>
-
 # Key Checkout Survey - Help Guide
 ## Purpose
 The Key Checkout Survey form is designed to collect feedback and information from customers after their checkout process. This form is used to gather their experiences, concerns, and suggestions, which will help us improve our services and make their future experiences more pleasant.

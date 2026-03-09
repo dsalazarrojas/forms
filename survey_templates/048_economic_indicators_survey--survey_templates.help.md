@@ -1,5 +1,3 @@
-<thinking>...The form is designed to collect economic indicators survey data. This form is intended for internal use by the organization. Please ensure that this form is not duplicated or used for external purposes without proper authorization.</thinking>
-
 # Economic Indicators Survey - Help Guide
 ## Purpose
 The Economic Indicators Survey is a form designed to collect data on various economic indicators. This form is intended for internal use within the organization and should not be used for external purposes without proper authorization.

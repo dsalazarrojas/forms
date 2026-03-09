@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the eCheck.net t-shirt order. The form has seven fields that require users to provide their details, including eCheck Net preference, customer information, t-shirt size, t-shirt color, eCheck Net option, shipping date, and any additional comments. The fields are divided into four sections: eCheck Net, customer information, t-shirt size and color, and order details. The form is intended for internal use within the organization and is not intended for public consumption. It's assumed that the users are familiar with the internal eCheck.net system and its terminology.
-</thinking>
-
 # eCheck.net_t_shirt_order_form - Help Guide
 ## Purpose
 This form is used to collect information for the eCheck.net t-shirt order.

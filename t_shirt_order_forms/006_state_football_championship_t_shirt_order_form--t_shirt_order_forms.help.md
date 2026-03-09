@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the State Football Championship T-Shirt Order Form, we need to understand the purpose of the form. This form is used for customers to place orders for t-shirts related to the State Football Championship. The form likely aims to gather essential information from customers about their order details.
-
-Upon analyzing the form fields, we can see that the form collects the following types of information: first name, last name, email, phone number, team name, shirt quantity, shirt size, preferred color(s), special instructions (if any), the date they would like to order, and a few submit buttons. The form seems to be designed for a one-time order, as most fields are marked as "required" except for shirt size and special instructions. The form likely serves as a straightforward data collection mechanism for fulfilling customer orders.
-
-</thinking>
-
 # State Football Championship T Shirt Order Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers to order t-shirts related to the State Football Championship. It will help us fulfill your order efficiently and effectively.

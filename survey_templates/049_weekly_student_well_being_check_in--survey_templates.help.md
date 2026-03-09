@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # weekly_student_well_being_check_in - Help Guide
 
 ## Purpose

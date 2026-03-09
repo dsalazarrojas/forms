@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Student Quiz Feedback Survey" form. This form is used to collect feedback from students about their recent quiz. The purpose of this form is to understand what questions were difficult for them and to gather any comments or suggestions they may have. This form is typically completed by students after they have taken a quiz. We need to ensure that the form is clear and easy to understand, and that all fields are properly explained. Let's check if there are any conflicts with other forms or if any fields are not properly explained...
-
-</thinking>
-
 # Student Quiz Feedback Survey - Help Guide
 
 ## Purpose

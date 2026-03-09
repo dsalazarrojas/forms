@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from users regarding the system upgrade. The purpose of this form is to understand how the new features and changes have affected user experience. Users are asked about their experience before and after the upgrade, what features they used, their satisfaction level with the new features, and potential areas of improvement. This form should only be filled out by users who have actually used the new features. 
-</thinking>
-
 # System Upgrade Feedback Questionnaire - Help Guide
 ## Purpose
 This form is a feedback questionnaire designed to gather information from users about their experience with the system upgrade. We want to understand how well the new features are working, what users think could be improved, and how the upgrade has affected their productivity and satisfaction with the system.

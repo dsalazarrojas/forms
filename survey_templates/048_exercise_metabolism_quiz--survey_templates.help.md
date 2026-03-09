@@ -1,6 +1,3 @@
-<thinking>
-We need to create a help guide for the "Exercise Metabolism Quiz" form. To do this, we'll first understand the form's purpose and ensure we're not duplicating any existing resources. The form seems to be a simple quiz with 10 text fields, likely designed to gather information about an individual's exercise habits and metabolism. Each field is named similarly, with "metabolism_quiz_1" to "metabolism_quiz_10". This suggests that the form might be used to collect data on different aspects of exercise metabolism, such as habits, frequency, or intensity.
-</thinking>
 # Exercise Metabolism Quiz - Help Guide
 ## Purpose
 This guide is designed to help you complete the Exercise Metabolism Quiz form. The quiz is intended to gather information about your exercise habits and how they affect your metabolism.

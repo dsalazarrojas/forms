@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect user information for the purpose of understanding website and app user demographics. This will help us understand the audience we are serving and make data-driven decisions to improve our products and services. This form is not a duplicate of other forms, as each field is carefully selected to gather unique and relevant information.
-
-</thinking>
-
 # Website And App User Profile Form - Help Guide
 ## Purpose
 This form is designed to collect information about users of our website and app in order to better understand their demographics and preferences.

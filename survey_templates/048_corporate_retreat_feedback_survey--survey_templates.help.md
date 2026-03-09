@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for corporate retreat feedback. It's used to gather insights on the attendees' experience, satisfaction, and thoughts about the sessions and event details. The form should only be used for corporate retreats, and not for other types of events or surveys. To confirm that the form is being used for the correct purpose, please make sure to check the title of this form, which should read "corporate_retreat_feedback_survey". If the form is not being used for a corporate retreat, please do not fill it out.
-</thinking>
-
 # corporate_retreat_feedback_survey - Help Guide
 ## Purpose
 This form is used to gather feedback from corporate retreat attendees to improve future event planning and execution.

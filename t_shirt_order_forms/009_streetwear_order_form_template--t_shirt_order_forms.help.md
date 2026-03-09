@@ -1,13 +1,3 @@
-<thinking>
-This form is used for customers to place orders for streetwear products. It collects information about the customer, shipping details, and order specifics. The form is likely used for online sales and customer service purposes.
-
-Before filling out this form, please ensure you are using the correct product information (e.g., "Sweater" instead of "Sweater") and selecting the correct size and color options.
-
-Each field is optional, but providing accurate information will ensure efficient processing and delivery of your order.
-
-This guide will walk you through each section of the form to help you complete it successfully.
-</thinking>
-
 # Streetwear Order Form Template - Help Guide
 ## Purpose
 This form is designed for customers to submit orders for streetwear products.

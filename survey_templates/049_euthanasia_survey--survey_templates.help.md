@@ -1,8 +1,3 @@
-<thinking>
-Please note that I'll be following your provided YAML fields to create this help guide for the euthanasia survey form.
-The purpose of this form is to gather information for a study or survey about euthanasia-related attitudes, behavior, and demographics. The form asks various questions to collect data on individuals' opinions, demographics, and other relevant information. To ensure accurate responses, please complete each field according to the provided explanations.
-</thinking>
-
 # euthanasia_survey - Help Guide
 ## Purpose
 

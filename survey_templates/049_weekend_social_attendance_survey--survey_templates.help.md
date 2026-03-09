@@ -1,9 +1,3 @@
-<thinking>Before creating this help guide, I'll assume that the form is used to track weekend social events, such as concerts, festivals, or meetups. This form is designed to gather information from users about their plans to attend these events. It's essential to complete this form accurately, as the data collected will help event organizers and administrators understand who will be attending and make necessary arrangements.
-
-To avoid duplication of effort, it's best to complete the form once for each event you plan to attend. If you have multiple events planned, you can fill out the form multiple times, one for each event.
-
-Please read this help guide carefully to ensure you provide accurate and complete information about your weekend plans.</thinking>
-
 # Weekend Social Attendance Survey - Help Guide
 ## Purpose
 This form is designed to track weekend social events, such as concerts, festivals, or meetups. It helps event organizers and administrators understand who will be attending and make necessary arrangements.

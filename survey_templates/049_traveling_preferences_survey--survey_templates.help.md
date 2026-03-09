@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information about travel preferences and details. It's intended to help users provide their personal preferences and requirements for travel, which will be used for various purposes such as planning trips, booking flights, or creating travel itineraries. This form is likely to be used by travel agencies, tourism boards, or travel websites to gather information from users about their travel needs. It's recommended that users fill out this form carefully, as the information provided will be used to tailor their travel experience accordingly. </thinking>
-
 # traveling_preferences_survey - Help Guide
 ## Purpose
 This form is designed to collect information about travel preferences and details for planning trips, booking flights, or creating travel itineraries.

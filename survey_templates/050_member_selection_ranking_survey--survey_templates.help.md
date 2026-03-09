@@ -1,7 +1,3 @@
-<thinking>
-We are designing this form to help users evaluate the ranking of members of an organization. This form is intended for internal use and will help in identifying the best candidates for leadership roles within the organization. Please note that this form will only be used to gather rankings from authorized and verified users, and the purpose of the form will be clearly indicated to avoid any duplication of efforts. This form is not intended for use in any other context and should only be filled out by authorized personnel.
-</thinking>
-
 # Member Selection Ranking Survey - Help Guide
 ## Purpose
 

@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to be a user-facing document that explains the purpose and functionality of the "Household Chore Survey" form. The form is designed to collect information about household chores distribution among family members and gather feedback on how fair is the split of household chores.
-
-Before creating this form, ensure that the form's purpose and intended outcome align with the actual requirements of the project. This guide is only intended for end-users who are expected to complete the form.
-
-</thinking>
-
 # Household Chore Survey - Help Guide
 
 ## Purpose

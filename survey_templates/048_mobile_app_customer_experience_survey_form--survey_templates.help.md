@@ -1,8 +1,3 @@
-<thinking>
-You will use this form to gather valuable customer feedback about their mobile app experience. This will help us understand how well our app is performing and where we need to improve. Please make sure to fill out every required field and provide as much detail as possible to help us better serve you.
-We will check for duplicate forms and ensure only one submission per customer.
-</thinking>
-
 # Mobile App Customer Experience Survey Form - Help Guide
 ## Purpose
 This form is designed to collect customer feedback about their mobile app experience. The information gathered will help us understand how well our app is performing and where we need to improve.

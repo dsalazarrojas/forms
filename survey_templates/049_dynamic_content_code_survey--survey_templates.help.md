@@ -1,9 +1,3 @@
-<thinking> 
-This form has been created by AI, using public survey topic metadata as inspiration, without copying any proprietary content from other platforms.
-It is intended for users to provide feedback and suggestions for improvement on the dynamic content code survey.
-The form is not affiliated with, endorsed by, or derived from any form platform.
-</thinking>
-
 # Dynamic Content Code Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions from users on the dynamic content code survey.

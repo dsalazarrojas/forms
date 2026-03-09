@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stress Management Monitoring Form - Help Guide
 ## Purpose
 This form is designed to help individuals assess and monitor their stress levels, identify potential stressors and triggers, and develop coping mechanisms and support systems to manage their stress.

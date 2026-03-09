@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to rate their experience with our help desk services, providing valuable feedback to help us improve our services. The purpose of this form is to collect data on the quality of service, user satisfaction, and any issues or comments they may have. This data will be used to identify areas of improvement and provide valuable insights to our team.
-</thinking>
-
 # Help Desk Survey - Help Guide
 
 ## Purpose

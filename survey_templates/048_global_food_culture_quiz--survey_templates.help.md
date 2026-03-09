@@ -1,11 +1,3 @@
-<thinking>
-
-The Global Food Culture Quiz form is a tool designed to gather information about various aspects of food culture, including cultural background, context, impact, and sustainability. This form is meant to be filled out by individuals who have an interest in the subject matter and are willing to share their opinions and experiences. The form is not affiliated with any form creation platforms, but rather was created by AI using public metadata from the survey topic.
-
-To avoid any confusion, this form is an original adaptation and not a copy or derivative of any existing form. If you have any questions or concerns, please feel free to contact form@gic.mx.
-
-</thinking>
-
 # Global Food Culture Quiz - Help Guide
 ## Purpose
 The Global Food Culture Quiz is a self-assessment tool designed to explore the diverse aspects of food culture, allowing users to share their thoughts, experiences, and perspectives on various topics related to food culture.

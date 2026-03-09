@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # DriveThru Service Satisfaction Poll - Help Guide
 ## Purpose
 This form is designed to collect feedback and satisfaction ratings from customers about their drive-thru experience at a restaurant. The form is intended to help management understand customer perceptions of speed, accuracy, staff friendliness, and overall satisfaction, as well as other aspects of the service.

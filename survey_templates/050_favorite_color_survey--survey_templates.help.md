@@ -1,7 +1,3 @@
-<thinking> 
-This form is for users to express their favorite colors, which will help the team to understand the community preferences. This form is designed to gather information about user preferences without asking for personal data, keeping the response process brief and simple. It is crucial that the form fields are clear and understandable, as this will affect the accuracy of the survey results. Please make sure to fill out the form carefully to provide reliable data. 
-</thinking>
-
 # Favorite Color Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your favorite colors. Your participation will help the team understand community preferences and improve our services.

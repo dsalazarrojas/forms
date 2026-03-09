@@ -1,5 +1,3 @@
-<thinking>...This is a form designed to collect data from farmers and agonomists, likely for research, market analysis, or other related purposes. The form has two pages: the first asks for general information and the second asks for specific responses from farmers and agonomists. The form does not require submission of sensitive or proprietary data...</thinking>
-
 # Farm Survey - Help Guide
 ## Purpose
 The Farm Survey is designed to gather information from farmers and agonomists about their experiences, knowledge, and preferences related to farming practices. This data can help inform decisions and research in the agricultural industry.

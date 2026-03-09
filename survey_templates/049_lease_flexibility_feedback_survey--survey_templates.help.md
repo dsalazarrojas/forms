@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the lease flexibility offered by the organization. It is meant to gather information on various aspects of the lease, such as flexibility in terms, frequency, and duration. The form is likely to be used by staff or managers to collect feedback from customers or clients who are currently on a lease.
-
-Before proceeding, please note that:
-
-* Each field is marked as either 'required' or 'optional'. Required fields must be filled out for the form to be considered complete.
-* Some fields have a 'select_one' or 'select_multiple' type, which means you will need to select one or multiple options from a pre-defined list.
-* Be honest and accurate when providing feedback, as it will help the organization improve its services.
-
-</thinking>
-
 # lease_flexibility_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the lease flexibility offered by the organization. It gathers information on various aspects of the lease, such as flexibility in terms, frequency, and duration, to help improve the services.

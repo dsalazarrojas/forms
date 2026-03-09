@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about patient preparation for medical appointments. The form likely serves as a pre-appointment questionnaire or checklist to gather essential details about the patient's identity, medical condition, appointment schedule, contact method, medical history, allergy status, and medication status. 
-
-This form may be used in various healthcare settings, such as hospitals, clinics, or private medical practices. It could be part of an intake process, ensuring that patients are properly prepared for their appointments, and helping medical professionals to make informed decisions about their care.
-
-Please ensure that this form is not used in duplicate or for purposes other than its intended use. If you have any questions or concerns about using this form, please contact form@gic.mx for further assistance.
-</thinking>
-
 # Patient Preparation Survey - Help Guide
 ## Purpose
 This form is designed to collect essential information about patient preparation for medical appointments.

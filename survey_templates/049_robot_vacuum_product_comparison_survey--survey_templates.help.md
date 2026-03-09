@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect general information from users about their experience with robot vacuum products. This form aims to identify common features, preferences, and satisfaction levels among robot vacuum users. The form's fields are intended to capture user feedback on their general information, satisfaction, features preferences, and purchase information. To ensure data quality and user comfort, this form is designed to be user-friendly and clear. To prevent duplication, the form is not affiliated with any form platform, and it's an original adaptation of public survey metadata. </thinking>
-
 # Robot Vacuum Product Comparison Survey - Help Guide
 ## Purpose
 This form is designed to collect general information from users about their experience with robot vacuum products. It aims to identify common features, preferences, and satisfaction levels among robot vacuum users.

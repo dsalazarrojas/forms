@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to measure an individual's understanding, feelings, and behaviors related to guilt and its effects on well-being. It is designed to be a comprehensive assessment tool for researchers, therapists, or individuals seeking insight into their emotional experiences. Please ensure that you complete this form based on your genuine experiences, and be as honest as possible in your responses. This form should not be used for commercial purposes or to deceive anyone, and it is recommended to review and adapt the form to suit your specific needs.
-</thinking>
-
 # Guilt And Well Being Survey - Help Guide
 ## Purpose
 The Guilt And Well Being Survey is a comprehensive tool designed to assess an individual's understanding, feelings, and behaviors related to guilt and its effects on well-being.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be a Secret Santa Survey for an office holiday gift exchange. It's meant to gather information from participants about their preferences and gift-giving habits, allowing organizers to better understand what types of gifts are suitable for each person and ensure a fun and meaningful exchange. Please note that this survey has a high number of fields and options, but it's meant to be completed in a few minutes, and the questions are designed to be straightforward and easy to understand.
-
-Before you start, please make sure you've completed this survey only once. If you've already submitted a survey, you might not need to do so again.
-</thinking>
-
 # Secret Santa Survey - Help Guide
 ## Purpose
 This guide will help you complete the Secret Santa Survey form. The purpose of this form is to gather information from participants about their preferences and gift-giving habits for the office holiday gift exchange.

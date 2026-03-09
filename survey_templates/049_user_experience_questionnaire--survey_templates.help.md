@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback on a user's experience with a product or service. The purpose of this form is to collect both qualitative and quantitative data to help identify areas of improvement and provide suggestions for enhancement. Please ensure that you have a clear understanding of the form's purpose before proceeding to complete it. This form is not designed to be duplicated or submitted multiple times by the same user.
-
-</thinking>
-
 # user_experience_questionnaire - Help Guide
 ## Purpose
 The user_experience_questionnaire form is designed to collect feedback on a user's experience with a product or service. This form gathers both qualitative and quantitative data to help identify areas of improvement and provide suggestions for enhancement.

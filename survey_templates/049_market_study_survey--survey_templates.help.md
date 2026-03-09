@@ -1,9 +1,3 @@
-<thinking>
-This form is for conducting market studies to gather customer and business information.
-The purpose of this form is to collect data on customer opinions, buying habits, and contact information for market analysis.
-Please ensure that you are familiar with the survey templates and have a good understanding of the business context before filling out this form.
-</thinking>
-
 # market_study_survey - Help Guide
 ## Purpose
 The market_study_survey form is designed to collect data on customer opinions, buying habits, and contact information for market analysis.

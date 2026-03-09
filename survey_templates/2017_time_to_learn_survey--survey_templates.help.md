@@ -1,7 +1,3 @@
-<thinking>
-We're checking if this form is relevant and not duplicated for our internal processes. This form, "2017 Time To Learn Survey", is a survey used to gather feedback and opinions from users on the impact and effectiveness of the 2017 Time To Learn survey. It's intended to capture their satisfaction level and overall rating, as well as their experience with the survey, its usability, and the observed consequences of high-stakes testing in the classroom. The form will also collect their consent to share anonymized responses with partner organizations and allow them to provide suggestions for improvement. This form is not duplicated and is a necessary tool for our organization to gauge user experience and make data-driven decisions.
-</thinking>
-
 # 2017 Time To Learn Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback and opinions from users on the impact and effectiveness of the 2017 Time To Learn Survey. It will help us identify areas of improvement and make data-driven decisions.

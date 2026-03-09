@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for passengers to assess their safety perception after a trip with a driver. The form is designed to collect data on various aspects of the passenger's experience, including incidents, driver performance, and overall safety. This guide will help passengers understand how to complete the form accurately and provide valuable feedback to drivers and other stakeholders.
-
-The form is divided into several sections that cover different aspects of safety, including incidents, driver performance, and overall experience. Each section should be filled out in accordance with the specific questions and requirements outlined below.
-
-Please note that this form is designed to be completed by passengers after each trip, and it is intended to help improve safety and overall driver performance.
-
-</thinking>
-
 # Passenger Safety Perception Assessment Form - Help Guide
 
 ## Purpose

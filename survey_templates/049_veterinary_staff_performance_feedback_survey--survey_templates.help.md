@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and only once per user. To achieve this, we'll need to make sure that users understand the purpose of the form and how to complete it accurately. This form is designed to gather feedback from veterinary staff on their performance, satisfaction, and areas for improvement. We'll use this information to evaluate the overall performance of our veterinary staff and identify areas that need attention.
-</thinking>
-
 # Veterinary_Staff_Performance_Feedback_Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from veterinary staff on their performance, job satisfaction, and areas for improvement.

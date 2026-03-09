@@ -1,13 +1,3 @@
-<thinking>
-To determine the purpose of this form, I'll examine the provided YAML fields. The form is for creating an "online-community-moderator-voting-form" which suggests it's a form for selecting moderators for an online community. The form has fields related to selecting moderators, setting voting duration, and gathering additional feedback, which further confirms its purpose.
-
-However, I will need to ensure that each field's label is clear and concise before proceeding. Upon reviewing the fields, I've noted a few ambiguous labels:
-* "Select Prophets or Moderators" - This label could be reworded to "Select Moderators or Prophets" to avoid implying an "or" between the two options, which might not be the intention.
-
-Upon reviewing the other fields, most labels are straightforward and self-explanatory. For example, "Moderator Role" and "Voting Duration" are clear and concise. I will use this understanding to create the user-facing help guide.
-
-</thinking>
-
 # online-community-moderator-voting-form - Help Guide
 ## Purpose
 This form is designed to help select moderators for an online community through a voting process. It allows community members to choose from different options for the moderator selection and specify the duration and unit of the voting. Additionally, it allows for additional feedback and contact information to be collected.

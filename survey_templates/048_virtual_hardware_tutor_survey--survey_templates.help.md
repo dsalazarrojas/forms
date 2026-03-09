@@ -1,12 +1,3 @@
-<thinking>
-This is a form for gathering feedback from users about their experience with virtual hardware tutors. The purpose of this form is to understand how users perceive the effectiveness and usability of virtual hardware tutors. The form is designed to collect information on satisfaction, technical issues, and learning impact, as well as any additional comments or feedback users may have. It is not intended to be a comprehensive survey, but rather a quick and straightforward way to gather user opinions.
-
-The form is part of a larger effort to improve virtual hardware tutors and provide users with better experiences.
-
-Please make sure you are taking this survey only once. Your feedback is valuable and will help us to better serve you.
-
-</thinking>
-
 # Virtual Hardware Tutor Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with virtual hardware tutors. Your input will help us improve the service and provide better support.

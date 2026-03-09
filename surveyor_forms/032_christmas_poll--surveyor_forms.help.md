@@ -1,7 +1,3 @@
-<thinking>This help guide is for the "Christmas Poll" form. This form is designed to collect information about users' holiday season plans, shopping habits, and preferences. It will help us understand how people plan to celebrate Christmas, what they like to buy and receive as gifts, and how they approach holiday shopping and celebrations. Please note that this form is for informational purposes only and is not affiliated with any form creation or survey platform. If you have any questions or concerns, feel free to contact us at form@gic.mx.
-
-</thinking>
-
 # Christmas Poll - Help Guide
 ## Purpose
 This form is a survey designed to collect information about users' holiday season plans, shopping habits, and preferences.

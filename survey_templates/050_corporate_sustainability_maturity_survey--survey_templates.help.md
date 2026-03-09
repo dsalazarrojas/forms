@@ -1,13 +1,3 @@
-<thinking>
-
-To create a helpful and clear user guide for the "Corporate Sustainability Maturity Survey", let's start by explaining the purpose of the form and checking for relevance and non-duplication.
-
-This form is designed to assess a company's commitment to corporate sustainability, covering various aspects such as social, environmental, and governance (ESG) performance. The goal is to evaluate how well the company integrates sustainability into its operations, decision-making, and reporting processes. This survey helps companies identify areas for improvement and provides insights into their overall sustainability maturity.
-
-The form is not a duplicate or copy of any other form, but rather an original adaptation created by AI using public survey topic metadata as inspiration. This guide will walk you through each field of the form to ensure a smooth and accurate completion process for the end user.
-
-</thinking>
-
 # Corporate Sustainability Maturity Survey - Help Guide
 
 ## Purpose

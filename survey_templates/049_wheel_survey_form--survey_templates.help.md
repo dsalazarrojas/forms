@@ -1,10 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "wheel_survey_form", I need to first understand the form's purpose and how it should be completed. Upon reviewing the provided YAML, I see that the form is likely used for gathering feedback and ratings from users. It appears to be a multi-page form with several fields, including a rating system with multiple pages, each with its own set of rating options.
-
-The form's purpose is to gather feedback and ratings from users, and the form has been designed to be completed in a way that allows users to provide their opinions on various aspects of the product or service being offered. The form has 10 fields in total, with the following fields: overall rating, prophet, feedback, multiple rating fields, date, and email. Each field has its own label, hint, and required status.
-
-</thinking>
-
 # wheel_survey_form - Help Guide
 ## Purpose
 The wheel_survey_form is a feedback and rating system designed to gather user opinions on various aspects of a product or service. It is a multi-page form that allows users to provide their ratings and feedback.

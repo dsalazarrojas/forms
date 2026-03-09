@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the "Surveyor Forms" category and its purpose is to collect information about household beverage containers. The form consists of multiple pages with fields to gather data about the container type, size, content, shape, material, and other relevant details. This form is designed for surveyors to collect data from households about their beverage containers, likely for research or analysis purposes. To avoid duplication, please make sure to fill out this form only once for each household. If you have already completed this form, please do not submit it again.
-</thinking>
-
 # Household Beverage Container Survey - Help Guide
 ## Purpose
 The Household Beverage Container Survey is a form designed to collect information about household beverage containers. This data will help us better understand household habits and consumption patterns related to beverage containers.

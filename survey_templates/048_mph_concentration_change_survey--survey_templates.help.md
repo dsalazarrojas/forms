@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Here is the final help document in Markdown:
 
 # MPH Concentration Change Survey - Help Guide

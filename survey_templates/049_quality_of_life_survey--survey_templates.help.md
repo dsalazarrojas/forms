@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Quality Of Life Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the quality of life (QoL) of patients. It asks about the patient's pain, anxiety, sleep patterns, medical history, and other relevant factors.

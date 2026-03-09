@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about human albumin usage from various medical professionals. The purpose of this survey is to collect data on how often, where, and in what context albumin is used. To ensure accuracy and relevance, please fill out the survey honestly and provide any necessary education or training on albumin use you have received.
-
-Please note that this form is an original adaptation created by AI using public survey topic metadata, and it is not affiliated with or endorsed by any form platform. You are free to use, modify, and even sell forms derived from it, as long as you give credit.
-
-</thinking>
-
 # Human Albumin Usage Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information about human albumin usage from various medical professionals. We are interested in understanding how often, where, and in what context albumin is used.

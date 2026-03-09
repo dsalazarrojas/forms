@@ -1,8 +1,3 @@
-<thinking>
-This help guide aims to inform parents about the purpose and usage of the School Virtual Learning Parent Survey. The survey is designed to gather feedback and insights from parents on the effectiveness and quality of support provided in the remote learning environment. It is essential to complete this form accurately to ensure the school can understand the needs and concerns of parents. Please do not skip any questions as they are all required for the school's improvement.
-
-</thinking>
-
 # School Virtual Learning Parent Survey - Help Guide
 ## Purpose
 The School Virtual Learning Parent Survey aims to gather your feedback and insights on the remote learning environment provided by the school. Your input will help the school to better understand your needs and concerns, ensuring that we can provide the best support for your child's education.

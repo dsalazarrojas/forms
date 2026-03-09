@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information from users about their family legacy role selection, interests, skills, preservation roles, preferred legacy, and growth goals. This form is used to understand individual preferences and characteristics of family members.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The purpose of this form is to gather information from users about their family legacy role selection, interests, skills, preservation roles, preferred legacy, and growth goals.

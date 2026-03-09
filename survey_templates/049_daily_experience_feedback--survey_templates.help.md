@@ -1,14 +1,3 @@
-<thinking>
-The form is designed for end-users to provide feedback on their daily experiences, which will be used to gauge the quality of services or products offered by the organization. The purpose of this form is to collect data that will help in identifying areas of improvement and areas of success. By filling out this form, end-users will be providing valuable insights that will aid in making data-driven decisions.
-
-To complete this form, follow the instructions below:
-
-1.  The form is divided into sections, each with a unique purpose.
-2.  For each field, please provide the requested information accurately.
-3.  Ensure that all required fields are filled out as they are marked with an asterisk (\*).
-
-</thinking>
-
 # Daily Experience Feedback - Help Guide
 ## Purpose
 The Daily Experience Feedback form is designed to collect information about your daily experiences, including what you liked or disliked about your experience, the quality of the service or product, and any other relevant comments or suggestions.

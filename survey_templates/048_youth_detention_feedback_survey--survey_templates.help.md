@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I'll consider the provided YAML fields and create a clear and concise guide for end-users to understand the form's purpose, how to complete it, and what each field means.
-
-The Youth Detention Feedback Survey is a form designed to gather feedback from individuals who have experienced a youth detention or incarceration. The form aims to gather information on their general sense of safety, the quality of support they received from staff, and their specific needs and comments. The survey is essential for understanding the needs and experiences of young people in detention and for improving the overall care and support services provided.
-
-</thinking>
-
 # Youth Detention Feedback Survey - Help Guide
 ## Purpose
 The Youth Detention Feedback Survey is designed to gather feedback from individuals who have experienced a youth detention or incarceration. The survey aims to understand their experiences, needs, and concerns during their stay, ultimately helping to improve the quality of care and support services provided.

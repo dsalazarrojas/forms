@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the consumer behavior and preferences related to a new product launch. This form is intended to gather insights on the target audience's demographics, product interest, and feedback on the launch process. It's likely used for market research purposes to understand customer behavior and preferences for product development and marketing strategies. Please review the form fields below to ensure you're completing the form accurately and thoroughly.
-
-Please do not complete this form if you've already responded to the survey for the same product. Your responses will not be saved or recorded. If you have any questions or concerns, feel free to ask.
-
-</thinking>
-
 # New Product Launch Consumer Behavior Survey - Help Guide
 ## Purpose
 The New Product Launch Consumer Behavior Survey is designed to collect information about your thoughts, feelings, and preferences regarding a new product. Your responses will help us understand how to improve our products and services.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a survey that assesses users' awareness and perceptions of different styles and trends in the fashion industry. The purpose of this form is to gather information on how users perceive and interact with different fashion styles, including denim. This form is likely to be used by fashion retailers, designers, or researchers to gain insights into consumer behavior and preferences. To avoid duplication, users should only complete this form once per session. If you have already completed this form, please do not proceed to avoid skewing the results.
-</thinking>
-
 # Jeans Style Awareness Quiz - Help Guide
 
 ## Purpose

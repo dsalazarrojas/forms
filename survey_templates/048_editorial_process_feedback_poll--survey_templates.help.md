@@ -1,7 +1,3 @@
-<thinking>
-We're going to assume the form is used to collect feedback from editors about the editorial process. This form will be used to gather information on the satisfaction of the editors, potential pain points, and areas of improvement for the process. This feedback will help the editorial team to make informed decisions on how to improve the process.
-</thinking>
-
 # Editorial Process Feedback Poll - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from editors about their experience with the editorial process. This feedback will help us identify areas of improvement and ensure that our processes are efficient and effective.

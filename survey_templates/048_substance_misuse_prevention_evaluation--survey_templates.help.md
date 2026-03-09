@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # substance misuse prevention evaluation - Help Guide
 
 ## Purpose

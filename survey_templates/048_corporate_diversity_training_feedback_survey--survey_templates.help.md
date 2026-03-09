@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from employees who have attended corporate diversity training sessions. The purpose of this form is to collect information on various aspects of the training, including the employee's feelings and opinions about the content, instructor, and overall experience. This form will help the organization understand what worked well and what didn't, allowing them to refine and improve future training sessions. Before proceeding, please ensure that you have not already completed this form for this training session. If you have any concerns or questions, please contact the training department.
-</thinking>
-
 # Corporate Diversity Training Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees who have attended corporate diversity training sessions. It helps the organization understand how to improve future sessions, ensuring that they are effective and engaging for all attendees.

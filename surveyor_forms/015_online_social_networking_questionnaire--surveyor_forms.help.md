@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, Online Social Networking Questionnaire, is to collect information from users about their online social networking activities and preferences. This form will help us better understand our users' online behavior and interactions. The form is designed to be completed by users who are interested in sharing their online social networking experiences and opinions.
-</thinking>
-
 # Online Social Networking Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users about their online social networking activities and preferences.

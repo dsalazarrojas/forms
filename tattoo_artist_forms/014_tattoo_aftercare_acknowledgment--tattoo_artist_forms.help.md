@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to ensure that the client has properly understood and taken care of their new tattoo. It is a critical part of the tattoo process and helps to minimize the risk of infection and promote optimal healing. This form is typically used in conjunction with the aftercare instructions provided by the artist during the tattoo session. It serves as a proof that the client has indeed read and understood the aftercare information, and has taken necessary steps to maintain their skin's integrity post-tattoo.
 
 ## Tattoo Aftercare Acknowledgment - Help Guide

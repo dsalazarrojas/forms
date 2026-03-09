@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, this help guide is generated based on the provided YAML fields. The form's purpose is to collect information from clients about their tattoo preferences, including date, time, phone number, email, tattoo style, size, color, and other relevant details. The form is meant to gather data to create a waitlist for tattoo artists. This form will likely be used by tattoo artists or studio staff to manage their waitlist, allowing them to schedule appointments and communicate with clients more efficiently.
-</thinking>
-
 # Tattoo Waitlist Form - Help Guide
 
 ## Purpose

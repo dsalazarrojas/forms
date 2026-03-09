@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers on their experience with the support team. The purpose of this form is to gather information on the customer's satisfaction with the support provided, and to identify areas where improvement is needed. This data will be used to help the support team refine their processes and provide better service to customers in the future.
-
-To avoid duplication of effort, please only fill out this form if you have already spoken to the support team and have not received a resolution to your issue. If you are experiencing an issue and need immediate assistance, please contact the support team directly.
-</thinking>
-
 # Customer Support Satisfaction Questionnaire - Help Guide
 ## Purpose
 This form is a survey designed to collect feedback from customers on their experience with the support team.

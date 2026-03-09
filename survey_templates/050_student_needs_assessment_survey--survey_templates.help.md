@@ -1,9 +1,3 @@
-<thinking> ... (internal reasoning block)
-
-This form is intended to collect feedback from students on their needs and experiences within their program of study. The purpose of this form is to help identify areas where the program can improve to better support students' needs and expectations. By completing this form, students can provide valuable insights that will inform the development of new resources and tools to enhance their learning experience.
-
-</thinking>
-
 # Student Needs Assessment Survey - Help Guide
 
 ## Purpose

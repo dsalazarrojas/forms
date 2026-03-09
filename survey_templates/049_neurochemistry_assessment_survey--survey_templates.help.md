@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's mental health status, self-care habits, and emotional regulation skills. It is intended to help users assess their overall well-being and identify areas for improvement. The survey is not meant to be a diagnostic tool, but rather a helpful guide for users to better understand their mental health and develop strategies for maintaining their well-being.
-
-Before filling out this survey, please note that:
-
-* This form is for personal use only and should not be used as a substitute for professional medical or psychological advice.
-* The information collected is for internal use only and will not be shared with third parties.
-* This survey is designed to be completed by the individual themselves, not on behalf of someone else.
-
-Please answer the questions honestly and to the best of your ability. If you have any concerns or questions, feel free to reach out to us.
-
-</thinking>
-
 # Neurochemistry Assessment Survey - Help Guide
 ## Purpose
 This survey is designed to assess your current mental health status, self-care habits, and emotional regulation skills. The goal is to help you better understand your overall well-being and identify areas for improvement.

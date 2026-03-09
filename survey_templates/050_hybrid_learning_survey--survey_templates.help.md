@@ -1,24 +1,3 @@
-<thinking> 
-This form is a Hybrid Learning Survey, which aims to gather information about users' learning styles, preferences, and habits. The purpose of this survey is to collect data that will help improve the effectiveness of educational content and resources offered by our organization. 
-
-To complete this form, please follow these steps:
-
-1. Fill in your first name in the "first_name" field. This is a required field if you want to save your submission.
-2. Enter your email address in the "email" field. This field should be in a standard email format (e.g., "user@example.com").
-3. Provide your phone number in the "phone" field. This field can be left blank if you do not wish to provide this information.
-4. Select one or more of the following learning styles from the "learning_style" field:
-	* Choice 1
-	* Choice 2
-	* Choice 3
-5. Choose one or more of the following learning levels from the "learning_level" field:
-	* Choice 1
-	* Choice 2
-	* Choice 3
-6. Enter your preferred date for taking this survey in the "date_taken" field. The format should be MM/dd/yyyy.
-7. If you have spent some time on the learning content, enter the time spent in the "time_spent" field.
-8. Leave any additional comments in the "user_comment" field. This is an optional field, so feel free to provide as much or as little information as you like. 
-</thinking>
-
 # Hybrid Learning Survey - Help Guide
 ## Purpose
 This form is a Hybrid Learning Survey, which aims to gather information about users' learning styles, preferences, and habits.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a custom baseball club t-shirt order. It is intended for team managers to enter details about their team's order requirements, including team name, manager's name, contact information, order date, shirt style, color, and quantity. The form also includes fields for front and back design details, player names and numbers on the back of the shirts, and logo file upload. This form is crucial for ensuring accurate and efficient processing of the order. To prevent duplication, this form should only be used for new orders.
-</thinking>
-
 # Baseball Club T Shirt Order Form - Help Guide
 ## Purpose
 This form is for teams to order custom baseball t-shirts. Please ensure accurate and clear information is provided to ensure correct order processing.

@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to collect feedback from users who interact with our AI chat agents. This form will help us understand their experience, gather information about their needs, and identify areas where our chat agents can improve. The goal is to make our chat agents more helpful and user-friendly. If you're a frequent user of our chat agents, please fill out this form to help us serve you better.
-</thinking>
-
 # AI Agent Chat Interaction Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users who have interacted with our AI chat agents. Your responses will help us improve the performance and usability of our chat agents.

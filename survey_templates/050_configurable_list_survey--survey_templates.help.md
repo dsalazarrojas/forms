@@ -1,7 +1,3 @@
-<thinking>
-This form is used for a configurable list survey, which allows users to provide feedback, assessments, or other types of evaluations. This form is designed to be flexible and customizable, allowing users to fill out different categories of questions tailored to their specific needs. The survey is likely used for research, product development, or other similar purposes. It's essential to fill out this form accurately and thoroughly to provide useful and relevant data for analysis.
-</thinking>
-
 # Configurable List Survey - Help Guide
 
 ## Purpose

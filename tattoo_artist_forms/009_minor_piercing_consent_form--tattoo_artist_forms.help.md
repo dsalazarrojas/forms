@@ -1,5 +1,3 @@
-<thinking>...to ensure the form's purpose and explanation are accurate and relevant...</thinking>
-
 # Minor Piercing Consent Form - Help Guide
 ## Purpose
 The Minor Piercing Consent Form is used to obtain consent from minors (individuals under 18 years of age) and their parents or legal guardians for a medical procedure, in this case, a piercing. This form is a legal requirement for tattoo or piercing establishments to document the consent of a minor before performing any body modification.

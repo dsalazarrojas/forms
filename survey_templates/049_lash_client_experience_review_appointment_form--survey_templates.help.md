@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect client feedback on their experience with a lash technician during an appointment. This feedback is used to improve the service provided by the lash technician and to help identify areas for improvement. The form will be used by [insert company/department name] to evaluate client satisfaction and to identify potential issues that need to be addressed. Before filling out this form, please ensure that you have not already submitted a review for this appointment. If you have already submitted a review, it will be treated as a duplicate and will not be processed. This form should only be filled out once per client.
-</thinking>
-
 # Lash Client Experience Review Appointment Form - Help Guide
 ## Purpose
 The Lash Client Experience Review Appointment Form is used to collect client feedback on their experience with a lash technician during an appointment. This feedback helps to identify areas for improvement and to evaluate client satisfaction.

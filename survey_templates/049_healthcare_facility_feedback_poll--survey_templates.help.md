@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from healthcare facility users, patients, or staff to gauge their experiences and opinions about the facility's quality of care, services, and overall satisfaction. This information will help the facility's management to identify areas of improvement and make data-driven decisions to enhance the facility's performance and patient experience. Please ensure this form is used only for the intended purpose and does not duplicate efforts or overlap with existing feedback mechanisms.</thinking>
-
 # Healthcare Facility Feedback Poll - Help Guide
 ## Purpose
 The healthcare facility feedback poll is a tool to gather information about your experience with our healthcare facility. Your input will help us understand our strengths and weaknesses and make informed decisions to improve our services.

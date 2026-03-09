@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect participant information, consent, data usage, publication purpose, contact information, signature, date, and time for field survey data publication. This form aims to ensure that participants understand how their data will be used and shared, and to obtain their consent for publication. It's essential to complete this form correctly to ensure accurate and compliant data handling. Please make sure to review the form carefully and fill it out according to your understanding of your role and responsibilities.</thinking>
-
 # Field Survey Data Publication Consent Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information for the publication of field survey data. It's crucial to complete this form carefully to ensure accurate and compliant data handling.

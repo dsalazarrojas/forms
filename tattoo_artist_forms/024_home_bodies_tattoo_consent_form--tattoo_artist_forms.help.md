@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for use by clients of a tattoo studio to provide information about their personal details, medical history, and tattoo session specifics. The purpose of this form is to ensure that the client provides the necessary information to facilitate a safe and successful tattooing experience. This includes gathering demographic information, medical history, and payment details. The information provided on this form will be used by the tattoo artist and studio staff to plan and execute the tattoo session, and to ensure that the client's needs are met during the process.
-
-</thinking>
-
 # Home Bodies Tattoo Consent Form - Help Guide
 
 ## Purpose

@@ -1,23 +1,3 @@
-<thinking>
-
-This form is a survey designed to collect information about potential barriers to team productivity. It is meant to be used by team members to provide feedback and suggestions for improvement. The form is intended to gather data on the following fields:
-* Team name
-* Department
-* Manager name (optional)
-* Barrier to productivity
-* Feedback on the barrier
-* Suggestion for improvement
-* Date of incident
-* Time of incident (optional)
-* Team member email
-* Phone number (optional)
-* Notes on the incident
-* Manager feedback on the incident
-
-This form is likely to be used by team leaders or managers to identify and address potential productivity barriers within their team. The form is designed to be completed by team members, but the manager's feedback is also an important part of the process.
-
-</thinking>
-
 # team_productivity_barriers_survey - Help Guide
 ## Purpose
 This form is a survey designed to collect information about potential barriers to team productivity. It is meant to gather data on incidents that have hindered team performance and provide suggestions for improvement.

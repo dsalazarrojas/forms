@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information on sonar findings from marine surveys. The form's purpose is to gather data on whether any sonar findings were observed during a marine survey, including the date and time of the survey, the location where the findings were observed, and any attachments or files related to the survey. The form is designed to be completed by surveyors who are collecting data on sonar readings.
-</thinking>
-
 # Sonar Finding Report Form - Help Guide
 ## Purpose
 The Sonar Finding Report Form is used to capture information on sonar findings from marine surveys.

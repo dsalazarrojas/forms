@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect feedback and data from clinicians regarding their adoption and satisfaction with healthcare technology. The survey aims to gather information on various aspects of technology adoption, including hospital settings, clinician feedback, technology adoption barriers, tool satisfaction, clinician satisfaction, clinician experience, clinician training, clinician adoption barriers, clinician satisfaction score, clinician satisfaction rationale, clinician satisfaction comment, technology adoption barriers comment, clinician satisfaction implementation, clinician satisfaction innovation, clinician satisfaction easiness, clinician satisfaction usability, clinician satisfaction easiness score, clinician satisfaction usability score, clinician satisfaction usability comment, clinician satisfaction easiness comment, clinician satisfaction easiness implementation, clinician satisfaction usability innovation, clinician satisfaction easiness score.
-
-Please note that this form is not a part of any official medical records or certifications. All responses will be kept confidential and will only be used for internal purposes.
-
-Before starting the survey, please make sure you have not already completed it. This will help us to avoid duplicating your responses.
-
-</thinking>
-
 # Healthcare Technology Adoption Survey - Help Guide
 
 ## Purpose

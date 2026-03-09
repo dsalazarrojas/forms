@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users who have gone through the corporate training material. The purpose of this form is to collect opinions and suggestions from users about the quality and effectiveness of the training material. This form is intended to help the course creators understand what works well and what needs improvement, and to inform future course development.
-
-This form is designed to be completed by one person at a time. If you are completing this form on behalf of someone else, please ensure that you are providing their feedback and suggestions accurately.
-
-Before starting the form, please note that each question is optional, but some questions are marked as required. Required questions are indicated by "required: true" in the form metadata. It is recommended that you answer all questions, especially the required ones, to provide the most valuable feedback.
-
-</thinking>
-
 # corporate_training_material_feedback_questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about the corporate training material.

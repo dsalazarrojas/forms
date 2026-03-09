@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and ratings from customers about a homemade soap product. The form is used to gauge customer satisfaction and help identify areas for improvement. This form is not required to be filled out for every customer, but it can be shared with customers who have made a purchase and are willing to provide feedback. This form is part of a larger survey template collection, and its contents may be adjusted or extended as needed. Please use this form to provide honest and constructive feedback.
-</thinking>
-
 # Homemade Soap Survey Form Template - Help Guide
 ## Purpose
 The Homemade Soap Survey Form Template is a tool to collect feedback and ratings from customers about your homemade soap products. Fill out this form to help us understand your experience and provide input for future product development.

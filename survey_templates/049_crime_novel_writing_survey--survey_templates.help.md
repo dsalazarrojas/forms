@@ -1,9 +1,3 @@
-<thinking>
-This form is a survey for writers who are interested in or currently writing crime novels. The purpose of this form is to gather information about writers' experiences, habits, and preferences in the field of crime novel writing. This form is designed to be completed by writers who are looking for guidance on how to improve their writing skills and potentially connect with other writers in the industry.
-
-The goal is to ensure that the form does not get filled out multiple times by the same person. If the user has already filled out this form, they should not be able to fill it out again, which can be achieved through user authentication or session management.
-</thinking>
-
 # Crime Novel Writing Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your experiences, habits, and preferences as a crime novel writer. The goal of this survey is to help you improve your writing skills and connect with other writers in the industry.

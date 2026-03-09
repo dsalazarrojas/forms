@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to gather user feedback about Apple products and services, covering various aspects such as product quality, innovation, and customer service. This guide will walk you through the fields in the Apple Survey form, explaining each field's purpose and how to fill it out effectively.
-The goal is to provide valuable insights to Apple, and this form should only be completed by those who have experience with Apple products or services.
-</thinking>
-
 # Apple Survey - Help Guide
 ## Purpose
 This guide will walk you through the Apple Survey form, a set of questions designed to gather your honest opinions and feedback about your experience with Apple products and services. By completing this form, you will help Apple better understand your needs and preferences, ultimately contributing to their development and improvement of future products and services.

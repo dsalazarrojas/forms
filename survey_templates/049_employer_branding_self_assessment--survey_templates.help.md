@@ -1,14 +1,3 @@
-<thinking>
-The form is intended to help employers assess their company's branding and self-assessment strategies. The purpose of the form is to gather data on several key areas of company culture and employee well-being.
-
-The form is not intended for use as a legal document or for use in any official or formal process. It is solely for internal use and will not be shared with anyone outside the organization.
-
-To use this form, simply follow the instructions below.
-
-Please ensure that all fields that are marked as "Required" are filled out before submitting the form. Some fields may have multiple options, and you can choose one or more of them, depending on your preferences.
-
-</thinking>
-
 # employer-branding-self-assessment - Help Guide
 ## Purpose
 This form is intended to help employers assess their company's branding and self-assessment strategies.

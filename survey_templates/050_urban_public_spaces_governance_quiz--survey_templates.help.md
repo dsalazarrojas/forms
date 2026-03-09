@@ -1,8 +1,3 @@
-<thinking>
-This form is for users to provide their thoughts and input on urban public spaces governance, including public space management, participation, and usage. It is intended to gather information on users' perceptions and priorities regarding urban public spaces, and how they think they can be improved. It is not a formal evaluation or review form, but rather a way to collect qualitative data that can be used to inform urban planning and improvement efforts. 
-
-Please note that the form is quite long, and users are expected to provide answers or input for all questions that are marked as required.</thinking>
-
 # urban_public_spaces_governance_quiz - Help Guide
 ## Purpose
 This form is for users to provide their thoughts and input on urban public spaces governance, including public space management, participation, and usage.

@@ -1,5 +1,3 @@
-<thinking>This form is designed to assess the level of workplace belonging among employees in a team setting. The form asks questions that cover various aspects of employee experience, such as job satisfaction, team dynamics, communication, and feedback. The form is intended to help management and HR teams understand employee sentiment and identify areas for improvement in the workplace environment.</thinking>
-
 # Workplace Belonging Assessment Survey - Help Guide
 ## Purpose
 The Workplace Belonging Assessment Survey is a tool designed to help employees feel connected and engaged in their workplace. It assesses their level of belonging in various aspects of their job and work environment.

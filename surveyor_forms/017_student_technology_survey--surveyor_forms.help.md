@@ -1,12 +1,3 @@
-<thinking>
-This form is a Student Technology Survey created by AI using public survey topic metadata. The form is designed to collect information about students' and teachers' use and attitudes towards technology in educational settings. It is intended to be a helpful tool for educational institutions to gather insights and inform decision-making about technology integration in the classroom.
-
-Before completing this form, please ensure that you have reviewed the questions carefully and understood the context in which they are to be answered. This form should not be used to collect sensitive or personally identifiable information, as it is designed for general purposes only.
-
-This guide is for the end-users of the form, i.e. students and teachers who will be filling out the survey. It is recommended to review this guide carefully before starting the survey.
-
-</thinking>
-
 # Student Technology Survey - Help Guide
 ## Purpose
 

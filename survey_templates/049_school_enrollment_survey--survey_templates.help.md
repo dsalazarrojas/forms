@@ -1,11 +1,3 @@
-<thinking>
-The School Enrollment Survey form is designed to collect information about students and their families. This form is likely used by educational institutions to gather data on student demographics, background, and educational aspirations. The form is likely used to help institutions tailor their services and programs to meet the needs of their students. 
-
-The following fields should be completed by the student or their guardian(s), and the required fields should be filled out first to ensure that the form is valid. 
-
-Please note that the form may be duplicated in the system due to multiple submissions from the same student. To avoid this, ensure that only one submission is made per student.
-</thinking>
-
 # School Enrollment Survey - Help Guide
 ## Purpose
 The School Enrollment Survey is designed to collect information about students and their families to help educational institutions tailor their services and programs.

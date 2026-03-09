@@ -1,13 +1,3 @@
-<thinking>
-The form is designed to collect user feedback and opinions on photography exhibition themes. It is used to gauge the interest and preferences of the target audience in various photography themes. Each page of the form is designed to collect specific information from the user.
-
-The form is composed of multiple pages, each with its own type of input field (text, select_one, select_multiple, number, date, time, and note). Each field is designed to collect different types of information from the user, such as their preferences, opinions, or demographic information.
-
-Before filling out the form, please make sure that the form has not been filled out by you before, and that you are submitting your genuine opinion. If you are unsure about any field, please refer to the field-by-field explanation below.
-
-Please note that the fields are not necessarily required, unless specified. If you encounter any issues while filling the form, please do not hesitate to contact us for assistance.
-</thinking>
-
 # Photography Exhibition Theme Voting Form - Help Guide
 ## Purpose
 This form is designed to collect your opinions and preferences on photography exhibition themes. It will help us understand your interest and feedback on various photography themes.

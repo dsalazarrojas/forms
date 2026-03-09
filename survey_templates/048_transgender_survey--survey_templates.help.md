@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Transgender Survey - Help Guide
 ## Purpose
 The Transgender Survey is a tool designed to gather information about the gender identity and experiences of transgender individuals. This survey aims to collect data to better understand the needs and concerns of this community, and to provide a platform for individuals to share their stories and insights.

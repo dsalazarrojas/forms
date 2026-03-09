@@ -1,8 +1,3 @@
-<thinking>
-This form, Earpiece Usage Feedback Form, is designed to gather feedback from users about their experience with earpieces. The purpose of this form is to collect information about users' satisfaction with the earpiece, their purchase decision, and their overall experience with the product and its associated services. This form is intended for internal use by the company providing the earpiece, and the data collected will help them improve their products and services.
-To avoid duplication and ensure relevance, users who have already submitted feedback for the same product or have already purchased the earpiece will be directed to a "Thank you for your feedback" page.
-</thinking>
-
 # Earpiece Usage Feedback Form - Help Guide
 ## Purpose
 The Earpiece Usage Feedback Form is designed to gather feedback from users about their experience with earpieces. This form will help the company providing the earpiece to improve their products and services.

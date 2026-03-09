@@ -1,10 +1,3 @@
-<thinking>
-This form is for capturing product information for an industrial design checklist. The form is used to collect data about a product's name, description, category, and other relevant details. Please note that this form does not require any specific product category or subcategory information, and all fields except "product category" and "product material" are optional. It's likely that this form is intended for a general product catalog or inventory management system.
-
-Before creating a product template, ensure you have all the necessary information for the product. Please fill in the form completely to ensure accurate and relevant product data.
-
-</thinking>
-
 # industrial_design_checklist - Help Guide
 ## Purpose
 This form is used to capture product information for an industrial design checklist.

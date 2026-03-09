@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and satisfaction data from customers who have used our catering services. The information collected will help us evaluate the quality of our services, identify areas for improvement, and make necessary adjustments to provide better experiences for our customers in the future. This form should be filled out only once for each event, and answers should reflect the customer's personal experience with our caterer.
-
-</thinking>
-
 # Catering Survey - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the Catering Survey form. Please follow along to ensure you provide accurate and thorough feedback.

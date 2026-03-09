@@ -1,7 +1,3 @@
-<thinking>
-This form will be used to collect information from customers who want to subscribe to our cybersecurity awareness program. The form should only be filled out by customers who have not already subscribed. Please check our records before filling out this form to ensure you don't end up subscribing again.
-</thinking>
-
 # Cybersecurity Awareness Subscription Form - Help Guide
 ## Purpose
 The Cybersecurity Awareness Subscription Form is used to collect information from customers who want to subscribe to our cybersecurity awareness program. This form ensures that customers do not duplicate their subscription, and it helps our team to understand who is subscribed and for what purposes.

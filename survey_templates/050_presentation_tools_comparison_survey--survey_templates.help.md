@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback and data from users who have used presentation tools. It aims to help us understand their experiences with these tools, including the types of slides they've used, which tools they've used, and their overall satisfaction. This information will be used to improve our knowledge on presentation tools. Please ensure you have used the tools before filling out this form, and answer the questions honestly and accurately.</thinking>
-
 # Presentation Tools Comparison Survey - Help Guide
 ## Purpose
 The Presentation Tools Comparison Survey is a tool for users to share their experiences with presentation tools. We use this information to improve our knowledge on presentation tools.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Exterior Door Replacement Survey - Help Guide
 ## Purpose
 This form is designed to collect information from users about their exterior door replacement experiences. It is intended for users who are planning or have already replaced their exterior doors. The purpose of this form is to gather data on the process, challenges, and outcomes of exterior door replacement.

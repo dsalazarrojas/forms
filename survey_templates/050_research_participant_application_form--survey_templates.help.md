@@ -1,14 +1,3 @@
-<thinking>
-This form is likely used for participants to provide information about themselves and their participation in research projects or studies. It might be used for tracking and organization purposes in a research context. The fields seem to gather general participant information such as their name, contact information, and consent for research participation.
-
-The purpose of this form could be to:
-* Track participant information for research projects or studies
-* Ensure participant informed consent
-* Organize participant data for future use
-
-Please check with your team/department if you're planning to use this form to avoid duplication of effort or misalignment with existing processes.
-</thinking>
-
 # Research Participant Application Form - Help Guide
 ## Purpose
 This form is used to collect information from participants in research projects or studies.

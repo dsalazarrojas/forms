@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for judges to evaluate and score pitches presented at a business pitch event. The form allows judges to rate their top three choices, with each choice being a company, and score each choice based on various criteria such as innovation, market potential, team quality, and financial projections. Judges can also provide additional feedback and indicate their interest in investing in any of the pitches. The form is designed to help event organizers understand the judges' preferences and score the pitches accordingly.
-</thinking>
-
 # Business Pitch Voting Form - Help Guide
 ## Purpose
 This form is for evaluating and scoring pitches presented at a business pitch event.

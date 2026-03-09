@@ -1,5 +1,3 @@
-<thinking>... internal form validation will be triggered to prevent non-relevant and duplicate submissions. This form is a collection of fields that gather feedback from users on 3D models. Please provide honest and constructive feedback on the models you have interacted with. Your input will be instrumental in helping us improve our 3D model offerings... </thinking>
-
 # 3D Model Feedback Form - Help Guide
 ## Purpose
 The 3D Model Feedback Form is designed to gather information about your experience with our 3D models. This form will help us identify areas of improvement and refine our 3D modeling capabilities.

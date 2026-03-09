@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for anonymous demographic surveys, collecting information about the user's demographic details such as age group, gender identity, education level, employment status, household income range, geographic region, and additional comments. This form is intended to be used for general demographic purposes and should not be used for any specific commercial or personal identification. Please ensure that you are not duplicating your responses, as all answers will be anonymous.
-
-</thinking>
-
 # Anonymous Demographic Survey - Help Guide
 ## Purpose
 This form is intended for collecting anonymous demographic information from users.

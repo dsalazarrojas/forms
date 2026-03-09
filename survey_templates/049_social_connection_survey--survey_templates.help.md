@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the Social Connection Survey form, a tool used to gather information about schools and teachers. Before proceeding, please ensure that this form is relevant to your needs and not a duplicate of another survey.
-The Social Connection Survey form is a crucial instrument for understanding the dynamics between teachers and students in a school setting. It helps in identifying areas of improvement, providing a more comprehensive picture of the school environment. This guide will walk you through each section of the form, explaining the purpose and requirements of each field to ensure a smooth and accurate completion process.
-</thinking>
-
 # Social Connection Survey - Help Guide
 ## Purpose
 The Social Connection Survey is designed to gather information about the social connections between teachers and students in a school setting. This form is intended to measure various aspects of teacher-student relationships, including student-teacher ratio, teacher qualifications, experience, and interaction. By completing this survey, you will help us better understand the social connections within schools.

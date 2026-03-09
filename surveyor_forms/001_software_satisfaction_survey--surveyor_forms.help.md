@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect feedback from software users on their overall satisfaction and experience with the software. The purpose is to understand user satisfaction, usability, and identify areas for improvement. It is essential to provide honest and constructive feedback to help the software development team make informed decisions.
-The form will be used to collect numerical feedback on overall satisfaction and usability, as well as multiple-choice and free-form text feedback on specific features, bugs, and suggestions. The collected data will help the development team to identify areas that need improvement and make data-driven decisions.
-This form is not meant to be filled out by non-users or users with no actual experience with the software.
-</thinking>
-
 # software_satisfaction_survey - Help Guide
 ## Purpose
 The software satisfaction survey is designed to collect feedback from users on their overall satisfaction and experience with the software. This feedback will help the development team to understand user needs and preferences, and make data-driven decisions to improve the software.

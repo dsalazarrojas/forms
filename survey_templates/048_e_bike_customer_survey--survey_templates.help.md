@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a customer feedback survey for the E Bike service. It's designed to collect feedback and ratings from customers to help the company improve its products and services. Before filling out this form, please ensure you have not filled out a similar survey before, as this one is specific to the E Bike service. If you're unsure about any of the questions or have questions, please refer to the terms and conditions section for further clarification.
-</thinking>
-
 # E Bike Customer Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from customers about the E Bike service. Your input will help us understand what we're doing well and where we need to improve.

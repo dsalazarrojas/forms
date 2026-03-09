@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Curling Event Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience at a curling event. The feedback collected will help us understand what worked well and what can be improved for future events.

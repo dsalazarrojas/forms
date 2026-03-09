@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect site-specific information for network and camera deployments. It is intended to be used by network administrators and camera operators to document and track site-specific details. Before filling out this form, please ensure that you have not already created a record for this site. If you are not sure, check the site's existing record or contact the relevant authorities to confirm.
-</thinking>
-
 # Network And Camera Deployment Survey - Help Guide
 ## Purpose
 This form is used to document and track site-specific information for network and camera deployments.

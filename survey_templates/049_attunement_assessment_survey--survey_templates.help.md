@@ -1,5 +1,3 @@
-<thinking>Form created using AI, not affiliated with any form platforms, released under CC BY 4.0. Use, modify, and sell derived forms, give credit.</thinking>
-
 # Attunement Assessment Survey - Help Guide
 ## Purpose
 This survey assesses your emotional awareness, regulation, and interpersonal attunement skills. It's essential to be honest in your responses, as they will help us understand your strengths and areas for improvement in these key areas.

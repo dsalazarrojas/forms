@@ -1,7 +1,3 @@
-<thinking>
-We're creating this guide to help users understand the purpose and use of the Employee Retention Survey Form. Before proceeding, please note that this guide will only address the fields mentioned in the provided YAML. If there are any further questions or concerns, please don't hesitate to reach out.
-</thinking>
-
 # Employee Retention Survey Form - Help Guide
 ## Purpose
 This survey is designed to gather information about your experiences, opinions, and perceptions about your job and company. Your responses will help us understand what we do well and where we can improve, ultimately leading to a more positive and productive work environment.

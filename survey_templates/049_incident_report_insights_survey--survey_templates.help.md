@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of this form, we need to analyze the fields provided in the YAML. The form appears to be designed to gather information about incidents that occurred at a site, possibly for incident report insights or risk assessment purposes. It includes fields for site name, incident date, contact information, location, employee numbers, visitor numbers, contractor numbers, supervisor numbers, responder numbers, incident injuries, fires, electrical issues, chemical exposure, falls, vehicular incidents, weather-related incidents, and other incident types. It also includes spaces for comments, recommendations, and when the survey was sent. The intent is likely to gather data about site incidents for improvement and risk assessment purposes.
-</thinking>
-
 # Incident Report Insights Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about incidents that occurred at a site. Please provide accurate and detailed responses to help us improve incident reporting and risk assessment processes.

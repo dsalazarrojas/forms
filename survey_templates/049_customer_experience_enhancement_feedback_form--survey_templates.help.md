@@ -1,11 +1,3 @@
-<thinking>
-
-To create a form that gathers customer experience feedback for a company, the primary goal is to understand the customer's perspective on their interaction with the company. This feedback can be used to improve customer service, product development, and overall customer satisfaction. 
-
-Please ensure that the provided form template is only used once and for the intended purpose. 
-
-</thinking>
-
 # Customer Experience Enhancement Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather customer feedback on their experience with our company. The feedback provided will help us to identify areas of improvement and enhance our services.

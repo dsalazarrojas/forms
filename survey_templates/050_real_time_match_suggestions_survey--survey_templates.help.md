@@ -1,10 +1,3 @@
-<thinking>
-# Internal reasoning block to explain the form purpose and ensure it doesn't duplicate existing knowledge.
-This form is designed for users to provide real-time match suggestions, which can include matches for events, activities, or any other context where a match is relevant. It's intended to be used in a real-time or near-real-time context, such as when a user is currently engaged in an activity or waiting for a response from another party. The goal is to gather information about the user's preferences and needs in order to provide personalized suggestions. This form is meant to be used in conjunction with other forms or tools that can provide real-time match suggestions.
-Given the provided YAML, the form is not likely to be duplicated or have similar intent elsewhere, as it seems to be a unique request for real-time match suggestions.
-
-</thinking>
-
 # real_time_match_suggestions_survey - Help Guide
 ## Purpose
 This form is designed to gather information from the user to provide real-time match suggestions that suit their preferences and needs.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect feedback from users about their experience during a crisis situation. This feedback will help us identify areas of improvement and make necessary adjustments to better support users in the future. 
 
 Before filling out this form, please ensure that you have not already provided feedback on this specific crisis situation, as duplicate submissions can cause confusion and make it harder for us to track progress. 

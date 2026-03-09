@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is designed to gather data for digital awareness, which is a crucial aspect of digital transformation in various sectors. The form consists of four pages, each with a different type of question or field. The first three pages are text-based, whereas the fourth page contains multiple-choice questions. The form is meant to be completed by end-users who are likely professionals or experts in their respective fields. This form will help gather their perceptions and thoughts on the digital awareness, and its completion is optional. There is no duplication in this form, as each page is designed to be standalone, and the options on the last page are mutually exclusive.</thinking>
-
 # Digital Awareness Survey - Help Guide
 
 ## Purpose

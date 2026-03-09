@@ -1,9 +1,3 @@
-<thinking>
-We want to ensure that the closing check is completed thoroughly and accurately to maintain a safe and organized work environment. This form is designed to gather essential information about the closing of each shift or business day, including employee details, work areas, and important safety and security checks. Please fill out the form carefully and accurately to help us improve our closing procedures.
-
-Before starting, please note that some questions might not apply to your specific situation, so please answer accordingly. If you're unsure about any field, refer to the explanations below.
-</thinking>
-
 # Closing Check Survey - Help Guide
 ## Purpose
 The Closing Check Survey is a crucial tool to ensure a smooth transition between shifts or business days. It helps to identify areas of improvement and maintain a safe, organized, and secure work environment.

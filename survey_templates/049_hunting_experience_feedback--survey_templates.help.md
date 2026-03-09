@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "Hunting Experience Feedback" form is designed to gather information about a user's experience with a guided hunting trip. It is intended to be completed by clients who have participated in a guided hunting trip and are now providing feedback on their experience.
 
 The purpose of the form is to gather qualitative and quantitative feedback from users, including their overall rating of the experience, comments about specific aspects of the trip, and suggestions for improvement. The form is meant to be a way for outfitters to gather valuable insights from their clients and use them to enhance their services.

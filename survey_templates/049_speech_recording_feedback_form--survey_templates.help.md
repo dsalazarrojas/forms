@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback on speech recordings, likely from a customer or end-user. This feedback is crucial for the organization to understand how to improve their speech recordings and provide better services. It is essential to provide constructive and actionable feedback that helps in refining the recordings. To avoid duplication, please only submit feedback on one recording at a time.
-
-This form is intended for end-users to rate and provide suggestions for speech recordings.
-</thinking>
-
 # Speech Recording Feedback Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "Patient Satisfaction Survey" form, I'll first consider the form's purpose and potential use case scenarios. This form is likely used to collect feedback and ratings from patients about their experiences with a healthcare provider or clinic. It's essential to ensure that the form doesn't duplicate or overlap with existing data collection efforts or other forms. 
-
-The form's fields cover a range of topics, including patient demographics (name, phone, email), satisfaction and rating questions (Patient Satisfaction, Rating), and feedback mechanisms (Feedback). The form also includes fields for tracking survey data, such as submitted status and survey status.
-
-Before proceeding, I'll review the form's structure and the explanations for each field to ensure that the help guide is clear and concise.
-
-</thinking>
-
 # Patient Satisfaction Survey - Help Guide
 ## Purpose
 The Patient Satisfaction Survey form is designed to collect feedback and ratings from patients about their experiences with a healthcare provider or clinic. This form helps healthcare providers understand patient satisfaction and identify areas for improvement.

@@ -1,6 +1,3 @@
-<thinking>
-We should confirm that the form is intended for customers to share their opinions on pet care products, and that this form will help us gather valuable feedback to improve our products. To avoid duplication, we should ensure that customers do not submit the same feedback multiple times. This form is likely used to collect data on pet care product names, images, ratings, reviews, and pricing information. Let's review the form fields to confirm that they accurately represent the product feedback we're looking for.</thinking>
-
 # Pet Care Product Feedback Request Form - Help Guide
 ## Purpose
 This form is designed to gather feedback on pet care products from customers to help us improve our products and services.

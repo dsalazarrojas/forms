@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from participants about their plans and opinions regarding the upcoming AGM (Annual General Meeting) and budget planning process. The form aims to gather insights on their attendance, satisfaction, and priorities related to budget allocation. It also seeks to understand their opinions on funding sources, policy changes, and overall rating of the planning process. This form will help organizers to tailor the AGM and budget planning process according to the needs and preferences of participants.
-
-This form is intended to be completed by participants of the AGM and AGM-related events. It is expected that participants will provide honest and thoughtful responses to the questions, which will be used to improve the planning process and services provided by the organization.
-
-Before starting, please ensure you have not completed this form before, as this would result in duplicate data being recorded.
-</thinking>
-
 # AGM And Budget Planning Survey - Help Guide
 ## Purpose
 This form collects information from participants about their plans and opinions on the upcoming AGM and budget planning process.

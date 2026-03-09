@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for new client intake interviews, gathering essential information about a client's financial institutional information, tax firm involvement, and tax return details. It is not a comprehensive or exhaustive form, and users should not rely solely on this form for making important financial decisions. The form is designed to collect general information and should be used in conjunction with other relevant data and expert advice. Please ensure that you understand the form's limitations and use it responsibly.</thinking>
-
 # tax_new_client_intake_interview_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about a new client's intake interview, including their contact information, financial institutional data, tax firm involvement, and tax return details.

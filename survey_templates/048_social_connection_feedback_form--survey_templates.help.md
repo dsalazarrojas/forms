@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form aims to assess the social connections within our community, gathering feedback on how often members interact with each other, their sense of belonging, satisfaction levels, barriers to connection, self-expression, positive experiences, and the adequacy of our support system. The form collects data on individual experiences to help us identify areas for improvement and better serve our community members.
 
 # Social Connection Feedback Form - Help Guide

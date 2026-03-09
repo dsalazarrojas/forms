@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from students about various factors that influence their academic success. The form includes questions about study habits, motivation, student background, parental involvement, peer influence, teacher support, school environment, family involvement, self-confidence, self-efficacy, teacher-student relationship, teacher support system, student support system, peer support system, student perception, student satisfaction, teacher satisfaction, student attitude, teacher attitude, student behavior, teacher behavior, teacher perception, and other factors. It is essential to answer all questions accurately, as this information will be used to gain insight into the complex factors that affect academic success.
-
-Before starting, please ensure that you have not previously completed this form. If you have, your responses will not be recorded.
-</thinking>
-
 # Factors Influencing Academic Success - Help Guide
 ## Purpose
 This form is designed to collect information from students about various factors that influence their academic success. The form aims to gain insight into the complex factors that affect academic success.

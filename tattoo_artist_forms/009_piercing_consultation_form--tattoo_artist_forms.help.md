@@ -1,8 +1,3 @@
-<thinking>
-**Form Purpose:**
-The Piercing Consultation Form is designed to collect relevant information from individuals who want to get a piercing. The form helps tattoo artists gauge the client's identity, medical eligibility, and other relevant details before proceeding with the piercing process. This form is used internally by tattoo artists to verify and assess client information.
-</thinking>
-
 # Piercing Consultation Form - Help Guide
 ## Purpose
 The Piercing Consultation Form is a mandatory form that helps us assess your eligibility for a piercing. Please answer all fields truthfully to ensure a safe and successful experience.

@@ -1,5 +1,3 @@
-<thinking>As a manager, you are being surveyed for the annual Manager Of The Year award, and this form will help us understand your performance and qualities. Please ensure you answer accurately and completely. This form is a one-time evaluation, and your responses will be kept confidential. If you have previously completed this form, please do not resubmit. If you have any questions or concerns, contact your departmental HR representative.</thinking>
-
 # Manager Of The Year Survey - Help Guide
 ## Purpose
 The Manager Of The Year Survey is an annual evaluation form that helps us understand your performance, leadership skills, and qualifications for the Manager Of The Year award. Please complete this form accurately and thoroughly to provide us with valuable insights.

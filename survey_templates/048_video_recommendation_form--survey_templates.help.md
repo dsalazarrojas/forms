@@ -1,8 +1,3 @@
-<thinking>
-This form is used to capture user feedback on video content. The purpose of this form is to gather information from users about which video content they like or dislike. The form is designed to be completed by users who have viewed a video and are being asked to provide their opinion on it. This guide will walk through each field and provide an explanation of its purpose. 
-
-</thinking>
-
 # Video Recommendation Form - Help Guide
 ## Purpose
 The "Video Recommendation Form" is used to collect user opinions on video content. Please use this form to give feedback on videos you've watched. 

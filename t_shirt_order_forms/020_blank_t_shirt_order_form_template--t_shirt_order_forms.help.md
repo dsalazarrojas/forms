@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information for custom t-shirt orders. It is intended for customers to provide their order details, including their contact information, shirt preferences, and design requirements. The form ensures that all essential fields are marked as required, to minimize errors and ensure accurate order processing. It also accommodates optional fields for additional information and preferences. This form is designed to be user-friendly, with clear labels and concise hints for each field.</thinking>
-
 # Blank T Shirt Order Form Template - Help Guide
 ## Purpose
 This form is designed to help customers place custom t-shirt orders with precise details of their preferences and requirements.

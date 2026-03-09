@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be completing the Movies Survey form. The primary purpose of this form is to gather information about movies, including their title, genre, starring cast, director, release date, rating, and other various attributes. Before proceeding, please note that this survey is designed to collect anonymous and non-personalizable data. To avoid any duplication of effort, we encourage users to complete the form once and not multiple times with different responses.
-
-This guide will walk you through each field of the form, explaining what each section is intended for and how to complete it.
-</thinking>
-
 # Movies Survey - Help Guide
 ## Purpose
 The Movies Survey form is designed to collect information about movies. It helps us understand your preferences and opinions about movies.

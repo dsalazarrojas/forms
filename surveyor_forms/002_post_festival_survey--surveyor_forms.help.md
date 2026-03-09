@@ -1,27 +1,3 @@
-<thinking>
-
-To avoid duplication and ensure end-users understand the form's purpose, let's start by considering the context and goal of the "post_festival_survey". This form is likely used to collect feedback and opinions from attendees after a festival or event. The purpose of the form is to gather information about the attendees' experiences, preferences, and demographics.
-
-The form is likely designed to be simple and easy to complete, with a mix of text input fields (first_name, email, date, time, note, and phone), a select_one field (favorite food), and a select_multiple field (favorite color). The required fields are marked as false, suggesting that users are not strictly compelled to provide the information.
-
-Given the variety of fields, this form can collect a range of data, including:
-
-* Attendee's first name
-* Contact email
-* Date and time of attendance
-* Personal notes or comments
-* Phone number
-* Favorite food
-* Favorite color (multiple options)
-
-Considering the form's structure and fields, it's reasonable to expect that it will be used to collect both personal and feedback information. The goal is to gather useful insights, not to ask for extensive details.
-
-With this understanding, let's assume that the survey is part of a larger feedback mechanism and will be used by stakeholders to analyze the data and improve future events.
-
-Now, let's create a comprehensive help guide for this form.
-
-</thinking>
-
 # post_festival_survey - Help Guide
 
 ## Purpose

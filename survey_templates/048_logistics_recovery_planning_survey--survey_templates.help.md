@@ -1,7 +1,3 @@
-<thinking>
-The form "Logistics Recovery Planning Survey" is designed to gather information about logistics recovery plans. It is likely intended for use in the context of supply chain management or operations research. This form might be used by logistics professionals or analysts to document and analyze logistics recovery plans. Before completing this form, please ensure that you have a clear understanding of the specific logistics recovery plan you are documenting. 
-</thinking>
-
 # Logistics Recovery Planning Survey - Help Guide
 
 ## Purpose
