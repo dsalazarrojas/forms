@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from clients regarding their preferences and requirements for an EMCEE (Event Master of Ceremonies and Entertainment Expert) at their wedding event. The form is used to collect details about the services offered by the EMCEE, their rates, payment terms, and other relevant information. 
-</thinking>
-
 # wedding_emcee_contract_form - Help Guide
 ## Purpose
 The wedding_emcee_contract_form is a form used to collect information from clients for an EMCEE at their wedding event.

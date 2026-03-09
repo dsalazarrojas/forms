@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to nominate students for various awards, such as Most Likely to Succeed, Most Likely to Win a Nobel Prize, Most Likely to Become a Famous Artist, and so on. This form is likely used in a school setting to encourage users to recognize and support students' strengths and achievements. The form may be used by students, teachers, or other school staff to cast their votes.
-To prevent duplication, users should not nominate the same student for multiple awards. The form likely has a validation mechanism to prevent duplication.
-</thinking>
-
 # Central - Fairfield's Most Likely Awards - Help Guide
 ## Purpose
 This form is used to nominate students for various awards in different categories.

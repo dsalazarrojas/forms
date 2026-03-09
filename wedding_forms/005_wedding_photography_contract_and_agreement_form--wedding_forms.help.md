@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather essential information for a wedding photography contract and agreement. The purpose of this form is to outline the terms and conditions of the photo shoots, including the scope of work, payment terms, and client expectations. This form is intended for couples planning their wedding photography session, and it's a vital document that ensures both parties understand their roles, responsibilities, and expectations.
-
-This form is not intended to be a generic template, but rather a custom-made tool for collecting specific details about the wedding photography services. The fields and sections are designed to provide a clear and concise way to communicate between the client and the photographer.
-
-To avoid duplication, please make sure to review the form carefully and fill it out accurately. If you have any questions or concerns, don't hesitate to reach out to the photographer or wedding planner.
-
-</thinking>
-
 # Wedding Photography Contract And Agreement Form - Help Guide
 ## Purpose
 This form is designed to gather essential information for a wedding photography contract and agreement. The purpose of this form is to outline the terms and conditions of the photo shoots, including the scope of work, payment terms, and client expectations.

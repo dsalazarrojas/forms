@@ -1,8 +1,4 @@
-> <thinking>
-The purpose of this form is to collect client information and consent for massage therapy sessions. This form is designed to gather relevant details about the client, the massage therapy information, and obtain explicit consent from the client before proceeding with the massage. The form should not be used for commercial or personal purposes, and it is intended for educational or internal use only. Please ensure that this form is completed accurately and honestly to maintain client confidentiality and adhere to industry standards. If you have filled out this form before, please review the instructions carefully to ensure you understand the changes or updates made to the form. If you are unsure about any aspect of the form, please consult with a qualified professional or contact form creators for clarification.
-</thinking>
-
-# Massage Therapy Consent Form - Help Guide
+> # Massage Therapy Consent Form - Help Guide
 ## Purpose
 This form is designed to collect client information and consent for massage therapy sessions. It's meant to be used by massage therapists, spas, or wellness centers to gather necessary details from clients before providing massage services.
 

@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect information for domain leasing applications. It's crucial to ensure that the lessee (the person or entity requesting the lease) fills out the form accurately and thoroughly. To avoid duplication of effort, please check if a similar form is already being used or if the information is already available in your records before proceeding. This form has been designed to gather essential details about the domain name, lessee's contact information, lease duration, monthly fee, payment terms, domains available, liability clause, website maintenance, and signature.
-</thinking>
-
 # Domain Leasing Application Form - Help Guide
 ## Purpose
 The Domain Leasing Application Form is a crucial step in the domain leasing process. It allows you to provide detailed information about your domain leasing needs and preferences. By filling out this form accurately, you'll be helping the leasing team to understand your requirements better and process your application efficiently.

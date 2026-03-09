@@ -1,7 +1,3 @@
-<thinking>
-This form is for couples seeking a professional videography service for their wedding. The form is used to gather contact information, wedding details, and preferences for video services. It also collects information on additional services required and billing details. Please ensure you fill out this form accurately, as the information will be used to provide personalized and efficient video production for your special day. This form is for couples planning a wedding and is not intended for any other use. Please do not fill out this form if you are not a couple planning a wedding.
-</thinking>
-
 # Wedding Dvd Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from couples planning a wedding to create a personalized video production that captures their special day.

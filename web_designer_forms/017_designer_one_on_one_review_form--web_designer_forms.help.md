@@ -1,17 +1,3 @@
-<thinking>
-Internal reasoning:
-This form is a tool for designers to provide feedback and critique on each other's work. It is meant to facilitate a one-on-one review session between two individuals. The form collects information about the session's title, feedback, and other relevant details.
-
-The fields are categorized into three main sections: General Information, Session Details, and Review Settings. General Information includes fields for title and feedback. Session Details includes fields for schedule critique session, critique frequency, review session date, and review session time. Review Settings includes fields for feedback schedule, feedback format, and feedback frequency note, email, and phone.
-
-This form is designed to be completed by the reviewers, who will input their feedback and critique on the designer's work. The feedback and critique will be used to guide the designer in improving their skills and knowledge. The form's purpose is to facilitate a productive and efficient review process.
-
-The form is used in a variety of situations, such as when a designer needs to get feedback on their work or when they need to request a review from a colleague. 
-
-Note: Some fields are optional, but it's still important to complete them to get the most out of the review process.
-
-</thinking>
-
 # Designer One On One Review Form - Help Guide
 ## Purpose
 This form is a tool for designers to provide feedback and critique on each other's work. It is meant to facilitate a one-on-one review session between two individuals.

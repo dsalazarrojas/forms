@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Decor Rentals Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers or clients regarding their wedding decor rentals needs. The form aims to gather details about the customer's identity, contact information, and the specific wedding decor items they wish to rent.

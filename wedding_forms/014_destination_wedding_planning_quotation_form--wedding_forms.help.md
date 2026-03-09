@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assist wedding planners and coordinators in collecting essential information from couples to create personalized wedding quotations. The form aims to gather details about the wedding, the couple, their guests, services offered, quotation requests, travel information, and payment terms. This information will help wedding planners provide accurate and tailored quotations to potential clients.
-
-The form was created by analyzing public survey metadata and is not affiliated with or derived from any proprietary form platforms. The AI-generated form is released under CC BY 4.0 and can be used, modified, and even sold with proper credit.
-
-To ensure you're using the form correctly, let's review each field:
-
-</thinking>
-
 # Destination Wedding Planning Quotation Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from couples to create personalized wedding quotations.

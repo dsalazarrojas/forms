@@ -1,14 +1,3 @@
-<thinking>
-This form appears to be a wedding registration form for couples, designed to collect information about the marriage details of two individuals. It's likely intended for official records or administrative purposes. To ensure that this form is used correctly and consistently, it's essential to follow the provided instructions and guidelines.
-
-To avoid errors and potential duplication, please note that the form is a template, and the user should fill it out with accurate and up-to-date information. The form fields should not be duplicated or altered without permission. 
-
-Additionally, it's crucial to note that this form appears to be a standard template and might need adaptation to fit specific local or jurisdictional requirements. 
-
-It's also worth considering that some fields might be irrelevant or unnecessary for certain users, and they should fill out only the necessary fields.
-
-</thinking>
-
 # Marriage Registration Form Template - Help Guide
 ## Purpose
 The Marriage Registration Form Template is a standard document used to collect and record the details of a couple's marriage. This form is designed to be filled out by the couple and is intended for official records and administrative purposes.

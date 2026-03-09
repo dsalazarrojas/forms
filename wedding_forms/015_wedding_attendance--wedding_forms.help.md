@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals or groups about their attendance at a wedding. It appears to be a comprehensive form with various fields related to the wedding event. The form fields are categorized into several types, including numerical, text, date, time, email, and select options.
-Before starting to fill out this form, please check if you have already responded to this form, in which case you might be able to skip the current response. 
-</thinking>
-
 # Wedding Attendance - Help Guide
 ## Purpose
 The Wedding Attendance form is designed to gather information about your wedding-related plans and preferences. This form helps us to better understand your attendance and make necessary arrangements for the event.

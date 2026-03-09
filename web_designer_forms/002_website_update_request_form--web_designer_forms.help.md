@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to allow website owners to request updates to their websites. The form is intended for internal use within a team or organization, allowing the website owner to submit a change request with specific details. The form is likely to be filled out by the website owner when they need to make changes to their website, and the data collected will help the team or organization to prioritize and manage these changes efficiently.
-
-This form does not seem to be a public-facing form, as it is not affiliated with or endorsed by any external form platforms, and the metadata suggests it is an internal tool. The purpose of the form is to facilitate collaboration and communication within the team or organization.
-
-Before completing this form, please note that it is essential to understand the fields and their requirements to ensure accurate and relevant information is submitted.
-
-</thinking>
-
 # website-update-request-form - Help Guide
 ## Purpose
 

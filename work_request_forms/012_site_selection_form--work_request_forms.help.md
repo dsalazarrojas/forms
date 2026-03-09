@@ -1,6 +1,3 @@
-<thinking> 
-The Site Selection Form is used for selecting a site for a project, gathering relevant information, and providing space for additional comments and attachments. This form is typically used for internal purposes, and the information collected will be used to create a report of the site selection process. Please ensure you are completing this form for a valid reason and not duplicating efforts. This form is intended for project managers and site selection team members.</thinking>
-
 # Site Selection Form - Help Guide
 
 ## Purpose

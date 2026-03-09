@@ -1,7 +1,3 @@
-<thinking>
-The form is likely designed for couples to provide input on their wedding flower preferences for their upcoming wedding. This information will be used by the vendor to provide personalized wedding flower consultations and proposals. This form should only be filled out once per couple, and users should not need to revisit it multiple times.
-</thinking>
-
 # Wedding Flower Consultation Form - Help Guide
 ## Purpose
 The Wedding Flower Consultation Form is a questionnaire designed to help us understand your preferences for your wedding flowers. Please take a few minutes to complete this form, and we'll use the information to provide you with personalized flower consultation and proposals for your special day.

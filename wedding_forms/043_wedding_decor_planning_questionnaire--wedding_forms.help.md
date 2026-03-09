@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Decor/Planning Questionnaire - Help Guide
 
 ## Purpose

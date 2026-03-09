@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to vote for finalists in a voting process, allowing them to select their preferred candidates, rate their choices, and optionally enter additional comments or preferences. The form is divided into multiple pages, each focusing on a specific aspect of the voting process. To ensure accurate and consistent voting results, users are asked to complete each field carefully and follow the instructions provided.
-</thinking>
-
 # Voting For Finalists - Help Guide
 ## Purpose
 The form is used to collect votes for the selected finalists in a voting process. It is essential to complete this form accurately to ensure that your vote is counted correctly.

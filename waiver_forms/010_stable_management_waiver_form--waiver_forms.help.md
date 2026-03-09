@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a Stable Management Waiver Form, which is used to gather information from individuals who participate in stable management activities, such as horse riding or stable maintenance. The purpose of this form is to collect essential details to ensure that the stable management process is conducted safely and effectively. This form is typically completed by riders or stable staff to provide necessary contact information, risk information, and waiver acceptances.
-
-Before proceeding, ensure that you have not already completed this form. Filling out the same form multiple times can lead to duplicate or outdated information.
-
-</thinking>
-
 # Stable Management Waiver Form - Help Guide
 ## Purpose
 This Stable Management Waiver Form is used to collect essential information from riders or stable staff to ensure a safe and effective stable management process.

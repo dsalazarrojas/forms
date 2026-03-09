@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 I will assume this form is used to score pitches during a competition among teams. The purpose of this form is to gather data from judges about their evaluation of each team's presentation. The form should not be filled out by judges, but rather by administrators or organizers of the pitch competition to record each judge's scores and feedback about the teams. I will not assume any specific scoring system or rules for filling out the form.
 
 # Pitch Competition Scoring Form - Help Guide

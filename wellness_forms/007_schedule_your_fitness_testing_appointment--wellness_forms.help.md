@@ -1,20 +1,3 @@
-<thinking>
-To provide clarity and accuracy, I'll first break down the form's purpose and fields to create a helpful guide for end-users. The form's purpose is for clients to schedule a fitness testing appointment. Based on the YAML, the form has the following fields:
-
-1. **Client Details**: A form section to collect client information.
-2. **Health Information**: A field to collect health-related information (although the label "prophets" is unclear and may be a typo).
-3. **Preferred Time Slot**: A field to select a preferred time slot for the appointment.
-4. **Schedule Date**: A field to schedule the appointment date.
-5. **Schedule Time**: A field to schedule the appointment time.
-6. **Schedule Note**: An optional field for clients to provide additional comments or notes about their appointment.
-7. **Email**: A field to collect the client's email address.
-8. **Phone**: A field to collect the client's phone number.
-9. **Submit**: A button to submit the form.
-
-Given the fields, I will create a user-facing help guide as per the specified structure.
-
-</thinking>
-
 # schedule_your_fitness_testing_appointment - Help Guide
 ## Purpose
 This form is for scheduling a fitness testing appointment with a client. Fill out the form with your details to schedule a convenient time slot for the appointment.

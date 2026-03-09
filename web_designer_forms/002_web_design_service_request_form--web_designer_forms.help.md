@@ -1,7 +1,3 @@
-<thinking>
-The Web Design Service Request Form is a tool used by customers to communicate their needs and requirements for custom web design services. The form is used to collect information about the customer's project budget, any custom requests they may have, their email address, phone number, and their subscription preferences.
-</thinking>
-
 # Web Design Service Request Form - Help Guide
 ## Purpose
 The Web Design Service Request Form is designed to gather essential information from customers to help us better understand their needs and preferences for custom web design services. This information will be used to tailor our services to meet their specific requirements.

@@ -1,11 +1,3 @@
-<thinking>This form is intended to collect information for website handover confirmations. It's likely used by a team or project manager to ensure that all necessary details are captured when a website is transferred from a designer to a client. The form might be part of an internal process, so internal users would need to be able to fill it out without external help. 
-
-The fields in this form are mostly about confirming details and next steps, but also about gathering contact information and hosting details. It's a mix of multiple types of fields, so the user needs to be able to navigate and fill it out correctly. 
-
-The form is divided into several pages or sections. Each section should contain related fields to make it easier for the user to focus on one topic at a time.
-
-</thinking>
-
 # Website Handover Confirmation Form - Help Guide
 ## Purpose
 The Website Handover Confirmation Form is a collection of fields to gather information about website handovers from a designer to a client. This form is used to ensure that all details are captured and that the handover process is properly documented.

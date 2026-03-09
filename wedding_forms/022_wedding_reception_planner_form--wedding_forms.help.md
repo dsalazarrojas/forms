@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from couples to plan a wedding reception. It is meant to be completed by the couple getting married. The form will be used to gather details about the wedding ceremony and reception, including venue, food and beverages, entertainment, and other professional services required. This form is a public adaptation of a form created using AI and public survey topic metadata, and is released under CC BY 4.0.
-</thinking>
-
 # Wedding Reception Planner Form - Help Guide
 ## Purpose
 The Wedding Reception Planner Form is designed to collect information from couples to plan their wedding reception.

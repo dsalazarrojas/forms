@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help us better understand the graphic design requirements for a given project. It's intended for clients or customers who want to inquire about graphic design services. This form will help us gather necessary information about the project, including its type, deadline, and budget. 
-</thinking>
-
 # Graphic Design Inquiry Form - Help Guide
 ## Purpose
 The Graphic Design Inquiry Form is a simple, one-page form used to gather information from clients or customers about their graphic design requirements. Please complete this form to provide us with details about your project, and we'll be in touch to discuss how we can help you.

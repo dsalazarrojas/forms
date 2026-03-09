@@ -1,12 +1,3 @@
-<thinking>
-This form is for submitting marketing and design requests to the design team. It's used for gathering information about the project requirements, target audience, and other important details. To ensure that the form is filled out correctly, it's best to follow these steps.
-
-Before you begin, check that the form is relevant to your project and that you haven't already submitted one. This will save time and prevent duplication of work.
-
-The form is divided into three pages, each with its own set of questions. Please make sure to fill out all the required fields to help us better understand your request.
-
-</thinking>
-
 # marketing_and_design_request_form - Help Guide
 ## Purpose
 The marketing and design request form is a tool used to gather information about marketing and design requests from clients, teams, and managers. It helps us understand the requirements and expectations for a project and ensures that the design team gets the necessary information to create effective marketing materials.

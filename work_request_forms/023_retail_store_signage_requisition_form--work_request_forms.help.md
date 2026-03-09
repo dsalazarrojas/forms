@@ -1,13 +1,3 @@
-<thinking>
-Retail Store Signage Requisition Form helps store management and production teams coordinate the installation of store signage, ensuring that all necessary information is captured for efficient production and installation processes. This form serves as a centralized platform for submitting requests for signage creation, production, and installation. It's essential to complete this form accurately to avoid delays and errors in the production and installation process.
-
-Before starting the form, please ensure that you have all the necessary details and approvals. If you're unsure about any fields, consult with your store manager or production team members for clarification.
-
-Please note that submitting this form is not a substitute for official store policies and procedures. Ensure that your submission adheres to these guidelines to prevent any discrepancies.
-
-To submit a new signage request, follow the steps below:
-</thinking>
-
 # Retail Store Signage Requisition Form - Help Guide
 ## Purpose
 The Retail Store Signage Requisition Form helps store management and production teams coordinate the installation of store signage, ensuring that all necessary information is captured for efficient production and installation processes.

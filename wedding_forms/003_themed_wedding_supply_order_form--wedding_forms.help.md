@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a themed wedding event. It's intended to help event planners gather necessary details to tailor the event according to the couple's preferences. The form doesn't have any required fields, making it optional for the users to fill in as much or as little information as they want. 
-
-This form is likely to be used by event planners or wedding coordinators to get insights on the couple's preferences for the themed wedding event. The goal is to make it easy for them to create a memorable and enjoyable experience for the couples and their guests.
-
-This form is not meant for real-time event planning but is rather a tool for event planners to collect and organize information about different wedding themes, guest numbers, dates and times, and other relevant details. 
-
-</thinking>
-
 # themed_wedding_supply_order_form - Help Guide
 
 ## Purpose

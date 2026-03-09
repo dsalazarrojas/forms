@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to provide personal information related to their medical clearance and waiver for training purposes. The form appears to be designed for individuals to input their medical clearance and waiver information for training activities. I will create a user-facing help guide for this form, ensuring that each field is explained in a clear and concise manner. I will also provide tips for users to fill out the form accurately and efficiently.
-
-</thinking>
-
 # Personal Training Waiver - Help Guide
 ## Purpose
 This form is designed to collect personal information related to medical clearance and waiver for training purposes. It is intended to be filled out by individuals who are participating in training activities and need to provide their medical clearance and waiver information.

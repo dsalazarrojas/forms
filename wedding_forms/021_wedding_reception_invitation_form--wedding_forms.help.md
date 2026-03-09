@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather essential details for a wedding reception invitation. The form should only be used for genuine wedding reception invitations and not for any other purpose. Please ensure that you are not duplicating efforts and use this form only for wedding reception invitations. The form is a one-time use form and should not be used for any other purpose or event. The fields are designed to be filled out by the person responsible for the wedding reception invitation. 
-
-</thinking>
-
 # wedding_reception_invitation_form - Help Guide
 ## Purpose
 This form is designed to gather essential details for a wedding reception invitation. It should only be used for genuine wedding reception invitations and not for any other purpose.

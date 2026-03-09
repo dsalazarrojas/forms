@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect data from users about their experience and satisfaction with the "23 Slot Unique Ranking Form With Email Response". This form is designed to be used for gathering feedback and ratings on this specific form. The form collects information on the user's full name, email address, the date of the experience, and their ranking of 23 items from 1 (highest priority) to 23 (lowest priority). It also asks for their overall satisfaction level and rating of the form, which aspects of the form they found easy to use or not, and any additional comments or feedback they might have. The form is designed to be simple and straightforward, with a clear instruction on how to rank the items. The form does not duplicate any existing form, as it is a unique creation using only public survey topic metadata as inspiration.
-
-The form will be used to understand the user's experience and satisfaction with the form, which will help to improve and refine the form for better user experience in the future.
-
-This guide is intended to be used by users who want to fill out the form, but it is also useful for anyone who wants to understand the form's purpose and how it is designed to collect data.
-
-It is worth noting that this form is not affiliated with, endorsed by, or derived from any form platform, and it is released under CC BY 4.0 license. You are free to use, modify, and even sell forms derived from it, just give credit.
-
-This guide is a one-time creation and is not intended to be updated or changed. If you have any issues or concerns, please contact form@gic.mx.
-
-</thinking>
-
 # 23 Slot Unique Ranking Form With Email Response - Help Guide
 ## Purpose
 This form is designed to collect data from users about their experience and satisfaction with the 23 Slot Unique Ranking Form With Email Response. It is intended to be used for gathering feedback and ratings on this specific form.

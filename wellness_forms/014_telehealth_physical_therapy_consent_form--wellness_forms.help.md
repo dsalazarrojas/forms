@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Telehealth Physical Therapy Consent Form - Help Guide
 ## Purpose
 This form is designed to gather information from patients for telehealth physical therapy services. It aims to inform and obtain consent from patients before providing treatment over the phone or online. The form helps establish a clear understanding of the services offered, payment terms, and any necessary information for the patient and therapist to interact effectively.

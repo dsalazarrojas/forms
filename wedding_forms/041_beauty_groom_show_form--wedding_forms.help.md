@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be designed for vendors or exhibitors at a show, likely a wedding-related event. The form is for collecting information about their booth and services offered. Vendors are likely to be beauty and hair professionals providing services such as hair styling, makeup artistry, and skincare. They will be asked about their name, contact information, business details, booth size preference, power requirements, and other logistical aspects to prepare for the event.
-
-This form is likely used for organizers or event managers to collect necessary information for the event planning process.
-</thinking>
-
 # Beauty and Groom Show Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from vendors or exhibitors about their booth and services offered at the beauty and groom show.

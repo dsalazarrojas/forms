@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Of The Month Ballot Form - Help Guide
 ## Purpose
 This form is used to submit nominations for the Employee of the Month award. The form allows users to provide the name of the employee being nominated, along with the reason for the nomination, and the nominator's details. The nomination process helps to identify and recognize outstanding employees who have made significant contributions to the team or organization.

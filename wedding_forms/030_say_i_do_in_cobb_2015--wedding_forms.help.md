@@ -1,7 +1,3 @@
-<thinking>
-The form is used to collect information from bridal show event organizers to provide a comprehensive overview of the events. The goal is to gather details about the event such as the vendor name, vendor type, contact information, services provided, and notes. This information will be used to create a directory or database of bridal show events for future reference.
-</thinking>
-
 # Say I Do In Cobb 2015 - Help Guide
 
 ## Purpose

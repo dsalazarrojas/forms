@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request restocking of team equipment. To determine if this form is relevant to you, please check that you need to request restocking of team equipment.
-To avoid duplication, please check if a similar request has already been made before proceeding.
-</thinking>
-
 # Team Equipment Restock Request Form - Help Guide
 ## Purpose
 This form is used to request restocking of team equipment. You can use this form to submit a request for equipment that is currently out of stock or low in supply.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for clients to provide their information and emergency contact details in case of any medical emergency. It's essential to ensure that we have up-to-date and accurate information about our clients. The form should not be used for other purposes, such as insurance claims or financial transactions.
-The form should only be completed by the client, with the emergency contact's consent.
-</thinking>
-
 # Waxing Waiver Form - Help Guide
 
 ## Purpose

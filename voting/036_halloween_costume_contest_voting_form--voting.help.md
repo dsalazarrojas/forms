@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Halloween Costume Contest Voting Form - Help Guide
 
 ## Purpose

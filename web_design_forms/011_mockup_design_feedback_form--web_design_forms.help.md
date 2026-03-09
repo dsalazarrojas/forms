@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about a mockup design. The purpose of this form is to gather usability ratings and comments about the design, as well as collect contact information from the user. This form is not required to be filled out, but it is recommended that users provide their email address and phone number for follow-up communication.
-</thinking>
-
 # mockup_design_feedback_form - Help Guide
 ## Purpose
 The mockup design feedback form is a tool to collect feedback and ratings from users about a mockup design. It is used to gather usability ratings and comments about the design, as well as collect contact information from the user.

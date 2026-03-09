@@ -1,11 +1,3 @@
-<thinking>
-
-This guide will help you fill out the Babysitter and Nanny Application Form for GM Elit Group accurately. Please review this guide carefully to ensure your application is complete and meets the requirements. The form is divided into several sections, each containing fields that need to be filled in. 
-
-To begin, please ensure you have read and understood the form instructions and requirements carefully. It's essential to fill in all necessary fields accurately. If you're unsure about any information, please ask for clarification before proceeding. 
-
-</thinking>
-
 # Babysitter And Nanny Application Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about you for consideration as a babysitter or nanny by GM Elit Group. Please provide accurate and up-to-date information to increase your chances of being selected.

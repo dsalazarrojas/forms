@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended for use by users of the Paintball Waiver Form. Its purpose is to provide a brief overview of the form's content and requirements. 
-
-This form is used to gather information from users for paintball-related activities. 
-
-Please note that this form is a template and may need to be reviewed and adapted according to your specific business needs and compliance requirements.
-
-Please make sure you are filling this form for the correct purpose and according to your organization's rules and regulations before submitting it.
-
-</thinking>
-
 # Paintball Waiver Form - Help Guide
 ## Purpose
 The Paintball Waiver Form is used to collect information from users participating in paintball-related activities. It helps the organizer to have a better understanding of the users and to ensure their safety during the event.

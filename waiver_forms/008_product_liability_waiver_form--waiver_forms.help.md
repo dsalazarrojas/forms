@@ -1,11 +1,3 @@
-<thinking>
-The Product Liability Waiver Form is designed to collect information from users to acknowledge and document their use of products, including product name, model, and description. This form helps to ensure that users understand their liability regarding product use and provides a record of their acknowledgment. The form's fields are designed to gather relevant details about the user, product, and circumstances of use. 
-
-This form is intended for internal use within the organization and is not intended for external sharing or publication. 
-
-Please ensure that you're not duplicating this form for the same purpose as it may lead to data redundancy and confusion. 
-</thinking>
-
 # Product Liability Waaver Form - Help Guide
 ## Purpose
 The Product Liability Waiver Form is a document that collects information from users to acknowledge and document their use of products.

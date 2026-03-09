@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information from clients about their web design needs and preferences. This form is likely used by a web design agency to assess the client's requirements and create a suitable design plan. Each field in the form has been designed to collect specific information from the client, such as their terms and conditions, design budget, website type, website size, color scheme, fonts used, design style, content, and submission confirmation. This form appears to be a comprehensive questionnaire that covers various aspects of web design, making it a valuable resource for agencies to understand their clients' expectations. Before proceeding, ensure this form is not a duplicate or redundant effort within your organization.
-</thinking>
-
 # Web Design Client Questionnaire Form - Help Guide
 ## Purpose
 The Web Design Client Questionnaire Form is designed to gather essential information from clients about their web design needs, preferences, and requirements. This form helps web design agencies understand the clients' expectations and create a tailored design plan.

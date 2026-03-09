@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block ...
-
-The Marketing Request Form 2015 is designed to collect information from requestors about their marketing needs and requests. This form aims to gather essential details about the requestor, the marketing activity, and additional context to ensure that marketing requests are properly managed and executed.
-
-To prevent duplication of effort, please review the form carefully before submitting it. If you're unsure about any field, please don't hesitate to ask for clarification or seek support from the marketing team.
-
-</thinking>
-
 # Marketing Request Form 2015 - Help Guide
 ## Purpose
 The Marketing Request Form 2015 is designed to collect information from requestors about their marketing needs and requests.

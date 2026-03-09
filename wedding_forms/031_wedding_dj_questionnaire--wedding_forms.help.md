@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from the couple about their preferences for a wedding reception, including their personal details and music preferences. This form will likely be used by event planners or DJs to tailor the event to the couple's tastes. It is assumed that the form will be completed by the couple themselves or by someone close to them.
-</thinking>
-
 # Wedding DJ Questionnaire - Help Guide
 ## Purpose
 The Wedding DJ Questionnaire is a form designed to gather information from the couple about their preferences for a wedding reception. This information will help the event planner or DJ tailor the event to the couple's tastes and preferences.

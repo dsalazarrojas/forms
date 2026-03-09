@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a wedding event and its related details.
-It is meant to be filled out by the wedding party or the event planner to ensure that all relevant information is gathered in one place.
-The form is not meant to be a comprehensive wedding planning tool, but rather a way to document the essential details of the wedding event.
-The purpose of this form is to collect answers to questions such as "Is this a wedding event?", "How many guests will be attending?", "What is the wedding date and time?", etc.
-This form will not be used to collect sensitive or private information, and it will not affect any financial transactions or payments related to the wedding event.
-It is recommended that the form is filled out once by the wedding party or the event planner, and then printed or saved for reference.
-</thinking>
-
 # Wedding Day Survey - Help Guide
 ## Purpose
 The Wedding Day Survey form is designed to collect essential details about a wedding event. It is meant to be filled out by the wedding party or the event planner to ensure that all relevant information is gathered in one place.

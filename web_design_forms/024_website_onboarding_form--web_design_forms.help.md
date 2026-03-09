@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to onboard users into a website, capturing essential information for user identification and registration. The form is intended for public use, created using AI-generated code inspired by public survey topics within the "web_design_forms" category. It does not rely on any proprietary platform or content. The form's purpose is to gather fundamental information from users, such as their first and last names, and the name of their company. This form is designed to be user-friendly and adaptable, released under CC BY 4.0 license for public use, modification, and even commercialization with proper credit.
-</thinking>
-
 # Website Onboarding Form - Help Guide
 ## Purpose
 The Website Onboarding Form is designed to collect essential information from users for identification and registration purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Member Recognition Vote - Help Guide
 
 ## Purpose

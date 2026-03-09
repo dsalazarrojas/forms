@@ -1,13 +1,3 @@
-<thinking>
-
-This form was created to gather information about a website's homepage content. The purpose of this form is to help collect data on the various elements that make up a website's homepage, including header copy, hero section copy, hero section background image, about us copy, and call-to-action copy. This data can be used to improve the website's overall content and user experience.
-
-This form is not affiliated with, endorsed by, or derived from any form platform. It was created using public survey topic metadata, and the form's structure and content are original.
-
-Before filling out this form, please make sure to have the necessary information about the website's content readily available. This form should only be filled out once per website.
-
-</thinking>
-
 # Website Homepage Copy Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about a website's homepage content, including header copy, hero section copy, hero section background image, about us copy, and call-to-action copy.

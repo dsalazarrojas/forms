@@ -1,8 +1,3 @@
-<thinking>
-This form is for the "Community Land Use Vote" which is a voting process for residents and property owners in a community to express their opinions on proposed land use changes. The purpose of this form is to gather feedback from the community on three different land use proposals: A, B, and C. The form aims to collect information on the voters' residency status, their opinions on each proposal, and their level of concern for environmental sustainability. It also provides an opportunity for voters to make additional comments on the proposed changes and suggest alternative uses for a vacant lot.
-Before filling out this form, please ensure you are a resident or property owner eligible to vote. Please note that each proposal will only be displayed once.
-</thinking>
-
 # Community Land Use Vote - Help Guide
 ## Purpose
 The Community Land Use Vote is a crucial process for residents and property owners to express their opinions on proposed land use changes in the community. This form aims to collect feedback on three distinct proposals: A, B, and C, to ensure that the community's voice is heard in the decision-making process.

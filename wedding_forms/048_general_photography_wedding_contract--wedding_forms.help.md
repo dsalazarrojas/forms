@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for capturing information related to a general wedding photography contract. It collects details about the wedding ceremony, reception, and related contacts. The form is likely used by photographers to gather information from their clients, and the fields are designed to help them document and manage their contracts with clients.
 
 The form can be completed by the wedding client, who will provide information about their wedding details and contract terms. This information will help the photographer and their team to understand the client's requirements and expectations.

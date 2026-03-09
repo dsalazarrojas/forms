@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from clients on the design of a particular project or product. This form likely exists to allow clients to provide their input, opinions, and suggestions on the design's effectiveness and usability. It may be used by product managers or designers to gauge the client's satisfaction and to gather information to improve future design decisions. This form should only be used for new design feedback, as it doesn't seem to be designed for any other purpose.
-</thinking>
-
 # New Design Feedback Form - Help Guide
 
 ## Purpose

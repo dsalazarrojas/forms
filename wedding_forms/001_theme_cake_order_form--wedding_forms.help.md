@@ -1,7 +1,3 @@
-<thinking>
-To create this form, we considered the needs of wedding planners and bakers to order cakes for their customers. The form should gather essential information to fulfill a cake order with the least amount of back-and-forth communication. This form should not be used for any other purpose than ordering a cake. This form is intended to gather information for a single order. Please note that this form is a one-time use case form. If you need to order multiple cakes with different specifications, please submit a new form for each one.
-</thinking>
-
 # Theme Cake Order Form - Help Guide
 ## Purpose
 This form is used to place an order for a custom cake that matches your wedding theme.

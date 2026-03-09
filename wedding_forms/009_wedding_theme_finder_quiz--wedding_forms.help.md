@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # wedding_theme_finder_quiz - Help Guide
 
 ## Purpose

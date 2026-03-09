@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block: This form is designed to collect user information for an online yoga class. The form will be used to gather details about the user, such as their name, contact information, and availability. This information will be used to provide personalized class recommendations and schedule management. The form does not collect any sensitive or financial information, as it is not required for the online yoga class experience. The purpose of the form is to get the user acquainted with the online yoga class program and its schedule options, allowing them to make an informed decision about joining the class. By filling out this form, users can expect to receive a follow-up email with their personalized class schedule.
-</thinking>
-
 # online_yoga_class_registration_form - Help Guide
 ## Purpose
 This form collects user information for an online yoga class program. Fill out the form to get personalized class schedule recommendations and stay updated on class schedules.

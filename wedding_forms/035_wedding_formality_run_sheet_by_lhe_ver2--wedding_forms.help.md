@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a wedding formalities run sheet, a document used to track and record information related to a wedding event. The form contains a mix of text, date, and select one fields, suggesting that it's used to collect information about the couple's details, event schedule, and logistical arrangements. The form may be used by event planners or coordinators to gather and record necessary details about the wedding.
-</thinking>
-
 # Wedding Formality Run Sheet By Lhe Ver2 - Help Guide
 ## Purpose
 The Wedding Formality Run Sheet By Lhe Ver2 is a form used to collect and track information about wedding events. It contains a variety of fields that capture details such as couple information, event schedule, guests, and logistical arrangements.

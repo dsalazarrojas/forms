@@ -1,20 +1,3 @@
-<thinking>
-This form is for collecting data for the 2021 Precinct Xxx Ballot With Single Additional CCC Member. The purpose of this form is to capture information about a precinct's election data with a single additional CCC (Constituent Committee of Candidates) member. This form will likely be used by election officials to collect and manage data for this specific election event.
-
-To complete this form, follow these steps:
-
-1.  Start by entering the precinct ID number in the precinct field.
-2.  Then, provide the additional CCC member's ID number.
-3.  Next, enter the additional CCC member's name.
-4.  Select the additional CCC member's party affiliation.
-5.  Enter the additional CCC member's address.
-6.  Provide the additional CCC member's email address.
-7.  Finally, add the additional CCC member's phone number.
-
-This form is divided into multiple pages, but the instructions above cover the entire form. Please follow these steps to complete the form accurately.
-
-</thinking>
-
 # V2 2021 Precinct Xxx Ballot With Single Additional CCC Member - Help Guide
 ## Purpose
 This form is used to collect data for the 2021 Precinct Xxx Ballot With Single Additional CCC Member.

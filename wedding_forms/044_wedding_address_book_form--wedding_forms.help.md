@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Address Book Form - Help Guide
 
 ## Purpose

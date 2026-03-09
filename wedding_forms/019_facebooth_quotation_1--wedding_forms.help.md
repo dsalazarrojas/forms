@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to create a quotation for a photobooth service at an event. The form is designed to collect information about the event, such as the type of event, description, contact information, and preferences for the photobooth service. This form helps event organizers create a quotation for their event, including the photobooth choice, price, and other details. The form is not a duplicate of another form, and it's intended for event organizers who are interested in hiring a photobooth service.
-
-</thinking>
-
 # Facebooth Quotation 1 - Help Guide
 ## Purpose
 This form is used to create a quotation for a photobooth service at an event. It collects information about the event and helps event organizers create a quotation that suits their needs.

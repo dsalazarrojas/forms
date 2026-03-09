@@ -1,7 +1,3 @@
-<thinking>
-The "Claims Service Report" form is used to document and report on services performed by a service technician. This form captures essential information such as the date of service, type of service provided, status of the work, and client acknowledgement. The purpose of this form is to ensure accurate and efficient communication between the service team and the client, and to track progress and issues encountered during the service process.
-</thinking>
-
 # Claims Service Report - Help Guide
 ## Purpose
 The Claims Service Report form is a crucial tool for service teams to document and report on services performed, ensuring accurate and efficient communication with clients. It captures essential details such as service dates, types, and status, and client feedback.

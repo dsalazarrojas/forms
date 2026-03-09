@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Group Therapy Informed Consent Form - Help Guide
 
 ## Purpose

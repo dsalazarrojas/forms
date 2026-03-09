@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Web Banner Creation Request Form, we must first understand the purpose and structure of the form.
-The form is used to collect information for creating a web banner. This includes details like title, form type, banner size, color scheme, font scheme, description, deadline, banner image, and submit options. The form also requests additional information such as email, phone number, and assigned tools. 
-The form fields are divided into categories like banner creation details, contact information, and submission options. Each field is designed to gather specific information that will eventually lead to the creation of the web banner.
-It is essential to note that some fields are marked as required or optional, which means users must complete the required fields before submitting the form. This guide will walk through each field, explaining its purpose and requirements.
-</thinking>
-
 # Web Banner Creation Request Form - Help Guide
 ## Purpose
 This form is used to request the creation of a web banner with specific details and options.

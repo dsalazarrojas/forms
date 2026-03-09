@@ -1,6 +1,3 @@
-<thinking>... internal form purpose: 
-This form is used to request a website hosting transfer for a client's website. The form captures necessary details such as the current hosting information, the transfer type, and the expected transfer date. It also includes fields for the contact person, email, and phone number in case further contact is required. This form helps ensure that the website hosting transfer is completed smoothly and efficiently, and it serves as a record of the transfer request. Before filling out this form, please ensure that you have reviewed the current hosting details and confirmed the transfer type and date. Additionally, make sure to upload any relevant files and select the correct uploader. Note that this form is required for all website hosting transfers, and please do not submit duplicate requests for the same transfer. If you are unsure about any of the fields or have questions, please reach out to our support team for further clarification. ...</thinking>
-
 # Website Hosting Transfer Request Form - Help Guide
 ## Purpose
 This form is used to request a website hosting transfer for a client's website. Please complete this form to ensure a smooth and efficient transfer process.

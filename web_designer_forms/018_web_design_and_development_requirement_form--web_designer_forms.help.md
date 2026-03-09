@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about a web design and development project. It seems that the project team wants to understand the requirements of a new or existing website, including its purpose, functionality, and technical needs. Before proceeding, please ensure that you have a good understanding of the project's goals and requirements, and that this form is not a duplication of effort for another project or team member.
-</thinking>
-
 # Web Design And Development Requirement Form - Help Guide
 ## Purpose
 This form is designed to gather information about a web design and development project, including the website's purpose, functionality, and technical requirements.

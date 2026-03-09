@@ -1,10 +1,3 @@
-<thinking>
-This is a Participation Waiver And Release Form, a document that is used to obtain a participant's consent before they engage in a particular activity or event. It is a legal agreement that releases the participant from liability for any injuries or damages that may occur during the activity. The form is used to ensure that the participant understands the risks involved and agrees to hold the event organizer harmless in case of any accidents or injuries.
-
-Before filling out this form, make sure you understand the purpose and implications of the agreement. If you have any questions or concerns, please ask the event organizer for clarification.
-
-</thinking>
-
 # Participation Waiver And Release Form - Help Guide
 ## Purpose
 This form is used to obtain a participant's consent and agreement to participate in an event or activity. It is a legal document that releases the participant from liability for any injuries or damages that may occur during the event.

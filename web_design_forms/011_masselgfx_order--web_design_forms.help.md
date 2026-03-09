@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information related to masselgfx orders. 
-The purpose is to gather details such as order type, product specifics, customer contact, and shipping details for a smooth and efficient order process.
-
-The form fields and their respective options should be relevant and accurate to minimize the need for additional questions or follow-up inquiries.
-
-To avoid duplication or incorrect assumptions, ensure that each field is filled in with the correct information.
-</thinking>
-
 # Masselgfx Order - Help Guide
 ## Purpose
 

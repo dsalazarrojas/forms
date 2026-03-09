@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect user input on their opinions and preferences regarding neighborhood security measures. The purpose of this form is to gather information on what users consider important for neighborhood security, what safety measures they would like to implement, and to submit their comments and contact information for follow-up. This form will help the organization understand the community's concerns and preferences, which will inform future decisions on neighborhood security.
-</thinking>
-
 # Neighborhood Security Measures Voting Form - Help Guide
 ## Purpose
 The Neighborhood Security Measures Voting Form is designed to collect your opinions and preferences on neighborhood security measures. This information will help us understand your concerns and priorities for our community's safety.

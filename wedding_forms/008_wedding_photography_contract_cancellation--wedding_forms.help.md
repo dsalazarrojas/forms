@@ -1,7 +1,3 @@
-<thinking>
-This form is for cancelling a wedding photography contract. The form is used to gather information from the client to understand the reason for the cancellation. This is a one-time cancellation request form, not a recurring or periodic form. This form is not for creating or editing a new contract, but rather for cancelling an existing one. The purpose of this form is to gather the necessary information to process the cancellation request efficiently and effectively.
-</thinking>
-
 # Wedding Photography Contract Cancellation - Help Guide
 ## Purpose
 This form is a one-time cancellation request form for a wedding photography contract. It is used to collect information from the client to understand the reason for the cancellation.

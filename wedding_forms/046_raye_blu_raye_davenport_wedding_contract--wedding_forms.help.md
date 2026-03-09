@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # raye_blu_raye_davenport_wedding_contract - Help Guide
 ## Purpose
 This form is intended to collect information for a wedding contract with Raye Blu Raye Davenport. It is designed to gather essential details about the client's preferences and schedule for the wedding.

@@ -1,17 +1,3 @@
-<thinking>Before creating the help guide, let's break down the purpose and requirements of the form. This form is for nominating a teacher and gathering information about the nominee. It's likely intended to be used internally within an organization or institution, such as a university or school. The form requires the following information:
-
-*   Nominee Name: The name of the person being nominated
-*   Email: The email address of the nominee
-*   Teacher Name: The name of the teacher being nominated
-*   Department: The department of the teacher being nominated
-*   Reason for Nomination: A brief explanation of why the teacher is being nominated
-*   Nomination Message: A message or statement to support the nomination
-*   Category: The category or group the teacher belongs to (A, B, or C)
-*   Submitter Information: The information of the person submitting the nomination (name, email, phone number, institution, department)
-*   Submission Date and Time: The date and time the nomination was submitted
-
-To avoid duplication and ensure accuracy, the form is likely intended to be submitted only once per nominee. A clear understanding of this form's purpose and requirements will help users complete it correctly and efficiently.</thinking>
-
 # Teacher Nomination Form - Help Guide
 ## Purpose
 The Teacher Nomination Form is used to gather information about a teacher being nominated for recognition or award. This form is intended to be completed only once per teacher, and the information collected will be used to evaluate and consider the teacher for the nomination.

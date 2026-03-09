@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for precinct chair voting. It is likely used in a political or organizational context where precinct chairs need to cast their votes or communicate with other users. The form is divided into four pages, each with its own set of fields. 
-
-To determine if this form is suitable for the user, the following checks will be performed:
-- The form purpose is for precinct chair voting.
-- The form is not intended for other types of voting forms.
-
-</thinking>
-
 # precinct_chair_ballot_voting_form - Help Guide
 ## Purpose
 This form is designed for precinct chairs to cast their votes or communicate with other users. It is intended to be used in a political or organizational context where voting is necessary.

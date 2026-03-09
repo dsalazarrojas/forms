@@ -1,17 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Construction Phase Planning Form", I need to understand the purpose and requirements of this form. From the provided YAML, it appears that this form is used for construction project planning, specifically for the planning phase of a construction project. The form seems to gather information on various aspects such as project identification, resource and labor planning, material logistics, risk management, and coordination and communication.
-
-The purpose of this form is likely to ensure that all necessary information is collected and documented for a thorough construction phase planning process. This includes identifying the project phase, gathering data on required resources and materials, planning for logistics and risk mitigation, and coordinating and communicating with stakeholders. The form seems to be required for the submission of this information, indicated by the "required: true" attribute for multiple fields.
-
-Before creating the guide, I need to clarify some points:
-
-*   The form seems to have two "section" fields with "note" type, which implies that they are more like headings or sections, rather than fields that need to be completed.
-*   The "options" attribute is not consistently used across the form, some fields have options, while others do not. I will assume that the options are used to limit the input to the user, but it's not clear what happens when the user selects an option.
-*   The "required: true" attribute is applied to multiple fields, but it's not clear if these fields are required for all types of projects or if there are specific requirements for certain types of projects.
-*   The form seems to be missing some information on how to complete it, for example, there is no clear indication on how to format dates or what the format of the submission date should be.
-
-</thinking>
-
 # Construction Phase Planning Form - Help Guide
 ## Purpose
 The Construction Phase Planning Form is used to gather and document the necessary information for the planning phase of a construction project. This includes project identification, resource and labor planning, material logistics, risk management, and coordination and communication.

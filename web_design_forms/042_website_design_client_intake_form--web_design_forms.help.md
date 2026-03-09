@@ -1,7 +1,3 @@
-<thinking>
-To ensure consistency and reduce errors, we should check if this form already exists in our design library. If it does, please refer to the existing form's help guide for more information. This form is intended to help clients provide us with essential information about their website design project. The form is divided into several sections, each focusing on a specific aspect of the project. We will review the provided information to ensure we have a clear understanding of the project's goals, client details, preferences, and requirements. Please answer the questions honestly and thoroughly to enable us to deliver the best possible outcome for your project.
-</thinking>
-
 # Website Design Client Intake Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients about their website design project. Completing this form will help us understand your project goals, details, and preferences, enabling us to create a tailored website that meets your needs.

@@ -1,11 +1,3 @@
-<thinking>
-To create a help guide that effectively communicates the purpose and usage of the form to end users, I will first consider the internal reasoning behind the form's design and its intended functionality. The form, titled "Corsage Order Form," likely serves as a means for customers to order flowers and other corsages for various occasions. To ensure clarity and relevance, I will focus on providing a straightforward and user-friendly guide that addresses the form's purpose, completion process, and a detailed explanation of each field. 
-
-The form's structure, as presented in the YAML input schema, includes various fields for customer information, order details, and optional fields for further customization. The fields include "Customer Name," "Customer Phone," "Crosage Type," "Flowers," "Occasion," "Message," "Order Date," "Order Time," and "Corsage Price." These fields, along with their respective types and requirements, indicate that the form is designed to gather essential customer information for ordering customized corsages.
-
-Given this understanding, the help guide should effectively communicate the form's purpose and functionality to end-users, ensuring they comprehend what each field is intended for and how to use it correctly.
-</thinking>
-
 # Corsage Order Form - Help Guide
 ## Purpose
 The Corsage Order Form is designed to allow customers to order corsages and flowers for various occasions. To place an order, please fill out this form with your details and preferences.

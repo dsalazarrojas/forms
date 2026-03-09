@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about wedding gifts. The purpose of this form is to gather details about the type of gift, its category, and the recipient's contact information. Users will input their preferences and details for their wedding guests. The form will be used by wedding planners or coordinators to create a registry for the wedding.
-</thinking>
-
 # wedding_gifts_registry_form - Help Guide
 ## Purpose
 This form is intended for couples to create a wedding registry for their special day. It collects information about the type of gift, gift category, recipient's contact information, and other relevant details.

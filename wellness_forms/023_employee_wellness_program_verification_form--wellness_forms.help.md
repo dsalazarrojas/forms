@@ -1,5 +1,3 @@
-<thinking>This form is intended to verify the participation and status of employees in the Employee Wellness Program. It's essential to complete this form accurately to ensure that the program's records are up-to-date and reliable. Before filling out the form, please ensure that you have not already completed it for the same period or with the same information. This will save you time and prevent data duplication.</thinking>
-
 # Employee Wellness Program Verification Form - Help Guide
 ## Purpose
 This form is designed to verify the participation and status of employees in the Employee Wellness Program.

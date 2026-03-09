@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on the quality of the website. The feedback collected will be used to improve the website and services offered. This form should only be filled out once every 30 days. Please do not fill out this form multiple times within 30 days.
-</thinking>
-
 # scc_website_feedback - Help Guide
 ## Purpose
 

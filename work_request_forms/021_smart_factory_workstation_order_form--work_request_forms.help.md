@@ -1,5 +1,3 @@
-<thinking>As a expert form designer and technical writer, I'll create a user-facing help guide for the Smart Factory Workstation Order Form. I'll base the explanation on the provided YAML fields and keep it concrete, concise, and practical.</thinking>
-
 # Smart Factory Workstation Order Form - Help Guide
 ## Purpose
 The Smart Factory Workstation Order Form is designed to collect information from customers or operators about their workstation orders. This form is used for internal purposes and will not be shared or sold, so you can focus on providing accurate and relevant details without worrying about external visibility.

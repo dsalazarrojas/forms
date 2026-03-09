@@ -1,7 +1,3 @@
-<thinking>
-To determine whether to include this form in the help guide, I'll evaluate its purpose and potential impact on the organization's operations. The form is titled "New Design Feedback Form", indicating that it is used to gather feedback on new designs. This information could be useful for designers and product managers to assess the design's quality and identify areas for improvement. I'll assume that the form is intended for internal use, possibly within a design team or department. To ensure its inclusion, I'll also check if there is any duplication with other forms or processes. Based on the provided YAML, there are no obvious duplicates. Therefore, I'll proceed with creating the help guide for this form.
-</thinking>
-
 # New Design Feedback Form - Help Guide
 ## Purpose
 The New Design Feedback Form is a tool for gathering feedback on new designs. It helps designers and product managers evaluate and improve the design quality.

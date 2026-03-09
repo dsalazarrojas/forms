@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to generate leads for mindfulness programs. It collects information from users interested in such programs. The purpose of this form is to gather contact information, program preferences, and lead source to follow up on potential leads. Please ensure that you're using this form to generate new leads and not to collect existing contact information.
-
-When generating new leads, it's essential to ensure that we're not duplicating efforts or targeting the same audience multiple times. This form is designed to capture unique and relevant information that will help our team follow up on potential leads.
-
-</thinking>
-
 # Mindfulness Programs Lead Generation Form - Help Guide
 ## Purpose
 The Mindfulness Programs Lead Generation Form is a tool used to capture information from potential leads interested in mindfulness programs. This form helps our team gather essential details to follow up on potential leads and ensure that we're targeting the right audience.

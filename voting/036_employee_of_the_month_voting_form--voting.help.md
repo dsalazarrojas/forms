@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is used to collect nominations for the "Employee of the Month" award, which is a recognition given to an employee who demonstrates exceptional performance and behavior. This form is used by management to collect feedback and input from team members, and the results will be reviewed internally to determine the winner. Please ensure that you only nominate an employee who you have worked with and have a strong opinion about, and refrain from nominating yourself. Duplicate nominations will be automatically flagged and reviewed to ensure fairness and integrity of the process.</thinking>
-
 # Employee Of The Month Voting Form - Help Guide
 ## Purpose
 The Employee of the Month award is a recognition given to an employee who demonstrates exceptional performance and behavior. This form is used to collect nominations from team members to identify the winner.

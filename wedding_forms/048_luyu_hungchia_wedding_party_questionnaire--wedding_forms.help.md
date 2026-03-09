@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from a wedding party to understand their preferences and needs for the event. It's crucial to ensure that the form is completed accurately to provide the best experience for the guests. Please note that this form will be used to determine catering needs and headcount for the event. To ensure consistency, please do not fill out this form more than once.
-</thinking>
-
 # luyu_hungchia_wedding_party_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from wedding party members about their food, drink, and headcount preferences for the event.

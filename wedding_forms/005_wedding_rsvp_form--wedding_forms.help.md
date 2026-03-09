@@ -1,7 +1,3 @@
-<thinking>
-This form is a crucial part of the wedding planning process, and its primary purpose is to gather information from guests about their intentions to attend the wedding, their contact preferences, and any special requests they may have. This information is essential for the wedding planning and execution process, as it helps the wedding organizers understand who is coming, how to contact them, and what special requirements they may need to be accommodated. It is essential that users understand the correct way to complete this form to ensure that the wedding organizers receive accurate and complete information.
-</thinking>
-
 # wedding_rsvp_form - Help Guide
 ## Purpose
 The wedding RSVP form is a crucial tool used by wedding organizers to gather information from guests about their intentions, contact preferences, and special requests for the wedding. This form helps the organizers understand who is coming, how to contact them, and what special requirements they may need to be accommodated.

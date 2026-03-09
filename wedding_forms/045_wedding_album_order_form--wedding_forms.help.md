@@ -1,8 +1,3 @@
-<thinking>
-This form is for users to order a custom wedding album. The wedding album is a personalized collection of photos from the wedding celebration. This form gathers information from the couple to ensure that the album is created according to their preferences and specifications. It's essential to fill out this form carefully to ensure accurate and timely creation of the album. Please note that this form is used for internal purposes and will not affect any external systems or services.
-
-</thinking>
-
 # Wedding Album Order Form - Help Guide
 ## Purpose
 The Wedding Album Order Form is a form designed for couples to provide information about their wedding album preferences. This form is used to gather details such as album size, materials, design, photo type, quantity, color scheme, and any special requests they may have.

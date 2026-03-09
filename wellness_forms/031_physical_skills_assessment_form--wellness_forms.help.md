@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the physical skills of participants in a program or training. It collects information about the participant's physical skills, such as their rating and comments, as well as their contact details. This form is likely used for tracking and evaluation purposes, perhaps for coaches or trainers to evaluate a participant's progress or for administrators to manage participant data.
-</thinking>
-
 # Physical Skills Assessment Form - Help Guide
 ## Purpose
 This form is used to assess the physical skills of participants in a program or training. It captures information about their skills, comments, and contact details.

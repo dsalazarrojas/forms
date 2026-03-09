@@ -1,5 +1,3 @@
-<thinking>This form is used for conducting straw polls, which are informal and non-binding polls where participants are asked to vote on a particular topic or issue. The form is designed to collect information on the level of education and other demographic information from participants. Before proceeding, please ensure that you have not already filled out this form. If you have, please do not attempt to fill it out again as this may result in duplicate data.</thinking>
-
 # Straw Poll - Help Guide
 ## Purpose
 

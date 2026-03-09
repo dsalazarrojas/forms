@@ -1,11 +1,3 @@
-<thinking>
-The Wellness Quiz form is designed to collect user demographics, health habits, and wellness practices to assess an individual's overall well-being. The form is used to gather information on user's sleep habits, physical and mental health, medication use, and other relevant factors that contribute to their well-being. The purpose of this form is to provide a comprehensive assessment of an individual's wellness status and identify areas for improvement.
-
-The form is not intended to be a diagnostic tool, but rather a self-assessment tool to help individuals gain insights into their own well-being. The data collected from this form will not be used for any clinical or medical purposes.
-
-To ensure the form's purpose and intent are clear, please review the form's fields and their explanations below.
-</thinking>
-
 # Wellness Quiz - Help Guide
 ## Purpose
 The Wellness Quiz is a self-assessment tool designed to help individuals evaluate their overall well-being. It collects information on demographics, health habits, and wellness practices to provide insights into areas for improvement.

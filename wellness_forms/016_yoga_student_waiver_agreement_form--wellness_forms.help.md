@@ -1,7 +1,3 @@
-<thinking>
-A waiver agreement form is a crucial document that helps establish legal boundaries and responsibilities between a participant (e.g., a yoga student) and an organization (e.g., a yoga studio). By using this form, a participant can understand their rights, responsibilities, and the risks associated with participating in yoga classes. It's essential to ensure that the participant is aware of what they're signing up for and what they need to do in case of an emergency or unexpected situation.
-</thinking>
-
 # Yoga Student Waiver Agreement Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from students participating in yoga classes, including their emergency contact details, medical information, and waiver details. This form is designed to ensure that students are aware of their responsibilities and rights while participating in yoga activities.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Organizing Quote Form - Help Guide
 
 ## Purpose

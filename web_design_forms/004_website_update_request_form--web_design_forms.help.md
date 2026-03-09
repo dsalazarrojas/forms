@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for requesting updates to a website. It is meant for internal use only, so please ensure that your request is relevant to website updates and not duplicate requests. The form helps the web development team to gather information about the required changes and prioritize them accordingly. Please fill in the form with accurate and detailed information to facilitate efficient processing.
-
-</thinking>
-
 # Website Update Request Form - Help Guide
 ## Purpose
 This form is for requesting updates to the website. It is intended for internal use, so please ensure that your request is relevant and not a duplicate.

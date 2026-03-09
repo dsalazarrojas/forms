@@ -1,5 +1,3 @@
-<thinking>...This form is designed to gather information from wedding planners and florists about the wedding floral arrangements they have created or are planning to create for upcoming weddings. This form aims to standardize and collect data to better understand and improve the wedding floral arrangements offered in the wedding services. By using this form, users can provide information about the style, color palettes, specific flowers and foliage used, budget, and any other additional details they think would be helpful. This form should not be completed by end-users, but rather by wedding planners and florists who have experience with creating wedding floral arrangements. The data collected from this form will be used internally to enhance the wedding services offered by the company...</thinking>
-
 # Wedding Floral Arrangement Survey - Help Guide
 ## Purpose
 This form is designed to collect information about wedding floral arrangements from experienced wedding planners and florists. The data collected will help us understand and improve the wedding services offered by the company.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact information and preferences from users for communication and potential business opportunities. To avoid duplication, the form should only be filled out once per user, and the data should be checked for consistency and accuracy.
-</thinking>
-
 # Bootstrap Form Template - Help Guide
 ## Purpose
 This form is designed to collect your contact information and preferences for communication and potential business opportunities. It should only be filled out once per user, and the data will be checked for consistency and accuracy.

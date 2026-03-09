@@ -1,22 +1,3 @@
-<thinking>
-This is a template to create a help guide for a COVID-19 liability waiver form for a wedding service, specifically for makeup, lashes, and brow services. This form is designed to capture essential information for both the client and the employee, including the client's details, services rendered, and the employee's certification.
-This template will cover the following pages:
-- **Wedding Forms**: This page will be used to select the type of wedding form required, which can be a COVID-19 liability waiver.
-- **COVID 19 Liability Waiver**: This page is where the client will provide their agreement to accept the terms of the services, which includes liability for potential risks and consequences.
-- **Services Rendered**: This page will list the services that will be performed, which can include Lash, Makeup, and Brow services.
-- **Lash Services**: Select one or more Lash services from the options.
-- **Makeup Services**: Select one or more Makeup services from the options.
-- **Brow Services**: Select one or more Brow services from the options.
-- **Signature**: The client will leave their signature as proof of agreement.
-- **Date**: The date the form was signed.
-- **Time**: The time the form was signed.
-- **Client Details**: The client's personal details, which include their name, email, phone number, and address.
-- **Employee Details**: The employee's personal details, which include their name, ID number, phone number, and email.
-- **Salon Details**: The salon's details, which include their name and address.
-- **Notes**: Any additional notes or comments.
-
-</thinking>
-
 # Makeup, Lashes And Brow Services COVID 19 Liability Waiver - Help Guide
 ## Purpose
 This form is designed to collect essential information for both the client and the employee for makeup, lashes, and brow services during the COVID-19 pandemic. It covers liability waivers, services rendered, and essential contact details.

@@ -1,6 +1,3 @@
-<thinking>
-This form is likely used for collecting information related to deliveries, such as contact details, delivery instructions, shipping address, delivery date, and delivery time. The form is probably used in an e-commerce or logistics context. To ensure the form is filled out correctly, it's essential to verify that the required fields are completed, specifically the shipping address and delivery date/time fields. The form should not be submitted without these fields, as they are crucial for the successful delivery of goods or services. 
-</thinking>
 # delivery-order-form-pedro - Help Guide
 ## Purpose
 This form is designed to collect information necessary for successful delivery of goods or services, including contact details, delivery instructions, shipping address, delivery date, and delivery time.

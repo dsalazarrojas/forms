@@ -1,16 +1,3 @@
-<thinking>
-We've designed this form to gather suggestions from users about potential changes or improvements to our website. This form aims to collect information from users about specific areas of our site where they feel we could improve, making it easier for our team to identify key areas of focus and create targeted updates.
-
-Before proceeding, please take note that this form is designed to collect suggestions from unique users, each submitting one suggestion at a time. Repeating or submitting similar suggestions may be flagged as a potential duplicate, and our team will review each submission to ensure accuracy and relevance.
-
-To help our team create high-quality updates, please provide accurate and detailed information for each field. If you have any feedback or concerns, feel free to reach out to us directly.
-
-Please note that some fields might not be immediately applicable to every user's submission, but they will still appear in the form for consistency and clarity. Your input is invaluable to us, and we appreciate your time and effort in filling out this form.
-
-Before submitting, please review each field for completeness and ensure that you're providing the most accurate information you can.
-
-</thinking>
-
 # Website Suggestion Form Template - Help Guide
 ## Purpose
 The form is designed to collect suggestions from users on how to improve our website. Your input will help us create targeted updates that address specific areas of our site, making it more useful and efficient for you and other users.

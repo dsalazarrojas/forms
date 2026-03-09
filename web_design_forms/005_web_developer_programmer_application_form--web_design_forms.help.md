@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from web developers applying for a job position. The form is meant to be completed by potential candidates who are interested in working on web development projects. Each field is intended to gather specific details about the applicant, their experience, and their qualifications. The fields should be filled out accurately and completely to ensure that the applicant's qualifications are properly evaluated.
-
-</thinking>
-
 # web_developer_programmer_application_form - Help Guide
 ## Purpose
 The web_developer_programmer_application_form is a job application form designed for web developers to apply for a job position. It collects information about the applicant's name, email, job title, phone number, experience, skills, and projects.

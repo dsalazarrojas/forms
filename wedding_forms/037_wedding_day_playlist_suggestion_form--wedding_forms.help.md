@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather suggestions for a wedding day playlist. The purpose of this form is to collect song requests from guests, along with their preferred music genre and the artist/album information for each song. The form will likely be used by wedding planners or DJs to create a customized playlist for the wedding ceremony or reception. To ensure the form is filled out correctly, we'll check for duplication and relevance of the input data before saving it. This will prevent duplicate songs from being entered and ensure the data collected is valid and useful for creating the wedding playlist. 
-
-</thinking>
-
 # Wedding Day Playlist Suggestion Form - Help Guide
 
 ## Purpose

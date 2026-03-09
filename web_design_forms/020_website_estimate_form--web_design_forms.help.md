@@ -1,8 +1,3 @@
-<thinking>
-We need to determine if the form purpose and requirements are clear and distinct, and if we should not duplicate any effort already done on similar forms in the past.
-The form seems to be for estimating the cost of a website project. The fields are straightforward and typical for a web design project, but let's review each field carefully.
-</thinking>
-
 # website_estimate_form - Help Guide
 ## Purpose
 This form is used for estimating the cost of a website project. Please fill it out with your project details to receive an accurate estimate.

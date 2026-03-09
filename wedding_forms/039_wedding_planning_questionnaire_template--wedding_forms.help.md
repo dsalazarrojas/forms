@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the Wedding Planning Questionnaire Template form. This form is used for capturing information about a couple's wedding planning details. To ensure the form is completed correctly, the internal reasoning block will first analyze the form's purpose and ensure it's not duplicated in any way.</thinking>
-
 # Wedding Planning Questionnaire Template - Help Guide
 ## Purpose
 This form is designed to gather essential details about a couple's wedding planning, including ceremony and reception information, timelines, and contact details. It will help wedding planners or coordinators understand the couple's needs and preferences for a successful and enjoyable wedding experience.

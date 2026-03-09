@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Marriage Registration Form", let's break down the form's purpose, how to complete it, and what each field means.
-
-The "Marriage Registration Form" is designed to collect information from a couple and their officiant (the person performing the marriage ceremony) to record the details of a wedding. The form's purpose is to gather essential data for legal and administrative purposes, such as the couple's identifying information, the wedding's details, and the officiant's information. The form should be completed by the couple and their officiant to ensure accurate and complete registration of the marriage.
-
-Before starting to complete the form, please ensure that you have all the necessary information ready, as some fields are required to be filled out for the form to be valid.
-
-</thinking>
-
 # Marriage Registration Form - Help Guide
 ## Purpose
 The Marriage Registration Form is a document that collects essential information from couples and their officiants to record the details of their marriage for legal and administrative purposes.

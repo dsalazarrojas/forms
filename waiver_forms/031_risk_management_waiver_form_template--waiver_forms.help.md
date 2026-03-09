@@ -1,12 +1,3 @@
-<thinking>
-Please note that this form is intended for risk management purposes, particularly for situations where an individual is taking on a risk by participating in a specific activity. The form is to be filled out by both the participant and a witness, and is used to document their understanding and acknowledgment of the risks involved. It's essential that this form is not duplicated or used for other purposes without proper review and approval from the relevant authorities.
-
-To ensure accuracy and consistency, please fill out this form carefully and truthfully. Each field is designed to capture specific information that is necessary for risk management. This form is not intended for general use, and its completion is a critical part of the risk management process.
-
-Before proceeding, ensure you have the necessary information and approvals in place to fill out this form.
-
-</thinking>
-
 # Risk Management Waiver Form Template - Help Guide
 ## Purpose
 This form is a template for documenting risk management information for participants and witnesses. It captures their details, acknowledgments, and agreements related to risk-taking activities.

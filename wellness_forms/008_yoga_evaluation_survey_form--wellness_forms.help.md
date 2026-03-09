@@ -1,7 +1,3 @@
-<thinking>
-As an expert form designer and technical writer, I would like to confirm that the purpose of this form is to gather feedback from yoga students, specifically regarding their overall experience, satisfaction, and preferences related to the class they attended. This form is designed to collect qualitative data that will help instructors and management improve the quality of yoga classes offered.
-</thinking>
-
 # Yoga Evaluation Survey Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from yoga students about their experiences and preferences. By completing this form, you will be helping us understand what we can do to improve our yoga classes and better meet your needs.

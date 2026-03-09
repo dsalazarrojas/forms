@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from participants of a women's wellness retreat. 
-It is intended for individuals who attended the event and are asked to provide feedback on their experience.
-The form is used to collect their name, email, event type, date and time attended, and their level of satisfaction with the event, as well as any comments they may have.
-</thinking>
-
 # Women's Wellness Retreat Survey - Help Guide
 ## Purpose
 The Women's Wellness Retreat Survey is designed to gather feedback from participants on their experience at the event. Please provide your honest and constructive feedback to help us improve the program.

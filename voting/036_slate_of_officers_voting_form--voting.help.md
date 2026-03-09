@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm that this is the correct form, let's go through the provided YAML. It appears to be a form related to voting, with fields for the candidate list and casting a vote. The form title is "slate_of_officers_voting_form", and it has 5 pages with various fields. The required fields are not all marked as required in the YAML, but we'll assume that some fields might be mandatory based on the context.
 
 # slate_of_officers_voting_form - Help Guide

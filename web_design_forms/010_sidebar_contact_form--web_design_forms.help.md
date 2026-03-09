@@ -1,7 +1,3 @@
-<thinking>
-This form was created to provide a simple and user-friendly way to collect contact information from users. The form is not affiliated with, endorsed by, or derived from any form platform, and it's an original adaptation using only public survey topic metadata as inspiration.
-</thinking>
-
 # Sidebar Contact Form - Help Guide
 ## Purpose
 The Sidebar Contact Form is a contact form designed to collect basic contact information from users, allowing them to reach out with questions, comments, or concerns.

@@ -1,8 +1,3 @@
-<thinking>
-The internal reasoning block is used to explain the purpose and context of the form. The form is used to collect information from wedding clients about their wedding details. This form aims to gather data on the couple's names, wedding date, and other essential details such as venue, timeline, photography, and other necessary information. This form helps ensure that all necessary information is gathered to make the wedding planning process more efficient and effective.
-
-</thinking>
-
 # CSP Wedding Client Questionnaire - Help Guide
 
 ## Purpose

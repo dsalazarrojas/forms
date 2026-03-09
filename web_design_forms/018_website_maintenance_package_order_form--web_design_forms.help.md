@@ -1,8 +1,3 @@
-<thinking>
-This form is used to order website maintenance packages. The purpose of this form is to collect information about the website maintenance package that the user wants to order, including the maintenance type, due date, assigned to, and price. The form is typically used by website administrators or managers to process website maintenance orders. 
-The form should not be used for non-maintenance related tasks, such as website development or design.
-</thinking>
-
 # Website Maintenance Package Order Form - Help Guide
 ## Purpose
 This form is used to order website maintenance packages, which include tasks such as updating software, backing up data, and performing security checks to ensure the website is up-to-date and secure.

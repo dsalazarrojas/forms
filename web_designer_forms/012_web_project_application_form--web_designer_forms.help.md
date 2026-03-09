@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to help individuals or companies submit applications for web projects to be developed. The form is designed to collect necessary information about the applicant, the project, and the contact details. 
-
-To determine if this form is the correct one for your use case, please consider the following:
-- You are applying for a web development project.
-- You are looking to provide detailed information about your project.
-- You are interested in submitting an application for web project development.
-
-If you are unsure or have questions about this form, please do not hesitate to contact our support team for clarification.
-</thinking>
-
 # web_project_application_form - Help Guide
 
 ## Purpose

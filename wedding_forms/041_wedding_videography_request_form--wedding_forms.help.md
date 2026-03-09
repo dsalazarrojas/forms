@@ -1,23 +1,3 @@
-<thinking>
-This form appears to be a template for a wedding videography request, likely used for couples to provide details about their wedding event. The form is designed to collect information about the wedding package preferences, add-ons, and other relevant details. To ensure that the form is completed correctly, it's essential to understand its purpose and the meaning of each field. This guide will walk you through the form's purpose, how to complete it, and provide field-by-field explanations to help users fill it out accurately.
-
-The form's purpose is to gather information about the couple's wedding preferences, including their package choices, add-ons, and other details. This information will help the videographer understand the couple's expectations and plan the videography services accordingly.
-
-To complete this form, follow these steps:
-
-1.  Start by selecting the wedding package that best suits your needs.
-2.  Choose your add-ons from the list provided.
-3.  Enter your preferred date for the wedding event.
-4.  Select your preferred time for the wedding event.
-5.  Enter any additional notes you'd like to share with the videographer.
-6.  Provide your email address.
-7.  Enter your phone number.
-8.  Confirm or decline the add-ons provided.
-
-Each field in this form has a specific purpose, which will be explained in the field-by-field explanation section.
-
-</thinking>
-
 # Wedding Videography Request Form - Help Guide
 ## Purpose
 This form is designed to gather information about your wedding preferences and needs. It will help us understand your expectations and provide the best possible videography services for your special day.

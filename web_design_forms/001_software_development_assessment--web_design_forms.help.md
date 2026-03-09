@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, I'll check the form fields against the provided context to understand the form's purpose and requirements. The form is for a "Software Development Assessment" which suggests it's used to evaluate the fitness of software development projects. This form likely assesses the project's alignment with certain goals or objectives. The fields seem to be focused on capturing information related to software development, specifically "web_design_forms" which could be a misnomer or a typo. I'll assume it's a field to capture the number of web forms used in the project.
-</thinking>
-
 # Software Development Assessment - Help Guide
 ## Purpose
 The Software Development Assessment form is designed to evaluate the fitness of software development projects. This form collects information about the project's alignment with certain goals or objectives.

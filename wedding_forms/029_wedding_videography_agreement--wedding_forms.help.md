@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Videography Agreement - Help Guide
 
 ## Purpose

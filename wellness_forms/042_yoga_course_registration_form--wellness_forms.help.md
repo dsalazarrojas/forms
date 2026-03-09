@@ -1,7 +1,3 @@
-<thinking>
-The user-facing help guide is intended to be a clear, concise, and practical guide for end-users to complete the form correctly. It should cover the form's purpose, how to complete it, and each field's meaning. The form is for registering for a yoga course, and the guide should reflect this. The guide should be written in a way that assumes the user is familiar with the basics of filling out a form, so it should not need to explain basic form concepts like "click the next field" or "type in your name". The guide should also be mindful that some fields are not required and have optional or default values.
-</thinking>
-
 # Yoga Course Registration Form - Help Guide
 ## Purpose
 This form is for registering for a yoga course. Please fill out this form to secure your spot in the course.

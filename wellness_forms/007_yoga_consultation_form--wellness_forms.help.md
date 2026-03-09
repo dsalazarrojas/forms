@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a person's personal and medical background for a yoga consultation. The form is intended to be completed by individuals who are interested in starting or continuing a yoga practice. The fields are meant to collect relevant data to provide a safe and effective yoga experience for the individual.
-</thinking>
-
 # yogaConsultationForm - Help Guide
 ## Purpose
 This form is used to gather personal and medical information to provide a safe and effective yoga practice experience.

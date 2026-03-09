@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for classroom contributions from parents or guardians, ensuring they can sign up their child for a specific week's contribution. The form should only be filled out once per week and per student. Please fill out the form carefully to avoid duplication of contributions. The purpose of this form is to gather essential details from parents to provide accurate and timely support to the classroom. 
-</thinking>
-
 # Classroom Contribution List Sign Up - Help Guide
 ## Purpose
 This form is used to collect classroom contribution information from parents or guardians for specific weeks and students. Please ensure you fill out the form once per week and per student to avoid any duplication.

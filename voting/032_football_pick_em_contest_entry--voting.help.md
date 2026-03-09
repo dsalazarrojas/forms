@@ -1,9 +1,3 @@
-<thinking>
-We're creating a help guide for the "Football Pick'em Contest Entry" form. This form is likely used for users to submit their picks for a sports contest, specifically football. The form is designed to gather information from participants, including their team picks, scores, and other relevant details. The form may be used in a competitive or recreational context, such as office fantasy football leagues or social gatherings.
-
-The form is probably designed to prevent duplication or ensure that each participant's entry is unique. This suggests that the form may be using some form of validation or submission checking.
-</thinking>
-
 # Football Pick'em Contest Entry - Help Guide
 ## Purpose
 This form is designed to collect participant information and their picks for a football contest. To complete this form, follow these steps:

@@ -1,13 +1,3 @@
-<thinking>...I will create a helpful guide for users to fill out the Club Leadership Voting Form.
-
-First, I will ensure that the form purpose is clear: this form is for users to submit their votes for different leadership positions within a club. The form is used for verification purposes, and users will provide their full name, member ID or student ID, voting date, and other relevant information.
-
-Before creating the guide, I will review the form structure and fields to ensure that each field is clearly labeled and easy to understand. I will also verify that the required fields are marked as such, and that the form is complete and free of duplication.
-
-Form fields are: Voter Full Name, Member ID or Student ID, Voting Date, Voting Time, Election Year, Club Name, Vote for President, Vote for Vice President, Vote for Secretary, Vote for Treasurer, and Vote Confirmation. The guide will explain each field in a concise and practical manner.
-
-</thinking>
-
 # Club Leadership Voting Form - Help Guide
 ## Purpose
 This form is for club members to submit their votes for different leadership positions within the club. It is used for verification purposes to ensure that the voting process is accurate and secure.

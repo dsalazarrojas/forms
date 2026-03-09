@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather information from festival attendees on their best film preferences. This form will collect their votes for the best film, and also ask for their feedback and contact information if desired. This guide will help ensure that the festival organizers have accurate and useful data for future planning.
-</thinking>
-
 # Film Festival Best Film Voting Form - Help Guide
 ## Purpose
 This form is intended for festival attendees to cast their votes for the best film of the festival. We value your opinion and would like to know which films you enjoyed the most.

@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to collect information from users regarding their song preferences and song titles/artist information. This form appears to be a simple text-based form designed to gather specific details from users. To ensure the guide is helpful, let's review the form fields to understand their intended usage.
-- The fields are: `song_preferences`, `song_title`, and `song_artist`.
-- `song_preferences` is likely a free-text field where users can describe their preferred type of song or genre.
-- `song_title` and `song_artist` are also text fields that might be used to collect specific song titles and the artist associated with those titles.
-Considering the form's simplicity and the fields provided, it seems to be a straightforward request for users to provide basic information about their desired song.
-</thinking>
-
 # Flo Collective Song Request Page - Help Guide
 
 ## Purpose

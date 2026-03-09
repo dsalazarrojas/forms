@@ -1,7 +1,3 @@
-<thinking>
-The Wedding Cake Inquiry Form is used to collect information from customers interested in purchasing a wedding cake. It is essential to complete this form accurately to ensure that the baker has all the necessary details to create the perfect wedding cake for the big day. This form helps the baker understand the customer's preferences, design requirements, and logistical needs. To avoid duplication, please only submit the form once, as the information will be used to process and fulfill the order.
-</thinking>
-
 # Wedding Cake Inquiry Form - Help Guide
 ## Purpose
 The Wedding Cake Inquiry Form is designed to help brides-to-be or grooms-to-be provide all necessary details about their wedding cake preferences, allowing the baker to create a customized cake that meets their expectations.

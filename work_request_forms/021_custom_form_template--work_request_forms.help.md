@@ -1,14 +1,3 @@
-<thinking>
-This form template is designed to capture information about work requests from customers. It is intended for internal use within an organization, and its primary purpose is to provide a standardized structure for documenting and tracking work requests. This template is likely used by support teams, customer service, or other departments involved in handling customer inquiries and requests.
-
-To determine the relevance of this form, consider the following:
-* Is this form part of an internal process or system?
-* Is the form used for tracking customer interactions or requests?
-* Is it essential to record specific details about customer orders or inquiries?
-
-Please fill in this form if the above conditions apply to your scenario.
-</thinking>
-
 # Custom Form Template - Help Guide
 ## Purpose
 This custom form template is designed to capture and track essential details about work requests from customers. It's meant to be used for internal processes within an organization.

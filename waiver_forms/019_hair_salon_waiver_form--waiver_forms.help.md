@@ -1,7 +1,3 @@
-<thinking>
-This is a form designed to collect information from clients for liability waiver purposes in a hair salon setting. The form is meant to gather client details, contact information, service information, and a liability waiver that clients must sign. It is essential to fill out the form accurately and completely to ensure that the salon has all necessary details for providing services and protecting itself legally.
-</thinking>
-
 # Hair Salon Waiver Form - Help Guide
 ## Purpose
 

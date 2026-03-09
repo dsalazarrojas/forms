@@ -1,15 +1,3 @@
-<thinking>
-
-This form, "Holistic Health Awareness Survey", is designed to gather information from users on their personal and demographic details, as well as their perceptions of their well-being, stress levels, and self-care habits. It is meant to be filled out by a general audience, without any specific age or demographic restrictions. 
-
-The form is divided into several sections, with some questions being optional, while others are required. The user is asked to provide their demographic details, such as age, country of residence, and education level, as well as their well-being, stress levels, and self-care habits, including mindfulness practices, self-care routine, and emotional health. The user is also asked to report their overall health status and provide any additional comments they might have.
-
-Before proceeding, the user is asked to select their mindfulness practices, which can include Yoga, Meditation, Exercise, and Sleep, and their self-care routine, which can include Morning Meditation, Evening Journaling, Healthy Eating, and Social Connection. They are also asked to select their level of stress, which can be High, Low, or Moderate.
-
-Please note that this form is designed to be filled out by a general audience and might not be suitable for all users. If you're unsure about any question, please feel free to contact the administrator for further clarification.
-
-</thinking>
-
 # Holistic Health Awareness Survey - Help Guide
 ## Purpose
 The Holistic Health Awareness Survey is a form designed to gather information from users on their personal and demographic details, as well as their perceptions of their well-being, stress levels, and self-care habits.

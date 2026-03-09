@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for booking an Engagement Story Session, a unique and intimate storytelling experience for couples to share their story, love, and commitment to each other. This form will collect essential information from the couple to schedule and prepare for the session. The form is not affiliated with, endorsed by, or derived from any form platform, and it's an original adaptation created using public survey topic metadata from the wedding industry. It's essential to ensure that the form is used correctly and consistently to avoid duplication of sessions.
-
-The following form will guide you through the process of booking an Engagement Story Session. Please follow this guide carefully to ensure you provide the required information.
-</thinking>
-
 # Engagement Story Session Booking - Help Guide
 ## Purpose
 This form is designed to collect information for an Engagement Story Session booking. The goal is to schedule and prepare for a unique and intimate storytelling experience for couples to share their love and commitment to each other.

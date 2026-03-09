@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information from research participants and obtain their consent for participating in a UX research project. The form is intended for internal use by a research team and should not be used for any external or commercial purposes. The form will be used to ensure that participants understand the purpose and scope of the research, and that they are aware of their rights and responsibilities as participants. Please ensure that the information provided is accurate and up-to-date before submitting this form...</thinking>
-
 # UX Research Consent Form - Help Guide
 ## Purpose
 This form is intended for use by a research team to collect information from participants and obtain their consent for participating in a UX research project.

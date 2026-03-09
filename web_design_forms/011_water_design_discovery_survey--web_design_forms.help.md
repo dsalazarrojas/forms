@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients and designers about water design projects. It is essential to understand the project's details, such as type, location, and priority, to ensure that the project is managed effectively. Please make sure to fill out this form with accurate and complete information to help us better understand your project requirements. Please note that this is a one-time submission form, and you will not need to fill it out again unless your project details change. If you are unsure about any field, please do not hesitate to reach out to us for clarification.
-</thinking>
-
 # Water Design Discovery Survey - Help Guide
 
 ## Purpose

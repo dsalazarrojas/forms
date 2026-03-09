@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about wedding hair and makeup services. The goal is to determine what services will be offered on a specific wedding day, at a specific time, to a particular wedding venue. This information is necessary to ensure that the hair and makeup services are provided according to the customer's needs and expectations.
-The fields in this form will collect data about the type of hair services (blowout, updo, color correction, etc.), the type of makeup services (bridal hair, bridal makeup, etc.), the date and time of the wedding, the wedding venue, the names and contact information of the hair stylist and makeup artist, and the contact name and email of the person making the booking.
-</thinking>
-
 # Wedding Hair And Makeup Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about wedding hair and makeup services.

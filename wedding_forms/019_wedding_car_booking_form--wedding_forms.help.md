@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information required for a wedding car booking. This form is meant to be filled out by individuals or organizations booking a wedding car service, providing details such as wedding venue, vehicle type, number of guests, date, time, and other specific requirements. The form ensures that the booking information is accurate and complete, allowing the service provider to efficiently manage and fulfill the booking request.
-</thinking>
-
 # Wedding Car Booking Form - Help Guide
 ## Purpose
 This form is designed to collect essential information for a wedding car booking.

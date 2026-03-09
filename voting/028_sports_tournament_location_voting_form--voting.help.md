@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user input on the location of a sports tournament, likely for organizational purposes such as venue selection or planning. It's essential to ensure the provided information is accurate and relevant to the intended purpose of the form. To avoid duplication, users should only submit one response per location. If the provided location is already listed, users should select the corresponding option instead of submitting a duplicate entry.
-</thinking>
-
 # Sports Tournament Location Voting Form - Help Guide
 
 ## Purpose

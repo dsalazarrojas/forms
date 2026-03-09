@@ -1,7 +1,3 @@
-<thinking>
-Form is intended for students to vote for candidates in student council elections. To avoid duplicate entries, ensure you've not already completed this form. If you've already voted, do not attempt to cast another vote. The form is only accessible by authorized personnel.
-</thinking>
-
 # student_council_voting_survey - Help Guide
 ## Purpose
 This form is designed for students to vote for candidates in student council elections, ensuring that each student has a voice in electing their representatives.

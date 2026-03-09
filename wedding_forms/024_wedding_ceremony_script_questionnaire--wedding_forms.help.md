@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for a wedding ceremony script. The purpose of the form is to gather details about the wedding ceremony, including the couple's information, officiant information, ceremony style, ring exchanging, unity covenant, special requests, ceremony script, closing, and review. This form is intended to be used by couples to create a personalized wedding ceremony script. 
-The form is not intended to be a comprehensive template for a wedding ceremony script, but rather a guide to help couples create their own unique ceremony.
-</thinking>
-
 # Wedding Ceremony Script Questionnaire - Help Guide
 ## Purpose
 This form is designed to help couples create a personalized wedding ceremony script for their special day.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from job applicants for graphic design positions. The form is meant to be simple and easy to complete, requiring only essential information. The fields should not be completed if you are not actually applying for a job. Do not provide fake or incomplete information as it may delay or even cancel the hiring process. This form's data is intended for internal use within our company, and your data will be used to determine the suitability of applicants for graphic design roles.
-
-</thinking>
 # Graphic Design Job Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from job applicants for graphic design positions.

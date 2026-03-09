@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "Contact The Webmaster Form 3". This form is designed to gather information from users who want to contact the webmaster for various reasons, such as reporting a bug, suggesting a design improvement, or providing feedback on the website. The form is intended for users to provide detailed information about their inquiry, including their contact information, the reason for contacting the webmaster, and the specific issue they are experiencing. This form will help the webmaster to efficiently and effectively address the user's concern. I will ensure that the guide is concise, concrete, and practical, explaining each field in detail to help users understand its purpose and how to complete it correctly.</thinking>
-
 # Contact The Webmaster Form 3 - Help Guide
 ## Purpose
 This form is designed to allow users to contact the webmaster for various reasons, such as reporting a bug, suggesting a design improvement, or providing feedback on the website. The form will help the webmaster to identify and fix issues efficiently.

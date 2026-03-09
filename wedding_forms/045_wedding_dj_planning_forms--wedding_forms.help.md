@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for wedding planning, specifically for DJs who need to gather information from the wedding couple to plan the music and logistics for their big day. The form asks for various details such as ceremony, cocktail and dinner plans, dance party details, and more. The purpose of this form is to ensure that the DJ has all the necessary information to create a seamless and enjoyable experience for the couple and their guests.
-</thinking>
-
 # wedding_dj_planning_forms - Help Guide
 ## Purpose
 This form is designed for wedding couples to provide their DJ with necessary information for planning their special day. It covers the overall ceremony, cocktail and dinner plans, dance party, and other important details that will help the DJ create a memorable experience.

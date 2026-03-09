@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for voting absentee, likely for an election or similar voting process. The purpose of this form is to gather information about the absentee voter, including their name, contact information, and reason for absence. The form also collects information about the election, such as the date and time of the election and the absentee office location. This form may be used by election officials or administrators to verify voter information and ensure that absentee voting is conducted fairly and securely.
-
-This form's structure and fields are likely based on the typical requirements for absentee voting in various jurisdictions, including the need for voter verification, reason for absence, and additional comments or explanations.
-
-Before filling out this form, please ensure that you have all the necessary information required for completion. Some fields are mandatory and required for the form to be submitted.
-
-To fill out this form, please follow the instructions below:</thinking>
-
 # voting-absence-form - Help Guide
 ## Purpose
 The voting-absence-form is designed for voting absentee in an election or similar voting process. It gathers information about the absentee voter, including their name, contact information, and reason for absence.

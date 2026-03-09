@@ -1,6 +1,3 @@
-<thinking> 
-To create a user-facing help guide for the Hair Stylist Waiver Form, we first need to understand the form's purpose and the reasoning behind its design. This form is likely used for a hair stylist to collect information from clients, including their personal details, service information, and waiver terms. The form seems to be designed for both client and stylist data collection, which will help in maintaining accurate records and facilitating smooth communication between clients and stylists. Before proceeding, let's verify that this form is relevant to the intended use case. Please confirm that this form is indeed for a hair stylist to collect client and service information.</thinking>
-
 # Hair Stylist Waiver Form - Help Guide
 ## Purpose
 The Hair Stylist Waiver Form is designed to collect essential information from clients before and after service. This form helps in maintaining a record of client and stylist details, service information, and waiver terms.

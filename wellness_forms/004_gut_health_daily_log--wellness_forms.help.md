@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's gut health and daily habits. The form will help track symptoms and behaviors related to gut health, such as bowel movements, bloating, and food intolerances. The purpose of this form is to gather data that can be used to identify patterns and trends in an individual's gut health.
-
-To complete this form, please follow these steps:
-
-1. Answer each question carefully and accurately, based on your experiences and conditions.
-2. Select all that apply for questions that allow multiple selections.
-3. Enter dates in the format MM/DD/YYYY.
-4. Be honest and thorough in your responses.
-
-</thinking>
-
 # Gut Health Daily Log - Help Guide
 ## Purpose
 

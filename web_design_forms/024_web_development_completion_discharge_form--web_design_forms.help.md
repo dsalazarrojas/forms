@@ -1,6 +1,3 @@
-<thinking>
-To create a comprehensive user guide for the "web_development_completion_discharge_form", let's first understand its purpose. This form appears to be designed for tracking the completion of web development projects. It seems that the form is meant to gather information about completed or ongoing projects, allowing users to record details such as project name, description, deliverables, client name, project status, due date, completion notes, and email. The form's design suggests it's likely used by project managers or team members to report on project updates and progress. This guide will provide a clear, step-by-step explanation of the form's purpose, usage, and individual field descriptions to ensure users understand how to complete it effectively.</thinking>
-
 # web_development_completion_discharge_form - Help Guide
 ## Purpose
 The web_development_completion_discharge_form is a project completion and progress tracking tool. It's designed for project managers or team members to report on the status of web development projects. This form helps to gather essential details about completed or ongoing projects, ensuring that all relevant information is recorded and up-to-date.

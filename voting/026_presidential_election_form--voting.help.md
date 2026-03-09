@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow users to submit their votes in the presidential election, providing a platform for them to express their opinion. The form collects demographic information from the users, such as their first name, last name, email, and phone number. The form is designed to be simple and easy to fill out, ensuring that users can quickly and easily submit their votes. This form is not meant for duplicate submissions, and users are expected to fill it out only once to have their vote counted. If you're unsure about any field, please refer to the field-by-field explanation below.
-</thinking>
-
 # Presidential Election Form - Help Guide
 ## Purpose
 The Presidential Election Form is designed to collect votes and demographic information from users. It is a one-time submission form, and users are expected to fill it out only once to have their vote counted.

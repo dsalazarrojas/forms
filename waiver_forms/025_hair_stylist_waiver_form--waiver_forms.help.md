@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to provide a liability release for hair stylists, allowing them to confirm that they have received informed consent from their clients before providing services. It's essential to ensure that clients understand their rights and liabilities before receiving services. Please ensure that the form is filled out correctly to avoid any potential issues. Also, please note that the fields are as follows: 
-- Client Name: This will be the name of the client. 
-- Service Date: The date the service is being provided. 
-- Service Start Time: This is the time when the service starts. 
-- Stylist Name: This will be the name of the stylist.
-- Release of Liability: This is a checkbox for the client to confirm that they release the service provider from any liabilities. 
-- Signature: This field for the stylist to sign and confirm.
-- Client Signature: This field for the client to sign and confirm.
-</thinking>
-
 # Hair Stylist Waiver Form - Help Guide
 ## Purpose
 This is a waiver form for hair stylists to ensure informed consent from clients before providing services.

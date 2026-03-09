@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect nominations for the Wedding Planner Award. The purpose of this form is to allow individuals to nominate a colleague, friend, or family member who has shown exceptional planning and service skills in the wedding industry. This form is typically completed by the nominator, who is the person submitting the nomination, to provide information about the nominee and the reason for the nomination. 
-The Wedding Planner Nomination Form is used to collect information from the nominator about the nominee, including their name, email, title, organization, and bio. This information is used to evaluate the nominee's qualifications and determine whether they will be awarded the Wedding Planner Award. 
-This form is usually completed by the nominator and submitted to the award committee. The committee will review the nominations and select the winner based on the information provided. 
-Please ensure that the nominee's email address is valid and that the nominator's name and email are accurate. 
-</thinking>
-
 # Wedding Planner Nomination Form - Help Guide
 ## Purpose
 The Wedding Planner Nomination Form is used to collect information for the Wedding Planner Award.

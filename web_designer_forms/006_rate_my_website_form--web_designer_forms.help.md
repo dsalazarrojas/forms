@@ -1,7 +1,3 @@
-<thinking>
-  To create a user-facing help guide for this form, I need to first understand the purpose and design decisions behind it. This form is designed to collect feedback and ratings from users to help improve a website. The purpose is to collect information about the overall satisfaction of the user's experience on the website. To complete this form, the user will be asked to rate the website, provide a comment, and optionally provide their email or phone number. The form is divided into pages, which I assume are sections or categories of information. Each field in the form has a specific purpose and type, which I will explain in detail below.
-</thinking>
-
 # Rate My Website Form - Help Guide
 ## Purpose
 The Rate My Website Form is designed to collect feedback and ratings from users to help improve the website's user experience. Fill out this form to provide your honest opinion about the website.

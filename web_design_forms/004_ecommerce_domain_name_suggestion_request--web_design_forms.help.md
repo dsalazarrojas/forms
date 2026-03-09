@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ecommerce Domain Name Suggestion Request - Help Guide
 
 ## Purpose

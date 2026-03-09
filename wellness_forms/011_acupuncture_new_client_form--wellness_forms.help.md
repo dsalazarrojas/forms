@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for new clients to provide personal and medical information to facilitate their first appointment with an acupuncturist. This form is typically filled out by the client before or during their first visit.
-Before filling out this form, ensure that you haven't already submitted it. If you've visited the acupuncturist before, this form will help the practitioner review or update your information.
-Please answer all questions honestly, as they are essential for your treatment and medical record.
-</thinking>
-
 # Acupuncture New Client Form - Help Guide
 ## Purpose
 The Acupuncture New Client Form is a comprehensive form designed to capture essential personal and medical information from new clients. This form helps the acupuncturist understand your background, medical history, and preferences before providing treatment.

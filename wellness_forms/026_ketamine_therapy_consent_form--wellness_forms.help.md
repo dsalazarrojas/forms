@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is for the Ketamine Therapy Consent Form. It is used for patients to provide informed consent for ketamine therapy. The form will collect information about the patient, their medical history, allergies, and contact details.
 
 # Ketamine Therapy Consent Form - Help Guide

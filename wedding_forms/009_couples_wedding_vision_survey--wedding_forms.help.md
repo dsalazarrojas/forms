@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to help couples plan their wedding ceremony and reception. It's a comprehensive survey to capture their ideas and preferences for various aspects of their special day. By providing their inputs, the couple can get a clear picture of their priorities and make informed decisions for a memorable wedding celebration. This form is intended for use by wedding planners, coordinators, or event organizers to gather crucial information from the couple. It's essential to complete this form accurately to ensure that all aspects of the wedding are well-planned and executed.
-
-To avoid duplication, please ensure that each couple has a unique set of answers, and that the form is not filled out by multiple people simultaneously.
-
-</thinking>
-
 # Couples' Wedding Vision Survey - Help Guide
 ## Purpose
 This form is designed to help couples plan their wedding ceremony and reception by gathering their ideas and preferences for various aspects of their special day.

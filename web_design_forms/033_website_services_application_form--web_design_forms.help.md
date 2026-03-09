@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Website Services Application Form - Help Guide
 ## Purpose
 The Website Services Application Form is a tool used to gather essential information from applicants for our services. It's used to collect general information, contact details, billing address, company details, payment method, and other relevant data required for the service application process.

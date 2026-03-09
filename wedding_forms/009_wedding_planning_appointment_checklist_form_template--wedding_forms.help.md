@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Planning Appointment Checklist Form Template - Help Guide
 
 ## Purpose

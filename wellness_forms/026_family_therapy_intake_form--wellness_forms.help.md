@@ -1,9 +1,3 @@
-<thinking>
-
-As a form designer and technical writer, I'm tasked with creating a user-facing help guide for the "Family Therapy Intake Form" to ensure end-users understand its purpose, how to complete it, and what each field means. This guide aims to provide clear and concise explanations for each field, making it easy for users to navigate and submit their information correctly.
-
-</thinking>
-
 # Family Therapy Intake Form - Help Guide
 ## Purpose
 The Family Therapy Intake Form is a comprehensive form designed to gather essential information from family members seeking therapy services. This form helps us understand your family dynamics, goals, and preferences, allowing us to tailor our services to your specific needs.

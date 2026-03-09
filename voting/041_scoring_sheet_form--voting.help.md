@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about scoring sheets, likely for evaluating student performances or nominations. It is crucial to understand the context in which this form is being used to provide accurate and relevant information. Please ensure that you are filling out the correct form for your intended purpose. To avoid duplication of efforts, make sure you have completed this form in the past or are aware of its purpose before proceeding. If you're unsure, please reach out to your supervisor or the form owner for clarification.
-</thinking>
-
 # scoring_sheet_form - Help Guide
 ## Purpose
 The scoring sheet form is used to collect information from users about scoring sheets, primarily for evaluating student performances or nominations. It's crucial to provide accurate and relevant data.

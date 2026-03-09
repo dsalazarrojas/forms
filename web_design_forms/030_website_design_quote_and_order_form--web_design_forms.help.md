@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect contact information, project details, and payment information from a customer or client. It is intended to be filled out by a user who wants to inquire about or order a website design service. The form should only be used for this specific purpose, and users should not be asked to fill it out for other types of requests or purposes.
-
-The form has 14 fields, each with a specific type and label. Some fields are text fields for contact information, project details, and other relevant information. The form also has fields for customer quote, project deadline, website URL, website description, email, phone, address, additional notes, designer quote, and payment details.
-
-Please note that some fields are optional, and users can choose to fill out only the required fields or all the fields according to their needs.
-
-</thinking>
-
 # website_design_quote_and_order_form - Help Guide
 ## Purpose
 

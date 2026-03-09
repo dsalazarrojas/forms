@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used correctly by users, which is why we're documenting its usage. This will prevent duplicate or incorrect voting, which can lead to project mismanagement. Let's go over each field and provide a clear explanation of its purpose and how to fill it out correctly.
-</thinking>
-
 # Restoration Project Voting Form - Help Guide
 ## Purpose
 This form is designed to collect votes for restoration projects. It helps to gauge the community's interest and support for various projects, ensuring that the most popular ideas get the necessary resources and attention. By filling out this form, you'll be providing valuable feedback to project leaders and contributors.

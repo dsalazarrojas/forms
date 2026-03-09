@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Director Election Ballot - Help Guide
 ## Purpose
 The Director Election Ballot form is a tool to collect information for the election of a Director. This form allows users to express their opinions and cast their votes for the available options. 

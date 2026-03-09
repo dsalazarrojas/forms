@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # investigator_award_nomination_form - Help Guide
 ## Purpose
 The investigator award nomination form is designed to collect information about the nominator, nominator, and award criteria. This form is intended to be completed by individuals who wish to submit a nomination for an investigator award. The form will be reviewed and evaluated by the award committee to determine the nominees.

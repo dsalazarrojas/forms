@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about dental website development projects from clients. The form collects various pieces of information about the client and the project, including contact details, project requirements, project status, and project type. This form serves as an intake process for the development team to review and prioritize projects accordingly.
-</thinking>
-
 # Dental Website Development Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to gather necessary information from clients about their dental website development project, which will help the development team understand their requirements and preferences, ensuring a smooth and successful project execution.

@@ -1,11 +1,3 @@
-<thinking>
-The form is designed to help potential brides and grooms find the perfect wedding dress according to their preferences. This form is intended for those who are looking for a wedding dress and want to get a personalized recommendation based on their style, color, and budget preferences. The form does not ask for sensitive or redundant information and is intended to provide a user-friendly experience for the end-users.
-
-This form should be used by brides and grooms who are looking for a wedding dress recommendation. The purpose of this form is to provide a quick and efficient way to get personalized advice on what type of wedding dress would suit their style and preferences.
-
-There is no need to take this form more than once unless the user changes their preferences or updates their information significantly. 
-</thinking>
-
 # Wedding Dress Quiz - Help Guide
 ## Purpose
 

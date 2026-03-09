@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I will first analyze the form's purpose and design.
-
-The form is for apparel design, and its purpose is to collect information from clients for custom apparel printing. The form requires the client's name, contact email, and artwork file references for printing. It also asks for the type of apparel to be designed, sizes and quantities required, preferred color palette, print method, and any additional instructions for production. The form is designed to be completed by clients for custom apparel printing orders.
-
-</thinking>
-
 # Apparel Design Form - Help Guide
 ## Purpose
 The Apparel Design Form is a tool to gather information for custom apparel printing. It helps clients provide essential details for their design orders.

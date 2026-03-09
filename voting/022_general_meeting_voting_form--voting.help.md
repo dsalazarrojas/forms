@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose, which is to collect voting data for a general meeting. We must also verify that the form is not duplicating any existing forms or templates. The form's purpose is to gather input from users on meeting-related topics, and it's essential to understand that it's not affiliated with or endorsed by any other form platforms. The form is created using AI-driven insights from public survey topics in the "voting" category, making it an original adaptation.
-</thinking>
-
 # General Meeting Voting Form - Help Guide
 ## Purpose
 This form is designed to collect voting data for a general meeting. It consists of multiple pages, allowing you to record your opinion on various topics.

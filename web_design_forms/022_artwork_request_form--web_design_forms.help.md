@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from clients for an artwork request. To ensure that the form is completed correctly, please note that all required fields are marked as "required" and should be filled out accordingly. Additionally, please ensure that you are not duplicating existing artworks by checking the internal database before submitting the form. This form will help us understand the client's preferences and needs for the artwork, and we will use this information to create a high-quality artwork that meets their requirements.
-</thinking>
-
 # Artwork Request Form - Help Guide
 ## Purpose
 The Artwork Request Form is used to collect essential information from clients for a specific artwork request. This form will guide us in creating a custom artwork that meets the client's needs and preferences.

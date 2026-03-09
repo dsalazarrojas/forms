@@ -1,9 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Scroll Website Design Request Form", we need to understand the purpose and relevance of the form. This form is likely used by users to request website design services, and the goal is to gather information to fulfill these requests. To ensure that users provide the necessary information for their website design requests, the form should be designed to be clear, concise, and easy to understand.
-
-We also need to check if the form is not a duplicate, in case there are similar forms with overlapping fields or identical requirements. This will help to prevent duplication of work and ensure that the form is being used effectively.
-</thinking>
-
 # Scroll Website Design Request Form - Help Guide
 ## Purpose
 The Scroll Website Design Request Form is used to gather information for website design requests. It's a simple form that asks for the basic details of the request, such as the website URL, design requirements, and other relevant information.

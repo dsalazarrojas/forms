@@ -1,7 +1,3 @@
-<thinking>
-This form is used for ordering a web theme from a design team. It gathers information about the theme name, type, design requirements, and contact information to fulfill the order accurately and efficiently. The form does not allow multiple submissions of the same theme name or type. The designer will use the gathered information to create a custom theme that meets the customer's requirements.
-
-</thinking>
 # Web Theme Order Form - Help Guide
 ## Purpose
 This form is a request for a custom web theme design. Please provide the necessary information to help us create your desired theme.

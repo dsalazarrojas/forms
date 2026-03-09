@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of the "Specialty Space Naming Vote" form is to collect feedback and ratings from users on the specialty space naming options provided. This form is part of a larger decision-making process to choose the best name for a particular specialty space. It allows users to select multiple options for the name of the specialty space and provide additional comments if needed.
-
-This form is designed to be completed by users who are involved in the decision-making process, such as project team members or stakeholders. The form is not intended to be completed by external users or the general public.
-
-Before starting the form, please note that this is the second part of the form. You should have completed the previous form or have the necessary information to proceed.
-
-</thinking>
-
 # Specialty Space Naming Vote - Help Guide
 ## Purpose
 The Specialty Space Naming Vote form is used to collect feedback and ratings on the specialty space naming options provided. This form is part of the decision-making process to choose the best name for a particular specialty space.

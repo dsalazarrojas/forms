@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and ratings from spectators and participants of a boat parade event. The form is designed to gather information on various aspects of the parade, including favorite boats, overall ratings, and suggestions for improvement. This form will help event organizers understand what made the parade enjoyable and what can be improved upon for future events.
-
-Before filling out the form, please ensure you have not already submitted a response. If you have, you can disregard this form.
-
-Please complete the form to provide your input and help us make the boat parade even better!</thinking>
-
 # Boat Parade Voting Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and ratings from spectators and participants of the boat parade event. Your input will help event organizers understand what made the parade enjoyable and what can be improved upon for future events.

@@ -1,16 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive assessment tool designed for fitness coaching, likely for clients or patients who are seeking guidance on their fitness journey. It gathers various information about the individual, including personal details such as name, age, and contact information, medical history, exercise frequency, and nutrition habits. Each field is designed to capture specific aspects of a client's fitness journey, and the form likely serves to provide a thorough understanding of their goals, habits, and challenges.
-
-Before proceeding, please ensure that:
-
-* You have reviewed this form and have no previous assessments or similar forms already completed for this client/user.
-* You understand the purpose of the form is to collect information for fitness coaching.
-
-If you are ready to proceed, please find below the user-facing help guide for this form.
-
-</thinking>
-
 # Fitness Coaching Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather information about you so our fitness coach can better understand your goals, habits, and challenges. Please answer these questions to the best of your ability.

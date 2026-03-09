@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from web developers for the purpose of tracking and managing web development projects. This includes collecting their first name, last name, email, phone number, company, website, project details, assigned tool, assigned team, and description of the project. The assigned tool and assigned team fields are required, as they are critical components in the project management process. The form should not be used for any other purpose.
-</thinking>
-
 # Web Development Signup Form - Help Guide
 ## Purpose
 This form is designed for web developers to provide information about their projects, including their personal details and project specifics.

@@ -1,16 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "simply_brittany_photography_pre_wedding_questionnaire" form, I will follow the provided instructions to ensure the guide is concrete, concise, and practical for end-users.
-
-First, I will review the form's purpose and check for duplication and relevance.
-
-This form appears to be a pre-wedding questionnaire for a photographer, "Simply Brittany Photography," aimed at gathering essential information about a wedding event. The form collects details such as the bride and groom's names, location, date and time of the wedding, ceremony type, number of guests, contact email, phone number, special requests, and other relevant details. It seems like a comprehensive form for capturing the necessary information for the photographer to prepare for the event.
-
-No duplication is detected, and the form's purpose is clear.
-
-
-</thinking>
-
-
 # simply_brittany_photography_pre_wedding_questionnaire - Help Guide
 ## Purpose
 This form is a pre-wedding questionnaire designed for Simply Brittany Photography to gather essential information about your wedding event. This information will help the photographer prepare for your special day and ensure a smooth and enjoyable experience for you and your guests.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for wedding event planning, and it's used to gather information about the couple, their event details, and the guests attending the event. This form is not intended for internal use within the organization, and thus, it doesn't have any specific internal relevance. This form seems to be a generic form for wedding event planning, so it's likely not to be duplicated. Please ensure that you have the necessary permissions and approvals to use this form.
-</thinking>
-
 # Wedding Event Planning Form - Help Guide
 ## Purpose
 The Wedding Event Planning Form is a tool used to gather information about a couple's wedding event. This form helps event planners and organizers to gather essential details about the couple, their wedding event, and their guests.

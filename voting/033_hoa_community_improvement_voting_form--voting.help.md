@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect feedback and suggestions from community members on potential community improvement projects. The form is used to gather information on which projects are considered most valuable or urgent, and to collect feedback on the current state of the community. This feedback will help the community leadership to make informed decisions on which projects to prioritize. The form is not intended to be a formal vote, but rather a way to gauge the general sentiment and opinions of community members. It is also used to collect contact information from community members who are willing to provide feedback. The goal is to ensure that all community members have a chance to express their opinions and suggestions.
-
-</thinking>
-
 # hoa_community_improvement_voting_form - Help Guide
 ## Purpose
 The form is used to collect feedback and suggestions from community members on potential community improvement projects.

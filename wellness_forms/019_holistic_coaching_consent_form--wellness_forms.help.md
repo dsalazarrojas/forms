@@ -1,21 +1,3 @@
-<thinking>
-The purpose of this form is to obtain consent from clients before proceeding with holistic coaching, ensuring that they understand and agree to the terms of the coaching process. This form is designed to provide a clear and transparent way for clients to provide their consent, which is a crucial aspect of maintaining their privacy and confidentiality. It's essential to use this form for every client, even if you've worked with them before, to ensure that you're complying with industry regulations and best practices.
-
-To complete this form, please follow these steps:
-
-1.  Fill in the client's name and any additional contact information they may provide.
-2.  Enter the client's email address to ensure they receive any necessary updates and communication.
-3.  Enter the client's phone number if they'd like to be contacted.
-4.  Provide the name of the coach and any relevant contact information.
-5.  Offer a brief description of the coach's credentials or experience.
-6.  Check the box to indicate that you've received the client's consent.
-7.  Choose 'Yes' or 'No' to indicate that the consent has been given.
-8.  Select the date on which the consent was given.
-
-Please note that all fields are optional, but it's recommended to fill in all the necessary information for accurate record-keeping and compliance.
-
-</thinking>
-
 # Holistic Coaching Consent Form - Help Guide
 ## Purpose
 This form is designed to obtain consent from clients before proceeding with holistic coaching services, ensuring a clear understanding and agreement to the terms of the coaching process.

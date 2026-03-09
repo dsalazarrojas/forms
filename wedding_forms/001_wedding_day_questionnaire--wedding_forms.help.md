@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Day Questionnaire - Help Guide
 ## Purpose
 The Wedding Day Questionnaire is a comprehensive form designed to collect essential information about your wedding day. It's intended for couples, wedding planners, or event coordinators to gather necessary details for planning and execution. Please ensure that the information you provide is accurate and complete to help create a memorable and enjoyable experience for you and your guests.

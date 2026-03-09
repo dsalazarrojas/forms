@@ -1,5 +1,3 @@
-<thinking>...The purpose of the Software Evaluation Form is to gather feedback on the performance and usability of software products. This form allows end-users to express their overall rating and provide details on specific aspects such as usability, features, and support. The form is designed to be user-friendly and easy to complete, with options for selecting multiple choices or providing free-form text inputs. Please ensure that you have read this guide before filling out the form, and make sure to answer each question as accurately as possible.</thinking>
-
 # Software Evaluation Form - Help Guide
 ## Purpose
 The Software Evaluation Form is a tool designed to collect user feedback on the performance and usability of software products. It provides an overall rating and allows users to comment on various aspects of the software.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form template is designed for simple voting purposes, such as collecting data from users on their preferences or opinions on a given subject. The form should not be used for official voting in elections or critical decision-making processes where data security and integrity are paramount. Ensure that the information you're collecting is relevant and not a duplication of efforts.
 
 </thinking>

@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication of effort and ensure accurate data, this form is for prospective dance studio clients to provide their information and preferences. The form will be reviewed by studio staff to ensure that we can tailor our programs to meet their needs. To avoid any confusion, please note that the provided fields are for general information purposes only.
-</thinking>
-
 # Dance Studio Enquiry Form - Help Guide
 ## Purpose
 This form is designed to gather information from prospective dance studio clients. Please fill it out accurately to help us better understand your needs and preferences.

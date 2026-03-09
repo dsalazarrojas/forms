@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from brides-to-be for their wedding hair and makeup services. The form helps the wedding planning team to confirm the bride's wedding details, contact information, hair and makeup services required, and other important details. This form is used to ensure that the wedding hair and makeup services are provided according to the bride's preferences. To avoid duplication, please ensure that you have not already filled this form before.
-</thinking>
-
 # Wedding Hair & Makeup Service Order Form - Help Guide
 ## Purpose
 The Wedding Hair & Makeup Service Order Form is used to collect information from brides-to-be for their wedding hair and makeup services. This form helps the wedding planning team to confirm the bride's wedding details, contact information, hair and makeup services required, and other important details.

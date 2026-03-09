@@ -1,8 +1,3 @@
-<thinking>
-This form is for creating a wedding event feature request. It will help wedding event planners understand the details of the event they are being requested to provide services for. Each field is designed to provide specific information about the wedding event that will aid the planners in their planning process. I'll be providing a clear and concise guide on how to fill in this form to ensure accurate and complete information is collected.
-
-</thinking>
-
 # habeshabrides_feature_form - Help Guide
 ## Purpose
 The habeshabrides_feature_form is used to submit a wedding event feature request for event planners. This form helps in providing event details such as wedding date, time, location, and services required for the event.

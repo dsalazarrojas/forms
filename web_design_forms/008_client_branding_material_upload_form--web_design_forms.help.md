@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect branding material from clients, including logos, color palettes, typography files, marketing materials, product images, team photos, and other relevant assets. The form aims to gather information about the client's project, such as the project type, asset type, file formats, and priority level. It also captures the purpose of the upload, project deadline, and other relevant details to ensure timely and accurate completion of the project. To avoid duplication and ensure relevance, please ensure that you have not uploaded these materials before and that they are related to the current project. Please fill out this form accurately and thoroughly to help us provide the best possible service for your project.
-</thinking>
-
 # Client Branding Material Upload Form - Help Guide
 ## Purpose
 This form is designed to collect branding material from clients for the project. It will help us understand your project requirements, asset types, and priority level to ensure timely completion.

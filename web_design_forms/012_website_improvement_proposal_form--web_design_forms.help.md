@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect proposals for improving a website. It is intended for internal use and is not meant to be publicly accessible. Before filling out this form, please ensure that you have not already submitted a similar proposal and that your idea is not part of an ongoing project. This form will help us gather and track website improvement proposals from various teams and individuals within the organization. It is not a substitute for other forms or channels of communication, such as bug reports or feature requests.
-</thinking>
-
 # Website Improvement Proposal Form - Help Guide
 ## Purpose
 The Website Improvement Proposal Form is a tool to collect and track proposals for improving the website. It's a way for teams and individuals to submit their ideas for enhancing the website's functionality, user experience, and overall quality.

@@ -1,8 +1,3 @@
-<thinking>
-The wedding RSVP Template form is designed to be filled out by individuals who are invited to a wedding. It gathers information about the guest's response to the wedding invitation, including whether they will attend, how many guests will be accompanying them, and their estimated arrival and departure times. This form is useful for the wedding party to get an idea of who will be attending and when, so they can plan accordingly. It should only be used in conjunction with a formal wedding invitation and after the invitation has been sent out. The form is typically sent to each guest with their individual invitation, allowing them to respond with their information.
-
-</thinking>
-
 # Wedding RSVP Template - Help Guide
 ## Purpose
 This form is used to indicate your response to a wedding invitation.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from potential participants about their interest in group therapy sessions. The form asks for personal and demographic information, as well as specific preferences for the therapy experience. This includes selecting preferred areas of therapy, group size, session frequency, therapist gender, experience, and payment method. Participants can also indicate their availability and preferred location. This form is intended to help identify potential participants for group therapy sessions and tailor the experience to their needs.
-
-</thinking>
-
 # Group Therapy Interest Survey - Help Guide
 ## Purpose
 The Group Therapy Interest Survey is designed to gather information about your preferences and interests for group therapy sessions. This will help us tailor the experience to your needs and provide a suitable environment for you to participate in.

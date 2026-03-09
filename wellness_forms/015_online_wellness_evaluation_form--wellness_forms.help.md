@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an individual's health history and wellness goals. This form can be used in various settings, such as healthcare, wellness centers, or fitness programs, to collect data about users' health and wellness status. 
-
-This form is designed to be a simple and efficient way to collect relevant information from users. It does not require any special expertise or knowledge to complete it. 
-
-To ensure that users have a clear understanding of what the form is for and what information is being collected, this guide will explain each field in detail. This will help users feel more comfortable and confident when completing the form. 
-
-Before proceeding, please note that this form is not intended to be a medical diagnosis tool. If you have any concerns or questions, please contact the relevant authorities or professionals in the field. 
-
-Also, please note that the information collected through this form will be used for internal purposes only and will not be shared with any third parties. 
-
-The form consists of five fields, each with its own specific purpose and explanation. Please read the explanations below carefully before proceeding.</thinking>
-
 # Online Wellness Evaluation Form - Help Guide
 ## Purpose
 The purpose of this Online Wellness Evaluation Form is to collect information about your health history and wellness goals.

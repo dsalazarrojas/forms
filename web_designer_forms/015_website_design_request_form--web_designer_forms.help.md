@@ -1,8 +1,3 @@
-<thinking>
-We should first check if the form has been completed previously. If it has, there's no need to repeat the process. If not, let's proceed with creating a new design request. This form is intended for customers who want to request a custom website design. It's essential to fill it out accurately to ensure that we can better understand their requirements and deliver the best possible results.
-
-Please note that the form is divided into several sections, each with its own set of fields. Completing the form correctly will help us to create an effective and efficient website design that meets your needs.</thinking>
-
 # Website Design Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for a custom website design request. It's essential to provide accurate information to ensure that we can deliver a website that meets your expectations.

@@ -1,7 +1,3 @@
-<thinking>
-This guide will walk you through the Wedding Show Attendee Registration Form, ensuring you understand its purpose and how to complete it accurately.
-</thinking>
-
 # Wedding Show Attendee Registration Form - Help Guide
 ## Purpose
 

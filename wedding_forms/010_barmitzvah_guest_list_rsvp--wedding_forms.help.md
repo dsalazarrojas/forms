@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for guests to RSVP to a Barmitzvah celebration, providing essential information about their attendance, preferences, and needs. The form aims to ensure that the celebrant and their family are well-prepared for the event. The form fields are carefully crafted to gather the necessary details without overwhelming the guests.
-To ensure that each guest submits accurate and complete information, it is crucial to follow the instructions carefully. Please note that some fields are required, and missing them may lead to incomplete or inaccurate RSVPs.
-</thinking>
-
 # Barmitzvah Guest List RSVP - Help Guide
 ## Purpose
 This form is designed to help the celebrant and their family prepare for the Barmitzvah celebration by gathering essential information from guests about their attendance, preferences, and needs.

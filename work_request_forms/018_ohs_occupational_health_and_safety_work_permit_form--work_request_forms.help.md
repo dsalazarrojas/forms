@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for Occupational Health And Safety (OHS) work permits. It is likely used by supervisors and employees in industries such as construction, manufacturing, or other work environments where safety is a critical concern. Before starting work, employees may need to obtain a permit to ensure they have the necessary training and equipment to perform their tasks safely.
-</thinking>
-
 # OHS (Occupational Health And Safety) Work Permit Form - Help Guide
 ## Purpose
 This form is used to gather information for Occupational Health And Safety (OHS) work permits. It helps supervisors and employees ensure that work is performed safely by providing necessary details about the work being done, the risks involved, and the precautions taken.

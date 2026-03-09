@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to help users subscribe to wellness programs. The form is used to collect information about participants, including their name, contact information, and preferences for wellness programs. 
-
-To avoid confusion, we should ensure that the participant name and email are not duplicated. 
-
-The form collects data about the program participants are interested in, the start and end dates of the program, and any additional notes about the program.
-
-Please note that not all fields are required, however, some fields such as email and name are essential for identification purposes.
-
-</thinking>
-
 # Wellness Program Subscription Form - Help Guide
 ## Purpose
 This guide explains how to complete the Wellness Program Subscription Form. The form is used to collect information about participants who want to subscribe to wellness programs offered by the organization.

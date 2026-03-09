@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's health symptoms on a daily basis. This form is intended for users to report their symptoms at any given time, and it is expected that the user will complete this form on a daily basis for a continuous period. This form is not intended to be a medical diagnostic tool and should not be relied upon for diagnosis. Users are expected to be honest and accurate in their reporting. This form is for internal use only.
-</thinking>
-
 # Daily Health Symptom Log - Help Guide
 ## Purpose
 This form is used to collect information about an individual's health symptoms on a daily basis. It is designed to be completed by users at any given time, and it is expected that users will complete this form on a daily basis for a continuous period.

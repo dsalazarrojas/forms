@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from wedding guests about their attendance and any photos they would like to share. The form is likely to be used by wedding planners or coordinators to get an estimate of the number of attendees and the number of photos to expect. This form will be used to collect information that will be used to create a report or update a database. This form does not appear to be a duplicate of other forms in the wedding_forms category. 
-</thinking>
-
 # Wedding Photo Sharing Form - Help Guide
 ## Purpose
 This form is used to collect information from wedding guests about their attendance and photo sharing preferences.

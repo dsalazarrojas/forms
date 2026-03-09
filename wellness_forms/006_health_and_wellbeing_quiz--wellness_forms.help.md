@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a user's health and wellbeing. The form is a self-assessment tool that asks users to rate their physical, mental, and emotional health, as well as their habits regarding sleep, exercise, nutrition, social connections, work-life balance, and stress levels. The form also asks users to identify their goals for improving their health and wellbeing, and to provide contact information for follow-up reminders. This form is intended to help users understand their current status and identify areas for improvement. The form is optional, and users can choose to provide as much or as little information as they feel comfortable with. The follow-up questions are meant to help users receive reminders and guidance on achieving their goals.
-</thinking>
-
 # Health And Wellbeing Quiz - Help Guide
 ## Purpose
 This form is a self-assessment tool for users to rate their health and wellbeing, set goals, and receive follow-up reminders.

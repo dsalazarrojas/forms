@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for capturing information related to website design and development projects, gathering details about the web designer, project specifics, client requirements, technical specifications, and other relevant information. The purpose of this form is to ensure that the project manager has all the necessary details to proceed with the project. Please ensure that all fields are completed accurately and thoroughly.
-
-Before filling out this form, please make sure you have all the necessary information and approvals from the client or project manager. If you are unsure about any field, refer to the field explanations below.
-</thinking>
-
 # Website Design & Development Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather all necessary information for a website design and development project.

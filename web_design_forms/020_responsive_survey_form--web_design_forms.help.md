@@ -1,11 +1,3 @@
-<thinking>
-
-To confirm, the form "Responsive Survey Form" is a collection of questions aimed at gathering feedback about a website, its design, features, and usability. This form is designed to elicit opinions from users on various aspects of the website, including its rating, color scheme, and overall experience. The form's primary goal is to collect qualitative data from users to help the website developers identify areas for improvement.
-
-The form has a mix of multiple-choice and open-ended questions, including select_one, select_multiple, text, and number types. Some questions are required, while others are optional. This guide will walk users through how to complete the form and what each field means.
-
-</thinking>
-
 # Responsive Survey Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from users on a website, its design, and features.

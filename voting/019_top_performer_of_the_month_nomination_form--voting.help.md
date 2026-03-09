@@ -1,7 +1,3 @@
-<thinking>
-This form was generated using AI to create an original survey platform adaptation based on the public metadata of the topic "Voting" and category "voting". No proprietary content was copied or used from any form creation platform.
-</thinking>
-
 # top_performer_of_the_month_nomination_form - Help Guide
 ## Purpose
 This form is designed to collect nominations for the top performer of the month. It is intended for nominating team members who have demonstrated exceptional performance and deserve recognition.

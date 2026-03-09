@@ -1,15 +1,3 @@
-<thinking>
-
-This form is for recording premarital counseling information. It's designed to be completed by couples going through premarital counseling sessions. The form helps gather data about the counseling sessions, including details about the session, the counselor, the client, and any previous counseling sessions they've had. This form will likely be used by therapists or counselors to track this information for future reference.
-
-To determine if a premarital counseling session is required, the following conditions must be met: 
-- The couple is preparing for marriage.
-- The couple has not had any previous counseling sessions.
-
-This form will not be used for couples who have had previous counseling sessions.
-
-</thinking>
-
 # Premarital Counseling Form - Help Guide
 ## Purpose
 The Premarital Counseling Form is a tool used to record important information about premarital counseling sessions. It helps couples and counselors track details about the session, the counselor, the client, and any previous counseling sessions.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dance Performance Waiver Form - Help Guide
 ## Purpose
 

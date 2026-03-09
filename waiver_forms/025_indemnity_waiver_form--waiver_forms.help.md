@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Indemnity Waiver Form - Help Guide
 ## Purpose
 This form is used to document and verify the participant's and witness's information, as well as the notarized information, for an indemnity waiver. The form is divided into several sections, each with its own purpose:

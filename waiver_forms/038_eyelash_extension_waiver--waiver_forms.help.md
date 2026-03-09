@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this Eyelash Extension Waiver form is to capture relevant information from customers and businesses for eyelash extension services, including customer and business contact details, service details, and agreement to terms and conditions. This form will help in maintaining accurate and up-to-date records for both customers and businesses. Ensure you have the necessary approvals and permissions before sharing this form with customers and businesses.
-
-This form will not be used for any other purpose, and all data collected will be stored securely in accordance with our data protection policies.
-</thinking>
-
 # Eyelash Extension Waiver - Help Guide
 ## Purpose
 This form is used to capture information from customers and businesses for eyelash extension services. It includes fields for customer and business contact details, service information, and agreement to terms and conditions.

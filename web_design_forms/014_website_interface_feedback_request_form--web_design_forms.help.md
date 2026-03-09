@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Website Interface Feedback Request Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from users about your website's interface. This form helps us understand your experience and identify areas for improvement. Please fill in the form below to provide your honest feedback.

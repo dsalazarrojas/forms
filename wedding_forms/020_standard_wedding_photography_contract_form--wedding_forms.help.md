@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients about their wedding plans and preferences. The form is intended to help wedding photographers understand the client's needs and requirements for their big day. The form asks for personal details such as first name, last name, email, phone number, and dates and times of the ceremony and reception. Additionally, it inquires about the location of these events and whether the client wants specific photography packages. The form is designed to be completed by the client before the photographer begins working with them.
-</thinking>
-
 # Standard Wedding Photography Contract Form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential details from wedding clients, allowing the photographer to understand their requirements for a successful and enjoyable wedding photography experience.

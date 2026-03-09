@@ -1,6 +1,3 @@
-<thinking>Internal reasoning block to understand the form purpose and check for relevance and non-duplication:
-This form is designed to assess the fitness and medical readiness of new members to join a fitness program or organization. The form collects information on the member's medical conditions, emergency contacts, medical history, and supervision needs. The purpose of this form is to ensure that the member is aware of their medical limitations and has taken necessary precautions to ensure their safety and well-being while participating in the program. The form is intended for new members who are planning to join the program and is not meant for existing members. The fields are designed to be clear and concise, and each section is labeled accordingly to help the user understand the purpose and scope of the information being requested.</thinking>
-
 # New Member Fitness Assessment Form - Help Guide
 
 ## Purpose

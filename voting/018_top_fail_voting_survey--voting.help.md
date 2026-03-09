@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form and how can I be sure the form is being filled out correctly and not duplicated?</thinking>
-
 # top_fail_voting_survey - Help Guide
 ## Purpose
 This form is used to gather feedback and ratings from teams on a particular project or initiative. It is intended to be filled out by team members to provide their input on whether the project has failed or not, and if so, to provide a rating of the severity of the failure. The form is meant to be completed once per team member.

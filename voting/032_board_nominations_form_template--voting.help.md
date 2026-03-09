@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect nominations for a board position, ensuring that the nomination process is thorough and transparent. This form is designed to gather all the necessary details about the nominee, including their contact information, the role they are nominated for, and their qualifications. It also includes a field to confirm whether consent has been obtained from the nominee. Before proceeding, please ensure that you are not duplicating previous nominations and that the nominee has not previously been nominated.
-</thinking>
-
 # Board Nominations Form Template - Help Guide
 ## Purpose
 The Board Nominations Form Template is designed to gather all the necessary details for a board position nomination. Please use this template to submit a nomination for a board member.

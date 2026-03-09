@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to submit a website showcase application. The showcase application form is used to collect information from users about their websites, including user contact information, website details, and other relevant data. This form is designed to be completed by website owners or administrators who want to showcase their website on a platform.
-The showcase application form has multiple pages, each with its own set of fields. Users need to fill out the required fields to provide a complete application.
-</thinking>
-
 # Website Showcase Application Form - Help Guide
 ## Purpose
 

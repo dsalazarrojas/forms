@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about warehouse lighting maintenance requests from users. The purpose of this form is to gather details about the issues with the lighting in the warehouse, assign the request to a specific person for maintenance, set a priority level for the request, track the status of the request, and set a due date for completion. 
-
-Please ensure that you only submit a request if it is not a duplicate, and that you have not already reported the issue internally. 
-
-To submit a request, you will need to select the specific issue with the warehouse lighting and provide a detailed description of the problem. You will also need to choose the person to be assigned to for maintenance, select the priority level for the request, and track the status of the request. You will also have the option to upload photos to support your request.
-
-</thinking>
-
 # Warehouse Lighting Maintenance Request Form - Help Guide
 ## Purpose
 The Warehouse Lighting Maintenance Request Form is used to report and track issues with the warehouse lighting. This form ensures that the problems with the lighting are documented and assigned to the correct person for maintenance.

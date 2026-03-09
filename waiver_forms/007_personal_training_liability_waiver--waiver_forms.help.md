@@ -1,7 +1,3 @@
-<thinking>As an expert form designer and technical writer, I understand that creating a clear and concise help guide for users can make a significant difference in their experience and overall satisfaction. Upon reviewing the provided YAML fields, I've analyzed the form's purpose, fields, and required information. This form is designed to collect personal training liability waiver information, including general information, emergency contact details, medical information, and waiver and signature sections. Users will need to fill in general information, emergency contact details, medical information, and provide their signature. The form is likely used for personal training or wellness programs, where users need to acknowledge and accept risks associated with physical activities. Users should be aware that some fields are not required but can be useful for additional context or communication.
-
-</thinking>
-
 # Personal Training Liability Waiver - Help Guide
 
 ## Purpose

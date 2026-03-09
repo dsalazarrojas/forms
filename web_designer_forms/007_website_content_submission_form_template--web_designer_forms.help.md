@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Website Content Submission Form Template - Help Guide
 
 ## Purpose

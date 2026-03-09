@@ -1,11 +1,3 @@
-<thinking>
-
-To create an "Engagement Party RSVP Form", the primary purpose of this form is to help the host gather essential information from guests regarding their attendance and details about the party. This form is typically used for personal or professional events, such as an engagement party, where the host wants to know how many guests will be attending, their relationships with the host, and any additional guests they are bringing along.
-
-The form is designed to be completed by the guests themselves, and the information collected will help the host plan and prepare for the event. The fields included in this form are meant to be filled out in a straightforward and easy-to-understand manner, making it accessible to a wide range of users.
-
-</thinking>
-
 # Engagement Party RSVP Form - Help Guide
 ## Purpose
 The purpose of this form is to help the host gather essential information from guests about their attendance and party details.

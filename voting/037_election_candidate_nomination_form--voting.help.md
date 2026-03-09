@@ -1,9 +1,3 @@
-<thinking>
-This form is used to nominate a candidate for an election. The form is used by users to submit a nomination, which will be reviewed and verified by the election organizers. The form will ask for basic information about the nominated candidate, including their name, reason for nomination, and contact details. The form will also ask for the date and time of submission, but this is not required. 
-
-To prevent duplicate nominations, the form will check for any existing nominations for the same candidate. If a nomination for the same candidate already exists, the user will be prompted to provide an updated reason for nomination or withdraw the nomination.
-</thinking>
-
 # Election Candidate Nomination Form - Help Guide
 ## Purpose
 

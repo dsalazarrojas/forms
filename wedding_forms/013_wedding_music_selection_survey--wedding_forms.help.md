@@ -1,7 +1,3 @@
-<thinking>This form is used to gather information about a couple's wedding preferences for music selection. This form is designed to be completed by the couple themselves, and it will help them communicate their musical tastes and preferences to their wedding planner or DJ. The form should only be completed by the couple, as it is intended to reflect their personal preferences.
-
-Before starting, make sure that you are the couple completing this form. If you are a wedding planner or DJ, please do not complete this form as it may contain sensitive information about other couples' preferences.</thinking>
-
 # Wedding Music Selection Survey - Help Guide
 ## Purpose
 This form is designed to help the couple communicate their musical preferences to their wedding planner or DJ. It will help you select the music that will be played during different parts of your special day.

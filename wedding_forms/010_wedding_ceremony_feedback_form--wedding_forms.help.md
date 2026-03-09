@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect feedback and suggestions from guests who attended the wedding ceremony. The form is meant to be completed by wedding guests to provide their input on the ceremony, which will help the wedding planners to identify areas of improvement and make future events more enjoyable for their guests. 
-
-This form should be used by wedding guests who attended the ceremony. If a guest has already provided feedback, they should not be asked to complete this form again.
-
-</thinking>
-
 # Wedding Ceremony Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions from wedding guests who attended the ceremony. Your input will help us improve the overall experience for future events.

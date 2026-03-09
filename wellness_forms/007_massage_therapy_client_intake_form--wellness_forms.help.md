@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be for collecting information from massage therapy clients, likely for intake purposes before their appointment or sessions. The form's purpose is to gather general contact information, medical history, and preferences for massage therapy, as well as emergency contact and billing information. The form's structure suggests that it may be used for both initial contact and follow-up appointments or sessions.
-
-To ensure non-duplication, it would be best to implement a unique identifier or code for each client, and to check for existing records before submitting new forms.
-
-</thinking>
-
 # Massage Therapy Client Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from massage therapy clients for initial contact, appointment, or session purposes.

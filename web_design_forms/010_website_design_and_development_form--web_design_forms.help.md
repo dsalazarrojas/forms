@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to capture information about a website design and development project, and it will be used to provide a solid starting point for a web development project. The form has several fields, including a title, project description, project start and end dates, tool assignment, website URL, and domain name. It also allows for the selection of multiple design services and a date for the start and end of the project.
-
-Form fields should not be filled in with arbitrary values or test data. Each field should be carefully considered and completed based on actual project requirements and information.
-
-</thinking>
-
 # Website Design And Development Form - Help Guide
 ## Purpose
 This form is intended to collect information about a website design and development project, allowing users to provide details about their project, including the services needed, project timeline, and tools to be used.

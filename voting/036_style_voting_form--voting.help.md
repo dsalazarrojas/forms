@@ -1,12 +1,3 @@
-<thinking>
-To ensure the form purpose is clear, we need to understand the context of the form. Based on the provided YAML fields, it seems that the Style Voting Form is designed for users to cast their opinions and votes on various aspects of a style. The purpose of the form might be to gather feedback or input from users on the style of a particular entity, product, or service.
-
-We should also check for potential duplication of information in the form. Upon examining the fields, it seems that there are multiple fields with similar labels and types, such as `form_title` and `form_title_input`, `form_date` and `form_date_input`, etc. To avoid duplication, we can remove these redundant fields and ensure that each field serves a distinct purpose.
-
-Finally, we need to consider the user experience and ensure that the form is user-friendly and easy to understand. The form has a mix of text input fields, select_one and select_multiple fields, date and time fields, and email and phone number fields. It's essential to explain each field's purpose clearly to ensure users know what to expect and how to complete the form accurately.
-
-</thinking>
-
 # Style Voting Form - Help Guide
 ## Purpose
 The Style Voting Form is designed to gather user opinions and feedback on the style of a particular entity, product, or service. This form helps the organization understand the likes and dislikes of the users regarding the style.

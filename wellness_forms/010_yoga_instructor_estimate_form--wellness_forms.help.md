@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # yoga_instructor_estimate_form - Help Guide
 ## Purpose
 This form is designed to help yoga instructors estimate their business needs and preferences for services. It's intended for internal use by your organization to gather information about your services and pricing. Please complete this form accurately to ensure your information is up-to-date and helpful for our team.

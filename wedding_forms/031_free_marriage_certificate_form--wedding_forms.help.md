@@ -1,12 +1,3 @@
-<thinking>
-This form is used for capturing marriage certificate information for official records and documentations. This guide is intended for end-users to complete the form accurately and efficiently.
-
-The form is part of the "wedding_forms" category and has a title of "Free Marriage Certificate Form". The purpose of the form is to collect data regarding the marriage date, details of both the groom and bride (name, age, and signature), the location and time of the marriage, and other relevant certificate details (number and ID).
-
-Please ensure that you are completing the form for the purpose of official documentation and not for any other use case. Ensure that all required fields are filled out to enable proper validation and processing of the form.
-
-</thinking>
-
 # Free Marriage Certificate Form - Help Guide
 ## Purpose
 The Free Marriage Certificate Form is used for capturing marriage certificate information for official records.

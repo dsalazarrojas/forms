@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect requests for mulch, which is likely a type of material used for gardening or landscaping purposes. This form is intended to be filled out by users who want to request mulch from a specific location or service. To ensure accurate and efficient processing, please make sure to fill out all the relevant fields and avoid duplicating requests. If you have already submitted a similar request, kindly check if the status of your previous request has been updated.
-</thinking>
-
 # Mulch Request Form - Help Guide
 ## Purpose
 The Mulch Request Form is designed to collect information about mulch requests, such as name, contact information, and mulch specifications. This form is meant to assist with the processing and management of mulch requests efficiently and effectively.

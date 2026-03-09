@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect user feedback on the dance season repertoire, specifically to gather information on whether users would vote to perform a certain dance in two different categories: "First Dance" and "Second Dance". The form will help us understand the user's preferences and help us make informed decisions on which dances to include in the season repertoire. It is not a required form, so users do not need to complete it if they are not interested in providing feedback.
-
-To avoid duplication, we will only collect feedback from users who have not already voted on this form in the past season.
-
-This form is part of a larger feedback collection process, and the information collected will be used to understand user preferences and improve the dance season repertoire.
-</thinking>
-
 # dance_season_repertoire_voting_form - Help Guide
 ## Purpose
 The dance season repertoire voting form is a tool used to collect user feedback on the dance season repertoire. It helps us understand which dances are popular among users and make informed decisions on which dances to include in the season repertoire.

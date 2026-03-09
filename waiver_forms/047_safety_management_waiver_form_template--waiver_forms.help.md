@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Safety Management Waiver Form Template, we should consider the following:
-
-- The purpose of the form is to collect information about an individual or company seeking a waiver, including their personal details, contact information, and waiver-related data. 
-- The form appears to be used for internal purposes within an organization, as it requires several fields with a focus on company information and waiver details. 
-- Given the variety of fields and the fact that most of them are not required, it's possible that the form is a template for a specific use case or industry where a waiver is being requested.
-
-</thinking>
-
 # Safety Management Waiver Form Template - Help Guide
 ## Purpose
 This form template is designed to collect information about an individual or company seeking a waiver for safety management purposes. It gathers personal details, contact information, and waiver-related data for internal use within an organization.

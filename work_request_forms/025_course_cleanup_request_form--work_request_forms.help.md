@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for requesting course maintenance and updates. It should only be used for courses that are not in the process of being taught or have already been completed. The form is not intended for courses that are currently being taught or have not yet started. To prevent duplication, ensure that the course title and date are identical to the course you are requesting maintenance or updates for. If you are unsure, please contact your team lead or the course administrator before submitting this form.
-</thinking>
-
 # Course Cleanup Request Form - Help Guide
 ## Purpose
 This form is used to request maintenance and updates for courses that are not currently being taught or have already been completed.

@@ -1,7 +1,3 @@
-<thinking>...
-This form was created to help individuals share their recovery journey, including their story, recovery insights, and experiences with organization support and healing supports. It is designed to collect information anonymously, without any affiliation with or endorsement by any form platforms or organizations. The form's goal is to provide a safe and anonymous space for individuals to share their stories and experiences. Before filling out this form, please ensure you have not filled it out before, and that you are filling it out with genuine and honest intentions. If you are unsure about the form's purpose or the questions it contains, please contact the form's creator at form@gic.mx.
-</thinking>
-
 # share_your_recovery_journey - Help Guide
 ## Purpose
 The share_your_recovery_journey form is designed to collect information about your recovery journey, including your story, recovery insights, and experiences with organization support and healing supports.

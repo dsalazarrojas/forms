@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be for collecting details related to a wedding, specifically the invitation details such as venue, event date, reception time, and other related information. The form includes fields for selecting a wedding invitation template, designer email, contact number, event location, wedding invitation note, published date and time, and the status of the invitation. The fields are generally self-explaining, but some fields, such as "Template Designer", "Designer Email", and "Published By", seem to be duplicates or not clearly defined. I will assume they are meant to be related to the design process or publication of the invitation. However, the exact logic or requirements for these fields are not entirely clear from the YAML definition.
-
-</thinking>
-
 # Wedding Invitation Form - Help Guide
 
 ## Purpose

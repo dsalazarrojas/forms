@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request new graphic design projects from the design team. It should only be filled out for new projects that have not yet been assigned a designer. Please note that this form is not intended for existing projects or projects with an assigned designer. 
-</thinking>
-
 # Graphic Design Request Form - Help Guide
 ## Purpose
 This form is used to request new graphic design projects from the design team. It should be filled out to initiate a new project, providing essential details about the project requirements. 

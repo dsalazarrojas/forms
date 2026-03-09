@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block: This form is meant to collect information from potential clients about their web design service requests. The form includes fields for general contact information, project details, and specific requests. The form is designed to be user-friendly and easy to complete, making it accessible to a wide range of users. However, it is essential to note that the form is not intended to be a substitute for a comprehensive project proposal or quote. The information collected will be used to discuss and refine project scope and details with clients before moving forward. Please make sure to fill out the form accurately and thoroughly, as it will help us better understand your needs and provide the best possible service.
-</thinking>
-
 # Web Design Service Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential clients about their web design service requests. It will help us understand your project needs and provide the best possible service.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a contract for Keri Gaudreau Photography, used to collect information from couples planning to get married. The form is intended to be completed by the couple to provide details about their wedding ceremony and reception, as well as their information and contract details. Before starting, ensure that you are not duplicating the form for another event or purpose. If this form is being used for a different event or purpose, please create a new form or modify the existing one to suit your needs.
-</thinking>
-
 # keri_gaudreau_photography_contract - Help Guide
 ## Purpose
 This form is designed to collect information from couples planning to get married and provide details about their wedding ceremony and reception.

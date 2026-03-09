@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be designed for planning and organizing information related to a wedding day photography session. The purpose of this form is to gather essential details about the wedding event, including the type of event, venue, time, and other relevant information that will help the photographer prepare for the shoot. The form's fields are designed to be filled out by the bride or someone close to the couple to provide accurate and complete information about the event.
-
-The fields are divided into several sections, including event type, venue, time, start and end dates, attendance of parents and kids, photography requirements, reception venue, reception time, and notes. This form is likely used by photographers to ensure they have all necessary information before the event.
-
-</thinking>
-
 # Wedding Day Photography Planner Form - Help Guide
 ## Purpose
 This form is designed to help wedding photographers plan and prepare for the wedding day photography session. It gathers essential details about the event, including the type of event, venue, time, and other important information.

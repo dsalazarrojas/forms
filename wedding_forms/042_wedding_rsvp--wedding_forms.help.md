@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information from guests about whether they are attending a wedding and, if so, what time they plan to arrive. The form should be filled out by each guest. The fields provided in the form are designed to collect basic contact information (name, email) and event-specific details (date, time, attending status). The form should not be filled out by anyone other than the guests themselves.
-</thinking>
-
 # Wedding RSVP - Help Guide
 ## Purpose
 This form is for guests to RSVP to a wedding event. Please fill out the form to let us know if you are attending and what time you plan to arrive.

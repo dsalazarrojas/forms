@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to help event planners and coordinators gather essential information about a wedding event. The form is intended to collect data on the key aspects of the wedding, including the wedding date, location, details about the event packages and logistics, contact information, and other essential elements. To avoid duplication, please fill out the form only once for each unique wedding event.
 
 ### wedding-event-plan-questionnaire - Help Guide

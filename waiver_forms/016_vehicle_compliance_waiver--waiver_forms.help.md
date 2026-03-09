@@ -1,15 +1,3 @@
-<thinking>
-This form is for obtaining a vehicle compliance waiver, which is typically used to acknowledge and agree to specific terms and conditions related to a vehicle's usage or possession. It is likely intended for use by businesses or organizations that provide vehicle usage or rental services. The form's purpose is to gather essential information from customers, including their business name and a signature, which may serve as a legally binding agreement.
-
-To complete this form, follow the steps below:
-
-1.  Enter your business name in the "Business Name" field.
-2.  Sign your name in the "Customer Signature" field.
-3.  Enter the date in the "Date" field.
-
-Below is a detailed explanation of each field:
-</thinking>
-
 # vehicle-compliance-waiver - Help Guide
 ## Purpose
 The vehicle-compliance-waiver form is designed to obtain a legally binding waiver from customers acknowledging and agreeing to specific terms and conditions related to vehicle usage or possession.

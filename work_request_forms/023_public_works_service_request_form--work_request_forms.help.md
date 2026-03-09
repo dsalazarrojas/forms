@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to facilitate the creation and management of work requests in various contexts, such as services, orders, or other types of requests. Its purpose is to collect relevant information from users, including work requests, descriptions, resident information, contact details, locations, and service requirements. The form should not be used for personal or financial transactions.
-</thinking>
-
 # public_works_service_request_form - Help Guide
 ## Purpose
 The Public Works Service Request Form is designed to collect information for work requests in various contexts. This form aims to gather data from users, enabling efficient management and processing of these requests.

@@ -1,6 +1,3 @@
-<thinking>
-To avoid duplication, this guide will focus on the essential fields and options for the "ugly_christmas_sweater_contest_form" form. This form is designed for users who want to participate in a contest related to ugly sweaters. Users will be asked to provide their votes on the best ugly sweater, which could be based on either the color or material of the sweater. The purpose of the form is to collect participants' opinions on the most impressive ugly sweater among the provided options.
-</thinking>
 # ugly_christmas_sweater_contest_form - Help Guide
 ## Purpose
 This form is designed to collect participants' votes on the best ugly Christmas sweater in a contest. Users will be asked to provide their votes on the best ugly sweater based on different criteria.

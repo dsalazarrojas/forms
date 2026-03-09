@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information related to website design projects. It is intended to gather details about the project's scope, schedule, and preferences from clients. The form is meant to be completed by clients or project managers to ensure that all necessary information is provided to the development team.
 
 # Website Design Appointment Form - Help Guide

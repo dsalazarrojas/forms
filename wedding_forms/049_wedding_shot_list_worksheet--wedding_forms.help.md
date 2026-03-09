@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a wedding shot list, which is a collection of shots (photos or video clips) that need to be taken during a wedding. This form helps wedding planners and photographers capture all the essential moments and shots required for a wedding. The form is designed to be used by wedding planners and photographers to plan and organize their work efficiently. Please note that the form is not intended to be used as a final shot list for the wedding day, but rather as a tool for pre-planning and organization.
-</thinking>
-
 # Wedding Shot List Worksheet - Help Guide
 ## Purpose
 The Wedding Shot List Worksheet is a tool for wedding planners and photographers to plan and organize the shots required for a wedding. It helps them capture all the essential moments and shots for a seamless and enjoyable experience.

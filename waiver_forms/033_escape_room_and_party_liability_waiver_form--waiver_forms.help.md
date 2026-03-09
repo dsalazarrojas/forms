@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to support end users who will be completing the Escape Room And Party Liability Waiver Form. Before we dive into the detailed explanation of each field, let's ensure that we understand the overall purpose of this form: it is designed to collect information from participants and host(s) of an escape room event, covering liability, emergency contact, medical, and other relevant details. This guide will help you navigate through each field of the form, making sure you have all the information you need to complete it successfully.
-
-This help guide will be used to support participants and hosts to ensure they understand the importance and requirements of each field. Please note that the fields and their respective labels might be subject to change as per the discretion of the event organizer or management.
-
-If you have already completed an escape room event and filled out this form before, you might have noticed that some fields are not applicable or have different options. This could be due to changes in the form or your specific circumstances. This help guide will cover the current state of the form, so please refer to it for the most up-to-date information.
-
-Please read the following guide carefully to ensure you complete the form correctly and accurately.
-
-</thinking>
-
 # Escape Room And Party Liability Waiver Form - Help Guide
 ## Purpose
 The Escape Room And Party Liability Waiver Form is designed to ensure that participants understand and accept the risks associated with participating in an escape room event. It also collects important contact and medical information to guarantee the safety and security of all participants.

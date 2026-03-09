@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be a comprehensive checklist for launching a website. It is meant to be filled out by project team members to ensure that all necessary steps have been taken before a website is considered ready for launch. The form helps to track the progress of a project, from its status in content creation to its review and testing stages. This guide will walk you through each section of the form and what information is required for each field.
-
-</thinking>
-
 # Website Launch Checklist Form - Help Guide
 ## Purpose
 This form is a checklist for website project teams to ensure that all necessary steps are taken before launching a website. It helps track the progress of a project, from content creation to review and testing stages.

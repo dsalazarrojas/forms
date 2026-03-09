@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information for orders related to wellness products. It is designed to be used by customers to place an order for products that support their overall well-being.
-The form will be used for both online and offline orders. Please ensure that you have all the necessary information before submitting the form to avoid duplication of orders.
-</thinking>
-
 # Wellness Product Order Form - Help Guide
 ## Purpose
 The Wellness Product Order Form is used to collect information for placing orders related to wellness products. This form is used to gather details about the order, shipping, payment, and customer contact information.

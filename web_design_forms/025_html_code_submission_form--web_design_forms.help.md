@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect HTML code submissions from users, which will be used to create an HTML code snippet library. The purpose of this form is to gather information from users about their submitted code, including the code itself, any relevant snippets, and the version of the code being submitted. This form is intended to be a user-friendly way to collect this information, making it easier for the form creators to review and use the submissions.
-</thinking>
-
 # HTML Code Submission Form - Help Guide
 ## Purpose
 This form is designed to collect HTML code submissions from users, which will be used to create an HTML code snippet library.

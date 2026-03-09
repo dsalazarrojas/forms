@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the Patron Saint Selection Survey form. The form is designed to collect information from users regarding their selection of a patron saint and any additional relevant information. Before proceeding, please ensure you have a clear understanding of the form's purpose and that you are not attempting to complete it for duplicate or incorrect reasons.
-
-</thinking>
-
 # Patron Saint Selection Survey - Help Guide
 ## Purpose
 The Patron Saint Selection Survey is a form designed to collect information from users regarding their selection of a patron saint and additional relevant details. This form is used to gather data for [internal purposes, e.g., for church records or research]. Please ensure the information provided is accurate and complete.

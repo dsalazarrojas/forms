@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from service dealers who provide design services. This form is intended to collect contact information (name, email, and phone number) from the dealer, as well as their design preferences and service requirements. The form also aims to gather information on the services they offer and any additional services they may provide. This form is likely used within a business setting, possibly for marketing or sales purposes.
-
-To avoid duplicate submissions, it is recommended to fill out this form only once per dealer.
-
-This form is used to collect information from service dealers to facilitate communication, collaboration, or other business-related activities. The exact use case is not specified, but it is assumed to be used for general information gathering.
-
-</thinking>
-
 # Design Services Dealer Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from service dealers who provide design services. It is used to gather contact information, design preferences, and service requirements.

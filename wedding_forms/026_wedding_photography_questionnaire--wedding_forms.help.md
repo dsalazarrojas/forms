@@ -1,9 +1,3 @@
-<thinking>
-
-As an expert form designer and technical writer, I will create a comprehensive user-facing help guide for the Wedding Photography Questionnaire form. I will analyze the form fields and provide a clear and concise explanation for each section, ensuring that end-users understand the purpose of the form and how to complete it.
-
-</thinking>
-
 # Wedding Photography Questionnaire - Help Guide
 
 ## Purpose

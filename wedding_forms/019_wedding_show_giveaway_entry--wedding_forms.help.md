@@ -1,11 +1,3 @@
-<thinking>
-We will be creating a help guide for the "Wedding Show Giveaway Entry" form, which is designed to collect information about attendees and their interests for wedding shows. The form is likely used by wedding industry professionals to provide services and promote their businesses at wedding events. To ensure the form is filled out correctly and efficiently, we need to explain its purpose and each field's meaning to the user.
-
-The form's purpose is to capture essential details about wedding shows, including attendee names, contact information, and event specifics. This information will help wedding show organizers and vendors understand the attendees' interests and needs, allowing them to tailor their services and promotions accordingly. The form is likely a crucial tool for wedding vendors to showcase their products and services and connect with potential clients.
-
-To avoid duplication of efforts, we will also check if the user has already submitted the form for the same event. This will prevent users from submitting duplicate entries and save time for the organizers.
-</thinking>
-
 # Wedding Show Giveaway Entry - Help Guide
 ## Purpose
 The Wedding Show Giveaway Entry form is designed to collect information about attendees and their interests for wedding shows. This form helps wedding industry professionals understand the attendees' needs and tailor their services accordingly.

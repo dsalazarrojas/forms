@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Embroidery Quote Request Form - Help Guide
 
 ## Purpose

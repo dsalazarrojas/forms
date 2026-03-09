@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's make sure we're on the same page. The purpose of this Workplace Wellness Program Intake Form is to gather information from employees about their medical history, current health status, and other relevant details. This form helps the employer to assess the employee's fitness for work and ensures compliance with any relevant laws and regulations. The employer's internal team will review this information to provide support and accommodations as needed. Please ensure you're submitting this form only when necessary and not as a repetitive or duplicate effort, as this may lead to confusion and delays in processing your request.</thinking>
-
 # Workplace Wellness Program Intake Form - Help Guide
 ## Purpose
 The Workplace Wellness Program Intake Form is used to collect information about your health status, medical history, and other relevant details to support your well-being and ensure compliance with applicable laws and regulations. Please submit this form only when necessary and not as a repetitive or duplicate effort.

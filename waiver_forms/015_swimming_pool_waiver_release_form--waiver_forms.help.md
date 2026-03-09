@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the form is used to obtain informed consent from guests to participate in swimming pool activities, while also gathering essential information about their emergency contacts, medical history, and swimming pool usage preferences. This form should be designed to be user-friendly, clear, and concise to avoid confusion. Before we proceed, let's verify that all required fields are correctly identified and that the form's purpose is well-defined. Given the structure, it's evident that the form aims to capture essential details for guest safety and pool usage regulations.</thinking>
-
 # Swimming Pool Waiver Release Form - Help Guide
 
 ## Purpose

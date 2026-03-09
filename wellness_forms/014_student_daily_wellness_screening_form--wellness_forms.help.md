@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to help students assess their physical, emotional, and social well-being. The Student Daily Wellness Screening Form is meant to be a regular check-in to monitor students' health and provide early interventions. This form should be completed daily, ideally at the same time each day. The data collected will help staff members and counselors provide targeted support and resources.
-
-Form submission frequency is not specified, but it's likely meant to be completed daily or at least on a regular basis. 
-
-The form's purpose is to collect data on students' physical, emotional, and social well-being, helping staff members and counselors to provide targeted support and resources.
-
-This form is not affiliated with, endorsed by, or derived from any form platform.
-
-This form is an original adaptation, not a copy or extract of any other form. It was created using public survey topic metadata as inspiration.
-
-The form's fields are organized into sections for easier navigation.
-
-</thinking>
-
 # Student Daily Wellness Screening Form - Help Guide
 ## Purpose
 The Student Daily Wellness Screening Form is designed to help students assess their physical, emotional, and social well-being. The data collected will help staff members and counselors provide targeted support and resources.

@@ -1,10 +1,4 @@
-### <thinking>
-This form is designed for users to cast their votes for their favorite poster, which is likely a poster of a person or a thing that users are fond of. The form requires users to provide their first name, last name, email address, and a selection of "Yes" or "No" for their favorite poster in multiple categories. The form also allows users to optionally provide their phone number, date, time, and additional comments. The form's purpose is to collect data for analysis or voting purposes, and users must ensure that their email address is valid to complete the form.
-
-To avoid duplication of votes, we may have some internal checks to ensure that users can only vote once.
-</thinking>
-
-# Favorite Poster Voting - Help Guide
+### # Favorite Poster Voting - Help Guide
 ## Purpose
 The form allows users to cast their votes for their favorite poster. The purpose of this form is to collect data for analysis or voting purposes.
 

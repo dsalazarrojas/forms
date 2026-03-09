@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To help users understand the purpose and usage of the Event Waiver Form, let's go through the form's design and functionality.
 The form is designed to gather information related to an event and its participants. This includes capturing details about the event itself, the participant's information, and any specific waiver terms that need to be acknowledged. The fields in this form are intended to be used for a general event waiver purpose, without any specific business logic or context.
 Please note that some fields are optional and are meant to be filled out only if necessary or relevant to the specific event. The form's design aims to be flexible and adaptable to different types of events.

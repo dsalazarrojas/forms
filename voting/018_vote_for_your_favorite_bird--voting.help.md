@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect user feedback and suggestions for the "Vote For Your Favorite Bird" system. The form has 6 fields: Favorite Bird, Name, Email, Phone, Message, Other (if not listed), and Submit. The purpose of this form is to allow users to provide information about their favorite bird species, which can be useful for the system to improve its features and services...</thinking>
-
 # Vote For Your Favorite Bird - Help Guide
 ## Purpose
 This form is designed to collect user feedback and suggestions for the "Vote For Your Favorite Bird" system. The form has been created to gather information about users' favorite bird species, which can be used to improve the system's features and services.

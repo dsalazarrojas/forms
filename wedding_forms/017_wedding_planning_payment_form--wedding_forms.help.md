@@ -1,8 +1,3 @@
-<thinking>... Internal reasoning block to create a user-facing help guide for the "Wedding Planning Payment Form"...
-
-The form is designed to collect payment information for wedding planning services. This form is likely to be used by clients or customers who are planning their wedding and need to provide payment details for services rendered. The form should be completed to ensure accurate and secure payment processing.
-
-</thinking>
 # Wedding Planning Payment Form - Help Guide
 ## Purpose
 This form is used to collect payment information for wedding planning services. Please complete the form accurately to ensure smooth payment processing.

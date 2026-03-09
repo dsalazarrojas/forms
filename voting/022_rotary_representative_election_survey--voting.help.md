@@ -1,11 +1,3 @@
-<thinking>...Internal reasoning:
-To create a user-facing help guide for the "Rotary Representative Election Survey" form, we need to consider the following:
-- The form is used for nominations and voting.
-- Each form section (page) has specific fields with varying levels of requiredness.
-- The form includes fields for selecting candidates, providing candidate information, nominator information, and optional fields for nominator name, email, and website.
-
-</thinking>
-
 # Rotary Representative Election Survey - Help Guide
 ## Purpose
 The Rotary Representative Election Survey is a form used for nominating and voting for representatives. It consists of several sections with fields that guide you through the nomination and voting process.

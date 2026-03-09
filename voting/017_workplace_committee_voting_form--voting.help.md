@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow committee members to cast their votes on various topics relevant to the workplace. The form is designed to be completed by committee members to provide their input and opinions on different matters. The form should only be completed by authorized committee members, and the data collected will be used to inform decisions made by the committee. This form should not be completed by anyone other than authorized committee members, as this may lead to duplicate or irrelevant input that can cause confusion and affect the decision-making process.
-</thinking>
-
 # Workplace Committee Voting Form - Help Guide
 ## Purpose
 The Workplace Committee Voting Form is a tool for committee members to cast their votes on various topics relevant to the workplace. This form is designed to collect their input and opinions to inform decisions made by the committee.

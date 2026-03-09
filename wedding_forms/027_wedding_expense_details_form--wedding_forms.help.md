@@ -1,8 +1,3 @@
-<thinking>
-Wedding expense details form is used for recording and categorizing expenses related to wedding events, such as venue, decorations, flowers, music, transportation, food, beverages, attire, and other expenses. This form helps in keeping track of who submitted the expense details and which tool was used to record the expense.
-The form has multiple fields for categorizing expenses into different categories, which is useful for analyzing and reporting wedding expenses. 
-</thinking>
-
 # wedding_expense_details_form - Help Guide
 ## Purpose
 The wedding expense details form is designed to collect and categorize expenses related to wedding events.

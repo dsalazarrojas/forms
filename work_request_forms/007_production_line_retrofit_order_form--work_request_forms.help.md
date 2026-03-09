@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information for production line retrofit orders. It is intended for production line managers or authorized personnel to submit orders for retrofits on specific production lines. The form will help to streamline the ordering process and ensure that all necessary information is provided.
-
-The form will be used by production line managers to submit requests for retrofits on production lines, and the information collected will be used to process and fulfill these requests.
-
-Please note that the form is not intended for use by individuals outside of production line management, and any attempts to use it for other purposes may result in duplication of effort or misallocated resources.
-
-The form does not require any additional authentication or validation, but it is recommended that users fill it out in their work context to ensure accuracy and consistency of information.
-
-</thinking>
-
 # Production Line Retrofit Order Form - Help Guide
 ## Purpose
 The Production Line Retrofit Order Form is a tool for production line managers or authorized personnel to submit orders for retrofits on specific production lines. This form ensures that all necessary information is provided to process and fulfill these requests efficiently.

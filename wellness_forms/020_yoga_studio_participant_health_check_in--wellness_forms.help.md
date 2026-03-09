@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to collect health information from yoga studio participants. It's essential to ensure that participants are healthy enough to engage in physical activities like yoga, and this form helps the studio staff assess their condition. This form might be part of a larger process to ensure participant safety and liability protection. To avoid duplication, this form should only be filled out once by each participant before their first class. If you've already filled out a similar form in the past, you might not need to fill this one out again. However, it's always best to double-check with the studio staff to confirm.
-</thinking>
-
 # Yoga Studio Participant Health Check In - Help Guide
 
 ## Purpose

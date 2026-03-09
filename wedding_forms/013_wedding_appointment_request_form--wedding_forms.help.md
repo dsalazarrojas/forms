@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Wedding Appointment Request Form efficiently. The form is designed to collect information from couples seeking wedding-related services. Upon filling out the form, users will be able to submit their request for an appointment with a wedding service provider. To avoid confusion, this guide will cover each field in the form, explaining its purpose and required fields.
-</thinking>
-
 # Wedding Appointment Request Form - Help Guide
 ## Purpose
 The Wedding Appointment Request Form is designed to collect information from couples who are seeking various wedding-related services. The form serves as a convenient way for couples to inquire about an appointment with a wedding service provider.

@@ -1,9 +1,3 @@
-<thinking>
-We are creating a form for evaluating websites. The form is used to gather feedback and information about website quality, design, and user experience. It will help us understand how well-designed and user-friendly our website is. We will be evaluating the overall quality, design aesthetics, navigation, contact information, and other aspects of the website. The form should be completed by users who have visited the website and can provide honest and constructive feedback. We want to encourage users to be as detailed as possible in their responses, but please note that some fields are marked as "optional" or not required, so feel free to skip those if you don't have anything to add.
-
-To prevent duplication of effort, please only provide feedback on the current version of the website. If you have previously submitted feedback, please do not resubmit.
-</thinking>
-
 # Website Evaluation Form - Help Guide
 ## Purpose
 This form is used to gather feedback and information about website quality, design, and user experience.

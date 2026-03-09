@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help individuals assess their current sexual health and well-being. The purpose of this form is to gather information on the individual's sexual health, including their preferences, habits, and concerns. This form is not intended for medical diagnosis, but rather as a tool to help individuals identify potential areas for improvement in their sexual health. 
-
-Before proceeding, please ensure you are filling out the form for the intended purpose. This form should only be filled out once a month. If you have any concerns or questions, please reach out to our team for support.
-
-</thinking>
-
 # Sexual Health Wellness Check In - Help Guide
 ## Purpose
 This form is designed to gather information on your current sexual health and well-being. Please answer each question honestly to help you better understand your current situation and identify potential areas for improvement.

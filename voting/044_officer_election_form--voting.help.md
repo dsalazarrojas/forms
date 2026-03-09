@@ -1,13 +1,3 @@
-<thinking>From a voting perspective, the "Officer Election Form" is used to collect information about candidates for an election. The form captures general information about the candidate, their title, position, term start and end dates, and other relevant details. The "Officer Election Form" is likely used within an organization or institution to facilitate the voting process, particularly when electing officers or representatives. This form might be used in conjunction with other voting systems or processes to ensure a fair and transparent election process.
-
-It is essential to fill out this form accurately and honestly, as the information collected will be used to guide the election process. Ensure that you have all the necessary details before submitting the form. Please note that the fields are designed to guide you through the submission process, so take your time to review each field carefully.
-
-Please note that this form might not be applicable in all contexts or situations. For instance, if you are submitting on behalf of a group, team, or other entity, ensure to fill in relevant information correctly.
-
-Before starting, consider whether you need to submit the form as an individual or as a representative of an entity. If as an individual, you will likely be filling in details about yourself. If as a representative, you may need to fill in details about the entity you represent.
-
-</thinking>
-
 # Officer Election Form - Help Guide
 ## Purpose
 The "Officer Election Form" is used to collect information about candidates for an election within an organization or institution.

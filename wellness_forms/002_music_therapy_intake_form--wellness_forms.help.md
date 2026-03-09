@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for patients and their guardians to provide personal and medical information for music therapy treatment. It collects contact and medical history, medication and allergy information, emergency contacts, and progress tracking. The form is divided into several sections, each addressing a specific aspect of the patient's health and treatment.
 
 # music_therapy_intake_form - Help Guide

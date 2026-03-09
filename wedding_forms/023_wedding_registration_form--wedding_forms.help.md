@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to register a wedding in a straightforward and organized way. The form should only be filled out by those who want to officially register their wedding. The form should not be used for other purposes such as event registration or other types of celebrations. Please fill out the form accurately and only when you are certain you are eligible to do so.
-</thinking>
-
 # Wedding Registration Form - Help Guide
 ## Purpose
 This form is for registering a wedding in our system. It is used to gather information about the couple getting married, including their type of wedding, date, location, and contact details.

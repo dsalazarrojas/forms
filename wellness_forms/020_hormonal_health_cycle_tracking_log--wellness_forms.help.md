@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We are creating a user-facing help guide for the "Hormonal Health Cycle Tracking Log" form. The form is designed to track an individual's hormonal health cycle, including symptoms, mood, lifestyle factors, and personal details. This guide will help users understand the form's purpose, how to complete it, and what each field means.
 
 # Hormonal Health Cycle Tracking Log - Help Guide

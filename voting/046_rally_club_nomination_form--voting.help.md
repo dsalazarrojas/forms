@@ -1,9 +1,3 @@
-<thinking>
-The "Rally Club Nomination Form" is designed to gather information from the nominator (the person nominating someone for an award or recognition) about the nominee (the person being nominated) and the reason for the nomination. This form is typically used for internal purposes within an organization or community, where employees, members, or peers can nominate their peers for outstanding achievements or contributions. The form is divided into various sections to capture relevant details such as the nominee's name, role, reason for nomination, and nominator's information. It is essential to fill out this form carefully, as the information provided will be used to consider the nominee for recognition or rewards.
-Please ensure that you are nominating someone who has made a significant contribution to the organization or community, and provide a clear reason for the nomination. Additionally, double-check that you have permission from the nominee before submitting the form, as some fields may ask for personal contact information.
-To avoid duplication, please check the internal database before submitting this form, in case a nomination for the same person has already been made. This will help maintain the accuracy and fairness of the nomination process.
-</thinking>
-
 # Rally Club Nomination Form - Help Guide
 ## Purpose
 The Rally Club Nomination Form is used to gather information about individuals who deserve recognition or awards within the organization or community. This form helps the nominators to provide detailed information about the nominees' contributions, achievements, and reasons for the nomination.

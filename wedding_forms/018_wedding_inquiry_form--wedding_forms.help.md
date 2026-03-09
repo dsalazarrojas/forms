@@ -1,7 +1,3 @@
-<thinking>
-Please ensure the form is being used as intended, for collecting wedding inquiry information, and is not duplicated by using other forms. The form's purpose is to gather essential details about a wedding, including the date, time, location, number of guests, desired services, contact information, and a message from the wedding planner. This is a crucial form for wedding coordinators and planners to understand the client's preferences for a successful event.
-</thinking>
-
 # Wedding Inquiry Form - Help Guide
 
 ## Purpose

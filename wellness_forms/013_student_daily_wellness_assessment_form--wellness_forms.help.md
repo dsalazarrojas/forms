@@ -1,5 +1,3 @@
-<thinking>... (Internal reasoning: This form is designed for students to report their daily wellness status, providing details such as their name, ID, date, and time of assessment. The form also includes a section for students to express their thoughts and concerns, and an optional field for additional comments. By filling out this form, students can help the wellness team assess their overall well-being and provide support where needed.) ...</thinking>
-
 # Student Daily Wellness Assessment Form - Help Guide
 ## Purpose
 The Student Daily Wellness Assessment Form is a tool used by students to report their daily wellness status to the wellness team. This form helps the team assess the students' overall well-being and provide support when needed.

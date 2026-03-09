@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The political canvassing debriefing form is used to collect information from canvassers after they have completed a political canvassing session. This form helps to ensure that the data collected is accurate and consistent across different sessions. To complete this form, you must fill out the required fields. The form consists of the following sections:
 
 # political_canvassing_debriefing_form - Help Guide

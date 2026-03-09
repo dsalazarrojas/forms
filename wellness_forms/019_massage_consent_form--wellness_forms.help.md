@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Massage Consent Form - Help Guide
 ## Purpose
 The Massage Consent Form is designed to collect information from clients regarding their consent for massage therapy sessions. This form helps ensure that clients understand and agree to the treatment process, which is essential for providing safe and effective massage therapy.

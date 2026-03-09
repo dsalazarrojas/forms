@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide that is clear, concise, and practical for the Voting Assistance Absence Form. This form is used to notify the relevant authorities of a voter's absence from voting, providing them with the necessary information to verify the voter's identity and ensure their absence is recorded accurately. This guide should cover the purpose of the form, how to complete it, and what each field means, making it easy for end-users to understand and fill out the form correctly.
-</thinking>
-
 # Voting Assistance Absence Form - Help Guide
 ## Purpose
 This form is used to report a voter's absence from voting, allowing the relevant authorities to verify the voter's identity and accurately record their absence.

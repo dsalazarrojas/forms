@@ -1,7 +1,3 @@
-<thinking>
-We're creating a form to collect user feedback on the website's user experience. This form is a tool for gathering information that will help us identify areas where the website can be improved to better serve its users. Please ensure that you're completing this form only if you've genuinely used the website. This will help us get valuable insights and suggestions for improvement. If you've filled out this form before, please don't worry, as we'll make sure to avoid duplicating your feedback.
-</thinking>
-
 # Website User Experience Survey Form - Help Guide
 ## Purpose
 This form is designed to collect your feedback on the website's user experience. Your input will help us identify areas where the website can be improved to better serve its users.

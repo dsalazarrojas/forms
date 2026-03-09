@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect and manage quote information for web design projects. This form likely serves as a centralized hub for capturing essential details related to client quotes, such as quote details, client information, quote dates and times, services offered, ratings, and any additional notes.
-
-Before proceeding, please ensure that you are filling out this form for a valid web design project quote. If you're unsure about the project's relevance or if you've already filled out this form for a similar project, double-checking with the project stakeholders or reviewing your previous submissions may help avoid duplication of effort.
-
-</thinking>
-
 # website_design_quotes - Help Guide
 ## Purpose
 The website_design_quotes form is used to collect and manage quote information for web design projects. It helps in organizing essential details related to client quotes, ensuring a standardized and efficient process for both clients and internal teams.

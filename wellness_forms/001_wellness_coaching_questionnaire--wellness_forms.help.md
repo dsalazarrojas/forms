@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's wellness habits and preferences. It is intended for use in coaching or consulting settings to help individuals assess their current habits and set goals for improvement. The form is not affiliated with any specific platform and is an original adaptation of a public survey topic.
-
-To prevent duplication, please ensure that you are not filling out this form if you have already done so in the past. If you have any questions or concerns, feel free to contact us at form@gic.mx.
-
-</thinking>
-
 # Wellness Coaching Questionnaire - Help Guide
 ## Purpose
 

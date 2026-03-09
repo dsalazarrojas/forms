@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to collect feedback or evaluation scores for a website's various aspects. The form is likely used by developers or designers to assess the website's performance in different categories such as overall quality, user experience, web design, navigation, content, layout, mobile-friendliness, page speed, security, and additional feedback. The form is likely used for internal purposes within a development team or for quality assurance processes.
-</thinking>
-
 # Website Evaluation Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information and consent from employees for the employee wellness program. This form aims to ensure that employees have the necessary medical clearance and understanding of the program's terms and conditions. Before proceeding, please review the following to confirm that you are completing this form for the correct purpose and that you do not already have a duplicate record.
-
-After reviewing the form, if you are confident that you are completing this form for the intended purpose and do not have a duplicate record, proceed with filling out the form.
-
-</thinking>
-
 # employee_wellness_program_waiver_form - Help Guide
 ## Purpose
 The employee wellness program waiver form is used to gather information and consent from employees for the employee wellness program. This form ensures that employees have the necessary medical clearance and understanding of the program's terms and conditions.

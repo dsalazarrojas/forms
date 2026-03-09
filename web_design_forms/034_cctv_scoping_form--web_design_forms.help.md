@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users provide detailed information about their CCTV system requirements for a specific project. It's crucial to fill out this form accurately to ensure that the security solution designed meets the project's needs. Please do not submit duplicate or irrelevant submissions, as this may cause unnecessary work and delays. The form is divided into sections that guide users through the required information for designing the optimal security solution. Ensure you fill out each field correctly to avoid misunderstandings during the design process.
-</thinking>
-
 # CCTV System Scoping Form - Help Guide
 ## Purpose
 The CCTV System Scoping Form is a tool designed to gather essential information from clients to ensure that a comprehensive security solution is provided to meet their project requirements.

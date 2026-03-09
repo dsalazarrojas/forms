@@ -1,9 +1,3 @@
-<thinking>
-
-This form was created using AI to generate a comprehensive intake form for In-Vitro (IV) therapy. It is designed to collect information from patients for medical professionals to assess their medical history, allergies, and medications. The form includes multiple fields to collect detailed information, which will help medical professionals make informed decisions about the patient's treatment. 
-
-</thinking>
-
 # iv_therapy_intake_form - Help Guide
 
 ## Purpose

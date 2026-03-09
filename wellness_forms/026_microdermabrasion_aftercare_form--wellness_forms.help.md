@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a general well-being and health check-up form for individuals who have undergone microdermabrasion treatment. It's possible that this form is used to monitor and analyze the after-effects of the treatment on various aspects of the patient's health. I will create a help guide for this form based on the provided YAML fields.
-</thinking>
-
 # Microdermabrasion Aftercare Form - Help Guide
 ## Purpose
 This form is used to collect information about your well-being after a microdermabrasion treatment. Please answer the questions honestly and to the best of your ability to help us better understand your recovery and any potential side effects.

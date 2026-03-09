@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to allow students, teachers, or staff to nominate their peers for the homecoming court, providing essential information about the nominee, including their grade level, name, and teacher's contact details. This form will ensure that the nomination process is efficient and accurate, while allowing the homecoming committee to make informed decisions about the court members.
-
-To avoid duplicates, please ensure that you are not nominating someone who has already been nominated. If you're unsure, please check the current homecoming court list or ask a staff member for guidance.
-
-</thinking>
-
 # Homecoming Court Nomination Form - Help Guide
 ## Purpose
 The Homecoming Court Nomination Form is used to submit nominations for the homecoming court. This form is designed to collect essential information about the nominee, including their grade level, name, and teacher's contact details.

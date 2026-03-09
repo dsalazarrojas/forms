@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a checklist for evaluating the design of a user interface. The purpose of this form is to assess the effectiveness and quality of the user interface, covering various aspects such as overall feel and looking, navigation and flow, color scheme and usage, layout and structure, typography and color scheme, content strategy, visual hierarchy, and overall feeling. This form is likely to be used by designers or stakeholders to review and improve user interface designs. Before creating the form, I reviewed the provided YAML file to understand its structure and ensure that each field has a clear and relevant label that explains its purpose and meaning.
-</thinking>
-
 # User Interface Design Checklist - Help Guide
 ## Purpose
 

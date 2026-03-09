@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect referral information from potential clients who are interested in hiring a wedding caterer. This form is intended for internal use within an event planning company or agency that refers clients to wedding caterers. The form should only be completed if the user is a valid referral source, such as a wedding planner or venue manager, and the information should not be duplicated or entered by the same individual multiple times.</thinking>
-
 # Wedding Caterer Referral Form - Help Guide
 ## Purpose
 This form is used to collect referral information from potential clients, including wedding planners and venue managers, to connect them with suitable wedding caterers.

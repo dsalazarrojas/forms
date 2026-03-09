@@ -1,7 +1,3 @@
-<thinking>
-...The purpose of this form is to allow users to nominate a colleague or team member for recognition and appreciation. It's essential to ensure that each nomination is accurate and relevant to prevent duplication or unnecessary nominations. Please complete this form with the following criteria in mind: a nomination should be for a colleague you have worked with directly, the person being nominated should be currently or previously employed by the organization, and the nomination should be based on genuine appreciation or recognition of their work performance. Please review the form carefully before submitting to avoid submitting a duplicate nomination.
-</thinking>
-
 # Employee Nomination Form - Help Guide
 ## Purpose
 The purpose of this form is to nominate a colleague or team member for recognition and appreciation.

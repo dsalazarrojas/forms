@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Web Development Payment Form - Help Guide
 ## Purpose
 This form is designed to collect information about web development projects, including project titles, client details, payment methods, and project statuses. It helps in organizing and managing web development projects efficiently.

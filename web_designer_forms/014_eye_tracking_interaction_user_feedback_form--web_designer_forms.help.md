@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect user information, eye tracking data, interaction data, and feedback from users. The purpose of this form is to gather insights on user interactions and experiences, which can be used to improve user experience and design. Before filling out this form, ensure that you are providing accurate and relevant information.
-
-The form has four fields: User Information, Eye Tracking Data, Interaction Data, and User Feedback. Please review each field carefully to ensure you are providing the correct type of information.
-
-The form is not affiliated with any proprietary form platforms, and it is free to use, modify, and distribute. If you are interested in using this form, please contact form@gic.mx.
-</thinking>
-
 # Eye Tracking Interaction User Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect user information, eye tracking data, interaction data, and feedback from users to gather insights on user interactions and experiences.

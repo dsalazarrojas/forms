@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used as intended and that users are not voting more than once. To prevent this, we will store the IP address of each user and check it against a list of previously recorded IP addresses. If a user tries to vote more than once, their vote will not be recorded.
-</thinking>
-
 # Company Slogan Voting - Help Guide
 ## Purpose
 This form is designed to collect feedback on potential slogans for a company. You will be presented with five different slogans and asked to rate them on a scale from "Love it" to "Hate it". You will also be asked to select your favorite slogan and provide a reason for your choice. Additionally, you will be asked to suggest any alternative slogans and provide feedback on what makes a great company slogan in your opinion.

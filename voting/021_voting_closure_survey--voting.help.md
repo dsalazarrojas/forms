@@ -1,7 +1,3 @@
-<thinking> 
-This form is a voting closure survey aimed at gathering feedback from participants regarding their experience with the voting process and the roles involved. It is designed to be completed by individuals who have participated in the voting process to provide their honest feedback. To determine if this form is relevant for you, consider if you have recently participated in a voting process and would like to share your thoughts on how the process could be improved. If you have already provided feedback, you may not need to complete this form again. 
-</thinking>
-
 # Voting Closure Survey - Help Guide
 ## Purpose
 The Voting Closure Survey is designed to gather feedback from participants about their experience with the voting process and the roles involved. This survey aims to understand what worked well and what could be improved.

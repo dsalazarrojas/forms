@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Web Design Creation Form - Help Guide
 ## Purpose
 This form is designed to collect information about your web design preferences and requirements. The collected data will be used to create a custom web design tailored to your needs.

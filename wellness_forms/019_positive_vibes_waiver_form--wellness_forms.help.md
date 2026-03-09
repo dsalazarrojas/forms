@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Positive Vibes Waiver Form - Help Guide
 
 ## Purpose

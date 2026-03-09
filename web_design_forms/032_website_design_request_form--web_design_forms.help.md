@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a website's design requirements from the end-user. It is a general form meant to understand the user's expectations, business needs, and contact details.
-Before filling out this form, please make sure that you have not already submitted a similar request in the past. Repeated submissions can cause unnecessary work and confusion.
-Please provide detailed and accurate information to help the design process.
-</thinking>
-
 # Website Design Request Form - Help Guide
 ## Purpose
 This form is used to collect information about a website's design requirements and needs.

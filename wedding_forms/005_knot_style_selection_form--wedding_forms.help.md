@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used in a wedding planning or preparation context, possibly as part of a wedding decoration or ceremony setup. The form's purpose is to gather information on the style of knots or rope arrangements desired for the wedding. Given the select_one and select_multiple types, it seems to be collecting preferences or options for different types of knots or ropes. The form may be used to ensure consistency or to accommodate specific requests from the couple or other stakeholders involved. To confirm, the form fields suggest the following structure: the first field "Wedding Knot Style" is likely a single-choice question, while the following three fields "Rope Knot", "Rope and Knot", and "Square Knot" are multi-choice questions. This assumption will guide the following help guide.
-
-
-</thinking>
-
 # Knot Style Selection Form - Help Guide
 ## Purpose
 The Knot Style Selection Form is a tool to collect information on the style of knots or rope arrangements desired for the wedding.

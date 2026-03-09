@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information about the meal preferences and dietary needs of couples attending a retreat. The form is intended to be completed by the couples as part of their retreat registration process. The information collected will help the retreat organizers to understand the couples' meal preferences and make necessary arrangements to cater to their needs.
-
-Before filling out this form, please note that some of the questions are optional, and you can leave them blank if you prefer. However, providing this information will help us better understand your preferences and requirements.
-
-Please fill out this form carefully and accurately, as it will help us to provide a more enjoyable and inclusive experience for you during the retreat.
-
-</thinking>
-
 # couples_retreat_meal_preferences - Help Guide
 ## Purpose
 This form is designed to gather information about the meal preferences and dietary needs of couples attending a retreat.

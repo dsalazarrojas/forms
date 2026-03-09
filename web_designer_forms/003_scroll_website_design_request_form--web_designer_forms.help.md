@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a project that requires a web design. It will help us understand the project's details, target audience, and requirements to deliver a high-quality web design. Please make sure you are submitting a new project, not an update to an existing one. This form will help us track and manage multiple projects efficiently.
-
-</thinking>
-
 # Scroll Website Design Request Form - Help Guide
 ## Purpose
 The Scroll Website Design Request Form is used to collect project details and requirements for a web design project. It will help us understand your project's needs and ensure that we can deliver a high-quality design that meets your expectations.

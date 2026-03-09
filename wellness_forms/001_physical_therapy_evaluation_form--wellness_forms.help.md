@@ -1,7 +1,3 @@
-<thinking>
-The form is likely for collecting information related to a patient's physical therapy needs. It seems to be focused on gathering details from various systems within the body, such as musculoskeletal, neurological, and cardiovascular systems. This would be for evaluating a patient's condition and creating a comprehensive understanding of their overall health status. This form may not be suitable for patients with severe injuries or conditions that cannot be self-reported. 
-</thinking>
-
 # physical_therapy_evaluation_form - Help Guide
 ## Purpose
 The physical therapy evaluation form is designed to collect information about a patient's physical condition, focusing on various bodily systems and overall sensory status.

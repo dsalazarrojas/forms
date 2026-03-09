@@ -1,9 +1,3 @@
-<thinking>
-
-This form is likely designed for voting purposes, specifically for a ward election. The purpose of this form is to capture information about the election, including the ward being voted for, a brief description, and the output file name. This form likely serves as an input mechanism for generating an output file containing the election results. The fields in this form are designed to guide the user through the process of providing necessary information for the ward election output file.
-
-</thinking>
-
 # Ward Election Ballot Form - Help Guide
 ## Purpose
 The Ward Election Ballot Form is designed to collect information for a ward election output file. This form is meant to be filled out by users who need to participate in the ward election process.

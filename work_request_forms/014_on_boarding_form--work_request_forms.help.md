@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The On Boarding Form is used to capture essential information about new users when they join the company. This form ensures that accurate and complete data is collected from the user, making it easier for the management to onboard them properly and provide the best possible experience. To ensure that this form is completed correctly, please follow these steps:
 
 # On Boarding Form - Help Guide

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from customers interested in getting a website designed. The form is likely to be used by a web design agency to create a website based on customer input.
-The form does not appear to be used for payment processing, and the "payment" fields are likely to be placeholder for a later development step.
-The "Website Design Form" could be used by both customers looking for a static, dynamic, or e-commerce website.
-</thinking>
-
 # Website Design Form - Help Guide
 ## Purpose
 The "Website Design Form" is designed to collect information from customers interested in getting a website designed. This form will guide you through the necessary steps to provide the required details about your website.

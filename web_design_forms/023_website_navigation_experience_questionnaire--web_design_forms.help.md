@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information about users' experiences with website navigation, aiming to understand how well users can navigate a website, what types of navigation they prefer, and how they interact with the website's search feature. The form should be completed by users who want to provide feedback on their experience with a website, and the information collected will help website owners and designers create more user-friendly navigation systems.
-
-To ensure accurate and relevant feedback, please only complete this form if you have recently visited a website that has a navigation system you'd like to comment on. If you're a web developer or designer, please don't complete this form to provide feedback on your own work.
-
-The form will not collect personal data, and all responses will be anonymous. 
-
-</thinking>
-
 # Website Navigation Experience Questionnaire - Help Guide
 ## Purpose
 This form is a survey designed to collect user feedback on their experience with website navigation. Your input will help us understand how well users can navigate a website, their preferences for different types of navigation, and how they interact with the website's search feature.

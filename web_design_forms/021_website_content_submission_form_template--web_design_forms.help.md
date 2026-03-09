@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect website content submission information. It is likely used by a content management team or editor to review and manage submissions from various contributors. To ensure accurate and consistent data, it's essential to complete this form correctly. Please review each field carefully to avoid errors...</thinking>
-
 # website_content_submission_form_template - Help Guide
 ## Purpose
 This form is used to collect and manage submissions of website content from contributors.

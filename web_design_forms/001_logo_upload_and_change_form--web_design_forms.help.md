@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help users upload a logo and specify its purpose. The form is likely to be used in a web design context, where users need to upload logos for various applications or services. The form is not intended for mass duplication of effort, so users should only fill it out for unique logo upload and modification requests.
-
-The form is designed to be completed in a straightforward manner, with clear labels and instructions provided for each field.
-
-</thinking>
-
 # logo_upload_and_change_form - Help Guide
 ## Purpose
 The purpose of this form is to upload a logo and specify its purpose in a web design context.

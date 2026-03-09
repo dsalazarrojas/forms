@@ -1,5 +1,3 @@
-<thinking>Smart Power Outlet Installation Request Form: This form is for requesting a smart power outlet installation. It is used for requesting a power outlet installation for a residential or commercial building. This form is intended for use by customers or users of the building. It is not used for other purposes such as work orders or equipment installation requests. Please ensure that you are using this form correctly and not duplicating work requests. Ensure also that you have read and understood the form's instructions.</thinking>
-
 # smart_power_outlet_installation_request_form - Help Guide
 ## Purpose
 The smart power outlet installation request form is a request for a smart power outlet installation in a residential or commercial building. It is used to collect information from the end-user about the installation requirements, contact information, and other relevant details.

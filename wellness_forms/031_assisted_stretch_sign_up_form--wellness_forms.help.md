@@ -1,10 +1,3 @@
-<thinking> 
-This form is intended for people to sign up for a fitness class or program focused on assisted stretching. The purpose of this form is to collect information about the participant, including their contact details, physical abilities, and preferences. This information will be used to create a customized class schedule and ensure that the participant is matched with the right class environment and instructor. The form is designed to be completed in a step-by-step manner, guiding the participant through the necessary fields to provide accurate and relevant information.
-
-Before starting, please ensure that you have not already signed up for this class. If you have previously signed up, please do not complete this form again as it will not be processed.
-
-</thinking>
-
 # Assisted Stretch Sign Up Form - Help Guide
 ## Purpose
 The Assisted Stretch Sign Up Form is designed to collect information about you to create a customized class schedule that suits your needs and preferences. This form will guide you through the necessary fields to provide accurate and relevant information.

@@ -1,14 +1,3 @@
-<thinking>
-This form is a Fitness Liability Waiver, which is a document that releases individuals from liability for personal injuries or damages that may occur during physical activities or events. The purpose of this form is to gather information about the participant, including their general information, emergency contact details, medical history, and any allergies or medical conditions they may have. The form is designed to be completed by the participant prior to engaging in physical activities or events.
-
-This waiver form appears to be a comprehensive tool for gathering information and obtaining consent from participants. It covers various aspects of their personal and medical history, which is likely intended to ensure their safety and provide a level of protection for the event organizers or providers.
-
-Before proceeding, please ensure that this form is relevant to your specific context and that you have not already created a similar form.
-
-Please review the fields and sections below to understand the specific requirements and purpose of each.
-
-</thinking>
-
 # Fitness Liability Waiver - Help Guide
 ## Purpose
 This form is a liability waiver for individuals participating in physical activities or events. It is used to gather information about the participant's general information, emergency contact details, medical history, and allergies or medical conditions.

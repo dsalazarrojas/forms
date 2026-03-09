@@ -1,11 +1,3 @@
-<thinking>
-The fitness liability waiver form is used to gather information from individuals who participate in fitness-related activities. It's a crucial document that helps protect the participant's health and well-being by ensuring they understand the risks involved and are aware of their responsibilities.
- 
-This form is not affiliated with, endorsed by, or derived from any form platform. It was created using AI and is an original adaptation of public survey topic metadata.
- 
-This guide will walk you through the form's purpose, how to complete it, and explain each field in detail.
-</thinking>
-
 # fitness_liability_waiver - Help Guide
 ## Purpose
 The fitness liability waiver form is a critical document that helps protect individuals who participate in fitness-related activities. It's essential to have a clear understanding of the risks involved and the participant's responsibilities.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for website owners to provide information about their website, including its name, description, URL, and contact details. The form is intended to help us better understand the characteristics of websites on our platform.
-</thinking>
-
 # your_website_questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about your website, including its name, description, URL, and contact details. This information will help us understand the characteristics of your website and improve our services.

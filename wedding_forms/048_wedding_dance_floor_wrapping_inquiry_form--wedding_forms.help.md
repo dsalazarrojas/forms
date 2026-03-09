@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users regarding their wedding dance floor wrapping needs or requests. It is intended for couples planning their wedding and looking for professional help with dance floor wrapping, whether it's for aesthetic, logistical, or other purposes. Please ensure you are using this form for its intended purpose and not for other types of requests. Ensure you haven't filled out this form before; if you have submitted a similar request, please check your previous submissions and resubmit if necessary.
-</thinking>
-
 # Wedding Dance Floor Wrapping Inquiry Form - Help Guide
 ## Purpose
 This form is designed to help couples collect information and make informed decisions about their wedding dance floor wrapping needs.

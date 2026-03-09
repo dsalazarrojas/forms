@@ -1,7 +1,3 @@
-<thinking>
-This form is for submitting business logos, and we are checking for internal relevance and avoiding duplicated submissions to ensure we can provide the best service to each client. Please note that this form is intended for new businesses or companies that do not have an existing logo.
-</thinking>
-
 # Business Logo Submission Form - Help Guide
 ## Purpose
 This form is designed to collect information about your business to create a unique and effective logo that represents your brand identity.

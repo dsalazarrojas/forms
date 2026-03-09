@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to gather information from participants, particularly children or individuals who are participating in shooting-related activities. The purpose of this form is to obtain essential data about the participant, including their contact information, medical history, and emergency contact details. This information will help the organizers of the shooting-related activities ensure the participant's safety and well-being.
 
 </thinking>

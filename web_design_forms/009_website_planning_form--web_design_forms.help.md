@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a website, including its details, company information, contact details, project details, project deadline, additional information, features, platform, content, target audience, goals, launch date and time, URL, status, analytics, and security. This form is designed to be completed by website owners or administrators to provide a comprehensive overview of their website, which can be used for various purposes such as development, maintenance, or analysis.
-Before starting to complete this form, ensure that you have all the necessary information required to fill out the fields accurately. Some fields may be optional, but providing accurate and complete information will help ensure that the form is filled out correctly.
-</thinking>
-
 # Website Planning Form - Help Guide
 ## Purpose
 This form is designed to gather information about a website, including its details, company information, contact details, project details, project deadline, additional information, features, platform, content, target audience, goals, launch date and time, URL, status, analytics, and security.

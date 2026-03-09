@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are voting for professional association officers. The purpose of this form is to gather the necessary details from each voter to ensure accurate and fair representation in the election process. It's essential to fill out the form correctly to avoid any potential issues or discrepancies in the voting process.
-</thinking>
-
 # Professional Association Officer Voting Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals who are voting for professional association officers. It's crucial to provide accurate and complete information to ensure a smooth and fair voting process.

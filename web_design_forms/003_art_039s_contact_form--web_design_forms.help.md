@@ -1,12 +1,3 @@
-<thinking>
-This form is used for users to submit contact information and project inquiries to Art's services. The form is designed to gather essential details about the user, their inquiry type, and preferred contact method. It also includes sections for additional information and project specifics, such as budget and timeline. This form is meant to be a comprehensive tool for users to initiate contact with Art's services.
-
-Before filling out this form, please ensure that you have all the necessary information ready to complete it accurately. This form is not intended for general inquiries, but rather for users who have a specific project or service in mind.
-
-The following guide will walk you through each section of the form.
-
-</thinking>
-
 # Art's Contact Form - Help Guide
 
 ## Purpose

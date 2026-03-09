@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect proposal information from vendors who want to offer their services to our clients. This form is typically filled out by the vendor themselves, and the purpose of the form is to help us understand their proposal in detail. To avoid duplication, vendors are only allowed to submit one proposal per service category. Please ensure that you read the form carefully and fill it out accurately to avoid any inconvenience.
-
-</thinking>
-
 # Wedding Vendor Proposal Upload Form - Help Guide
 ## Purpose
 The Wedding Vendor Proposal Upload Form is used to collect proposal information from vendors who want to offer their services to our clients. This form helps us understand their proposal in detail and allows us to efficiently evaluate their services.

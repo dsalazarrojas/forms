@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-The Wedding Welcome Sign Form is intended to gather important information from guests attending a wedding, including their contact details, attendance status, and RSVP response. This form serves as an entry point for guests to provide their updates on their visit, such as their name, email, phone number, date and time of attendance, location, and if they are attending or not. The form is essential for the wedding planning and management process, enabling the organizers to keep track of who is coming and their preferences. To ensure accurate completion, please note that most fields are required. If you're unsure about any field, please contact the wedding organizers for clarification.
-</thinking>
-
 # Wedding Welcome Sign Form - Help Guide
 ## Purpose
 The Wedding Welcome Sign Form is a crucial tool for wedding organizers to collect essential guest information, facilitating smooth planning and execution of the event.

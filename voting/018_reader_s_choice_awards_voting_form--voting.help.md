@@ -1,7 +1,3 @@
-<thinking>
-We're designing a user-facing help guide for the "Readers Choice Awards Voting Form". This form is intended for users to cast their votes in various categories and award selections. The form is divided into multiple pages. Each page contains a specific type of field, such as select_one, select_multiple, date, time, note, email, or text. The form fields are not all required, but some might be depending on the page. This form is meant to be user-friendly and easy to navigate.
-</thinking>
-
 # Readers Choice Awards Voting Form - Help Guide
 ## Purpose
 This form is used to cast votes in the Readers Choice Awards. Please use it to select the categories, books, authors, dates, times, notes, emails, or phone numbers you want to participate with.

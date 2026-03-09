@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "hagadone-newspaper-wedding-announcement-form-2" form, I'll first clarify its purpose and relevance. This form is a tool for announcing a wedding, and its purpose is to gather information about the wedding details. It's a public form, and its data will likely be used for a public wedding announcement. I don't see any duplicate fields or unclear logic in the form.
-
-</thinking>
-
 # hagadone-newspaper-wedding-announcement-form-2 - Help Guide
 
 ## Purpose

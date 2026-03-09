@@ -1,7 +1,3 @@
-<thinking>
-We will use this form to collect information from wedding clients to help us better understand their needs and preferences. This form will help us provide personalized services and create a unique experience for each couple. We will also use this information to identify potential duplication of services or requests from different clients, to ensure that we provide the best possible services.
-</thinking>
-
 # wedding_consultation_form - Help Guide
 ## Purpose
 The Wedding Consultation Form is designed to collect information from wedding clients about their upcoming wedding details. This form helps us understand their preferences and needs, ensuring that we can provide tailored services for a memorable and enjoyable event.

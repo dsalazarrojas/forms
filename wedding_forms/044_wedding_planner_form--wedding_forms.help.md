@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to collect information about a wedding event. It is intended for wedding planners or coordinators to record essential details about the wedding they are planning or have recently planned. This includes date, time, location, theme, professionals involved, services required, number of guests, budget, and a quote from the wedding professionals. This form helps ensure that all relevant information is captured accurately and efficiently.
-
-To ensure the form is being used correctly, let's review the provided fields and confirm that each field has a clear label and type. The fields include date, time, location, theme, professionals, services, number of guests, budget, and two fields for wedding professionals quotes. This form is designed for wedding planners or coordinators to gather necessary details for the event.
-
-</thinking>
-
 # Wedding Planner Form - Help Guide
 ## Purpose
 This form is designed to collect essential information for a wedding event, allowing wedding planners or coordinators to record details such as date, time, location, theme, professionals involved, services required, number of guests, budget, and quote from wedding professionals.

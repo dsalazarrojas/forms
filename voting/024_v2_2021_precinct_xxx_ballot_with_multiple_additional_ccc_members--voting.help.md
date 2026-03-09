@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect data on voting precincts with multiple additional Community College Corporation (CCC) members. This form is likely used for administrative or data collection purposes within an educational institution, and the purpose of this form is to record voting information for a specific election. The form has multiple fields to collect data on various aspects of the election, including the election ID, voter ID, ballot date, ballot time, ballot type, and information on additional CCC members.
-
-The form should only be used for its intended purpose and not duplicated for other administrative tasks. If you're unsure, please verify with your supervisor or the form's original creator.
-
-</thinking>
-
 # v2_2021_precinct_xxx_ballot_with_multiple_additional_ccc_members--voting - Help Guide
 ## Purpose
 This form is used to collect voting information for a specific election in a precinct with multiple additional Community College Corporation (CCC) members.

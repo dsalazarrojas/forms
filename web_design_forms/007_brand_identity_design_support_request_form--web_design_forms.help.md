@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information from clients and potential clients regarding their brand identity design needs. The purpose of this form is to ensure that the design team has a comprehensive understanding of the client's expectations and requirements for their brand identity design project. By completing this form, clients can provide essential information about their company, industry, project goals, and design preferences, which will help the design team create a tailored brand identity design that meets their needs.
-
-To prevent duplication of efforts and ensure relevance, please review the form carefully and fill in all required fields before submitting. This will help the design team understand your project requirements accurately and efficiently.
-
-</thinking>
-
 # Brand Identity Design Support Request Form - Help Guide
 
 ## Purpose

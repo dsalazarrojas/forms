@@ -1,9 +1,3 @@
-<thinking>
-
-This form, named "group_therapy_client_feedback_form", is used to collect feedback from clients who have undergone therapy sessions. The form is intended to gauge the effectiveness of the therapy sessions and gather information to improve future sessions. It's possible that this form might overlap with other forms, but it's specifically designed for group therapy settings.
-
-</thinking>
-
 # group_therapy_client_feedback_form - Help Guide
 ## Purpose
 This form is used to collect feedback from clients who have attended therapy sessions. It helps therapists understand how well their sessions have been received and what areas need improvement.

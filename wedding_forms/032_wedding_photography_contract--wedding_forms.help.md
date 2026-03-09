@@ -1,15 +1,3 @@
-<thinking>
-
-This help guide is intended for users completing the Wedding Photography Contract form. The form is designed to collect necessary details and agreements for a wedding photography engagement. 
-
-The form will guide users through the necessary steps and details to create a comprehensive contract that covers various aspects of the wedding photography engagement, including the couple's names, wedding details, photography contract terms, payment information, and contract status.
-
-The purpose of this form is to ensure that both the photographer and the client have a clear understanding of the agreement and its conditions. This will help prevent miscommunication and misunderstandings that may arise during the photography session or after its completion.
-
-This guide will walk users through each section of the form, explaining what information is required in each field and how it contributes to the overall contract.
-
-</thinking>
-
 # Wedding Photography Contract - Help Guide
 ## Purpose
 This form is designed for wedding photographers to collect necessary details and agreements from clients before starting the photography session. It ensures that both parties have a clear understanding of the engagement and its conditions.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for clients to request a quote for web design services. The form allows clients to provide essential information about their project, including its title, description, services required, start and end dates, total hours spent, hourly rate, total cost, and other relevant details. The form ensures that clients select a project status, payment terms, and provide contact information. The form fields are designed to be as clear and concise as possible, with hints and labels that guide the client through the process.
-
-Before filling out this form, it is recommended to review the fields carefully to ensure you have provided all the necessary information. If you need help or clarification on any field, refer to the field-by-field explanation below.
-
-</thinking>
-
 # web_design_quote - Help Guide
 ## Purpose
 The web_design_quote form is designed to request a quote for web design services from clients. It ensures that clients provide essential information to help web designers understand their project requirements accurately.

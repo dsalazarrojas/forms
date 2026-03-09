@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a simple contact form for users to leave messages or requests. Its purpose is to gather basic information from users, such as their name, email, and message. This form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created by AI.
-</thinking>
-
 # Popup Contact Form - Help Guide
 ## Purpose
 The Popup Contact Form is a straightforward form meant to collect users' contact information, allowing them to quickly leave a message or request for support.

@@ -1,7 +1,3 @@
-<thinking>
-We're designing a form for wedding music playlist voting, which allows guests to vote on their favorite wedding songs. This form will help the couple to determine the most popular songs to play during their wedding ceremony or reception. It's essential that the form is completed accurately to ensure the couple has a clear picture of their guests' music preferences. Please review and confirm that this form will indeed be used for that purpose and to avoid duplicate submissions.
-</thinking>
-
 # Wedding Music Playlist Voting - Help Guide
 ## Purpose
 The Wedding Music Playlist Voting form is designed to collect your opinions on the most popular songs to play during our special day. Your input will help us create a memorable and enjoyable atmosphere.

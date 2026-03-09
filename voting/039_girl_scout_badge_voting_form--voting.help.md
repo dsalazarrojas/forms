@@ -1,18 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect voting preferences for Girl Scout badges, where users can choose a category and provide a description for each badge. The form is likely used to gather input for badge design or selection process. To ensure accuracy, users should carefully review and fill out each field correctly.
-
-To complete this form, follow these steps:
-
-1.  Select a category from the "category" field. This will help determine the type of badge being voted on.
-2.  Enter a description for each badge in the corresponding "description" fields, following the label's name (e.g., "description", "description 2", etc.). Each description should be unique and relevant to the chosen category.
-3.  If applicable, choose a tool assigned to each badge in the corresponding "assigned tool" fields.
-4.  Ensure you have selected a unique "form id" for each badge.
-5.  Finally, select a "form id" in the "form id" field for the overall form.
-6.  The "output file" field should be filled with the correct path or name of the output file.
-
-</thinking>
-
 # Girl Scout Badge Voting Form - Help Guide
 ## Purpose
 The Girl Scout Badge Voting Form is a tool for collecting voting preferences for badge design or selection. It helps in making informed decisions based on community input.

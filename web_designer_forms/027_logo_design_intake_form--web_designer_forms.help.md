@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's clarify the purpose and context of the form. This "logo_design_intake_form" is intended for users to input information for logo design purposes, possibly for a company or organization. The form likely collects various types of data, including options for logo design preferences, personal details, and potentially other relevant information. Please make sure this form is not a duplicate of an existing form and is relevant to your specific use case. After confirming, we'll proceed with the help guide.</thinking>
-
 # logo_design_intake_form - Help Guide
 ## Purpose
 This form is designed to collect information for logo design purposes. It will help our team understand your preferences and requirements for designing a suitable logo.

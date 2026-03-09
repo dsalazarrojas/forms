@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This internal reasoning block explains why we need to provide help documentation for the form. The form is used for web design interviews, which are crucial for understanding project specifics and requirements. The form should be clear and easy to use for end-users. This will prevent misunderstandings and reduce support requests.
 
 # web_design_interview_form - Help Guide

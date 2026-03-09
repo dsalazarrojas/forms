@@ -1,12 +1,3 @@
-<thinking>
-This help guide is for the "fitness_center_waiver" form, which is used for obtaining waivers at a fitness center. The purpose of this form is to gather necessary information from individuals participating in activities or programs at the fitness center. This form is required for all participants to sign and submit before engaging in any activities or programs. 
-
-The form is divided into several sections, including General Information, Waiver Type, Emergency Contact, and others. Each section has a specific set of fields that are required or optional, depending on the type of waiver being submitted. 
-
-Please ensure that you read this guide carefully to understand what information is required and what type of waiver you are submitting. 
-
-</thinking>
-
 # fitness_center_waiver - Help Guide
 ## Purpose
 The fitness_center_waiver form is used to obtain waivers for participants in activities or programs at the fitness center. It gathers necessary information from individuals, including general information, emergency contact details, and other relevant details.

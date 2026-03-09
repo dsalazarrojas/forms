@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential bloggers who want to sign up for our blogging platform. The form is intended to capture relevant details about the blogger, such as their name, contact information, writing experience, and preferences. This data will help us to evaluate their suitability as a blogger and to communicate with them regarding their application. This form is a one-time submission, and it is essential to fill it in accurately and completely. Please ensure that you answer all the required questions truthfully, and avoid duplication of efforts.
-</thinking>
-
 # Blogger Sign Up Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential bloggers who want to sign up for our blogging platform. The goal is to gather necessary details about the blogger, evaluate their suitability, and communicate with them regarding their application.

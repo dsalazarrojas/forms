@@ -1,21 +1,3 @@
-<thinking>
-Is this form used for scheduling preventive maintenance tasks for vehicles or equipment at a station location? The fields seem to be a mix of dates, times, service types, and other relevant information that would be required for such a task. I'm assuming this form is used by maintenance personnel to plan and coordinate maintenance schedules. I'll review the fields carefully to make sure I'm not duplicating any information.
-
-- `date` fields seem to be used for scheduling dates. There are multiple instances of `date` fields, but they might be used to collect different aspects of the maintenance schedule (e.g., start and end dates). 
-- `station_location` and `station_location2` fields are likely used to store information about the station where the maintenance is being performed. 
-- `vehicle_info` and `vehicle_info2` fields might be used to collect specific details about the vehicle or equipment being maintained. 
-- `service_requirements` and `service_requirements2` fields seem to be used to collect specific requirements or notes about the maintenance task. 
-- `images_with_signature` and `images_with_signature2` fields might be used to upload images or photos related to the maintenance task.
-- `service_type` and `service_type2` fields are used to select the type of service or maintenance being performed.
-- `schedule_time` and `schedule_time2` fields are likely used to store the time scheduled for the maintenance task.
-- `notes` and `notes2` fields are used to collect any additional notes or comments about the task.
-- `email` and `email2` fields might be used to store contact information for personnel or contacts related to the maintenance task.
-- `phone` and `phone2` fields could be used to store phone numbers for contact information.
-- `signature1` and `signature2` fields are likely used for signing off on the maintenance task.
-- `confirm` field is used to confirm that the form has been filled out correctly.
-
-It seems like the form is well-structured and doesn't have any duplicate information. I'll proceed with creating the help guide now.</thinking>
-
 # Preventive Maintenance Scheduling Form - Help Guide
 ## Purpose
 The Preventive Maintenance Scheduling Form is used to schedule and plan preventive maintenance tasks for vehicles or equipment at a station location. This form is filled out by maintenance personnel to collect all necessary information for coordinating and performing maintenance tasks efficiently.

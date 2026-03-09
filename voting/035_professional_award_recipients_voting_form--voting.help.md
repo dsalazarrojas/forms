@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from individuals who have been nominated for a professional award. The form asks for personal details, opinions, and statements to facilitate the voting process. To avoid duplication, users who have already submitted their vote will be checked against a database. Please ensure that you have not already submitted your vote before filling out this form.
-
-</thinking>
-
 # Professional Award Recipients Voting Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from individuals who have been nominated for a professional award. It helps to evaluate the nominee's performance and gather supporting statements. Your input will contribute to the decision-making process, and we appreciate your participation.

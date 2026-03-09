@@ -1,10 +1,3 @@
-<thinking>
-To confirm, this form is intended to collect feedback from users on a design project, and it is crucial that we ensure users understand its purpose and know how to complete it accurately to avoid duplicate feedback and maintain a cohesive project feedback repository. 
-The form consists of several fields, each with a specific purpose. This guide will help users understand each field's meaning and how to fill it out effectively.
-The overall purpose of this form is to allow users to provide feedback on a specific project, providing valuable insights for improvement and future projects.
-The form should not be used for other purposes, and users should not submit duplicate feedback.
-</thinking>
-
 # Design Project Feedback Form - Help Guide
 ## Purpose
 The Design Project Feedback Form is a crucial tool for collecting feedback from users on a specific project. By providing feedback, users can help improve the project, and we appreciate your input. This guide will help you complete the form accurately and effectively.

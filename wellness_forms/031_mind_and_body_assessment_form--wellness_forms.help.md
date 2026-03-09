@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's physical and mental well-being, as well as their medical history and current health status. The form is intended to be completed by individuals seeking health services or assessments. It is not affiliated with, endorsed by, or derived from any form creation or survey platform. This form was created using publicly available metadata and is released under the Creative Commons Attribution 4.0 license, allowing free use, modification, and distribution. If you are using this form, please provide credit to the original creators.
-</thinking>
-
 # Mind And Body Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect information about your physical and mental health, medical history, and current health status. Please answer all questions to the best of your ability.

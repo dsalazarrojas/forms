@@ -1,13 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Car Of The Year Voting" form. The form is designed to gather information from users about their opinions and preferences regarding various vehicles in different categories. This form is meant to be a fun and engaging way for users to share their thoughts and help decide which vehicles are the best of the year. However, we need to ensure that the form is user-friendly and easy to understand.
-
-Before we start, let's review the form's purpose and structure. The form is divided into several sections, including Voter Information, Vehicle Categories, and Voting Preferences. The form asks users to select their top choice from a list of vehicles in each category, as well as provide additional information about their preferences and opinions.
-
-To avoid duplication, we will not include any fields that are not relevant to the form's purpose. We will also make sure to use clear and concise language in the field labels and hints to help users understand what is expected of them.
-
-Now, let's create the help guide.
-</thinking>
-
 # Car Of The Year Voting - Help Guide
 ## Purpose
 The "Car Of The Year Voting" form is designed to gather information from users about their opinions and preferences regarding various vehicles in different categories. This form will help decide which vehicles are the best of the year and provide valuable insights to car manufacturers and enthusiasts.

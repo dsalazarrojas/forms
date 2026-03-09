@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a new website design project. The purpose of this form is to gather essential details about the project's specifics and the client's requirements. This form is meant to be completed by clients or users who are seeking a website design service. It is essential to fill out this form accurately and completely to ensure that the designers can provide the desired outcome. Please note that filling out this form is not a commitment to proceed with the project.
-</thinking>
-
 # Website Design Order Form - Help Guide
 ## Purpose
 This form is used to collect information about a new website design project, including project specifics, budget, estimated turnaround time, theme, and contact email.

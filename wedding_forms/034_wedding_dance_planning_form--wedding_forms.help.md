@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for wedding planning purposes, specifically for the wedding dance planning process. The form is intended to help wedding planners and organizers gather all necessary details about the wedding date, time, location, theme, music, floor plan, and other related aspects. This form should not be used for any other purpose, such as general event planning. Ensure that the information provided is accurate and relevant to the specific wedding event.
-
-</thinking>
-
 # Wedding Dance Planning Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information for wedding planning, particularly for the dance planning process. It includes questions on the wedding date, time, location, theme, music, and floor plan to ensure a smooth and enjoyable wedding celebration.

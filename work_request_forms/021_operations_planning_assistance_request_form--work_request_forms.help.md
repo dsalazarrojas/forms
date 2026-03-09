@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to provide operations planning assistance requests. It's intended for individuals to request assistance from operations teams. This form aims to ensure accurate and prompt handling of requests, minimizing the need for follow-up questions and phone calls. Before submitting a request, please verify that your request is not a duplicate, and make sure you have all necessary information ready.
-
-To confirm that your request is not a duplicate, please check the operations planning assistance request history for similar requests that you or your team may have made. Ensure you have the necessary details and information required to complete this form accurately and thoroughly.
-
-Please note that some fields are marked as 'required', indicating they are essential for processing your request. Please ensure you provide complete and accurate information in these fields to enable efficient handling of your request.
-
-</thinking>
-
 # Operations Planning Assistance Request Form - Help Guide
 ## Purpose
 This form is designed to provide operations planning assistance requests. It's intended for individuals to request assistance from operations teams.

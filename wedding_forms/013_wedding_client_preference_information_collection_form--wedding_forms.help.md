@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and structure of the Wedding Client Preference Information Collection Form. Upon reviewing the provided YAML, it appears that the form is designed to collect information from clients about their upcoming wedding event. The form likely serves as a template for gathering preferences and details related to the event, such as the couple's names, contact information, event date, location, and vendor requirements. Before proceeding, please ensure that you have reviewed the internal requirements and guidelines related to this form to avoid duplication of effort. 
-
-</thinking>
-
 # Wedding Client Preference Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from clients about their wedding event, including couple details, event specifics, and vendor requirements.

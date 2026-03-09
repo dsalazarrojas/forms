@@ -1,7 +1,3 @@
-<thinking>
-The form is used for booking office desks for a given period of time, allowing users to select their desired desk and specify the date and time of the booking. Users can also provide additional information such as contact details and the assigned user. This form is not intended for booking of desks for the same date or for booking of a desk that's already assigned. It is recommended to check the form before submission to ensure that all required fields are filled.
-</thinking>
-
 # Office Desk Booking Form - Help Guide
 ## Purpose
 This form is designed to enable users to book office desks for a given period of time. It allows users to select their desired desk, specify the booking date and time, and provide additional information such as contact details and assigned user.

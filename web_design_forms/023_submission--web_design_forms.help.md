@@ -1,17 +1,3 @@
-<thinking>
-# This form is designed to collect user-generated content, specifically
-# for websites that offer submission features. It has four fields:
-# * "Submit Your Website": a text field where users can enter a
-# website URL or title
-# * "Website": another text field for users to enter a brief
-# description of their website
-# * "Description": a text field where users can provide more
-# information about their website
-# * "Advertising Type": a select-one field with three options
-# indicating the type of advertising used
-
-</thinking>
-
 # Submission - Help Guide
 ## Purpose
 This form is designed to collect user-generated content, specifically for websites that offer submission features. It allows users to submit information about their websites, including a brief description and the type of advertising used.

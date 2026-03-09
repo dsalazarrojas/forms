@@ -1,5 +1,3 @@
-<thinking>... This form is designed to collect data on users' health and wellness, including demographic information, lifestyle habits, and medical conditions. It is intended for individuals who have been referred to for wellness-related services or consultations. The form should only be completed once, as it is a one-time assessment tool. Please ensure that all required fields are filled in accurately. If any fields are not relevant to you, simply mark "No" or select "None" to indicate that they do not apply to you. Please answer all questions truthfully and accurately... </thinking>
-
 # wellness_survey - Help Guide
 ## Purpose
 The Wellness Survey is a form designed to collect demographic information, lifestyle habits, and medical conditions to assess an individual's overall wellness.

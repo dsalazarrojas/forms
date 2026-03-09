@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 To create a user-facing help guide for this form, we'll follow the provided structure and explain each field in a concise and practical way.
 
 # executive_officer_nomination_form - Help Guide

@@ -1,11 +1,3 @@
-<thinking>**Internal reasoning block:**
-
-This form is designed to be a template for nominating members to the executive board and committee positions within an organization. The form should be used to gather information about the nominated individuals, including their name, committee selection, executive board selection, nomination date and time, and other relevant details.
-
-Before proceeding, please ensure that you are familiar with the organization's nomination process and that you have the necessary approvals and permissions to nominate individuals. It is also crucial to review the form carefully to ensure that you understand each field's purpose and requirements.
-
-This guide will walk you through each field of the form, explaining what each one is for and how to complete it correctly.</thinking>
-
 # Executive Board And Committee Nomination Form Template - Help Guide
 ## Purpose
 

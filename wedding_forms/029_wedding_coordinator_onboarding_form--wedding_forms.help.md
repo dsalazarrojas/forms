@@ -1,7 +1,3 @@
-<thinking>
-To confirm that the form is properly configured for the intended use case, we'll first check that the form purpose is aligned with the wedding industry and onboarding process. This form appears to be designed for wedding coordinators to gather information from clients about their preferences, budget, and contact details. We'll review the fields to ensure they are relevant and not duplicated.
-</thinking>
-
 # Wedding Coordinator Onboarding Form - Help Guide
 ## Purpose
 This form is designed to help wedding coordinators gather essential information from clients about their wedding preferences, budget, and contact details. By filling out this form, clients can communicate their needs and expectations to the wedding coordinator, making it easier to tailor services and provide a personalized experience.

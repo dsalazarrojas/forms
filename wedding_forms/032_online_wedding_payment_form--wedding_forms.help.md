@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information for online payment processing, primarily for wedding services or related expenses. It's essential to ensure that all required fields are filled correctly to complete the payment process. The form collects information about the client, service details, service price, payment method, payment amount, payment status, payment date, and any additional notes. To ensure accuracy and completion, please follow the instructions carefully.
 
 

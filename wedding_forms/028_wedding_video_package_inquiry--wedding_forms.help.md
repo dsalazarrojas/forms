@@ -1,9 +1,3 @@
-<thinking>
-The form is used to gather information from customers or potential customers who are interested in purchasing a wedding video package from the company. The form is designed to be simple and easy to fill out, while still capturing the necessary details to provide a quote and potentially move forward with the sale.
-The form should only be filled out by those who have seen or heard about the company's services and are interested in purchasing a wedding video package. It's not meant for general inquiries or spam submissions.
-The form has several fields that need to be filled out, which will be explained below.
-</thinking>
-
 # Wedding Video Package Inquiry - Help Guide
 ## Purpose
 The purpose of this form is to inquire about purchasing a wedding video package from our company.

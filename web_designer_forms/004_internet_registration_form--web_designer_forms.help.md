@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information from users about their internet registration details. The purpose of this form is to gather necessary information for the registration process, ensuring that the user's internet service is properly set up and configured. It's essential to fill out this form accurately, as any errors or omissions may lead to delays or complications in the registration process.
-
-Before starting, please note that this form has 10 pages, but only 9 fields that need to be filled out. Each field has a specific purpose, and it's crucial to fill them out correctly. This guide will walk you through each field, helping you complete the form smoothly and effectively.
-
-If you've already filled out this form or have identical information to submit, please do not recomplete the form. This will save time and resources for our internal teams.
-</thinking>
-
 # Internet Registration Form - Help Guide
 ## Purpose
 

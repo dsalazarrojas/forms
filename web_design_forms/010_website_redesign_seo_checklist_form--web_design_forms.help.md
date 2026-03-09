@@ -1,7 +1,3 @@
-<thinking>
-This form will be used to guide the website redesign process from an SEO perspective, helping to identify potential issues and areas of improvement. The form will help users assess the current state of the website and provide a comprehensive checklist for the redesign.
-</thinking>
-
 # Website Redesign SEO Checklist Form - Help Guide
 ## Purpose
 The Website Redesign SEO Checklist Form is a tool designed to help identify and prioritize areas for improvement in the website redesign process, focusing on Search Engine Optimization (SEO) best practices. This guide will walk you through the form's purpose, completion process, and explain each field in detail.

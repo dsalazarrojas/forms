@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help individuals declare their mental wellness status, identify potential symptoms, feelings, and areas of concern. It's crucial to fill out this form accurately to ensure that mental health professionals can provide the best support and guidance. Please fill out this form only if it's relevant to your mental wellness journey. If you've filled out this form before, it may be a good idea to review and update your information to ensure it reflects your current mental state.
-</thinking>
-
 # mental wellness declaration form - Help Guide
 ## Purpose
 The Mental Wellness Declaration Form is a tool designed to help individuals assess their mental wellness status, identify potential symptoms, and seek support.

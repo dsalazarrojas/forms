@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to help you manage wedding vendors by gathering important information about them. The main purpose of this form is to collect contact information, rates, and status details about each vendor. This form appears to be used by wedding planners or coordinators to keep track of their vendors. The form fields are designed to be straightforward and easy to understand.
-
-Before you start, make sure you have all the necessary information about your wedding vendors. The form should not be used for duplicate entries or for vendors that are not relevant to your wedding planning.
-
-Please note that some fields may require additional information or clarification, but all fields are designed to be optional and can be filled in based on your needs.
-
-</thinking>
-
 # Wedding Vendor Checklist - Help Guide
 ## Purpose
 The Wedding Vendor Checklist form is designed to help wedding planners and coordinators track and manage information about their wedding vendors. This includes contact details, rates, and status updates.

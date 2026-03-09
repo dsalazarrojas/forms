@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to estimate the cost of a website project. The form is used for internal purposes, and its primary goal is to provide a way to gather data from potential clients or internal teams to better understand the project scope and complexity. To ensure that the form is filled out correctly, it's essential to have a clear understanding of each field's purpose and how to complete it. 
-</thinking>
-
 # Website Estimate Form - Help Guide
 ## Purpose
 The Website Estimate Form is used to gather information about potential website projects. This form helps our internal teams understand the project scope, complexity, and requirements. It's a crucial tool to provide accurate estimates for clients and internal teams.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for end-users who need to complete the "Wedding Party Styling Appointment Form" for planning and coordination purposes. This form is a crucial part of the wedding party planning process, collecting information about the party's styling needs and contact details to ensure a smooth and stress-free celebration. The form is designed to be easy to use and provides clear guidelines on what to input in each field. To ensure accuracy and consistency, it is essential to review this guide carefully before starting the form.
-</thinking>
-
 # Wedding Party Styling Appointment Form - Help Guide
 ## Purpose
 The Wedding Party Styling Appointment Form is used to gather information about the party's styling needs and contact details for wedding party planning and coordination.

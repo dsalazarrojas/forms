@@ -1,10 +1,3 @@
-<thinking>
-This form is for users to vote on their favorite easter table decoration themes, colors, and dates/time for Easter celebrations.
-The form will help users to provide input on what they would like to see as Easter table decorations.
-This form will not collect any personal identifiable information or sensitive data.
-It is designed for public use.
-</thinking>
-
 # easter-table-decor-voting-form - Help Guide
 ## Purpose
 This form is designed to collect input from users on their favorite Easter table decoration themes, colors, and dates/time for Easter celebrations.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for users to participate in a strike vote, where users can choose to vote "Yes" or "No" to a series of proposed actions or policies. The form also collects additional information from users, including their affiliation, feedback, proposed actions, participation duration, contact email, and the time and date they voted.
-The form is meant to be a simple and straightforward way to collect data from users, with a focus on understanding their stance on various proposed actions and their participation in the strike. The form's structure and fields are designed to be easy to understand and complete, with clear labels and options.
-The form is likely to be used by stakeholders, such as union representatives, organizers, or administrators, to collect data from strike participants and understand their opinions and experiences.
-</thinking>
-
 # Strike Vote Participation Form - Help Guide
 ## Purpose
 This form is designed to collect data from strike participants and understand their opinions on proposed actions and their experience with the strike.

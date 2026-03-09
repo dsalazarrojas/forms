@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users requesting reprogramming of a robotics arm. The form will be used by internal teams to assess and fulfill these requests. Please ensure that you have the necessary permissions and approvals before submitting this form. If you have already submitted a similar request, please do not re-submit it. Your form submissions will be reviewed and processed in the order they are received.
-</thinking>
-
 # Robotics Arm Reprogramming Request Form - Help Guide
 ## Purpose
 This form is used to request reprogramming of a robotics arm. Submissions will be reviewed and processed in the order they are received.

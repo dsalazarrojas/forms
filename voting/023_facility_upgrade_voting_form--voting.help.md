@@ -1,7 +1,3 @@
-<thinking>
-The facility upgrade voting form is used to gather input from staff regarding the upgrade of facilities. The form is meant to be completed by staff members to provide their opinion on which facilities to prioritize for upgrades. This form is likely used to inform decisions on how to allocate resources for facility upgrades and ensure that upgrades are completed based on staff feedback and opinions. To complete this form, staff members will be asked to provide feedback on which facilities need upgrades and which ones they don't. Each facility will have a specific section where staff can choose which priorities they believe is most important. This form will be completed on the web or on a mobile device.
-</thinking>
-
 # Facility Upgrade Voting Form - Help Guide
 ## Purpose
 The facility upgrade voting form is used to gather input from staff regarding facility upgrades. This form helps the management team make informed decisions on which facilities to prioritize for upgrades.

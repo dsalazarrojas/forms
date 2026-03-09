@@ -1,7 +1,3 @@
-<thinking>
-This waiver and release of liability form is a crucial document that helps to minimize the risk of potential legal issues arising from an event or activity. It's a formal agreement between the participant and the organizer that releases the participant from any liability in case of injuries or damages. This form is often required for events, activities, or programs that involve a degree of risk, such as sports events, camping trips, or outdoor adventures.
-</thinking>
-
 # Waiver And Release Of Liability Form - Help Guide
 ## Purpose
 This form is designed to gather information from participants and obtain their waiver and release of liability for a specific event or activity. It's essential to fill out this form accurately and honestly to ensure your safety and the organizer's liability protection.

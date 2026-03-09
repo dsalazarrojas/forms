@@ -1,8 +1,3 @@
-<thinking> 
-I am assuming that the form "Personal Health Tracker" is a form designed to track various health metrics, activities, and moods of an individual over time. The form appears to be a simple, text-based form with multiple pages, each page having different fields. I will create a help guide that explains the purpose and usage of the form in a clear and concise manner.
-
-</thinking>
-
 # Personal Health Tracker - Help Guide
 ## Purpose
 The Personal Health Tracker form is designed to collect user's health information, activity, sleep, and mood data over time. This form helps users keep track of their health metrics, activities, and moods and can be used for personal health monitoring and analysis.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect sign-up information for users who want to participate in the Battle of the Five Armies game inspired by J.R.R. Tolkien's work "The Hobbit". This form aims to gather data from users interested in exploring Middle-earth, fighting orcs, and other creatures of the fantasy world.
-
-It's essential to ensure this form is not used to collect duplicate or irrelevant information from users. Please make sure you have the necessary permissions and consents before sharing this form with your audience.
-
-</thinking>
-
 # the_hobbit_the_battle_of_the_five_armies_signup_form - Help Guide
 ## Purpose
 

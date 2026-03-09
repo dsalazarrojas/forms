@@ -1,7 +1,3 @@
-<thinking>
-To determine the best course of action for this form, I need to understand its purpose and relevance. The form appears to be designed for collecting information related to events or sessions, possibly for wellness or health-related purposes. Each field seems to collect a specific piece of information, such as report dates, contact details, event IDs, session times, and time zones.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect information related to events or sessions, which can be used for wellness or health-related purposes.

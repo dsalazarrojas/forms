@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Senior Superlatives Form - Help Guide
 ## Purpose
 The Senior Superlatives form is designed to collect feedback, preferences, and information about senior individuals who have mentored or guided students. This form is intended for individuals who have had positive interactions with a senior and want to acknowledge their contributions. It helps to provide valuable insights and recommendations to the Senior Superlatives, which can be used for future mentorship programs and recognition.

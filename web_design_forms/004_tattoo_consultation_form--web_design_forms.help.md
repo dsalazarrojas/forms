@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tattoo Consultation Form - Help Guide
 
 ## Purpose

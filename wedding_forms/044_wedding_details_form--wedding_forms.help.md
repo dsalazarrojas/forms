@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Details Form - Help Guide
 ## Purpose
 This form is designed to collect essential details about a wedding, including the bride and groom's names, wedding date and time, location, attire, and other important aspects. The form is intended to provide a comprehensive overview of the wedding event.

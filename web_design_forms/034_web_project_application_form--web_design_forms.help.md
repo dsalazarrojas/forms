@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect information about a web project, including its name, description, contact information, project deadline, budget, and status. This form is likely used by project managers or administrators to gather data on ongoing or completed projects.
-
-The main purpose of this form is to ensure that all the necessary details about a project are accurately recorded and up-to-date. It's designed to be used by various stakeholders, including project managers, administrators, and possibly even clients.
-
-Before proceeding, it would be beneficial to review the form for completeness and correctness, especially in cases where projects are being reassessed or audited. Ensure that all relevant details are included, and if any fields are missing, make adjustments accordingly.
-
-</thinking>
-
 # web_project_application_form - Help Guide
 ## Purpose
 This form is used to collect information about a web project, including its name, description, contact information, project deadline, budget, and status.

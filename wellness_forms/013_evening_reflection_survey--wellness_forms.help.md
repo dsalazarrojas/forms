@@ -1,5 +1,3 @@
-<thinking>As the form is part of a wellness program, its primary purpose is to help users reflect on their daily experiences, mood, and stress levels. This form serves as a tool for individuals to identify patterns and gain insights into their emotional well-being. By providing a structured format for reflection, the form aims to facilitate self-awareness and potentially inform personal growth. Note that this form is not intended to be a clinical assessment, but rather a personal exercise for users to better understand themselves. Please ensure that you are not using this form as a substitute for professional mental health advice or treatment. If you have concerns about your mental health, please consult a qualified professional.</thinking>
-
 # Evening Reflection Survey - Help Guide
 ## Purpose
 

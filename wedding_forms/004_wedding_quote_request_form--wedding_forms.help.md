@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended to provide clear and concise instructions on how to complete the "Wedding Quote Request Form" effectively. The form is designed to gather information from users about their wedding date, ceremony venue, number of guests, budget, preferred vendors, vendor contact information, and vendor quote details. This guide will walk users through each page of the form, explaining the purpose and requirements of each field, ensuring they understand what the form is asking for and how to provide accurate and relevant information.
-
-</thinking>
-
 # Wedding Quote Request Form - Help Guide
 
 ## Purpose

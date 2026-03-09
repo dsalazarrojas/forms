@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect votes from employees for the Home Office Innovation Award, which aims to recognize and reward outstanding innovation within the organization. The form will be used to submit a vote for the innovation award, and the results will be tallied to determine the winner. To ensure that each user's vote is counted accurately, please make sure to fill out the form completely and accurately.
-Before filling out this form, please check that you have already submitted a vote for the same innovation award in the past 30 days. If you have, you will not be able to submit another vote until the 30-day period has passed.
-</thinking>
-
 # Home Office Innovation Award Voting - Help Guide
 ## Purpose
 The Home Office Innovation Award is a recognition program that celebrates innovative ideas and projects that have positively impacted the work and lives of our team members. This form allows you to cast your vote for the innovation award, which will help us identify and recognize the best ideas and projects.

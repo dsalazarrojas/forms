@@ -1,8 +1,3 @@
-<thinking>
-This guide assumes you will be handling images and files for the purpose of upload. You may want to consider implementing validation to check if file types match those specified in the form or if file sizes fit within acceptable constraints.
-Ensure this form is not used for any other purpose as it is designed to only handle images and files in the formats listed in the 'File type' field.
-</thinking>
-
 # wc_file_upload_form - Help Guide
 ## Purpose
 The WC File Upload Form is a tool for uploading images and files, providing a structured way to collect essential metadata along with the uploaded content.

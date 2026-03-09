@@ -1,6 +1,3 @@
-<thinking>
-This form is likely part of an approval workflow for printing documents or materials for a customer. This form is used to gather information about the customer's identity (name, email, and phone number), their invitation status, and approval status from the customer. The customer's consent is also verified to ensure that they are aware of and agree with the printing of their documents. This form's primary purpose is to ensure that the printing process is carried out with the customer's consent and approval, maintaining transparency and accountability. This form is likely used in a business setting where printing and distribution of sensitive documents are involved. Ensure that the form is completed accurately and thoroughly to avoid any errors or issues with the printing process.</thinking>
-
 # Print Approval Form - Help Guide
 ## Purpose
 The Print Approval Form is used to gather necessary information from customers before printing documents on their behalf. This form is essential for ensuring that the customer's identity, invitation status, and approval status are accurately recorded, and that they have given their consent for the printing process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge the user's overall satisfaction with a website's design and functionality. Its purpose is to gather user feedback, identify areas of improvement, and measure user experience. This form consists of 5 pages, each with its own set of questions or fields. The user's input will help the website owner to understand how users perceive their site. The questions in this form are designed to be simple and straightforward, with the goal of collecting actionable feedback. It's likely that this form will be used for both internal and external purposes, such as website development, design, and user experience (UX) improvement.
-</thinking>
-
 # Rate My Website Form - Help Guide
 ## Purpose
 This form is designed to gather user feedback and improve the website's design and functionality.

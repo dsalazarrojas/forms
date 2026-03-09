@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about the wedding day details. It seems that the form is intended for a wedding planning or management process, likely for a wedding coordinator or event planner.
-The form is composed of multiple pages, each with its own set of questions or fields. The fields are a mix of text, date, time, and select options. Some fields are required, while others are optional.
-Before completing this form, ensure that you have all the necessary information ready. This form is not designed to be filled out multiple times; each submission is intended to capture the details of a single wedding day.
-</thinking>
-
 # Wedding Day Questionnaire RHWC Updated - Help Guide
 ## Purpose
 This form is designed to collect information about the wedding day details. It is intended for wedding coordinators and planners to gather necessary information for wedding planning and management.

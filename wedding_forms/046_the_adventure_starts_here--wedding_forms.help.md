@@ -1,13 +1,3 @@
-<thinking>
-This form appears to be a comprehensive wedding form for a photographer to gather information about a client's wedding details, including contact information, contract terms, and payment information. The form is likely used to create and manage wedding contracts. To ensure that this form is correctly filled out, the client should first review the purpose of the form and understand what information is required. 
-
-The fields are organized in a logical order, starting with general information about the wedding form data and photographer's contact information. The form then moves on to specific details such as contract start and end dates, contract duration, and photography services offered. The client is also asked to confirm their payment method and photo delivery method, as well as provide special instructions and location details. 
-
-The form also requires a contract signature, which implies that this form may be used for digital signatures or in-person signatures. The contract status and total cost are also required fields, which will help track the progress of the contract.
-
-The fields appear to be well-organized and logically structured, which should make it easier for the client to fill out the form correctly.
-</thinking>
-
 # the-adventure-starts-here-wedding-forms - Help Guide
 ## Purpose
 This form is for gathering information about a client's wedding details. The form is used to create and manage wedding contracts for a photographer.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for guests who will be attending the wedding showcase afterparty. It will allow users to provide their name, RSVP status, and other relevant details to help the event organizers manage the guest list and arrangements. To prevent duplication of RSVPs, we will check for existing RSVPs before allowing new submissions.
-</thinking>
-
 # Wedding Showcase Afterparty RSVP Form - Help Guide
 
 ## Purpose

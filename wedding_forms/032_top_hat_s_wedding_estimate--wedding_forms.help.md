@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for a wedding estimate. The purpose of this form is to collect details about a wedding, including the date, venue, start and end times, number of guests, budget, and estimate total. The form is likely used by wedding planners or coordinators to gather information from couples getting married.
-</thinking>
-
 # Top Hats Wedding Estimate - Help Guide
 ## Purpose
 This form is designed to collect information for a wedding estimate. The goal is to gather details about the wedding, including the date, venue, start and end times, number of guests, budget, and estimate total. This information will be used to provide a comprehensive estimate for the wedding planning and coordination process.

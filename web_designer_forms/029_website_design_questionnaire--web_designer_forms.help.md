@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from website designers or developers about their design preferences, project details, and client requirements. The form is intended for internal use and is not affiliated with any specific platform or service. The form was created using AI-powered tools and is based on public metadata from online surveys. The form's purpose is to facilitate communication and collaboration between website designers, developers, and clients.
-</thinking>
 # Website Design Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from website designers or developers about their design preferences, project details, and client requirements.

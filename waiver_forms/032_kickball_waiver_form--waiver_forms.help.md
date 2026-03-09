@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather essential information from players who wish to participate in the Kickball league. This form serves as a waiver, ensuring that participants are aware of and agree to the rules and protocols of the league. The form is designed to collect contact information, waiver type, and consent for participation.
 
 # Kickball Waiver Form - Help Guide

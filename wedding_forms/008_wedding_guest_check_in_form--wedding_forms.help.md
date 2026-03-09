@@ -1,9 +1,3 @@
-<thinking>
-The Wedding Guest Check In Form is designed to collect information from wedding guests about their arrival time, number of guests, special requests, and other relevant details. This form helps the hosts to better plan and prepare for the wedding party. It's essential to fill out this form accurately to ensure a smooth and enjoyable experience for all guests. Please note that some fields are required to ensure that the hosts can provide the necessary accommodations and services for each guest.
-
-Before filling out this form, please ensure that you have the necessary information and permissions to provide accurate answers. For example, if you have a plus one, please select 'Yes' for the 'Is Plus One?' field and provide the name and details of your guest. If you have any special requests or needs, please use the 'Special Requests' field to provide detailed information.
-</thinking>
-
 # Wedding Guest Check In Form - Help Guide
 ## Purpose
 

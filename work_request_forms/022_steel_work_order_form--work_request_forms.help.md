@@ -1,7 +1,3 @@
-<thinking>
-This form is a work request form designed for customers to submit their steel work orders. Before proceeding, please verify that you are submitting a new work order and that the information is up-to-date. Ensure that your client ID, work order type, and material type are accurate to avoid duplicating existing orders.
-</thinking>
-
 # Steel Work Order Form - Help Guide
 ## Purpose
 The Steel Work Order Form is a digital submission tool used by customers to place new steel work orders. This form helps the customer provide essential information about their request, including client details, work order type, material type, quantity, unit price, and any additional notes.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for collecting intake information from clients for web design projects, specifically to gather data about the project's requirements, timeline, and communication channels. 
-
-Please ensure that you only submit this form once per project. If you've already submitted a project intake form, please do not submit another one. 
-
-</thinking>
-
 # Dental Website Development Intake Form - Help Guide
 ## Purpose
 This form is used to collect information from clients for web design projects, helping us understand their requirements, timeline, and communication preferences.

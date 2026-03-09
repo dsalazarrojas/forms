@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to gather information about the honeymoon travel plans of a couple. It is essential to provide accurate and complete data to ensure that the travel agency can tailor the perfect trip for the couple. Please ensure that you have reviewed the form thoroughly and provided all necessary information to avoid any confusion or miscommunication. The form is designed to be completed by the couple themselves, but it may also be used by travel agents or wedding coordinators to gather information from the couple. The purpose of this form is to collect the following information:
-- Destination
-- Date of Departure
-- Date of Return
-- Travel Type (e.g., romantic getaway, adventure trip, etc.)
-- Number of People
-- Accommodations (e.g., hotel, resort, etc.)
-- Transportation (e.g., flight, car rental, etc.)
-- Activities (e.g., sightseeing, adventure activities, etc.)
-- Additional Comments
-- Contact Information (email and phone number)
-
-Please make sure to review the form carefully and provide accurate information to ensure that the travel agency can plan the perfect trip for the couple. If you are unsure about any of the fields, please reach out to the travel agency for clarification.
-</thinking>
-
 # Honeymoon Travel Information Form - Help Guide
 ## Purpose
 This form is designed to gather information about the honeymoon travel plans of a couple, allowing the travel agency to tailor the perfect trip for them.

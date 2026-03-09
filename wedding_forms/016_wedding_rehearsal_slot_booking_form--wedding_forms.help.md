@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly, so I'll add a brief internal reasoning block to check if the form is being filled out correctly and to prevent duplication.
-This form will be used to book a wedding rehearsal slot, so we need to make sure that the bride's name, date of the wedding, start and end times, number of guests, contact name, and acceptance of terms are all correctly filled out. We also want to prevent the form from being filled out multiple times for the same date and time.
-</thinking>
-
 # wedding_rehearsal_slot_booking_form - Help Guide
 ## Purpose
 This form is used to book a wedding rehearsal slot. It requires the bride's name, date of the wedding, start and end times, number of guests, contact name, and acceptance of terms. Please fill out the form accurately and do not book a rehearsal slot multiple times for the same date and time.

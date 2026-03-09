@@ -1,9 +1,3 @@
-<thinking>
-The form is intended to gather contact information from clients, event details, and event preferences to help event planners understand the client's needs and requirements. This information will be used to tailor services and provide quotes accordingly. The form ensures that the client provides all necessary details, such as event type, date, budget, and dietary restrictions, to enable the planner to deliver accurate and relevant services. The form also captures any additional information or messages the client wishes to convey to the event planner.
-
-Before starting to fill out this form, please check if you have already submitted an event plan request through this form. If you have, you can skip this form and directly contact the event planner for further assistance. 
-</thinking>
-
 # Contact Form Weddings, Events, Socials - Help Guide
 ## Purpose
 The purpose of this form is to collect information from clients about their event needs and preferences to assist event planners in providing suitable services.

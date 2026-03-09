@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to obtain a personal trainer's consent and media release from clients before they start training sessions. This form ensures that clients are aware of the risks associated with exercise and physical activity, and that they agree to be photographed or recorded during their sessions. Additionally, it captures essential information about the client's medical history, emergency contacts, and contact details. This form is typically used by personal trainers to ensure they have the necessary information and consent to provide safe and effective training sessions.
-
-</thinking>
-
 # Personal Trainer Injury Waiver And Media Consent Form - Help Guide
 ## Purpose
 This form is used to obtain a personal trainer's consent and media release from clients before they start training sessions.

@@ -1,11 +1,3 @@
-<thinking>
-
-To create a help guide for the "get a quote web design" form, I'll first explain the purpose and internal reasoning.
-
-This form is used to collect information from users seeking a quote for web design services. It's a crucial step in providing a quote for the project. The form is likely used by business owners or project managers who need a quote for their web design projects. The form should only be filled out once to avoid duplication of work.
-
-</thinking>
-
 # get a quote web design - Help Guide
 ## Purpose
 The "get a quote web design" form is used to collect necessary details from users to provide an accurate quote for their web design project.

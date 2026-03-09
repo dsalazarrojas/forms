@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a website's order, specifically for businesses. This form is designed to capture essential details about the website's domain, business name, and type, as well as any other relevant information that may be needed to process the order.
-The form is not intended to be a comprehensive survey or a complex data collection tool, but rather a simple and straightforward way to gather the necessary information.
-Before proceeding, ensure that this form is relevant and suitable for your needs. If you're unsure, please review the form's purpose and content carefully.
-</thinking>
-
 # website_order_form - Help Guide
 ## Purpose
 The website_order_form is designed to collect information about a website's order, specifically for businesses.

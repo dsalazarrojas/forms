@@ -1,7 +1,3 @@
-<thinking>Since the form is for "vibrational sound therapy", the purpose of this form is to collect information about the therapy sessions and the clients. It seems to be a form used in the context of health and wellness, possibly for documenting sessions, managing appointments, or tracking client data. I will make sure to create a clear and concise help guide for this form.
-
-</thinking>
-
 # vibrational_sound_therapy_form - Help Guide
 ## Purpose
 The Vibrational Sound Therapy Form is used to collect information about therapy sessions, including client information, session dates, time, and other relevant details.

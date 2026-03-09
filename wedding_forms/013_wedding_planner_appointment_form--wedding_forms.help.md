@@ -1,11 +1,3 @@
-<thinking>
-The Wedding Planner Appointment Form is designed to collect information about a wedding appointment. 
-It is intended for use by wedding planners or couples seeking to schedule an appointment with a wedding planner to discuss their wedding plans. 
-This form is not intended for general public use, rather for internal use within the wedding planning industry or within a specific wedding planning organization. 
-The form does not require any specific input, making it easy to fill out for couples or wedding planners. 
-This form is not to be used for any other purpose than as a wedding appointment scheduler.
-</thinking>
-
 # Wedding Planner Appointment Form - Help Guide
 
 ## Purpose

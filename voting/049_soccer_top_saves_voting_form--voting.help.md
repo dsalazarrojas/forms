@@ -1,7 +1,3 @@
-<thinking>
-The form appears to be a voting form for selecting the best saves in soccer matches, with multiple pages of options for the best saves in different rounds or games. The form asks users to provide their opinion on the best saves, the team they belong to, and optional additional information such as player name, date, time, and contact details. The form is likely used for collecting votes and opinions from soccer fans or enthusiasts.
-</thinking>
-
 # Soccer Top Saves Voting Form - Help Guide
 ## Purpose
 The Soccer Top Saves Voting Form is designed to collect opinions on the best saves in soccer matches. Users can choose their top saves from multiple categories, providing an opportunity to rank the best saves in each round or game.

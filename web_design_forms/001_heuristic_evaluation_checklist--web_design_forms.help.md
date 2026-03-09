@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to assist users in evaluating the effectiveness and usability of a web application or interface. It appears to be a comprehensive evaluation tool with various questions that cover different aspects of the interface, including clarity, layout, content, language, ease of use, and support. This form may be used by UX designers, developers, or project managers to identify areas for improvement in a website, web application, or interface. Upon reviewing the form, it seems to be a mix of subjective and objective questions, with some fields asking for multiple choice answers and others for open-ended responses. To ensure that this form is effectively used, it's essential to provide clear guidance on how to complete it and what each field means.</thinking>
-
 # Heuristic Evaluation Checklist - Help Guide
 ## Purpose
 The Heuristic Evaluation Checklist is a tool designed to help you evaluate the effectiveness and usability of a web application or interface. It's a comprehensive checklist that covers various aspects of the interface, including clarity, layout, content, language, ease of use, and support.

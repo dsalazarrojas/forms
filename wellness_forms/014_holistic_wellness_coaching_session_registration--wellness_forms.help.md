@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to register a new session for holistic wellness coaching. This form is likely used in a setting where individuals or organizations need to schedule and manage sessions with coaches or wellness professionals. The form collects relevant information about the session, such as the date, time, duration, location, and notes. This form may be used by administrative staff or users who need to coordinate and manage these sessions efficiently.
-
-To avoid duplication, this form should not be filled out for a session that is already registered or in progress.
-
-</thinking>
-
 # Holistic Wellness Coaching Session Registration - Help Guide
 ## Purpose
 The Holistic Wellness Coaching Session Registration form is used to schedule and manage sessions with coaches or wellness professionals.

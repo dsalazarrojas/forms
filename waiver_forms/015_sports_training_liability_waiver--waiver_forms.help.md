@@ -1,17 +1,3 @@
-<thinking>
-This form is for collecting information and liability details from a member participating in sports training activities. It's designed to ensure that both the member and the coach/trainer are aware of and agree to the terms of the activity, including any potential risks involved. 
-
-The form will help in preventing any future disputes or claims that might arise due to unforeseen circumstances.
-
-To avoid duplication, please ensure that each member's information is unique and not reused across multiple submissions. 
-
-This form is intended to be filled out by the member themselves or their parent/guardian in the presence of the coach/trainer. 
-
-Before submitting, please ensure that all required fields are filled out correctly and accurately. 
-
-The form is divided into sections for member information, emergency contact details, and coaching/training details. Each section is designed to collect relevant information for the specific purpose of the sports training activity.
-
-</thinking>
 # Sports Training Liability Waiver - Help Guide
 
 ## Purpose

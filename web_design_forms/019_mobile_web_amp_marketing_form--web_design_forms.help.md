@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is designed to provide users with a flexible and adaptable tool for collecting information about mobile web and marketing strategies. It is intended to be used for research, data collection, or as a template for creating custom forms. The form allows users to input various details such as form ID, category, description, and output file information. The purpose of this form is to gather data about mobile web and marketing forms, and the collected information can be used to create custom forms for different use cases.</thinking>
-
 # Mobile Web & Marketing Form - Help Guide
 ## Purpose
 This form is designed to collect information about mobile web and marketing forms. It is intended to be used for research, data collection, or as a template for creating custom forms.

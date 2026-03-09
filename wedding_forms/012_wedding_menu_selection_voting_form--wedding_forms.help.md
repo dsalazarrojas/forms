@@ -1,7 +1,3 @@
-<thinking>
-This form is used in the context of wedding events, likely for guests to RSVP, provide their meal preferences, and submit any personal messages or messages for the planner. The form has a structured layout with multiple pages, each containing a specific section to gather relevant information. The pages are numbered for ease of navigation. Upon completion, the form will be used to track guest attendance, meal preferences, and planner's messages. It's essential to ensure that each field is correctly filled out to provide accurate and helpful information for the event planner and guests.
-</thinking>
-
 # Wedding Menu Selection Voting Form - Help Guide
 ## Purpose
 This form is designed to gather information from guests attending a wedding event. It's essential to complete the form accurately to ensure a successful and enjoyable event.

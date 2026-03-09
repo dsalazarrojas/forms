@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wedding Survey Form Responsive - Help Guide
 
 ## Purpose

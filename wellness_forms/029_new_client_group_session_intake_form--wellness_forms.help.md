@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # new-client-group-session-intake-form - Help Guide
 
 ## Purpose

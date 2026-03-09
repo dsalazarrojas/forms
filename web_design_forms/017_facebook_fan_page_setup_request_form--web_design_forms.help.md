@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to help us set up a Facebook fan page for a company. The form is used to gather information about the company and project requirements for the setup process. It's essential to provide accurate and complete information to ensure a smooth setup process. Please make sure to answer all the questions carefully and accurately, as this will help us set up the Facebook fan page correctly. 
-
-Before starting the form, ensure that you have all the necessary information about the company and project. If you're not sure about any of the fields, please ask your project manager or team lead for guidance.
-
-</thinking>
-
 # Facebook Fan Page Setup Request Form - Help Guide
 ## Purpose
 The Facebook Fan Page Setup Request Form is a form used to gather information about your company and project requirements for setting up a Facebook fan page. This form will help us set up a well-structured and functional fan page that meets your specific needs.

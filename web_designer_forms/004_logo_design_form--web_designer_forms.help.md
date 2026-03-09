@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from clients who need a logo designed. The purpose of this form is to gather essential details about the client, their logo, and business information. This form will be used internally to ensure we have a clear understanding of the project requirements and to facilitate the design process. Please fill out this form carefully, and ensure that all required fields are completed to avoid delays in the design process.
-
-</thinking>
-
 # Logo Design Form - Help Guide
 ## Purpose
 The Logo Design Form is a collection of fields that gather information from clients about their logo design requirements. This information will be used to create a custom logo that meets their specific needs.

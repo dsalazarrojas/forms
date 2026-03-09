@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a wedding event. The form will be used to store details about the wedding planner, date and time, location, guest list, dietary restrictions, and food preferences. The form is not intended for public use, but rather for internal use by event coordinators and planners.
-
-</thinking>
-
 # Wedding Consultation Form - Help Guide
 ## Purpose
 

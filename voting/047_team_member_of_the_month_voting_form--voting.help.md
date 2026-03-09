@@ -1,5 +1,3 @@
-<thinking>As the form is used for voting, a team member who is recognized as an outstanding individual by their peers. This form likely aims to identify the team member who has demonstrated exceptional skills, work ethic, or teamwork, and deserves special recognition within the team. The form might also help in maintaining an open and transparent culture, encouraging team members to recognize each other's contributions and fostering a positive team environment. To ensure the form is used correctly and effectively, it's essential to review the submitted responses and avoid duplicate or repetitive selections. This would help maintain the integrity of the voting process and prevent biased or unfair selections.</thinking>
-
 # Team Member Of The Month Voting Form - Help Guide
 ## Purpose
 This form is used to recognize and appreciate team members who have demonstrated exceptional skills, work ethic, or teamwork within the team.

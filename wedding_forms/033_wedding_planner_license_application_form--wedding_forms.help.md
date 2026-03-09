@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from wedding planners and their businesses to apply for a wedding planner license. The purpose of this form is to collect necessary details such as business contact information, services offered, years in business, and license-related information. This form is likely used by regulatory bodies or authorities to verify the legitimacy and credentials of wedding planning businesses. It's essential to fill out the form accurately to ensure a smooth application process. Before proceeding, please check that this form does not exist in your system, and ensure that you are not duplicating an existing application.
-</thinking>
-
 # wedding_planner_license_application_form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for customizing a webpage to fit the needs of a business. It appears to be a comprehensive form covering various aspects of webpage customization, including business information, contact details, color scheme, font, content, background images, and layout options. The form includes multiple fields for inputting text, selecting options, and uploading images. It also includes options for saving changes and specifying where to save them. This form is likely used for creating or modifying a webpage for a business or organization.
-
-This form does not appear to be a duplicate of other forms, as it covers a specific set of fields and options that are not typically found in other forms. It also does not seem to be a simple form for gathering general information, as it includes many specific fields and options that require more detailed input.
-
-Before proceeding, please ensure that all fields are filled in correctly and that you are authorized to access the form.</thinking>
-
 # Webpage Customization Form - Help Guide
 ## Purpose
 The Webpage Customization Form is used to collect information for customizing a webpage to fit the needs of a business.

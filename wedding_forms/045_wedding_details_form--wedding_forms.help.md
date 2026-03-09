@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect essential information for a wedding event. It consists of multiple pages with text input fields, each representing a different aspect of the wedding details. The form fields are meant to be filled out in sequence, from the most general information to the more specific ones. This form does not aim to collect sensitive or personal data, it's meant for general wedding details such as venue, date, and number of guests.
-
-This form is not affiliated with, endorsed by, or derived from any form platform, and its purpose is to provide an original and public adaptation of a wedding form created using public survey topic metadata.
-</thinking>
-
 # Wedding Details Form - Help Guide
 ## Purpose
 This form is designed to collect essential information for a wedding event, including venue, date, and number of guests.

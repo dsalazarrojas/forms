@@ -1,7 +1,3 @@
-<thinking>
-The form "T Shirt Design Voting Form" is a tool used for end-users to express their opinions on a set of shirt design options. It appears to be a voting mechanism for selecting a preferred shirt design. To avoid duplication, the form is intended to be used once per user. The form should not be filled out multiple times by the same user. 
-</thinking>
-
 # T Shirt Design Voting Form - Help Guide
 ## Purpose
 This form is designed to allow users to vote on their favorite t-shirt design from a set of options.

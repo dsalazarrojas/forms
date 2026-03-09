@@ -1,7 +1,3 @@
-<thinking>
-# This form is used for ranking choices in a voting system. It is used to collect user input for voting on various options, where each option has a yes or no answer, and the user must rank the top 6 choices. This form is not meant to be filled out multiple times, so it's likely that it's being used for a one-time voting session.
-</thinking>
-
 # rank_choice_voting_form - Help Guide
 ## Purpose
 The purpose of this form is to collect user input for a voting session where users rank their top 6 choices.
