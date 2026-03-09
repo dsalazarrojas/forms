@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Principles Of Management Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from employees about their current management insights, training needs, and years of service. The purpose of this form is to gather data for the organization's training and development programs. It will help management identify areas where employees need additional support or training to improve their performance and job satisfaction.

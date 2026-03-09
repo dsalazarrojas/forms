@@ -1,9 +1,3 @@
-<thinking> 
-This form is intended to gather information on an individual's learning needs, preferences, and goals to facilitate development and growth within the organization. The goal is to create a comprehensive understanding of the employees' needs and interests to plan effective training and development programs. 
-The form asks about various aspects such as personal background, learning preferences, and career aspirations. This will help the organization tailor its training programs to meet the diverse needs of its employees and support their career advancement.
-
-</thinking>
-
 # Continual Learning Plan Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information on your learning needs and preferences to help us create a comprehensive plan for your development and growth within the organization.

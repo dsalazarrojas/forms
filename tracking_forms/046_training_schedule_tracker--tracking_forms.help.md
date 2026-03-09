@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Training Schedule Tracker - Help Guide
 
 ## Purpose

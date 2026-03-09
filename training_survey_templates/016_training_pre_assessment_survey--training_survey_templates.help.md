@@ -1,10 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Training Pre Assessment Survey", we first need to establish the form's purpose. This form is designed to gather information from trainees to assess their current knowledge and skills before participating in training programs. The survey aims to identify areas of improvement and potential challenges trainees may face during training.
-
-To avoid duplication and ensure accurate data collection, it is crucial to ensure each trainee fills out the survey only once. If a trainee has already completed a survey, they should not be required to fill it out again.
-
-</thinking>
-
 # Training Pre Assessment Survey - Help Guide
 ## Purpose
 This form is designed to gather information from trainees to assess their current knowledge and skills before participating in training programs. It helps identify areas of improvement and potential challenges trainees may face during training.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be a simple tool for users to plan their meals. It captures information about the date and time of the meal, the name of the meal, and any additional notes or comments. The form is not intended to be a comprehensive meal planning tool, but rather a quick and easy way to collect information for personal use. 
-
-This form does not duplicate any other form on the market and its primary purpose is to help users track their meal planning.
-
-</thinking>
-
 # Meal Planning Form - Help Guide
 ## Purpose
 The Meal Planning Form is designed to help you plan and track your meals in an easy and convenient way.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about personal books, allowing users to record and track their personal book collections. To avoid duplicate entries, please ensure that each entry is unique.
-</thinking>
-
 # personal_book_record_form - Help Guide
 ## Purpose
 This form collects information about personal books for tracking and record-keeping purposes.

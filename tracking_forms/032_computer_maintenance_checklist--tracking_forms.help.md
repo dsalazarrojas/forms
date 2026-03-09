@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Computer Maintenance Checklist" form is to track the maintenance activities performed on computers, including the technician's name, computer identification, maintenance date, tasks completed, software updates applied, hardware checks, issues found, and the recommended next maintenance due date. This form aims to standardize and document the maintenance process, ensuring that all necessary tasks are performed and recorded accurately and consistently. It's essential to use this form correctly to maintain accurate and up-to-date records of computer maintenance activities.
-</thinking>
-
 # Computer Maintenance Checklist - Help Guide
 ## Purpose
 The "Computer Maintenance Checklist" is a form designed to record the maintenance activities performed on computers. It helps track the technician's name, computer identification, maintenance date, tasks completed, software updates applied, hardware checks, issues found, and the recommended next maintenance due date.

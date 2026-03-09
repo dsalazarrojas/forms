@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to track the fitness accountability of a client, helping the user to set and achieve their goals. The form is a collection of fields that gather information about the client's exercises, workouts, and progress. It's intended to be used in a fitness-related context, such as in a gym or a fitness center. The fields are meant to be filled out by the client to provide a clear picture of their fitness journey.
-
-Checking for relevance: The form's purpose and content are focused on fitness and exercise, which is a relevant topic.
-
-Checking for non-duplication: The form's content is not duplicated from any other form, and its structure and fields are unique.
-
-</thinking>
-
 # fitness_accountability_check_in_form - Help Guide
 ## Purpose
 This form is designed to track the fitness accountability of a client, helping the user to set and achieve their goals.

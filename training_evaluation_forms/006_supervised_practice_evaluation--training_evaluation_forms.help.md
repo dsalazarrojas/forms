@@ -1,13 +1,3 @@
-<thinking>
-This form is for evaluating the effectiveness of a training session. 
-The form is used to gather feedback from a supervisor to assess the progress of a trainee. 
-The trainee's performance is evaluated based on various parameters such as communication skills, clinical skills, problem-solving skills, time management skills, and others.
-The form helps the supervisor to identify the trainee's strengths and areas that need improvement.
-This form is meant to be filled out by a supervisor after observing a trainee during a training session. 
-The supervisor will evaluate the trainee's progress and provide feedback.
-It's essential to fill in the form honestly and thoroughly to get an accurate picture of the trainee's performance.
-</thinking>
-
 # Supervised Practice Evaluation - Help Guide
 ## Purpose
 The Supervised Practice Evaluation form is used to assess the progress and effectiveness of a training session by a supervisor. It gathers feedback on a trainee's performance, including strengths and areas that need improvement.

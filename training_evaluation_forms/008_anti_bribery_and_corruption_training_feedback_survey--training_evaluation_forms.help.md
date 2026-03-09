@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback on the effectiveness and quality of the Anti Bribery And Corruption Training provided to employees. The training aims to educate employees on the risks of bribery and corruption within the organization and equip them with the knowledge and skills necessary to identify and report any corrupt practices. 
-</thinking>
-
 # Anti Bribery And Corruption Training Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees on their experience with the Anti Bribery And Corruption Training. Your input will help us identify areas of improvement and ensure that the training is effective in achieving its objectives.

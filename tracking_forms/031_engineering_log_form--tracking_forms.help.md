@@ -1,8 +1,3 @@
-<thinking>
-The internal reasoning block is as follows:
-The purpose of the Engineering Log Form is to track progress and activities of engineers in the organization. This form should only be used by engineers to document their work, not to be used for other purposes. Please ensure that only relevant information is filled out and that no duplicate logs are created.
-</thinking>
-
 # Engineering Log Form - Help Guide
 ## Purpose
 The Engineering Log Form is used to track progress and activities of engineers in the organization.

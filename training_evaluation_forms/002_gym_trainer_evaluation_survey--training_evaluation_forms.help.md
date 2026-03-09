@@ -1,17 +1,3 @@
-<thinking>
-The purpose of the "Gym Trainer Evaluation Survey" is to collect feedback from trainees about their experience with a particular trainer or training session. This form aims to evaluate the trainer's professionalism, communication skills, and overall satisfaction with the training environment and facilities. The form is designed to gather both quantitative and qualitative feedback, with a mix of select-one, select-multiple, and text fields.
-
-Before filling out this form, please ensure that you have not already submitted an evaluation for this trainer or training session. If you have, your responses may be considered duplicate and not taken into account in the evaluation process.
-
-To complete this form, please follow these steps:
-
-1. For each question, provide a honest and detailed answer about your experience with the trainer or training session.
-2. Select the most accurate options for select-one and select-multiple fields.
-3. Be as descriptive as possible in the text fields.
-4. Answer all required fields (marked as required).
-
-</thinking>
-
 # Gym Trainer Evaluation Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from trainees about their experience with a trainer or training session.

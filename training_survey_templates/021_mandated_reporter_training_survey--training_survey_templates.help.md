@@ -1,11 +1,3 @@
-<thinking>... internal reasoning and validation block ...
-
-This form is a mandated reporter training survey, used to collect feedback and ratings from participants after a training session. It's intended to gather information about the participant's experience and perception of the training session, as well as the care team's performance. The form should only be completed by participants who have received training.
-
-The form is divided into several sections, each focused on a different aspect of the training session. This guide will walk through each section and explain what information to provide for each field.
-
-</thinking>
-
 # mandated_reporter_training_survey - Help Guide
 ## Purpose
 This form is used to collect feedback and ratings from participants after a training session.

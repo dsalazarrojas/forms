@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect post-assessment feedback from learners who have completed a training program. The feedback is intended to help us understand their overall experience with the program, identify areas that need improvement, and gather suggestions for future program development. It's essential to provide honest and constructive feedback to help us improve our training programs.
 
 Before starting, please note that each question is optional, but it's helpful to have as much information as possible to ensure we get a comprehensive understanding of your experience. If you're unsure about any of the questions, please don't hesitate to ask.

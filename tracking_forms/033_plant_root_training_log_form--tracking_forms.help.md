@@ -1,10 +1,3 @@
-<thinking>
-The Plant Root Training Log Form is used to track and document training sessions for plants. This form is intended for users to record information about the plants being trained, including the type of training, duration, location, date, time, and other relevant details. 
-
-This form should not be used to track multiple instances of the same plant's training. For each unique plant, a separate entry should be made on this form.
-
-</thinking>
-
 # Plant Root Training Log Form - Help Guide
 ## Purpose
 This form is used to record and track training sessions for plants.

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this Behavior Observation Form is to gather information about a student's behavior during an observation. This form is designed to be completed by a teacher or observer who has witnessed the behavior and is intended to be used for tracking and reporting student progress. Before filling out this form, make sure you are familiar with the student's behavior and have all the necessary information to complete it accurately. If you are unsure about any of the fields, refer to the field-by-field explanations below for guidance.</thinking>
-
 # Behavior Observation Form - Help Guide
 ## Purpose
 The Behavior Observation Form is used to record and report on a student's behavior during an observation. This form helps to identify areas of concern and strengths, and informs future interventions and support strategies.

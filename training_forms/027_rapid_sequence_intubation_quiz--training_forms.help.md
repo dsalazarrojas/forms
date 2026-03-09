@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rapid Sequence Intubation Quiz - Help Guide
 ## Purpose
 The Rapid Sequence Intubation Quiz is a tool used to evaluate the user's knowledge and skills in performing rapid sequence intubation. This quiz is designed to assess the user's understanding of the steps involved in rapid sequence intubation and to provide a score based on their answers.

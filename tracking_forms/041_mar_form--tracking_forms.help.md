@@ -1,7 +1,3 @@
-<thinking>
-This form is used for tracking patient data, specifically for medical professionals to record information about the administration of medications to patients. The form is designed to be simple and easy to use, with fields for patient name, medication administered, dosage, frequency, route of administration, time, and date. This form should only be used for tracking purposes and is not intended for clinical diagnosis or treatment decisions.
-</thinking>
-
 # MAR Form - Help Guide
 ## Purpose
 The MAR Form is used for tracking patient data for medications administered. It is designed to be a simple and concise way for medical professionals to record the necessary information about the medication.

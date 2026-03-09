@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on honey harvests from beehives or apiaries, typically for research or data analysis. The form captures various information related to the beekeeper, the apiary, and the honey yield. This form likely serves as a tool for bee research, monitoring, or tracking honey production. It might be used for monitoring climate change effects, tracking disease spread, or monitoring environmental factors affecting bee populations.
-
-To prevent potential duplication of entries, the form includes a unique ID for each page, allowing for accurate tracking and referencing of individual records. This form is designed to gather data comprehensively, ensuring that all relevant information is captured in one place, making data analysis easier and more accurate.</thinking>
-
 # Honey Harvest Data Collection Form - Help Guide
 ## Purpose
 

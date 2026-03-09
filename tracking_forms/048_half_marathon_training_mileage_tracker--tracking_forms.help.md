@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help users track their progress during half-marathon training. It is likely to be used by athletes who need to keep records of their training data such as distance, pace, and dates to optimize their performance.
-
-To prevent duplication, we should ensure that users do not enter multiple records for the same start date. 
-
-</thinking>
-
 # Half Marathon Training Mileage Tracker - Help Guide
 ## Purpose
 

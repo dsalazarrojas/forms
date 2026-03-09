@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's clarify the purpose and content of the form. The form appears to be a survey for participants in VET (Veterinary Education and Training) courses. Its purpose is to gather information from participants about their preferences and needs for the courses. This includes demographic information, preferred delivery formats, languages, and programs. Additionally, it seems to cover aspects related to contact information, agreement to terms and privacy, participant signature, and other details. We'll focus on creating a clear and concise guide for users to follow these sections.</thinking>
-
 # VET Course Preparation Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information from participants about their preferences and needs for VET courses.

@@ -1,6 +1,3 @@
-<thinking>
-This form is used for tracking and managing helpline status and customer support. It's designed to be used by internal teams to quickly check and update the status of helplines and customer support availability. The form is meant for internal use and does not require authentication. The fields are not required for completion unless specified, and some fields may be redundant or unnecessary. The user should fill out only the relevant fields based on the specific use case.</thinking>
-
 # Helpline Status Check Form - Help Guide
 ## Purpose
 The Helpline Status Check Form is designed for internal teams to track and manage helpline status and customer support. The form is used to quickly check and update the status of helplines and customer support.

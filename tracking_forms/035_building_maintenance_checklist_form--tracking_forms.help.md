@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Building Maintenance Checklist Form - Help Guide
 ## Purpose
 This form is designed to help track and report on the maintenance of various aspects of a building's facilities. It covers the inspection and maintenance of various systems, including the roof, gutters, doors and windows, HVAC system, electrical, and more. The form is intended for use by building maintenance personnel to ensure that all necessary maintenance and repairs are properly documented and addressed.

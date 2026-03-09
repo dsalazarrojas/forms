@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the effectiveness of a virtual training program. The purpose of this form is to help the training team evaluate the program's strengths and weaknesses, identify areas for improvement, and make data-driven decisions to enhance future programs. This form should only be filled out by participants of the virtual training program, and it's essential to provide honest and constructive feedback to help us improve the program. Please ensure that you've attended the virtual session before filling out this form, and try to be as specific as possible in your answers.
-</thinking>
-
 # Virtual Training Program Effectiveness Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the effectiveness of a virtual training program. The purpose of this form is to help the training team evaluate the program's strengths and weaknesses, identify areas for improvement, and make data-driven decisions to enhance future programs.

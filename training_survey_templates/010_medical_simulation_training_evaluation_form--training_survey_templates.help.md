@@ -1,7 +1,4 @@
-> <thinking>
-This form is for evaluating the experience and satisfaction of medical professionals who have participated in a simulation-based training program. The goal is to gather feedback and insights to improve future simulations. To avoid unnecessary repetition, please only answer questions that are relevant to your experience. Your input will be kept confidential and used to enhance the quality of medical simulation training programs.
-</thinking>
-# Medical Simulation Training Evaluation Form - Help Guide
+> # Medical Simulation Training Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from medical professionals who have participated in a simulation-based training program. The purpose of this form is to understand your experience, satisfaction, and opinions about the simulation.
 

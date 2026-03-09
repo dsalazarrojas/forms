@@ -1,8 +1,3 @@
-<thinking>
-To ensure the form purpose is clear and the explanation is concrete and concise, let's break down the form's purpose and required fields. The form appears to be for collecting information about a crime incident, with fields for crime type, location, date, time, description, and additional geospatial information (latitude, longitude, elevation, and accuracy). This form likely serves for tracking or reporting crimes, but without further information, we'll assume it's a general form for data collection.
-
-We don't see any explicit validation for form duplication or non-sequencing, so we'll create the user help guide based on the provided information, keeping in mind that users may fill out fields in any order due to the form's structure.</thinking>
-
 # Geo Tagging And Mapping Baddi - Help Guide
 ## Purpose
 This form collects information about a crime incident. It's intended to help track or report crimes.

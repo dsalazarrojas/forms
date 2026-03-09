@@ -1,14 +1,3 @@
-<thinking> 
-To start with, we need to understand the purpose and context of the "Digital Memory Log For Engineers" form. This form is designed to track and document incidents, near misses, and corrective actions within an organization. It serves as a centralized repository for recording and reviewing incidents, which enables the team to learn from them and improve their performance. This form is likely used by engineers and other relevant stakeholders to report and track incidents, near misses, and corrective actions.
-
-The form is structured in a way that captures key information about the incident, including its date, type, location, description, and status. It also includes fields for capturing learning points, corrective actions, and their effectiveness. The form further includes fields for tracking the progress and closure of incidents, including who reported them, who updated the status, and when they were closed.
-
-To complete this form, users should start by selecting the type of incident, which can be an "Incident Report", "Near Miss", or "Corrective Action". Then, they need to provide detailed information about the incident, including its date, location, description, and affected parties. Users should also select the status of the incident and indicate whether the corrective action was effective. Additionally, they need to specify whether the incident was reported by someone and if the corrective action was completed.
-
-The form is designed to be user-friendly and adaptable, allowing users to easily navigate and input information. However, it's essential to review and understand each field's purpose and requirements to ensure accurate and complete data entry.
-
-</thinking>
-
 # Digital Memory Log For Engineers - Help Guide
 ## Purpose
 The "Digital Memory Log For Engineers" form is designed to track and document incidents, near misses, and corrective actions within an organization, enabling the team to learn from them and improve their performance.

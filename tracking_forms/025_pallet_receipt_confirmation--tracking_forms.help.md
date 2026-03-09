@@ -1,7 +1,3 @@
-<thinking>
-This is a form for tracking and confirming pallet reception, which should be completed by warehouse staff after each pallet is delivered. This form should not be completed if the pallet has already been received and processed in the system. The form should be filled out for each new delivery. Please ensure that all fields are accurately filled out and relevant to the pallet being confirmed.
-</thinking>
-
 # Pallet Receipt Confirmation - Help Guide
 ## Purpose
 The Pallet Receipt Confirmation form is used to track and confirm the reception of pallets. Warehouse staff should complete this form after each pallet is delivered, to ensure accurate tracking and processing of the received pallets.

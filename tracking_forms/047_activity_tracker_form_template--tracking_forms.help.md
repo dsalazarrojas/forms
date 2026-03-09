@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to track the progress and details of various activities, such as exercise, work tasks, study sessions, and personal goals. It's essential to fill out this form accurately to get a comprehensive overview of the activities being tracked. Please ensure that you're filling out this form for a specific activity to avoid duplication of effort.
-
-</thinking>
-
 # Activity Tracker Form Template - Help Guide
 ## Purpose
 The Activity Tracker Form Template is a tool designed to track the progress and details of various activities. This form is meant to be filled out for each activity, ensuring that you're keeping a record of your progress and challenges faced.

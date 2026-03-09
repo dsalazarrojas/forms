@@ -1,5 +1,3 @@
-<thinking>...the form will be used for users to track a keyword or phrase across multiple search engines and platforms and receive alerts at specified frequencies. The form will ask users to input their keyword, monitor on which search engines and with what frequency, and provide additional details like email or phone number to receive alerts. We need to ensure that users understand what each field is for and how to fill it out correctly...!</thinking>
-
 # Keyword Monitoring Tracker - Help Guide
 ## Purpose
 The Keyword Monitoring Tracker form is used to track a keyword or phrase across multiple search engines and platforms. It allows users to input their keyword, select the search engines and frequency at which to monitor, and provide additional details to receive alerts.

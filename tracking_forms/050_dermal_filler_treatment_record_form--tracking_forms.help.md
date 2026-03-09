@@ -1,5 +1,3 @@
-<thinking>As a healthcare professional, you are tasked with collecting and recording data about the treatment of dermal fillers. This form, called the Dermal Filler Treatment Record Form, is used to document the client's treatment session. To ensure that you are using this form correctly, let's clarify its purpose and the required information it collects.</thinking>
-
 # Dermal Filler Treatment Record Form - Help Guide
 
 ## Purpose

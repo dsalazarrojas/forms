@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "hair_product_brand_training_registration_form" form, we should consider the following steps:
-
-- Identify the form's purpose and its relevance to the organization's business logic. This form is likely used to collect information about new hair and beauty products from various brands and train staff on the products. This form is crucial in ensuring that the sales team has the necessary information to effectively promote and sell the products.
-- Determine whether the form is used to duplicate any other form. After examining the form's structure and fields, it seems like this form is a unique and specific form for the hair product brand training registration.
-- Decide on the best explanation structure and style for the form. In this case, a step-by-step guide with field-by-field explanations is the most suitable approach.
-
-</thinking>
-
 # hair_product_brand_training_registration_form - Help Guide
 ## Purpose
 The "hair_product_brand_training_registration_form" is used to register and train staff on new hair and beauty products from various brands. This form is essential for the sales team to have accurate and up-to-date information about the products, their features, and benefits.

@@ -1,6 +1,3 @@
-<thinking>...thinking>
-This form is used for tracking system application. It is intended for internal use, and it is not necessary to duplicate the form multiple times. Please ensure that you understand the form's purpose and requirements before proceeding. This form is a part of the tracking system, and it is used to capture specific information about the tracking system application. Please fill it out carefully and honestly, and make sure to review the submitted data carefully.</thinking>
-
 # product_tracking_system_application_form - Help Guide
 ## Purpose
 

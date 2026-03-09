@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of the travel log form template is to record travel-related activities and events, providing a structured way to document trips, including travel dates, destinations, modes of transport, and associated expenses. This form is designed to be completed by employees or team members to keep track of their work-related or personal travels.
-
-</thinking>
-
 # Travel Log Form Template - Help Guide
 ## Purpose
 The purpose of this form is to record travel-related activities and events, providing a structured way to document trips, including travel dates, destinations, modes of transport, and associated expenses.

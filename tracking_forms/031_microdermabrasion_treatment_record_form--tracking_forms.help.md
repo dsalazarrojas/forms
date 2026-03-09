@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for recording and tracking microdermabrasion treatment sessions. It requires information such as client name, microdermabrasion session ID, start date, duration, outcome, and practitioner signature. It also has fields for notes and next session information. The form is designed for multiple uses, including tracking treatment progress and providing information for further treatment. It's essential to ensure that each field is filled out accurately and completely to get the most out of the form. Please review the following instructions carefully to ensure you're filling out the form correctly.
-</thinking>
-
 # Microdermabrasion Treatment Record Form - Help Guide
 ## Purpose
 This form is designed to record and track microdermabrasion treatment sessions, including client information, session details, and treatment outcomes.

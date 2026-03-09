@@ -1,5 +1,3 @@
-<thinking>...this form is meant to gather information from users to create a personalized training plan. It has 5 pages and is intended to be completed by users to express their interests in specific training areas and topics. Before submitting the form, please make sure you haven't already submitted a similar request. This will help prevent duplicate submissions... </thinking>
-
 # Online Training Request Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from users to create a personalized training plan based on their interests in specific training areas and topics.

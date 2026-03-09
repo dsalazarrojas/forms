@@ -1,18 +1,3 @@
-<thinking>
-**Internal Reasoning:**
-
-This form is designed to evaluate the effectiveness and satisfaction of a clinical safety education program. It's meant for participants to provide feedback on various aspects of the program, such as its relevance, clarity, and overall satisfaction. The fields are structured to gather information on the program's quality, instructors, and potential improvements.
-
-To ensure that the form is used effectively and efficiently, I will make sure to:
-
-*   Clearly explain each field's purpose and expected outcome.
-*   Use a format that's easy to read and navigate.
-*   Provide tips and guidance where necessary.
-
-The form will help identify areas of strength and weakness in the program, allowing for adjustments and improvements to be made for future training sessions.
-
-</thinking>
-
 # Clinical Safety Education Program Evaluation - Help Guide
 ## Purpose
 

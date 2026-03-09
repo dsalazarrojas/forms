@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Training Completion Declaration Form - Help Guide
 
 ## Purpose

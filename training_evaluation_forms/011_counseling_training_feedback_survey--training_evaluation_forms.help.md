@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended for end-users who are taking the Counseling Training Feedback Survey. The form is designed to gather feedback from participants about their experiences with the training session, with the aim of improving future sessions. It is crucial that participants complete the entire form, as their feedback is essential for evaluating the effectiveness of the training and making necessary adjustments. If you have already completed a similar survey, please refrain from duplicating your feedback to avoid redundancy.
-
-</thinking>
-
 # Counseling Training Feedback Survey - Help Guide
 ## Purpose
 The Counseling Training Feedback Survey is a form designed to gather your thoughts and experiences about the training session. Your input will help us improve the quality of our training program.

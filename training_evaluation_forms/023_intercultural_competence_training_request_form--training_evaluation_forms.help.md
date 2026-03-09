@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Intercultural Competence Training Request Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from participants in project management training sessions. This form is used to collect personal and training details such as participant name, email, department, training sessions, and other relevant information. The form is not required, meaning participants are not obligated to fill it out.
-</thinking>
-
 # Project Management Training Form - Help Guide
 ## Purpose
 The Project Management Training Form is used to collect information from participants in project management training sessions.

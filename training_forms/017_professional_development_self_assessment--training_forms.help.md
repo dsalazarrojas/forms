@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate professional development within an organization. It helps employees and managers assess an employee's skills and identify areas for growth and improvement. The form can be used to gather information on an employee's current skills, strengths, and weaknesses, as well as their training needs and goals. This form is intended for internal use within an organization and is not a standardized assessment tool. Please ensure that you are completing this form in accordance with your organization's policies and procedures.
-</thinking>
-
 # Professional Development Self Assessment - Help Guide
 ## Purpose
 The Professional Development Self Assessment form is designed to help employees and managers evaluate an employee's professional development needs. It is intended to be used as a tool to identify areas for growth and improvement, and to provide a framework for creating a tailored professional development plan.

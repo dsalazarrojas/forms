@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback on the product onboarding experience and training process. It aims to assess user satisfaction, ease of understanding, and helpfulness of onboarding materials. The form is used to identify areas for improvement and gather suggestions for enhancements.
-</thinking>
-
 # Product Onboarding Form Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on your experience with the product onboarding process. Your responses will help us understand your needs and preferences, enabling us to improve the product and provide a better experience for future users.

@@ -1,10 +1,3 @@
-<thinking>
-This guide will provide instructions on how to complete the Foreign Conflict Awareness Survey form. This form has been designed to assess users' awareness and perceptions of conflicts in different contexts. Before proceeding, please ensure that you're completing this form for the intended purpose and that your responses won't duplicate previous submissions, as this form is meant for unique and original assessments.
-
-Please note that this guide will walk you through each field of the form, explaining what each one is and how to fill it out accurately.
-
-</thinking>
-
 # Foreign Conflict Awareness Survey - Help Guide
 ## Purpose
 The Foreign Conflict Awareness Survey is a form designed to gather information about users' awareness and perceptions of conflicts in various contexts. This form aims to assess your understanding of conflicts, their sources, and potential resolutions.

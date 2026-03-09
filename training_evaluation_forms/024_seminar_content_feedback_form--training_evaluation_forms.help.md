@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and consistently to gather accurate and actionable feedback from seminar attendees. This form is meant to collect feedback on the quality and relevance of the session, and to identify areas for improvement. Before using this form, please ensure that you have not already completed it for this seminar, as we want to avoid duplicate feedback. Additionally, please note that this form is intended for attendees who have attended the seminar in question, so only relevant and constructive feedback is encouraged. 
-</thinking>
-
 # Seminar Content Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees on the quality and relevance of a seminar. It helps us understand their experience and identify areas for improvement.

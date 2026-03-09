@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end users in understanding the purpose and usage of the Workshop Knowledge Assessment Form. It is assumed that this form will be used by trainers to assess the knowledge and skills acquired by participants in a workshop. The form's primary purpose is to collect feedback from trainers about the participant's performance during the workshop. To ensure accuracy and consistency, please review the form fields carefully before proceeding.
-
-</thinking>
 # Workshop Knowledge Assessment Form - Help Guide
 ## Purpose
 The Workshop Knowledge Assessment Form is used to evaluate participants' knowledge and skills acquired during a workshop. This form is completed by trainers to provide feedback on the participant's performance, helping to identify areas of improvement and areas of strength.

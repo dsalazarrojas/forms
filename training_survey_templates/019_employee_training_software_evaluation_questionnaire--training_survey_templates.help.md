@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to evaluate the effectiveness of employee training software in a company. It gathers information about the user's experience with different training platforms, their satisfaction level with the software, and other details such as their email and phone number. The goal of this questionnaire is to provide valuable feedback that can be used to improve the training software and better support employees in their training experiences.
-
-To ensure relevance and non-duplication, this form should only be completed by employees who have used the training software and have a genuine opinion about it. If an employee has not used the software, this form should not be completed.
-
-</thinking>
-
 # employee_training_software_evaluation_questionnaire - Help Guide
 ## Purpose
 

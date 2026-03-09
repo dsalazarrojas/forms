@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for retailers to register for the Retail Automation Training Program. It is a crucial step in the training process, as it ensures that the correct information is collected for the training program. Before filling out this form, ensure that you are not duplicating your registration, as this can lead to confusion and errors in the training process.
-
-Please note that some fields are required, marked as "true", while others are optional, marked as "false". Make sure to fill out all required fields to complete the form successfully.
-
-Also, this form is split into several sections for easier navigation and completion. Take your time to fill out each section carefully and thoroughly.
-
-The form includes the following fields:
-</thinking>
-
 # Retail Automation Training Program Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register for the Retail Automation Training Program. It gathers essential information about the retailer, their store, and their training preferences.

@@ -1,6 +1,3 @@
-<thinking>...internal reasoning block for non-duplication and relevance check...
-</thinking>
-
 # training_evaluation_survey_template - Help Guide
 ## Purpose
 The "Training evaluation survey template" is a tool used to collect feedback on your recent training experience. This form helps to identify areas for improvement in future training programs and content.

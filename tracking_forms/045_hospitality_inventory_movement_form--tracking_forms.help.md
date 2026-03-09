@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to track movements of hospitality items, such as food and beverages, within the establishment. This form is used to record when items are moved from one department to another, or when their status changes. It is essential to fill out this form accurately to maintain inventory accuracy and prevent discrepancies. Please ensure that you complete the form only once for each transaction, avoiding duplication or omission of any details.
-</thinking>
-
 # Hospitality Inventory Movement Form - Help Guide
 ## Purpose
 This form is used to track movements of hospitality items, such as food and beverages, within the establishment.

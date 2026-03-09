@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from attendees of a retirement webinar. The goal of the form is to gather information on the attendee's experience and opinions about the session. This form should only be used to provide feedback on a specific retirement webinar, and not for other purposes. If you are not a participant of this webinar, please do not fill out this form.
-</thinking>
-
 # Retirement Webinar Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees of a retirement webinar. Your input will help us evaluate the effectiveness of the session and identify areas for improvement.

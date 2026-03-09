@@ -1,10 +1,3 @@
-<thinking>
-We should first confirm that this form is indeed for "Team Collaboration Training" and ensure that we're not duplicating existing training forms. Let's review the form's purpose and content to determine its relevance and unique value proposition. This form appears to be a structured template for documenting team training sessions, which is a common use case in many industries. Upon reviewing the form's fields, we see that it collects participant information, team leader details, team and session names, dates and times, duration, team size, feedback, and contact information. This form seems to be a useful tool for tracking and documenting team training sessions.
-
-Given the form's purpose and content, let's create a user-friendly help guide to ensure end-users understand its intent and usage.
-
-</thinking>
-
 # Team Collaboration Training Form - Help Guide
 ## Purpose
 This form is used to document and track team collaboration training sessions. Complete this form to provide information about the team, session, and participant details.

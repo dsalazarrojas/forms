@@ -1,7 +1,3 @@
-<thinking>
-This form will be used to assess the impact and effectiveness of internal training sessions. It will help the training team to evaluate whether the training was useful, relevant, and led to the gain of new skills. This form will also help to identify areas of improvement and track the feedback of participants.
-</thinking>
-
 # Internal Training Impact Survey - Help Guide
 ## Purpose
 The purpose of this form is to measure the effectiveness of the internal training sessions. It is designed to gather feedback from participants about the usefulness, relevance, and skills gained from the training session.

@@ -1,13 +1,3 @@
-<thinking>
-This form is used to track a household's financial activity, including income, expenses, savings goals, and budget status. The form collects various fields to gather information about a household's income, expenses, and budget goals, allowing users to get a clear picture of their financial situation. The form is likely used to monitor and manage household finances, helping users to identify areas for improvement and make informed decisions about their money.
-
-The form is designed to be completed by household members or administrators, and its fields cover different aspects of household finances, including income, expenses, savings goals, and budget status. The form is likely used to track and analyze financial data, providing insights into a household's financial health and helping users to make better decisions about their money.
-
-The form has 20 fields in total, including fields for income, expenses, savings goals, and budget status. Some fields are optional, while others are required. Each field is designed to collect specific information, such as income, expenses, and budget goals.
-
-Before filling out the form, please ensure that all required fields are completed. If you're unsure about a particular field, refer to the field-by-field explanation below for more information.
-</thinking>
-
 # Household Budget Tracker - Help Guide
 
 ## Purpose

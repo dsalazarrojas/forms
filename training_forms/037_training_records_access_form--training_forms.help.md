@@ -1,7 +1,3 @@
-<thinking>
-This form is used to access and view training records for employees. To fill out this form, please ensure that you have a valid reason for accessing training records and that the training record is not already accessed by another user. Please fill out this form with the following information.
-</thinking>
-
 # Training Records Access Form - Help Guide
 ## Purpose
 This form is used to access and view training records for employees.

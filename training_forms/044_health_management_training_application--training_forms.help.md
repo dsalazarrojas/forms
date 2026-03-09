@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals seeking health management training. The purpose of this form is to gather essential details about the applicant, their contact information, emergency contacts, medical history, training program information, payment details, and agreements related to the training provider and emergency contacts. By filling out this form, applicants can ensure they meet the necessary criteria for the health management training program.
-</thinking>
 # health-management-training-application - Help Guide
 ## Purpose
 This form is intended for individuals seeking health management training. It collects application information, contact details, medical history, and other relevant data required by the training provider.

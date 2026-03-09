@@ -1,13 +1,3 @@
-<thinking>
-
-This form, "white_boards_tracking_form", is designed to track and manage Whiteboards, which are a type of collaborative workspace. The purpose of this form is to provide a centralized location for tracking Whiteboard's ID, creation and update dates, user assignments, status, comments, and descriptions. This form will help administrators and team members to quickly identify and manage the status of Whiteboards.
-
-Before proceeding with this form, please note that this form is part of a larger system for tracking and managing Whiteboards. If you are not already familiar with Whiteboards, please ensure you understand their context and relevance to your work before attempting to use this form.
-
-Please ensure that you have the necessary permissions to access and use this form.
-
-</thinking>
-
 # white_boards_tracking_form - Help Guide
 ## Purpose
 The white_boards_tracking_form is a tool for tracking and managing Whiteboards. It allows administrators and team members to quickly identify and manage the status of Whiteboards.

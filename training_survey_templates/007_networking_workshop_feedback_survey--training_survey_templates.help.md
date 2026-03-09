@@ -1,5 +1,3 @@
-<thinking>...the form purpose and relevance are likely to assess user feedback on networking workshops. This form aims to collect insights on the effectiveness and relevance of the workshops, helping improve future workshop planning and execution. It is likely not a mandatory form for attendees, but rather an optional way for them to provide feedback... </thinking>
-
 # Networking Workshops Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather your feedback on the effectiveness and relevance of the networking workshops. Your input will help us improve future workshop planning and execution.

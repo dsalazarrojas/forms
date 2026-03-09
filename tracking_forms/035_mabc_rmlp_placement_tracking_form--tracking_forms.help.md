@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mabc Rmlp Placement Tracking Form - Help Guide
 
 ## Purpose

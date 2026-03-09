@@ -1,14 +1,3 @@
-<thinking>
-The form is designed to track goods that have been received into the inventory. The purpose of this form is to gather information about the goods, including the date and time of arrival, a brief note about the goods, email address and phone number of the person receiving the goods, a category to which the goods belong, and a description of the goods. This form is likely to be used by warehouse staff or inventory managers to quickly log the arrival of new goods into the inventory.
-
-This form is a simple, single-page form with several fields that require minimal information. The form is not intended for complex or lengthy descriptions, but rather to quickly capture basic details about the goods.
-
-To prevent duplicate entries, it is recommended to check the inventory database before logging goods in. If the goods are already present in the database, do not enter them again.
-
-Before starting, ensure you have the necessary information about the goods at hand, including the date and time of arrival, a brief note about the goods, email address and phone number of the person receiving the goods, a category to which the goods belong, and a description of the goods.
-
-</thinking>
-
 # Goods In - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to track the usage of chairs within an office or similar setting. It is intended to be completed by employees or authorized personnel after each use of a chair. The form will help track chair usage patterns, condition, and maintenance needs.
- 
-Duplicate usage will not be accepted. Each form submission will be checked for duplicate entries before being accepted.
- 
-Please ensure that the information entered is accurate and up-to-date.
-</thinking>
-
 # Chair Usage Log - Help Guide
 ## Purpose
 The Chair Usage Log is a form designed to track the usage of chairs within an office or similar setting. It is intended to be completed by employees or authorized personnel after each use of a chair.

@@ -1,10 +1,3 @@
-<thinking>
-We'll create a user-facing help guide for the "sales_tracking_form" form. This form is designed for tracking sales data and is used to collect information on sales-related activities. To ensure that users can easily understand the form's purpose and requirements, we need to carefully review the form's fields and labels.
-
-Upon reviewing the form schema, we notice that it has 15 pages, each with a mix of text, number, date, time, select, and email fields. The form requires users to provide data on various aspects of sales tracking, including select one and multiple options.
-
-Before proceeding, it's essential to ensure that users are aware of the form's purpose and requirements. This form is for tracking sales data and is typically used by sales teams to record and analyze sales activities. Users should review the form carefully to ensure they're providing the required information accurately.</thinking>
-
 # sales_tracking_form - Help Guide
 ## Purpose
 The sales_tracking_form is designed to collect and track sales data, allowing users to record and analyze sales activities. It's typically used by sales teams to monitor and measure sales performance.

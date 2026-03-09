@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Training Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request training for a product. It is intended for users who need to request training for a product and its training manager.

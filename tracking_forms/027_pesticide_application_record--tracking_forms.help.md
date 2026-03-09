@@ -1,7 +1,3 @@
-<thinking>
-The form "Pesticide Application Record" is used to track the application of pesticides in a field, garden, or other agricultural settings. Its purpose is to collect detailed information about the date and time of the application, the applicator's contact details, the location of the application, the pesticide product used, and any specific conditions relevant to the application. The form ensures that all required fields are filled out, and the user can add any additional information as needed. Please note that some fields may be optional but still contribute valuable context to the record.
-</thinking>
-
 # Pesticide Application Record - Help Guide
 ## Purpose
 The Pesticide Application Record form is designed to document and track pesticide applications in a systematic and detailed manner.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form, titled ".report", is intended for tracking and recording student attendance, progress, and engagement metrics in virtual learning environments. The form is designed to gather data on student enrollment, time spent on virtual platforms, and other relevant activities. This data will be used to inform decisions on course optimization, resource allocation, and student support. To ensure accurate and comprehensive data, it is essential to complete this form correctly and consistently.
-
-Before filling out the form, please ensure that you have all the necessary information and that you are not duplicating entries for the same student.
-
-</thinking>
-
 # .report - Help Guide
 ## Purpose
 This form is used to track student attendance, progress, and engagement in virtual learning environments. It helps us gather data to inform decisions on course optimization, resource allocation, and student support.

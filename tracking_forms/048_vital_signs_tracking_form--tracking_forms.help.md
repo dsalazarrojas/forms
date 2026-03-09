@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect vital signs information from patients, including body temperature, pulse rate, respiration rate, blood pressure, oxygen level, and patient status. The form is designed to be completed by medical professionals for tracking patient health information. The form does not appear to be intended for patients to complete themselves, as most fields are not marked as required, and some fields are even marked as "notes" or "user input" which suggests that they are intended for medical staff to fill in.
-
-Before proceeding, ensure that this form is not already in use for a different purpose, and that the information collected will be accurate and up-to-date.
-
-</thinking>
-
 # Vital Signs Tracking Form - Help Guide
 ## Purpose
 The Vital Signs Tracking Form is a tool for medical professionals to collect and track vital signs information from patients.

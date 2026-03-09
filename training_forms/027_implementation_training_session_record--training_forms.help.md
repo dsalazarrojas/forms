@@ -1,15 +1,3 @@
-<thinking>
-This form is designed for recording and tracking information about implementation training sessions. It captures details about each session, including the session ID, name, date, time, topics covered, participants, feedback, notes, and the assigned trainer, consultants, and HR representatives. This form is meant to provide a centralized repository for tracking and analyzing data related to training sessions. It is not intended to capture sensitive or confidential information, and users should complete this form with the understanding that the data will only be used for internal purposes.
-
-To determine if you are eligible to complete this form, please review the following conditions:
-
-* The form is not intended for use in emergency situations where time is critical.
-* The form is not intended for use in situations where you need to report a critical or urgent matter.
-* You have reviewed and understand the form's purpose and limitations.
-
-If you are unsure or have questions, please reach out to your supervisor or the training team for clarification.
-</thinking>
-
 # implementation-training-session-record-form - Help Guide
 ## Purpose
 This form is designed to record and track information about implementation training sessions. It captures details about each session, including the session ID, name, date, time, topics covered, participants, feedback, notes, and the assigned trainer, consultants, and HR representatives.

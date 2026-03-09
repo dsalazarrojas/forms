@@ -1,5 +1,3 @@
-<thinking>Before diving into the form instructions, let's clarify the purpose of this Gym Instructor Renewal Application Form. This form is designed for gym instructors who need to renew their certification or registration with the governing body. The form is typically filled out by current or former instructors who want to maintain their status within the industry. The purpose of this form is to gather information about the instructor's personal and professional background, including contact details, experience, and other relevant information. This form helps to ensure that the renewal process is completed accurately and efficiently, and that all necessary documents are submitted correctly.</thinking>
-
 # Gym Instructor Renewal Application Form - Help Guide
 ## Purpose
 The Gym Instructor Renewal Application Form is a crucial document required for gym instructors to renew their certification or registration. This form ensures that the information provided is accurate and complete, making the renewal process smoother and more efficient.

@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to first understand the form's purpose and internal logic. Let's break down the provided YAML fields:
-
-* The form is called "Underwriting Training Registration Form" and has several fields, including name, email, phone, training date, training time, training location, organization, role, department, team members, training attended, and note.
-* The form is likely used to register users for some sort of training or certification process.
-* The "training attended" field seems to be a crucial field, as it's required.
-* The "team members" field is a select_multiple field, but it's not required, suggesting that it's optional for most users.
-* The "note" field is a note field, which means it's a free-text field for additional comments.
-
-</thinking>
-
 # Underwriting Training Registration Form - Help Guide
 ## Purpose
 The Underwriting Training Registration Form is used to register users for a training or certification process. To be eligible for training, users must have attended one of the listed training sessions.

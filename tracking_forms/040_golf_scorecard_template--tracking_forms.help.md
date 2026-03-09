@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to track golf scores for a round of 21 holes. The form is intended for golf enthusiasts and professionals who want to record their progress throughout a round. The form will likely be used by golfers to document their scores for each hole and track their overall progress. This form is likely to be used by golf course managers, instructors, or enthusiasts who need to record scores for analysis or competition purposes. 
-
-</thinking>
-
 # golf_scorecard_template - Help Guide
 ## Purpose
 This form is designed to track golf scores for a round of 21 holes.

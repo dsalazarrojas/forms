@@ -1,15 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, I'll analyze the fields present in the inputSchema YAML.
-
-The form appears to be a comprehensive book inventory record form used by librarians to track the status and conditions of their book collections. It captures detailed information on the inventory process, including dates, staff involved, branch and section specifics, book counts, discrepancies, and conditions of the collection.
-
-Some key fields indicate that this form is used to report on the overall condition of the library's collection, including any preservation needs, shelf space utilization, and recommendations for improvement.
-
-The form likely serves as a tool for librarians to accurately document and analyze their collection's state, ensuring that the library remains well-organized and accessible to patrons.
-
-</thinking>
-
 # Book Inventory Information Record Form - Help Guide
 ## Purpose
 This form is used by librarians to record information about their book inventory, tracking various aspects of their collection's condition, including book counts, discrepancies, and preservation needs.

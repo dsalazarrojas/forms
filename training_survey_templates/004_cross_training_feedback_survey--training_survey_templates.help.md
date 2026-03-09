@@ -1,7 +1,3 @@
-<thinking>
-This is a form design and writing task. I will be creating a user-facing help guide for a form called "Cross Training Feedback Survey". The goal is to help end-users understand the purpose of the form, how to complete it, and what each field means. The form is designed to gather feedback from trainees about their training experience. 
-</thinking>
-
 # Cross Training Feedback Survey - Help Guide
 
 ## Purpose

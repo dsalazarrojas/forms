@@ -1,8 +1,3 @@
-<thinking>
-This form is used to track exercise sessions. The purpose of this form is to collect information about a user's exercise activities. It is used for internal tracking and syncing with fitness apps. The sync options are for syncing with external apps like Google Fit, Apple Health, and Fitbit. This form is meant to be completed by the user after each exercise session. It is not a duplicate of other forms, and it's intended to be used by users who have already synced with an app before.
-
-</thinking>
-
 # exercise_log_form - Help Guide
 ## Purpose
 The exercise log form is used to track and sync user exercise sessions.

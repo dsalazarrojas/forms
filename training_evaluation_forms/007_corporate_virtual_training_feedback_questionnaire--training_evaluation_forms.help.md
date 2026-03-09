@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather feedback from trainees after a corporate virtual training session. The purpose of this form is to collect information about the trainee's experience, their departmental affiliation, their feedback, comments, and rating of the session. It is crucial that this form is filled out accurately and completely to ensure that the trainer can receive valuable insights to improve future sessions. This form should not be filled out more than once by the same trainee per session.
-
-</thinking>
-
 # Corporate Virtual Training Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from trainees after a corporate virtual training session. It helps our training team understand the effectiveness of the session and areas for improvement.

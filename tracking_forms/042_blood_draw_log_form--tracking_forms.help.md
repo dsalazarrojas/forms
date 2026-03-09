@@ -1,34 +1,3 @@
-<thinking>... internal reasoning and duplication check for Blood Draw Log Form ...
-
-The Blood Draw Log Form is used to track blood draw details for patients in a medical setting. This form is intended to collect relevant information about the patient, the blood draw procedure, and any relevant details about the patient's tolerance and any complications that may have occurred during the draw. This form is likely to be used by medical staff to document blood draw events, and the information collected will be used to provide insights and improve the efficiency of blood draw procedures.
-
-To ensure that the form is being used correctly, please review the following fields and ensure that you understand the purpose and requirements for each:
-
-*   **Patient Name** (`patient_name`): This is the full name of the patient.
-*   **Patient ID** (`patient_id`): This is the patient's medical record number.
-*   **Date of Birth** (`date_of_birth`): This is the patient's birth date.
-*   **Draw Date** (`draw_date`): This is the date when the blood draw was performed.
-*   **Draw Time** (`draw_time`): This is the time when the blood draw was performed.
-*   **Phlebotomist Name** (`phlebotomist_name`): This is the name of the phlebotomist who performed the blood draw.
-*   **Phlebotomist ID** (`phlebotomist_id`): This is the ID number of the phlebotomist who performed the blood draw.
-*   **Draw Location** (`draw_location`): This is the location where the blood draw was performed.
-*   **Draw Site** (`draw_site`): This is the vein or site where the blood was drawn from.
-*   **Number of Tubes** (`number_of_tubes`): This is the number of tubes collected during the blood draw.
-*   **Tube Types** (`tube_types`): This is a list of the types of tubes used during the blood draw.
-*   **Total Volume** (`total_volume`): This is the approximate total volume of blood collected during the draw.
-*   **Draw Method** (`draw_method`): This is the method used to draw the blood (e.g., syringe, vacutainer, etc.).
-*   **Needle Gauge** (`needle_gauge`): This is the size of the needle used for the blood draw.
-*   **Attempts Required** (`attempts_required`): This is the number of attempts made to collect the blood.
-*   **Complications** (`complications`): This is any complications or issues that occurred during the draw.
-*   **Complication Notes** (`complication_notes`): This is a description of any complications that occurred during the draw.
-*   **Patient Tolerance** (`patient_tolerance`): This is the patient's tolerance level during the blood draw.
-*   **Samples Sent To** (`samples_sent_to`): This is the list of lab departments that the blood samples were sent to.
-*   **Priority Level** (`priority_level`): This is the urgency level of the blood draw (e.g., routine, ASAP, etc.).
-*   **Special Handling Required** (`special_handling`): This is any special handling requirements for the blood draw.
-*   **Additional Notes** (`additional_notes`): This is any additional information about the blood draw.
-
-</thinking>
-
 # Blood Draw Log Form - Help Guide
 ## Purpose
 The Blood Draw Log Form is used to track blood draw details for patients in a medical setting.

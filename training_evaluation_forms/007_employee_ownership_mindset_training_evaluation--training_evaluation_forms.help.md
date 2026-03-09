@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to evaluate a training program's effectiveness in improving employee mindset and behavior. The form is likely used to track progress and measure the impact of the training on employees' understanding of ownership concepts. The goal is to gather feedback and data to help trainers adjust their approach and improve future training sessions. This form should only be filled out by the trainers who have conducted the training sessions. If the form has already been filled out by the trainer, please do not submit this one to avoid duplication of effort.
-
-</thinking>
-
 # prophets_form_title - Help Guide
 ## Purpose
 This form is designed to evaluate the effectiveness of our training program on employee mindset and behavior. It will help us gather feedback and data to improve future training sessions.

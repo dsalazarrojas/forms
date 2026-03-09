@@ -1,6 +1,4 @@
-### <thinking>...</thinking>
-
-This form is part of a broader system that tracks scores and other game-related metrics. The "Sports Scoring Record" form captures essential details from sports games, providing a clear and concise way to document and analyze game performance. This form is designed to be completed by users with access to the system, and its data will be used to generate statistics and insights for decision-making.
+### This form is part of a broader system that tracks scores and other game-related metrics. The "Sports Scoring Record" form captures essential details from sports games, providing a clear and concise way to document and analyze game performance. This form is designed to be completed by users with access to the system, and its data will be used to generate statistics and insights for decision-making.
 
 The form's design and functionality are based on the assumption that users are familiar with the basics of game scoring and sports terminology. If you're not familiar with these concepts, please refer to the relevant resources for more information.
 

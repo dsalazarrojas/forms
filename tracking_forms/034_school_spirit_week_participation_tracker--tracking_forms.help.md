@@ -1,7 +1,3 @@
-<thinking>
-This form is for tracking student participation in School Spirit Week. It helps to monitor student activities and engagement during this event. The form is intended to be filled out by students themselves or by a designated staff member. 
-</thinking>
-
 # School Spirit Week Participation Tracker - Help Guide
 ## Purpose
 This form is used to track student participation in School Spirit Week activities. It gathers information about the student's engagement in various events and allows staff to monitor and report on participation.

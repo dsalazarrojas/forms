@@ -1,11 +1,3 @@
-<thinking>
-Before you begin, please note that this form is designed to collect feedback on your overall experience during the staff induction process in your organization. It's essential to be honest in your responses, as your input will help us refine the induction process for future employees. Please answer these questions based on your genuine feelings and experiences. If you're unsure about any of the questions or need clarification, feel free to reach out to us directly.
-
-This form was created using AI, but the content is original and not copied from any other form platform. You're free to use, modify, and even sell forms derived from this template, just be sure to give credit.
-
-If you have any issues or concerns that aren't addressed in this form, please don't hesitate to contact us at form@gic.mx.
-</thinking>
-
 # Staff Induction Form - Help Guide
 ## Purpose
 This form is designed to gather feedback on your experience during the staff induction process. Your responses will help us identify areas of improvement and make the process better for future employees.

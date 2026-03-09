@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dog Training Form - Help Guide
 ## Purpose
 The Dog Training Form is used to record and document the training sessions of dogs. It captures essential information about each session, including the dog's name, training details, and contact information of both the client and trainer. This form helps in maintaining accurate records and ensuring that trainers and clients are on the same page.

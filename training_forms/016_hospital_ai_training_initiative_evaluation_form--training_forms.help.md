@@ -1,5 +1,3 @@
-<thinking>...this form aims to gauge the effectiveness and quality of a hospital's AI training initiative by evaluating various aspects of the program...the form gathers feedback on overall impressions, quality of training sessions, and other key areas such as impact on patient care, usefulness of materials and resources, and suggestions for improvement...it is essential to ensure that the user is familiar with these areas to provide honest and accurate assessments...</thinking>
-
 # Hospital AI Training Initiative Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on the effectiveness and quality of a hospital's AI training initiative. It covers several key areas, including overall impressions, quality of training sessions, and suggestions for improvement.

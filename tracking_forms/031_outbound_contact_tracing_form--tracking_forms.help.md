@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track and record information about individuals who have come into contact with someone who has a medical condition or symptoms. The purpose of this form is to provide a standardized and efficient way to collect data that can be used for contact tracing and potential outbreak prevention. It is essential that you complete this form accurately and thoroughly to ensure the information is up-to-date and reliable. Please note that this form does not replace any medical advice or professional diagnosis. If you are unsure about any information or have concerns about a medical condition, please contact a healthcare professional.
-</thinking>
-
 # Outbound Contact Tracing Form - Help Guide
 ## Purpose
 The purpose of this form is to record information about individuals who have come into contact with someone who has a medical condition or symptoms. This form helps track and document this information for contact tracing and potential outbreak prevention.

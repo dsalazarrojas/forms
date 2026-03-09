@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will aim to create a clear and concise user-facing help guide for the Display Scheme Compliance Tracker form.</thinking>
-
 # Display Scheme Compliance Tracker - Help Guide
 ## Purpose
 The Display Scheme Compliance Tracker form is a tool to track and monitor the compliance status of a display scheme, ensuring that all necessary information is collected and recorded for review and follow-up actions.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to track accreditations, which are certifications or standards that an organization has met. This form allows users to input information about the accreditation process, including the name of the accreditation, the issuing authority, current status, renewal deadline, required evidence, assigned compliance officer, progress percentage, and other relevant details. This form is used to ensure that all necessary information is captured and that the accreditation process is being tracked properly.
-
-Before proceeding, please ensure that this form is relevant to your role and responsibilities. If you are not authorized to complete this form, please do not do so.
-
-To avoid duplication of effort, please check the current status of the form and only update if necessary.
-</thinking>
-
 # Accreditations - Help Guide
 ## Purpose
 The purpose of this form is to track accreditations, which are certifications or standards that an organization has met.

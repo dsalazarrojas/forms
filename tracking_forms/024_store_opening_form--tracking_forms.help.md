@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for tracking store opening information. It is meant to be used when a new store is being opened or an existing one is modified. The form is designed to collect information about the store, including its name, location, hours of operation, manager's name, type of store, address, city, state, country, opening date, and opening time. To ensure accurate and comprehensive data collection, please complete the form carefully and make sure to provide all required fields. This guide will walk you through each field to help you understand what is expected and how to fill it out correctly.
-
-Before proceeding, please note that you can only open one store at a time. If you need to open multiple stores, you will need to submit this form multiple times. Also, please make sure that you are providing accurate and up-to-date information for each store. If you are unsure about any field, please contact us for assistance.
-
-</thinking>
-
 # Store Opening Form - Help Guide
 ## Purpose
 The Store Opening Form is designed to collect information about new or modified stores. This form is used to track store details such as name, location, hours, manager's name, store type, address, city, state, country, opening date, and opening time. Completing this form accurately ensures that store information is updated correctly in our system.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to track changes to character attributes, such as strength, agility, and intelligence, for a given character. The form is designed to record the old and new values of the attribute, along with the reason for the change and the date it took effect. This information can be used to monitor character development and progression over time.
-
-Before filling out this form, please ensure you have read and understood the following instructions and guidelines.
-
-</thinking>
-
 # Character Stats Tracker Form - Help Guide
 ## Purpose
 This form is used to track changes to character attributes, such as strength, agility, and intelligence, for a given character.

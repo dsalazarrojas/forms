@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to track and document information about mpox cases, including patient demographics, case confirmation status, contact tracing information, and investigation status. This form is meant to be completed by healthcare professionals and contact tracers to ensure accurate and efficient tracking of mpox cases. 
-
-Before proceeding, please ensure that you have reviewed and completed any required fields and that the information provided is accurate and up-to-date. 
-
-Please note that this form is designed to be completed in conjunction with other forms and documentation, and that any discrepancies or changes to the information provided may require additional investigation and clarification. 
-</thinking>
-
 # Mpox Investigation Form - Help Guide
 ## Purpose
 The Mpox Investigation Form is designed to track and document information about mpox cases, including patient demographics, case confirmation status, contact tracing information, and investigation status. This form helps healthcare professionals and contact tracers to accurately and efficiently track mpox cases.

@@ -1,5 +1,3 @@
-<thinking>As we create this help guide for the Cash Flow Tracking Form, let's ensure that it's clear, concise, and practical. This form is used for tracking cash inflows and outflows, providing a comprehensive view of a company's financial transactions. Its primary purpose is to assist users in recording and monitoring cash flow, helping them to identify and address any discrepancies or anomalies in the company's financial activities. We need to cover all the essential fields, providing detailed explanations for each, while also highlighting key features and best practices for form completion. We should also consider including any necessary instructions for users who may be unfamiliar with certain fields or requirements.</thinking>
-
 # Cash Flow Tracking Form - Help Guide
 ## Purpose
 The Cash Flow Tracking Form is designed to help users track and monitor all cash inflows and outflows, providing a comprehensive overview of a company's financial activities. This form allows users to record transactions, track changes in cash balance, and identify discrepancies or anomalies in the company's financial activities.

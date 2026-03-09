@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from training program attendees, allowing us to identify areas of improvement and make informed decisions for future programs. This form ensures that the feedback provided is relevant and not duplicated, as it is a post-training survey specifically designed for this purpose. Please ensure that you have completed the training program and are providing your honest feedback before proceeding.
-</thinking>
-
 # post_training_survey_template - Help Guide
 ## Purpose
 This form is designed to collect feedback from training program attendees, helping us improve future programs.

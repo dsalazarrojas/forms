@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about trading cards, including their cataloging details such as title, condition, rarity, and price. The form is used to track and catalog trading cards in a database. It's essential to ensure that each field is completed accurately and thoroughly to maintain consistency and accuracy in the database.
-</thinking>
-
 # Trading Card Cataloging Form - Help Guide
 ## Purpose
 This form is designed to collect information about trading cards, including their cataloging details such as title, condition, rarity, and price. The form is used to track and catalog trading cards in a database.

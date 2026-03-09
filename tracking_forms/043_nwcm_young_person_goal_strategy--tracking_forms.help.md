@@ -1,15 +1,3 @@
-<thinking>
-
-The form purpose is to gather information for the NWCM (New World Community Model) Young Person Goal Strategy, which aims to identify and support the specific goals and needs of young individuals within the community. This form is likely used within the context of social services, youth development programs, or similar initiatives. The form likely tracks personal details to provide tailored support and resources to young people, helping them achieve their goals and improve their well-being.
-
-To prevent duplication and ensure accurate completion, users should:
-
-* Verify that they have the necessary information and permissions to complete the form for the young person.
-* Confirm that the form is being completed for the correct purpose and goal strategy.
-* Review and understand each field's purpose and requirement to ensure accuracy and completeness.
-
-</thinking>
-
 # NWCM Young Person Goal Strategy - Help Guide
 ## Purpose
 The NWCM Young Person Goal Strategy form is used to collect information about young individuals within the New World Community Model (NWCM). This information helps identify and support their specific goals and needs.

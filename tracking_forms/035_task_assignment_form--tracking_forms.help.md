@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Task Assignment Form - Help Guide
 ## Purpose
 This form is designed to help assign tasks to employees and track task assignments. It collects information about the task, the employee assigned to it, and the details of the assignment.

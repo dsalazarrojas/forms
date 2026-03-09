@@ -1,11 +1,3 @@
-<thinking>
-This form is for tracking patients' COVID-19 status in a dental office setting. The form aims to collect information about patients' symptoms, vaccination status, and other relevant details. The purpose of this form is to identify potential risks and take necessary precautions to ensure the health and safety of patients and staff. This form is designed to be completed by patients before their scheduled appointments to streamline the check-in process and reduce the risk of transmission.
-
-To determine if this form has already been created, you can check the form's title or the form's ID. If a similar form with the same title and/or ID exists in the office's forms collection, it is likely a duplicate, and you should use the existing form instead.
-
-Please note that this form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created using AI, and it is released under CC BY 4.0 license. You are free to use, modify, and even sell forms derived from it, just give credit.
-</thinking>
-
 # Dental Office COVID 19 Prescreening Form - Help Guide
 ## Purpose
 This form is designed to collect information from patients about their COVID-19 status before their scheduled appointments in a dental office setting.

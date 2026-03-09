@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants after a warm-up activity, likely in an educational or training setting. The form aims to gauge their subjective experience and opinions about the activity, helping to refine future sessions to better engage the audience. It's essential to understand the participant's emotional response to the session, their engagement with the activities, and what they enjoyed or did not enjoy. 
-
-This form is not meant to be a comprehensive assessment tool but rather a lightweight way to gather qualitative feedback. It's crucial to complete the form honestly and to the best of one's ability, providing concrete answers that can help improve future sessions.
-
-Before proceeding, ensure you're filling out the form in a quiet and private space where you can think clearly about your experience. You might need to refer back to the session materials for better recall. If you're unsure about any field, try to interpret it in the context of the session and use the best possible answer based on your memory and personal experience.
-
-Please note that answers should be based solely on your personal experience and not on assumptions or hearsay. Be as specific as possible when describing your answers, and try to avoid vague responses.
-</thinking>
-
 # Warmup Activity Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants after a warm-up activity. It aims to gauge their subjective experience and opinions about the activity, helping to refine future sessions to better engage the audience.

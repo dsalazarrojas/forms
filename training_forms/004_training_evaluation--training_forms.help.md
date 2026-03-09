@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide will walk you through the "Training Evaluation" form, which is designed to collect feedback and evaluation data from trainees after a training session. The purpose of this form is to help trainers assess their effectiveness and make improvements to future training sessions. This form is not meant to be filled out more than once per training session, so please ensure you only fill it out once per session.
 
 # Training Evaluation - Help Guide

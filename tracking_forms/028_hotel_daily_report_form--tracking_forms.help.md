@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow hotel staff to report their daily activities and events that occurred during a specific period. The form can be used to track employee work hours, report on situations that happened during their shift, and provide a summary of their daily activities. It is essential to complete this form accurately, and it's recommended to review the form carefully to ensure all fields are filled in correctly to avoid mistakes or duplication.
-</thinking>
-
 # Hotel Daily Report Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from hotel staff about their daily activities and events during their shift. It helps the management to track work hours, identify situations that occurred, and understand the daily activities of employees.

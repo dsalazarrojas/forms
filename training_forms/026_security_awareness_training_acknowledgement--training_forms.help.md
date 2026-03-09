@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used by employees to acknowledge that they have completed their security training and provide any feedback. The form ensures that the employee has met the security awareness training requirements and allows them to input their completion date and time.
-
-This form will not be submitted multiple times; each employee will only be able to fill out the form once.
-
-</thinking>
-
 # Security_Awareness_Training_Acknowledgement - Help Guide
 ## Purpose
 The purpose of this form is to acknowledge that you have completed the required security awareness training and provide any feedback or comments.

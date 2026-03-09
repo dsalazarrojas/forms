@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect application information for learning and development purposes. It is a multi-page form that requires the user to provide details about the applicant, their training requests, and other relevant information. This form is used for internal training purposes within the organization. It should only be completed by authorized personnel. Please ensure you have the necessary permissions before proceeding.
-</thinking>
-
 # learning_and_development_application_form - Help Guide
 ## Purpose
 The learning and development application form is used to collect application information for learning and development purposes. This form is intended for internal use within the organization and should only be completed by authorized personnel.

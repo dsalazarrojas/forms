@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Heavy Vehicle Rescue Course Feedback - Help Guide
 
 ## Purpose

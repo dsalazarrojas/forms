@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to provide an objective evaluation of a flight crew's performance based on ratings for their ability to effectively execute emergency procedures and communicate within the team. This form ensures that crew members have undergone rigorous training and are competent in these critical areas. It's essential for flight crew training records and evaluations to avoid duplication or misrepresentation.
-</thinking>
-
 # flight_crew_training_check_form - Help Guide
 ## Purpose
 This form assesses the flight crew's performance in critical areas such as emergency procedures, communication, and teamwork, providing an objective evaluation of their training and abilities.

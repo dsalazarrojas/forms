@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess a candidate's aerial rescue skills, specifically in the areas of technical skills, safety protocols, and emergency response. The form is used to evaluate a candidate's proficiency in various aspects of aerial rescue, including knot tying, rigging system setup, communication with team members, problem-solving under pressure, and victim extraction technique. The form is intended to provide a comprehensive assessment of a candidate's skills and abilities, and to identify areas where they may need improvement. The form is not designed to replace human judgment or experience, but rather to provide a standardized evaluation tool.
-
-The form consists of 29 questions, divided into several sections. The first section, "Candidate Information", asks for basic information about the candidate, such as their name, department/unit, and any current certifications.
-
-</thinking>
-
 # Aerial Rescue Skills Assessment - Help Guide
 ## Purpose
 This form is designed to assess a candidate's aerial rescue skills, technical competence, and ability to follow safety protocols in emergency situations.

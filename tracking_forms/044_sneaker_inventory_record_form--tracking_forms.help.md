@@ -1,11 +1,3 @@
-<thinking>
-This form is used to create and manage records for individual sneakers in the inventory. 
-The form is designed to be completed by users who want to add a new sneaker to the inventory or update an existing one. 
-To ensure that each sneaker's information is accurately captured, the form is divided into multiple pages with a clear and concise layout. 
-The form requires all necessary fields to be filled out, except for a few optional fields which are marked as such. 
-Before proceeding, make sure you have all the required information ready.
-</thinking>
-
 # Sneaker Inventory Record Form - Help Guide
 ## Purpose
 The Sneaker Inventory Record Form is used to create and manage records for individual sneakers in the inventory.

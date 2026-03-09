@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a help guide for this form, I will follow the given structure and instructions.
 
 # Food Inventory Form - Help Guide

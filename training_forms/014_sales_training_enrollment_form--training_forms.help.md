@@ -1,7 +1,3 @@
-<thinking>
-This form, "sales_training_enrollment_form", is designed for enrolling participants in various sales, leadership, product knowledge, and other training sessions. To ensure accuracy and efficiency, please make sure to fill out this form only for participants who have not previously been enrolled in any training session. Re-enrollment is not allowed.
-</thinking>
-
 # sales_training_enrollment_form - Help Guide
 ## Purpose
 This form is used to enroll participants in various types of training sessions. Please provide the required information for each participant to ensure successful enrollment.

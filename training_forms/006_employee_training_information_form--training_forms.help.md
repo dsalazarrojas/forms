@@ -1,6 +1,3 @@
-<thinking>
-We are creating a help guide for the "employee_training_information_form" form. This form is used to collect information from employees for training purposes. The form is designed to gather details such as company information, training dates, trainer details, training status, and employee feedback. The form is typically filled out by employees, trainers, and managers involved in the training process. It is essential to fill out the form accurately to ensure that the training data is up-to-date and reliable.</thinking>
-
 # employee_training_information_form - Help Guide
 ## Purpose
 The "employee_training_information_form" is used to collect information about an employee's training details.

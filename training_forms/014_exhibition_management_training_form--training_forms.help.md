@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Exhibition Management Training Form - Help Guide
 
 ## Purpose

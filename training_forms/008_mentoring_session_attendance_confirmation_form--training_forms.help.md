@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from attendees after a mentoring session. The purpose of this form is to record the date of the session, details about the attendees, and outcomes of the mentoring session. To fill out this form, the attendee should provide their name, the name of the mentor, a brief description of the session topic, and their expectations and goals from the session. The session duration and the outcomes are optional fields where the attendee can provide additional information. The form should only be completed once for each mentoring session. If you have previously filled out this form for the same session, it is suggested that you do not fill it out again.
-</thinking>
-
 # Mentoring Session Attendance Confirmation Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees after a mentoring session.

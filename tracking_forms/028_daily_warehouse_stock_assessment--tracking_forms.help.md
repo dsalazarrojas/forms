@@ -1,21 +1,3 @@
-<thinking>
-
-The form purpose is to track the current stock levels, stock received, and any stock discrepancies in the warehouse on a daily basis. It's essential to fill out this form accurately to ensure the warehouse inventory is up-to-date and accurate. 
-
-Please make sure you're filling this form only once a day, and only for one location at a time, to avoid duplication of data. You can select the location of the warehouse from the options provided.
-
-Before starting, ensure you have the most recent stock records and any discrepancies that have occurred. This form requires the following information:
-
-*   The stock type (e.g., Stock, Inventory, or Supplies)
-*   The stock item being assessed
-*   The current stock level
-*   The stock received on that day
-*   Any stock discrepancies that have occurred
-
-Please note that all fields marked as "required" must be filled in, and the "stock_type" field is essential for determining the correct stock categories.
-
-</thinking>
-
 # Daily Warehouse Stock Assessment - Help Guide
 
 ## Purpose

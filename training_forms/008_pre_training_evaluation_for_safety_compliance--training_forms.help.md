@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, I'll ensure that the form "pre-training-evaluation-for-safety-compliance" is reviewed for relevance and non-duplication. Upon review, it appears that the form is designed to gather general information, contact information, and various aspects related to training and safety compliance. The fields seem to be mostly self-explanatory, with some fields requiring further clarification.</thinking>
-
 # pre-training-evaluation-for-safety-compliance - Help Guide
 ## Purpose
 This form is designed to gather general information and specific details related to pre-training evaluation for safety compliance. It is intended to be used to track and record progress, completion status, and other relevant information related to training programs.

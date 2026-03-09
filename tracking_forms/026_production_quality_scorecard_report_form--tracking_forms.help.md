@@ -1,12 +1,3 @@
-<thinking>
-This form is used to track and report the production quality of a specific product or product variant. It's meant to capture information about the inspection process, including quality criteria, photos, and ratings. This form is likely used in a production environment to help identify and address any issues that may be affecting production quality.
-
-The fields provided in the form suggest that it's used for general quality reporting, which is a common practice in manufacturing and quality control industries. The fields include options like "Product", "Shift", and "Batch" which indicate that this form could be used across different production contexts. I'm assuming this form is used to track and analyze data for continuous improvement of production processes.
-
-I'm assuming that the form is used to report on a specific product's quality in different production runs. The fields for photos, quality criteria, and ratings suggest that the quality of the product is being assessed during different production shifts or batches. The "additional comments" field indicates that there might be other relevant information that needs to be captured during the inspection process.
-
-Before proceeding, please make sure that the information provided in this help guide is relevant and clear for the target audience. Please review the form carefully and provide feedback if you have any questions or concerns.</thinking>
-
 # Production Quality Scorecard Report Form - Help Guide
 
 ## Purpose

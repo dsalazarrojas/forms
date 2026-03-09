@@ -1,28 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for a new artwork or project that requires initiation. This form is designed to gather key details about the project, including project initiation date, contact information of the person requesting the artwork, project details such as name and description, and project requirements like deadline and budget. It also includes fields to track the artwork's status, including approval status, approver name, and approval date. This form is crucial for tracking and managing multiple projects simultaneously.
-
-To complete this form, follow these steps:
-
-1.  Enter the project's initiation date.
-2.  Enter your name, title, and email address for contact.
-3.  Enter your phone number.
-4.  Enter the project's name and description.
-5.  Choose the type of artwork or project you are requesting.
-6.  Enter the artwork's dimensions in inches or cm.
-7.  For 3D artwork, enter the depth.
-8.  If required, enter the color scheme or palette.
-9.  Specify any special style or design requirements.
-10.  Identify the target audience.
-11.  Enter the project deadline.
-12.  If applicable, enter the budget.
-13.  Choose the current approval status.
-14.  If approved, enter the name and title of the approver.
-15.  Enter the approval date.
-16.  Optionally, provide any additional files or references.
-
-</thinking>
-
 # Artwork Initiation Form - Help Guide
 
 ## Purpose

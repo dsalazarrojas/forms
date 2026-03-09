@@ -1,7 +1,3 @@
-<thinking>
-The Fuel Price Tracking Form is designed to collect and track data on fuel prices across different regions, countries, fuel types, and locations. This form is intended for use by personnel responsible for tracking and managing fuel price data. To avoid duplication of effort, ensure that you are not submitting duplicate entries for the same data.
-</thinking>
-
 # Fuel Price Tracking Form - Help Guide
 ## Purpose
 This form is designed to collect and track data on fuel prices across different regions, countries, and locations. It helps personnel responsible for tracking and managing fuel price data to gather accurate and up-to-date information.

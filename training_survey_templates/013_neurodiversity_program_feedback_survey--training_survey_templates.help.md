@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from attendees about their experience with the Neurodiversity Program. The form is intended to help us understand the effectiveness and relevance of the program. It is essential that you provide honest and constructive feedback to help us improve the program.
-Please note that this form is not a duplicate, and you should only fill it out once per session. If you have already filled out this form for a previous session, please do not fill it out again.
-</thinking>
-
 # Neurodiversity Program Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees about their experience with the Neurodiversity Program. The information collected will help us understand the effectiveness and relevance of the program.

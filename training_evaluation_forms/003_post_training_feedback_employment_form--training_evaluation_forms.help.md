@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from trainees on their post-training experience and employment outcomes after completing a training session. This feedback is essential for trainers and instructors to evaluate the effectiveness of their training programs and make informed decisions for future improvements.
-</thinking>
-
 # Post Training Feedback Employment Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from trainees on their experiences, skills gained, and employment outcomes after completing a training session. Your input will help trainers and instructors evaluate the effectiveness of their programs and make improvements for future sessions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track the status of office first aid equipment and medical supplies. The form is designed to be completed on a regular basis to ensure that all necessary equipment is available and in good working order. This form is not intended to be used for emergency situations, but rather as a routine check to identify any potential issues before they become problems. It is recommended to fill out this form at the same time every week or month, depending on the frequency of use and the availability of equipment. The form should only be filled out if the office has first aid equipment and medical supplies, as it is not necessary to report that nothing is present.
-</thinking>
-
 # office_first_aid_equipment_checklist_form - Help Guide
 ## Purpose
 The office first aid equipment checklist form is used to track the status of office first aid equipment and medical supplies.

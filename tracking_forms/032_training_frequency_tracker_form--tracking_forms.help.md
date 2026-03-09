@@ -1,7 +1,3 @@
-<thinking>
-To create a well-structured and easy-to-use training frequency tracker form, we need to ensure that it captures the essential information needed for participants to track their training progress. This form should not be used for duplicate or non-essential purposes, so let's focus on its core functionality. The form's main goal is to collect data from participants on their training frequency, exercise logs, and progress tracking. We will be focusing on the fields that enable this functionality.
-</thinking>
-
 # Training Frequency Tracker Form - Help Guide
 ## Purpose
 The Training Frequency Tracker Form is designed to track the frequency of training and exercise progress of participants. It collects information on the number of times an individual trains, logs exercises, and records their overall progress in the training process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Coordinator Training Evaluation - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Expense Request Form - Help Guide
 
 ## Purpose

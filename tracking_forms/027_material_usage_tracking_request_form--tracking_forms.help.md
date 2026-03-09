@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to track material usage requests, ensuring accurate and timely management of material needs. This form will be used to record requests for materials such as Wood, Metal, Plastic, Ceramic, Glass, Leather, and Fabric. The form will gather information on the material name, type, quantity, unit of measurement, supplier details, department and employee approval, and other relevant details. It is essential to fill out this form accurately and completely to ensure that material needs are met efficiently and effectively...</thinking>
-
 # Material Usage Tracking Request Form - Help Guide
 ## Purpose
 This form is used to track material usage requests for various departments and employees. It helps in managing material needs accurately and effectively.

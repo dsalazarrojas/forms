@@ -1,22 +1,3 @@
-<thinking>
-The form is designed to be a tool for recording observations and tracking the progress of pet eye conditions. The purpose of this form is to ensure that pet owners and veterinary professionals can document and monitor the eye health of pets in a comprehensive and systematic way.
-
-The form will help to track the following aspects:
-- Session dates for each observation
-- Owner's name
-- Description of eye conditions
-- Type of contact (direct or indirect)
-- Area of contact
-- Level of comfort
-- Change in eye condition after observation
-- Additional comments from the observer
-- Date for the next session
-
-By filling out this form, users can create a comprehensive record of the pet's eye condition, which can aid in monitoring progress and making informed decisions about care.
-
-To avoid duplication, please make sure to save the form after each session and use a new entry for each new observation.
-</thinking>
-
 # Pet Eye Contact Observation Log - Help Guide
 ## Purpose
 The Pet Eye Contact Observation Log is designed to help veterinary professionals and pet owners track and document the eye health of pets. It allows users to record observations and track progress over time.

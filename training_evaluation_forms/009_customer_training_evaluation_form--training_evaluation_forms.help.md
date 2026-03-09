@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect feedback from customers about their experience in a training session. It is designed to help us understand how well the session met the customer's needs and expectations. The form should only be completed by customers after attending a training session.
-
-The form is divided into several sections to ensure that we cover all important aspects of the training experience. Please review each section carefully and provide your honest feedback.
-
-</thinking>
-
 # Customer Training Evaluation Form - Help Guide
 ## Purpose
 The Customer Training Evaluation Form is a survey designed to gather feedback from customers about their experience in a training session. Its purpose is to help us understand how well the session met the customer's needs and expectations.

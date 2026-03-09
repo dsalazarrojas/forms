@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # scaffolding_safety_training_form - Help Guide
 ## Purpose
 The scaffolding safety training form is a document used to collect information and verify participant experience and certification for scaffolding safety training. This form helps ensure that participants have completed the required training and meet the necessary certification standards for scaffolding safety.

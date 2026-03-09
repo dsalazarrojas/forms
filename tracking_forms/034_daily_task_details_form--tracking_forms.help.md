@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect detailed information about daily tasks, including client and task-specific details. Its primary purpose is to provide a structured way to document and track tasks, making it easier to manage tasks and clients efficiently. This form is likely to be used by administrative or support staff to record and update task information. Before proceeding, ensure that you're authorized to access and update task records. To the best of my knowledge, this form is not designed to be completed by end-users, but rather as a tool for backend personnel.
-</thinking>
-
 # Daily Task Details Form - Help Guide
 
 ## Purpose

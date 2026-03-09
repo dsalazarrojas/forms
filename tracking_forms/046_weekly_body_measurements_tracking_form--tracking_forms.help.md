@@ -1,12 +1,3 @@
-<thinking>
-This help guide is for the "weekly_body_measurements_tracking_form" which is used to track weekly body measurements of clients. The form is designed to be used by coaches or trainers to record and monitor the progress of their clients.
-
-The form is meant to be used for tracking progress over time, and it's essential to ensure that each field is filled in accurately and consistently. This guide will walk you through each field and its purpose, so you can fill out the form correctly and effectively.
-
-Please note that the form is not intended to be used for any other purpose, and filling it out correctly will help in providing accurate data for clients' progress monitoring.
-
-</thinking>
-
 # weekly_body_measurements_tracking_form - Help Guide
 ## Purpose
 The "weekly_body_measurements_tracking_form" is a form used by coaches or trainers to track the weekly body measurements of their clients. It's essential to fill out the form accurately and consistently to monitor clients' progress over time.

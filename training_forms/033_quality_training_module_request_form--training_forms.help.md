@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to request quality training modules for employees. It is used to collect information from employees about their training preferences, such as whether they want to receive training, their employment details, and specific training module details. This form is typically filled out by employees who are interested in taking a quality training module. It's essential that employees complete the form accurately, as it will be reviewed and used to tailor the training experience to their needs.
-
-When filling out this form, please ensure that you're not submitting duplicate requests. If you've already submitted a request for the same training module, please don't resubmit. This form is meant for new requests, and any duplicate submissions may cause confusion and delays in processing your request.
-
-The form consists of several fields that will be used to gather information from you. Please read the explanations below to understand what each field means and how to fill it out correctly.
-
-</thinking>
-
 # Quality Training Module Request Form - Help Guide
 
 ## Purpose

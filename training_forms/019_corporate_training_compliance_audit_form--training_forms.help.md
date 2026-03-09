@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # corporate_training_compliance_audit_form - Help Guide
 ## Purpose
 This form is used to collect information about corporate training compliance audits. The purpose of this form is to document the details of the audit process, including company and auditor information, training offered, and any feedback or comments provided. This form is used to ensure that all corporate training programs are compliant with relevant laws and regulations.

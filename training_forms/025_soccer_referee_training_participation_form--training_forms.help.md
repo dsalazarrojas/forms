@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # soccer_referee_training_participation_form - Help Guide
 
 ## Purpose

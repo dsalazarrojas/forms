@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trip Tracking Form - Help Guide
 ## Purpose
 The Trip Tracking Form is designed to collect information about trips, including their destinations, dates, duration, types, and status. This form helps to track and manage trips efficiently, allowing users to update and view trip details in a centralized location.

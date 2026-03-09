@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm, this form is for tracking patient information for cholesterol screening purposes, including medical history, lifestyle factors, and test results. This guide will walk you through the form's structure and each field's purpose to ensure accurate and efficient completion.
 
 # Cholesterol Screening Form - Help Guide

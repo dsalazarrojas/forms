@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track and document daily case notes, allowing users to capture essential information about each case, including session details, case updates, session duration, and follow-up details. This form helps to prevent duplication of effort and ensures that all relevant information is captured in one place. It's essential to complete this form accurately and thoroughly to maintain a clear and organized record.
-</thinking>
-
 # Daily Case Notes Form - Help Guide
 ## Purpose
 The Daily Case Notes Form is a tool used to track and document daily case notes, ensuring that all relevant information is captured and recorded accurately. This form is used to provide a clear and organized record of each case.

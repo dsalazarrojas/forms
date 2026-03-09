@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to track and record daily weather information for a given location. The form collects data on date, location, temperature, weather conditions, wind speed, humidity, and additional notes. This form is likely used for meteorological or scientific research purposes. To avoid duplication, users should ensure that each entry is unique and represents a new day's data. Please note that some fields are not required, so users can skip them if they are not relevant.
-</thinking>
-
 # Daily Weather Record - Help Guide
 ## Purpose
 The Daily Weather Record form is used to track and record daily weather information for a given location. This form collects data on various weather parameters such as date, temperature, wind speed, and humidity. The form is likely used for meteorological or scientific research purposes.

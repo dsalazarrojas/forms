@@ -1,5 +1,3 @@
-<thinking>Is the purpose of this form to collect information about clients' health, fitness, and medical history for training purposes? Is this form meant to be filled out by clients before or after a training session? Does it aim to gather emergency contact information or medical details for safety reasons? Is it to be used by trainers or coaches to understand clients' goals and needs?</thinking>
-
 # Online Training Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about clients' health, fitness, and medical history for training purposes. This data will help trainers and coaches understand clients' needs and goals, allowing for a more personalized and effective training experience.

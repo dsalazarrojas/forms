@@ -1,9 +1,3 @@
-<thinking>... 
-
-This form is used to track income payments made to team members. This form should only be used for tracking income payments and should not be used for other purposes, such as expense tracking or other types of payments that are not income related. To ensure that this form is used correctly, please review the fields below carefully.
-
-</thinking>
-
 # income_tracking_form - Help Guide
 ## Purpose
 The income_tracking_form is used to track income payments made to team members. This form helps keep a record of payment dates, amounts, frequencies, and other relevant details for income payments.

@@ -1,5 +1,3 @@
-<thinking>Before designing the help guide, I'll review the form schema to understand its purpose and functionality. The form seems to be designed for tracking employee assistance programs, likely for HR or support services. It contains various fields for documenting employee sessions, follow-ups, and manager information. I'll create a help guide based on this understanding.</thinking>
-
 # Employee Assistance Program Log - Help Guide
 ## Purpose
 The purpose of this form is to document and track employee sessions, follow-ups, and manager information for the Employee Assistance Program. This helps ensure accurate and efficient management of employee assistance services.

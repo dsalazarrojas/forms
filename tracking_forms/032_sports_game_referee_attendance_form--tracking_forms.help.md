@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to track referee attendance for sports games. The form is used to collect information about the game, including game ID, referee name, game date, game time, attendance status, notes, and other relevant details.
-
-The form has 25 fields, but not all are required. The fields are organized into several pages.
-
-Before filling out this form, please make sure that you have the required information ready and that you're using the correct field labels and options.
-
-</thinking>
-
 # Sports Game Referee Attendance Form - Help Guide
 ## Purpose
 This form is used to track referee attendance for sports games.

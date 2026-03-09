@@ -1,5 +1,3 @@
-<thinking>This form is designed to track and record information about the harvest of crops on a farm. It captures details such as farm id, plant id, date harvested, quantity harvested, notes, and other relevant information. This form is intended for use by farm personnel to accurately and efficiently track their harvests, allowing for better management and organization.</thinking>
-
 # harvest_tracking_form--tracking_forms - Help Guide
 ## Purpose
 

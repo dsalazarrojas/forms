@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data for tracking and analysis. It's used to create a pivot table with various data sources, aggregation methods, and types of data. This form helps ensure that the data collected is accurate and reliable. It's used by data analysts and engineers to collect and analyze data for various business purposes. It's a critical component of the data collection and analysis process, and it's essential to fill it out accurately.
-</thinking>
-
 # pivot_data_collection_form - Help Guide
 ## Purpose
 The purpose of this form is to collect data for tracking and analysis. It is used to create a pivot table with various data sources, aggregation methods, and data types.

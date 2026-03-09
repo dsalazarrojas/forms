@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to track and verify the certification status of an individual or team, ensuring accurate and up-to-date information is maintained. This form helps in maintaining a centralized record of certifications, making it easier to track and verify the status of different certifications, such as Active, Inactive, or Unknown. It allows users to input relevant details like first name, last name, certification status, renewal dates, and verification methods, among others. By tracking this information, users can ensure that the certifications are accurately recorded and updated in real-time.
-Before starting, please ensure that you have all the required details and that you are filling the form for the intended purpose.
-</thinking>
-
 # regulatory_certification_tracking_form - Help Guide
 ## Purpose
 

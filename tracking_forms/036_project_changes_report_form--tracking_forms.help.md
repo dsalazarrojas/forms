@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Project Changes Report Form - Help Guide
 =====================================
 

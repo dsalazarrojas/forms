@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for participants to provide feedback on a scholarship workshop. It is intended to help organizers evaluate and improve the workshop's content, structure, and overall experience. This form is not meant to be used as a formal evaluation or assessment tool, but rather as a way to collect qualitative feedback from participants. Please ensure that you have completed the workshop before filling out this form, as your feedback will be more accurate and helpful if you have a fresh perspective on the experience.
-</thinking>
-
 # Scholarship Workshop Feedback Form - Help Guide
 
 ## Purpose

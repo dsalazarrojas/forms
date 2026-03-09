@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stress Attack Tracking Form - Help Guide
 
 ## Purpose

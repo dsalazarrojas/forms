@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from teachers about their professional development and evaluation survey experiences. 
-It is meant to be completed by teachers who have been assigned a specific tool for use in their professional development and evaluation surveys. 
-This form is intended to gather data about the tools used by teachers, the categories they belong to, and any other relevant information.
-</thinking>
-
 # Teacher Professional Development And Evaluation Survey - Help Guide
 ## Purpose
 This form is used to gather information from teachers about their experiences with training survey templates, including whether they are used for training and evaluation, the tool assigned to them, and other relevant details.

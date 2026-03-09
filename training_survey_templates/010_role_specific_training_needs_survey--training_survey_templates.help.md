@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on the training needs of specific roles within an organization. It's intended to help the training team identify areas where employees require training, support, or guidance. This form is not meant for general training needs assessment, but rather focuses on addressing the unique requirements of specific roles. Please ensure this form is filled out for each role, avoiding duplication of effort.
-</thinking>
-
 # Role Specific Training Needs Survey - Help Guide
 ## Purpose
 The Role Specific Training Needs Survey is a tool used by the training team to gather information on the training needs of specific roles within the organization. This form helps identify areas where employees require training, support, or guidance to perform their job tasks effectively.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Doctor Note Form - Help Guide
 ## Purpose
 The Doctor Note Form is a tool used to document a doctor's visit, including the patient's name, the date and time of the visit, the reason for the visit, and any other relevant medical information. This form is designed to provide a simple and straightforward way for doctors to record their notes in a format that is easy to read and understand.

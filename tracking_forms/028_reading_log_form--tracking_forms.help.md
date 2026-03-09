@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Reading Log Form - Help Guide
 
 ## Purpose

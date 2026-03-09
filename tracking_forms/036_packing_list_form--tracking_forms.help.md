@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from packers, which are individuals responsible for packing and shipping items. The form is used to track the packing process, and the data collected will be used to monitor and report on the packing process. 
-
-The form will be used by packers to record their contact information, item details, and any other relevant information during the packing process. This includes the packer's name, email, and phone number, as well as the item's name, type, quantity, size, and any additional notes. The form also includes date and time fields for tracking when the item is due to be packed, and select fields for categorizing the item types.
-
-The form will be used as a tool to improve the efficiency and accuracy of the packing process. It will help packers quickly and accurately record the necessary information, and it will also help managers and administrators track and report on the packing process. 
-
-Please ensure that each field is filled out correctly, and that all required fields (Packer Name, Item Name, Item Type, and Item Date Required) are filled out. If a field is not required, you may leave it blank if it is not applicable. 
-
-This form has multiple pages, and you will be asked to fill out each page before proceeding to the next. Please fill out each page in order, and be sure to review your answers before submitting the form.
-
-Please take a moment to review each field below for a detailed explanation of what each field is used for.</thinking>
-
 # Packing List Form - Help Guide
 ## Purpose
 The Packing List Form is designed to collect information from packers and track the packing process.

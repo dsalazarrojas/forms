@@ -1,7 +1,3 @@
-<thinking>
-The HIPAA Security Training Form is a training form used to record the completion of HIPAA security training for employees. This form is typically used by HR or training managers to track employee training status. The form requires the employee's name, email, date of training, location of training, topics covered, training hours, completion status, and any comments related to the training session. The purpose of this form is to ensure that employees have received necessary training on HIPAA security and to record their completion status.
-</thinking>
-
 # HIPAA Security Training Form - Help Guide
 ## Purpose
 The HIPAA Security Training Form is used to record the completion of HIPAA security training for employees.

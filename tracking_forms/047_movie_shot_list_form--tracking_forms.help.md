@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect information on the shot list for a movie production. It appears to be a comprehensive form covering various aspects of shot planning and tracking. The form is likely used by production teams to manage and coordinate shots for a scene, including details such as shot type, location, and schedule. The form also includes fields for notes and map-related information. The purpose of this form is to ensure that all necessary information is collected and documented for each shot, making it easier for teams to work together and plan their production efficiently.</thinking>
-
 # Movie Shot List Form - Help Guide
 
 ## Purpose

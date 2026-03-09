@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to track and record the temperature of stored food items, ensuring accurate record-keeping and facilitating efficient monitoring of food quality and safety. This form helps in maintaining a clear and up-to-date record of food items, their storage locations, and the individuals responsible for storing and checking them. This information is crucial for maintaining high standards of food safety and quality control. It is essential to fill out this form accurately and completely to ensure that the information is recorded correctly and can be used for reference in the future.
-</thinking>
-
 # Daily Food Temperature Form - Help Guide
 ## Purpose
 The Daily Food Temperature Form is designed to track the temperature of food items stored in the facility. This form helps in maintaining accurate records of food items, their storage locations, and the individuals responsible for storing and checking them.

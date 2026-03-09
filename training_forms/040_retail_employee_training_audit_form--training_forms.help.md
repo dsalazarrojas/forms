@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Employee Training Audit Form - Help Guide
 ## Purpose
 This form is used to document and track employee training and evaluations. It helps ensure that employee training is up-to-date and compliant with organizational requirements. The form is used by trainers and supervisors to record and evaluate employee training, including topics covered, dates, locations, and outcomes.

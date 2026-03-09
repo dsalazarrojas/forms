@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Training Needs Identification Evaluation Form - Help Guide
 
 ## Purpose

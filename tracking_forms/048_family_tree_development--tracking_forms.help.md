@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about individuals in a family tree. It is crucial to track this information accurately to ensure that the family tree is up-to-date and reliable. To avoid duplication, ensure that each entry is unique and distinct from others. This form must be completed for every individual in the family tree.
-</thinking>
-
 # Family Tree Development - Help Guide
 ## Purpose
 This form is used to collect information about individuals in a family tree. It ensures that the family tree is up-to-date and accurate, reducing the risk of duplication and errors.

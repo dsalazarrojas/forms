@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about a client's personal and health-related data for the purpose of creating a tailored fitness training plan. The goal is to have a comprehensive understanding of the client's goals, medical history, and emergency contact information. This will help trainers to provide better services and ensure client safety.
-
-The form should be filled in by a client to provide their personal data and goals. It will ask for their name, contact information, date of birth, and health-related data such as height, weight, and medical conditions. Clients will also be asked about their fitness goals, exercise preferences, and emergency contact information. This information will be used to create a customized fitness plan that suits their needs.
-
-Please note that this form is designed to be completed by a single individual, not a group of people. If you are filling out this form on behalf of someone else, please ensure that the information is accurate and up-to-date.
-
-</thinking>
 # Personal Training Client Intake Form - Help Guide
 ## Purpose
 This form is designed to collect personal and health-related data from clients to create a tailored fitness training plan.

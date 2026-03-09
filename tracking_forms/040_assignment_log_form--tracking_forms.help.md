@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Assignment Log Form - Help Guide
 ## Purpose
 The Assignment Log Form is designed to help students and teachers track and document assignments, their status, and progress. This form is used to record information about individual assignments, including due dates, submission status, and feedback received.

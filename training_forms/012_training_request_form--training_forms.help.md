@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Training Request Form - Help Guide
 ## Purpose
 The purpose of this form is to allow employees to request training for personal and professional development. This form is used to collect information from employees about their training needs, preferences, and goals.

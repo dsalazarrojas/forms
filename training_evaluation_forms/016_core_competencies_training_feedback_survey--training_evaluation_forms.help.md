@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from trainees after a training session. The purpose of this form is to help us understand how well we have met our learning objectives, identify areas of improvement, and ensure that we are providing the best possible experience for our trainees.
-
-Before proceeding, please ensure that this form is relevant to your specific training session. If you have already filled out a similar form for this session, please do not fill out this form again, as this will help us avoid duplicate responses and reduce unnecessary feedback collection.
-
-</thinking>
-
 # Core Competencies Training Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from trainees after a training session.

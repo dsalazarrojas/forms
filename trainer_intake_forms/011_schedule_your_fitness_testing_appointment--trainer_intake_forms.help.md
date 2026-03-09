@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, I'll review the YAML fields. The form seems to be designed for scheduling a fitness testing appointment with a client, likely for a fitness center or training service. This form collects client details, health information, preferred time slots, visit dates, available dates, trainer intake forms, and contact information. To ensure this form is used correctly, it's likely meant for clients to provide their information and preferences so the training staff can schedule an appointment that suits them best.
-
-For non-duplication, I'll assume that the form is meant to be filled out by a single client per submission, and that multiple submissions should be treated as separate clients.
-
-</thinking>
-
 # Schedule Your Fitness Testing Appointment - Help Guide
 ## Purpose
 This form is designed to help you schedule a fitness testing appointment with our training staff. Please fill out the form with your information and preferences to ensure we can schedule an appointment that suits you best.

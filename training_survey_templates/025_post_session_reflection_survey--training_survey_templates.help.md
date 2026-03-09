@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from participants after a training session. The purpose of the form is to understand the participant's experience, suggest areas for improvement, and evaluate the session's effectiveness. Before proceeding, it is essential to ensure this form is not duplicated for the same session, and that the feedback gathered is relevant and accurate.
-</thinking>
-
 # Post Session Reflection Survey - Help Guide
 
 ## Purpose

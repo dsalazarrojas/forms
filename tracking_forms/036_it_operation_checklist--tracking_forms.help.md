@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for tracking and documenting operational activities or procedures, and is designed to be completed by staff members. Given the fields provided, it appears to be a standard form with no specific business logic or conditional logic attached. Therefore, it is safe to assume that this form is intended for general tracking and reporting purposes, such as monitoring progress, recording data, or keeping records.
-</thinking>
-
 # it_operation_checklist - Help Guide
 ## Purpose
 

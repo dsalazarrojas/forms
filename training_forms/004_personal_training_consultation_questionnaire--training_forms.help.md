@@ -1,9 +1,3 @@
-<thinking>Internal reasoning block for form purpose and non-duplication check:
-* The form "personal_training_consultation_questionnaire" is designed to collect information about an individual's training goals, medical information, emergency contacts, and training session details.
-* The form is intended to be used to gather data for the purpose of creating a personalized training plan for the individual.
-* To prevent duplication of effort, the form should only be used for new customers or individuals who have not previously completed a training consultation.
-</thinking>
-
 # personal_training_consultation_questionnaire - Help Guide
 ## Purpose
 The "personal_training_consultation_questionnaire" form is designed to collect information about your training goals, medical information, emergency contacts, and training session details. This form helps us create a personalized training plan tailored to your needs.

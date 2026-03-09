@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather feedback from employees after they have completed a virtual reality training session. It is essential to provide feedback on the training modules, technical issues, and overall satisfaction. This form will help us understand what worked well, what didn't, and areas for improvement.
-
-To ensure the form is completed accurately and thoroughly, please review the following steps and explanations.
-
-Please note that some fields are optional, but all fields should be filled out if possible.
-
-Before we begin, we want to ensure that you are using the correct date format for the "Date of Training" field. We use the YYYY-MM-DD format for dates. This means the day should be entered as a two-digit number between 01 and 31, and the month should be entered as a two-digit number between 01 and 12.
-
-</thinking>
-
 # Employee Virtual Reality Training Feedback Form - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the Respiratory Infection Screening Form that is clear, concise, and practical. The form is used to track respiratory infections, and its primary goal is to collect essential information about patients who may be experiencing symptoms of respiratory infections. This form will likely be used in healthcare settings, such as clinics or hospitals, to quickly and accurately identify patients who may be at risk for respiratory infections. To avoid duplication and ensure relevance, we will review the form carefully to ensure that each field is necessary and well-structured. We will aim to provide a user-friendly guide that helps end-users understand the purpose and completion process of the form.
-
-</thinking>
-
 # Respiratory Infection Screening Form - Help Guide
 ## Purpose
 The Respiratory Infection Screening Form is used to quickly identify patients who may be experiencing symptoms of respiratory infections. This form helps healthcare professionals to gather essential information about patients and provide proper care and treatment.

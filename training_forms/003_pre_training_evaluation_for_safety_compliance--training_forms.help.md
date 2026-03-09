@@ -1,7 +1,3 @@
-<thinking>
-This help guide is being generated based on the provided YAML form schema.
-</thinking>
-
 # Pre Training Evaluation For Safety Compliance - Help Guide
 ## Purpose
 The Pre Training Evaluation For Safety Compliance form is designed to gather information about an employee's safety knowledge, training history, and concerns related to safety compliance. This form aims to assess the employee's understanding and preparedness for upcoming safety training sessions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to validate employee training completion. It is intended to be filled out by employees after completing a training session. The fields in this form should not be filled out by employees who have not completed the training session. This form is likely to be used by HR or training administrators to ensure that employees have met the required training completion criteria. It is essential to fill out this form accurately and truthfully to maintain records and ensure compliance.
-</thinking>
-
 # employee_training_completion_validation_form - Help Guide
 ## Purpose
 The employee training completion validation form is used to confirm that an employee has completed a training session. This form is filled out by the employee after the training has been completed.

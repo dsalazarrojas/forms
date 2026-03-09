@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is likely to track and record details about vehicles used for trips, including dates of trips, the destination, information about the driver and vehicle, as well as costs associated with the trip. To confirm, this form is probably used within an organization or company to gather data for administrative purposes, such as tracking expenses, managing drivers, and monitoring vehicle usage. It is not immediately apparent whether this form will be used for external reporting, such as to government agencies or customers, or if it is an internal tool for management.
-</thinking>
-
 # Vehicle Tracking Report Form - Help Guide
 ## Purpose
 The Vehicle Tracking Report Form is used to collect information about vehicle trips, including trip dates, destinations, driver and vehicle details, and associated costs. This form helps the organization to track and record trip data for administrative purposes.

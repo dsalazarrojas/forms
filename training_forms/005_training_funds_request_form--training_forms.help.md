@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to request training funds for employees, allowing them to submit their proposals for training activities, specifying the amount of funds needed, the start and end dates, and the status of the training. This form is used to collect information about the employee's requirements, manager's feedback, and other relevant details.
-Before filling out the form, please ensure that you're not requesting training funds for a project that is already approved, and that the budget and training status are accurate to prevent duplication of efforts.
-</thinking>
-
 # Training Funds Request Form - Help Guide
 ## Purpose
 The Training Funds Request Form is designed to help employees request training funds for their activities. This form is a crucial tool for managers to review and approve or decline the requests.

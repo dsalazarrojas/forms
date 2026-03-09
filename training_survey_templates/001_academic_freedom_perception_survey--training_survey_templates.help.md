@@ -1,18 +1,3 @@
-<thinking>
-
-## Purpose
-The Academic Freedom Perception Survey is a tool designed to gauge the perceptions of academic freedom at your institution. It aims to collect feedback from various categories of individuals on campus, including undergraduate students, graduate students, faculty members, administrative staff, and others, to identify areas that need improvement and opportunities for enhancing academic freedom.
-
-Before we dive into the survey questions, let's ensure that this form is the right tool for you. If you're unsure or have already taken similar surveys, please feel free to skip this one.
-
-### Form Relevance and Duplication
-This form was created using AI and is not affiliated with or endorsed by any form platform. It's an original adaptation of public survey topic metadata and does not duplicate or use proprietary content from any form creation or data collection platforms. You're free to use, modify, and even sell forms derived from this original work - just give credit!
-
-### Form Design
-The form is designed to be clear and concise, ensuring that each question is straightforward and easy to understand. The following guide will walk you through each field, providing clarity on what to expect and how to complete the survey.
-
-</thinking>
-
 # Academic Freedom Perception Survey - Help Guide
 ## Purpose
 The Academic Freedom Perception Survey is designed to collect feedback on the perceptions of academic freedom at your institution. This guide will walk you through each field to ensure you understand what we're asking and how to provide valuable feedback.

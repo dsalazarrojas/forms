@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather information from solo performers about their discipline, experience, training frequency, training type, support needs, training habits, additional comments, contact information, and studio name. This information is likely used for the management and organization of training programs, support services, and communication within the dance studio or organization. Ensure that the solo performer fills out the form accurately and comprehensively, as any inaccuracies may impact the provision of relevant support or services.
-</thinking>
 # Solo Performer Training Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your training and background as a solo performer. It will help us better understand your needs and preferences and provide more effective support and training programs for you.

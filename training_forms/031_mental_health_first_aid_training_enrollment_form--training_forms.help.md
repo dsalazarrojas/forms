@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for enrolling participants in mental health first aid training sessions. The purpose of this form is to collect essential information from participants and their emergency contacts to ensure a smooth and safe training experience. Before filling out this form, please check that you have all the necessary information ready and that you have not already enrolled in this training session. Completing this form will help us tailor the training experience to your needs and provide necessary contact information for emergency situations.
-</thinking>
-
 # mental_health_first_aid_training_enrollment_form - Help Guide
 ## Purpose
 The mental health first aid training enrollment form is designed for participants to enroll in mental health first aid training sessions. The form collects information about the participant and their emergency contact to ensure a safe and effective training experience.

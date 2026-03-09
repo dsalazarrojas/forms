@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We're creating a help guide for the "employee_motivation_training_form" in the "training_forms" category. The purpose of this form is to gather information from employees on their motivation and training needs. It will help managers understand employee motivation levels, identify areas for training, and provide targeted support. This form is meant to be completed by employees, and it's essential to understand its purpose and usage correctly to ensure accurate and helpful feedback.
 
 </thinking>

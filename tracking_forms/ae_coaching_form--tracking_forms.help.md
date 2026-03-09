@@ -1,7 +1,3 @@
-<thinking>
-The AE Coaching Form is a tool used to track and document the coaching sessions between employees and coaches. This form is intended to be completed by the employee after each coaching session, providing a standardized and structured way to gather feedback and insights from the employee. It's crucial that the form is filled out completely and accurately, without duplication of information already covered in other forms, to ensure a comprehensive understanding of the coaching experience.
-</thinking>
-
 # AE Coaching Form - Help Guide
 
 ## Purpose

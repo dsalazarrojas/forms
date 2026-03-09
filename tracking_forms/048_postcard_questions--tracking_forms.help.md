@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that this form is being used correctly and not duplicated. To do this, let's check the internal logic for any issues. Upon reviewing the form fields, all fields appear to be well-structured and properly formatted. The form title is "Postcard Questions" which is clear. We don't see any potential issues with the input schema provided. The fields seem to be correctly configured, including types, labels, and optional/required flags. Before proceeding, we'll make sure to provide clear explanations for any ambiguous fields and ensure that the form is easy to understand for the end-user.
-
-</thinking>
-
 # Postcard Questions - Help Guide
 ## Purpose
 This form is designed to collect information about your activities, experiences, and preferences. It's intended to gather data for internal use, so please fill it out thoroughly and accurately.

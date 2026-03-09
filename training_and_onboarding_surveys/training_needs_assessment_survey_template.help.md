@@ -1,7 +1,3 @@
-<thinking>
-This form is used to identify current training needs, preferences, and areas for skill development and improvement. It is designed to help organizations or training institutions understand the needs and expectations of their learners or users. This form is intended to be used by those who have undergone or are scheduled to undergo training, and it's meant to be completed once. Please ensure you answer honestly and to the best of your knowledge.
-</thinking>
-
 # Training Needs Assessment Survey Template - Help Guide
 ## Purpose
 This form is designed to gather information on your current training needs, preferences, and expectations. It will help us identify areas of improvement and development to better tailor our training programs to your needs.

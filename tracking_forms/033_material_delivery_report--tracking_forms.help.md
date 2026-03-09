@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information on a Material Delivery Report. The purpose of this form is to track the progress and status of material deliveries. It's essential to ensure that all required fields are filled in accurately to maintain accurate records. Please be sure to review the form carefully before submitting. 
-Note: The form can be completed in sections, and some fields are required while others are optional. This will be explained further in the following sections.
-</thinking>
-
 # Material Delivery Report - Help Guide
 ## Purpose
 This form is used to track and report on material deliveries. It captures information on the delivery date, time, location, and status of the delivery. This helps in maintaining accurate records and enabling efficient tracking.

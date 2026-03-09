@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to track the status of drug items, likely for inventory management purposes. Its aim is to collect information on whether certain items are "Active", "Inactive", or "Lost". Users will be asked to select the current status of the items, along with other details such as location, serial numbers, and any additional remarks. Note: This form likely belongs to an inventory management system used by a small team or group, as there is no indication of a large scale enterprise usage.
 
 # Monthly Drug Inventory Form - Help Guide

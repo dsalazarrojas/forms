@@ -1,12 +1,3 @@
-<thinking>
-This form is likely used for tracking the status and progress of products throughout their lifecycle. The form's purpose is to collect information about products from various stages: stage1, stage2, stage3, stage4, stage5. It may be used by product developers or teams to monitor and update product status, or by project managers to track progress and identify areas for improvement. The form's "General Information" section likely collects broad details about the product, while "Product Details" might be used to provide more specific product information. The "Lifecycle Stages" section allows users to select multiple stages of the product's lifecycle, which might include development, production, launch, maintenance, or retirement. The "Tracking" field might be used to record any relevant tracking numbers or codes. The "Portfolio" field could be used to provide a product portfolio or inventory management information. The "Notes" field is for any additional information or comments. The "Contact Information" field allows users to input contact details for products. The "Assigned Teams" field lets users select teams that are assigned to the product.
-
-This form may be useful for project management, product tracking, or inventory control. It is essential to understand that the form fields are not mandatory, so users can complete only the required fields.
-
-Before using this form, please ensure you only fill it out once for each product. This ensures accurate tracking and prevents duplicate information.
-
-</thinking>
-
 # Product Lifecycle Tracking Registration Form - Help Guide
 ## Purpose
 This form is used to track the status and progress of products throughout their lifecycle.

@@ -1,9 +1,3 @@
-<thinking> 
-- The purpose of this form is to collect participant information for COVID screening, including personal details, symptoms, and exposure assessment. 
-- The form is designed to be completed by participants or their authorized representatives. 
-- It helps identify potential risks and provides recommendations for further actions.
-</thinking>
-
 # COVID Screening Form The Conduit - Help Guide
 
 ## Purpose

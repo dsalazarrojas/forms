@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that our cosmetic nurse training form is completed by users who actually need to take it. To confirm, this form is intended for cosmetic nurses who have completed a training course and are providing feedback on the quality of the training they received. They will typically be in a professional setting, such as a hospital or clinic, and will have a legitimate reason to complete this form. It's not intended for general public feedback or for use by non-cosmetic nurses who may not be familiar with the specific needs and jargon of the profession. Let's make sure that users understand the purpose and context of this form before they start filling it out.
-</thinking>
-
 # Cosmetic Nurse Training Survey - Help Guide
 ## Purpose
 This form is designed for cosmetic nurses to provide feedback on their training experience. It will help us understand their perception of the training they received, which will inform our future training programs.

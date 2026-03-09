@@ -1,7 +1,3 @@
-<thinking>
-This form was created by AI using public survey topic metadata, specifically the category "Retail Warehouse Training" and "Survey". It's meant to assess the satisfaction of warehouse trainers, their program, and overall experience. The form likely targets warehouse staff, possibly after a training session or program, to gauge their opinions on the training provided. This form's fields seem to cover basic information like trainer names, training programs, overall satisfaction, feedback, dates, and times. It's a simple, structured form with a clear goal of gathering feedback and ratings.
-</thinking>
-
 # Retail Warehouse Training Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from warehouse trainers on their experience with the Retail Warehouse Training program.

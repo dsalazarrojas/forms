@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Action Items Details Form - Help Guide
 
 ## Purpose

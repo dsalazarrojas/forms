@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rewards Redemption Log Form - Help Guide
 
 ## Purpose

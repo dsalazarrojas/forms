@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to create a new test run, which is a record of a test execution or a sequence of test actions. This form is part of a larger system for tracking and managing test runs.
 
 Before starting, ensure you have a valid Form ID for the test run. If you're not sure what that is, please consult with your team or system administrators.

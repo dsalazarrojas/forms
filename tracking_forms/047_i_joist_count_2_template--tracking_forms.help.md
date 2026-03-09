@@ -1,21 +1,3 @@
-<thinking>
-This help guide is to explain the process of filling out the "i_joist_count_2_template" form, a form used to collect relevant data from users. Before filling out the form, please note that it's not a duplicate of other forms and is meant for specific tracking purposes.
-
-The form consists of multiple fields, each with its own purpose and requirements. Here's a brief overview:
-
-*   **form_1** (ID: 1): This is the first page of the form, which appears to be a placeholder for a form section.
-*   **input_1** (ID: 2): This field is required and is a numerical input field.
-*   **form_2** (ID: 3): This is a note field, which is not required and seems to be for additional comments or notes.
-*   **input_2** (ID: 4): This is a multiple-choice select field with options A, B, C, D, E, F, G, H, I.
-*   **form_3** (ID: 5): This is a single-choice select field with options X, Y, Z.
-*   **date_1** (ID: 6): This is a date field, which is not required.
-*   **time_1** (ID: 7): This is a time field, which is not required.
-*   **email_1** (ID: 8): This is an email field, which is not required.
-*   **phone_1** (ID: 9): This is a text field for phone numbers, which is not required.
-*   **form_4** (ID: 10): This is a single-choice select field with options 1, 2, 4.
-
-</thinking>
-
 # i_joist_count_2_template - Help Guide
 ## Purpose
 The "i_joist_count_2_template" form is used for tracking purposes and is not a duplicate of other forms. Please ensure that you fill out the form accurately and completely.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from developers who wish to enroll in a program or partnership. This form is designed to guide users through the process of providing their details, which will be used to facilitate the enrollment process.
 
 To complete this form, follow these steps:

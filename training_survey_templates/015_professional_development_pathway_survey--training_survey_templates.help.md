@@ -1,12 +1,3 @@
-<thinking>
-The form "Professional Development Pathway Survey" is designed to collect feedback and information from users about their training and development needs, skills, and goals. The form is part of a larger initiative to improve professional development pathways within organizations. This form is intended for individuals to reflect on their current skills, knowledge, and experiences, and to identify areas for growth and improvement. It is recommended that this form is filled out by individuals who are interested in exploring opportunities for professional growth and development.
-
-Before filling out the form, please ensure that you have not already taken the survey. If you have filled out this survey before, your responses may not be recorded or saved in the system.
-
-To complete this form, please follow the instructions carefully. The form consists of a series of text-based fields where you will be asked to provide information and answers to specific questions. Each field will be described below, so please read carefully before proceeding.
-
-</thinking>
-
 # Professional Development Pathway Survey - Help Guide
 ## Purpose
 This form is designed to gather information and feedback from individuals about their professional development needs, skills, and goals. It is intended to help identify areas of improvement and potential opportunities for growth and development within the organization.

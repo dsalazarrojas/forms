@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for recording and tracking participant attendance in safety training sessions. It captures essential details about the session, trainer, participants, and attendance status. The form is designed to be completed by trainers or training administrators to record session attendance.
-
-Before proceeding, ensure that this is the correct form for your intended purpose and that you have not completed it previously. If you are unsure or need assistance, please contact the relevant personnel.
-
-The form can be completed in multiple pages, with various fields that cater to different types of information. Please ensure that each page is completed accurately and thoroughly.
-
-This form is not intended for real-time feedback or discussion; it's a formal record-keeping tool. If you need to communicate with the trainer or other participants, please use separate channels for that purpose.
-
-</thinking>
-
 # Safety Training Attendance Form - Help Guide
 ## Purpose
 This form is designed for recording and tracking participant attendance in safety training sessions. It captures relevant details about the session, trainer, participants, and attendance status.

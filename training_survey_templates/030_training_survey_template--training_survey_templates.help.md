@@ -2,8 +2,6 @@
 
 ## Purpose
 
-<thinking>This form is designed to collect feedback and evaluation on the quality of a training session. It helps to assess how well the training was delivered, what topics were covered, and how it aligns with job requirements. The form is useful for training administrators and facilitators to improve future trainings.</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

@@ -1,7 +1,3 @@
-<thinking>
-This form is for adding movements to the inventory system. It is used to track changes in the quantity of items in stock. Before filling out this form, ensure that you have the necessary information and permissions to add a new movement to the system. Additionally, please be aware that the form is for adding new movements, not for editing or viewing existing ones. 
-</thinking>
-
 # Movement Addition Form - Help Guide
 ## Purpose
 The purpose of this form is to add new movements to the inventory system, allowing you to track changes in the quantity of items in stock.

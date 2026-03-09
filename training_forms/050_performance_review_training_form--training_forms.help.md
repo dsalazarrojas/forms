@@ -1,8 +1,3 @@
-<thinking>
-Is the form used for performance reviews of employees? Yes, it appears to be designed for that purpose. The form seems to be asking for information on an employee's performance, including their performance rating, goals, training needs, job satisfaction, and additional feedback. It also asks for comments and next steps for the employee. It's likely used by a manager or supervisor to conduct performance reviews. I'm checking for non-duplication... I don't see any obvious duplication in the field names or descriptions.
-
-</thinking>
-
 # performance_review_training_form - Help Guide
 ## Purpose
 This form is for performance reviews of employees. It's used by managers or supervisors to assess an employee's performance, identify training needs, and provide feedback.

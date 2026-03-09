@@ -1,7 +1,3 @@
-<thinking>
-This form is used for collecting information from personal training clients to ensure they are physically and mentally prepared for the training program. The form helps trainers understand the client's goals, medical history, and any allergies or medical conditions that may impact their training.
-</thinking>
-
 # Personal Trainer Client Intake Form - Help Guide
 ## Purpose
 The Personal Trainer Client Intake Form is used to collect essential information from clients before they start training. This information helps trainers tailor the program to the client's needs and ensure their safety during training.

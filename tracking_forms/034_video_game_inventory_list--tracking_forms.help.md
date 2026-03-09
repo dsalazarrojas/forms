@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Video Game Inventory List" form, we will first consider the form's purpose. The form likely serves to collect information about video games, focusing on their titles, platforms, release years, and other relevant details. The form's fields are designed to accommodate various aspects of a video game, such as its title, platform, condition, price, purchase location, purchase date, notes, contact information of the seller, and media such as images and videos.
-</thinking>
-
 # Video Game Inventory List - Help Guide
 ## Purpose
 This form is designed to record and track video games in your inventory. It gathers essential details about each game, including its title, platform, and release year, to help you keep a comprehensive and organized collection.

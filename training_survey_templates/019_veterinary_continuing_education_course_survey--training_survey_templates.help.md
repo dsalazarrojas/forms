@@ -1,11 +1,3 @@
-<thinking>
-
-The form "Veterinary Continuing Education Course Survey" is designed to gather information from veterinary professionals about their preferences and interests related to continuing education courses. This form will help identify areas of interest for courses to be offered, which will inform the creation of new educational opportunities for veterinarians. 
-
-Before proceeding, please ensure that this form is relevant to your role as a veterinarian and that your responses reflect your true interests and preferences.
-
-</thinking>
-
 # Veterinary Continuing Education Course Survey - Help Guide
 ## Purpose
 This form is used to gather information from veterinarians about their interests and preferences for continuing education courses.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Training Need Analysis Form - Help Guide
 ## Purpose
 The Training Need Analysis Form is a tool used to identify the specific needs of employees or teams in a given department. It helps analyze and document training requirements to ensure that employees have the necessary skills and knowledge to perform their job tasks effectively.

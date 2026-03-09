@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to help users set and track their New Year's resolutions or goals for the upcoming year. Users can add as many goals as they want, with fields to input the goal name, type (short-term, long-term, or financial), start date, end date, target completion date, priority, and progress status. This form is meant to be a helpful tool for users to organize and monitor their goals, allowing them to make informed decisions and stay on track with their objectives.
-
-To avoid duplication, we suggest users review their previous year's goals before submitting this form to ensure they are not repeating goals.
-
-</thinking>
-
 # New Year's Goals Form Template - Help Guide
 ## Purpose
 The New Year's Goals Form Template is a tool to help you set and track your New Year's resolutions or goals for the upcoming year.

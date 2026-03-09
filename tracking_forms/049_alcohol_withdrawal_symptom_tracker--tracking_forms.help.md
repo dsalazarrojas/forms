@@ -1,7 +1,3 @@
-<thinking>
-Checking for duplication and relevance: Form "Alcohol Withdrawal Symptom Tracker" is a valid form for tracking symptoms and vital signs of patients undergoing alcohol withdrawal. Its purpose is to collect data that can be used to monitor the progress of recovery programs and support the review of counselors.
-</thinking>
-
 # Alcohol Withdrawal Symptom Tracker - Help Guide
 ## Purpose
 The Alcohol Withdrawal Symptom Tracker is designed to help recovery programs and counselors track the progress of patients undergoing alcohol withdrawal. This form collects data on physical and psychological symptoms, vital signs, and other relevant information to support treatment decisions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for assigning tasks to employees. It allows the user to enter information about the task, including the title, description, assigned employee, start and end dates, priority, assigned tools, and task list. It also includes a note field for any additional comments or reviews. The form is designed for tracking and managing tasks assigned to employees in an efficient and organized manner.
-</thinking>
-
 # Employee Task Assignment Form - Help Guide
 ## Purpose
 The Employee Task Assignment Form is used to track and assign tasks to employees, ensuring efficient task distribution and completion.

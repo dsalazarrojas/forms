@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to evaluate the effectiveness of preventive medicine training, which is a crucial aspect of healthcare professionals' development. This evaluation will help assess the quality of training provided, identify areas of improvement, and facilitate future planning. To ensure consistency and accuracy, please verify that this form is being used correctly and not duplicated. The information provided will be used to analyze the training outcomes, identify trends, and inform the development of future training programs.
-
-</thinking>
-
 # Preventive Medicine Training Evaluation - Help Guide
 ## Purpose
 

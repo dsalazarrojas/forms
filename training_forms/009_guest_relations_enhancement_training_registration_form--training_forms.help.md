@@ -1,7 +1,3 @@
-<thinking>
-...The "Guest Relations Enhancement Training Registration Form" is designed to collect information from individuals who require training on guest relations and etiquette. The form helps to ensure that the guest experience is exceptional and that all guests feel welcome and well-cared for during their visit. The form should not be filled out by guests who have already received the training or by individuals who are not attending a training event. Please fill out the form carefully, and ensure that all required fields are completed to guarantee accurate processing of your registration...
-</thinking>
-
 # Guest Relations Enhancement Training Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who require training on guest relations and etiquette, to ensure an exceptional guest experience during their visit.

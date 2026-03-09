@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information for the "monthly_training_follow_up_form" to facilitate follow-up activities after a training session. This form is not meant to be filled out by the participant, but rather by the training organizer or administrator to record relevant details about the training session. The form should only be filled out for each participant who attended the training session, to ensure accurate and complete data collection. Before filling out this form, ensure that you have checked the participant's training session record to avoid duplication. Only fill out this form once per participant.
-</thinking>
-
 # monthly_training_follow_up_form - Help Guide
 ## Purpose
 This form is used by training organizers or administrators to capture information about each participant who attended a training session.

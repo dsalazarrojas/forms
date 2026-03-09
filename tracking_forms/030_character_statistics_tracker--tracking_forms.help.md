@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for tracking character statistics during sessions or adventures. It appears to be used by tabletop role-playing games or similar activities where players need to keep track of their character's progress. The form has several pages, but this guide will cover the general flow and explanation of each field.
-</thinking>
-
 # Character Statistics Tracker - Help Guide
 ## Purpose
 The Character Statistics Tracker is a form designed to record and monitor character statistics during sessions or adventures. It allows users to keep track of their character's progress, experiences gained, health, resources collected, and other relevant information.

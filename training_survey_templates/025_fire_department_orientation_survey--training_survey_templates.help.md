@@ -1,11 +1,3 @@
-<thinking>
-**Internal reasoning block:**
-The purpose of this form is to collect information from new recruits during the fire department orientation process. This form is likely used for administrative purposes, such as keeping track of new employees, their emergency contacts, and their departmental assignments. 
-
-To ensure relevance and non-duplication, we should verify that the form is not being used for other purposes and that the required fields are accurate.
-
-</thinking>
-
 # fire_department_orientation_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information from new recruits during the fire department orientation process.

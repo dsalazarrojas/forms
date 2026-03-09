@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to track waste transfer operations, gathering essential details such as the generator ID, transfer date, and receiver ID. The form also includes fields for tracking the quantity transferred, waste characteristics, and notes on the transfer. Email notification and phone number fields allow for contact information to be added, and a submission confirmation section is included to ensure accuracy and consistency.
-
-</thinking>
-
 # Waste Transfer Docket Form - Help Guide
 ## Purpose
 The Waste Transfer Docket Form is used to document and track waste transfer operations between generators and receivers, ensuring accurate and efficient recording of transfer details.

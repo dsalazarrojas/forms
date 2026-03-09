@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for tracking inbound deliveries, providing a structured format for capturing delivery dates, times, notes, types, slips, and other relevant details. The purpose of this form is to ensure accurate and timely tracking of inbound deliveries, facilitating efficient logistics management. Before proceeding, please ensure that you are submitting a new record and not duplicating an existing one.
-</thinking>
-
 # Inbound Drop Record Form - Help Guide
 ## Purpose
 The Inbound Drop Record Form is designed for tracking inbound deliveries, ensuring accurate and timely information.

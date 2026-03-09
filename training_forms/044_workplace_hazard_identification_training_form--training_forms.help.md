@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workplace Hazard Identification Training Form - Help Guide
 ## Purpose
 This form is designed to be filled out by employees after a workplace hazard identification training session. It is used to gather information about the training session, including the type of hazards identified, control measures taken, and number of employees trained. This form helps to ensure that all necessary information is collected and reported correctly.

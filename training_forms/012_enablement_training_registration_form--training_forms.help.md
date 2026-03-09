@@ -1,5 +1,3 @@
-<thinking>As a user-facing help guide, this form is designed to gather information for Enablement Training Registration. The form collects personal details such as First Name, Last Name, Email, Phone, and other relevant information from trainees. It also includes select options for Training Program, Training Date, Training Time, Location, and other specific details about the training session. This form is intended for internal use within an organization, ensuring that trainees' information is up to date, and their training status is accurate. The form's submit button will guide the user to submit the form once completed. This form should only be filled out once for each training session, and any duplication should be avoided.</thinking>
-
 # Enablement Training Registration Form - Help Guide
 ## Purpose
 The Enablement Training Registration Form is designed to gather information from trainees for the purpose of tracking and managing training sessions. This form helps to ensure that trainees' information is up to date and accurate.

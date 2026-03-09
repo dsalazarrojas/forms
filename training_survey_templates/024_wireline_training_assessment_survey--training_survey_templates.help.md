@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to provide users with a clear understanding of the Wireline Training Assessment Survey form. This form is used to collect feedback on training assessments, and its purpose is to gather data on the effectiveness of training sessions. This guide will walk you through each field and explain its purpose, ensuring that users can complete the form accurately and confidently.
-</thinking>
-
 # Wireline Training Assessment Survey - Help Guide
 ## Purpose
 The Wireline Training Assessment Survey is a tool used to gauge the effectiveness of training sessions. This form helps trainers, instructors, and training administrators understand areas of improvement and overall satisfaction with the training experience.

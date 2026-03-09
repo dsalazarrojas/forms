@@ -1,7 +1,3 @@
-<thinking>
-We should check if the form is intended for training small group leaders and if it's not a duplicate form. This form is designed to collect information from small group leaders about their training sessions. It's essential to ensure that the form is completed correctly to get accurate and complete data. Please review the form fields carefully and let me know if you have any questions or need further clarification.
-</thinking>
-
 # small_group_leader_training_registration_form - Help Guide
 ## Purpose
 The small group leader training registration form collects information from small group leaders to help us understand their training needs and preferences. 

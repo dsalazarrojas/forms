@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to track the details of monthly spending, including income earned, income spent, total expenses spent, and other related metrics. The purpose of this form is to gather accurate and comprehensive information about a person's or organization's financial activities over a specific period.
-
-It's essential to ensure that the form is filled out accurately and completely to provide a clear picture of financial performance. If you've already completed this form in the past, please review your previous submissions to avoid duplicating information.
-
-This form is designed to capture detailed financial data and should be filled out for each month, ideally at the end of the month. If you're unsure about any field or have questions, feel free to reach out to the form administrators or refer to the provided help guide.
-
-The form consists of multiple pages, each containing a set of fields that require your input. Please follow the instructions below to complete the form successfully.
-</thinking>
-
 # monthly_spending_details_form - Help Guide
 ## Purpose
 This form is used to track and report monthly spending details, including income earned, income spent, total expenses spent, and other relevant metrics.

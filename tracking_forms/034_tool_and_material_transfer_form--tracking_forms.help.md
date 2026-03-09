@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tool And Material Transfer Form - Help Guide
 ## Purpose
 The Tool And Material Transfer Form is used to track the transfer of tools and materials between teams, departments, or individuals within an organization. This form helps ensure accurate and efficient record-keeping and facilitates the process of transferring tools and materials.

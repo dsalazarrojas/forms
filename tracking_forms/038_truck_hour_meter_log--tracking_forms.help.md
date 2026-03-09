@@ -1,7 +1,3 @@
-<thinking>
-The form "Truck Hour Meter Log" is designed to track information related to vehicle usage and performance. This includes logging engine hours, routes completed, fuel consumed, and other relevant metrics. The goal is to provide a comprehensive record of a vehicle's usage, which can help in understanding its operational history and identifying trends. It is expected that the form will be used to record data for a specific vehicle, and each entry will represent a single log entry for that vehicle. Please ensure that each entry is unique and not a duplication of an existing record.
-</thinking>
-
 # Truck Hour Meter Log - Help Guide
 ## Purpose
 The Truck Hour Meter Log is a form used to track vehicle usage and performance metrics such as engine hours, routes completed, fuel consumed, and more.

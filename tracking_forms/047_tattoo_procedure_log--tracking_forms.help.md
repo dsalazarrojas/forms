@@ -1,8 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Tattoo Procedure Log" form. This form is designed for tracking and documenting tattoo procedures, allowing users to input and store information about each procedure, including date, patient details, artist details, procedure description, and status. The form will help users keep track of procedures in an organized and accessible way, enabling them to quickly reference and manage the data.
-To prevent duplication, we'll be checking if the procedure date already exists in the log. If it does, users will be notified and will be able to update the existing record instead of creating a new one. This ensures that the log remains organized and accurate.
-</thinking>
-
 # Tattoo Procedure Log - Help Guide
 ## Purpose
 The Tattoo Procedure Log form is designed to track and document tattoo procedures, allowing users to quickly reference and manage the data.

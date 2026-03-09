@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information from support care staff for daily observations and notes. The purpose is to record details of a client's condition, location, and any relevant observations or notes. The form is meant to be completed by support care staff who have had contact with the client and will be used to update relevant records and inform other staff members about the client's situation.
-
-The form is intended to be completed by support care staff who have had direct interaction with the client. It is not a duplicate entry or intended for other purposes.
-
-</thinking>
-
 # Daily Support Carer Notes - Help Guide
 ## Purpose
 The Daily Support Carer Notes form is used to record details of a client's condition and interactions with support care staff. This information helps inform other staff members and ensures that accurate records are kept up to date.

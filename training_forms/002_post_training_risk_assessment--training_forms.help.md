@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide will guide the end-user through completing the "Post Training Risk Assessment" form.
-
-To determine if you are eligible to complete this form, please note that this form is intended for users who have completed training and are reporting on a potential or actual risk that occurred as a result of this training. If you have not completed training or are unsure about the relevance of this form, you should reach out to your supervisor or training administrator to discuss.
-
-Before proceeding, please ensure that you have not completed this form in the past 24 hours. If you have already submitted a "Post Training Risk Assessment" form, do not attempt to submit it again.
-
-</thinking>
-
 # Post Training Risk Assessment - Help Guide
 ## Purpose
 The "Post Training Risk Assessment" form is used to report potential or actual risks that occurred after completing training. This form helps identify areas for improvement and ensures that necessary steps are taken to mitigate and prevent similar incidents in the future.

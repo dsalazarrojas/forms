@@ -1,8 +1,3 @@
-<thinking>
-Internal note: This form is for suggesting training topics. It should only be filled out by people with a legitimate reason to suggest a topic. The form will check for duplicate suggestions to prevent unnecessary submissions.
-Before filling out this form, ensure that you have a valid reason for your suggestion. If you've already suggested a topic similar to this one, please do not resubmit.
-</thinking>
-
 # Training Topic Suggestions - Help Guide
 ## Purpose
 This form is for suggesting new training topics for our training program. It allows you to propose new ideas and help us identify areas that need more knowledge sharing and skill development.

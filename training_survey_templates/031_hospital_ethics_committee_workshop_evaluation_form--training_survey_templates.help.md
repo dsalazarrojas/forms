@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be a tool for evaluating the effectiveness and quality of a hospital ethics workshop. The purpose of this form is likely to solicit feedback from participants, helping the workshop organizers understand the strengths and weaknesses of the workshop and use this feedback for future improvements. This form might be used by the hospital's ethics committee or by the workshop organizers to assess the performance of the workshop and its presenters.
-
-</thinking>
-
 # Hospital Ethics Committee Workshop Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants on the effectiveness and quality of the hospital ethics workshop. The feedback will help the workshop organizers improve the content, presentation, and overall experience for future participants.

@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand the purpose of the form and how end-users can use it efficiently. 
-
-The form seems to be created for tracking inventory levels of non-produce items. It's designed to gather information about the stock levels, restocking needs, and reordering points for these items. This form is likely used in a business setting where inventory management is crucial for efficient stock control. The form is divided into multiple pages with various fields that require specific information about the item being surveyed.
-
-Before we proceed, let's assume that the form is not for tracking produce items, as the form id and name suggest otherwise.
-
-</thinking>
-
 # Non Produce Inventory Survey - Help Guide
 
 ## Purpose

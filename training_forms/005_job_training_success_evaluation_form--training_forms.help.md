@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the success of a participant in a job training program. This form is typically used to assess the effectiveness of the training and identify areas for improvement. Before starting, check that this is the correct form for your evaluation and that you're not duplicating work that's already been completed.
-</thinking>
-
 # job_training_success_evaluation_form - Help Guide
 
 ## Purpose

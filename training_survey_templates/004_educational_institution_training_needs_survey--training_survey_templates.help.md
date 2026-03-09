@@ -1,9 +1,3 @@
-<thinking>Before we dive into the help guide, let's consider the purpose and scope of this form. This Educational Institution Training Needs Survey is designed to gather information about the training needs of educational institutions. Its purpose is to help administrators and decision-makers understand what kind of training is required to improve the institution's performance.
-
-This form is not designed to be a comprehensive needs assessment, but rather a starting point for identifying potential areas of improvement. It should not be used to collect detailed, in-depth information about specific training topics or programs.
-
-To fill out this form, respondents are expected to provide high-level information about their institution's training needs. This information will be used to inform future training initiatives and support the institution's growth and development.</thinking>
-
 # Educational Institution Training Needs Survey - Help Guide
 
 ## Purpose

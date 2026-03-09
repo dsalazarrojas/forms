@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Initial Margin Monitoring Log - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cleaning Knowledge Assessment - Help Guide
 ## Purpose
 This form is designed to assess the cleaning knowledge of employees to identify areas where they may need additional training or support. It is intended for employees who work in a cleaning role and are expected to follow proper cleaning procedures, use safety equipment, and demonstrate customer service skills.

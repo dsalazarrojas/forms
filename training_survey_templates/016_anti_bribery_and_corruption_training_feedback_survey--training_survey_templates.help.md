@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to capture participant feedback after the Anti Bribery And Corruption Training session. The form is intended to help evaluate the effectiveness of the training, identify areas of improvement, and provide feedback on the relevance, presenter's engagement, and overall satisfaction of the participants. Before filling out this form, please consider the following:
-
-* Ensure that this is the correct form for your feedback. If it's not, please let us know and we'll guide you to the correct form.
-* This form is designed for capturing feedback from one participant, so you can fill it out only once for each individual participant.
-
-</thinking>
-
 # Anti Bribery And Corruption Training Feedback Survey - Help Guide
 ## Purpose
 The Anti Bribery And Corruption Training Feedback Survey is designed to capture participant feedback after the training session. The form is used to evaluate the effectiveness of the training, identify areas of improvement, and provide feedback on the relevance, presenter's engagement, and overall satisfaction of the participants.

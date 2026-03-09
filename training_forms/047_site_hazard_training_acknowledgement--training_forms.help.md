@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to gather information for site hazard training, which is an important part of ensuring that employees working at a site understand and can identify potential hazards that exist on that site. This form is used to collect data on the site hazard training process, including who has completed the training, when it was completed, and their status.
-
-The goal of this guide is to assist users in understanding what the form is used for, how to complete it, and what each field represents.
-
-</thinking>
-
 # Site Hazard Training Acknowledgement - Help Guide
 ## Purpose
 The Site Hazard Training Acknowledgement form is used to track and record information about site hazard training. This includes confirming that training has been completed, identifying the site manager and training completed dates, and ensuring that site managers are aware of the training status and completion.

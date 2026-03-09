@@ -1,12 +1,3 @@
-<thinking>
-This form is used to record the validation of quantity and quality of items received, which is an important part of the inventory management process. The form ensures that the quantity and quality of the items match the expected standards and are verified by the relevant personnel. This form will help users keep track of the items received, the quantity and unit of the items, the quality check results, and any supporting evidence or remarks.
-
-To ensure that this form is used correctly, it is essential to understand each field's purpose and how to complete it.
-
-Please note that some fields are optional, and the required fields are marked as "required: true" in the form configuration. 
-
-</thinking>
-
 # validation_of_quantity_and_quality_form - Help Guide
 ## Purpose
 This form is used to record the validation of quantity and quality of items received in the inventory management process.

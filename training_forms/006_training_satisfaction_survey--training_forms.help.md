@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture feedback from trainees on their experience with a training session. The purpose of this form is to gather information on various aspects of the training, including trainee satisfaction, training effectiveness, trainer satisfaction, trainer knowledge, material support, time management, and any additional feedback. This form is meant to be completed by trainees after a training session and will help us evaluate and improve the training program.
-</thinking>
-
 # Training Satisfaction Survey - Help Guide
 ## Purpose
 The Training Satisfaction Survey is used to gather feedback from trainees on their experience with a training session. It helps us evaluate and improve the training program.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track the duration of tasks, allowing users to input start and end times for their work sessions, as well as other relevant details like comments, assigned tasks, and status updates. This form is likely used in a work environment where employees need to track their work hours and progress. Before proceeding, ensure that this form doesn't already exist in your system or has been updated since you last accessed it. If it does, you can update this guide accordingly.
-</thinking>
-
 # Duration Tracking Survey - Help Guide
 ## Purpose
 This form is used to track the duration of tasks and monitor work progress.

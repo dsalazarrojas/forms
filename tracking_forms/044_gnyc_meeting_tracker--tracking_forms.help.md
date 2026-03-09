@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gnyc Meeting Tracker - Help Guide
 ## Purpose
 The Gnyc Meeting Tracker form is used to record and track meetings for the Gnyc organization. This form helps to ensure that all relevant information is captured and recorded for future reference and decision-making.

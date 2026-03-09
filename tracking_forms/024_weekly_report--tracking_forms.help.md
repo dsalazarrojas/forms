@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect data for weekly reports in a school setting. It's likely designed to monitor student and staff performance, engagement, and overall progress over the course of a week. Before starting to fill out this form, ensure that all relevant data is up-to-date and that you haven't already submitted a report for the same week. 
-
-The form is designed to be flexible, allowing for optional and required fields depending on your needs and the specific requirements of your school or department. It's essential to provide accurate and thorough information to ensure that the report is informative and helpful.
-
-This form might be used by teachers, staff members, or administrators to report on various aspects of student progress and performance, as well as staff engagement and progress. It's possible that this form could be used for internal reporting and decision-making within the school or department.
-</thinking>
-
 # Weekly Report - Help Guide
 ## Purpose
 This form is designed to collect data for weekly reports in a school setting, monitoring student and staff performance, engagement, and overall progress over the course of a week.

@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather feedback and evaluation of a Medical Billing course. The form is divided into multiple pages, each with a specific section for users to provide their thoughts and opinions. The form collects feedback on the course content, instructor performance, materials, and overall satisfaction. The form also includes a few questions that are more subjective, such as rating the session and materials quality. Users can provide additional comments and feedback on the course, and indicate whether they would recommend the course to others.</thinking>
-
 # Medical Billing Course Review Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and evaluation of a Medical Billing course.

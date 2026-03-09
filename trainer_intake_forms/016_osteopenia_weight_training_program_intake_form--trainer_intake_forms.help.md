@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information from potential participants of a weight training program, specifically regarding their safety and agreement to participate, as well as contact and emergency contact details. This form will likely be used in a fitness or wellness setting where trainers, studios, and wellness providers need to collect information to ensure a safe and effective experience for participants. To avoid duplication, ensure you're not already registered for this program or have not been previously removed from the participant list.</thinking>
-
 # osteopenia_weight_training_program_intake_form - Help Guide
 ## Purpose
 

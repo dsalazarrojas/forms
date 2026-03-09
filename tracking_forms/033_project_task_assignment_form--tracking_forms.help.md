@@ -1,10 +1,3 @@
-<thinking>
-This form is used to assign tasks to team members for a project. It is designed to be completed by project managers or team members to keep track of task assignments and deadlines. 
-The form should only be used for projects where task assignments and deadlines are relevant. If you don't need to track project tasks and deadlines, do not use this form. 
-This form has been designed to be simple and easy to use, but it is not intended to be a comprehensive project management tool. 
-The form's fields should be self-explanatory, but if you need clarification, this guide will walk you through each field and its purpose.
-</thinking>
-
 # Project Task Assignment Form - Help Guide
 
 ## Purpose

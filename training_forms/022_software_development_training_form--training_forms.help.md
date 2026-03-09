@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees for software development training purposes. The purpose of this form is to gather data on employees' training needs, preferences, and availability. This form is typically used by training administrators to plan and schedule training sessions for software development teams. To ensure that the form is filled out correctly, please review the following instructions and explanations of each field.
-</thinking>
-
 # software_development_training_form - Help Guide
 ## Purpose
 

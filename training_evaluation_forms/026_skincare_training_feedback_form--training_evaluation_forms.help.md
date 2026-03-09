@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from trainees about their experience in a skincare workshop. The goal is to collect insights on the workshop's organization, content, and overall quality to help improve future training sessions. The form is intended for trainees to provide constructive feedback, suggestions, and ratings on various aspects of the workshop. It's essential that the trainee completes this form to ensure their thoughts and opinions are heard to help make the next workshop even better. Please take a moment to provide your honest feedback.
-</thinking>
-
 # Skincare Training Feedback Form - Help Guide
 ## Purpose
 This form is designed to help us understand your experience in the workshop and gather constructive feedback for future improvement.

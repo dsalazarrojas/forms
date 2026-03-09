@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about their experience with wildlife care training. It will help us assess the effectiveness of our training program and identify areas for improvement. This form should only be filled out by users who have attended a wildlife care training session.
-
-We recommend that users only fill out this form once after attending a training session, and not for multiple training sessions.
-
-Please make sure to fill out all required fields, and be as detailed as possible in your comments.
-
-</thinking>
-
 # wildlife_care_training_evaluation_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with wildlife care training.

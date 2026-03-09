@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track inventory received from vendors. The fields included in this form are intended to capture essential details regarding the reception, including the vendor name, receipt date, quantity, and any other relevant remarks. Before proceeding, make sure you are filling this form for a legitimate inventory reception event, and that the data is not already recorded in the system, as it will lead to data duplication.
-</thinking>
-
 # Received Inventory Form - Help Guide
 ## Purpose
 This form is used to track inventory received from vendors. It is essential to fill out this form accurately to ensure that the inventory is properly recorded and tracked.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Agent Productivity Report Form - Help Guide
 
 ## Purpose

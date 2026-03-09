@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a comprehensive user-facing help guide for the "Youth Staff Training Feedback" form, I will analyze the provided YAML fields and provide a clear and concise explanation for each section and field.
 
 # Youth Staff Training Feedback - Help Guide

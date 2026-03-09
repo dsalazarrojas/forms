@@ -1,11 +1,3 @@
-<thinking>
-The Running Log Form is used to record and track individual workout sessions. 
-The form asks for a variety of information about each session, such as date, distance, pace, time, calories burned, workout type, notes, apps connected, and repeatable fields for additional sessions. 
-This form ensures that users can track and analyze their progress over time. 
-This form is only to be filled out for individual workout sessions, and not for multiple workouts at once. 
-Please make sure to fill out the form for each session separately.
-</thinking>
-
 # Running Log Form - Help Guide
 ## Purpose
 The Running Log Form is used to record and track individual workout sessions, allowing users to monitor their progress over time.

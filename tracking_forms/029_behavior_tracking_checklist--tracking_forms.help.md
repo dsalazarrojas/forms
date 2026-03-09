@@ -1,11 +1,3 @@
-<thinking>
-
-To create a comprehensive guide for the "Behavior Tracking Checklist" form, let's first clarify its purpose: this form is designed to track and document observations of student behavior in educational settings. It's intended to help educators collect data on student behavior, identify areas of strength and weakness, and inform instruction to support student learning and development.
-
-Before creating the guide, let's ensure that we cover all the necessary fields and avoid duplication of information. Based on the provided YAML, the form consists of two main sections: Student Data (fields 1-4) and Behavior Observation (fields 5-24).
-
-</thinking>
-
 # Behavior Tracking Checklist - Help Guide
 ## Purpose
 The Behavior Tracking Checklist is designed to track and document observations of student behavior in educational settings. It helps educators collect data on student behavior, identify areas of strength and weakness, and inform instruction to support student learning and development.

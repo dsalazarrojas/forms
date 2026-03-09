@@ -1,5 +1,3 @@
-<thinking>Before we dive into the form guide, let's quickly review the purpose of this form. This form is for individuals interested in applying for the Capacity Building Program, a comprehensive training program designed to equip participants with skills and knowledge to improve their professional development and achieve their career goals. To ensure you understand the form's intent, please read the following guide carefully.</thinking>
-
 # Capacity Building Program Application - Help Guide
 ## Purpose
 The Capacity Building Program Application form is designed to gather information about your personal and professional background, educational qualifications, and motivations for applying to the program. This information will help us understand your fit for the program and guide our selection process.

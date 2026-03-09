@@ -1,7 +1,3 @@
-<thinking>
-This form is used for daily inventory tracking, allowing users to report issues and track stock quantities, values, and other relevant information. This form should only be used for tracking purposes and should not be used for other purposes. To avoid duplication, please ensure that you are using the correct form for your specific needs.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The <string> form is used for daily inventory tracking and reporting. Users can fill out this form to report issues and track stock quantities, values, and other relevant information.

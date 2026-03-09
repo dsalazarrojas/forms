@@ -1,7 +1,3 @@
-<thinking>
-Before we begin, let's clarify the purpose and importance of this form. This form is intended to track and document the training status of personnel within an emergency response group. It captures key information such as training type, duration, location, and provider, to maintain accurate records and facilitate communication among team members and leaders. To ensure accuracy, please only fill out the form for personnel who have received or are due to receive training. Avoid duplicating efforts by verifying that the personnel's training status has not already been documented elsewhere. 
-</thinking>
-
 # Personnel Emergency Response Group Training Record Form - Help Guide
 ## Purpose
 This form helps track and document the training status of personnel within an emergency response group.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for tracking tile installation projects, which is a crucial aspect of construction and renovation work. The project logger form helps users record and manage key information about each project, including details about the tile type, size, and color used. By tracking project status, client contact information, and other project-specific details, users can efficiently manage multiple projects simultaneously. Before proceeding with this form, ensure that you have the necessary project information and authorization to access this form.
-</thinking>
-
 # Tile Installation Project Logger - Help Guide
 ## Purpose
 The Tile Installation Project Logger form is designed to track and manage tile installation projects, providing a centralized platform for recording and updating project details.

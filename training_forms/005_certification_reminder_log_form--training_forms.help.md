@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to log and track the certifications and their corresponding renewal status. It seems relevant for organizations or businesses that need to manage certifications and their renewal process.
-
-Before filling this form, ensure that you are not duplicating a previously created entry for the same certification and holder.
-
-To fill in the form, you will need to provide information about the certification, the holder of the certification, and the renewal status. The form is split into several sections with clear labels and hints to guide you through the process.
-</thinking>
-
 # Certification Reminder Log Form - Help Guide
 ## Purpose
 The Certification Reminder Log Form is designed to help you track and manage upcoming expirations and renewal owners for certifications. Fill in the form to create a new entry and keep yourself updated on the renewal status.

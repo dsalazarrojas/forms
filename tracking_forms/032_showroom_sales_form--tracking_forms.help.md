@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed for tracking sales information in a showroom setting. It is likely used by sales agents to log sales data for each vehicle sold, including customer and sales details, vehicle specifics, and other relevant information. This form could be used for reporting and analytics purposes, such as monitoring sales performance, customer demographics, and sales trends. Ensure that all required fields are completed for accurate tracking and analysis. This guide covers all fields on the form, but please note that some fields may not be applicable for every sale. 
-
-</thinking>
-
 # Showroom Sales Form - Help Guide
 ## Purpose
 The Showroom Sales Form is used to log sales data for each vehicle sold in the showroom. This data includes customer and sales details, vehicle specifics, and other relevant information for reporting and analytics purposes.

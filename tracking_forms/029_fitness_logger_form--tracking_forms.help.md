@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fitness Logger Form - Help Guide
 ## Purpose
 The Fitness Logger Form is designed to track the user's fitness data, including exercise name, date logged, notes, and other relevant information. This form allows users to log their physical activities, which can be useful for monitoring progress, setting goals, and maintaining a record of their fitness journey.

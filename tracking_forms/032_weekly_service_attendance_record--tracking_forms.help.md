@@ -1,9 +1,3 @@
-<thinking>
-This form is used to track the attendance of users at a service over a specific week. The purpose is to record and monitor user participation. It is assumed that the user submitting this form has access to the relevant data and is able to provide accurate information. This form will not be used to create new records if a user has already completed a weekly service attendance record for the same week.
-
-Please note that this form is designed to be flexible and can be completed by any user who has the necessary information. However, if you are unsure about any of the fields or have any concerns, you can always reach out to your supervisor or the relevant department for clarification.
-</thinking>
-
 # weekly_service_attendance_record - Help Guide
 ## Purpose
 The weekly_service_attendance_record form is used to track user attendance at a service over a specific week. It helps record and monitor user participation.

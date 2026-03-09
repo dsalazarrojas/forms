@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a workplace investigation, including participant details, investigation details, and feedback. It is intended for use by employees or administrators to gather data for training purposes. The form is not meant to be used for official disciplinary actions or formal investigations.
-
-To ensure accurate and consistent data collection, please fill out the form carefully and truthfully. If you have any doubts or concerns, please reach out to the relevant authorities or superiors for clarification.
-
-Please note that some fields are required, while others are optional. Required fields are marked with an asterisk (*) and are essential for the form to be considered complete.
-
-</thinking>
-
 # Workplace Investigation Training Form - Help Guide
 ## Purpose
 This form is used to collect information about a workplace investigation for training purposes.

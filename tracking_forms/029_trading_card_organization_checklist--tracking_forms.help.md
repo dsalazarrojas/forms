@@ -1,11 +1,3 @@
-<thinking>
-
-We're creating a form that helps users organize their trading card collections. The form is likely used for tracking and cataloging the condition and storage details of individual cards. This could be part of a larger inventory system for traders or collectors.
-
-The form's structure suggests it might be part of a larger database or cataloging system, possibly for a card store or a collector's club. The fields are mostly related to condition scoring, storage methods, and collection management.
-
-</thinking>
-
 # Trading Card Organization Checklist - Help Guide
 
 ## Purpose

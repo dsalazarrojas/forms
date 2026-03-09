@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect data on the fitness performance of an individual during a training session. The purpose of this form is to help trainers and coaches evaluate the effectiveness of the training session, identify areas of improvement, and provide constructive feedback to the trainee. This form should only be filled out by trainers and coaches who are working with the trainee, and not by the trainee themselves. 
-
-</thinking>
-
 # Fitness Performance Training Evaluation Form - Help Guide
 ## Purpose
 This form is used by trainers and coaches to evaluate the fitness performance of their trainees during a training session. It helps them to identify areas of improvement and provide constructive feedback.

@@ -1,14 +1,3 @@
-<thinking> 
-This form is used for creating commercial invoices, which are documents that detail the sale or shipment of goods between two parties. In a business context, the commercial invoice form is used to record the terms of the sale, the goods being sold, and the payment terms agreed upon. 
-
-The form is designed to be filled out by exporters and importers of goods, providing all relevant information about the shipment. It's used to ensure accurate tracking and payment for goods exchanged.
-
-In terms of relevance, this form is primarily used for international trade, where the exchange of goods involves more than one party. It is not intended to be used for internal business transactions.
-
-Non-duplication: This form is specifically designed to avoid duplication of effort and reduce the complexity of international trade by providing a standardized document for all parties involved.
-
-</thinking>
-
 # Commercial Invoice Form - Help Guide
 ## Purpose
 The Commercial Invoice Form is used to document the terms and conditions of international shipments between two parties. It ensures accurate tracking and payment for goods exchanged.

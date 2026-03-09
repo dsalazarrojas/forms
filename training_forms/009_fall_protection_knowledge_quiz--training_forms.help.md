@@ -1,13 +1,3 @@
-<thinking>
-The Fall Protection Knowledge Quiz is a form designed to test the knowledge of workers on various aspects of fall protection in the workplace. This form is intended to ensure that workers are aware of the importance of fall protection and the necessary precautions to take to prevent falls and ensure a safe working environment.
-
-The purpose of this form is to assess the knowledge of workers on fall protection and their ability to follow safety procedures. The form consists of 12 questions that cover different aspects of fall protection, including its purpose, frequency of inspection and maintenance, proper wearing of hard hats, prevention methods, first aid after a fall, maximum harness weight capacity, proper harness storage, emergency procedures, spotters' role, ladder misuse prevention, fall protection in confined spaces, and first aid after a head injury from a fall.
-
-This form is designed to be completed by workers who are familiar with fall protection procedures and are required to demonstrate their knowledge in this area. The form is not intended to be a comprehensive training program, but rather a quick assessment of workers' knowledge.
-
-Before completing this form, it is recommended that you read the entire form carefully and ensure that you answer the questions based on your knowledge and experience. Please answer the questions accurately and honestly, as your performance will be used to evaluate your knowledge on fall protection.
-</thinking>
-
 # Fall Protection Knowledge Quiz - Help Guide
 
 ## Purpose

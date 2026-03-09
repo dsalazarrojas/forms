@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to track a golf practice session, allowing users to record the date of the session, the type of practice session, the areas of focus, their self-assessment of their performance, and any additional notes. This form is designed to be a straightforward and flexible tool for golfers to monitor their progress and identify areas for improvement. To ensure the form is relevant to your specific needs, please consider whether you are a golfer looking to improve your game, a coach or instructor seeking to track student progress, or a club or course manager needing to collect data on practice sessions.
-Please note that this form does not duplicate any proprietary content and is an original adaptation created using public survey topic metadata.
-</thinking>
-
 # Golf Practice Session Log - Help Guide
 ## Purpose
 This form is designed for golfers to track their practice sessions, coaches/instructors to monitor student progress, and club/course managers to collect data on practice sessions.

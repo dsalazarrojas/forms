@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on the learner's progress and development in a specific skill over a particular period, typically an hour. This form is used for tracking and analyzing the progress of learners in various skills and activities. It is crucial to ensure that each learner has a unique Team ID and Learner ID to accurately track their individual progress. This form is not intended for duplicate entries, so please ensure that each entry represents a distinct skill development session. 
-
-This form will be used to record data on a per-hour basis, including the start and end time of the session, the duration of the session, the learning activity being practiced, and the learner's progress and outcomes. The form will help trainers and instructors to assess the effectiveness of their teaching methods and make data-driven decisions to improve the learning experience.
-</thinking>
-
 # Hourly Skill Development Data Collection - Help Guide
 ## Purpose
 This form is designed to gather information on learners' skills development, enabling trainers and instructors to track progress, identify areas of improvement, and make data-driven decisions to optimize the learning process.

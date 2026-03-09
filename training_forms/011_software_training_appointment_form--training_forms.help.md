@@ -1,5 +1,3 @@
-<thinking>As a form designer, I've analyzed the provided YAML structure to understand the form's purpose and create a user-friendly help guide. This guide will walk the end-users through the form's purpose, completion process, and a field-by-field explanation of each element.</thinking>
-
 # software_training_appointment_form - Help Guide
 ## Purpose
 The software_training_appointment_form is designed to gather information from users for software training purposes. This form helps in scheduling and confirming appointments with trainers for software training sessions.

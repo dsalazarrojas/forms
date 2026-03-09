@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # marathon_training_strength_workout_log - Help Guide
 
 ## Purpose

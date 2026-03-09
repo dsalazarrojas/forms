@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vision Screening Results Log - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide users through a series of confirmations and checks to ensure that all necessary steps have been completed in a handling process. It appears to be a comprehensive form for verifying the completion of various steps, including general, special, warehouse, lab, and logistics steps. The form may be used in a business or industrial setting where the user needs to confirm that they have completed specific tasks or procedures. 
-</thinking>
-
 # Handling Instructions Checklist - Help Guide
 ## Purpose
 This form is used to confirm that all necessary steps have been completed in a handling process.

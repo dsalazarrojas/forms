@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to register participants for the Certified Assessor Transformation Training program. The form collects necessary information for training registration, including participant details, training pathway selection, and payment confirmation. To ensure accurate registration, please fill out the form carefully. If you have already registered for the training program, please do not submit this form again.
-</thinking>
-
 # Certified Assessor Transformation Training Registration Form - Help Guide
 ## Purpose
 This form is used to register participants for the Certified Assessor Transformation Training program.

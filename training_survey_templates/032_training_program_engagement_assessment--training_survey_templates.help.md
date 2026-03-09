@@ -1,11 +1,3 @@
-<thinking> 
-  To avoid duplication, ensure this form is only filled out by the actual participants who attended the training session, not by other individuals such as facilitators or trainers.
-  The form is meant to assess the engagement and effectiveness of the training program, and the feedback and ratings provided should be based on the personal experiences and perceptions of the attendees.
-  The goal is to gather honest and constructive feedback that can be used to improve future training programs.
-  The form should not be used to collect data on sessions that have not yet been attended or completed.
-  This form is designed to be completed by the attendees themselves, so they should be able to fill out their own information and submit it.
-</thinking>
-
 # Training Program Engagement Assessment - Help Guide
 ## Purpose
 This form is used to assess the engagement and effectiveness of the training program. It collects feedback and ratings from the participants, which can be used to identify areas for improvement and make informed decisions about future training programs.

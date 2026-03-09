@@ -1,5 +1,3 @@
-<thinking>Trainers and administrators use this form to submit information about their personal training qualifications, certifications, and availability. This form is meant to help trainers provide accurate and up-to-date information about their training profiles so that they can be effectively matched with clients and scheduled for client appointments. Please ensure that each field is completed accurately and completely before submitting the form. If you are a trainer, you should only submit the form once. If you have already submitted a form, please do not resubmit unless there are changes to the information. The information submitted through this form will be used to display on the trainer's profile page.</thinking>
-
 # Personal Trainer Profile Submission Form - Help Guide
 ## Purpose
 The Personal Trainer Profile Submission Form is a tool used by trainers to provide accurate and up-to-date information about their training qualifications, certifications, and availability.

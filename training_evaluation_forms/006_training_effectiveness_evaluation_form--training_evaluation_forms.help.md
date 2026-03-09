@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Training Effectiveness Evaluation Form - Help Guide
 
 ## Purpose

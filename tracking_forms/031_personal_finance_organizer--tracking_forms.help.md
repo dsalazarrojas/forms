@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to help users organize their personal finance. The purpose of this form is to collect information from individuals on their income, expenses, savings, and other financial habits. The form has 9 pages, each with a text field, which will be used to collect specific information from the user. This form is designed to be user-friendly and easy to complete, while providing a structured and organized way to track personal finance.
-
-</thinking>
-
 # Personal Finance Organizer - Help Guide
 ## Purpose
 This form is designed to help you organize your personal finance by collecting information on your income, expenses, savings, and other financial habits.

@@ -1,17 +1,3 @@
-<thinking>
-The purpose of this form is to track personal time off requests from employees. This form helps employees request time off for various reasons such as vacation, sick leave, or other personal matters. The form is designed for employees to submit their request and track the status of their request.
-
-To determine if this form is relevant to your use case, consider the following:
-- Do you need to manage employee time off requests?
-- Are you looking for a straightforward way to submit and track requests?
-- Do you want to ensure accurate and timely updates on approval status?
-
-If the form is not applicable to your use case, please stop here and do not proceed with filling out the form.
-
-If you are ready to use this form, ensure you have the necessary permissions and access to submit the form and view submitted data.
-
-</thinking>
-
 # personal_time_off_request_form - Help Guide
 ## Purpose
 The personal time off request form is designed for employees to submit and track their personal time off requests.

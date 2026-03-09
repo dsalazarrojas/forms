@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a salesperson's onboarding process, which is a crucial step in ensuring that new sales team members are properly prepared to succeed in their role. This form is used to evaluate the salesperson's knowledge, skills, and strategies in sales, as well as their understanding of the products they will be selling. This assessment is an essential part of the onboarding process, and it helps to identify areas where the salesperson may need additional training or support.
-</thinking>
-
 # Sales Onboarding Assessment Form - Help Guide
 ## Purpose
 The Sales Onboarding Assessment Form is a comprehensive tool used to evaluate a salesperson's onboarding process, ensuring they have the necessary knowledge, skills, and strategies to succeed in their sales role.

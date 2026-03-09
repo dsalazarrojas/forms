@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to track the usage and status of tools within an organization. The purpose of this form is to collect information about tools that need to be tracked, such as their usage dates, times, and statuses. This form is used to request a tool life tracking report, which will be used to analyze and monitor the usage of tools across the organization.
-The form is not intended to be used for duplicate tracking, so users should not submit multiple requests for the same tool. If a user needs to track a tool that has already been submitted, please contact the system administrator for assistance.
-</thinking>
-
 # Tool Life Tracking Report Request Form - Help Guide
 
 ## Purpose

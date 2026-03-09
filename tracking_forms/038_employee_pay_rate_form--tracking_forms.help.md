@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track an employee's pay rate and related information, including pay frequency, currency, pay date, and other relevant details. The form will be used to record and update an employee's pay rate data, ensuring accurate and up-to-date information is maintained. It's essential to complete this form accurately to prevent errors and ensure data consistency. This form is not intended to replace existing employee records or other HR systems; rather, it's a supplementary tool to aid in tracking and record-keeping.
-</thinking>
-
 # Employee Pay Rate Form - Help Guide
 ## Purpose
 The Employee Pay Rate Form is designed to collect and manage employee pay rate data, including frequency, currency, and other relevant details.

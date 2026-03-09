@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to track service orders for iWPAService Recall, which is likely a service-related application. The purpose of this form is to collect information about service orders, including customer information, order details, and tracking status. The form is likely used by customer service representatives or technicians to manage and track service orders. The form is not a critical, high-security, or high-risk form, so there's no need for special access controls or encryption. The fields and options are likely self-explanatory, making it easier for end-users to fill out the form without assistance. However, some fields might be unclear or misleading to users without a clear understanding of the context.
-
-Before filling out the form, please review the provided fields and options carefully. If you have any questions or concerns, please reach out to the support team for assistance.
-
-</thinking>
-
 # Service Order Tracker iWPAService Recall - Help Guide
 ## Purpose
 The Service Order Tracker iWPAService Recall form is designed to collect and track information about service orders. This form helps customer service representatives or technicians manage and track service orders in a centralized location.

@@ -1,5 +1,3 @@
-<thinking>This form is intended for tracking and organizing services submitted to the directory. It ensures that users can provide accurate and consistent information about the services they offer, their contact details, and the status of their submissions. The form will not create duplicate records for the same user if the user already has an existing submission with the same submission ID. The form requires the following fields to be filled out: title, contact info, services offered, email, phone, note, date submitted, time submitted, submission status, submission notes, submission date, submission time, submission ID, and the submitted by field. This form is only accessible to users with necessary permissions.</thinking>
-
 # Services Directory Submission Form - Help Guide
 ## Purpose
 The Services Directory Submission Form is used to collect and track information about services submitted to the directory. This guide will walk you through each field and what you need to do to complete it successfully.

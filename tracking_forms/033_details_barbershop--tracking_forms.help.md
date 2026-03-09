@@ -1,7 +1,3 @@
-<thinking>
-This form is likely for tracking and organizing customer visits to a barbershop, including details about customer interactions, appointments, and screenings. It appears to be a comprehensive form for collecting various pieces of information about customers and their visits. The fields include form title, customer name, date of visit, screening status, customer email, barber ID, barber screening status, barber comments, customer phone, and assigned tool.
-</thinking>
-
 # details_barbershop - Help Guide
 
 ## Purpose

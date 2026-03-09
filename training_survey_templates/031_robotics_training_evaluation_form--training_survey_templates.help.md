@@ -1,20 +1,3 @@
-<thinking>
-To provide the most helpful and accurate user guidance, I will need to infer the purpose and context of the form based on its title and field labels. I'll make some educated guesses, and please correct me if I'm wrong.
-
-The form is likely used to assess the effectiveness and quality of a robotics training session. The form has various fields to collect feedback, ratings, and evaluations from users, which will help the organizers or instructors of the training session to identify areas of improvement and make data-driven decisions.
-
-The purpose of this form is to gather feedback on the training session, and the fields are designed to collect specific types of information. For example, the "robotics training level" field might help the organizers to determine the difficulty level of the training session, while the "session attendance" field might help them to understand who attended the session.
-
-To complete this form, the user will need to:
-
-1.  Evaluate the training session they attended.
-2.  Choose the correct options for each field to provide accurate feedback.
-3.  Submit the completed form.
-
-Let's break down the form into its constituent fields and provide explanations for each:
-
-</thinking>
-
 # Robotics Training Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and evaluations from users about the robotics training session they attended.

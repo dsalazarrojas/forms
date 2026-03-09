@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Counseling Training Feedback Survey - Help Guide
 
 ## Purpose

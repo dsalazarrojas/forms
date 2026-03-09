@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect basic contact information from trainees. It will be useful for trainers to get in touch with them. Each field should only be filled if it's relevant.
-</thinking>
-
 # Trainee Contact Information Form - Help Guide
 ## Purpose
 The Trainee Contact Information Form is designed to gather essential details about each trainee. Completing this form will help our trainers reach out to trainees with important updates, notifications, or clarifications about their training programs.

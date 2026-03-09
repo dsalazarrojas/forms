@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Feeding - Help Guide
 ## Purpose
 The Feeding form is used to track and manage feeding-related data. It is designed to collect information about tasks, including form data, date, time, timezone, task ID, task type, notes, email, phone, assigned personnel, and tags.

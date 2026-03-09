@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that users understand that this form is for creating, modifying, or searching User Stories, which are a core component of Agile project management. User Stories help to capture the description of a specific feature or requirement in the development process. This form will aid in creating, editing, or filtering User Stories for tracking and management purposes.
-</thinking>
-
 # User Story Template - Help Guide
 
 ## Purpose

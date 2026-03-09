@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data for Supply-Chain-Of-Criticality (SIPOC) analysis, a method used to analyze and improve the flow of materials and information in a supply chain. SIPOC aims to identify potential bottlenecks and areas of inefficiency. This form will collect information about suppliers, inputs, process, outputs, customers, and descriptions of the process, suppliers, inputs, and outputs.
-The form is likely to be used in various industries where supply chain management is crucial, including manufacturing, logistics, and distribution.
-</thinking>
 # SIPOC Form - Help Guide
 ## Purpose
 The SIPOC Form is designed to collect data for Supply-Chain-Of-Criticality (SIPOC) analysis. This analysis is used to identify potential bottlenecks and areas of inefficiency in the supply chain process.

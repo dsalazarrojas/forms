@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from trainees on their experience with the privacy and information security training session. It's essential to complete this form to help us improve the training format and content, ensuring that future sessions meet your needs and expectations.
-
-To complete this form, simply follow the instructions below:
-
-</thinking>
-
 # Privacy And Information Security Training Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback on your experience with the privacy and information security training session. Your input will help us improve the format and content of future sessions.

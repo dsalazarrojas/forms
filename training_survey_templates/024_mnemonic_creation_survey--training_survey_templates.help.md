@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to collect feedback and data from learners on the effectiveness of memory aids in assisting them in different learning scenarios. This survey aims to gather information on the types of memory aids that are useful, how often they are used, and their overall usefulness. The purpose of this form is to inform the development of more effective memory aids and improve learning outcomes. Please ensure you have the relevant knowledge and context before completing this survey.
-
-</thinking>
-
 # MnemonicCreationSurvey - Help Guide
 ## Purpose
 This survey is designed to gather feedback on memory aids that help learners in different learning scenarios.

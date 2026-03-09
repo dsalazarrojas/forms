@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from weightlifters to schedule their workouts. The purpose of this form is to help trainers understand each weightlifter's preferences and needs, ensuring they can create a tailored schedule that suits each individual. This form should be used by weightlifters to select their preferred lifting schedule, which includes the frequency, time, and day of their workouts.
-
-</thinking>
-
 # Weightlifting Schedule Selection Form - Help Guide
 ## Purpose
 The Weightlifting Schedule Selection Form is designed to collect information from weightlifters to schedule their workouts. This form is used to help trainers understand each weightlifter's preferences and needs, allowing them to create a customized schedule that suits each individual.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to track information related to home renovation projects. It is intended to be filled out by clients and contractors as part of the project management process. The form's purpose is to gather essential details about the project, including client information, project scope, financial aspects, and contractual agreements. This guide will walk you through each field of the form, ensuring you understand its purpose and how to fill it out correctly.
-
-</thinking>
-
 # Home Renovation Checklist - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Campaign Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information about potential participants for a specific campaign. The data collected will help the campaign organizers to understand the interest and availability of potential team members, allowing them to make informed decisions about team assignments and communication strategies.

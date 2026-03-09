@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback on the effectiveness of internal training programs. The purpose of this form is to understand the level of usefulness, satisfaction, and skills gained from a particular training session. It is intended for employees who have attended an internal training program to provide their honest feedback. This feedback will help training program administrators to identify areas of improvement and make adjustments to future training sessions.
-
-</thinking>
-
 # internal_training_impact_survey - Help Guide
 ## Purpose
 This form is used to collect feedback on internal training programs to help improve their effectiveness.

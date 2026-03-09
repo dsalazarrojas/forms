@@ -1,15 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Records Inventory Form", we need to understand its purpose and how to complete it. The form appears to be for tracking records or inventory, likely for a team or organization. We'll assume it's for a business or academic setting. The form has five fields, which will be explained below.
-
-To complete this form, users should:
-1. Provide their own information (if required for their role),
-2. Select multiple coordinators from a list (if required),
-3. Fill in text fields for user and possibly supervisor details.
- 
-The form likely tracks team member information, supervisors' details, inventory items, and team coordinators. The "inventory_items" field is probably optional but could be a text field for free-form entry.
-
-</thinking>
-
 # Records Inventory Form - Help Guide
 ## Purpose
 The Records Inventory Form is designed to collect team member and supervisor information, track inventory items, and identify team coordinators. It's likely used for team management, project tracking, or asset tracking.

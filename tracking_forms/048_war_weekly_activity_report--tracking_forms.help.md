@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to report on the weekly progress of various metrics, including sales, appointments, recruiting, and targets. This is a tracking form used by employees to report their weekly activities and progress towards their targets. The form is likely used by management to monitor and track the employee's performance and adjust their targets as needed. There might be some duplication of effort if multiple employees report the same information in different forms or if the same information is reported in other ways. To avoid this, ensure that all employees are using the same form and reporting their activities accurately.
-
-</thinking>
-
 # WAR Weekly Activity Report - Help Guide
 
 ## Purpose

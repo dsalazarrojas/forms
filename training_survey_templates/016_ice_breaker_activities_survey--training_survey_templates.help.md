@@ -1,11 +1,3 @@
-<thinking>**Purpose:** This form is designed to collect information about ice breaker activities that the participant can participate in during the training program. Its purpose is to gather data on the participant's willingness to engage in various activities and gather demographics such as name, age, gender, email, and phone number.
-
-**Non-duplication check:**
-
-This form is intended for individual participants. Please ensure that you have not already submitted this form as an individual participant.
-
-</thinking>
-
 # ice_breaker_activities_survey - Help Guide
 ## Purpose
 The ice breaker activities survey form is designed to collect information about the participant's willingness to participate in various activities during the training program. This data will help us understand the participants' interests and preferences.

@@ -1,5 +1,3 @@
-<thinking>...The goal of this form is to gather feedback from workshop participants about their experience with the workshop session they attended. This will help the workshop organizers to evaluate the effectiveness of the session, identify areas of improvement, and make informed decisions for future workshops. This form should only be filled out by those who attended the workshop session, to avoid duplication and ensure that feedback is relevant. Please take a few minutes to complete this form to provide your honest feedback...</thinking>
-
 # Workshop Participant Satisfaction Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from workshop participants about their experience with the workshop session they attended.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their work dates, work hours, job details, and any additional notes they may have. This form is likely used for tracking and reporting work hours and activities within a model development or project management context. It's essential to complete this form accurately to ensure that your work is properly recorded and accounted for.
-</thinking>
-
 # Model Timecard Submission - Help Guide
 ## Purpose
 The Model Timecard Submission form is designed to record your work hours and activities for tracking and reporting purposes. It helps in accurately recording your time spent on various projects and models.

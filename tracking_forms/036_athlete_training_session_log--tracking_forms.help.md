@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track the details of an athlete's training session, including their name, the date and start and end time of the session, the type of training, the intensity and volume of the session, physiological responses such as heart rate, and qualitative feedback from the athlete. This form is designed to provide a comprehensive record of the session, allowing athletes to reflect on their performance and coaches to provide feedback.
-</thinking>
-
 # Athlete Training Session Log - Help Guide
 ## Purpose
 The Athlete Training Session Log form is used to document the details of an athlete's training session. This form helps athletes track their progress, provide qualitative feedback, and receive coaching feedback.

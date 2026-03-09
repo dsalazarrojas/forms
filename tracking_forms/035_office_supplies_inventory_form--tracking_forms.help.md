@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## office_supplies_inventory_form - Help Guide
 
 ## Purpose

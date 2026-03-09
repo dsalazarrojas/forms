@@ -1,8 +1,3 @@
-<thinking>
-We will need to ensure that the form is used correctly, as it is used for tracking employee work hours and pay periods. The form must be filled out in the correct format to avoid any errors in calculation, so please pay close attention to each field. We also need to ensure that the employee and supervisor signatures are valid and accurate, as they are required fields. This form is for tracking work hours over a week-long period, so please fill it out accordingly. Please make sure that each field is completed for each applicable day. Also, please note that overtime hours will be calculated based on regular hours worked.
-
-</thinking>
-
 # Construction Time Sheet Form - Help Guide
 ## Purpose
 The Construction Time Sheet Form is used to track employee work hours and pay periods for a week-long period. It includes fields for employee and supervisor signatures, as well as hours worked, pay period start and end dates, and other relevant information.

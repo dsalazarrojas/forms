@@ -1,9 +1,3 @@
-<thinking>
-Form purpose: 
-Progress Note is a form designed to track medical progress in patient visits. 
-This form is used for recording the date of visit, patient details, and medical conditions.
-</thinking>
-
 # Progress Note - Help Guide
 ## Purpose
 The Progress Note form is used to record and track medical progress in patient visits. This form helps healthcare professionals document and monitor patient conditions, treatments, and visits.

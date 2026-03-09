@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Training Evaluation Form - Help Guide
 
 ## Purpose

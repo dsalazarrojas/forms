@@ -1,9 +1,3 @@
-<thinking>
-This form is used to capture information about grant writing training programs. The purpose of this form is to provide a structured approach to gathering and managing training program data. 
-Before starting, please ensure that you have the necessary information and permissions to complete this form accurately. 
-Please note that the form fields are designed to be completed by the workshop facilitator or grant manager, and the information collected will be used to support the grant writing process.
-</thinking>
-
 # Grant Writing Training Form - Help Guide
 ## Purpose
 The Grant Writing Training Form is used to capture information about grant writing training programs, enabling efficient management and evaluation of these programs.

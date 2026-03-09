@@ -1,7 +1,3 @@
-<thinking>
-The Public Engagement Training Form is used to collect data from participants in public engagement training sessions. This form is designed to gather essential information about each participant, including their name, organization, email, phone number, training date, and training time. The form is typically used to create a participant list for training sessions, which can be useful for tracking attendance and following up with participants after the session. This form should only be used for public engagement training sessions and not for other types of events or activities.
-</thinking>
-
 # Public Engagement Training Form - Help Guide
 ## Purpose
 The Public Engagement Training Form is used to collect data from participants in public engagement training sessions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers on their overall onboarding experience with our product. The goal is to identify areas of improvement and make adjustments to make the process more efficient and effective for future customers. By analyzing this form, we can understand what customers value most in the onboarding process and where we may be falling short. This form is a one-time use form and will not be reused or shared with external parties. If you have feedback to share, please be as detailed and specific as possible.
-</thinking>
-
 # Customer Onboarding Feedback Survey Template - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers on their overall onboarding experience with our product. The goal is to identify areas of improvement and make adjustments to make the process more efficient and effective for future customers.

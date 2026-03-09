@@ -1,5 +1,3 @@
-<thinking>This form is used to set budget limits for a specific department or category. It is used to define the monetary limit for a particular period, such as monthly, quarterly, or annually. The form captures information about the setting name, department, limit amount, period, approver, and other relevant details. This form is crucial for tracking and managing budget limits for efficient financial management. Before using this form, please ensure that you are authorized to create budget limits and that the settings you create do not duplicate existing ones.</thinking>
-
 # Budget Limit Settings - Help Guide
 
 ## Purpose

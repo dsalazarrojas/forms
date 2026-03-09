@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users who have completed a training session. It is recommended to fill out this form only if you have completed the training session and want to provide suggestions or comments on how the training session can be improved. It is not recommended to fill out this form if you are not a participant of the training session or if you have not completed the training session. Duplicate submissions are discouraged.
-</thinking>
-
 # Corporate Training Discharge Feedback Form - Help Guide
 ## Purpose
 The Corporate Training Discharge Feedback Form is a questionnaire designed to collect feedback from participants who have completed a training session. It is intended to help identify areas for improvement and provide suggestions for future training sessions.

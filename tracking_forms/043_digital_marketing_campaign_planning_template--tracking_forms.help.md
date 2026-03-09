@@ -1,5 +1,3 @@
-<thinking>...This form is designed to help users plan and track digital marketing campaigns. It is likely used by marketing teams to collect and organize information on a campaign's objectives, target audience, and execution details. The form may be used to create a centralized repository of campaign data, making it easier to review and analyze campaign performance. It could also be used to assign tasks and responsibilities to specific team members and track progress. This form likely helps to ensure that all relevant information is collected and that campaigns are executed smoothly and effectively. This guide is to help users understand the purpose and usage of the form, and ensure that they complete it correctly.</thinking>
-
 # Digital Marketing Campaign Planning Template - Help Guide
 
 ## Purpose

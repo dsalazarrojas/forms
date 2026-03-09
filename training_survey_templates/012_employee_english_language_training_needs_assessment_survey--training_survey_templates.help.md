@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee English Language Training Needs Assessment Survey - Help Guide
 
 ## Purpose

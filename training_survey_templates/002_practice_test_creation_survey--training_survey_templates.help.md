@@ -1,7 +1,3 @@
-<thinking>
-This form is likely a part of a system for creating practice tests or training programs within an educational institution or organization. It's designed to collect information from users about their experience with practice tests, such as their creation, assignment, and challenges encountered. The form's primary purpose is to gather feedback and data that can be used to improve the quality and effectiveness of practice tests and training programs. Before proceeding, ensure that you're not already familiar with this type of form, as it's intended for users who are already engaged in creating or administering practice tests and training programs. This guide will walk you through each field in the form, so you can complete it accurately and efficiently.
-</thinking>
-
 # Practice Test Creation Survey - Help Guide
 ## Purpose
 This form is designed to gather information about the creation and administration of practice tests and training programs within an institution or organization. It helps to identify challenges, improve the quality of practice tests, and optimize training programs.

@@ -1,7 +1,3 @@
-<thinking> 
-This help guide will provide instructions and explanations for the "Restaurant Training Guide Acknowledgment Form". This form is designed to gather information about employee training sessions, including employee, supervisor, and training manager details, training dates, completion times, and training topics. The form is intended to serve as a guide for employees to acknowledge their completion of training sessions. It is essential to complete this form accurately and truthfully to ensure that training records are up-to-date and reliable. To avoid duplication of effort, it is recommended that employees only complete the form once for each training session. If an employee has previously completed the form for the same training session, please do not submit another instance. Please refer to the form's fields below for instructions on how to complete it correctly. 
-</thinking>
-
 # Restaurant Training Guide Acknowledgment Form - Help Guide
 
 ## Purpose

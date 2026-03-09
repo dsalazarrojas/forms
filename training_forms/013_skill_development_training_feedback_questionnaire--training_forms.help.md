@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from participants on their experience with the training sessions, providing an opportunity for growth and improvement in the training program. The form is divided into multiple fields where participants can provide their first name, last name, rating of the overall session, assessment of the instructor's performance, materials provided, and other relevant details such as session quality, participant comments, and contact information. This feedback will be used to refine the training program and improve future sessions.
-
-</thinking>
-
 # Skill Development Training Feedback Questionnaire - Help Guide
 
 ## Purpose

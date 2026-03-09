@@ -1,12 +1,3 @@
-<thinking>
-This form was created by AI using public survey topic metadata as inspiration, with the goal of tracking observations made in virtual classrooms. The form is designed to capture information on students' behavior, participation, and strengths/weaknesses, as well as teachers' strengths/weaknesses. It is intended to be used for assessment and improvement purposes, and to help educators identify areas for growth and development.
-
-The form is not affiliated with, endorsed by, or derived from any specific form platform, and is released under a Creative Commons license, allowing users to freely use, modify, and distribute it.
-
-Before filling out this form, please make sure that you have the necessary permissions and authority to collect and report on student and teacher data, and that you are aware of any applicable laws and regulations in your jurisdiction.
-
-</thinking>
-
 # virtual-classroom-observation-form - Help Guide
 ## Purpose
 This form is designed to record observations made in virtual classrooms, capturing information on student and teacher behavior, participation, and strengths/weaknesses. It is intended for assessment and improvement purposes, helping educators identify areas for growth and development.

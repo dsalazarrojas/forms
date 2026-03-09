@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for users of the home_safety_checklist form, which is used for tracking and documenting building safety checklists. The form is likely used by facilities managers, safety inspectors, or other personnel responsible for maintaining building safety.
-
-Before proceeding, please ensure that the form is being filled out for the correct purpose. The form is intended for tracking safety checklists for buildings, and should not be used for other purposes.
-
-This guide will walk you through the process of completing the form and provide explanations for each field.
-
-</thinking>
-
 # home_safety_checklist - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is being used correctly and not for duplicate tasks. We should also make sure that end users understand its purpose: tracking outbound calls. The form is used to collect information about calls made to customers. Each field should be filled in correctly, and it's best to review the form carefully to ensure all required fields are completed.
-</thinking>
-
 # outbound_call_tracker_6 - Help Guide
 ## Purpose
 The Outbound Call Tracker 6 form is used to track information about calls made to customers. This form helps keep track of important details such as contact information, call type, and status.

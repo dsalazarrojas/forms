@@ -1,7 +1,3 @@
-<thinking>
-Why do we need this form? The training satisfaction survey is a tool to measure the effectiveness of our training programs. It helps us understand what attendees think of the training content, instructors, and overall experience. This information will help us identify areas of improvement for future training sessions. Is this form a one-time use or a regular occurrence? We'll be using it on a regular basis to gauge the quality of our training programs and make data-driven decisions.
-</thinking>
-
 # Training Satisfaction Survey - Help Guide
 
 ## Purpose

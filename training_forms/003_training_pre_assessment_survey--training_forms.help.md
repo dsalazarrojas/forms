@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Training Pre Assessment Survey - Help Guide
 ## Purpose
 This form is designed to assess your current level of training in various areas, including communication, problem-solving, time management, technical skills, soft skills, and job satisfaction. The survey is intended to help us understand your strengths and weaknesses, so we can provide you with personalized training recommendations to help you grow and develop in your role.

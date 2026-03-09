@@ -1,7 +1,3 @@
-<thinking>
-This form is used for enrolling participants in management training programs. It is intended for internal use within the organization. The form collects information about the participant, the training category, and the training details. It is essential to fill out the form accurately to ensure that the participant is enrolled correctly and that the training is recorded correctly in the system.
-</thinking>
-
 # management_training_enrollment_form - Help Guide
 ## Purpose
 This form is used to enroll participants in management training programs.

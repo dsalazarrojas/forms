@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients for private coaching sessions. The form is divided into four sections: Client Details, Goals, Session Time, and Session Date. The client details form will likely collect the client's name and contact information, while the goals section will allow clients to specify what they want to achieve through the coaching sessions. The session time and date sections will determine the timing and schedule of the private coaching sessions.
-</thinking>
-
 # Private Coaching Session Sign-up - Help Guide
 ## Purpose
 This form is designed to collect information from clients for private coaching sessions. It consists of four sections: Client Details, Goals, Session Time, and Session Date.

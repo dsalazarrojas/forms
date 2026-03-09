@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be used in a clinical setting for urine drug screening, which is a common test used to detect the presence of certain substances in a patient's urine. This form is used to record the results of the test, including the patient's name, the date the test was received, and the results of the test. The form also captures information about the test itself, such as the test panel, test result, and date and time the test was performed. Additionally, this form requires the healthcare provider's and laboratory's involvement, including their signatures and contact information. The purpose of this form is to ensure accurate and complete recording of the test results, which is essential for patient care and medical decision-making. 
-
-Before filling out this form, make sure you have all the necessary information and documentation required to accurately and completely fill out the form.
-
-</thinking>
 # Urine Drug Screening Form Template - Help Guide
 ## Purpose
 The Urine Drug Screening Form Template is designed to record the results of a urine drug screening test. The form captures essential information for patient care and medical decision-making.

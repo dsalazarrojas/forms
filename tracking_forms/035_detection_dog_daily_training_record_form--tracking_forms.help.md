@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track the daily training record of a detection dog. It's meant to be filled out by trainers or training teams for each day's training session with a specific dog. It's essential to fill out the form accurately to maintain a comprehensive and organized record of the dog's training progress.
-</thinking>
-
 # Detection Dog Daily Training Record Form - Help Guide
 ## Purpose
 This form is used to record daily training information for a detection dog, including date, time, training type, location, and notes. 

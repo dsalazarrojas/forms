@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to track client updates and progress on a weekly basis. This form helps clients and their managers keep track of goals, progress, and any upcoming events or follow-ups. It's designed to be completed on a weekly basis to ensure that both parties are on the same page and aware of any changes or updates.
-
-This form is not intended for long-term storage or historical tracking. It's meant for regular, short-term updates.
-
-This form is designed to be completed by clients and their managers. It's essential to review and understand the information provided to ensure accurate tracking and follow-up.
-
-</thinking>
-
 # weekly_client_tracking_form - Help Guide
 ## Purpose
 The weekly_client_tracking_form is designed to track client updates and progress on a weekly basis. It's a quick and easy way to ensure both the client and their manager are aware of current goals, progress, and upcoming events.

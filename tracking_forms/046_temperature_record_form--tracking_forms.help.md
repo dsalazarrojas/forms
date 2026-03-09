@@ -1,7 +1,3 @@
-<thinking>
-This form is used for collecting and recording temperature readings from users. It appears to be a simple data collection form, likely used for tracking temperature records over time. There might be some redundancy or overlap between fields, such as having both "Temperature Reading 1" and "Temperature Reading 2", or having "Temperature Unit" as a select field, but it's likely used to provide flexibility or options for users. It would be good to review the form design and ensure it's clear and efficient for users.
-</thinking>
-
 # Temperature Record Form - Help Guide
 ## Purpose
 The Temperature Record Form is used for collecting and recording temperature readings from users.

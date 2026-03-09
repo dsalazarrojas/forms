@@ -1,7 +1,3 @@
-<thinking>
-A concrete and practical help guide for the "Car Park Record Form" is needed to ensure that users understand its purpose and how to complete it correctly. Given the provided YAML fields, we will create a clear and concise guide that covers the form's purpose, how to complete it, and a detailed field-by-field explanation of each field.
-</thinking>
-
 # Car Park Record Form - Help Guide
 ## Purpose
 The Car Park Record Form is designed to record and track vehicle parking information at a parking lot. This form helps to ensure accurate and efficient management of parking records for vehicles. It captures essential details about the vehicle, parking location, and parking duration to provide quick and accurate information for parking management.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Storage Location Assignment Survey form is used to gather information from users about the storage locations they are currently using or wish to use for storing items. This form is intended to be used by users to provide details about the storage locations they are assigning items to, and to help administrators track and manage storage assignments.
 
 This form is not a mandatory form and its completion is optional. Users may choose to fill it out to provide additional context about their storage locations.

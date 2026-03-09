@@ -1,5 +1,3 @@
-<thinking>Before you begin, let me just check that this form is what you're thinking of. This form is a Course Training Request Form Template, used to document and process training requests within an organization. The goal of this form is to gather information about the training a user wants or needs, including their employment status, training type, start and end dates, and other relevant details. This form should help guide you through the process of requesting training and ensure that all necessary information is captured accurately. Is this what you need? If you have any questions or need further clarification, please let me know! Now, let's dive into the help guide.</thinking>
-
 # Course Training Request Form Template - Help Guide
 ## Purpose
 The Course Training Request Form Template is a form used to document and process training requests within an organization.

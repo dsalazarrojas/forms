@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals who have participated in deaf awareness training to understand their experiences and perceptions. The form is part of a larger effort to improve deaf awareness and provide valuable feedback to trainees and training administrators.
-
-The following guide will help you understand how to fill out this form correctly and make the most of your participation.
-
-</thinking>
-
 # Deaf Awareness Training Survey - Help Guide
 ## Purpose
 

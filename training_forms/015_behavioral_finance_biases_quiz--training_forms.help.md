@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block: This form is designed to help users identify and learn about behavioral finance biases, which are common pitfalls that can affect investment decisions. The purpose of this quiz is to provide a quick and efficient assessment of a user's knowledge on this topic. This form should not be used for any other purpose than educational or entertainment. It is recommended to complete the form on a computer or a mobile device with internet access. Please note that the form is an adaptation of public survey topic metadata and does not copy any proprietary content from other form platforms. It is released under CC BY 4.0 license and can be used, modified, and distributed freely.</thinking>
-
 # Behavioral Finance Biases Quiz - Help Guide
 
 ## Purpose

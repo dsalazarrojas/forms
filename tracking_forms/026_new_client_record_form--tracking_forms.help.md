@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for adding new client records, allowing users to enter relevant details about the client in a structured and easy-to-complete manner. The form is divided into sections for client information, contact information, birth information, additional information, and notes. This helps users quickly and efficiently collect all the necessary data for the new client. Please ensure that all required fields are completed before proceeding.
-</thinking>
-
 # new_client_record_form - Help Guide
 
 ## Purpose

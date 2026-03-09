@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to track user intake of prenatal fibers, which is a critical aspect of a healthy pregnancy diet. The form is part of a larger health management system, and its purpose is to collect data on user fiber consumption, sources of intake, digestive status, and other relevant information. The form is designed to be used by healthcare professionals to monitor and analyze user data, providing insights that can help inform patient care and treatment. To prevent data duplication, users are expected to submit the form for each individual user.
-
-</thinking>
 # Prenatal Fiber Intake Tracker - Help Guide
 ## Purpose
 This form is designed to track the prenatal fiber intake of users, helping healthcare professionals monitor and analyze data to provide informed care.

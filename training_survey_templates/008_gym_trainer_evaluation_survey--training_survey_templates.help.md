@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Gym Trainer Evaluation Survey form, I considered the form's purpose and the provided YAML fields. The form appears to be designed to assess the professionalism, communication skills, motivation, and overall satisfaction of gym trainers. This guide aims to clarify the form's purpose, instructions, and field explanations to ensure users understand its functionality.
-
-</thinking>
-
 # Gym Trainer Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to evaluate the skills and performance of gym trainers, focusing on four key areas: Professionalism, Communication, Motivation, and Overall Satisfaction. The purpose of this survey is to gather feedback from clients or trainees to help trainers improve their services and create a better training experience.

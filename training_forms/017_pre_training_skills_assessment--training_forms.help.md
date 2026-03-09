@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess an individual's pre-training skills, training form questions, employee skills assessment, training session needs, and training outcome expectations. It is intended to be used by training administrators or evaluators to gauge an individual's suitability for a training session. This form is a part of the training process to ensure that the individual is adequately prepared for the training session and that the training session is tailored to their needs.
-
-Please note that this form is meant to be filled out in a specific context and should not be duplicated or used in other situations. Before proceeding, ensure that you are in the correct context and that you understand the form's purpose.
-
-</thinking>
-
 # Pre Training Skills Assessment - Help Guide
 ## Purpose
 The Pre Training Skills Assessment form is used to evaluate an individual's pre-training skills, training form questions, and training outcome expectations to determine their suitability for a training session.

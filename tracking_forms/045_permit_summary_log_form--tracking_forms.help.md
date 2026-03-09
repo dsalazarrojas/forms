@@ -1,5 +1,3 @@
-<thinking>Permit Summary Log Form was created using AI to track and document permits. It's a form meant for logging and updating the status of permits. To fill out this form, please only log permits that don't require additional data beyond what's provided here. This guide is for informational purposes only and not for the purpose of duplication or replication. Make sure not to log permits that have already been documented. Only log permits with unique IDs. This form has a total of 25 fields, and it might be time-consuming, so take your time and only enter data that's relevant and accurate. To start, select the correct permit status from the dropdown menu. This form is designed to help you keep track of all the relevant information related to a permit. Don't hesitate to reach out if you have any questions or need clarification on any of the fields. You are free to use, modify, and distribute this form as per the license provided. Please make sure to fill out the form carefully and accurately.</thinking>
-
 # Permit Summary Log Form - Help Guide
 
 ## Purpose

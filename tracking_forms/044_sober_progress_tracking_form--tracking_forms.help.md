@@ -1,14 +1,3 @@
-<thinking>
-The form "sober_progress_tracking_form" is used to track the progress of individuals in recovery, typically in the context of addiction treatment or support. It is intended to be filled out on a regular basis, such as daily or weekly, to monitor changes in behavior, mood, and other relevant factors.
-
-The form may be completed by individuals in recovery as a personal reflection tool, or by treatment providers as a means of tracking progress and providing feedback. It is meant to be a flexible and adaptable tool that can be tailored to the needs of the individual or organization.
-
-Before filling out this form, ensure that you have the necessary information and resources available, and that the form is being completed in a private and secure manner to maintain confidentiality and respect for the individual's boundaries.
-
-To prevent duplication and ensure accuracy, please check with your treatment provider or supervisor before filling out multiple instances of this form.
-
-</thinking>
-
 # Sober Progress Tracking Form - Help Guide
 ## Purpose
 This form is designed to track progress in recovery, monitoring changes in behavior, mood, and other relevant factors on a regular basis.

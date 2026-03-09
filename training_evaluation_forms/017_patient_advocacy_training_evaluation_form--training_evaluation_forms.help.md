@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended to evaluate the effectiveness of patient advocacy training programs, gathering feedback from participants on the usefulness and impact of the training. This form will help the training team assess the program's strengths and weaknesses and identify areas for improvement. Please ensure that you complete this form honestly and thoroughly. It is expected that you will answer the questions according to your actual experience and feelings, not based on hypothetical scenarios or assumptions. Please do not complete this form if you have already done so previously, as your feedback is only valuable if it is new and unique. 
-</thinking>
-
 # Patient Advocacy Training Evaluation Form - Help Guide
 
 ## Purpose

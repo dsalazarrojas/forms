@@ -1,6 +1,3 @@
-<thinking>
-This form is used for tracking project updates and progress. It is intended for use by project managers, team members, or other stakeholders to capture information about project status, priorities, and next steps. This form should not be used for any other purpose. Please note that this form is an original adaptation of a publicly available survey topic and is not affiliated with any proprietary form platforms.
-</thinking>
 # Progress Note Form - Help Guide
 ## Purpose
 The Progress Note Form is used to document and track project progress, updates, and next steps. It is intended for use by project managers, team members, or other stakeholders to ensure that all necessary information is captured and communicated effectively.

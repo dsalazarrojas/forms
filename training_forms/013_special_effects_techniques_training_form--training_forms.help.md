@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to provide information about themselves for training purposes. It is recommended to fill out the form only if you are enrolled in a training session or have attended a workshop. This form will not be used for any other purpose. Please fill out the form accurately and truthfully. If you have any questions or concerns, contact us.
-</thinking>
-
 # Special Effects Techniques Training Form - Help Guide
 ## Purpose
 The Special Effects Techniques Training Form is designed to gather information from users who have enrolled in a training session or have attended a workshop. This information will be used to provide personalized training materials and resources.

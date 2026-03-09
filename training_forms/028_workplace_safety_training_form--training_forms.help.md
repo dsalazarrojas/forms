@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about workplace safety training sessions. It's intended for use by employees to report their attendance and participation in training sessions, as well as for supervisors to track and monitor training status. Please make sure to fill out this form accurately and completely to ensure that your training records are up-to-date.
-
-Before filling out this form, please check that you are not duplicating efforts by ensuring that you have not already submitted a form for this training session.
-
-</thinking>
-
 # Workplace Safety Training Form - Help Guide
 ## Purpose
 The Workplace Safety Training Form is used to collect information about workplace safety training sessions.

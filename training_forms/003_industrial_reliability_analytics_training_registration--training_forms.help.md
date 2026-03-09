@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect registration information for the Industrial Reliability Analytics Training program. The purpose of this form is to ensure that users provide the necessary details to enroll in the training program. Before starting, please review the form to prevent duplicate or irrelevant submissions. This form will not be completed by machines or automated scripts.
-</thinking>
-
 # Industrial Reliability Analytics Training Registration - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Air Traffic Control Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about air traffic control operations, including controller details, shift information, and aircraft data. This form is used to record and track various aspects of air traffic control, such as clearances, handovers, and incidents.

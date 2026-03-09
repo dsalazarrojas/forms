@@ -1,23 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Wedding Gifts Registry Form", it's essential to understand the purpose and context of this form. This form is likely used to collect information about gifts and their associated details for a wedding celebration. The form's purpose is to gather data from guests about their gift preferences, the number of guests attending, and other relevant details that can be used to create a gift registry for the wedding party.
-
-Before proceeding with the help guide, I'd like to confirm that the form is designed to collect the following information:
-* Guest info (yes or no)
-* Gift request information (optional)
-* Gift details (optional)
-* Gift wish list (yes or no)
-* Gift value (optional)
-* Wedding date (optional)
-* Wedding time (optional)
-* Wedding location (optional)
-* Number of guests (optional)
-* Gift sender information (yes or no)
-* Message (optional)
-
-If any of these assumptions are incorrect or the form's purpose has changed, please let me know and I'll adjust the help guide accordingly.
-
-</thinking>
-
 # Wedding Gifts Registry Form - Help Guide
 ## Purpose
 The Wedding Gifts Registry Form is designed to collect information from guests about their gift preferences and details for a wedding celebration. This form helps the hosts or organizers gather necessary data to create a gift registry, ensuring that guests know what gifts to bring or buy for the newlyweds.

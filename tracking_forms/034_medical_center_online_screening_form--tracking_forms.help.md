@@ -1,19 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from patients about their medical history, contact details, and other relevant information. This form is designed to be completed online, allowing patients to provide their information in a convenient and efficient manner. 
-
-The form is composed of 10 fields, each collecting a specific type of information. To determine the relevance of this form, consider the following questions: 
-
-* Is the patient seeking medical attention for a specific condition or symptom?
-* Does the patient have any allergies or medical conditions that require immediate attention?
-* Are there any emergency contacts that need to be on file?
-* Does the patient have health insurance, and if so, what type?
-* Are there any important details about the patient's medical history that need to be noted?
-
-If the answers to these questions are yes, then this form is likely relevant and applicable. 
-
-Please note that while the form is not mandatory, it is recommended to be completed by patients before their medical appointment to ensure that the medical team has all necessary information.
-</thinking>
-
 # Medical Center Online Screening Form - Help Guide
 ## Purpose
 This form is designed to collect information from patients about their medical history, contact details, and other relevant information to ensure that the medical team has all necessary information before their appointment.

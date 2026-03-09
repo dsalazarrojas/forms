@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a tool for evaluating the impact of community projects or initiatives. It's designed to help organizations and individuals assess their understanding of outcomes, causal relationships, and evaluation methods. The form is intended to be completed by participants in a community impact project or initiative. The purpose of this form is to gather information about the participant's understanding of impact evaluation concepts and to identify areas where they may need additional training or support.
-
-</thinking>
-
 # Community Impact Framework Quiz - Help Guide
 ## Purpose
 This form is designed to evaluate your understanding of community impact evaluation concepts. It will ask you to provide information about your organization, your understanding of outcomes, and your approach to evaluation methods.

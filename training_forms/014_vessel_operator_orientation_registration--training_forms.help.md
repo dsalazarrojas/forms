@@ -1,10 +1,3 @@
-<thinking>
-To avoid duplication of effort and ensure relevance, I'll first summarize the form's purpose and fields before providing the help guide. This form is likely used for vessel operators to register for orientation, providing essential information such as their name, vessel details, and training history. The form is probably used by the organization to collect data for training purposes and ensure operators are properly trained for their role. 
-
-The form consists of 25 fields, each collecting different types of information such as vessel operator status, name, role, training date, start and end time, location, notes, email, phone number, follow-up, vessel type, experience, vessel size, operator age, vessel length, vessel beam, operator height, vessel draft, operator sex, and vessel hull material and type certification. Most fields appear to be related to vessel operations, with some focusing on the operator's personal characteristics.
-
-</thinking>
-
 # Vessel Operator Orientation Registration - Help Guide
 ## Purpose
 The Vessel Operator Orientation Registration form is used for vessel operators to register for orientation, providing essential information such as their name, vessel details, and training history. This form helps the organization collect data for training purposes and ensures operators are properly trained for their role.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Hire Onboarding Status Control Form - Help Guide
 ## Purpose
 This form is used to track the onboarding status of new hires in the company. It collects information about the new hire's details, hiring date, job title, department, status, notes, contact email, contact phone, manager comments, and onboarding status. This form helps managers keep track of new hires' progress and ensures that everyone is on the same page.

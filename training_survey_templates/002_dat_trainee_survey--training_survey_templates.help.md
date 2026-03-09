@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect data from trainees who are undergoing training programs. The form is designed to collect information about the trainee, their training experience, and feedback from the supervisor and reviewer. The form is likely used for training evaluation and development purposes, such as tracking progress, identifying areas for improvement, and providing a record of trainee performance.
-
-Before proceeding, please ensure that you have not completed this form before, as the data will be duplicated and may cause inconsistencies in the training records. If you have completed this form before, please do not attempt to resubmit, as this may cause errors in the training system.
-</thinking>
-
 # DAT Trainee Survey - Help Guide
 ## Purpose
 The DAT Trainee Survey is a form designed to collect information from trainees who are undergoing training programs. This form helps in tracking progress, identifying areas for improvement, and providing a record of trainee performance.

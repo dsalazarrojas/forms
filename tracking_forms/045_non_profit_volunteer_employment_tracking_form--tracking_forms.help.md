@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track non-profit volunteer employment details for volunteers. It's essential to complete this form accurately to ensure that the volunteer's work is recorded properly. Please note that this form is meant for tracking purposes only and does not replace any other employment-related documents or processes.
-</thinking>
-
 # Non Profit Volunteer Employment Tracking Form - Help Guide
 
 ## Purpose

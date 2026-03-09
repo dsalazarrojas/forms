@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect and track student progress, likely for educational or academic purposes. The form is intended to be filled out by teachers or administrators to record updates on students' performance, behavior, or other relevant information. This form may be used by teachers, administrators, or other educators to monitor student progress over time. This form appears to be a general tracking form and not a registration or enrollment form.
-</thinking>
-
 # Student Tracking Progress - Help Guide
 ## Purpose
 This form is used to track student progress in a school setting. It is intended to be filled out by teachers or administrators to record updates on students' performance, behavior, or other relevant information.

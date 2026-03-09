@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Caregiver Daily Log Form - Help Guide
 ## Purpose
 The Caregiver Daily Log Form is used to track the activities, observations, and care provided to clients during a shift. This form helps to ensure that all necessary information is documented for accurate record-keeping and to communicate important details to the next caregiver. It's essential to complete this form thoroughly and accurately to maintain consistency and continuity of care.

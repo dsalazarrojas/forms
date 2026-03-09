@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # #SeasTheDay Beach Clean Up Data Log - Help Guide
 
 ## Purpose

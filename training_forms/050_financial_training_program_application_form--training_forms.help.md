@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Financial Training Program Application Form - Help Guide
 ## Purpose
 The Financial Training Program Application Form is used to collect information from employees who wish to participate in the company's financial training program. The form helps to gather relevant details such as employee contact information, training preferences, and submission details.

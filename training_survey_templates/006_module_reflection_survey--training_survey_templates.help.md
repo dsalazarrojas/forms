@@ -1,8 +1,3 @@
-<thinking>
-This guide explains the Module Reflection Survey form, which is used by trainers to gather feedback and reflections on a module or session they have completed. The form should only be used by trainers after a module or session has finished and is intended to help gather information about the session's effectiveness and identify areas for improvement. It's essential to fill out this form only after completing a specific module or session and not for other purposes. 
-Please make sure to fill this form out only once you have finished the module or session you are reflecting upon.
-</thinking>
-
 # Module Reflection Survey - Help Guide
 ## Purpose
 The Module Reflection Survey is a form used by trainers to gather feedback and reflections on a module or session they have completed. This form is designed to help gather information about the session's effectiveness and identify areas for improvement.

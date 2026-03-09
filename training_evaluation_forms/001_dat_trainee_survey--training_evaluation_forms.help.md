@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from trainees who have participated in the DAT (Diagnostic and Assessment Training) program. The form will help to gather details about the trainees' training experience, including the start and end dates of their training, location, and other relevant details. This form is likely intended for trainees to provide feedback on their experience and evaluation of the program. It's essential to ensure that all required fields are completed to provide a comprehensive picture of the trainee's experience. Please note that the form may need to be filled out for multiple trainees, as indicated by the required fields in "Trainee Survey Page 4". 
-</thinking>
-
 # DAT Trainee Survey - Help Guide
 ## Purpose
 The DAT Trainee Survey is a form designed to collect feedback from trainees who have participated in the Diagnostic and Assessment Training (DAT) program.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to gather feedback and satisfaction data from users who have participated in or interacted with the pet training program. The form's purpose is to collect information about the user's experience, satisfaction levels, and demographic data. The form likely serves as a way to gauge the effectiveness and areas for improvement of the pet training program. Before proceeding, please confirm that the form is not a duplicate and that the questions asked are relevant to the purpose.
-</thinking>
-
 # pet_training_program_satisfaction_survey - Help Guide
 ## Purpose
 This form is designed to collect user feedback and satisfaction data from participants of the pet training program. It aims to gather information about the program's effectiveness and areas for improvement.

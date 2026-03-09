@@ -1,14 +1,3 @@
-<thinking>
-Form purpose is to track daily car expenses, likely for corporate vehicle use or personal finance management. The form collects individual entries for car-related expenses, such as fuel costs, mileage, and odometer readings. It's likely used in a work-related or personal setting to monitor and record daily car usage.
-
-This form will help users to accurately track their expenses, ensuring transparency and accountability in car usage. 
-
-The purpose of this form is to gather specific information about each car expense, and to provide a clear and organized way to document and analyze these expenses over time. 
-
-This guide will explain each field in the form, helping users to understand what information they need to provide and how it will be used.
-
-</thinking>
-
 # daily-car-expense-tracking-form - Help Guide
 ## Purpose
 The purpose of this form is to collect and track daily car expenses for corporate vehicle use or personal finance management.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from trainees on their experience with the retail warehouse training program. The purpose of this form is to assess the quality of the training provided, including the trainer's effectiveness, the training materials, and the overall safety coverage. This information will help us identify areas of improvement and make data-driven decisions to enhance the training program. Before filling out this form, please ensure that you have completed the training session and are providing honest and constructive feedback.
-</thinking>
-
 # Retail Warehouse Training Satisfaction Survey - Help Guide
 ## Purpose
 The Retail Warehouse Training Satisfaction Survey is a form designed to gather feedback from trainees on their experience with the retail warehouse training program. The purpose of this form is to collect information on the quality of the training provided, including the trainer's effectiveness, the training materials, and the overall safety coverage.

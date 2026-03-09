@@ -1,12 +1,3 @@
-<thinking>
-This form is used to evaluate the effectiveness of property safety training provided to property managers. It is crucial to understand how well this training helps them perform their duties effectively. Before filling out this form, ensure that you have attended the property safety training provided by the organization.
-
-The form should only be filled out by property managers who have received the training. If you are a property manager who has not received the training, please do not fill out this form.
-
-This form will help the organization understand the effectiveness of their property safety training program.
-
-</thinking>
-
 # Property Safety Training Effectiveness Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from property managers on the effectiveness of the property safety training provided.

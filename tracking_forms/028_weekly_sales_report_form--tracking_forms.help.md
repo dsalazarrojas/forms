@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect sales data for a weekly sales report. The main purpose of this form is to gather information about the sales date, sales region, total revenue, sales manager(s), any notes or comments, contact information (email and phone number), and the sales representative responsible for the sales. This form is likely used by sales teams to track and analyze weekly sales performance.
 
 </thinking>

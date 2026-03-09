@@ -1,11 +1,3 @@
-<thinking>
-This form template is designed for healthcare professionals to create a comprehensive care plan for a patient. It includes fields for essential information about the patient, such as date of admission, medical conditions, care needs, and medication list. The goal is to ensure that healthcare providers have a thorough understanding of the patient's needs and can tailor their care accordingly.
-
-It is essential to complete this form carefully and accurately to ensure that the patient receives the best possible care. Please ensure that you are only completing this form if you have the necessary authority and permission to do so.
-
-Please note that this form has been generated using public survey topic metadata and is not affiliated with or endorsed by any form platform. It is an original adaptation, and you are free to use, modify, and even sell forms derived from it, as long as you give credit.
-</thinking>
-
 # Patient Care Plan Template - Help Guide
 ## Purpose
 The Patient Care Plan Template is a form designed for healthcare professionals to create a comprehensive care plan for a patient. This template provides a structured approach to gathering essential information about the patient, including medical conditions, care needs, and medication list.

@@ -1,25 +1,3 @@
-<thinking>
-The goal of this form is to provide a standardized way to record and track information about individual art pieces within the inventory. This form aims to ensure consistency and accuracy in documenting each item's unique characteristics, condition, and ownership history. To avoid duplication of effort, please only fill out this form for new art pieces that have not been previously added to the inventory.
-
-By completing this form, users will be able to accurately track and manage art pieces across the organization, making it easier to maintain up-to-date records and ensure accurate reporting. Please review the form carefully and ensure all required fields are filled out to ensure accurate tracking and reporting.
-
-The form will be used to record the following information for each art piece:
-
-- Inventory ID: a unique identifier for the item
-- Title of work: the title of the artwork
-- Artist: the name of the artist
-- Year created: the year the work was created (optional)
-- Medium: the materials used to create the work (optional)
-- Dimensions: the height, width, and depth of the artwork (optional)
-- Condition report: notes about the current condition of the work (optional)
-- Storage or display location: where the work is stored or displayed
-- Provenance: the ownership history of the work (optional)
-- Insurance value: the appraised value of the artwork for insurance purposes (optional)
-
-This form is essential for maintaining accurate and up-to-date records of art pieces within the inventory. Please ensure that all required fields are filled out and that the information is accurate and complete.
-
-</thinking>
-
 # Art Inventory Information Record Form - Help Guide
 ## Purpose
 The Art Inventory Information Record Form is a centralized tool for tracking and managing art pieces within the organization's inventory. It ensures accurate and up-to-date records of each item's unique characteristics, condition, and ownership history.

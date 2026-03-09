@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from participants who attended a report writing workshop. The purpose of this form is to collect ratings and comments on various aspects of the workshop, such as participant rating, overall workshop rating, relevance, areas for improvement, trainer performance, overall value, and whether the participant would recommend the workshop. It's essential to fill out this form only if you attended the workshop, otherwise, it may not yield accurate or relevant feedback.
-</thinking>
-
 # Report Writing Workshop Feedback - Help Guide
 
 ## Purpose

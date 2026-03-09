@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect data for leasing-related activities. It's likely used for property management or asset leasing, where users need to track various tasks and payments related to the leasing process. 
-The form appears to have a mix of checkable items, open work orders, payments, and key log updates. This suggests that the form is used to monitor and record the status of different aspects of the leasing process.
-Given the variety of fields, the form might be part of a larger workflow management or property management system.
-</thinking>
-
 # Leasing Checklist - Help Guide
 ## Purpose
 The Leasing Checklist form is designed to help users track leasing-related activities, such as checking voicemail, email, and open work orders, as well as updating key logs and making payments.

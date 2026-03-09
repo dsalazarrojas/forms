@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form is filled out correctly and consistently, we first need to check that this form is being used for its intended purpose and that the data is not being duplicated. This form is meant to record information about restaurant inventory, including location, item, date, quantity, unit price, total value, notes, restaurant details, and check type. It's essential to complete all required fields and ensure that the restaurant details (e.g., name, address, phone, email, hours) are accurate and up-to-date.
-</thinking>
-
 # Restaurant Inventory Information Record Form - Help Guide
 ## Purpose
 This form is designed to record and track restaurant inventory information, including location, items, dates, quantities, and financial details.

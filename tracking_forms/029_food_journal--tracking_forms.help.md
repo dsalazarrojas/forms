@@ -1,12 +1,3 @@
-<thinking>
-To ensure this form's purpose and relevance are understood, let's break down the provided YAML fields. The form is called "Food Journal" and appears to be used for recording meal options and related information, likely for tracking personal or professional food consumption. The form has multiple pages, each containing a select_one field for selecting a meal option, followed by various other fields for additional information such as date, note-taking fields, and contact details. 
-
-This form is likely used in a context where users need to report or track their food intake, possibly for health reasons, dietary tracking, or other purposes.
-
-Given this analysis, let's create a comprehensive help guide for end-users to complete the form efficiently and effectively.
-
-</thinking>
-
 # Food Journal - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their training course interests. It's intended for internal use within the organization, and its output will be used to better understand user preferences and interests. Please ensure that you only fill out this form once, as it's meant to be a one-time submission. Each field has been carefully crafted to collect relevant information from users, and your input will help us tailor our training courses to meet your needs.
-</thinking>
-
 # Training Course Interest Survey - Help Guide
 ## Purpose
 This form is meant to be a quick and easy way for users to express their interests in training courses. Your input will help us create more relevant and engaging training content.

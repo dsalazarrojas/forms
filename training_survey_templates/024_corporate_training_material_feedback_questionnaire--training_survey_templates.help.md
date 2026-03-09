@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback on corporate training material, which is essential for improving the quality of training programs. The form is intended to be used by instructors, trainers, or course administrators to collect information on the effectiveness, relevance, and overall satisfaction with the training material. The feedback collected will help identify areas of improvement and provide valuable insights for refining the training content.
-The form has a mix of required and optional fields, which are designed to gather specific information about the training material. It's crucial to complete all the required fields to provide a comprehensive feedback.
-The field labels have been carefully crafted to be clear and self-explanatory, but a brief explanation of each field's purpose and expected input type is provided below to further assist you in completing the form correctly.
-</thinking>
-
 # Corporate Training Material Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback on corporate training material to help improve its quality and relevance.

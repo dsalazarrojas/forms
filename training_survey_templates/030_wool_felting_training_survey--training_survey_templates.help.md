@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect information about training sessions for wool felting, a craft that involves using wool to create various textiles. Before proceeding, I'll review the form's purpose and ensure it's not a duplicate effort.
-</thinking>
-
 # Wool Felting Training Survey - Help Guide
 ## Purpose
 The Wool Felting Training Survey is designed to gather information about your training session. This form helps us understand the details of your course, such as the trainer's name, session date and start time, duration, felting skills level, and areas covered during the session.

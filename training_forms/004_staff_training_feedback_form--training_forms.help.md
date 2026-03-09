@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from staff members after a training session. This feedback will help evaluate the effectiveness of the training session, identify areas of improvement, and inform future training initiatives. To ensure the form is filled out correctly, please check that you are not filling out the form in duplicate and that you are providing feedback on a specific training session.
-
-</thinking>
-
 # Staff Training Feedback Form - Help Guide
 ## Purpose
 The Staff Training Feedback Form is designed to collect feedback from staff members after a training session. This feedback will help us evaluate the effectiveness of the training session, identify areas of improvement, and inform future training initiatives.

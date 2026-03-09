@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect user feedback on impulsive behaviors, their resistance to change, and the strategies used to resist those behaviors. 
-This form will likely be used by users or teams to track their progress in managing impulsive behaviors and identify patterns or areas where they need more support. 
-This form is likely not meant to be filled out on a daily or weekly basis, but rather as needed or on a less frequent schedule (e.g., monthly or quarterly). 
-Please fill out this form carefully and truthfully to help with your personal development. 
-Ensure that you have filled out the form only once for each impulsive behavior, and do not fill out this form if you have already done so. 
-</thinking>
-
 # Impulse Resistance Log - Help Guide
 ## Purpose
 The Impulse Resistance Log is a tool designed to help users track and manage impulsive behaviors that may be hindering their progress. By filling out this form, users can identify areas where they are struggling with impulsive behaviors and develop strategies to better resist them.

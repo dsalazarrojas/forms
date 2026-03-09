@@ -1,12 +1,3 @@
-<thinking>
-This form is used to gather information from trainees to provide them with relevant charity event management training. The form is used to collect data on the trainee's background, experience, and preferences for the training session. This information will help the training team tailor the content and format of the training to suit the needs of each trainee. Please ensure that the information you provide is accurate and up-to-date.
-
-Before filling out this form, please make sure that you have not already been registered for this training session, as duplicate registrations will not be accepted.
-
-Please fill out this form carefully and thoroughly, as it will help us to create a more effective and engaging training experience for you.
-
-</thinking>
-
 # Charity Event Management Training Form - Help Guide
 ## Purpose
 This form is designed to help the training team tailor the content and format of the training session to meet your specific needs and interests as a trainee.

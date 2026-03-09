@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect data from users for performance tracking. It is designed to monitor and report on employee or staff performance over a monthly period. The form is used to record and evaluate various aspects of performance, such as time-in and time-out, late arrivals, overtime hours, and other time-related issues. This data is then used to generate a report on the user's monthly performance.
-
-To avoid duplication and ensure accuracy, please fill out this form with attention to detail and care.
-
-</thinking>
-
 # Dtr Datc - Help Guide
 ## Purpose
 This guide will walk you through the process of filling out the Dtr Datc form.

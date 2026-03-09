@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to track information about weekly meetings, gathering details about attendance, meeting topics, notes, and follow-up actions. It's intended for internal use within the organization, and its primary purpose is to facilitate efficient meeting tracking and follow-up. The form should not be used for external communication or public sharing. It's essential to fill out the form accurately and completely to ensure that meeting data is reliable and useful for decision-making and future planning.
-
-</thinking>
-
 # Prg Uhg Weekly Meeting Form - Help Guide
 
 ## Purpose

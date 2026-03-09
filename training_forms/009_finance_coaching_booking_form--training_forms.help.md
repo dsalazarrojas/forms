@@ -1,8 +1,3 @@
-<thinking> 
-This help guide is for the "Finance Coaching Booking Form" used to schedule sessions with finance coaches. The form is used to collect client information and preferences for coaching sessions. To complete this form, follow the steps below.
-
-</thinking>
-
 # Finance Coaching Booking Form - Help Guide
 ## Purpose
 This form is used to schedule sessions with finance coaches. Please fill out the form with your details to book a session.

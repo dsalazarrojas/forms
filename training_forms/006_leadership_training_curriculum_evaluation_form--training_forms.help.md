@@ -1,14 +1,3 @@
-<thinking> 
-The purpose of this form is to evaluate the effectiveness of the leadership training program. It is used to gather feedback from participants on various aspects of the training program, including the training title, description, participant feedback, overall rating, and more. The form is designed to be completed by participants after attending the training program, and the feedback gathered will help in assessing the program's strengths and weaknesses. 
-
-This form is part of the "training_forms" category, which implies that it is related to training programs. The fields in this form seem to cover a comprehensive range of aspects that could be relevant for evaluating the effectiveness of a leadership training program. 
-
-The fields are quite straightforward, with most being text or select_multiple types. The form does not seem to have any duplicate fields, and all fields have been clearly labeled and have hints. The form does not contain any fields that could be considered sensitive or confidential in nature. The required fields are evaluation_method and program_title. However, it is worth noting that some fields like participant_feedback and overall_rating seem to have the potential to be sensitive or personal in nature but are not marked as required. It is also possible that these fields could be marked as required if the goal is to collect as much information as possible from each participant. 
-
-The evaluation_method field seems to be asking whether the participant was evaluated using a formal evaluation method or not, which could be useful in assessing the effectiveness of the training program. The evaluation_form_completion field seems to be asking about the completion status of the form itself, which could be useful in monitoring the progress or quality of the form completions. 
-
-Overall, this form appears to be well-designed for collecting feedback from participants about their experience with the leadership training program, and its fields are clear and easy to understand.</thinking>
-
 # leadership_training_curriculum_evaluation_form - Help Guide
 ## Purpose
 This form is designed to evaluate the effectiveness of the leadership training program. It helps in gathering feedback from participants on various aspects of the program, including the training title, description, participant feedback, and overall rating.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Dominance Quiz Form - Help Guide
 ## Purpose
 The Digital Dominance Quiz Form is designed to collect information for user engagement and satisfaction analysis. It helps us assess individual progress and preferences.

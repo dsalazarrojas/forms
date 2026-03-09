@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about financial transactions. It is likely used by accounting or financial teams to track and record transactions in the company. This form should only be filled out once per financial transaction, and not duplicated for multiple transactions with the same date.
-
-</thinking>
-
 # Financial Transaction Log - Help Guide
 ## Purpose
 

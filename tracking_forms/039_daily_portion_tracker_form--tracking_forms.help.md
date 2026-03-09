@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly to track daily portions. The form is designed to collect information about the user's daily food intake, specifically what they had for breakfast, lunch, and dinner, and whether they had any snacks in between. The form should be filled out for every day to get accurate tracking information. Please fill out the form carefully to ensure accurate data collection.
-</thinking>
-
 # Daily Portion Tracker Form - Help Guide
 ## Purpose
 This form is designed to track your daily food and snack intake, providing detailed information about what you ate at different meals and whether you had any additional snacks.

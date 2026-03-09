@@ -1,14 +1,3 @@
-<thinking> 
-The purpose of this form is to collect feedback from users after a training session. It is designed to gather information about the effectiveness of the training, the quality of the trainer, and any areas for improvement. The form is divided into multiple pages, each with a set of questions that aim to elicit specific types of feedback. The questions cover various aspects of the training, including the session date, start and end times, trainer's name, and feedback on specific questions. The form is used to help trainers and training administrators assess the effectiveness of the training and make data-driven decisions to improve future sessions.
-
-Before proceeding, ensure that you have completed all the required fields and have a clear understanding of the questions being asked.
-
-This form is only to be used for training sessions. If you are not a trainer or participant in a training session, please do not fill out this form.
-
-This form is a one-time feedback opportunity. If you have completed this form, please do not submit duplicate feedback.
-
-</thinking>
-
 # Post Training Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback on the training session, ensuring that trainers can improve future sessions and provide a better experience for participants.

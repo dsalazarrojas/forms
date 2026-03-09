@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from participants after a session or training session. It is designed to gather information about the effectiveness of the facilitator, content, and overall participant experience. This form is not mandatory, but it's an important tool for improvement and evaluation of the training program.
-
-Before starting, please ensure that you are not duplicating your effort. If you've already filled out this form for the same training session, there's no need to complete it again. Your feedback will help us improve future sessions, so please be as detailed and honest as possible.
-
-The purpose of this form is not only to improve the training session but also to evaluate its effectiveness and make data-driven decisions about future sessions. Your input will help us tailor our training programs to better meet the needs of our participants.
-
-</thinking>
-
 # inquest_session_feedback_survey - Help Guide
 
 ## Purpose

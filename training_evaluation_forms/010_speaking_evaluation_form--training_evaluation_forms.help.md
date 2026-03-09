@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will cover the "Speaking Evaluation Form" used to assess the performance of a speaker during a session. This form is designed to gather feedback from attendees about the speaker's presentation, overall evaluation, and other session details.
 
 To ensure accurate and consistent feedback, please complete the form in its entirety. If you have already completed a form for this speaker, please do not submit another form. Each form should be filled out separately for each speaker.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track customer experiences and purchases, allowing users to input information on customer interactions. This form is intended for data collection purposes and will be used to analyze customer feedback and behavior. Please ensure that you are filling out this form for the correct customer and that you are aware of your organization's policies regarding data collection and customer privacy.
-</thinking>
-
 # Experience and Purchase Tracker - Help Guide
 ## Purpose
 The Experience and Purchase Tracker form is used to collect data on customer interactions, including their experiences and purchases. This form will help your organization analyze customer feedback and behavior to inform business decisions.

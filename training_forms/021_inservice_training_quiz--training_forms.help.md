@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for tracking training completion by instructors and participants. It captures information on the course title, department, date and time of completion, whether the participant has participated, their level of understanding, and the reviewers of the training (Manager, Supervisor, Department Head, or Colleague). The form is intended for use in an educational setting, specifically for internal training programs. The fields are designed to be straightforward and easy to understand. Before completing this form, please ensure that you have all necessary information and permissions to provide accurate and complete responses.
-</thinking>
-
 # Inservice Training Quiz - Help Guide
 ## Purpose
 This form is designed for tracking training completion by instructors and participants in internal educational settings.

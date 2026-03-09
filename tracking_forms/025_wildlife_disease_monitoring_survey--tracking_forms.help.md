@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to track wildlife disease monitoring, a critical process for conservation and public health. It's intended for researchers, conservationists, and fieldworkers to collect data on wildlife diseases, their locations, and the organisms affected. The form will help to gather information on the disease's characteristics, the affected organisms, and any other relevant details. By using this form, you can contribute to the development of more effective disease monitoring and control strategies.
-
-Please note that the form is not affiliated with any specific platform or organization, and it's released under a Creative Commons BY 4.0 license. You are free to use, modify, and share this form.
-
-This form has been created using public metadata, so it's not a copy of any proprietary content. If you're looking for a form to collect data on wildlife diseases, this one might be a good starting point.
-
-Before filling out this form, make sure you have the necessary permissions and follow any local regulations regarding wildlife handling and data collection.
-
-</thinking>
-
 # wildlife_disease_monitoring_survey - Help Guide
 ## Purpose
 This form is designed to collect data on wildlife diseases, their locations, and the organisms affected. It's intended for researchers, conservationists, and fieldworkers to track and monitor wildlife diseases.

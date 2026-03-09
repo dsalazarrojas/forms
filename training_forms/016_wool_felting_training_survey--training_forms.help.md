@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Wool Felting Training Survey form. This form is used to gather feedback and suggestions from trainees after attending a wool felting training session. The purpose of this form is to evaluate the effectiveness of the training, identify areas for improvement, and capture feedback and suggestions from the trainees.
-
-The trainer's name and date of training are also required so that the training team can accurately match the feedback with the specific session. The session length and satisfaction level should be provided as well for further improvement and evaluation.
-</thinking>
-
 # wool_felting_training_survey - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to record information about an individual's fundraising skills training, which includes basic, intermediate, and advanced levels. It is crucial to gather accurate data to determine the level of expertise an individual possesses and provide them with the appropriate training tools. This form aims to capture the participant's name, email, phone number, address, fundraising skills, training level, date, time, notes, payment method, and amount. It is recommended that each field be filled out accurately to ensure that the training process is tailored to the participant's needs.
-</thinking>
-
 # fundraising_skills_training_form - Help Guide
 ## Purpose
 The Fundraising Skills Training Form is a document used to record information about an individual's fundraising skills training.

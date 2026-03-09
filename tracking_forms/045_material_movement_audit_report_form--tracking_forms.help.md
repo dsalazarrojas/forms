@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information about material movements within the organization. It tracks the transfer of materials between different warehouses and factories. The form is designed to gather data on the date and time of the transfer, the reason for the transfer, the warehouse and factory involved, the material being transferred, the person responsible for the transfer, and any additional comments or notes. This form is intended to improve the accuracy and efficiency of material tracking and inventory management within the organization.
-
-</thinking>
-
 # Material Movement Audit Report Form - Help Guide
 ## Purpose
 This form is used to collect information about material movements within the organization. It helps to track the transfer of materials between different warehouses and factories.

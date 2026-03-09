@@ -1,9 +1,3 @@
-<thinking>
-This form is used for tracking medication intake and schedule. It's designed for medical professionals to monitor patient medication adherence and schedule. This form is meant to be completed by patients or caregivers, providing crucial information about a patient's medication regimen. The form should only be filled out once for each medication type.
-
-This form is not intended for duplicate usage. If you need to track multiple medications, fill out a new form for each one.
-</thinking>
-
 # Medication Tracker Form - Help Guide
 ## Purpose
 This form is used to track patient medication intake and schedule.

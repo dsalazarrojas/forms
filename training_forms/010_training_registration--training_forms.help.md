@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Training Registration - Help Guide
 
 ## Purpose

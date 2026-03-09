@@ -1,8 +1,3 @@
-<thinking>
-We'll create a user-facing help guide for the "Safety Training Registration Form". This form is designed to gather information from users for the purpose of registering for safety training. To confirm, the form will be used to collect data on individuals who require safety training, including their name, contact information, and training details. We'll ensure this form is not a duplicate effort by cross-checking with existing records before accepting new submissions.
-
-</thinking>
-
 # Safety Training Registration Form - Help Guide
 ## Purpose
 This form is used to register individuals for safety training. Please fill out the form carefully to ensure accurate and complete information.

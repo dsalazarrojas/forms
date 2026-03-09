@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect feedback and evaluations from trainees after completing a training session. The purpose of this form is to gauge the effectiveness of the training, assess the quality of the training provided, and identify areas for improvement. 
-
-The form is designed to gather information from the trainee about their experience with the trainer, the course, and their overall satisfaction with the training. The form will help identify any issues or concerns that the trainee may have had during the training session.
-
-Please ensure that you are completing this form for the right purpose and not duplicating effort. If you have already provided feedback, please do not complete this form again.
-
-</thinking>
-
 # Training Evaluation - Help Guide
 
 ## Purpose

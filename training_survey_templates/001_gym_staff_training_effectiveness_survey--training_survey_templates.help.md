@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gym Staff Training Effectiveness Survey - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-The form "Blood Pressure Log Form" is designed to track blood pressure readings over time. This form helps patients to record and monitor their blood pressure measurements, providing a clear and structured way to track and analyze their readings. The form is intended for individual use, allowing patients to track their own readings and note any changes or concerns.
-The form is not intended for multiple users, as it is a personal tracking tool. It is not meant to be shared or compared with others.
-</thinking>
-
 # Blood Pressure Log Form - Help Guide
 ## Purpose
 The Blood Pressure Log Form is a tool for patients to track their blood pressure readings over time, providing a structured and organized way to monitor and analyze their measurements.

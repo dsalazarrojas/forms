@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I will create a comprehensive user-facing help guide for the "Creature Catching Log" form, which is part of the "tracking_forms" category. This guide will help end-users understand the purpose of the form, how to complete it, and what each field means.</thinking>
-
 # Creature Catching Log - Help Guide
 ## Purpose
 The "Creature Catching Log" form is designed to record and track details of a creature caught or observed. This form will help researchers, conservationists, and enthusiasts to monitor and analyze data on creature sightings, habitat, and behavior.

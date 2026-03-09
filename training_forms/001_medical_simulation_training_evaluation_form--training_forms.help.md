@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Simulation Training Evaluation Form - Help Guide
 
 ## Purpose

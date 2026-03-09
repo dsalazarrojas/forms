@@ -1,5 +1,3 @@
-<thinking>...the form purpose is to help participants set and track their professional vision and goals. This form guides them to reflect on their current situation, identify their desired goals, and outline the next steps for achieving them. This form should only be filled out by participants in the training program who are expected to achieve specific goals. If the participant has already completed the training program, they are not expected to fill this form out. This form is meant to be filled out once and then reviewed by the trainers/trainers during the training sessions to ensure that all participants are on the right track.</thinking>
-
 # Vision And Goal Setting Training Form - Help Guide
 ## Purpose
 This form is designed to help participants set and track their professional vision and goals during the training program. It is intended to guide participants in reflecting on their current situation, identifying their desired goals, and outlining the next steps for achieving them.

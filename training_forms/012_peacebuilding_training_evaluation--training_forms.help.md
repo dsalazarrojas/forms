@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from trainees on the effectiveness of a peacebuilding training program. This form is used to evaluate the outcomes, objectives, and overall quality of the training sessions. Trainees are asked to provide their honest feedback to help identify areas of improvement for future trainings. This form is likely to be used by trainers or training managers to gather valuable insights and suggestions for enhancing the training program.
-The form is not intended for real-time feedback, but rather for retrospective evaluation of the training sessions.
-</thinking>
-
 # Peacebuilding Training Evaluation - Help Guide
 ## Purpose
 The Peacebuilding Training Evaluation form is designed to gather feedback from trainees on the effectiveness of a peacebuilding training program.

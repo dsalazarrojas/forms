@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for workers who need to request access to training modules. The purpose of this form is to collect information about the training modules the worker needs access to, including the type of module, the preferred date for the training, and any required skills, equipment, or location for the training. The form should not be completed if the worker has already received access to the same training module in the past 30 days. 
-</thinking>
-
 # Worker Training Module Request Form - Help Guide
 ## Purpose
 This form is used to request access to a training module for a worker. Please fill out this form to provide the necessary information for the training module request.

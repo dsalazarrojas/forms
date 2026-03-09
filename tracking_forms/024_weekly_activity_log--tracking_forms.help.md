@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Weekly Activity Log - Help Guide
 ## Purpose
 The Weekly Activity Log is a form used to track and record activities that have occurred within a club or organization during a week. The form helps to keep a record of events, meetings, and other activities that have taken place, providing valuable information for future planning and analysis.

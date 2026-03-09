@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to evaluate the effectiveness of robotics training sessions. It captures information about the date of the training session, the participant's name, ID, and rating, as well as other relevant details such as the training evaluator, evaluation result, participant feedback, and training location. The form is likely used by trainers or evaluators to assess the performance of participants in robotics training sessions and provide feedback for improvement.
-
-To ensure that the form is completed accurately, it is recommended that only authorized personnel fill out the form after each training session. Duplicate entries should be avoided to prevent errors in data analysis.
-
-To complete this form, follow the steps below:
-
-</thinking>
-
 # robotics_training_evaluation_form - Help Guide
 ## Purpose
 This form is used to evaluate the effectiveness of robotics training sessions. It collects information about participant performance, rating, and feedback to help trainers and evaluators monitor progress and identify areas for improvement.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used to gather feedback from users on various aspects of online professional skills courses, including course creators, training teams, learner needs, delivery preferences, course planning, learner preferences, delivery frequency, and future course planning. This form is likely used to inform decisions or gather insights for the development or improvement of online professional skills courses. 
-
-Please ensure this form is not used to duplicate or overlap with existing forms that gather similar information, and that you have the necessary permissions and approvals to complete this form.
-
-The data collected from this form will be used to improve our online professional skills courses. Please provide honest and accurate information to help us better understand your needs and preferences.
-</thinking>
-
 # Online Professional Skills Course Poll - Help Guide
 ## Purpose
 This form is designed to gather feedback and insights on various aspects of online professional skills courses, including course creators, training teams, learner needs, delivery preferences, course planning, learner preferences, delivery frequency, and future course planning. This information will be used to inform decisions or improve the development of online professional skills courses.

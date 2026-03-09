@@ -1,8 +1,3 @@
-<thinking> 
-This form was generated with the purpose of gathering feedback on the Online Course. The goal is to improve future training programs. If you have already provided feedback on this form, please do not submit duplicate responses. Your input is invaluable in helping us refine the course content and user experience. 
-
-</thinking>
-
 # online_course_template - Help Guide
 ## Purpose
 The "online_course_template" form is designed to collect feedback from online course participants. This form helps us understand their overall satisfaction with the course, identify valuable topics or modules, assess the platform's usability, and determine the effectiveness of the course content. Your input is essential in shaping future improvements.

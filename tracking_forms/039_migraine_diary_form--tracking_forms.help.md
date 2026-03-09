@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the form is being used as intended and that users are providing accurate and consistent data. This form is for tracking migraines and their symptoms, which are crucial for medical professionals to understand the frequency, duration, and severity of attacks. If you're unsure about what to input or have any doubts, please refer to this guide.
-
-This form should be used by individuals who experience migraines to record their attacks. Please fill out each field as instructed.
-
-</thinking>
-
 # Migraine Diary Form - Help Guide
 
 ## Purpose

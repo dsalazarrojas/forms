@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about potential risks that may arise after training, which is crucial for the organization to assess and mitigate them proactively. This form will help identify areas of potential risks, types of incidents that could occur, likelihood and frequency of those incidents, and controls that are currently in place. It's essential to fill out this form to provide a comprehensive risk assessment and ensure a safe and efficient operation. Please note that this form is part of our organization's risk management process and is designed to help us identify, assess, and mitigate risks that may impact our work. Please review each field carefully to provide accurate information. If you are unsure about any question, please ask your supervisor or our risk management team for clarification.
-</thinking>
-
 # Post-Training Risk Assessment - Help Guide
 ## Purpose
 This form is used to identify and assess potential risks that may arise after training, to ensure a safe and efficient operation.

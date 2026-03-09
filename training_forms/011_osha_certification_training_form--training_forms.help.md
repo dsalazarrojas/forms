@@ -1,6 +1,3 @@
-<thinking>**Please note that the form is intended to capture information related to OSHA certification training for employees. The form is designed to be completed by users who have undergone such training. The purpose of this form is to record and track employee certification status, training details, and other relevant information. This form should only be filled out by employees who have received OSHA certification training, and not by trainers or administrators. The form should not be filled out if the employee has not received the training or is not certified. The form will be used for internal tracking and record-keeping purposes.**
-
-</thinking>
 # OSHA Certification Training Form - Help Guide
 
 ## Purpose

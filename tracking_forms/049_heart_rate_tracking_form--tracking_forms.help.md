@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # heart_rate_tracking_form - Help Guide
 ## Purpose
 The heart rate tracking form is designed to collect data on patients' heart rates at different time points. This form will be used to monitor and track heart rates for patients.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to track and record information about wrist stretching exercises for the user, likely for physical therapy or fitness training purposes. This form is used to document the number of sets completed, repeats completed, muscles stretched, and other relevant details about each session. The form is likely used by trainers or coaches to assign exercises to users and track their progress.
-</thinking>
-
 # Wrist Stretching Exercise Log - Help Guide
 ## Purpose
 The Wrist Stretching Exercise Log is a form used to record and track information about wrist stretching exercises. This form helps users document their progress and provides a record of their workouts.

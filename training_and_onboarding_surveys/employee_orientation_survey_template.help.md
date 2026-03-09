@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the initial employee orientation and onboarding experience. It will help gather insights on how to improve the orientation program for new employees. The goal is to ensure that the program is effective and provides a positive experience for the employees. This form is not affiliated with any specific survey platform and is an original adaptation using only public metadata. It's released under CC BY 4.0, allowing anyone to use, modify, and distribute it for their own purposes.
-</thinking>
-
 # employee_orientation_survey_template - Help Guide
 ## Purpose
 This form is designed to gather feedback on the employee orientation and onboarding experience, with the aim of improving the program's effectiveness and employee satisfaction.

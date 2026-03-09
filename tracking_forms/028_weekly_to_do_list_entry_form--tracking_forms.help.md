@@ -1,13 +1,3 @@
-<thinking>
-
-The form is designed to help individuals and teams track their weekly to-do lists by collecting information about tasks they intend to complete. This form is intended for personal or team use, and its purpose is to provide a structured way to record and manage tasks. 
-
-This form is not affiliated with, endorsed by, or derived from any form platform, and its design is based on publicly available metadata from surveys and categories. The form's purpose is to assist users in efficiently managing their tasks and deadlines.
-
-This form's fields and structure are original and were generated using artificial intelligence, without copying or extracting proprietary content from other form platforms. The form's output is released under a Creative Commons BY 4.0 license, allowing users to modify, share, or even sell forms derived from it, as long as they give proper credit.
-
-</thinking>
-
 # Weekly To Do List Entry Form - Help Guide
 
 ## Purpose

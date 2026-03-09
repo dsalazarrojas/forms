@@ -1,7 +1,3 @@
-<thinking>
-Please ensure that this help guide is useful and relevant to your end users and that it doesn't duplicate any existing documentation. The form purpose is to collect information about the home infection control training form, which is likely used to monitor and evaluate the effectiveness of home-based infection control training programs. The fields are likely designed to capture essential details such as training dates, participant feedback, and training status. Please review the form fields carefully and adjust the guide accordingly.
-</thinking>
-
 # Home Infection Control Training Form - Help Guide
 ## Purpose
 This form is designed to collect information about home-based infection control training programs, including details about training sessions, participants, and instructors.

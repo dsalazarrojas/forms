@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive vaccination record form that captures various aspects of a patient's vaccination experience. The form is designed to collect information about the details of the vaccination, patient's personal info, dosage info, adverse events, medical history, allergies, medication administered, vaccine side effects, and patient outcome.
-
-Before we dive into the form explanation, we'll assume that the form is being used in a medical setting, such as a doctor's office or a public health organization. We'll also assume that the form is meant to be filled out by healthcare professionals or trained staff members.
-
-Given the form's purpose and the fields it contains, it's likely that the form will be used to track and document vaccination records for patients. This form may be used for administrative, research, or clinical purposes.
-
-We'll now create a help guide to ensure that users understand the form's purpose and how to complete it.
-
-</thinking>
-
 # Vaccination Record Form - Help Guide
 ## Purpose
 The Vaccination Record Form is designed to collect and document various aspects of a patient's vaccination experience. This form is intended to be filled out by healthcare professionals or trained staff members to track and record vaccination details, patient information, and other relevant details.

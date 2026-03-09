@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the Training Report Form is to document participant's experiences and outcomes after completing a training or a program. This form helps to gather valuable information and feedback from participants, which can be used to evaluate the effectiveness of the training and make improvements for future programs. This form is typically used for internal purposes, such as quality control and process improvements within the organization.
-
-Before proceeding, please ensure that you are completing this form for a training session that you have actually attended. If you are not sure or have already submitted a form for this training session, please do not complete this form again.
-
-</thinking>
-
 # Training Report Form - Help Guide
 ## Purpose
 The Training Report Form is used to document participant's experiences and outcomes after completing a training or a program.

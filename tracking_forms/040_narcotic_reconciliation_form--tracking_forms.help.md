@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a comprehensive help guide for the Narcotic Reconciliation Form, I will base the explanation on the provided YAML fields. Here is the final help guide in Markdown:
 
 # Narcotic Reconciliation Form - Help Guide

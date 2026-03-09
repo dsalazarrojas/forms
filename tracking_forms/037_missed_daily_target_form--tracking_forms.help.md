@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help users track their daily targets, specifically for tracking missed deadlines or targets. The form aims to collect information about the date and time when targets were missed.
-This form is not meant to replace existing workflows, but rather supplement them. Users may fill out this form to report missed targets for their daily tasks or projects.
-Please ensure that you only submit one missed target per form.
-</thinking>
 # Missed Daily Target Form - Help Guide
 ## Purpose
 This form is designed to track and report missed daily targets. It helps users to keep track of dates and times when they missed their targets.

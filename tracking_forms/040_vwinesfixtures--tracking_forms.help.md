@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vwinesfixtures - Help Guide
 ## Purpose
 The Vwinesfixtures form is designed to collect information about wines and fixtures. This form helps you track and organize data about home and away teams, their scores, dates, and times for upcoming or past events. 

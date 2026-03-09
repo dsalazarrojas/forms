@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users track food storage inventory. It is crucial to track the amount of food on hand and what food items are needed to be purchased. By filling out this form, users can keep accurate records of what they have and what they are running low on. 
-</thinking>
-
 # Food Storage Inventory Form - Help Guide
 ## Purpose
 The Food Storage Inventory Form is used to track food storage inventory. It helps users to keep accurate records of food items, their amounts, and categories.

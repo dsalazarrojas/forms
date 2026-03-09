@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about workplace visitors, including their visit date, time, and purpose. The form helps track and record visitor interactions, which is essential for maintaining visitor management, monitoring workplace security, and improving customer relations. It's also useful for tracking visitor attendance, managing parking, and monitoring access to restricted areas. 
-</thinking>
-
 # Contact Visit Log - Help Guide
 ## Purpose
 The Contact Visit Log form is used to track workplace visitors, including their contact information, visit details, and interactions with employees.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # App Location Tracking Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from users for tracking their location data. It helps us understand their preferences and ensure compliance with data protection regulations.

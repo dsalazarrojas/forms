@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to store employee data for internal tracking and record-keeping purposes. It collects various details about an employee, including their name, job title, job role, department, date of birth, manager's name, and employment status. This form is used to create a centralized repository of employee information, ensuring that all relevant data is accurate and up-to-date. Please note that the form is not intended for external use or sharing, and data will only be accessed by authorized personnel.
-
-</thinking>
-
 # Employee Data Record Form - Help Guide
 ## Purpose
 The Employee Data Record Form is used to store and update employee information for internal tracking and record-keeping purposes.

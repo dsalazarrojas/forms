@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track wildlife tracking equipment issues, maintenance needs, and other concerns. It helps to identify and address these issues in a structured manner, ensuring that conservation teams can prioritize and respond to them effectively. By using this form, users can report equipment malfunctions, maintenance requirements, and other problems, providing a clear and concise way to communicate with the conservation team.
-</thinking>
-
 # Wildlife Tracking Equipment Service Request - Help Guide
 ## Purpose
 This form is designed to collect information about wildlife tracking equipment issues, maintenance needs, and other concerns that require attention from the conservation team.

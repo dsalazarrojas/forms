@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to provide information about fields and farms. 
-This form captures data about fields in various stages of cultivation, allowing users to track different types of equipment used, their status, and the dates and times of activities such as planting and harvesting. 
-The form is used to collect metadata about these fields, and users should only fill this form when they want to document field information. 
-To avoid duplication of effort, only submit this form once for each field. 
-Please ensure that you have permission to access the field data before submitting this form. 
-Please ensure that the submitted data is accurate and up-to-date. 
-The form is meant for internal use, and sensitive data should not be shared without consent. 
-</thinking>
-
 # Field Leaderboard Form - Help Guide
 ## Purpose
 This form is used to document field information for various stages of cultivation.

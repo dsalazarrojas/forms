@@ -1,7 +1,3 @@
-<thinking>
-This is a form used to collect feedback and suggestions from attendees after a software training seminar. To use this form, you should be an attendee of a software training seminar. Please ensure you have the necessary information before completing this form. If you have already submitted feedback through this form, please note that each submission will be treated as a new feedback message, and duplicate submissions will be discarded.
-</thinking>
-
 # Software Training Seminar Voting Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions from attendees after a software training seminar. It helps us understand your thoughts, opinions, and preferences about the seminar and its content.

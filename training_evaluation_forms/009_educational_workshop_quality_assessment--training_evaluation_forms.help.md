@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Educational Workshop Quality Assessment - Help Guide
 
 ## Purpose

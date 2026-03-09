@@ -1,7 +1,3 @@
-<thinking>
-This form is used for tracking student attendance, which is an essential aspect of student management in educational institutions. The form captures crucial information about students, including their ID, name, date of attendance, time of attendance, school ID, and other relevant details. By filling out this form, students can sign in and record their presence, allowing the institution to keep accurate attendance records.
-</thinking>
-
 # Student Sign In Form - Help Guide
 
 ## Purpose

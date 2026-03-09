@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be designed for tracking services provided to customers. The form likely serves as a centralized hub for capturing and maintaining information related to service orders, including customer details, service specifics, and status updates. The form's purpose is to streamline service tracking and facilitate collaboration among team members.
-
-Before proceeding, ensure that the form is not being used for any other purpose, and that the information captured within it is not duplicated in other systems or forms. This will help maintain data consistency and accuracy throughout the organization.
-
-</thinking>
-
 # service_order_tracker_iwpaservice_recall - Help Guide
 ## Purpose
 The service order tracker is a form used to capture and track information related to services provided to customers. It is designed to facilitate collaboration and data consistency among team members.

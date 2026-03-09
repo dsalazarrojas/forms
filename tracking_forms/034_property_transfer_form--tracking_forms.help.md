@@ -1,11 +1,3 @@
-<thinking>
-The form is used to record property transfers between divisions and departments within an organization. This form is used to capture the details of the transfer, including the transferee and transferor information, asset details, and transfer dates. To ensure data accuracy, please fill in the required fields carefully.
-
-This form is a one-time use form and does not have any validation or submission logic. Please review the instructions and fill in the form correctly before submission.
-
-Please ensure that you have permission from the relevant stakeholders before filling in the details of the transfer.
-</thinking>
-
 # Property Transfer Form - Help Guide
 ## Purpose
 The Property Transfer Form is used to record the details of a property transfer between divisions and departments.

@@ -1,10 +1,3 @@
-<thinking>
-We should create a user-facing help guide for the mileage_tracker_form_template form to assist end-users in completing it efficiently. This form is designed to track vehicle-related activities, and its purpose is to collect information about vehicle usage, including mileage, fuel types, and locations. It's essential to ensure that end-users understand how to fill out the form correctly to avoid errors and get accurate results. We should verify that the form's fields are properly labeled and explained to prevent confusion.
-
-Before proceeding, let's review the form's fields and their types to create an accurate and comprehensive guide.
-
-</thinking>
-
 # mileage_tracker_form_template - Help Guide
 ## Purpose
 The mileage_tracker_form_template is designed to track vehicle-related activities, such as mileage, fuel types, and locations. This form helps collect information about vehicle usage, enabling users to monitor and analyze their vehicle's performance.

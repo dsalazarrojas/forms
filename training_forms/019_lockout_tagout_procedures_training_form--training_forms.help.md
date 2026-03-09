@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lockout/Tagout Procedures Training Form - Help Guide
 ## Purpose
 This form is designed to help train individuals on the procedures for performing lockout/tagout tasks in a safe and controlled manner. It guides users through the process of completing a lockout/tagout procedure, ensuring that all necessary steps are taken to prevent accidents and ensure the safety of personnel.

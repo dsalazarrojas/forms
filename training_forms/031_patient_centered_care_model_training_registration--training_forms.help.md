@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for the Patient Centered Care Model Training Registration. This form is used to track the training details of staff members, including the type of training they received, the date and time of the training, the location of the training, and other relevant information. It is essential to ensure that all staff members are properly registered for training to ensure that they can effectively care for patients.
-
-The following fields should be filled out only once. If a staff member has already completed the training, please do not duplicate their information.
-
-Please note that the form is divided into several sections. Each section has its own specific purpose and fields should be filled out accordingly.
-</thinking>
-
 # Patient Centered Care Model Training Registration - Help Guide
 ## Purpose
 The Patient Centered Care Model Training Registration form is used to collect information for staff members who have attended the Patient Centered Care Model Training.

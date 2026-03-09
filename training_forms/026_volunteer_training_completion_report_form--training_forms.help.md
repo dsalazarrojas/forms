@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by volunteers to report their training progress and completion status. The form is designed to collect information about the volunteer's training programs, progress, and completion status. It is essential to fill out this form accurately and completely to ensure that training completion reports are up-to-date and reliable. Please only fill out this form once per training program completion.
-</thinking>
-
 # Volunteer Training Completion Report Form - Help Guide
 ## Purpose
 This form is used by volunteers to report their training progress and completion status for a specific training program.

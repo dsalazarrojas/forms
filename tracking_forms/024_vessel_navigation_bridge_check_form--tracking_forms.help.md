@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is used to check the status of various navigational systems on a vessel, including navigation lights, steering position, radar, and VOR (VHF Omni-directional Range). The form is used to ensure that the vessel is in a safe operating condition. It's likely used by crew members or officers to report on the status of these critical systems during daily check-ins or pre-departure checks. This form helps to prevent accidents and ensures that the vessel is seaworthy.</thinking>
-
 # Vessel Navigation Bridge Check Form - Help Guide
 ## Purpose
 The Vessel Navigation Bridge Check Form is used to monitor the status of various navigation systems on a vessel, ensuring it's in a safe operating condition.

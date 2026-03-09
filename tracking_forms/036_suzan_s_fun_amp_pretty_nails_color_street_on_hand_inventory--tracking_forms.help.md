@@ -1,6 +1,3 @@
-<thinking>
-This form is used for tracking the on-hand inventory of Suzan's Fun Pretty Nails Color Street product. It is intended for internal use by authorized personnel to record the quantity and details of products currently in stock. This form is not intended for customer or external use. It is a duplicate of the standard on-hand inventory form used in similar contexts in the company. Please ensure that the fields are accurate and up-to-date for proper tracking and reporting purposes.</thinking>
-
 # Suzans_Fun_Pretty_Nails_Color_Street_On_Hand_Inventory - Help Guide
 ## Purpose
 ## How To Complete This Form

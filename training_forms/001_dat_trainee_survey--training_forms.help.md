@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from DAT trainees, likely for administrative or logistical purposes within an organization. This form is not designed for public-facing use, as indicated by the absence of a clear "submit" or "send" button, suggesting it's meant for internal use. The form does not appear to collect sensitive or personal data that would require additional security measures. However, the fields provided are quite basic, indicating that the form is likely used for straightforward information gathering.
-</thinking>
-
 # DAT Trainee Survey - Help Guide
 ## Purpose
 The DAT Trainee Survey form is used to collect information from DAT trainees within an organization for administrative or logistical purposes.

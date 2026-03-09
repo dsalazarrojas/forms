@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their fitness goals, training habits, and preferences. The form is meant to be a template for creating a personalized workout plan.
-</thinking>
-
 # cutting-phase-weight-training-plan-form - Help Guide
 ## Purpose
 This form is used to collect information from users about their fitness goals, training habits, and preferences to create a personalized workout plan. Please answer the questions below to help us better understand your needs and provide you with the best possible guidance.

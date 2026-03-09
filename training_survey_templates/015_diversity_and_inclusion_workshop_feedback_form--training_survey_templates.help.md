@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that our "Diversity And Inclusion Workshop Feedback Form" accurately reflects the actual needs and purposes it was created for. Before proceeding, let's review the form's design and functionality. The form should be clear, concise, and free of errors, and all fields must be correctly assigned their roles and properties in the form's schema. Let's verify that the form's purpose and the required fields are correctly defined and that all fields can be completed in the intended way.</thinking>
-
 # Diversity And Inclusion Workshop Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants in a workshop on diversity and inclusion, aimed at providing valuable insights for further improvement and enhancing the overall diversity and inclusion experience in the workshop.

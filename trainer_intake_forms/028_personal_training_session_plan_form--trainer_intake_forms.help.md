@@ -1,7 +1,3 @@
-<thinking>
-The form is a Personal Training Session Plan Form used to gather information for a training session with a client. The goal of this form is to ensure that both the client and the trainer have a clear understanding of what to expect from the training session and to provide essential details about the client's goals, schedule, and emergency contacts. This form is intended for one-time completion by the client. The form will only be used once per client, so there's no need to worry about duplicate submissions.
-</thinking>
-
 # Personal Training Session Plan Form - Help Guide
 ## Purpose
 The Personal Training Session Plan Form is a crucial document that helps both the client and the trainer understand each other's expectations before starting a training session. This guide will walk you through each field of the form to ensure you complete it accurately and effectively.

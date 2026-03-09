@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Voyage Planning Navigation Quiz - Help Guide
 
 ## Purpose

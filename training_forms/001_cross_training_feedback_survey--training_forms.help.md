@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from individuals who have completed training sessions, focusing on their overall experience and opinions about the training content. This helps the training administrators to evaluate the effectiveness of the training and identify areas for improvement. By filling out this form, you will be providing valuable insights that will aid in the development of future trainings.
-</thinking>
-
 # cross-training-feedback-survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from trainees on their experience with the training sessions. Your input will help us understand what worked well and what didn't, so we can make improvements for future trainings.

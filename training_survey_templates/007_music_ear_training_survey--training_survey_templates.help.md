@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from music enthusiasts about their current skills and methods used for ear training, as well as any challenges they face and suggestions for improvement. The form is intended to be a general survey to gauge the overall state of music ear training in the community. This form is not affiliated with any specific platform and is a public, original creation. By filling out this form, you are contributing to a data set that can help improve music ear training in the community.
-
-Please note that this form is a public adaptation of a survey topic, and its content may be used for public benefit, not for commercial purposes.
-
-Before proceeding, make sure to fill out this form carefully, as the data you provide will be used to improve music ear training.
-
-</thinking>
-
 # Music Ear Training Survey - Help Guide
 ## Purpose
 The Music Ear Training Survey is a general survey to gauge the state of music ear training in the community. It aims to gather information about your current skills and methods used for ear training, as well as any challenges you face and suggestions for improvement.

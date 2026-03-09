@@ -1,5 +1,3 @@
-<thinking>...this form is designed to help staff evaluate the effectiveness and quality of training sessions, ensuring that they are providing the best possible experience for attendees. This form helps to identify areas of improvement and measure progress over time. Please ensure that you only fill this form out for sessions you have directly attended, to provide accurate and relevant feedback. Please do not duplicate entries for the same training session, as this can lead to inaccurate data and confusion....</thinking>
-
 # Staff Training Content Evaluation Form - Help Guide
 ## Purpose
 The Staff Training Content Evaluation Form is a tool used to evaluate the effectiveness and quality of training sessions. Its purpose is to help staff provide feedback and identify areas of improvement to enhance the overall experience of attendees.

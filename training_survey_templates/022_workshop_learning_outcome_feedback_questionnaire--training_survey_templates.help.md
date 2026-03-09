@@ -1,7 +1,3 @@
-<thinking>
-This form is a Workshop Learning Outcome Feedback Questionnaire, which aims to collect feedback from workshop participants about their experience, learning outcomes, and effectiveness of the workshop. The form is designed to be completed by workshop organizers and facilitators to gather insights on how to improve their workshops. The form will be used to collect both qualitative (text-based) and quantitative (select/multiple options) feedback from participants.
-</thinking>
-
 # Workshop Learning Outcome Feedback Questionnaire - Help Guide
 ## Purpose
 The Workshop Learning Outcome Feedback Questionnaire is a form designed to collect feedback from workshop participants on their experience, learning outcomes, and effectiveness of the workshop. It is intended to be completed by workshop organizers and facilitators to gather valuable insights on how to improve their workshops.

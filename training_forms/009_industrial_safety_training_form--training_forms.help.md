@@ -1,11 +1,3 @@
-<thinking>
-To begin with, let's understand the purpose and requirements of this form. The "Industrial Safety Training Form" aims to gather information from participants in an industrial safety context, likely for training purposes or record-keeping reasons. This form is designed to be completed by people attending or participating in industrial safety training sessions. To ensure you're using this form correctly, please consider the following:
-
-* Ensure that you're completing the form for the right purpose. If you're unsure, refer back to the form title and description.
-* If you're already familiar with the form, you can skip this section and proceed to the explanation of each field.
-
-</thinking>
-
 # Industrial Safety Training Form - Help Guide
 ## Purpose
 The "Industrial Safety Training Form" is a document used to record and track information about industrial safety training sessions. It helps to ensure that participants have received necessary training and are aware of their safety responsibilities.

@@ -1,7 +1,3 @@
-<thinking>
-The Employee Training Platform Usability Evaluation Form is a tool used to gather feedback from employees about their experiences with the training platform. This form helps to identify areas where the platform can be improved to better meet the needs of its users. To ensure that we capture relevant and accurate feedback, please review the form carefully and fill it out thoroughly. Make sure to only answer questions that are applicable to your experiences with the training platform. If a question is not applicable, please answer "N/A" or "Not Applicable."
-</thinking>
-
 # Employee Training Platform Usability Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees about their experiences with the training platform. Your input will help identify areas where the platform can be improved to better serve you and other users.

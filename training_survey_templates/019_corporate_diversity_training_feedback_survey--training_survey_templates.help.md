@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from employees who have participated in diversity training workshops. The form is used to gauge the effectiveness of the training, identify areas for improvement, and provide a platform for employees to suggest action plans to implement what they have learned. Before completing this form, ensure that you have received consent from your manager to provide feedback, as some questions require manager-specific information. This form should only be filled out once per workshop, and not for subsequent training sessions.
-</thinking>
-
 # Corporate Diversity Training Feedback Survey - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users about a course they have completed. The form is designed to collect information about the course title, description, ratings, and ratings of specific aspects of the course. This information will help us understand the user's experience and identify areas for improvement.
-To avoid duplication of efforts, please only complete this form after completing the course. This will ensure that your feedback is relevant and actionable.
-</thinking>
-
 # Course Survey Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to track employee attendance and feedback after a training session. It ensures that employees receive and provide feedback on the training's effectiveness and any relevant comments or concerns. The form is essential for evaluating the training's impact and identifying areas for improvement.
-
-</thinking>
-
 # Workplace Safety Training Attendance Form - Help Guide
 ## Purpose
 This form is a crucial tool for tracking employee attendance and feedback after a training session. It helps in evaluating the training's effectiveness and identifying areas for improvement.

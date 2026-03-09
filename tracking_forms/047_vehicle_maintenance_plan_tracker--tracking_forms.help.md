@@ -1,5 +1,3 @@
-<thinking>Before diving into the form purpose and user instructions, let's break down the context and relevance of this form. The Vehicle Maintenance Plan Tracker form is designed for tracking and managing vehicle maintenance plans, including upcoming scheduled maintenance, service history, and costs associated with vehicle ownership. The form is likely to be used by vehicle owners, fleet managers, or maintenance staff to keep track of vehicle information, upcoming services, and maintenance costs. Given the detailed fields and options available, it is essential to ensure end-users understand the purpose and requirements of each field. This form is likely to be used for both internal and external users, such as fleet managers or vehicle owners, and it's crucial to ensure clear and concise instructions to avoid confusion and errors.</thinking>
-
 # Vehicle Maintenance Plan Tracker - Help Guide
 
 ## Purpose

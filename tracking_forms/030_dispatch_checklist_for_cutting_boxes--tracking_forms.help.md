@@ -1,8 +1,3 @@
-<thinking>
-The "Dispatch Checklist For Cutting Boxes" form is a critical tool for tracking the status of boxes being prepared for shipment. It's essential to ensure that all relevant information is captured accurately and consistently. This form is used to record the confirmation of customer and warehouse signatures, box details, and other critical details for each box being dispatched.
-Please note that this form is a critical component of the shipping process, and accuracy is key. Before filling out this form, please ensure that you have a clear understanding of the information being requested and that the form is being completed in accordance with your company's shipping policies and procedures.
-</thinking>
-
 # Dispatch Checklist For Cutting Boxes - Help Guide
 ## Purpose
 The "Dispatch Checklist For Cutting Boxes" form is used to track the status of boxes being prepared for shipment. It captures essential information from both the customer and warehouse teams to ensure a smooth and efficient shipping process.

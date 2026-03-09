@@ -1,9 +1,3 @@
-<thinking>
-This form is used to track application support inventory, which is crucial for IT and technical teams to manage and prioritize support requests. The form helps to gather essential information about applications, including their name, vendor, version, support level, priority, and other relevant details. This information can be used to identify areas of concern, allocate resources, and ensure timely support. By using this form, you can reduce support requests duplication, enhance collaboration among teams, and improve overall support efficiency.
-
-Before filling out this form, please make sure you have all the necessary information and authorization to provide accurate data. If you have already filled out this form for the same application, please refrain from filling it out again.
-</thinking>
-
 # Application Support Inventory Form - Help Guide
 
 ## Purpose

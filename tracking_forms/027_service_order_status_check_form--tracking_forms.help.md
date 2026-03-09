@@ -1,7 +1,3 @@
-<thinking>
-This form is used to check the status of a service order. It is intended for customers or users to enter their service order details to view the current status. The form should only be filled out once per service order and should not be used to check the status of multiple orders at the same time.
-</thinking>
-
 # Service Order Status Check Form - Help Guide
 ## Purpose
 

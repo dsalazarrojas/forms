@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for tracking the cleaning activities performed on a property on an hourly basis. The form is used to collect information on the daily summary, time spent on cleaning, effort spent, comments, property details, date and time of the cleaning, user responsible for the cleaning, assigned tool, category, and property ID and name. This form is likely used by facility managers or maintenance staff to record and report on their cleaning activities. 
-</thinking>
-
 # Hourly Cleaning Checklist - Help Guide
 ## Purpose
 This form is used to track and report on the cleaning activities performed on a property on an hourly basis.

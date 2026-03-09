@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'd like to clarify the purpose and usage of this form. This form is designed to help organizations assess and document their capacity planning and backup strategy. It's used to gather information about the organization's infrastructure, backup systems, and disaster recovery procedures. This form is likely to be used by IT teams or administrators to gather data for planning and reporting purposes. It's not a form for everyday usage, but rather a one-time assessment to identify potential areas of improvement.</thinking>
-
 # Capacity Planning Checklist - Help Guide
 ## Purpose
 This form is designed to help organizations assess and document their capacity planning and backup strategy. It's used to gather information about the organization's infrastructure, backup systems, and disaster recovery procedures.

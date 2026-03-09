@@ -1,7 +1,3 @@
-<thinking>
-To design an effective help guide for the "osha_compliance_training_form", we need to ensure that the guide clearly communicates the form's purpose and the steps to complete it. The form is designed to record training sessions for employees, which is crucial for ensuring compliance with OSHA regulations. This guide will walk users through the form's fields and help them understand what information is required for each field.
-</thinking>
-
 # osha_compliance_training_form - Help Guide
 ## Purpose
 The OSHA Compliance Training Form is used to record and document employee training sessions, ensuring compliance with OSHA regulations. This form captures essential details about the training session, including the session's ID, date, location, topic, and trainer. It also allows users to track attendance and status.

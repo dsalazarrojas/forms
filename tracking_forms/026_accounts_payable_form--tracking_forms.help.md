@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Accounts Payable Form - Help Guide
 ## Purpose
 This form is designed to track and record accounts payable information. It captures essential details such as vendor name, invoice number, date, and amount, as well as payment status, approved by, and approval date. The form ensures that all necessary information is accurately documented for smooth financial processing and reporting.

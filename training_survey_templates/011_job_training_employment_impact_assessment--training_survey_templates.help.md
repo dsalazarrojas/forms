@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure this form is not a duplicate or irrelevant in the context of training survey templates. This form appears to be a thorough assessment of the impact of job training on employment, focusing on various aspects like outcomes, improvement areas, scales, and plans. It seems to be designed to gather data on the effectiveness of job training programs in terms of employment. Let's create a help guide to ensure users understand its purpose and usage.
-</thinking>
-
 # Job Training Employment Impact Assessment - Help Guide
 ## Purpose
 The Job Training Employment Impact Assessment form is designed to evaluate the effectiveness of job training programs on employment outcomes. It assesses the impact of training on employment, improvement areas, and scales, and gathers data on participant demographics and program details.

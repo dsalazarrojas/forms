@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess the readiness of a trainer to provide training sessions to participants. It collects information about the trainer's background, experience, and qualifications. The form is used to evaluate the trainer's ability to deliver effective training sessions and identify areas for improvement.
-The form is composed of several pages, each with its own set of questions. The pages are designed to gather specific information about the trainer's experience, qualifications, and performance. The form includes fields for the trainer's name, years of experience, training certification, induction program, topics, additional comments, rating, date of completion, and time of completion.
-This guide will walk you through the form fields and their purpose.
-</thinking>
-
 # Trainer Readiness Assessment - Help Guide
 ## Purpose
 This form is used to assess the readiness of a trainer to provide high-quality training sessions. The form collects information about the trainer's background, experience, and qualifications to evaluate their ability to deliver effective training sessions and identify areas for improvement.

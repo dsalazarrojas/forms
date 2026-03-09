@@ -1,9 +1,3 @@
-<thinking>As a consulting session log form, this template is designed to collect data about consulting sessions conducted by consultants. The purpose of this form is to record and track essential details about each session, such as consultant and client information, session objectives, discussion topics, action items, and follow-up requirements. This form is meant for both internal and external use, allowing consultants to keep accurate records of their interactions and clients to track progress and communicate with their consultant team.
-
-To ensure data quality and consistency, we should aim to collect complete and accurate information in this form. Before submitting the form, please review all fields carefully and ensure you've filled them out accurately and comprehensively.
-
-This form is primarily used to support knowledge management and collaboration within the team and between the consultants and clients. Please fill out this form with all relevant details about your consulting sessions, including dates, times, locations, attendees, and objectives.</thinking>
-
 # Consulting Session Log - Help Guide
 ## Purpose
 The Consulting Session Log form is designed to track details about consulting sessions conducted by consultants. It helps record and track essential information for internal use and communication with clients.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to evaluate the effectiveness of the Patient Safety Leadership Training program. The form is designed to gather information from participants regarding their overall satisfaction, quality, and rating of the training, as well as their suggestions and feedback.
-</thinking>
-
 # Patient Safety Leadership Training Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the Patient Safety Leadership Training program and gather feedback from participants. The evaluation will help us understand how effective the training was and identify areas for improvement.

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather feedback from attendees of the Advanced Endobariatric Course, a training course for medical professionals. It's designed to assess their experience, satisfaction, and perception of the course content, instructors, and overall quality. The form is meant to provide valuable insights to course organizers and instructors to improve future courses. Please ensure you're completing this form for the intended course and not duplicating it for other courses.</thinking>
-
 # Advanced Endobariatric Course Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees of the Advanced Endobariatric Course, helping course organizers and instructors evaluate and improve the course content, instruction, and overall experience.

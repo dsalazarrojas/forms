@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an employee's workplace learning plan. This form will help managers and HR teams to understand an employee's training needs, preferred learning methods, and training initiatives. This form is not mandatory, and all fields are optional. However, providing accurate and clear information will help in creating a more effective and customized learning plan for the employee.
-</thinking>
-
 # workplace_learning_plan - Help Guide
 ## Purpose
 The Workplace Learning Plan form is designed to gather important information about an employee's training needs, preferred learning methods, and training initiatives. This information is essential for creating a tailored learning plan that meets their individual requirements.

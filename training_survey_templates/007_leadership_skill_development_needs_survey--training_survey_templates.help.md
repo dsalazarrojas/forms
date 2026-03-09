@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Leadership Skill Development Needs Survey - Help Guide
 
 ## Purpose

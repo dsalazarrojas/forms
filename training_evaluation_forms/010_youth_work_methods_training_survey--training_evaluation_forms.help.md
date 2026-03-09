@@ -1,12 +1,3 @@
-<thinking>
-This help guide will help users understand the purpose and usage of the "Youth Work Methods Training Survey" form. This form is designed to collect feedback and suggestions from participants after a training session. The form is used to measure the overall satisfaction with the session, gather session feedback, collect information about the session topics, and get suggestions from the participants.
-
-Before proceeding, please ensure that you have not completed this form before, as it may be a duplicate entry. If you have already completed the form, please do not proceed, as it will not be counted in the survey results.
-
-Please note that the form is divided into several sections. Each section is explained below.
-
-</thinking>
-
 # Youth Work Methods Training Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions from participants after a training session. The goal is to measure the overall satisfaction with the session, gather session feedback, collect information about the session topics, and get suggestions from the participants.

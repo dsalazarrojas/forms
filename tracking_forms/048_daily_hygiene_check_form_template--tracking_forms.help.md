@@ -1,17 +1,3 @@
-<thinking>
-Form designers need to be aware that the form's primary purpose is for tracking daily hygiene practices in healthcare settings. 
-The purpose of this form is to collect contact information and medical details from users, and it's essential to ensure that the correct information is provided for each field to ensure accurate records. 
-
-When designing this form, consider that many of the fields are optional and allow users to provide information at their discretion. The form has a large number of fields, so it's crucial to explain each field clearly and concisely to avoid confusion. 
-
-When reviewing this form, please verify that all fields are correctly populated and that all required fields are filled out before submitting. 
-
-This form should be used for tracking daily hygiene practices in healthcare settings, and it's necessary to use it for this specific purpose. 
-
-If you're unsure about any part of this form, please consult with the form's creator or a healthcare professional for clarification. 
-
-</thinking>
-
 # daily_hygiene_check_form_template - Help Guide
 ## Purpose
 The purpose of this form is to collect and track contact information and medical details from users in healthcare settings, ensuring accurate and up-to-date records.

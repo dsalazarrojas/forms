@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for survey participants to provide information about their training experiences and evaluations. This form is part of the railway industry training program and is used to gather data on participants' satisfaction and preferences. Before completing this form, please ensure you have received the survey link and are filling it out in the correct context. If you have already completed this form, please do not submit this form again to avoid duplication.
-</thinking>
-
 # Railway Industry Training Survey - Help Guide
 ## Purpose
 This form is designed to gather information from participants about their experiences and evaluations of the railway industry training programs. The data collected will help us understand your feedback and preferences, and inform future training programs.

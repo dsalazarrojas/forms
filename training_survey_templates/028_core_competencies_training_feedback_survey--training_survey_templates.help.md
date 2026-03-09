@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather feedback from participants on their recent training session. The main purpose of this form is to help facilitators understand how well they performed, what could be improved, and what the participants enjoyed or found lacking during the session.
-
-To complete this form, please ensure that all required fields (indicated by a red asterisk \* on each field's label) are filled in. However, please note that this form does not enforce required fields, so it's essential to fill them in for the information to be considered valid.
-
-Before proceeding, please ensure that you have the necessary information about the session to answer the questions accurately. If you are unsure about any question or have any concerns, please don't hesitate to reach out to the facilitator or the training team.
-
-Please note that the session name and session type fields are not required, but they are helpful in providing context to the facilitator for future reference.
-</thinking>
-
 # Core Competencies Training Feedback Survey - Help Guide
 ## Purpose
 This guide is designed to walk you through the process of filling in the Core Competencies Training Feedback Survey form.

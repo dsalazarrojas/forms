@@ -1,9 +1,3 @@
-<thinking>
-# This form appears to be a form for evaluating dog training, with fields covering various aspects of the training process, including behavioral progress, training needs, and evaluation dates and times.
-# The form has multiple pages, each with different types of fields such as text, select_one, note, and date/time fields.
-# To ensure consistency, it is assumed that the form is for trainers or evaluators to assess the progress and needs of dogs undergoing training.
-</thinking>
-
 # Dog Training Evaluation Form - Help Guide
 ## Purpose
 The Dog Training Evaluation Form is a tool designed for trainers or evaluators to assess the progress and needs of dogs undergoing training. It collects information about the training evaluation, training needs, behavioral progress, and other relevant details.

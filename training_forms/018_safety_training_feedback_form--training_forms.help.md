@@ -1,15 +1,3 @@
-<thinking>
-This form is a feedback tool for users to provide their input on various aspects of safety training. It is designed to collect feedback on the effectiveness of the training sessions, and to identify areas for improvement. The form should not be filled out for every training session, only when the user has valuable feedback or suggestions to share. 
-
-To complete this form, please follow these steps:
-
-1. Ensure you have attended the safety training session you wish to provide feedback on.
-2. Click on the link to access the form.
-3. Select the relevant page (if multiple pages are available) by clicking on the corresponding link.
-4. Complete the form by filling out the required and optional fields. Each field is described below.
-
-</thinking>
-
 # Safety Training Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a platform for users to offer feedback and suggestions on the safety training sessions. It helps to identify areas for improvement and enhance the overall quality of the training programs.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to track and document information related to horsemanship challenges or sessions. It gathers data on session details, rider and trainer information, challenge type, dates and times, media uploaded, reflections, comments, assigned tools, and submission details.
-To complete this form, follow these steps:
-- Ensure you have access to a device with a stable internet connection.
-- Click on the form link or button to access it.
-- Scroll through the form's pages to input your data accordingly.
-- Complete each field as needed, ensuring to fill in required fields (indicated by an asterisk \*).
-</thinking>
-
 # horsemanship_challenge_log_submission - Help Guide
 ## Purpose
 This form is designed to track and document information related to horsemanship challenges or sessions.

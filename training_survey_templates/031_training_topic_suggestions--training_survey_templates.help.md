@@ -1,7 +1,3 @@
-<thinking>
-Before creating a training program, organizations need to identify topics that are relevant to their employees' interests and needs. This form is designed to gather suggestions for training topics from stakeholders, which will help inform the selection of topics that will be offered to participants. The form is intended to be simple and straightforward, reducing the time it takes to complete and increasing the quality of the collected data.
-</thinking>
-
 # Training Topic Suggestions - Help Guide
 ## Purpose
 This form is intended to help organizations collect suggestions for training topics from stakeholders. It is used to identify topics that are of interest to participants and align them with their needs.

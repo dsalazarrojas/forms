@@ -1,9 +1,3 @@
-<thinking>
-**Purpose:** This form is designed to collect feedback from participants after a training session, aiming to understand their experience and gather suggestions for improvement. The goal is to create a comprehensive overview of the session and use this feedback to refine future sessions.
-**Relevant to:** Training facilitators, participants, and the training team.
-**Non-duplication:** Ensure that you're not submitting duplicate feedback. Only submit feedback on one session at a time.
-</thinking>
-
 # Fusion Intensive Feedback Survey - Help Guide
 ## Purpose
 This form is used to gather feedback from participants after a training session, aiming to improve future sessions.

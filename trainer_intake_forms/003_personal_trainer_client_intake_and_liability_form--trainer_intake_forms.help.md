@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from clients who are interested in working with a personal trainer. The purpose of this form is to gather essential details about the client's health, emergency contact information, and medical history. This information will help the trainer to understand the client's needs and ensure a safe and effective training environment.
-
-By submitting this form, the client acknowledges that they are taking responsibility for their own health and well-being, and they give their consent to participate in the training program.
-
-</thinking>
-
 # Personal Trainer Client Intake And Liability Form - Help Guide
 
 ## Purpose

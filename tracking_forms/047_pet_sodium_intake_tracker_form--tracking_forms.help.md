@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track the sodium intake of pets in a veterinary setting, likely for monitoring and management of pet health. It's intended to collect relevant information from pet owners, including details about the pet's sodium intake, feeding schedule, and other important details. The form is likely used by veterinarians or pet care staff to assess and manage pet sodium intake. The form is likely used for pet health monitoring and management.
-</thinking>
-
 # pet_sodium_intake_tracker_form - Help Guide
 ## Purpose
 This form is designed to track the sodium intake of pets in a veterinary setting, for monitoring and management of pet health.

@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure the form purpose is clear, so let's briefly discuss the Load Tracking Form's purpose and check for relevance and duplication of effort. This form seems to be designed for tracking the status and details of shipments. It appears that the form captures information such as shipment weight, trailer number, load status, and other relevant details. We should verify that there's no duplication of effort or irrelevant fields that might cause confusion. Let's review the form fields and determine if they align with the form's purpose.
-The form's purpose seems to be focused on tracking shipment details, which makes sense given the fields included. There are fields for shipment weight, trailer number, load status, shipment description, weight unit, weight, shipment date, shipment time, and shipment location. The form seems to be designed to capture a range of information about shipments, including those that are active, inactive, or on hold.
-Upon reviewing the form fields, it appears that all fields are relevant to the form's purpose. There are no fields that seem unnecessary or redundant. However, it's essential to verify that the fields are clear and well-labeled.
-</thinking>
-
 # Load Tracking Form - Help Guide
 ## Purpose
 The Load Tracking Form is designed to track the details of shipments, including weight, trailer number, load status, and other relevant information.

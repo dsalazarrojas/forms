@@ -1,19 +1,3 @@
-<thinking>
-The form is designed to track orders and capture relevant customer information for the Cs_Mascot product. It is intended to be used by internal staff to record order dates, customer details, shirt sizes, colors, special requests, and comments in a concise and organized manner. Before creating this guide, I need to ensure that the form's purpose and content align with the business requirements and that there are no redundant or conflicting information fields.
-
-Upon reviewing the YAML, I see that the form consists of 7 fields:
-- 1. order_date (date): The date the order was placed.
-- 2. customer_name (text): The name of the customer.
-- 3. customer_email (email): The email address of the customer.
-- 4. shirt_size (select_multiple): A dropdown list of options for the customer's shirt size.
-- 5. shirt_color (select_one): A dropdown list of options for the customer's preferred shirt color.
-- 6. special_requests (text): Any special requests or notes about the customer's order.
-- 7. order_comments (text): Any additional comments about the order.
-
-I will now create the help guide in Markdown format, ensuring that each field's label, type, and required status are clearly explained for the end-user.
-
-</thinking>
-
 # Cs_Mascot - Help Guide
 ## Purpose
 The Cs_Mascot form is a tool used by internal staff to track orders and capture customer information for the Cs_Mascot product.

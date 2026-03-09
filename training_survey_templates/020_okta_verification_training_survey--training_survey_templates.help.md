@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect feedback on the quality, clarity, and confidence of an Okta verification training program. It appears to be a survey aimed at evaluating the effectiveness of the training, likely for an internal audience such as employees or customers. The form asks participants to rate the quality, clarity, and confidence of the training for each of eight questions. The form does not seem to have any redundant fields or fields that could be considered sensitive or confidential. The purpose of this form is to gather participant feedback for improvement and enhancement of the Okta verification training program.</thinking>
-
 # okta_verification_training_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the quality, clarity, and confidence of an Okta verification training program.

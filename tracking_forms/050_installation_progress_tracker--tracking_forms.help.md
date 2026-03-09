@@ -1,7 +1,3 @@
-<thinking>
-This form is a progress tracker for tracking the installation progress of a particular project. It seems to be used for tracking various aspects of the installation, including the stage, team involved, status, and follow-up calls. The form likely serves as an update mechanism for project managers or coordinators to monitor and manage the progress of multiple installations. To ensure the form is not duplicated, it is assumed that the form is intended for use in a specific context where the user is already aware of the project's purpose and scope.
-</thinking>
-
 # Installation Progress Tracker - Help Guide
 ## Purpose
 This form is designed to help project managers and coordinators track the progress of installations, providing an overview of the current status, team involved, and follow-up calls.

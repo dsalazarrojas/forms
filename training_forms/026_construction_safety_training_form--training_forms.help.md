@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document and track safety training sessions for construction workers. It will help ensure that employees receive the necessary safety training to perform their jobs safely and effectively. This form should only be filled out by individuals who have attended a safety training session. Please fill out the form accurately and completely to ensure that all required fields are filled out. If you are unsure about any information, please check with the trainer or your supervisor for clarification. Please note that all required fields are marked as "required" in this form.
-</thinking>
-
 # Construction Safety Training Form - Help Guide
 ## Purpose
 The Construction Safety Training Form is used to document and track safety training sessions for construction workers. It helps ensure that employees receive the necessary safety training to perform their jobs safely and effectively.
