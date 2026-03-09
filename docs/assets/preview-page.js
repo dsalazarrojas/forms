@@ -620,7 +620,7 @@
     container.innerHTML = '<p class="text-xs text-slate-400 dark:text-slate-500">Loading related forms...</p>';
 
     try {
-      const response = await fetch('forms-index.json');
+      const response = await fetch(window.GIC_FORMS_INDEX_URL || 'forms-index.json');
       if (!response.ok) {
         throw new Error(`Index HTTP ${response.status}`);
       }

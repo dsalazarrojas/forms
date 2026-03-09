@@ -4,8 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Browse Forms - GIC Forms Repository</title>
-  <meta name="description" content="Browse 100,000+ free AI-generated YAML survey templates. Filter by category, language, and question count. Compatible with GIC Collect, ODK Collect, Google Forms, Tally, and more.">
-  <link rel="canonical" href="https://forms.gic.mx/docs/browse.html" />
+  <meta name="description" content="Browse 84,000+ YAML form templates. Filter by category, language, and question count, then open curated guides or live previews.">
+  <link rel="canonical" href="https://forms.gic.mx/browse.html" />
 
   <!-- Google Analytics (GA4) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-KE41D4D58D"></script>
@@ -363,7 +363,7 @@
             <span class="font-bold text-lg tracking-tight">GIC <span class="text-primary">Forms</span></span>
           </div>
           <p class="text-slate-400 text-sm leading-relaxed mb-5 max-w-sm">
-            100,000+ free AI-generated YAML survey templates for every industry and use case. Open source, CC BY 4.0.
+            84,000+ YAML form templates and curated guides for every industry and use case. Open source, CC BY 4.0.
           </p>
           <div class="flex gap-3">
             <a href="https://github.com/dsalazarrojas/forms" target="_blank" rel="noopener" class="flex items-center gap-1.5 text-sm text-slate-400 hover:text-white transition-colors">
@@ -382,6 +382,8 @@
             <li><a href="https://apps.apple.com/ec/app/gic-xlsform-creation/id6754113283" target="_blank" rel="noopener" class="text-sm text-slate-400 hover:text-white transition-colors">GIC XLSForm Creation (iOS)</a></li>
             <li><a href="https://apps.apple.com/us/app/gic-collect/id1485932698" target="_blank" rel="noopener" class="text-sm text-slate-400 hover:text-white transition-colors">GIC Collect (iOS)</a></li>
             <li><a href="https://github.com/dsalazarrojas/oneTimeUseWebApp" target="_blank" rel="noopener" class="text-sm text-slate-400 hover:text-white transition-colors">OneTimeUseWebApp (macOS)</a></li>
+            <li><a href="/guides/" class="text-sm text-slate-400 hover:text-white transition-colors">Curated Guides</a></li>
+            <li><a href="/categories/" class="text-sm text-slate-400 hover:text-white transition-colors">Category Pages</a></li>
           </ul>
         </div>
 
@@ -391,6 +393,11 @@
           <ul class="space-y-2.5">
             <li><a href="https://github.com/dsalazarrojas/forms/blob/main/LICENSE-FORMS" target="_blank" rel="noopener" class="text-sm text-slate-400 hover:text-white transition-colors">License (Forms)</a></li>
             <li><a href="https://github.com/dsalazarrojas/forms/blob/main/LICENSE-CODE" target="_blank" rel="noopener" class="text-sm text-slate-400 hover:text-white transition-colors">License (Code)</a></li>
+            <li><a href="/about.html" class="text-sm text-slate-400 hover:text-white transition-colors">About</a></li>
+            <li><a href="/contact.html" class="text-sm text-slate-400 hover:text-white transition-colors">Contact</a></li>
+            <li><a href="/privacy.html" class="text-sm text-slate-400 hover:text-white transition-colors">Privacy</a></li>
+            <li><a href="/terms.html" class="text-sm text-slate-400 hover:text-white transition-colors">Terms</a></li>
+            <li><a href="/editorial-methodology.html" class="text-sm text-slate-400 hover:text-white transition-colors">Methodology</a></li>
           </ul>
           <div class="mt-5 p-3.5 bg-slate-800 rounded-xl">
             <p class="text-xs text-slate-400 leading-relaxed">
@@ -473,7 +480,7 @@
 
     async function init() {
       try {
-        const res = await fetch('forms-index.json');
+        const res = await fetch(window.GIC_FORMS_INDEX_URL || 'forms-index.json');
         const data = await res.json();
         allForms = data.forms;
         allForms.forEach(f => {
