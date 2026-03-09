@@ -16,6 +16,23 @@
     gtag('config', 'G-KE41D4D58D');
   </script>
 
+  <script id="form-schema-jsonld" type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "CreativeWork",
+      "name": "Form Preview — GIC Forms",
+      "description": "Preview and interact with this YAML form template.",
+      "url": "https://forms.gic.mx/preview.html",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": {
+        "@type": "Organization",
+        "name": "GIC Forms",
+        "url": "https://forms.gic.mx/"
+      }
+    }
+  </script>
+
   <!-- FOUC prevention: apply dark mode before render -->
   <script>if(localStorage.getItem('gic-theme')==='dark'||(!localStorage.getItem('gic-theme')&&window.matchMedia('(prefers-color-scheme: dark)').matches)){document.documentElement.classList.add('dark')}</script>
 
@@ -344,6 +361,10 @@
       <p class="text-xs text-slate-400 dark:text-slate-600 leading-relaxed">
         CC BY 4.0 &bull; Not affiliated with Jotform, ODK, or Cloudflare.
       </p>
+      <a href="https://github.com/dsalazarrojas/forms/blob/main/README.md" target="_blank" rel="noopener" class="mt-2 inline-flex items-center gap-1 text-xs font-medium text-slate-500 transition-colors hover:text-primary dark:text-slate-400">
+        <span class="material-symbols-outlined icon-sm">menu_book</span>
+        Project README
+      </a>
     </div>
   </aside>
 

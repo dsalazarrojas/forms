@@ -484,25 +484,109 @@
     return 'structured field data collection across teams and platforms';
   }
 
+  function getPublicPreviewUrl() {
+    const baseUrl = 'https://forms.gic.mx/preview.html';
+    if (!currentFormPath) {
+      return baseUrl;
+    }
+    return `${baseUrl}?form=${encodeURIComponent(currentFormPath)}`;
+  }
+
+  function updateStructuredData({ pageTitle, templateTitle, description, category, language, fieldCount, fieldTypes, faqItems }) {
+    const schemaEl = document.getElementById('form-schema-jsonld');
+    if (!schemaEl) {
+      return;
+    }
+
+    const pageUrl = getPublicPreviewUrl();
+    const normalizedLanguage = language && !/^unknown$/i.test(String(language))
+      ? String(language)
+      : 'en';
+    const keywords = [category, normalizedLanguage, ...fieldTypes.map(humanType)]
+      .filter(Boolean);
+
+    schemaEl.textContent = JSON.stringify({
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'WebPage',
+          '@id': `${pageUrl}#webpage`,
+          url: pageUrl,
+          name: pageTitle,
+          description,
+          inLanguage: normalizedLanguage,
+          about: { '@id': `${pageUrl}#template` },
+          breadcrumb: { '@id': `${pageUrl}#breadcrumb` }
+        },
+        {
+          '@type': 'CreativeWork',
+          '@id': `${pageUrl}#template`,
+          name: `${templateTitle} YAML Form Template`,
+          description,
+          url: pageUrl,
+          genre: 'Form template',
+          inLanguage: normalizedLanguage,
+          isAccessibleForFree: true,
+          license: 'https://creativecommons.org/licenses/by/4.0/',
+          author: {
+            '@type': 'Organization',
+            name: 'GIC Forms',
+            url: 'https://forms.gic.mx/'
+          },
+          publisher: {
+            '@type': 'Organization',
+            name: 'GIC Forms',
+            url: 'https://forms.gic.mx/'
+          },
+          keywords
+        },
+        {
+          '@type': 'BreadcrumbList',
+          '@id': `${pageUrl}#breadcrumb`,
+          itemListElement: [
+            {
+              '@type': 'ListItem',
+              position: 1,
+              name: 'GIC Forms',
+              item: 'https://forms.gic.mx/'
+            },
+            {
+              '@type': 'ListItem',
+              position: 2,
+              name: 'Browse Forms',
+              item: 'https://forms.gic.mx/browse.html'
+            },
+            {
+              '@type': 'ListItem',
+              position: 3,
+              name: templateTitle,
+              item: pageUrl
+            }
+          ]
+        },
+        {
+          '@type': 'FAQPage',
+          '@id': `${pageUrl}#faq`,
+          mainEntity: faqItems.map(item => ({
+            '@type': 'Question',
+            name: item.q,
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: item.a
+            }
+          }))
+        }
+      ]
+    }, null, 2);
+  }
+
   function updateSeoContent(title, categorySlug, pages, language) {
     const category = slugToTitle(categorySlug);
     const qCount = pages.length;
     const types = [...new Set(pages.map(page => page.type || 'text'))];
     const typeList = types.slice(0, 4).map(humanType).join(', ');
     const useCase = inferUseCase(categorySlug, pages);
-
-    document.getElementById('seo-h1').textContent = `Free ${category} Form: ${title}`;
-    document.getElementById('seo-intro').textContent =
-      `This AI-generated YAML template is designed for ${useCase}. It includes ${qCount} fields and is compatible with GIC Collect, ODK Collect, Google Forms, Tally, and Formbricks.`;
-    document.getElementById('seo-why').textContent =
-      `Use this template to launch faster with a structured schema instead of building from scratch. The form covers key prompts for ${category.toLowerCase()} workflows, uses clear field definitions, and stays editable in the graphical editor and YAML source.`;
-    document.getElementById('seo-steps').innerHTML = [
-      'Review the live preview and graphical editor before publishing.',
-      'Save the questionnaire to My Forms when you want to keep a local copy.',
-      'Export YAML or deploy directly to Cloudflare Workers when the form is ready.',
-      'Test required fields and choice options with sample responses before sharing the link.'
-    ].map(step => `<li>${escapeHtml(step)}</li>`).join('');
-    document.getElementById('seo-faq').innerHTML = [
+    const faqItems = [
       {
         q: 'Is this template free to use commercially?',
         a: 'Yes. These templates are released under CC BY 4.0. You can adapt and use them commercially with attribution.'
@@ -519,7 +603,20 @@
         q: 'Can I localize this form?',
         a: `Yes. Current language metadata is ${language}. You can duplicate labels and hints for bilingual variants while keeping the same schema structure.`
       }
-    ].map(item => `
+    ];
+
+    document.getElementById('seo-h1').textContent = `Free ${category} Form: ${title}`;
+    document.getElementById('seo-intro').textContent =
+      `This AI-generated YAML template is designed for ${useCase}. It includes ${qCount} fields and is compatible with GIC Collect, ODK Collect, Google Forms, Tally, and Formbricks.`;
+    document.getElementById('seo-why').textContent =
+      `Use this template to launch faster with a structured schema instead of building from scratch. The form covers key prompts for ${category.toLowerCase()} workflows, uses clear field definitions, and stays editable in the graphical editor and YAML source.`;
+    document.getElementById('seo-steps').innerHTML = [
+      'Review the live preview and graphical editor before publishing.',
+      'Save the questionnaire to My Forms when you want to keep a local copy.',
+      'Export YAML or deploy directly to Cloudflare Workers when the form is ready.',
+      'Test required fields and choice options with sample responses before sharing the link.'
+    ].map(step => `<li>${escapeHtml(step)}</li>`).join('');
+    document.getElementById('seo-faq').innerHTML = faqItems.map(item => `
       <section>
         <h3 class="mb-1 font-semibold text-slate-900 dark:text-slate-100">${escapeHtml(item.q)}</h3>
         <p>${escapeHtml(item.a)}</p>
@@ -528,11 +625,25 @@
     document.getElementById('seo-yaml-snippet').textContent = currentYaml || '';
     Prism.highlightElement(document.getElementById('seo-yaml-snippet'));
 
-    document.title = `Free ${category} Form: ${title} | GIC Forms`;
+    const pageTitle = `Free ${category} Form: ${title} | GIC Forms`;
+    const description = `Download this free ${category.toLowerCase()} form template with ${qCount} fields. Compatible with GIC Collect, ODK, Google Forms, Tally, and Formbricks.`;
+
+    document.title = pageTitle;
     const meta = document.querySelector('meta[name="description"]');
     if (meta) {
-      meta.setAttribute('content', `Download this free ${category.toLowerCase()} form template with ${qCount} fields. Compatible with GIC Collect, ODK, Google Forms, Tally, and Formbricks.`);
+      meta.setAttribute('content', description);
     }
+
+    updateStructuredData({
+      pageTitle,
+      templateTitle: title,
+      description,
+      category,
+      language,
+      fieldCount: qCount,
+      fieldTypes: types,
+      faqItems
+    });
   }
 
   function closeFormGuideModal() {
