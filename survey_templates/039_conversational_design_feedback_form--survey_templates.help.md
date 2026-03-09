@@ -1,14 +1,3 @@
-<thinking>
-We need to ensure that you understand the purpose of this form and that it is relevant to your experience with our conversational design tool. This form is designed to gather feedback from users who have interacted with our bot to help us improve its performance and user experience. Please take a few minutes to fill out this form, and answer questions honestly, as your feedback is invaluable in helping us create a better conversational experience.
-
-Before you start, please note that some questions might not apply to your specific interaction, and that's okay! If that's the case, just skip them and move on to the next one.
-
-Also, please be aware that some questions might have specific options that might not be directly related to your experience, but they will help us better understand your overall satisfaction and pain points.
-
-If you're ready, let's dive into the form!
-
-</thinking>
-
 # Conversational Design Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users who have interacted with our bot to help us improve its performance and user experience.

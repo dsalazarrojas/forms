@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about the habits and preferences of individuals regarding nail strength recovery. The form is likely intended for use in a context where nail health and wellness is being studied or monitored, such as in a medical or beauty-related context. It is possible that this form is being used to gather data on how often individuals get their nails done, what type of nail products they use, and what nail recovery habits they have.
-
-Before proceeding, please note that the form is an AI-generated adaptation of a public survey topic and metadata, and is not affiliated with any specific form platform. The form's design and content are original and intended to be used under the Creative Commons 4.0 license.
-
-Please review the form carefully to ensure it aligns with your needs and purposes. If you have any questions or concerns, feel free to contact form@gic.mx.
-</thinking>
-
 # Nail Strength Recovery Habit Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about your nail health and recovery habits. It will help us understand how often you get a manicure, what nail products you use, and what recovery habits you have for your nails.

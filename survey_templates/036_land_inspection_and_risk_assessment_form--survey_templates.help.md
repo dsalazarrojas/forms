@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to assess the condition and potential risks associated with land inspections. It is meant to be completed by someone with knowledge of the land in question, such as a property manager or risk management professional. The form's purpose is to provide a comprehensive risk assessment of the land, taking into account various factors like property status, land condition, and risk characterization. To avoid duplication of effort, it is recommended that this form be filled out only once for each land inspection.
-
-This form is divided into several sections, each addressing a different aspect of the land's condition and potential risks. The sections include Risk Assessment, Property Inspections, Risk Identification, Risk Characterization, and Property Status. The form requires completion of all sections, except for Risk Score, Inspection Report, and Risk Management, which are optional.
-</thinking>
-
 # Land Inspection And Risk Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the condition and potential risks associated with land inspections. It helps identify and categorize risks, providing a comprehensive overview of the land's state.

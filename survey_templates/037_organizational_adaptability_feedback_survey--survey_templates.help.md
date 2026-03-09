@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Organizational Adaptability Feedback Survey - Help Guide
 
 ## Purpose

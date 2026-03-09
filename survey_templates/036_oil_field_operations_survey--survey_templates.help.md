@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about oil field operations, including shift conditions, safety observations, performance issues, communication, team collaboration, workflow, training support, shift supervision, safety equipment, safety equipment used, work location, shift length, shift start and end times, team composition, important shift conditions, comments, suggestions, performance, team performance, overall performance, team workload, shift hours, and work experience. This form is intended to help gather data for improvement and evaluation purposes. It is not intended to be a comprehensive or exhaustive survey, but rather a tool to help identify potential areas of improvement.
-
-</thinking>
-
 # Oil Field Operations Survey - Help Guide
 ## Purpose
 ## How To Complete This Form

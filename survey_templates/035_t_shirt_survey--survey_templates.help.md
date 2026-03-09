@@ -1,10 +1,3 @@
-<thinking>
-This form is likely designed to gather feedback on preferences for T-shirt designs, taking into account various aspects such as size, style, color, material, and other features. The goal is to understand what users are looking for in a T-shirt and what they would like to see in a design.
-
-To prevent duplication of effort, it's essential that users only answer the questions relevant to their preferences and do not skip any questions. Completing this form will help the designers create T-shirts that cater to a wide range of tastes and preferences.
-
-</thinking>
-
 # T Shirt Survey - Help Guide
 ## Purpose
 

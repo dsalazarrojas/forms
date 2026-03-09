@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from stakeholders regarding their engagement and participation in a survey. The purpose of this form is to determine the scope, frequency, and methodology of the survey, as well as the expected outcomes and results. This information is necessary to ensure that the survey is effective and relevant to the stakeholders' needs. It is essential to fill out this form accurately and completely to provide a clear understanding of the survey's objectives and goals. Please ensure that you have read and understood the form carefully before proceeding.
-</thinking>
-
 # stakeholder_engagement_survey_form - Help Guide
 ## Purpose
 This form is designed to collect information from stakeholders about their engagement and participation in a survey. The survey aims to gather details about the survey's purpose, target audience, questions, strategy, and expected outcomes.

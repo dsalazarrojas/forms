@@ -1,7 +1,3 @@
-<thinking>
-This help guide will be created based on the provided YAML schema, ensuring that each page and field is explained clearly and concisely for end-users. This will be a step-by-step guide that covers the purpose of the form, how to complete it, and an in-depth explanation of each field, including its label, type, and options. The goal is to make this process as user-friendly as possible, so the form is easy to fill out and provides useful feedback. The form is for "Software Satisfaction Survey".
-</thinking>
-
 # Software Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and insights from users about their experience with our software. It will help us understand what we do well and what we can improve on.

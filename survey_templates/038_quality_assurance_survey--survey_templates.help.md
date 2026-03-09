@@ -1,13 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form used for Quality Assurance (QA) surveys. This form is designed to collect feedback from customers about the quality of a product or service they've used. The purpose of this guide is to walk users through the process of completing the form and explaining each field in a way that makes sense for non-technical users.
-
-Before we dive into the guide, let's consider the following points to ensure relevance and avoid duplication:
-- The form is intended for customers to provide feedback on the quality of a product or service.
-- The form contains various fields, including select-one, select-multiple, text, and email fields.
-- Some fields are not required, while others have specific options.
-
-</thinking>
-
 # Quality Assurance Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about the quality of a product or service you've used.

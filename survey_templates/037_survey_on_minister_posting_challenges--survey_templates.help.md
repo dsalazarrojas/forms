@@ -1,7 +1,3 @@
-<thinking>
-This form is used by internal stakeholders to collect feedback on the current posting practices and challenges faced by the Ministerial department. This feedback will help in identifying areas of improvement and suggesting solutions to overcome these challenges. Please ensure that your responses are accurate and relevant to your experiences. Also, note that this form may be reused by other departments in the future, so your input will be valuable in making informed decisions for the entire organization.
-
-</thinking>
 # Survey On Minister Posting Challenges - Help Guide
 
 ## Purpose

@@ -1,16 +1,3 @@
-<thinking>
-This form has been generated using AI to create a University Research Consent Form. Its purpose is to collect information from research participants, ensuring they understand and agree to the terms of the study. This form is designed to be used in conjunction with a research project, and its completion is a necessary step for participants to enroll in the study. Please ensure that you are completing this form for a legitimate research purpose and not for any other reason.
-
-This form is not affiliated with, endorsed by, or derived from any form platform. Its use is free, and you are welcome to use, modify, and even sell forms derived from it, just give credit.
-
-Before filling out this form, make sure you are aware of the study's terms and conditions. If you have any questions or concerns, please reach out to the contact information provided below.
-
-This form has been designed to be as simple and straightforward as possible, and each field has been carefully crafted to ensure that you understand what information is being collected and why.
-
-The following fields are used to collect information from research participants and the research team. Please fill out each field carefully, and if you are unsure about any of the fields, you can ask the research team for clarification.
-
-</thinking>
-
 # University Research Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information from research participants and the research team, ensuring they understand and agree to the terms of the study.

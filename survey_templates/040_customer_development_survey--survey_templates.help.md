@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and insights from customers to improve customer development efforts. Its purpose is to gather information on customer company details, their feedback areas, improvement areas, and expected outcomes. This form will help us understand customer needs and preferences to better serve them. It's essential to fill out this form to give us valuable input for our customer development process. Before filling out this form, please make sure to provide accurate and honest feedback. If you've already filled out this form, please do not submit again to avoid duplication.
-</thinking>
-
 # Customer Development Survey - Help Guide
 ## Purpose
 

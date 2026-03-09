@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from users on their experience with the countdown widget. It aims to understand how the widget performed overall, areas for improvement, and provide suggestions. The feedback is intended to be used internally to improve the widget's functionality. This guide will walk you through each section of the form, ensuring you understand what to expect and how to provide valuable feedback.
-
-</thinking>
-
 # Countdown Widget Feedback Form - Help Guide
 ## Purpose
 The Countdown Widget Feedback Form is a tool used to collect feedback from users about their experience with the countdown widget. This form helps us to understand how the widget performed overall, what could be improved, and gather suggestions for future development.

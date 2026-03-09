@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from individuals who have participated in science fairs, conferences, or other events organized by our team. The purpose of this form is to gather information on the event's overall satisfaction, event organization, location, start and end dates and times, duration, and contact information. The form will help us identify areas of improvement and make adjustments for future events.
-</thinking>
-
 # Science Fair Organization Feedback Questionnaire - Help Guide
 ## Purpose
 This form is used to collect feedback on science fair events. Please provide your honest feedback to help us improve future events.

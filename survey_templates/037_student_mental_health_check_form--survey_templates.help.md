@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from students for mental health checks. The form's purpose is to gather essential details about the student's mental health status, including their name, date of birth, gender, and any mental health issues they may be experiencing. The form also asks for a description of their symptoms and any parent contact information that may be relevant to their mental health. This form is intended for use by school psychologists or other mental health professionals to assess and address student mental health concerns.
-
-Before proceeding, please ensure that you are using this form for its intended purpose and that you have the necessary permissions and approvals to collect and use the information gathered through this form.
-
-Also, please be aware that this form is not a diagnostic tool and should not be used to replace professional mental health assessments or diagnoses. If you are experiencing mental health concerns, please seek guidance from a qualified mental health professional.
-
-</thinking>
-
 # Student Mental Health Check Form - Help Guide
 ## Purpose
 The Student Mental Health Check Form is designed to collect information from students for mental health checks.

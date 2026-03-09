@@ -1,13 +1,3 @@
-<thinking>**Internal reasoning note**
-
-This form is intended to gather data from medical providers about a patient's experience in an emergency room. The form should only be completed by authorized personnel, and it is not intended for public access. 
-
-This form has three pages: "emergency_room_experience_survey", "category", "provider name", "visit date", "visit time", "rating", "feedback", "patient name", "email", and "phone". The "category" field is a dropdown menu with four options: "Cardiac", "Neurologic", "Surgical", and "Other". The "rating" field is a dropdown menu with four options: "Excellent", "Good", "Fair", and "Poor". The "patient name" field is a dropdown menu with two options: "Yes" and "No", likely indicating whether the patient received care. The "phone" field is a text input for the patient's phone number.
-
-Please ensure that the form is only accessed by authorized personnel to avoid duplication and misinterpretation of the data.
-
-</thinking>
-
 # Emergency Room Experience Survey - Help Guide
 ## Purpose
 This form is used to gather information about a patient's experience in an emergency room. It is intended to help medical providers understand and improve their services.

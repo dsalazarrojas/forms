@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback and data from users about their experiences with foot patches. The purpose of this form is to understand how effective the foot patches are in providing relief from foot pain and odor. This information will be used to improve the product and make it more user-friendly. Before filling out this form, please ensure that you have used the foot patches and have an honest opinion about your experience.
-
-</thinking>
-
 # Foot Patch Effectiveness Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback and data from users about their experiences with foot patches.

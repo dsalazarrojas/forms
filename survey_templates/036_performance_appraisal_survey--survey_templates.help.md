@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate an employee's performance. The Performance Appraisal Survey is typically completed by a manager or supervisor, and is used to gather information about an employee's strengths, areas for improvement, and overall performance. It is essential to ensure that the data entered is accurate and complete. This form should only be filled out for employees whose evaluation date is relevant to the current time period (i.e., not for past performance evaluations).
-</thinking>
-
 # Performance Appraisal Survey - Help Guide
 ## Purpose
 The Performance Appraisal Survey is used to evaluate an employee's performance, gathering information about their strengths, areas for improvement, and overall performance. This survey is typically completed by a manager or supervisor.

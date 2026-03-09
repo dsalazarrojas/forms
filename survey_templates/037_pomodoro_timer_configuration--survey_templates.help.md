@@ -1,12 +1,3 @@
-<thinking>
-This form is used to configure the Pomodoro timer settings. This form is only accessible to authorized users within the organization, and its purpose is to tailor the timer settings to suit individual productivity needs. This help guide assumes that the user is familiar with the basic concept of the Pomodoro timer, which is a time management method that involves working in focused intervals (Pomodoros) separated by short breaks.
-
-This form should only be completed once by the user, as the settings will be used to configure the timer globally. If the user has already configured the timer settings, they will not be able to access this form again.
-
-The form consists of three fields, each corresponding to a specific aspect of the Pomodoro timer settings.
-
-</thinking>
-
 # Pomodoro Timer Configuration - Help Guide
 
 ## Purpose

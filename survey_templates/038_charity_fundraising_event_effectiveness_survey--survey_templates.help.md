@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We are creating a Charity Fundraising Event Effectiveness Survey to help us better understand the outcomes and challenges of our charity's fundraising events. By filling out this survey, you will be helping us identify areas of improvement and best practices for future events. Please note that this survey is designed to be completed by individuals with personal experience with the event, such as event organizers, staff members, volunteers, donors, or attendees. If you have participated in the event, we encourage you to share your honest feedback to help us make our events more effective and engaging.
 
 # Charity Fundraising Event Effectiveness Survey - Help Guide

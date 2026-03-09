@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals surrendering their animals to a shelter, to understand their reasons for surrendering, their experience with the shelter, and to gather feedback for improvement. The purpose of this form is to gather data that can be used to identify areas of improvement and provide valuable insights for the shelter's operations and services. By analyzing the responses, the shelter can refine its practices and services to better support both the animals and the community.
-This form is a critical part of our shelter's operations and should be completed by all individuals surrendering animals. Please ensure you have read and understand the form before proceeding, and answer all questions to the best of your abilities.
-</thinking>
-
 # Animal Surrender Survey - Help Guide
 ## Purpose
 This form is designed to gather information from individuals surrendering animals to our shelter, to understand their reasons for surrendering and gather feedback for improvement.

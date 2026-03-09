@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the Pet Product Label Clarity Survey form. This form is designed to gather feedback from pet owners on the clarity of product labels on pet food products. The form has a total of 12 fields, including multiple select and number fields, and text fields for comments and contact information. The purpose of this form is to help improve the clarity and effectiveness of product labels, which is essential for pet owners to make informed decisions about their pet's food. I will create a user-friendly guide to help end-users understand the form's purpose, how to complete it, and what each field means.</thinking>
-
 # Pet Product Label Clarity Survey - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking> 
-This guide is intended for users who are registering as authorized Backflow testers for our municipality or utility service. Before filling out this form, ensure that you have all the necessary information and credentials required to complete it. This form is not intended for duplicate registrations, so if you have already registered as a Backflow tester, do not fill this form out again. 
-
-The Backflow Tester Registration Survey form is used to gather information from potential Backflow testers for the purpose of registration and verification of their credentials. The form collects contact information, testing experience, and certifications to ensure that registered testers meet the necessary requirements to perform Backflow testing for our service.
-</thinking> 
-
 # Backflow Tester Registration Survey - Help Guide
 ## Purpose
 The Backflow Tester Registration Survey is used to register and verify Backflow testers for the municipality or utility service. This form is necessary for individuals who want to become authorized testers for the service.

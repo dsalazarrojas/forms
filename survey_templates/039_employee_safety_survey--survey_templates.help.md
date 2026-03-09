@@ -1,5 +1,3 @@
-<thinking>As a seasoned expert in form design and technical writing, I've reviewed the provided YAML form structure and crafted a comprehensive user-facing help guide to ensure end-users understand the form's purpose, how to complete it, and what each field means. This guide is tailored to the specific form layout and fields, providing clear explanations for each step of the way.</thinking>
-
 # Employee Safety Survey - Help Guide
 
 ## Purpose

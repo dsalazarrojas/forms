@@ -1,7 +1,3 @@
-<thinking>
-  We need to ensure that the form is being filled out correctly and that there is no duplication of efforts. This form is for assessing the stock valuation, providing insights into its current state and potential future growth or decline. It's crucial to fill out each field accurately and consistently, as the results will be used to make informed investment decisions.
-</thinking>
-
 # Stock Valuation Assessment - Help Guide
 ## Purpose
 

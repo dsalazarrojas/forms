@@ -1,11 +1,3 @@
-<thinking>
-This form is used for professional board elections, where users can vote on whether or not to proceed with a specific action, and also provide details about the candidates. This form is likely used by organizations or companies to gauge the opinions of their members or employees on key decisions. The form should not be used for any other purpose, as it is designed for professional board elections.
-
-Before filling out this form, please ensure that you have read and understand the purpose of this form and the potential consequences of your votes. The form is designed for voting on specific actions, not for general opinions or personal preferences. Please answer the questions accordingly.
-
-This form consists of multiple pages, each with its own set of questions. Please fill out each page in order, and ensure that you have completed all the questions before proceeding to the next page.
-</thinking>
-
 # Professional Board Election Voting Form - Help Guide
 ## Purpose
 The Professional Board Election Voting Form is used to gauge the opinions of members or employees on key decisions of a professional board. It is a crucial tool for organizations to understand the views of their constituents and make informed decisions.

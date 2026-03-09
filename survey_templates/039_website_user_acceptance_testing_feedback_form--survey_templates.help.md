@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect user feedback on website usability, bugs, and overall satisfaction after a user acceptance testing (UAT) process. The form is meant to help identify areas of improvement and provide a rating system for the website's functionality and user experience. 
-
-The form should only be filled out after a UAT process has been completed, so it's essential to ensure that it's not filled out before the testing has taken place. 
-
-Each field in this form should be filled out according to the instructions below, and if a field is not relevant to the user's experience, it's not required. 
-
-</thinking>
-
 # Website User Acceptance Testing Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect user feedback on website usability, bugs, and overall satisfaction after a user acceptance testing (UAT) process. The feedback collected will help identify areas of improvement and provide a rating system for the website's functionality and user experience.

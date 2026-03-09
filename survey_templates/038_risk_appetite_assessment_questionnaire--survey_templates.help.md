@@ -1,7 +1,3 @@
-<thinking>
-This form was created using AI and is intended to assess users' risk appetite, investment objectives, and other related factors. It is a survey that aims to understand users' comfort level with risk and their investment preferences. Please ensure that this form is relevant to your specific context and purpose before using it.
-</thinking>
-
 # risk_appetite_assessment_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about users' risk appetite, investment objectives, and other related factors.

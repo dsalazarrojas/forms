@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Santa Breakfast Participation Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from attendees of a breakfast event hosted by Santa Claus. The survey aims to collect information on the event's date, time, location, attendees' satisfaction, food quality, and other aspects of the event. By completing this form, you will be providing valuable insights to help us improve future events.

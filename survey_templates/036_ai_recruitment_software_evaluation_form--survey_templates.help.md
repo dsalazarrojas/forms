@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to evaluate the AI recruitment software for its core features, usability, and technical aspects. This form will help assess the software's effectiveness in automating recruitment processes, its integration capabilities, and compliance with relevant regulations. It's essential to fill out this form carefully, ensuring that you're evaluating the software based on its actual capabilities and not duplicating efforts.
-
-When filling out this form, consider the specific features and functionalities of the AI recruitment software you're evaluating. Ensure that you're providing clear and concise answers to each question, and that you're not leaving any required fields blank.
-
-This form is designed to be a comprehensive assessment of the software, so please answer all the questions and provide as much detail as possible.</thinking>
-
 # AI Recruitment Software Evaluation Form - Help Guide
 ## Purpose
 The AI Recruitment Software Evaluation Form is designed to assess the performance and capabilities of AI-driven recruitment software. It consists of several sections that cover various aspects of the software, including its core features, usability, and technical aspects.

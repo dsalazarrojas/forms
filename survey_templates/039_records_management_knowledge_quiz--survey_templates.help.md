@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to assess the user's understanding of records management concepts and principles. It's meant to be a quick, low-stakes assessment to gauge knowledge in this domain. Please ensure the form's design and questions align with your actual records management knowledge and practices.</thinking>
-
 # Records Management Knowledge Quiz - Help Guide
 ## Purpose
 This form is a quiz designed to assess your understanding of records management concepts and principles.

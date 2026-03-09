@@ -1,7 +1,3 @@
-<thinking>
-This form is likely designed to gather feedback from customers about their shopping experience on an e-commerce platform. The form likely aims to collect information such as order details, product details, purchase date, rating, satisfaction level, comments, email, and phone number to improve the overall shopping experience. To prevent duplication, the form could be used for a specific order or customer, and the internal team can use the information to track and analyze customer feedback for improvement.
-</thinking>
-
 # E Commerce Shopping Experience Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their shopping experience on our e-commerce platform. By providing your feedback, you are helping us improve the quality of our service and better serve you in the future.

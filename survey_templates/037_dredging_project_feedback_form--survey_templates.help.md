@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on dredging projects. To ensure that the feedback is accurate and helpful, please fill out the form completely and thoroughly. If the project is no longer active, please mark it as completed, cancelled, or indicate the current status. This form will help us gather information on the dredging projects and improve our processes. Please note that the fields marked as "required" are mandatory fields and should be filled out before submitting the form. If the field is not marked as "required" and not provided, it will not affect the submission of the form.
-</thinking>
-
 # Dredging Project Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and data on dredging projects.

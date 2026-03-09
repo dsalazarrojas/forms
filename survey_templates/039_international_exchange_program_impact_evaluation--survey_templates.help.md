@@ -1,9 +1,3 @@
-<thinking>
-
-Before we dive into the help guide, let's confirm the purpose and relevance of this form. The International Exchange Program Impact Evaluation form is designed to collect data on the impact and outcomes of international exchange programs. This form likely gathers information from both participants and hosts to evaluate the effectiveness and satisfaction of these programs. It's essential to ensure that the form is completed accurately and thoroughly to capture valuable insights for program improvement.
-
-</thinking>
-
 # International Exchange Program Impact Evaluation - Help Guide
 
 ## Purpose

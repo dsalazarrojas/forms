@@ -1,13 +1,3 @@
-<thinking> 
-
-This form is intended to facilitate a pairwise comparison survey, which is a type of survey that asks respondents to compare two or more items on a specific attribute. The form is designed to collect data on the preferences or ratings of respondents for the given items. It is likely used in a business or research context to gather opinions or ratings on various items, such as products, services, or features.
-
-The form appears to be a complex survey with multiple pages, each containing various fields for different purposes. However, the overall structure and content of the form suggest that it is designed to collect ratings or preferences for pairs of items, with each item having multiple labels or characteristics. The form may be used to identify the most preferred or rated item among the options available.
-
-Upon reviewing the form structure, it is worth noting that the form has a lot of repetition in the field names, which may cause confusion. For instance, "pairwise_item_list", "pairwise_item_list_2", "pairwise_item_label_list", etc. are similar field names with slight variations. This suggests that the form could be improved for better organization and clarity.
-
-</thinking>
-
 # pairwise_comparison_survey - Help Guide
 ## Purpose
 This form is designed to collect ratings or preferences for pairs of items. It is intended to be used in a business or research context to gather opinions or ratings on various items, such as products, services, or features.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Childcare Exit Survey - Help Guide
 ## Purpose
 This Childcare Exit Survey is a tool used to collect information from parents or guardians about their experience with our program. It helps us understand your reasons for leaving, satisfaction levels, and areas of improvement. The collected data will be used to enhance our services and ensure we provide the best possible care for children.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Reunion Location Preference Survey - Help Guide
 
 ## Purpose

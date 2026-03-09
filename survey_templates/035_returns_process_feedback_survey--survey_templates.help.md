@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers about their experience with the returns process. This form is designed to gather information on various aspects of the returns process, including customer experience, product quality, communication, and return reasons, to help the company improve its services.
-To complete this form, the customer will be presented with a series of questions, each with options to select from. The form is split into sections, making it easy to navigate and answer each question at their own pace. The questions will ask about the customer's experience with the returns process, including how they perceived the quality of the product, the communication they received, and the effectiveness of the return process itself.
-The form will also collect information on the date and time of return, and the reason for return, allowing the customer to provide a detailed account of their experience.
-Before completing the form, ensure that you have all the necessary information ready, such as the date and time of the return, and the reason for return. This information will help us better understand your experience and improve our services.
-</thinking>
-
 # returns_process_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with the returns process. Your input will help us identify areas for improvement and provide better services.

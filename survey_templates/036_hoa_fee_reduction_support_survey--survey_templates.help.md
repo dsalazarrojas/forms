@@ -1,10 +1,3 @@
-<thinking>
-To create the user-facing help guide for the "hoa_fee_reduction_support_survey" form, we need to understand its purpose and how to complete it. The form is likely designed to collect information about Homeowners Association (HOA) fee reduction requests and related service values. The goal is to gather data on the current status of fee reduction requests and their impact on service values. This form will help HOA administrators or support staff to track and manage these requests efficiently.
-
-The form likely has multiple fields that need to be filled out. We will go through each field and explain its purpose and required information in a concise and practical manner.
-
-</thinking>
-
 # hoa_fee_reduction_support_survey - Help Guide
 ## Purpose
 The "hoa_fee_reduction_support_survey" form is designed to collect information about Homeowners Association (HOA) fee reduction requests and related service values. It helps HOA administrators or support staff to track and manage these requests efficiently.

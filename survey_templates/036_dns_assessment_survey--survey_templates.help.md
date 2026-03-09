@@ -1,5 +1,3 @@
-<thinking>This form, "dns_assessment_survey", is used to gather information about DNS management practices and infrastructure satisfaction. It is used to assess the current state of DNS management within an organization. The form has three sections: "dns_management_practices", "dns_infrastructure_satisfaction", and "security_readiness". Each section requires a unique set of information and is designed to be completed by a user with some level of expertise in DNS management.</thinking>
-
 # dns_assessment_survey - Help Guide
 ## Purpose
 This form is used to assess the current state of DNS management practices within an organization.

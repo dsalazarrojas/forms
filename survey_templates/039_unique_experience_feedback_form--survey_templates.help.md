@@ -1,11 +1,3 @@
-<thinking>
-The form "unique_experience_feedback_form" is used to collect feedback from users about their unique experiences. This form is designed to be completed by users who have had a unique experience, such as a workshop, a meeting, or a special event. To ensure that the feedback collected is relevant and accurate, we will be checking for duplication to avoid collecting duplicate feedback from the same user.
-
-Before completing the form, please make sure that you have not already provided feedback for this event. If you are not sure, you can check the event's website or contact the event organizer to confirm.
-
-This guide will walk you through each field of the form and help you complete it accurately.
-</thinking>
-
 # unique_experience_feedback_form - Help Guide
 ## Purpose
 The purpose of this form is to collect your feedback about your unique experience. This feedback will be used to improve future events and provide better experiences for users in the future.

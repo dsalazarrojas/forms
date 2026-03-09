@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect data on healthcare access challenges in rural areas. The purpose of this form is to identify and document the barriers that prevent people in rural areas from accessing healthcare services. This information will be used to inform policy and program decisions that aim to improve access to healthcare in these areas. It is essential to ensure that the data collected is accurate and comprehensive to effectively address the challenges faced by rural communities.
-
-</thinking>
-
 # rural_healthcare_access_challenges_survey - Help Guide
 ## Purpose
 This form is used to collect data on healthcare access challenges in rural areas to inform policy and program decisions that aim to improve access to healthcare in these areas.

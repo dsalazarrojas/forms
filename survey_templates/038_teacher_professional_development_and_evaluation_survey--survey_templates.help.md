@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Teacher Professional Development And Evaluation Survey - Help Guide
 
 ## Purpose

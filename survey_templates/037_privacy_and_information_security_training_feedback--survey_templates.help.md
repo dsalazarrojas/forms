@@ -1,12 +1,3 @@
-<thinking>
-To provide feedback on the Privacy And Information Security Training, we want to make sure you are providing accurate and relevant input. This form is not meant to be filled out for every training session. Please only complete this form if you have attended this specific training session. 
-
-We're looking for specific details about your experience, such as the date and time you attended, the instructor's performance, and any other relevant information. Your feedback will help us improve the training program and provide better services in the future.
-
-Please take a few minutes to carefully review the form and fill it out accurately.
-
-</thinking>
-
 # Privacy And Information Security Training Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback on the Privacy And Information Security Training session you attended. Your input will help us improve the training program and provide better services in the future.

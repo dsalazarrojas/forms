@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's take a moment to understand the purpose and context of this form. The "Building Trust In Relationships Feedback Form" is designed to gather insights and opinions on the dynamics of relationships, focusing on trust, communication, and emotional support. This form is meant to be a helpful tool for individuals to reflect on their relationships and provide feedback on areas that can be improved. Please take a moment to review the form carefully and ensure you are providing accurate and honest responses.</thinking>
-
 # Building Trust In Relationships Feedback Form - Help Guide
 ## Purpose
 

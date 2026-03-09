@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information from contest participants about their entry in the Chocolate And Champagne Contest. The form asks for basic contact information, entry details, and other relevant specifics such as ingredients, preparation, and judging permissions. This form is part of the contest's registration process. By filling out this form, participants can ensure they are providing the necessary information for the contest organizers and judges. The form is not meant for internal use by the contest organizers, but rather as a communication tool for the participants to provide their details and ensure their entry is properly processed.</thinking>
-
 # Chocolate And Champagne Contest Entry Form - Help Guide
 ## Purpose
 This form is designed to collect information about your entry in the Chocolate And Champagne Contest. Please fill out this form carefully and thoroughly to ensure that your entry is properly processed.

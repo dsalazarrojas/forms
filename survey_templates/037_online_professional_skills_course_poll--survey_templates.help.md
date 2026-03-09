@@ -1,31 +1,3 @@
-<thinking>
-This form is designed to gather information from course creators on the specific needs and preferences of their learners for a professional skills course. The form aims to collect data on the skills that learners need to acquire, the delivery format of the course, and the features that are important for effective learning. This information will help course creators tailor their courses to meet the needs of their learners, providing a more engaging and effective learning experience.
-
-Before filling out this form, please ensure that you have not already completed a survey on the same topic, as this form is intended for course creators who have not previously provided input on this topic.
-
-To provide accurate and helpful feedback, please answer each question thoroughly and thoughtfully.
-
-Please note that this form is not a comprehensive survey, and the questions are designed to gather specific information to help course creators understand the needs and preferences of their learners.
-
-This form will help you gather information on the following topics:
-
-* Course Creator Survey
-* Important skills for learners
-* Delivery format preferences
-* Online delivery features
-* In-person delivery features
-* On-the-job training features
-* Self-paced learning features
-* Blended delivery features
-* Online presentation features
-* Online video features
-* Presentation preferences
-* Video production features
-* Video delivery preferences
-
-Please fill out this form carefully and thoroughly to provide accurate information.
-</thinking>
-
 # Online Professional Skills Course Poll - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Coronavirus Survey - Help Guide
 ==============================
 

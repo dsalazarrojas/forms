@@ -1,7 +1,3 @@
-<thinking>
-We will need to ensure that the form is only filled out by the correct users, i.e., customers who have accounts with the bank. This form is intended to gather feedback from existing customers to improve the bank's services and products. We should also avoid duplication of data. For example, we should not allow customers with non-existent or closed accounts to fill out the form. The data collected will be used to understand customer satisfaction, identify areas of improvement, and make data-driven decisions to enhance customer experience. We will make sure the form is accessible and easy to use.
-</thinking>
-
 # Banking Relationship Feedback Survey - Help Guide
 
 ## Purpose

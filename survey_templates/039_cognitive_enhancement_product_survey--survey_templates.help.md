@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback and insights from users who have used a cognitive enhancement product. The form is designed to gather information about the user's experience with the product, including their age range, product name or type, duration of use, frequency of use, and overall effectiveness. This data will help product developers and manufacturers better understand how their product is perceived and used by customers, enabling them to make data-driven decisions to improve the product's performance and usability.
-
-This form is meant for individuals who have used a cognitive enhancement product and want to share their experiences. It should not be completed by those who have not used the product.
-
-Please ensure that you are responding to the questions based on your personal experience with the product. If you're unsure about any question, please answer according to your best understanding, and don't hesitate to leave additional comments if you have further insights or opinions.
-
-This form is not affiliated with, endorsed by, or derived from any form platform. It was created by AI using public survey topic metadata as inspiration.
-
-</thinking>
-
 # Cognitive Enhancement Product Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and insights from users who have used a cognitive enhancement product. 

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect data on the credibility and trustworthiness of public health information sources. The form asks respondents to evaluate the credibility and trustworthiness of various sources of information, including public sources, expert sources, and other sources. The form is intended to help users assess the reliability and trustworthiness of different types of public health information sources.
-
-Before completing this form, please ensure that you have not already submitted a similar evaluation. This form is meant to gather data for research purposes and should only be filled out once per source.
-
-</thinking>
-
 # public_health_information_credibility_survey - Help Guide
 ## Purpose
 This form is designed to collect data on the credibility and trustworthiness of public health information sources.

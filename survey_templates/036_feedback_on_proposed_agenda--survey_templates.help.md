@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users on a proposed agenda for an event, category, or other types of items. This form is intended to be used by individuals to provide their opinion and thoughts on the proposed agenda.
-
-To ensure the form is filled out correctly, it's recommended to only fill it out if you are familiar with the proposed agenda, and if it's not already filled out by someone else. Please note that this form is for providing feedback, not for submitting the agenda for approval.
-
-</thinking>
-
 # Feedback On Proposed Agenda - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on a proposed agenda. It's meant to be a platform for users to provide their thoughts, suggestions, and comments on the agenda.

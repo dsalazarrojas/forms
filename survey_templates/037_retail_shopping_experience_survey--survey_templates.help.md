@@ -1,28 +1,3 @@
-<thinking>
-This form is intended to collect feedback from customers about their shopping experience in a retail store. The form should be filled out by customers who have visited the store and want to provide their honest opinions about their experience. To avoid duplication, this form should only be completed by customers who have not previously filled out a survey. This form will help the store to understand customer satisfaction and identify areas for improvement.
-
-The form consists of several questions that ask customers to rate their experience in different aspects of the store, such as staff friendliness, product quality, store atmosphere, and communication. Customers can rate their experience as either Good or Fair for most questions. Some questions also ask customers about their likelihood to return to the store, recommend the store to a friend, and make a purchase in the store.
-
-This form is a multiple-page form with 15 fields. Each page contains only one question, making it easy for customers to focus on one question at a time.
-
-The form's fields are as follows:
-* survey_questions: How was your visit to our store?
-* shopping_experience: What is your experience like in our store?
-* staff_friendliness: How would you rate the friendliness of our staff?
-* product_range: How would you rate the quality of our products?
-* store_atmosphere: How would you rate the store atmosphere?
-* product_quality: How would you rate the product quality?
-* staff_knowledge: How would you rate the knowledge of our staff?
-* store_location: How would you rate the location of our store?
-* communication: How was the communication during your visit?
-* product_return: How likely are you to return to our store?
-* overall_experience: Overall, how would you rate your experience?
-* product_recommendation: Would you recommend our store to a friend?
-* product_purchase: How likely are you to make a purchase in our store?
-* staff_helpfulness: How helpful were our staff during your visit?
-* product_quality_investment: How much do you think we invest in product quality?
-</thinking>
-
 # Retail Shopping Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their shopping experience in our store. Please take a few minutes to fill out this form and provide your honest opinions.

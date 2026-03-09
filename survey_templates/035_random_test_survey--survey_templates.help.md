@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a general survey form with a mix of open-ended and multiple-choice questions. The purpose of this form is to collect information from users on various topics, including personal preferences, demographic information, and random questions. This form does not seem to be highly specific to a particular business or organization, so it may be a general survey form used for research or testing purposes.
-
-It's also worth noting that there are no validation rules or error messages defined in this form, so it's likely that the form's purpose and usage should be clarified to avoid confusion.</thinking>
-
 # random_test_survey - Help Guide
 
 ## Purpose

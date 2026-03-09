@@ -1,12 +1,3 @@
-<thinking>...thinking>
-This help guide will cover the "Digital Form Creation Guide" form, which is used to create and configure digital forms within the application. This form is crucial in allowing users to design and manage their own digital forms, providing a way to gather information, feedback, or data from other users. Before proceeding, it's essential to understand that this form is not intended for user data collection or storage, but rather as a means to generate and customize digital forms for internal use.
-
-This form is a template-based tool that enables users to create forms with specific titles, descriptions, and categorization. It's a multi-page form where users can input various details, such as form categories, descriptions, and tags. The form's flexibility allows users to customize their forms as needed.
-
-When creating a digital form using this tool, it's essential to follow the steps outlined below to ensure that you can effectively generate the desired form.
-
-</thinking>
-
 # Digital Form Creation Guide - Help Guide
 ## Purpose
 The "Digital Form Creation Guide" form is a tool used to create and configure digital forms for internal use. It provides a framework for users to design and manage their digital forms, enabling them to gather information, feedback, or data from other users.

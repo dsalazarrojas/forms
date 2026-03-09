@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about historical documents for review purposes. It's meant for experts who will evaluate and provide feedback on the accuracy and completeness of historical documents. The form is divided into several sections that cover different aspects of the document, including its type, publication date, file details, and reviewer information. This form is meant for internal use and does not collect any sensitive or personal data. Please only fill out this form if you have a specific task or project that requires the review of historical documents. If you're unsure whether you need to complete this form, please contact your supervisor or project lead.
-
-</thinking>
-
 # Historical Document Review Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about historical documents for review purposes. The form is used by experts to evaluate and provide feedback on the accuracy and completeness of historical documents.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to participate in a vote for naming a specialty space. This ensures that the naming process is fair and transparent, and that users' opinions are taken into account. Please ensure that you are eligible to participate in this vote and that your submission is not a duplicate of another user's entry. This will be checked internally before the final vote is tallied.
-</thinking>
-
 # Specialty Space Naming Vote - Help Guide
 ## Purpose
 This form is used to collect opinions from users on how to name a specialty space. The goal is to gather a variety of suggestions and ensure that the final name chosen is well-represented and representative of the community's preferences.

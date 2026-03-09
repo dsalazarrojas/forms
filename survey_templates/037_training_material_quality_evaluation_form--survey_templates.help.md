@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the quality of training materials, providing a structured way to assess their suitability, relevance, engagement, and other key factors. This evaluation is essential for ensuring that the training materials align with the organization's goals and expectations. By filling out this form, evaluators will provide valuable feedback on the materials, helping to identify areas of improvement and ensure that they meet the required standards.
-
-This form should not be filled out multiple times for the same training material. Each evaluation provides a unique snapshot of the material's quality at that specific point in time.
-
-</thinking>
-
 # Training Material Quality Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the quality of training materials, providing feedback on their suitability, relevance, engagement, and other key factors.

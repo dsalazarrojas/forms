@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Customer Brand Loyalty Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather information on customer loyalty to a retail store or brand. It helps to assess whether customers visit the store, are satisfied with their experience, intend to refer others, and have a positive experience with customer service.

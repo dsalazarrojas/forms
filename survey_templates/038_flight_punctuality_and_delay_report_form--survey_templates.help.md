@@ -1,13 +1,3 @@
-<thinking>
-
-The Flight Punctuality And Delay Report Form is designed to collect information about flight schedules and their performance. This form is intended to be filled out by airline staff or other relevant personnel to report on instances of flights being delayed or canceled. The purpose of this form is to gather data that can help analyze and improve flight schedules, identify potential issues, and make informed decisions to reduce delays and cancellations.
-
-Before completing this form, ensure that the flight in question has already been reported to the necessary authorities. This form should not be used to report flights that have not been previously reported.
-
-Please note that this form is a general-purpose template and should not be used for specific business processes, such as incident reporting or maintenance requests.
-
-</thinking>
-
 # Flight Punctuality And Delay Report Form - Help Guide
 ## Purpose
 The Flight Punctuality And Delay Report Form is a tool to collect information about flight schedules and their performance. Its primary goal is to gather data that can help analyze and improve flight schedules, identify potential issues, and make informed decisions to reduce delays and cancellations.

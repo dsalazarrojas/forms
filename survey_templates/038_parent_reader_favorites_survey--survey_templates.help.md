@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather information about the reading habits and preferences of users, specifically parents or caregivers of young children. It is intended to help the survey team understand their favorite book genres, reading frequency, and other related habits. The form is not meant to be exhaustive, and respondents can choose to answer as many or as few questions as they like. It is also not intended for internal use, so please do not fill this form if you are not a parent or caregiver.
-</thinking>
-
 # Parent Reader Favorites Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your reading habits and preferences as a parent or caregiver. It will help our team understand what you enjoy reading and how you read.

@@ -1,10 +1,3 @@
-<thinking>
-The "health_program_self_evaluation_form" form is used to gather feedback from participants in a health program. It is designed to be filled out by individuals who have participated in the program to provide their perspective and assessment of the program's effectiveness. To ensure this form is completed correctly, it is essential that the participant has a clear understanding of the purpose and structure of the form.
-
-This form consists of multiple pages with various fields that are used to collect different types of information. Some of the fields are required, while others are optional. The form should not be completed by individuals who have not participated in the program.
-
-</thinking>
-
 # health_program_self_evaluation_form - Help Guide
 ## Purpose
 The "health_program_self_evaluation_form" is used to gather feedback from participants in a health program. It is designed to be filled out by individuals who have participated in the program to provide their perspective and assessment of the program's effectiveness.

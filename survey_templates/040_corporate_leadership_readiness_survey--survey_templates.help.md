@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to help corporate leaders assess their readiness for leadership development and growth. It is intended for leaders who are committed to improving their leadership skills and are looking for a framework to identify areas of strength and weakness. The purpose of this form is to gather information that will help leaders create a plan for their personal and professional growth. 
-
-This form will ask you to self-assess your leadership skills, identify areas where you need development, create an action plan, and set goals for evaluation and growth. 
-
-Please review this form carefully to ensure that you are answering all required questions and providing thorough responses. If you have any questions or concerns, please reach out to your supervisor or HR representative for assistance. 
-
-</thinking>
-
 # Corporate Leadership Readiness Survey - Help Guide
 
 ## Purpose

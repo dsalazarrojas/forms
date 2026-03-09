@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gauge the level of stress that a user may be experiencing. It's meant to be used in a variety of contexts, such as mental health check-ins or stress management workshops. To ensure that this form is used effectively, it's recommended that users complete it at a relatively stable emotional state, rather than during periods of high stress or anxiety. It's also suggested that users review the form carefully before submitting it, as some answers may be subject to interpretation. 
-
-The purpose of this form is to gather data about a user's stress levels, feelings of control, and emotional state. 
-
-</thinking>
-
 # Stress Survey - Help Guide
 ## Purpose
 This form is a stress survey designed to help users understand and manage their stress levels.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is being used correctly by end users. The purpose of this form is to collect feedback from customers about their support experience with Feed Blend. It will help us identify areas of improvement and make data-driven decisions to enhance our support services. Before proceeding, please ensure that you have not already submitted feedback on this form. If you are a duplicate entry, please do not submit again to avoid skewing our statistics.
-</thinking>
-
 # feed_blend_support_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their support experience with Feed Blend. Your input will help us understand what we're doing well and where we can improve to better serve you.

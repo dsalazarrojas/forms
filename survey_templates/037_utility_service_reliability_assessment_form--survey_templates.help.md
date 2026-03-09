@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-The "Utility Service Reliability Assessment Form" is used to assess the reliability of utility services such as water, electricity, or gas. This form is crucial for identifying areas of improvement in service delivery and making informed decisions about resource allocation. The form collects quantitative data on the reliability of services, frequency of outages, and causes of outages. By providing concrete answers, users can compare their experiences with others and gain insights into the overall performance of utility services.
-</thinking>
-
 # Utility Service Reliability Assessment Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-## Internal Reasoning
-
-This form is used to evaluate the satisfaction of travel services provided by the travel agency. It gathers information on various aspects of the travel experience, including the travel agency used, destination, arrival date, duration, mode of transportation, travel purpose, satisfaction level, travel service quality, and communication with the agency. The form also requests additional comments and a plan for improving the travel service. The overall satisfaction score is calculated based on various factors, including satisfaction with the travel agency, quality of service, communication, and other factors.
-
-It is likely that this form will be used for quality control and improvement purposes, helping the travel agency to identify areas of improvement and increase customer satisfaction.
-</thinking>
-
 # travel_service_satisfaction_survey - Help Guide
 ## Purpose
 ## How To Complete This Form

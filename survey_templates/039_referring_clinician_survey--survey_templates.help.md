@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for clinicians who are familiar with the referring clinician survey. It is assumed that the user has a basic understanding of the survey's purpose and relevance. Please ensure that you have read and understood the survey's context before proceeding. This guide is not intended for multiple submissions or duplicate entries. If you have previously completed this survey, please do not resubmit. 
-</thinking>
-
 # Referring Clinician Survey - Help Guide
 ## Purpose
 The Referring Clinician Survey is a tool designed to capture information about referring clinicians and their practices. This guide will walk you through the process of completing the survey.

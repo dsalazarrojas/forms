@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect data about bars and restaurants, specifically their bar counter measurements. It is intended for use by surveyors to document and analyze the characteristics of bar counters, including their lengths, depths, heights, materials, and conditions.
-
-To ensure accurate and consistent data collection, please only submit this form once per bar counter. If you have previously submitted this form for the same bar counter, please do not resubmit.
-
-</thinking>
-
 # Bar Measurement Survey - Help Guide
 ## Purpose
 The Bar Measurement Survey is a form designed to collect data about bars and restaurants, specifically their bar counter measurements.

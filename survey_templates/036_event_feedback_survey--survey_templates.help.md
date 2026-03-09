@@ -1,26 +1,3 @@
-<thinking>
-
-This form is intended to collect feedback on events from attendees. The form is designed to gather information on event organizers, participants, event details, and overall satisfaction. The fields will ask for basic contact information and specific feedback comments.
-
-Before starting this survey, please check if you have already filled this form in the past. If you've done so, please don't repeat the answers you provided earlier.
-
-The form collects the following information:
-1. Event feedback: Describe your experience at the event.
-2. Venue satisfaction: Rate your overall satisfaction with the venue.
-3. Speaker satisfaction: Rate your overall satisfaction with the speakers.
-4. Overall satisfaction: Rate your overall satisfaction with the event.
-5. Event satisfaction: Rate your satisfaction with the event's organization.
-6. Event organizer: Provide the name of the event organizer.
-7. Event participants: Provide a list of attendees you interacted with.
-8. Event date: Select the date of the event.
-9. Event time: Select the time of the event.
-10. Email: Enter your email address.
-11. Feedback comment: Provide any additional feedback about the event.
-
-Please answer each question honestly and provide as much detail as possible.
-
-</thinking>
-
 # event_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on events to help organizers improve their events.

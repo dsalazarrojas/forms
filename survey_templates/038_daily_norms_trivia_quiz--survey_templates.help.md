@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Norms Trivia Quiz - Help Guide
 ## Purpose
 This form, "Daily Norms Trivia Quiz", is designed to collect information and answers from users for the purposes of a trivia quiz. The form will ask a series of questions to gather data on various topics, including dates, times, phone numbers, email, and additional notes.

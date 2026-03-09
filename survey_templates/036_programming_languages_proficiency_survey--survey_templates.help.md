@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to measure the proficiency of an individual in various programming languages. The purpose of this form is to collect data on how well an individual is versed in programming languages, including their level of proficiency and experience. The form is meant to be a self-assessment tool for individuals to gauge their own skills and knowledge in different programming languages.
-</thinking>
-
 # Programming Languages Proficiency Survey - Help Guide
 ## Purpose
 This form is designed to assess your proficiency in various programming languages. The survey aims to collect information on your level of expertise in different programming languages, including how long you've been practicing each one.

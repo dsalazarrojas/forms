@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is to assist users in understanding how to complete the Zoom Event Feedback Survey form, ensuring they provide valuable feedback on their experience. Please review the form's purpose and ensure it is relevant to your needs. Note that each field is optional, allowing for flexibility in the feedback process. To the best of my knowledge, there is no duplicate data collection or redundant fields, but please review the form's design carefully to confirm.
-
-</thinking>
-
 # Zoom Event Feedback Survey - Help Guide
 ## Purpose
 The Zoom Event Feedback Survey is designed to gather information about your experience at a Zoom event. This survey aims to collect your thoughts, opinions, and ratings to help us improve future events.

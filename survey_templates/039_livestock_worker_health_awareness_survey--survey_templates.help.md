@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is designed to collect data about the health and safety awareness of workers on livestock farms. It asks about various aspects of farm work, including the location, type of work, health issues experienced, and access to care and training programs. The data collected will help in identifying areas of concern and developing targeted interventions to improve the well-being of farm workers. The form is not meant to be a comprehensive assessment of all potential risks, but rather a starting point for further investigation and improvement.
-
-</thinking>
-
 # Livestock Worker Health Awareness Survey - Help Guide
 
 ## Purpose

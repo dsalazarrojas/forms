@@ -1,9 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the Bible Study Notes Form. To begin with, this form is designed to help participants record and reflect on their experience during a Bible study session. The form is divided into sections, each focusing on a specific aspect of the session. The participant's input will be invaluable in providing a comprehensive understanding of the group's discussion and personal growth.
-
-This form is not meant to be a replacement for any existing study group or church's record-keeping practices but rather a supplementary tool to enhance the study experience.
-
-Before starting, please ensure you have permission from your study group leader or church administrator to use this form.</thinking>
-
 # Bible Study Notes Form - Help Guide
 ## Purpose
 The Bible Study Notes Form is a tool designed to help participants record and reflect on their experience during a Bible study session. This form guides you through the key elements of the session, providing a comprehensive understanding of the group's discussion and personal growth.

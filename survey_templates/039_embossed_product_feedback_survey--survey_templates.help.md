@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect feedback from customers on their experience with the company's embossed products. The form will be used to gather information on the product's title, name, type, rating, price, description, customer's email, phone number, and any additional feedback they may have. This information will be helpful for the company to understand customer satisfaction and identify areas of improvement.
-
-Before filling out this form, please ensure that you have not already submitted feedback on the same product. This will help us to track and analyze customer feedback more efficiently.
-
-</thinking>
-
 # Embossed Product Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers on their experience with our embossed products. Your feedback will help us to understand customer satisfaction and identify areas of improvement.

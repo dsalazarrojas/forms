@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback on the architectural process from respondents, likely architects, project managers, or clients. The goal is to understand their satisfaction with different stages of the process, including planning, design, and implementation. Respondents will be asked to provide their role in the project, project name, and opinions on various aspects of the process. The form is likely used to identify areas for improvement and to inform future project management decisions. This form does not duplicate or copy any existing forms, and its content is original and inspired by public survey topic metadata. Please fill out this form if you have experience with the architectural process.
-</thinking>
-
 # Architectural Process Survey - Help Guide
 ## Purpose
 The Architectural Process Survey is designed to gather feedback on the architectural process, including satisfaction with planning, design, and implementation stages. This feedback will help inform future project management decisions.

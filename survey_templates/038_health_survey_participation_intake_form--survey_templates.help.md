@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from patients about their health survey participation details. The purpose of this form is to gather relevant data for the purpose of conducting a thorough analysis of each patient's health survey participation. It is crucial that patients complete this form accurately and truthfully, as the information collected will be used to inform medical decisions and ensure proper treatment. Please ensure you are eligible to complete this form by checking your eligibility. If you've already completed this form, you are not allowed to submit it again as it may lead to duplicate data.
-
-</thinking>
-
 # Health Survey Participation Intake Form - Help Guide
 
 ## Purpose

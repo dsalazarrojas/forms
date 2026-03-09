@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # language_proficiency_survey - Help Guide
 
 ## Purpose

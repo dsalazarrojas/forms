@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the engagement experience of youth volunteers. The purpose of this form is to collect feedback from volunteers on their experience, including what they enjoyed most, what they enjoyed least, and suggestions for future events. The form also collects demographic information about the volunteer, such as their volunteer hours, volunteer frequency, and overall rating of their experience. This form is meant to be completed by youth volunteers after participating in an event or program.
-</thinking>
-
 # Youth Volunteer Engagement Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from youth volunteers on their experience with our organization. Please take a few minutes to complete this form to help us improve our programs and services.

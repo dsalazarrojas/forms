@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about users' experiences with the Learning Management System (LMS). The purpose of this form is to collect feedback, ratings, and other relevant information from users to help the LMS team improve the system. To ensure the accuracy and completeness of the data collected, please note that this form is not intended for use by users who have not had hands-on experience with the LMS. Duplicate submissions from the same user should be avoided.
-</thinking>
-
 # Learning Management System Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and ratings from users about their experiences with the Learning Management System (LMS). This information will help the LMS team improve the system to better meet the needs of its users.

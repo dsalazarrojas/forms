@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather feedback from clients who have received body and facial treatments. It includes questions about the client's experience, the effectiveness of the treatment, and their overall satisfaction. Please fill out this form to provide valuable insights for our business. If you have already filled out this form, please note that your feedback is already accounted for and does not need to be filled out again.</thinking>
-
 # Body And Facial Treatment Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from clients who have received body and facial treatments. Your responses will help us understand your experience and improve our services.

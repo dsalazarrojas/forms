@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from individuals who are leaving a network, aiming to gather insights on the reasons behind their departure and potential areas for improvement. This form is not meant to replace existing feedback mechanisms but rather supplement them, and responses should be kept confidential to ensure honest and unbiased input. To avoid redundant feedback, please fill out this form only if you have not already provided feedback through other channels.
-
-Please ensure that you have not already filled out this form before, as this may cause duplication of effort and reduce the value of your feedback.
-</thinking>
-
 # Network Exit Feedback Survey - Help Guide
 ## Purpose
 This form is designed to help us understand why you are leaving our network and where we can improve to better support you and our members in the future.

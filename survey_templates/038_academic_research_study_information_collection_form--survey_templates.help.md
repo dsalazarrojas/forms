@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from potential participants in an academic research study. The form asks for demographic information, research interests, availability, and other relevant details to help researchers understand who to target for future studies. This information will help researchers to identify potential participants and tailor studies to their needs and preferences. To ensure accurate and relevant data collection, please answer all questions truthfully and thoroughly. If you have any questions or concerns, feel free to ask. Please note that some fields are required for the purpose of this study, and your participation is voluntary.
-
-</thinking>
-
 # Academic Research Study Information Collection Form - Help Guide
 ## Purpose
 This form collects information from potential participants in an academic research study to help researchers target and tailor studies to their needs and preferences.

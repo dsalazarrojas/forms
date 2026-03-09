@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about school transport, and its purpose is to collect data on various aspects of school transportation. The form is designed to be completed by students, parents, or school administrators. To avoid duplication of effort, it's essential to ensure that the form is filled out only once per school transport-related incident. Please review the form carefully and ensure you're submitting a completed and accurate version.
-</thinking>
-
 # School Transport Survey - Help Guide
 ## Purpose
 The School Transport Survey is designed to gather information about school transport, including questions about transportation options, frequencies, and incidents. The survey aims to understand student and parent experiences with school transportation, helping the school administration make informed decisions about transportation services.

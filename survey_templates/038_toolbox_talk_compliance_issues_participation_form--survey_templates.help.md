@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about compliance issues that have been addressed in the "Toolbox Talk" meetings. The form is designed to help team members provide a standardized way of reporting and tracking compliance issues. It is essential to fill out this form accurately to ensure that all team members are on the same page and that the compliance issues are properly documented and addressed.
-</thinking>
-
 # Toolbox Talk: Compliance Issues Participation Form - Help Guide
 ## Purpose
 This form is used to collect information about compliance issues that have been addressed in the "Toolbox Talk" meetings.

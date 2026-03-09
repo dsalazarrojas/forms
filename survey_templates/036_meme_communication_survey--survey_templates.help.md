@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about meme communication. The purpose of this form is to gather information on how well users perceive the meme communication system, whether it's meeting their needs, and what improvements can be made to it. This form is not meant to be filled out by the same user more than once. It should only be filled out by new users who have not previously filled out this form.
-</thinking>
-
 # Meme Communication Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about meme communication, helping us understand how well the system meets their needs and identify areas for improvement.

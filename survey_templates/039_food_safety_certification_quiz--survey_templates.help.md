@@ -1,5 +1,3 @@
-<thinking>This form is designed to help assess an individual's or an organization's knowledge and adherence to food safety best practices. This form is meant to be filled out by someone who has completed food safety training or has a food safety certification, such as a food handler's permit. The form gathers information on the individual's or organization's food safety certification status, including their certification level, training type, and certification expiration date. The form also includes fields for emergency contact information, which can be used to verify the individual's or organization's identity. This form is intended for internal use within an organization or for external use in a controlled setting, such as a food safety audit or inspection.</thinking>
-
 # Food Safety Certification Quiz - Help Guide
 
 ## Purpose

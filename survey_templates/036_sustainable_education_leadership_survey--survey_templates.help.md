@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help assess the level of emphasis on sustainability in education, identify key challenges faced by individuals in the education sector, and gauge the desired leadership perspectives from institutions in this field. This form will gather information on the level of emphasis on sustainability in education, the scale rating for this emphasis, challenges faced, and the leadership perspectives desired from institutions. By answering the following questions, the user will be able to gain insight into the education sector's current state and provide valuable feedback to the institution on areas of improvement.
-</thinking>
-
 # Sustainable Education Leadership Survey - Help Guide
 ## Purpose
 This form aims to understand the current state and challenges of education sector's emphasis on sustainability and leadership perspectives, providing valuable feedback for improvement.

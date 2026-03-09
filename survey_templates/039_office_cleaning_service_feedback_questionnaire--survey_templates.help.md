@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from office users about the office cleaning service. The purpose of this form is to gather information about the user's satisfaction with the cleaning service, how often they receive updates about the schedule, and any additional comments or feedback they may have. 
-This form should only be used by office users who have received the office cleaning service. If you have not received the service, please do not fill out this form. 
-</thinking>
-
 # Office Cleaning Service Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from office users about the office cleaning service. The purpose of this form is to gather information about the user's satisfaction with the cleaning service, how often they receive updates about the schedule, and any additional comments or feedback they may have.

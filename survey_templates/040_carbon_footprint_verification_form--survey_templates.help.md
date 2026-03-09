@@ -1,10 +1,6 @@
 # Carbon Footprint Verification Form - Help Guide
 
 ## Purpose
-<thinking>
-The Carbon Footprint Verification Form is designed to collect and verify information about an entity's carbon emissions. This form is used to assess the entity's carbon footprint, ensuring accuracy, completeness, and consistency in their reporting. The data collected will be used to identify potential issues or discrepancies in the entity's carbon footprint verification process.
-</thinking>
-
 ## How To Complete This Form
 To complete this form, follow these steps:
 

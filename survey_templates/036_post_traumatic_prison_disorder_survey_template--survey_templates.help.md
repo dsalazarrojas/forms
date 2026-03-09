@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect data on the frequency and severity of post-traumatic prison disorders in individuals. This form is used to gather information on the symptoms experienced by prisoners, which can help in understanding and addressing the mental health needs of this population. Please ensure that you are completing this form for a prisoner and that the data is accurate and relevant. If you are not a qualified professional, please do not complete this form.</thinking>
-
 # post-traumatic-prison-disorder-survey-template - Help Guide
 ## Purpose
 This form is used to collect data on the frequency and severity of post-traumatic prison disorders in individuals.

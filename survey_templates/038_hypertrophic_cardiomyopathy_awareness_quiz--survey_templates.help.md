@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hypertrophic Cardiomyopathy Awareness Quiz - Help Guide
 
 ## Purpose

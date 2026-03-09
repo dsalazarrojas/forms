@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information about users' knowledge of world religions. It has four sections with different questions that cover various aspects of religious background, beliefs, and practices. The form is designed to be completed by users with a basic understanding of religious concepts.
-The form has 11 fields in total, and most of them are optional. Users need to answer questions about their religious background, beliefs, and practices, as well as provide demographic information like the number of languages they speak.
-The form's purpose is to gather data that can be used to analyze users' knowledge and understanding of world religions. This data can be used to inform educational materials and programs that aim to promote cultural understanding and diversity.
-</thinking>
-
 # World Religions Knowledge Quiz - Help Guide
 ## Purpose
 This form is a quiz designed to test your knowledge of world religions. It has four sections, each focusing on a different aspect of religious background, beliefs, and practices. The form is meant to be completed by users with a basic understanding of religious concepts.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Climate Impact Awareness Survey - Help Guide
 ## Purpose
 This form is designed to help healthcare organizations understand the climate change impacts they face and identify the top priorities for climate action within their organization. It will help in assessing the current state of climate change awareness and action within the organization, and provide insights for developing effective climate action plans.

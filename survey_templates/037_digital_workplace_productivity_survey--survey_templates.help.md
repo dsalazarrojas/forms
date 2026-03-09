@@ -1,12 +1,3 @@
-<thinking>
-This form is likely used to gather information from employees about their workplace productivity, specifically focusing on collaboration, communication, and work habits. The goal is to collect data that can be used to improve workplace efficiency and productivity. This form is probably used in an organizational setting, such as a corporate environment, to help management understand how employees collaborate, spend their time, and use various tools and channels. It's likely that the form is used to identify areas for improvement and suggest recommendations for tools and methods that can be implemented to enhance productivity.
-
-Before filling out this form, please ensure that the information provided is accurate and relevant to your work habits and experiences. This form should not be filled out if you are not an employee of the organization.
-
-Please note that some questions are optional, and you are free to provide any information you feel is necessary or relevant.
-
-</thinking>
-
 # Digital Workplace Productivity Survey - Help Guide
 ## Purpose
 This form is designed to help management understand your workplace productivity and gather information about your collaboration habits, communication channels, and time spent on work and outside work. Your feedback will help improve the work environment and suggest recommendations for tools and methods to enhance productivity.

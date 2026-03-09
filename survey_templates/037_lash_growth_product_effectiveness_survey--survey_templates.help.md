@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect feedback from end-users about the effectiveness and usability of a lash growth product. This helps the product development team understand how well the product is working as intended and identify areas that need improvement.
-This form is not meant to be filled out by internal employees who are already familiar with the product's inner workings, so this guide is intended for external end-users who are not familiar with our product and its context.
-We're trying to avoid duplicate responses from the same user, so please do not fill out this form if you've already submitted feedback in the past.
-</thinking>
-
 # Lash Growth Product Effectiveness Survey - Help Guide
 ## Purpose
 The purpose of this form is to help us understand your experience with our lash growth product. Your feedback will help us identify areas where our product excels and areas where we can improve.

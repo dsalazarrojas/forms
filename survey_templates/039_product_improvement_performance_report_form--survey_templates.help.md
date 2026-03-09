@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and suggestions from customers to improve the performance and features of a product. This form is designed to collect data on the product's quality, ease of use, overall satisfaction, and areas for improvement. It is intended to help the product development team understand the customer's experience and preferences, enabling them to make informed decisions about future product developments.
-</thinking>
-
 # product_improvement_performance_report_form - Help Guide
 ## Purpose
 The product improvement performance report form is designed to collect feedback and suggestions from customers to enhance the performance and features of a product. Please answer the questions honestly, and provide detailed feedback to help us improve.

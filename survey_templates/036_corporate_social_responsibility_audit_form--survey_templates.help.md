@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Corporate Social Responsibility Audit Form - Help Guide**
 ## Purpose
 The Corporate Social Responsibility (CSR) Audit Form is designed to evaluate your company's commitment to social responsibility. This form helps you assess your company's progress in areas such as CSR initiatives, strategies, and stakeholder engagement. It's a tool for your company to reflect on its social and environmental impact and identify areas for improvement.

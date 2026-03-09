@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data about movie-watching habits and preferences after COVID-19. This form is designed to be filled out by users and provide information on how often they watch movies, their favorite movie genres, favorite movie titles, and their spending habits on movies.
-</thinking>
-
 # the_ifs_poll_post_covid_19_movie_going_trends - Help Guide
 ## Purpose
 The "the_ifs_poll_post_covid_19_movie_going_trends" form is a survey that gathers data on post-COVID-19 movie-watching trends and habits. It's designed to be completed by users who are willing to share their movie preferences and spending patterns.

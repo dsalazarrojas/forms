@@ -1,8 +1,3 @@
-<thinking> 
-**Internal Note:**
-This form is designed to gather additional notes or information from submitters, which will be reviewed and considered for inclusion in the existing project record. Submitters should use this form only once per submission. Please ensure that any previous submissions for the same project record are not duplicated.
-</thinking>
-
 # Additional Notes Submission Form - Help Guide
 
 ## Purpose

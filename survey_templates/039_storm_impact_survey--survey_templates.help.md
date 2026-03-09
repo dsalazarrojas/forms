@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information on the impact of a storm on a specific location or area. The form asks about the level of damage inflicted on infrastructure, homes, and the environment, allowing users to provide a detailed report of the storm's effects. This form is typically used to gather data for insurance purposes, disaster relief, or other related activities.
-
-This is not a survey about a specific storm, but a general survey about the impact of a storm. There is no requirement to fill out the form completely, as some of the fields are optional. Please ensure that you answer each question accurately and honestly to provide a clear report of the storm's impact.
-
-</thinking>
-
 # storm_impact_survey - Help Guide
 ## Purpose
 This form is used to collect information on the impact of a storm on a specific location or area.

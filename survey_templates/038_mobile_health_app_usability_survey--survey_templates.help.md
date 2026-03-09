@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the usability of a mobile health app from end-users. The goal is to understand their overall satisfaction with the app, identify any issues they have encountered, and gather suggestions for new features. This form will help the development team to improve the app's usability and provide a better user experience. Please ensure that you have used the app recently and are providing honest and accurate feedback. 
-</thinking>
-
 # Mobile Health App Usability Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the usability of a mobile health app from end-users. The goal is to understand their overall satisfaction with the app, identify any issues they have encountered, and gather suggestions for new features.

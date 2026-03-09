@@ -1,12 +1,3 @@
-<thinking>
-This help guide is for the "Subject Matter Survey" form. The purpose of this form is to collect information about a subject matter, including first name, email, subject, description, category, date of birth, time of last contact, note, phone number, and ratings. This form is used for various purposes, such as data collection and analysis. Before starting, please note that this form is not meant for sensitive or confidential information and is only for general inquiries.
-
-To ensure data accuracy, please double-check your entries. This form has multiple pages, and each page is labeled accordingly. Please follow the instructions to complete each page, and do not leave any blank fields if you are answering a question that has no answer.
-
-Each field on this form has a label and an optional hint to help explain what the field is for. For any unclear field labels, use your best judgment to provide the necessary information.
-
-</thinking>
-
 # Subject Matter Survey - Help Guide
 ## Purpose
 The Subject Matter Survey form is designed to collect information about a subject matter. This form is intended for general inquiries and data collection.

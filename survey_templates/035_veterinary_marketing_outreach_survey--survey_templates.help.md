@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from veterinary professionals and businesses about their marketing outreach efforts and experiences with our organization. It is intended to gather feedback and insights on the effectiveness of our marketing channels and the level of awareness among our target audience. The goal is to identify areas of improvement and adjust our marketing strategies accordingly.
-Please note that this form will be completed by veterinary professionals and businesses, including veterinarians, veterinary technicians, clinic staff, and animal health brands. We will use this information to better understand their needs and preferences in the marketing outreach landscape.
-It is recommended to fill out this form only once and not repeatedly to avoid duplication of effort and data. If you are completing this form on behalf of a veterinary clinic or business, please ensure that you are authorized to do so and that the information provided is accurate and up-to-date.
-</thinking>
-
 # Veterinary Marketing Outreach Survey - Help Guide
 ## Purpose
 This form is designed to gather information from veterinary professionals and businesses about their marketing outreach efforts and experiences with our organization.

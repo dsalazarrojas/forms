@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to be used for assessing opportunities, which could be any type of project, partnership, or investment. The purpose of this form is to gather information about the opportunity, including its category, location, description, date, time, and other relevant details. This form is meant to be completed by users who need to evaluate and assess these opportunities. 
-
-This form is likely used by team members or managers who need to assess the feasibility and potential of a particular opportunity. The form could be used in various contexts, such as in business planning, project management, or resource allocation.
-
-It's worth noting that some fields are not required, meaning that users can choose to complete them or leave them blank. However, filling out all the required fields will likely provide more accurate and complete information about the opportunity. 
-
-This form's fields are designed to be straightforward and easy to use. Each section is meant to provide specific information to help users assess the opportunity. 
-
-This form could be used in conjunction with other tools and processes to ensure that opportunities are thoroughly assessed and properly evaluated. 
-</thinking>
-
 # Opportunities Assessment Checklist - Help Guide
 ## Purpose
 The Opportunities Assessment Checklist is a form used to gather information about opportunities, including their category, location, description, and other relevant details.

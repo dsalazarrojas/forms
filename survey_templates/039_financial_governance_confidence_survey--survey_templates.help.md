@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a survey for assessing an organization's financial governance confidence. The purpose of this form is to measure the confidence level of users regarding the financial governance practices of the organization. This form is likely to be used by internal or external auditors to gauge the confidence level of the organization's financial governance, potentially to identify areas of improvement.
-</thinking>
-
 # Financial Governance Confidence Survey - Help Guide
 ## Purpose
 This form is a survey designed to assess the confidence level of users regarding the financial governance practices of your organization. Please answer this survey honestly to help identify areas of improvement.

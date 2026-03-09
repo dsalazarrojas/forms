@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions from users about their doorbell camera experience. The purpose of this form is to gather information about user satisfaction, preferences, and pain points related to their current doorbell camera. This data will help us to improve our product and better serve our customers.
-
-Before completing this form, please ensure that you have a clear understanding of the questions and your answers will be honest and accurate. 
-
-This form is meant to be completed by customers of doorbell cameras and should only be filled once per user. If you have already completed a survey or form related to doorbell cameras in the past, please do not submit this form.
-
-To complete this form, please answer each question to the best of your ability. If a question does not apply to your situation, please select "No answer" or "Not applicable". If you need help or clarification, please don't hesitate to contact us.
-
-Please ensure that you fill out all required fields, marked as "required" in the form.
-</thinking>
-
 # Doorbell Camera Product Comparison Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and opinions from users about their doorbell camera experience. The data collected will help us improve our product and better serve our customers.

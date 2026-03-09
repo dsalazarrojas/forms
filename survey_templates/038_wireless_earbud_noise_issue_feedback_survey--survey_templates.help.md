@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers who are experiencing issues with their wireless earbuds, specifically regarding noise-related problems. The goal is to gather information about the type of earbuds, the frequency and location of the issue, and any troubleshooting steps taken or recommended. This form will help the company understand the nature of the issue and identify potential areas for improvement.
-</thinking>
-
 # Wireless Earbud Noise Issue Feedback Survey - Help Guide
 
 ## Purpose

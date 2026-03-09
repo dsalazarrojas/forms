@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect feedback and ratings from users regarding a PDF document. This information will be used to improve the document's quality, accuracy, and overall user experience. To avoid duplicate submissions, please ensure that you have not filled out this form for the same document previously. Please only fill out this form if you have used the provided PDF document and have a genuine feedback or rating to share...</thinking>
-
 # pdf_document_feedback_form - Help Guide
 ## Purpose
 

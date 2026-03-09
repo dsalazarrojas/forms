@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information about users' online gaming habits, preferences, and experiences. The form is part of a larger survey aimed at understanding the demographics and behaviors of online gamers. It is essential to complete this form accurately to help the survey creators understand the gaming community better.
-
-To ensure that the form is filled out correctly, please make sure to answer all the questions honestly and thoroughly. If you have any doubts or concerns about any question, please feel free to ask for clarification.
-
-Before proceeding, please note that the form is not intended to be completed multiple times. Each response is a unique instance of the survey, and any duplicate responses will not be considered valid.
-
-</thinking>
-
 # online_gaming_platform_overview - Help Guide
 ## Purpose
 This form is designed to gather information about users' online gaming habits, preferences, and experiences. The form is part of a larger survey aimed at understanding the demographics and behaviors of online gamers.

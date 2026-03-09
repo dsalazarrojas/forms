@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the engagement levels of a company's social media presence. The goal is to gauge how the social media platforms are being utilized and identify areas for improvement.
-</thinking>
-
 # Social Media Engagement Questionnaire - Help Guide
 ## Purpose
 This form aims to help you gather insights into your company's social media presence and engagement levels. It asks about your usage of various social media platforms, the frequency of your engagement, and the types of content you post.

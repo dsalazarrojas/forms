@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be part of a workflow or process evaluation management system, likely used to track the start and stop dates of various evaluation processes. The "evaluation_process" field seems to be a critical component, where users select which process to evaluate, implying that different processes may have distinct characteristics or requirements. The "evaluation_program" field allows users to select multiple programs related to the process, suggesting a hierarchical or categorization system. The "decision_to_continue" and "evaluation_reason" fields indicate that users must decide whether to continue or halt the evaluation process and provide a reason for their decision, respectively. The "evaluation_comments" field provides a space for users to include any additional comments or notes about the evaluation process.
-
-</thinking>
-
 # Start And Stop Evaluation Form - Help Guide
 ## Purpose
 This form is used to record the start and stop dates of evaluation processes, allowing users to track and manage their progress.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the effectiveness of an online exam platform, gathering user feedback and ratings on various aspects of the platform's usability, reliability, overall experience, and more. Before filling out this form, please ensure that you have used the online exam platform and have some familiarity with its features and functionalities. This form is meant to be filled out once for each user, and your feedback will help us understand user experiences and improve the platform accordingly.
-</thinking>
-
 # online_exam_platform_evaluation_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect user feedback on various aspects of the online exam platform, including usability, reliability, overall experience, and more. Your input will help us understand user experiences and improve the platform.

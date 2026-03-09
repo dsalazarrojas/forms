@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be filling out the "Reading Interest Survey" form, which is used to gather information about an individual's reading habits and preferences. Before proceeding, it's essential to ensure that you have not already taken this survey, as it may not be necessary to repeat the process. This form is designed to be completed by one person at a time. Please confirm that you have not filled this form previously and that you are ready to provide honest and accurate answers.
-
-</thinking>
-
 # Reading Interest Survey - Help Guide
 
 ## Purpose

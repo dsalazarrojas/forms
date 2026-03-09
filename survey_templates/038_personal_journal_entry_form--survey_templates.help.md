@@ -1,9 +1,3 @@
-<thinking>As a form expert, I'll assume the form is designed to collect personal journal entries from users, likely for tracking their thoughts, experiences, and reflections. Before creating the help guide, I need to clarify a few things. 
-
-The form includes a mix of text, date, time, and multiple-choice fields. It seems to be a survey or questionnaire-style form, but I'm assuming it's for journaling purposes. The fields like "Date-Time", "Time Spent", "Difficulties", "Tags", and "Attachments" suggest that the form might be used for tracking work or school activities, personal projects, or even social media activities. However, I'll focus on creating a user-friendly guide that covers the basic requirements of the form, assuming it's for personal journaling.
-
-</thinking>
-
 # Personal Journal Entry Form - Help Guide
 
 ## Purpose

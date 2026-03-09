@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback and evaluation from corporate volunteers. The purpose of this form is to collect information about the volunteer's experience with the corporate volunteer program. This form is not intended for employees to evaluate their own performance, but rather for corporate volunteers to provide feedback on the program's effectiveness, quality, and areas for improvement. Please complete this form only if you are a corporate volunteer. If you are an employee evaluating your own performance, please use the separate evaluation form designed for that purpose.
-</thinking>
-
 # corporate_volunteer_program_feedback_evaluation_form - Help Guide
 ## Purpose
 This form is designed to gather feedback and evaluation from corporate volunteers about their experience with the corporate volunteer program.

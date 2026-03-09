@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-facing help guide that clearly explains the purpose and functionality of the Digital Product Prototype Assessment Form. This form is designed to collect feedback and assessments on digital product prototypes, helping stakeholders to gauge their overall satisfaction and provide actionable insights for improvement.</thinking>
-
 # Digital Product Prototype Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and assessments on digital product prototypes. It helps stakeholders to gauge the overall satisfaction and identify areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the impact of poverty awareness education sessions. It aims to evaluate the quality of sessions, the attendees' knowledge gains, behavior intentions, and attendance numbers. The form's purpose is to collect data on the effectiveness of these sessions, which can help inform future improvements and resource allocation. This form is used to collect data from session facilitators, educators, or other stakeholders involved in the session.
-</thinking>
-
 # Poverty Awareness Education Impact Survey - Help Guide
 ## Purpose
 This form is designed to assess the impact of poverty awareness education sessions. It aims to evaluate the quality of sessions, the attendees' knowledge gains, behavior intentions, and attendance numbers. The form's purpose is to collect data on the effectiveness of these sessions, which can help inform future improvements and resource allocation.

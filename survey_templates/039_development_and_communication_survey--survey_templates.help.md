@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be completed by team members to gather information about their preferences and habits related to collaboration, communication, and feedback within the team. This information will help management identify areas of improvement and provide better support for team members. This form should not be completed by team leads or managers. If you are a team lead or manager, please direct the team member to the appropriate person in the organization who should fill out this form.
-</thinking>
-
 # Development And Communication Survey - Help Guide
 
 ## Purpose

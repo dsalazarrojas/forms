@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information from employees about their experiences and feedback on the seasonal weather conditions, extreme weather support, and other relevant topics. This form aims to gather insights that can be used to improve employee well-being and safety during extreme weather events. It is essential to ensure that this form is used for its intended purpose and not for other tasks. Please fill out the form accurately and completely to provide valuable information.</thinking>
-
 # Seasonal Weather Employee Survey - Help Guide
 ## Purpose
 The Seasonal Weather Employee Survey is a form designed to collect information about seasonal weather conditions and employee feedback on how they handled it. By filling out this form, you will be providing valuable insights that can help us improve our responses to extreme weather events and better support our employees during these situations.

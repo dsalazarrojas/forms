@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their experience with the support team. The purpose of this form is to collect data that can help us improve our support services and provide better experiences for our customers. Please note that this form is for feedback purposes only and will not affect any ongoing or future support cases.
-</thinking>
-
 # support_customer_feedback_survey - Help Guide
 ## Purpose
 This form is used to gather feedback from customers about their experience with the support team.

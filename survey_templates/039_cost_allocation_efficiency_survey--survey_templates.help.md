@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about the current cost allocation processes and challenges faced by a department, as well as their performance and any additional comments or suggestions for improvement. The goal is to identify areas where cost allocation efficiency can be optimized. This form is intended to be completed by department members and should not be filled out by non-departmental members. 
-
-</thinking>
-
 # Cost Allocation Efficiency Survey - Help Guide
 ## Purpose
 

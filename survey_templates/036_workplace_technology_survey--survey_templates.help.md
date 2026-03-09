@@ -1,12 +1,3 @@
-<thinking>
-This help guide will help end-users complete the "Workplace Technology Survey" form, a crucial tool for understanding employee perspectives on the company's technology and tools. The purpose of this form is to gather feedback and suggestions from employees on various aspects of the company's technology, including its usability, accessibility, and overall satisfaction. This feedback will be used to identify areas of improvement and inform decisions on technology investments and development.
-
-Before starting the survey, please ensure that you have not already completed it. If you have, your responses will not be recorded.
-
-This guide will walk you through each page of the survey, explaining each field and how to complete it.
-
-</thinking>
-
 # Workplace Technology Survey - Help Guide
 ## Purpose
 The Workplace Technology Survey is designed to gather your opinions and experiences with the company's technology and tools. Your feedback is crucial in helping us understand what works well and what doesn't, allowing us to make informed decisions on technology investments and development.

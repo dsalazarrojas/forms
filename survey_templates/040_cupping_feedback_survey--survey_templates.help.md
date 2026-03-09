@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Cupping Feedback Survey is to gather client feedback on the quality of service provided. This feedback is crucial for us to understand our performance and identify areas for improvement. This form is meant to be completed by clients who have recently interacted with us. Please ensure you've actually interacted with us before proceeding.
-</thinking>
-
 # Cupping Feedback Survey - Help Guide
 ## Purpose
 The Cupping Feedback Survey is designed to collect feedback from clients on the quality of service provided by our team. This helps us understand your experience and identify areas for improvement.

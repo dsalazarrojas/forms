@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Post Event Innovation Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from attendees and participants on the recently concluded event. It aims to understand your opinions on the event's organizer, content, organization, and overall experience. Your input will help improve future events and provide valuable insights for the event planners.

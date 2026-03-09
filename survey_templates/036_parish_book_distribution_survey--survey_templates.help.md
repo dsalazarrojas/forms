@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Parish Book Distribution Survey" form is to gather information about the distribution status and related details of parish books. This form is designed to be completed by users to report the distribution status of parish books and provide any relevant feedback or comments. It's essential to complete this form accurately to ensure that the data collected is useful for further analysis and decision-making.
-</thinking>
-
 # Parish Book Distribution Survey - Help Guide
 ## Purpose
 This form is used to track the distribution status of parish books and collect relevant information about each book.

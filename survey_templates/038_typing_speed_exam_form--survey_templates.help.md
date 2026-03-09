@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for the "Typing Speed Exam Form" that explains its purpose, how to complete it, and what each field means. The form's purpose is to evaluate a user's typing speed and accuracy. The form has multiple fields with various types (text, number, select_one, select_multiple, date, email, and text), but most of them seem to be related to accuracy requirements or time limits. We will need to review each field to ensure it's correctly explained.
-</thinking>
-
 # Typing Speed Exam Form - Help Guide
 ## Purpose
 The "Typing Speed Exam Form" is used to evaluate a user's typing speed and accuracy. This form is designed to assess your typing skills in a timed environment.

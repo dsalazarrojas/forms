@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be a template for users to document their research findings, conclusions, and actionable recommendations. It appears to be a comprehensive form that covers various aspects of research, including the research objective, methodology, conclusions, recommendations, and action steps. It's likely used by researchers, students, or professionals to record and report their research results.
-
-Before proceeding, please ensure that you have a clear understanding of the research findings and have identified actionable recommendations that stem from them. Additionally, be aware that some fields are optional, but the required fields should be completed thoroughly to ensure the form is comprehensive and informative.
-
-To avoid duplication, please review the form carefully before filling it out, and ensure that you are not duplicating any previously submitted forms.
-</thinking>
-
 # Research Conclusion And Recommendations Form - Help Guide
 ## Purpose
 This form is designed to document the findings, conclusions, and recommendations from research studies. It is a comprehensive template for researchers, students, or professionals to report their results and suggest actionable steps.

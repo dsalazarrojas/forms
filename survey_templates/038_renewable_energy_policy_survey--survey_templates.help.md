@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals regarding their opinions on renewable energy policies. This form is likely used in a research or academic context to gather data on people's perceptions and attitudes towards renewable energy. The form is not meant for commercial use and is intended for internal use only within the organization or institution administering the survey.
-The form is designed to be completed by one individual at a time, and it is expected that most, if not all, of the fields are populated when the form is completed. If a field is found to be redundant or not applicable, the user might not need to complete it.
-</thinking>
- 
 # Renewable Energy Policy Survey - Help Guide
 ## Purpose
 The Renewable Energy Policy Survey is a form designed to collect opinions and perceptions from individuals on renewable energy policies. It is used to gather data in a research or academic context.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Key Profit Areas Identification Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Biotech Treatment Trial Participant Feedback - Help Guide
 ## Purpose
 

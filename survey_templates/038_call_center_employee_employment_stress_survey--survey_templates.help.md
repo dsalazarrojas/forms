@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on the employment stress and satisfaction of call center employees. It aims to gauge their experiences, challenges, and suggestions for reducing stress. This form is not affiliated with any form platform and is an original adaptation of the provided metadata. It is intended for use as-is, but users are free to modify and use it for their purposes, with proper credit given.
-</thinking>
-
 # Call Center Employee Employment Stress Survey - Help Guide
 ## Purpose
 The Call Center Employee Employment Stress Survey is designed to measure the well-being and job satisfaction of call center employees. It collects information on various aspects of their work experience, including workload, management support, and main stressors.

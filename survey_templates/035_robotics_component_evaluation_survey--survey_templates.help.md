@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Robotics Component Evaluation Survey - Help Guide
 
 ## Purpose

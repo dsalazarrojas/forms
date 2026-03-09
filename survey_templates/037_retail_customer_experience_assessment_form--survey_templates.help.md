@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Customer Experience Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers on their retail experience. The data collected will help our team understand customer satisfaction and identify areas for improvement.

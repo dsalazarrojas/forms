@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect data on a user's preferences and habits related to mobile therapy, specifically regarding their acceptance and usage of mobile devices. This form will help us understand how users perceive and interact with mobile devices and how they would like to see them evolve in the future.
-
-Before completing this form, please note that it's designed to be a general assessment of your mobile therapy habits and not a comprehensive diagnostic tool. The questions are meant to be thought-provoking and encourage you to reflect on your experiences and attitudes towards mobile devices. Please answer truthfully and provide as much detail as you can.
-
-Also, please make sure to fill out the form only once. If you've already completed it, your responses will be saved and it's not necessary to repeat the process. This way, we can avoid duplication and ensure accurate data collection.
-</thinking>
-
 # mobile_therapy_acceptance_survey - Help Guide
 ## Purpose
 This form is designed to collect data on your mobile therapy preferences and habits, helping us understand your experiences and attitudes towards mobile devices.

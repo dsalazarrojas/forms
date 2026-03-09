@@ -1,5 +1,3 @@
-<thinking>Here is the internal reasoning behind this form: This form is designed for customers to provide feedback on their website management experience. It is intended to be filled out by customers who want to share their thoughts on the performance and usability of our website. The form is not intended for general customer support or technical issues, but rather to collect feedback on the overall user experience. It is not a duplicate of the support form, as this form is specifically focused on the website's performance and features. It is not intended for general customer contact, as the contact information is optional.</thinking>
-
 # Website Management Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on the website's performance and usability. It is intended for customers who want to share their thoughts on their experience with our website.

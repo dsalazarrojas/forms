@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect standardized information about workplace exposure incidents, ensuring that employees are properly trained and equipped to report such incidents and take the necessary steps to prevent future occurrences. Before filling out this form, please ensure you are not already reporting the same incident using this form. Please select the correct options for each field to provide clear and accurate information.
-
-</thinking>
-
 # Agent Exposure Survey - Help Guide
 ## Purpose
 

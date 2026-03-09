@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to evaluate the search results of a search engine or a search algorithm, specifically in the context of assessing their relevance and overall user experience. The form aims to collect information on how well the search results meet the user's expectations and needs, and what factors contribute to their relevance and satisfaction. This form is intended to ensure that the search engine or algorithm produces results that are not only relevant but also clear, concise, and satisfying for the user. 
-
-When completing this form, please provide your honest and objective feedback to help us improve the search engine or algorithm. Please answer each question based on your most recent interaction with the search engine or algorithm. If you're unsure or have no preference, select "Not at All Important" or a corresponding scale value.
-
-</thinking>
-
 # Search Relevance Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to evaluate the search results of a search engine or a search algorithm, specifically in the context of assessing their relevance and overall user experience.

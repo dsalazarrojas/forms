@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to assess various aspects of employee satisfaction and happiness in the workplace, gathering information about individual employees' experiences with their departments, job titles, happiness levels, and engagement. The form asks questions in different categories to get a comprehensive understanding of the workplace dynamics. It's essential to answer this form to help management identify areas for improvement and optimize employee well-being. Please fill out the form honestly, and remember that all responses are confidential and anonymous. If you have any questions or concerns, feel free to contact your HR department or department managers. 
-
-</thinking>
-
 # workplace_happiness_survey - Help Guide
 
 ## Purpose

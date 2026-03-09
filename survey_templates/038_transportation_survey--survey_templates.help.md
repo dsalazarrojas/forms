@@ -1,13 +1,3 @@
-<thinking>Transportation Survey
-
-This guide will walk you through the Transportation Survey form, which is designed to collect information about your commuting habits and preferences.
-
-This form is not intended to be a comprehensive or scientific survey, but rather a simple tool to gather general feedback and insights about transportation modes and frequencies. Please answer these questions honestly, and don't worry about providing sensitive or confidential information. This survey is not intended for official use, so your responses will be kept anonymous.
-
-Before starting, please note that this survey is not a duplicate of any other internal or external survey, and your answers will only be used to improve the understanding of commuting habits and preferences.
-
-</thinking>
-
 # Transportation Survey - Help Guide
 ## Purpose
 The Transportation Survey is designed to collect information about your commuting habits and preferences. This survey will help us understand how people commute, what modes of transportation they prefer, and how frequently they use public transportation.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Referee Of The Year Voting - Help Guide
 
 ## Purpose

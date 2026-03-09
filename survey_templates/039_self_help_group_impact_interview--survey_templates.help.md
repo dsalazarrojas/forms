@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Self Help Group Impact Interview - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants in a self-help group, evaluating their overall experience and satisfaction with the group. The purpose of this form is to measure the effectiveness of the self-help group, identify areas of improvement, and provide valuable insights for future development.

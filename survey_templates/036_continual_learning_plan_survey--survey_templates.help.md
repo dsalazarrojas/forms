@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to gather information from employees about their continual learning plan, which is a crucial aspect of their professional development and growth within the organization. The form will help the employee identify their current skills gaps, preferred learning methods, and logistical needs to create a plan for their growth and development. It will also ensure that the employee's goals are aligned with the company's goals and that the necessary resources are available to support their learning journey.
-
-The form has 14 fields that cover various aspects of the employee's learning plan, including their employee profile, skills and development, learning methods, career goals, logistics, and resources. Each field has a specific label, type, and required status to ensure that the employee provides the necessary information.
-
-Before completing the form, please ensure that you have reviewed the purpose and objectives of the form, as it will help you understand the context and relevance of the questions. Additionally, please be aware that the form has been designed to minimize duplication of questions, and some answers will be used to inform subsequent questions, so it is essential to provide accurate and complete information.
-
-If you have any doubts or concerns while completing the form, please contact your HR representative or manager for clarification.
-
-</thinking>
-
 # Continual Learning Plan Survey - Help Guide
 ## Purpose
 The purpose of this form is to help employees create a personalized learning plan that aligns with their career goals and objectives. The information collected through this form will be used to identify areas where the employee needs to develop new skills and provide recommendations on training and resources.

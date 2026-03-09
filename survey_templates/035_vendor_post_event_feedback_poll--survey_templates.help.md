@@ -1,13 +1,3 @@
-<thinking>
-
-We're creating a form for collecting feedback from users after a vendor event. This form is designed to gauge the success and areas of improvement of the event, ensuring we provide the best experience for our vendors in the future.
-
-This form will likely be used by users who have attended a vendor event, and it's essential that they understand what the form is for and what we're trying to achieve with it. We want to encourage users to fill out the form completely and honestly, so we'll make sure to clarify each question and provide helpful hints where needed.
-
-We'll be using this form to collect data on various aspects of the event, including overall satisfaction, satisfaction levels, and areas of improvement. This data will help us refine our event process and improve our relationships with vendors.
-
-</thinking>
-
 # Vendor Post Event Feedback Poll - Help Guide
 ## Purpose
 This form is designed to collect feedback from users after a vendor event. It's used to gauge overall satisfaction, identify areas of improvement, and plan follow-up actions with the vendor.

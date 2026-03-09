@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "Pickled Vegetable Export Survey" form. This guide will provide a clear explanation of the form's purpose, how to complete it, and a field-by-field explanation of each field, making it easy for end-users to understand and fill out the form accurately.</thinking>
-
 # Pickled Vegetable Export Survey - Help Guide
 ## Purpose
 

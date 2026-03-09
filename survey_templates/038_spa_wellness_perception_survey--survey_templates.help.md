@@ -1,10 +1,3 @@
-<thinking>
-# The purpose of this form is to collect user feedback on their spa experience, specifically in regards to wellness services. This form is intended to gauge the user's perception of the relaxation area, staff friendliness, and overall satisfaction with the service quality.
-
-Before filling out this form, please ensure that you have completed this form for the same purpose and topic in the past to avoid duplication.
-
-</thinking>
-
 # spa_wellness_perception_survey - Help Guide
 ## Purpose
 The Spa Wellness Perception Survey is designed to collect feedback on the user's experience at the spa, focusing on their perception of the relaxation area, staff friendliness, and overall satisfaction with the service quality.

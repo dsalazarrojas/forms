@@ -1,17 +1,3 @@
-<thinking>
-The purpose of this form is to help organizations assess and improve their sustainability initiatives. This form is designed to gather information about the type, duration, budget, and impact of sustainability initiatives, as well as other relevant details such as greenhouse gas emissions, water conservation, and transportation modes. This data will be used to provide insights and recommendations for improving the organization's sustainability performance.
-
-To avoid duplication of initiatives and ensure that the form is filled out thoroughly and accurately, please note that:
-
-* If the initiative is still in its early stages (less than 6 months), please focus on providing information about its goals, targets, and expected outcomes.
-* If the initiative is longer-term (more than 5 years), please provide more detailed information about its progress, impact, and lessons learned.
-* If the initiative is related to a specific area (e.g., energy efficiency), please provide more information about its implementation, budget, and expected impact.
-* If the initiative involves the use of a specific type of renewable energy (e.g., solar, wind, hydro), please select all applicable options.
-* If the initiative involves the use of a specific mode of transportation (e.g., bike, bus, drive), please select all applicable options.
-
-Please fill out the form carefully and thoroughly, and be as specific as possible when providing information about your initiative.
-</thinking>
-
 # Sustainability Initiatives Implementation Assessment - Help Guide
 ## Purpose
 This form is designed to help organizations assess and improve their sustainability initiatives. It gathers information about the type, duration, budget, and impact of sustainability initiatives, as well as other relevant details.

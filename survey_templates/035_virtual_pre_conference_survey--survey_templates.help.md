@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Pre Conference Survey - Help Guide
 
 ## Purpose

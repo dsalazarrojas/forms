@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the academic peer feedback culture within an institution. It is designed to collect data on various aspects of feedback, including the frequency of peer feedback, the perceived openness and constructiveness of feedback, barriers to feedback, and individual preferences for feedback training and anonymity. This form is intended to help institutions understand their own strengths and weaknesses regarding peer feedback and identify areas for improvement.
-
-This form is not intended to be a diagnostic tool for evaluating individual students or faculty members. Instead, it is meant to provide a general snapshot of the culture of peer feedback within the institution as a whole.
-
-When completing this form, please ensure that you are responding to the questions as they relate to your own experiences and observations within the institution. If you have any concerns or questions about the form, please do not hesitate to reach out to the relevant authorities.
-
-Please note that some fields in this form are optional, and your responses will be kept confidential. The information collected through this form will be used to identify trends and areas for improvement within the institution.
-
-If you are unsure about any of the fields or have any further questions, please feel free to ask.</thinking>
-
 # Academic Peer Feedback Culture Survey - Help Guide
 ## Purpose
 The Academic Peer Feedback Culture Survey is designed to gather information about the culture of peer feedback within an institution. It will help the institution identify its strengths and weaknesses regarding peer feedback and provide insights for improvement.

@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for evaluating workload balance across multiple teams. It appears to be designed for teams with a large number of members, possibly in a distributed or hierarchical structure. The form is likely used to collect quantitative data on team size, possibly to inform staffing or resource allocation decisions. I'm inferring this based on the numerous "Team X" fields, which seem to be intended to capture information about each team.
-
-The form is also quite extensive, spanning 24 fields, which might suggest that the survey is trying to collect data on a broad scope. Given the lack of hints or other supplementary information, I'm guessing that the form might be used for general, high-level data collection rather than in-depth or qualitative analysis.
-
-To avoid duplication and ensure relevance, we should confirm that the form's purpose and intended use case align with the organization's goals and objectives. Perhaps we can also consider adding a brief section at the beginning of the form to clarify the form's purpose and expected outcomes.
-
-For now, let's proceed with the assumption that the form is meant for evaluating workload balance across teams.
-
-</thinking>
-
 # Workload Balance Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to evaluate the balance of workloads across multiple teams, collecting quantitative data on team size to inform staffing or resource allocation decisions.

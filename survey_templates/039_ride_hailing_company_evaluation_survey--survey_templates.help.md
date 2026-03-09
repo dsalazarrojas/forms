@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide that explains the purpose and completion of the form, as well as each field in a clear and concise manner. This guide will be based on the provided YAML form structure and will be written in Markdown format.</thinking>
-
 # ride-hailing-company-evaluation-survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with our ride-hailing service. Your input will help us improve our service and better meet your needs.

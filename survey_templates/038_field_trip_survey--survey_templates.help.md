@@ -1,7 +1,3 @@
-<thinking>
-This form is a "Field Trip Survey" designed to gather information from students about their field trip experiences. It appears to be a simple survey with three main fields: intro, trip_details, and student_name. The form is likely used to collect feedback or reflections from students after a field trip, and its design suggests that it's a straightforward and user-friendly tool. I'll assume that the form is intended for students to provide their thoughts and experiences about a field trip, and that the "trip_details" field is a space for them to elaborate on their trip experiences.
-</thinking>
-
 # Field Trip Survey - Help Guide
 ## Purpose
 This form is a simple survey designed to collect feedback from students about their field trip experiences.

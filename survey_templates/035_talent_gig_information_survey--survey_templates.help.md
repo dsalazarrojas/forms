@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about talent gigs, which are essentially events or performances where artists or performers showcase their skills. To ensure that this form is relevant and not duplicated in the system, it's essential to understand that talent gigs are events that are not part of a recurring schedule, hence the "Event Date" and "Event Time" fields are not necessarily related to a specific recurring event. The form collects information about one-time or occasional events, and the details provided will be used to create a unique entry in the system.
-</thinking>
-
 # Talent Gig Information Survey - Help Guide
 ## Purpose
 The Talent Gig Information Survey form is designed to collect data about one-time or occasional events where artists or performers showcase their skills. It's used to gather details about the event, including the event date, duration, location, type, and contact information.

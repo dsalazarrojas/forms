@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for assessing and understanding stress relief exercises. It is intended for employees, team members, or individuals to provide information about their current stress levels, habits, and needs. The primary goal of this survey is to help users identify their personal stress levels and potential areas for improvement. By completing this form, users will be providing valuable input for their workplace or organization to better understand the needs of its members. This form should only be used within the context of a workplace or organization and is not intended for personal, non-professional use.
-</thinking>
-
 # Stress Relief Exercises Survey - Help Guide
 
 ## Purpose

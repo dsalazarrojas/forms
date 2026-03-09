@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Food Resource SWOT Analysis - Help Guide
 ## Purpose
 The Food Resource SWOT (Strengths, Weaknesses, Opportunities, Threats) Analysis form is designed to help you gather information about a food resource. This form will help you identify key attributes of the food resource, providing a comprehensive overview for decision-making or further analysis purposes.

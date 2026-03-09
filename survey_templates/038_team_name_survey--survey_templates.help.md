@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Name Survey - Help Guide
 ## Purpose
 

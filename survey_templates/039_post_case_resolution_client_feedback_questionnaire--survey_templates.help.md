@@ -1,8 +1,3 @@
-<thinking> 
-This guide is meant to help end-users understand the purpose and functionality of the "Post Case Resolution Client Feedback Questionnaire" form. The form is designed to gather feedback from clients about the resolution of a case, providing valuable information for continuous service improvement. The form should be filled out only once a case has been formally closed by the client. Please ensure that the form is submitted only by the authorized personnel, and not by external parties. 
-
-</thinking>
-
 # Post Case Resolution Client Feedback Questionnaire - Help Guide
 ## Purpose
 The Post Case Resolution Client Feedback Questionnaire form is designed to gather feedback from clients regarding the resolution of a case. This feedback is vital in identifying areas for service improvement, ensuring that the organization's services meet the clients' expectations and needs. 

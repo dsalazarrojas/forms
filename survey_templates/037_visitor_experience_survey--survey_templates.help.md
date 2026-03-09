@@ -1,9 +1,3 @@
-<thinking>... 
-
-We're creating this form to gather feedback from website visitors on their overall experience. This will help us identify areas of improvement and make data-driven decisions to enhance our website's quality. Please ensure that you only fill out this form if you've recently visited the website and can provide genuine feedback. If you're completing this survey for the first time, we'll ask you to review the questions carefully and answer as honestly as possible. If you've already filled out this survey, please don't complete it again as we're trying to avoid duplicating feedback.
-
-</thinking>
-
 # Visitor Experience Survey - Help Guide
 
 ## Purpose

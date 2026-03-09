@@ -1,11 +1,4 @@
-> <thinking>
-This form is intended to gauge interest in using a "Nap Pod" for its users. The form will collect information on users' preferred times for using a Nap Pod, locations, and reasons for interest. Users will be able to select multiple options for their preferred time of day, how often they want to use a Nap Pod, and why they want to use it. Additionally, users will be able to provide any other comments or feedback they may have. This form will help us understand the user's preferences and needs in regards to the Nap Pod.
-
-To avoid duplication of answers, please make sure to only fill out this form once.
-
-</thinking>
-
-# Nap Pod Usage Interest Survey - Help Guide
+> # Nap Pod Usage Interest Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your interest in using a Nap Pod. It will help us understand your preferences and needs for using the Nap Pod.
 

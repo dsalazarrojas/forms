@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this "Graduate Career Readiness Assessment" form is to evaluate the readiness of graduates for career advancement. By filling out this form, you will help us better understand your career goals, current job status, and any support needs. Please fill out all required fields to ensure accurate results. You should only fill this form if you are a graduate looking to assess your career readiness. If you have filled this form before, please note that some data may overlap or be updated, but it is not a duplication of previous efforts.
-</thinking>
-
 # Graduate Career Readiness Assessment - Help Guide
 ## Purpose
 The "Graduate Career Readiness Assessment" is a tool designed to assess your readiness for career advancement. It helps us understand your current career goals, job search status, and any support needs you may have.

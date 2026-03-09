@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help team members provide their preferences for shift handoffs, which are the process of transitioning tasks and responsibilities from one team member to another. It aims to identify individual preferences for team size, handoff frequency, type, communication channels, and other related aspects. This form is intended for internal use, and its completion is not mandatory. It will help managers and team leads to better understand individual preferences and improve handoff efficiency.
-</thinking>
-
 # Shift Handoff Preferences Survey - Help Guide
 ## Purpose
 This form is designed to gather information on your shift handoff preferences, including team size, handoff frequency, type, and communication channels. Your responses will help managers and team leads understand your individual preferences and improve shift handoff efficiency.

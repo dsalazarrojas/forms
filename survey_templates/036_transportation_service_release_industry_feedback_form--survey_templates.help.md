@@ -1,14 +1,3 @@
-<thinking>
-The form purpose is to collect feedback from service partners about the transport service they used. This feedback will help us improve the service. The form has several sections with different fields to gather information about the partner's experience. Before submitting the form, please review each field to ensure it's accurate and complete. Some fields may have options or hints to guide you. If you're unsure about a field, you can always ask your partner or contact us for clarification.
-
-This form is for internal use only, so please only answer the questions that apply to your experience with our transport service. Do not fill in any information that does not pertain to your experience.
-
-We will use the information collected to improve our service. We'll do our best to keep your feedback confidential. However, if we need to contact you for more information, we'll use the contact information you provide.
-
-Please be honest and thorough in your responses. Your feedback is valuable to us.
-
-</thinking>
-
 # Transport Service Release Industry Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from partners about their experience with our transport service. We will use this feedback to improve and refine our service to better meet your needs.

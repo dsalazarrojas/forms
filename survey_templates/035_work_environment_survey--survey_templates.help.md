@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data on the work environment, team dynamics, and personal satisfaction of employees. It is likely used by HR or management to understand employee sentiment, identify areas for improvement, and inform decisions on policies and initiatives. Before proceeding, check if you have completed this survey before. If you have, please do not re-complete it. This form is intended for employees, not managers or administrators. Please answer honestly, and provide accurate and truthful information.
-</thinking>
-
 # work_environment_survey - Help Guide
 
 ## Purpose

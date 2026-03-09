@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Currency Exchange Rate Preferences - Help Guide
 ## Purpose
 The Daily Currency Exchange Rate Preferences form is designed to collect user's preferences for currency exchange rates updates. It allows users to select the currencies they are interested in, the frequency at which they want to receive updates, and the method they prefer to receive these updates.

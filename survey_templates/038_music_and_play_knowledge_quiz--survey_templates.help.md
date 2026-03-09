@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user feedback and insights on music and play knowledge. It seems to be a survey-style form designed to gauge users' familiarity with various aspects of music, including knowledge, instruments, genres, and event-related concepts. Before proceeding, please ensure that you have a genuine interest in music and are not duplicating your responses, as this form is meant to gather unique and informative responses. 
-</thinking>
-
 # Music And Play Knowledge Quiz - Help Guide
 
 ## Purpose

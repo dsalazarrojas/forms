@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from students on learning materials, such as textbooks, online resources, or other educational assets. This feedback will help instructors or course administrators identify areas of improvement and make necessary changes to enhance the learning experience.
-To ensure accurate and relevant feedback, please only fill out this form once per learning material.
-</thinking>
-
 # Student Feedback On Learning Materials Evaluation Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to compare the geographical sizes of various regions. This quiz is meant to be completed by users who have knowledge of geographical sizes and can select the correct regions from a list of options. This form is not meant for users who are completely new to geography or have a hard time selecting between similar options. This form has 24 fields, each representing a different region, and the user is required to select up to 2 regions for each field. The form is divided into 4 pages, and each page has 6 fields.
-</thinking>
-
 # Geographical Size Comparison Quiz - Help Guide
 ## Purpose
 The Geographical Size Comparison Quiz is a quiz designed to test your knowledge of geographical regions. It has 24 fields, each representing a different region, and you are required to select up to 2 regions for each field.

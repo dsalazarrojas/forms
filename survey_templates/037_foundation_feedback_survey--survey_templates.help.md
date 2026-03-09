@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback from users about their experience with the Foundation program. This form aims to collect information about their level of participation, satisfaction with the program, and any suggestions or comments they may have. It's essential to ensure that the collected feedback is specific, concrete, and relevant to the program's goals and objectives.
-
-To avoid duplication of feedback, ensure that each submission is unique and distinct from previous ones. If a user has already completed the form, do not allow them to submit again until a sufficient amount of time has passed since their previous submission.
-
-</thinking>
-
 # Foundation Feedback Survey - Help Guide
 ## Purpose
 

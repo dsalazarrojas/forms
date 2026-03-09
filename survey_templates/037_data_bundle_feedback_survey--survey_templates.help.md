@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and information from customers regarding data bundles. The purpose of this form is to gather data on whether a data bundle was successfully delivered, if the customer is satisfied with the service, and any additional feedback or concerns they may have. This information will be used to evaluate the performance of our data delivery services and make improvements as needed. Please ensure that you are submitting this form for the correct purpose and that you have not already submitted feedback on this data bundle before.
-</thinking>
-
 # data_bundle_feedback_survey - Help Guide
 ## Purpose
 The data_bundle_feedback_survey form is used to collect feedback and information from customers regarding data bundles.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from parents on their child's extracurricular activities. The feedback will help the school understand how well the activities are meeting their expectations and identify areas for improvement. To avoid duplication, please only respond to this survey if your child is currently participating in an extracurricular activity at the school.
-
-</thinking>
-
 # School Extracurricular Activities Parent Feedback Survey - Help Guide
 ## Purpose
 This form is used to collect feedback from parents about their child's extracurricular activities at the school. Your input will help us understand the effectiveness of our programs and services.

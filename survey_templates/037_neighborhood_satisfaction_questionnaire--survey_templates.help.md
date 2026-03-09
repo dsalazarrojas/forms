@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to measure neighborhood satisfaction from residents' perspectives, aiming to gather insights into various aspects of community life, such as resident satisfaction, community leadership, and communication. This form will help to identify areas of strength and weakness within the neighborhood, allowing for informed decisions to be made for improvement. Please note that some fields may be optional, but completing this form will provide a comprehensive understanding of the neighborhood's overall performance. Please review the form carefully to ensure accuracy and completeness in your responses.
-</thinking>
-
 # Neighborhood Satisfaction Questionnaire - Help Guide
 ## Purpose
 This form is designed to measure neighborhood satisfaction from residents' perspectives, aiming to gather insights into various aspects of community life.

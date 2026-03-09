@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assess the comfort level of clients with various aspects of a makeup service. It is intended to gauge the client's skill level, confidence, and interests, as well as their preferences for service planning, product recommendations, content planning, class scheduling, client feedback, survey completion, tool usage, email preferences, contact preferences, client communication, and communication frequency. This form is likely used by a business or organization offering makeup services to gather information about their clients and tailor their offerings accordingly.
-
-This form does not collect any sensitive information, and the responses are likely anonymous. The data collected will be used to improve the service offerings and overall client experience.
-
-Please note that this form is AI-generated and has no affiliation with any form creation platform. You are free to use, modify, or sell it, just give credit.
-</thinking>
-
 # Makeup Technique Comfort Level Survey - Help Guide
 
 ## Purpose

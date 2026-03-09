@@ -1,10 +1,3 @@
-<thinking>
-We will create a help guide for the "Technology Integration Needs Survey" form. This form is designed to gather information from users about their technology integration needs. It will help us understand how different teams and departments within the organization are utilizing various technologies and identify areas for improvement. The form will be composed of multiple sections, each focusing on a specific aspect of technology integration. We will ensure that each field is clearly explained, and the required fields are marked as such. This guide will help users understand the purpose and functionality of each field in the form.
-
-Before proceeding, please note that this form does not store any personally identifiable information (PII), and all answers will be treated as anonymous. This form is intended to be completed by individuals with varying levels of technical expertise, so feel free to ask if you have any questions or need clarification.
-
-To avoid duplication, please ensure that you complete this form only once. If you need to re-take the survey, please contact us so we can assist you with any changes or updates.</thinking>
-
 # Technology Integration Needs Survey - Help Guide
 ## Purpose
 

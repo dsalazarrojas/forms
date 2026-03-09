@@ -1,17 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Skin Tone Finder Quiz" form, we'll first need to understand its purpose and structure. This form is designed to guide users through a series of questions to help them find their skin tone type.
-
-The form has five pages:
-1. Introduction (Page 1)
-2. Undertone Questions (Page 2)
-3. Undertone Answers (Page 3)
-4. Skin Tone Recommendations (Page 4)
-5. Quiz Result (Page 5)
-
-The form is not strictly sequential, as some pages are optional and don't have a required field. Users may skip pages or jump between them as needed. Given this structure, the help guide should be clear, concise, and easy to follow.
-
-</thinking>
-
 # Skin Tone Finder Quiz - Help Guide
 ## Purpose
 The Skin Tone Finder Quiz is designed to help users discover their skin tone type by guiding them through a series of questions and providing recommendations based on their answers.

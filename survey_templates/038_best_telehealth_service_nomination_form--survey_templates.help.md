@@ -1,14 +1,3 @@
-<thinking>
-To prevent duplication, please note that this form is for the "Best Telehealth Service Nomination Form" and should only be filled out once per service. This form is designed to collect information on a telehealth service that you believe deserves recognition. Please ensure you're not nominating a service you've already nominated previously. If you're unsure, feel free to contact [your organization's contact information].
-
-This form is used to provide a comprehensive evaluation of a telehealth service, covering various aspects, including the service's profile, features, and impact on access to healthcare. Your input will help identify exceptional services that deserve recognition. Please take the time to thoroughly review each section and provide detailed answers to help us better understand your nomination.
-
-Before starting, ensure you have all necessary information about the service you're nominating, as you'll be asked about their website or app link, types of care provided, primary delivery platform, and other specific details.
-
-If you're not familiar with the service or need help with any section, don't hesitate to contact [your organization's contact information]. Your input is invaluable in identifying top-notch telehealth services.
-
-</thinking>
-
 # Best Telehealth Service Nomination Form - Help Guide
 ## Purpose
 This form is designed to collect information on a telehealth service that you believe deserves recognition. Your input helps identify exceptional services that have a positive impact on access to healthcare.

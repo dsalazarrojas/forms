@@ -1,9 +1,3 @@
-<thinking>Before creating this help guide, I considered the purpose of this form: the "Album Of The Year Voting Form" is designed to collect votes for an annual music award, where users can choose their favorite albums in different categories, such as "Album of the Year," "Best Debut Album," "Best Produced Album," and "Breakthrough Artist of the Year." The form ensures that each user can only vote once per year, preventing duplicate voting. The form collects user demographics, including email address, location, primary music genre interest, and other preferences.
-
-The form has multiple pages, including a registration section where users provide their voter information, a section where they select their favorite album for each category, and a section for honorable mentions. Each page explains its purpose and how to complete it. The help guide aims to guide users through the form fields, providing clear explanations for each field.
-
-After reviewing the form structure and purpose, I'm ready to output the help guide in Markdown format.</thinking>
-
 # Album Of The Year Voting Form - Help Guide
 ## Purpose
 The "Album Of The Year Voting Form" is an annual music award voting system that allows users to choose their favorite albums in different categories. This guide will walk you through the form fields and help you complete it successfully.

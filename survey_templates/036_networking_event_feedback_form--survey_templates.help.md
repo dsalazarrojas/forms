@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback from attendees of networking events. The purpose of the form is to allow attendees to provide their thoughts on how the event was, what they thought of the content, and what they would like to see improved in future events. This form is designed to be completed by event attendees, and the information collected will be used to refine and improve future events.
-</thinking>
-
 # Networking Event Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from attendees of networking events. This feedback will be used to improve future events and provide a better experience for attendees.

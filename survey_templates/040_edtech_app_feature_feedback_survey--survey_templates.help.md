@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users on the features of an EdTech app. The form is designed to gather information on how users feel about the app's features, their satisfaction levels, and any improvements they suggest. This form is intended to help the developers and product team understand user perceptions, which can be used to make informed decisions about feature development and improvement.
-
-The form is divided into several sections, each focusing on a specific aspect of the app. The sections are: Feature Feedback, Satisfaction Comparison, Feature Satisfaction, Improvements, User Comments, Email, Phone, and Feature Feedback Frequency. Each section is designed to collect specific information that can help us better understand the user experience.
-
-Before starting this form, ensure that you have reviewed the provided information and are ready to provide honest and constructive feedback. Please note that the fields marked as "required" are mandatory and must be filled out.
-
-</thinking>
-
 # EdTech App Feature Feedback Survey - Help Guide
 ## Purpose
 The EdTech App Feature Feedback Survey is a tool for users to share their thoughts, opinions, and suggestions about the features of the EdTech app.

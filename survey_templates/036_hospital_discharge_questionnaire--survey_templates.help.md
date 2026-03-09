@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospital Discharge Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's discharge from a hospital. It is intended to gather feedback and provide an opportunity for patients to rate their experience and care during their stay.

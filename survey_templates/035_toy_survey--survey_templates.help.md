@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the "survey_templates" category, which suggests that it is a template for gathering information from users. Upon reviewing the form's structure, it appears to be a simple survey with five pages. The first page is a "main page" with no specific instructions, the second page is for "contact information" which likely includes fields such as name, email, and phone number. The third page is for selecting "favorite colors" which is a multiple-choice question with three options. The fourth page is for "age" which is a numerical field. The fifth page is a "comments" section where users can provide any additional information. The form is not required, but it's likely used to gather feedback or opinions from users.
-</thinking>
-
 # toy survey - Help Guide
 ## Purpose
 This form is a simple survey template used to gather feedback or opinions from users. It is not required to complete it.

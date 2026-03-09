@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and performance scores on employees or team members. This form is used to identify individuals who have demonstrated exceptional performance in various categories and provide them with recognition. The form is typically completed by managers or supervisors to nominate team members who have shown outstanding abilities in areas such as performance, potential, teamwork, leadership, innovation, communication, adaptability, problem-solving, initiative, and more.
-
-Before filling out this form, please ensure that you are not duplicating efforts. It's essential to review previous nominations and feedback to avoid nominating the same person twice. This form is meant to be used for recognizing outstanding performance and promoting employee recognition, not for duplicate recognition or undeserved praise.
-
-Please note that this form is not intended for self-nomination. Nominations should be made by managers or supervisors who have direct experience with the nominee's work.
-
-</thinking>
-
 # Monthly Performance Nomination Survey - Help Guide
 ## Purpose
 The Monthly Performance Nomination Survey is a tool used to identify and recognize team members who have demonstrated exceptional performance in various categories.

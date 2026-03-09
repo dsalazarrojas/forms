@@ -1,11 +1,3 @@
-<thinking>
-The "Online Class Format Opinion Survey" form is used to gather feedback from users on their experience with online classes. This form is designed to collect opinions on various aspects of online learning, including the quality of the virtual learning format, challenges faced, and any recommendations for improvement.
-
-Before starting this form, ensure you are completing it for the first time and for an online class that you have experience with. If you have already completed this form for the same online class, your submission will be discarded to avoid duplication.
-
-To ensure accurate and useful data collection, please complete the form as thoroughly and honestly as possible.
-</thinking>
-
 # Online Class Format Opinion Survey - Help Guide
 ## Purpose
 This form is used to gather feedback on online classes offered by schools.

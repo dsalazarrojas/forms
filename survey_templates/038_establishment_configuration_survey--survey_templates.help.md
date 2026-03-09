@@ -1,12 +1,3 @@
-<thinking>
-This form is part of an AI-generated form collection and was created based on the public metadata of survey topics. The purpose of this form is to collect information about an establishment's location, operating hours, service requirements, and contact details. The form is designed to be completed by establishments to provide information that will be used for administrative purposes.
-
-Before proceeding, please ensure that you are completing this form for the correct establishment and that the information provided is accurate and up-to-date. If you are unsure about any of the questions or have already completed this form for the same establishment, please do not proceed. Instead, contact the relevant authorities or the form creators for clarification.
-
-This form has four pages, and each page is designed to collect specific information about the establishment. Please read each page carefully and complete all required fields to ensure accurate submission.
-
-</thinking>
-
 # Establishment Configuration Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your establishment's location, operating hours, service requirements, and contact details.

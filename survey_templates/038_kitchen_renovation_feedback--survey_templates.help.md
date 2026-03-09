@@ -1,7 +1,3 @@
-<thinking>
-This form will be used to collect feedback and information from clients regarding their recent kitchen renovation experience. The form will help us to evaluate the satisfaction of our clients and identify areas for improvement in our renovation services. To avoid duplication, please do not complete this form if you have already provided feedback in the past.
-</thinking>
-
 # Kitchen Renovation Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from clients regarding their recent kitchen renovation experience. It will help us evaluate client satisfaction and identify areas for improvement in our services.

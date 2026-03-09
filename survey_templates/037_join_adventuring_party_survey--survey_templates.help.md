@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to join an adventuring party. The purpose of this form is to gather relevant details about the user, such as their experience, preferences, and role within the party, to ensure a smooth and enjoyable adventuring experience.
-To avoid duplication of effort and ensure that the user provides accurate information, the form should only be filled out once per user. If a user has already filled out this form, they will be directed to a confirmation page or an error message.
-The form will be used to gather data for party creation, and the information provided will be used to tailor the adventure experience to the user's preferences.
-</thinking>
-
 # Join Adventuring Party Survey - Help Guide
 ## Purpose
 This form is used to gather information from users who want to join an adventuring party. It will help us to tailor the adventure experience to their preferences and ensure a smooth and enjoyable experience.

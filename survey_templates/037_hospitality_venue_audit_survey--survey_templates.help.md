@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect data on the hospitality industry by surveying users about their experience with a particular venue, which could be a hotel, restaurant, event space, etc. This form aims to gather feedback on various aspects of the venue, such as cleanliness, safety, and staff, to help the venue identify areas for improvement and provide better service to its customers.
-
-Before answering this form, please ensure that the feedback provided is based on a specific visit to a single venue. This form should not be used for duplicate submissions or to rate multiple venues.
-
-Please complete this form thoroughly and accurately to provide valuable insights to the venue.</thinking>
-
 # Hospitality Venue Audit Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers on their experience with a hospitality venue, helping the venue identify areas for improvement and provide better service to its customers.

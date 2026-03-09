@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information about a homeowner's property, including property details, contact information, and submission details. The goal is to gather accurate and complete data to facilitate property management and communication. To ensure accuracy, please review each field carefully and complete the form in a step-by-step manner. If you have any questions or concerns, please refer to this help guide for clarification.
-
-</thinking>
-
 # Homeowner Property Survey Questionnaire - Help Guide
 ## Purpose
 The Homeowner Property Survey Questionnaire is a form designed to collect essential information about a homeowner's property. It will be used to gather accurate and complete data for property management and communication purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers on their experience with a specific retail skincare product. The form will help the company understand customer satisfaction, product performance, and sales channels. It will also allow customers to provide recommendations and feedback on the product. The purpose of this form is to gather valuable insights to improve the product and enhance the customer experience. This form will not ask for sensitive information and is intended to be completed by customers who have purchased the product. It is a simple and straightforward form that will take only a few minutes to complete.
-</thinking>
-
 # Retail Skincare Product Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers on their experience with a specific retail skincare product. This will help the company understand customer satisfaction, product performance, and sales channels.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a Coronavirus Awareness Survey, designed to gauge the level of concern people have about the Coronavirus, their personal experiences with symptoms, and the preventive measures they take. This survey is meant to be a self-assessment tool, and responses will help inform public health initiatives. To complete this survey, users will be guided through a series of questions with different answer types. To avoid duplication, please ensure you have not already taken this survey before. If you're unsure about any question or its relevance, feel free to ask your administrator or support team for clarification.
-</thinking>
-
 # Coronavirus Awareness Survey - Help Guide
 ## Purpose
 This guide explains how to complete the Coronavirus Awareness Survey. Please read it carefully before proceeding.

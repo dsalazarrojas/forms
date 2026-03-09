@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fragrance Recommendation Quiz - Help Guide
 
 ## Purpose

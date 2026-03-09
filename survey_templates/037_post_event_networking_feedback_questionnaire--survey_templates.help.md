@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect feedback from event attendees about the post-event networking experience. The form is likely to be used by event planners to gauge the effectiveness of their event planning and networking strategies. The questions cover various aspects of the event, including whether the attendee was the event planner, if they attended the event, the quality of networking opportunities, their feedback score, and their rating of the event and its planner. 
-The form is designed to be relatively short and straightforward, with most questions being single or multiple-choice options. Some questions also allow for free-text answers, providing more detailed feedback. 
-This guide assumes that the form is being used to gather feedback for a specific event, so please fill in the relevant information accordingly. 
-The event planner's identity is likely not a critical factor in answering most questions, but if it was you, please answer as honestly as possible. 
-
-Please note that this form is intended to be a general guide and not a substitute for specific business logic or rules that may apply to your organization. If you're unsure about any question or its relevance, it's always best to ask your administrator or event planner for clarification.
-</thinking>
-
 # Post Event Networking Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from event attendees about their post-event networking experience. The feedback gathered will help event planners improve their event planning and networking strategies.

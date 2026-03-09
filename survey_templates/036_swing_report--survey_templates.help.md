@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive survey form with various fields to collect feedback or information from users. Each field seems to have a mix of select multiple, select one, date, time, note, email, phone, text, integer, and decimal fields. The form does not appear to have any duplicate fields, and the options seem to be limited to Yes/No or other standard options. Given the variety of fields, it's likely that this form is used for general data collection or feedback purposes. I will now create a user-facing help guide based on the provided YAML fields.
-</thinking>
-
 # Swing Report - Help Guide
 ## Purpose
 This form is designed to collect information or feedback from users. It consists of multiple fields that cater to different types of input, such as select, date, time, note, email, phone, text, integer, and decimal fields.

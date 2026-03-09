@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the "inclusive_wellness_program_feedback_survey" form, which is used to gather feedback from participants about their experience in the wellness program. To ensure that you are taking the correct action, please only proceed if this form applies to your situation. This form is used to collect data about the program's effectiveness, areas of improvement, and suggestions for future development. It is intended for program participants who have completed the program and are providing feedback.
-</thinking>
-
 # inclusive_wellness_program_feedback_survey - Help Guide
 ## Purpose
 

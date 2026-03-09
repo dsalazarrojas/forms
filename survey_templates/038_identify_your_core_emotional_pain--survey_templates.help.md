@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help identify the core areas of emotional pain that individuals may be experiencing. The form is used to gather information about the emotional pain areas, intensity, frequency, duration, and support systems that individuals may be experiencing. The form is not meant to be a comprehensive diagnosis or treatment plan, but rather a tool to gain a better understanding of the individual's emotional state. By completing this form, individuals can help identify areas where they may need support and guidance.
-
-</thinking>
-
 # identify_your_core_emotional_pain - Help Guide
 ## Purpose
 This form is designed to help individuals identify their core emotional pain areas and gather information to better understand their emotional state.

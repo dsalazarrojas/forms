@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information about the dishwasher installation site, aiming to capture essential details about the user, the site, the dishwasher, and the installation specifics. This form is likely used to collect necessary information for a professional service provider, perhaps a survey for a dishwasher installation team to prepare for the project.
-
-This form's content is not affiliated with any specific form platforms, and it's an original creation based on public metadata. It is released under Creative Commons BY 4.0, allowing for modifications and even commercial use as long as the origin is credited. 
-
-Please refer to the form's description for more information on usage and permissions.
-
-</thinking>
-
 # Dishwasher Installation Site Survey - Help Guide
 ## Purpose
 This form is used to collect information about the dishwasher installation site, which will be used to prepare for the project.

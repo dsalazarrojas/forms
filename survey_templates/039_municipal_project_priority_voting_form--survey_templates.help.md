@@ -1,14 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Municipal Project Priority Voting Form" to facilitate understanding and completion of this form by end users. This guide aims to be concrete, concise, and practical. The form's purpose is to gather information about municipal projects, and the guide will cover the form's purpose, how to complete it, and an explanation of each field.
-
-The form is designed to collect information on project details, contact information, and project status. It has 8 fields, including text and select fields, and some fields are optional while others are required.
-
-The fields are organized into a single page for simplicity and ease of completion.
-
-We will be checking to ensure that the user understands the form's purpose and that they are eligible to complete the form. This will prevent duplicate or non-relevant submissions.
-
-</thinking>
-
 # Municipal Project Priority Voting Form - Help Guide
 ## Purpose
 This form is designed for municipal projects to prioritize their needs and requests. You will be asked to submit a brief description of the primary issue you want to address, along with your project's name, description, and other relevant details such as contact information and project status. Your input will help us prioritize and allocate resources efficiently.

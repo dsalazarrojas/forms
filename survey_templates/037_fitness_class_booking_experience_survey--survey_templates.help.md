@@ -1,10 +1,3 @@
-<thinking>
-Is this form for gathering feedback from fitness class attendees? The purpose of the form is to collect information about their experience with the class, instructors, and facilities. This form is likely used by fitness studios or gyms to evaluate their services. To ensure that this form is relevant and not duplicated, we should consider the following questions:
-- Is the target audience already familiar with the fitness class and its offerings?
-- Are there any similar forms or surveys that cover similar topics?
-- Is the form designed to collect feedback on specific aspects of the fitness class, such as instructors, facilities, and overall experience?
-</thinking>
-
 # Fitness Class Booking Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from fitness class attendees on their experience with the class, instructors, and facilities. The goal is to help the fitness studio or gym evaluate their services and make improvements.

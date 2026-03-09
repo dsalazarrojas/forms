@@ -1,7 +1,3 @@
-<thinking>
-**This form is intended to collect visitor feedback and ratings for tourist attractions. It should be filled out by visitors who have recently visited a specific tourist attraction. The form will be used by attraction managers and staff to improve services and experiences offered by the attraction. Please ensure that this form is only filled out once per visit, as duplicate submissions may cause unnecessary data duplication.**
-</thinking>
-
 # Tourist Attraction Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect visitor feedback and ratings for tourist attractions. It's essential to provide honest and constructive feedback to help attraction managers and staff improve the services and experiences offered.

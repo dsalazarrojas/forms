@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect characteristics of marine organisms, likely for scientific research or observation purposes. The form is likely used to collect data on the physical characteristics of marine organisms, such as their habitat, species, size, and location. This form will help users provide detailed information about the marine organisms they have observed or collected.
-</thinking>
-
 # Marine Organisms Characteristics Survey - Help Guide
 ## Purpose
 This form is used to collect data on marine organisms, including their habitat, species, size, and location. The information collected will help in understanding and analyzing the characteristics of marine organisms.

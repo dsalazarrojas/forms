@@ -1,7 +1,3 @@
-<thinking>
-To provide the best possible guidance for this form, let me first understand the purpose and context of the QR Code Generation Form. The form appears to be a collection of fields for capturing user information, likely for a survey or data collection purpose. I will review the form's purpose and structure, ensuring I can create a clear and concise help guide for end-users.
-</thinking>
-
 # QR Code Generation Form - Help Guide
 ## Purpose
 The QR Code Generation Form is designed to collect user information for a survey or data collection purpose. This form is used to generate QR codes with unique data for various purposes.

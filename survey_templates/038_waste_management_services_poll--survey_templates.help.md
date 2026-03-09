@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Waste Management Services Poll - Help Guide
 ## Purpose
 This form is used to gather feedback from customers on the quality of our waste management services. The feedback will help us identify areas for improvement and ensure we provide the best possible service to our customers.

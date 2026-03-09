@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-friendly help guide for the Sexual Awareness Survey form. This guide will explain the form's purpose, how to complete it, and what each field means. I will carefully review the input schema to ensure I cover all relevant fields and provide clear explanations.</thinking>
-
 # Sexual Awareness Survey - Help Guide
 
 ## Purpose

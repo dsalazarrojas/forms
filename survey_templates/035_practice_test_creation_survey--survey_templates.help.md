@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the purpose of this form. This form is designed for educators, tutors, and training teams to share insights and experiences related to practice test creation. It will help us understand their habits, challenges, and preferences when creating practice tests. This information will aid us in developing more effective tools and resources for the practice test creation process. This form is not meant for students or anyone who is not directly involved in the creation and administration of practice tests. Please ensure that you're completing this form as the intended target user. If you're unsure, you can always check with your supervisor or the relevant team.</thinking>
-
 # Practice Test Creation Survey - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Preclinical Data Management Survey - Help Guide
 
 ## Purpose

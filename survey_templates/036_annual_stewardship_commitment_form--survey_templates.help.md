@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure that I provide an accurate and helpful user guide, let's break down the form's purpose and relevance:
-
-The Annual Stewardship Commitment Form is designed to gather information from supporters about their annual commitment to our organization. This form aims to understand the level of support, frequency of engagement, and areas of interest for our organization's programs and initiatives. The form is essential for our organization to understand the needs and preferences of our supporters and tailor our communication and stewardship efforts accordingly.
-
-We want to ensure that this form does not duplicate or contradict any existing information, so let's double-check our current database and communication channels for any overlapping data.
-
-</thinking>
-
 # Annual Stewardship Commitment Form - Help Guide
 ## Purpose
 The Annual Stewardship Commitment Form is designed to help our organization understand your annual support and engagement with our programs and initiatives. This form will help us tailor our communication and stewardship efforts to best meet your needs and interests.

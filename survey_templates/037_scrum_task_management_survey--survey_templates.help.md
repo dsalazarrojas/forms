@@ -1,10 +1,3 @@
-<thinking>
-To ensure the Scrum Task Management Survey form is used correctly and effectively, we need to consider its purpose and how it will be utilized within the team or organization. This form is designed to gather information on team performance, team lead, and other relevant factors. It is crucial to understand that this form is meant to be a tool for improvement, not for evaluation or judgment.
-
-Before proceeding, please check that you are not already aware of the team's performance metrics and that this survey is not redundant with existing reporting mechanisms.
-
-</thinking>
-
 # Scrum Task Management Survey - Help Guide
 ## Purpose
 The Scrum Task Management Survey is a tool designed to gather information on team performance, team lead, and other relevant factors. Its purpose is to aid teams in improving their processes and workflows.

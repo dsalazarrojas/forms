@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Molecules And Compounds Survey - Help Guide
 
 ## Purpose

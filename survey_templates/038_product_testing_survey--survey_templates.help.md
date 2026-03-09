@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect product testing feedback from customers. It appears to be used for evaluating the usability and overall satisfaction of a product. The form collects various types of information such as product rating, feedback questions, and product information, including description, image, and URL. The form also allows for product recommendation questions, minimalist design preferences, and color scheme preferences. The fields include text input fields for general product information, product ratings, and feedback questions, as well as select options for product recommendation and design preferences.</thinking>
-
 # product_testing_survey - Help Guide
 ## Purpose
 This form is designed to collect product testing feedback from customers, helping us to evaluate the usability and overall satisfaction of a product.

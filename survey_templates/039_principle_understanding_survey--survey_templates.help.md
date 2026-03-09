@@ -1,5 +1,3 @@
-<thinking>...This form is intended to help teams assess their understanding of a principle, its implementation, and its impact on their work. This form should only be filled out once per principle, to avoid duplication of effort. Please ensure you have a clear understanding of the principle before filling out this form. This form is part of a larger survey process to help teams evaluate and improve their understanding of various principles...</thinking>
-
 # Principle Understanding Survey - Help Guide
 ## Purpose
 The Principle Understanding Survey is a form designed to help teams assess their understanding of a specific principle and its implementation. It's meant to gather information on how well the team is aware of the principle, the training needed to grasp it, and the principle's impact on the team and other teams.

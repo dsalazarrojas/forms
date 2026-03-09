@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an employee's onboarding process, specifically their uniform size and any special requirements they may have. This information will likely be used by the onboarding team or management to ensure that the employee receives the correct uniform and any necessary equipment or accommodations. To avoid duplication of effort, it's essential to ensure that each employee only completes one Onboarding Uniform Size Survey form, which will help streamline the onboarding process and reduce errors.
-
-The form is divided into several sections, each with its own set of questions or fields. Below is a guide to help users navigate and complete this form effectively.</thinking>
-
 # Onboarding Uniform Size Survey - Help Guide
 ## Purpose
 The Onboarding Uniform Size Survey is a form designed to collect information about an employee's onboarding process, specifically their uniform size and any special requirements they may have. This information is used to ensure that the employee receives the correct uniform and any necessary equipment or accommodations.

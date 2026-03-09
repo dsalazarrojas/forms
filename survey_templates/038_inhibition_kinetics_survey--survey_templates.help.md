@@ -1,5 +1,3 @@
-<thinking>...This form is intended for collecting information about inhibition kinetics experiments. The purpose of this form is to gather data from researchers regarding their experiments, including the enzyme name, concentration, inhibitor concentration, reaction time, inhibitor type, experimental method, experimental setup, kinetic data, notes, email, phone number, researcher name, institution, department, research group, research topic, survey date, and submitted by. This form helps to standardize the collection of data and provides a structured format for researchers to input their information...</thinking>
-
 # Inhibition Kinetics Survey - Help Guide
 ## Purpose
 The Inhibition Kinetics Survey form is designed to collect information from researchers about inhibition kinetics experiments. This form helps to gather data from experiments conducted by researchers in the field of inhibition kinetics.

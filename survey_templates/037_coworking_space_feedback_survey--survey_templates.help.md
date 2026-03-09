@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback and suggestions from coworkers about the coworking space. This feedback can help us improve our services and make it more suitable to our customers' needs. Please complete this form carefully and honestly to help us provide better experiences. Please note that all fields are optional unless otherwise noted, and please only fill out the fields that are relevant to your experience.
-
-</thinking>
-
 # Coworking Space Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback and suggestions from coworkers about our space. Your input will help us improve our services and make it more suitable to our customers' needs.

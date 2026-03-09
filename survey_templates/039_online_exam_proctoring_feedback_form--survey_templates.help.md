@@ -1,15 +1,3 @@
-<thinking>
-
-This form is intended to collect feedback from exam proctors, providing them with a chance to share their experiences and opinions on their proctoring process. This will help us understand their perspectives and make informed decisions for future improvements. Please note that all fields are optional, but submitting this form will help us gather valuable insights.
-
-The form is designed to be completed by exam proctors, and it's essential to understand that this feedback is not meant to be a criticism but rather an opportunity for growth and improvement.
-
-To avoid duplication or confusion, please ensure that each field is completed truthfully and accurately, providing us with the necessary information to make data-driven decisions.
-
-Please ensure that you complete all the relevant fields, especially those marked as required, to provide comprehensive feedback.
-
-</thinking>
-
 # Online Exam Proctoring Feedback Form - Help Guide
 ## Purpose
 

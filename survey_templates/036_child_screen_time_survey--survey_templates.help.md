@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from parents or caregivers about their child's screen time habits, including their child's age, screen usage patterns, types of screens used, and how screen time affects the child's behavior. The ultimate goal is to create a comprehensive understanding of the child's screen habits and their potential impact on the child's development and well-being.
-
-The form will help us understand the child's daily screen time, the types of screens they use, and how they use them, as well as how screen time affects their behavior and any potential concerns or observations from the parent or caregiver.
-
-This form should only be completed once per child. If you're not sure about the child's screen habits or the child is not applicable, please provide an explanation. If you've already completed a survey for this child, please do not complete this form again.
-
-</thinking>
-
 # Child Screen Time Survey - Help Guide
 ## Purpose
 The Child Screen Time Survey aims to gather information about your child's screen time habits, including their age, screen usage patterns, types of screens used, and how screen time affects their behavior.

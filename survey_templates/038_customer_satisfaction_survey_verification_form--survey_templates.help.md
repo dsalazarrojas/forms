@@ -1,15 +1,3 @@
-<thinking>
-To determine the purpose and relevance of this form, let's analyze the field structure and options.
-
-The form is titled "Customer Satisfaction Survey Verification Form" which suggests that it is used to gauge customer satisfaction with a service or product. The fields include questions about customer feedback, service quality, and improvement plans, which supports this assumption.
-
-However, upon closer inspection, the form seems to be more focused on verification than surveying. The "customer_survey_response" fields (6, 7, and 8) and "customer_service_quality_2" and "customer_service_quality_3" fields (9 and 10) appear to be free-text areas for customers to provide additional feedback or comments. This suggests that the form is actually a verification form for customer feedback, rather than a survey in the classical sense.
-
-Given this analysis, the form is likely used to verify that customers have received and responded to a survey or questionnaire, and to gather any additional comments or feedback they may have.
-
-The form does not appear to have any fields that would indicate duplication, so it's likely that each form is a new instance.
-</thinking>
-
 # Customer Satisfaction Survey Verification Form - Help Guide
 ## Purpose
 This form is used to verify that customers have received and responded to a satisfaction survey or questionnaire. It allows customers to provide additional comments or feedback about their experience and helps the organization to gauge the effectiveness of the survey process.

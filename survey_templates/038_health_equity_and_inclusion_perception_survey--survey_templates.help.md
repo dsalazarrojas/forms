@@ -1,7 +1,3 @@
-<thinking>
-This is an automatically generated form using AI, not affiliated with, endorsed by, or derived from any form platform. The form is an original adaptation of the "health equity and inclusion perception survey" topic, with a CC BY 4.0 license allowing free use, modification, and even commercial use with proper credit.
-</thinking>
-
 # health_equity_and_inclusion_perception_survey - Help Guide
 ## Purpose
 

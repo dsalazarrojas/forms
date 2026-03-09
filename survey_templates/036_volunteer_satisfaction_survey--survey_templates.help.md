@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and information from volunteers about their experience working on projects. It's essential to understand their satisfaction, preferences, and availability to provide better support and opportunities for future projects. This information will help the project team to identify areas of improvement and tailor future projects to better suit the volunteers' needs.
-It's also crucial to ensure that the data collected is accurate and relevant, so please carefully review each field to understand what it's intended for.
-
-This guide will walk you through the process of completing the form, explaining each field in a clear and concise way.
-
-</thinking>
-
 # Volunteer Satisfaction Survey - Help Guide
 
 ## Purpose

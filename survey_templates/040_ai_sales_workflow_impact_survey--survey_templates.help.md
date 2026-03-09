@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather data on the impact of AI on sales workflows. It collects information on respondent details, AI tool usage, and the effects of AI on various aspects of sales processes. The form is intended for sales professionals and aims to understand their experiences and perceptions of AI adoption in the sales industry.
-</thinking>
-
 # AI Sales Workflow Impact Survey - Help Guide
 ## Purpose
 The AI Sales Workflow Impact Survey is a tool designed to gather insights from sales professionals on the impact of AI on their sales workflows. This survey aims to understand how AI affects different aspects of sales processes, including lead qualification, forecasting accuracy, manual data entry time, sales cycle length, customer interaction quality, and more.

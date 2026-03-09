@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vehicle Idling Assessment Form - Help Guide
 ## Purpose
 The Vehicle Idling Assessment Form is designed to gather information about vehicle idling habits. This form is used to collect data on how often and for how long vehicles are left idling. This information is crucial for optimizing fuel consumption and reducing emissions. Please ensure that the form is filled out correctly to provide accurate data.

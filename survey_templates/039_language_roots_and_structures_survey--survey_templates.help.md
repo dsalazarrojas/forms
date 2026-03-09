@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a survey template for collecting information on language roots and structures. It consists of 25 text input fields, each with a unique name and label. However, the labels for these fields are quite generic and do not provide any clear indication of what information is being collected or how it will be used.
-</thinking>
-
 # Language Roots And Structures Survey - Help Guide
 ## Purpose
 This survey is designed to collect information on language roots and structures. It is intended to gather data on various aspects of language, including language origins, syntax, and other structural elements.

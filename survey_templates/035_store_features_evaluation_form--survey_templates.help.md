@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Store Features Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help users evaluate the features of a store. It contains questions to assess the store's hours, location, ambiance, product, service, price, cleanliness, layout, parking, and security features. The form will help users to provide an unbiased opinion on how well a store meets their expectations.

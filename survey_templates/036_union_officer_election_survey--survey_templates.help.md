@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for collecting feedback from union members on the union officer election process. The purpose of this form is to gather opinions on the fairness, satisfaction, and overall quality of the election process. The form includes a mix of multiple-choice and open-ended questions to collect quantitative and qualitative feedback. The form does not appear to require completion, suggesting that it is an optional or exploratory exercise.
-</thinking>
-
 # Union Officer Election Survey - Help Guide
 ## Purpose
 

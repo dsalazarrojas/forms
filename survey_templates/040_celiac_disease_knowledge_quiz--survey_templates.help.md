@@ -1,6 +1,3 @@
-<thinking>... internal reasoning block to ensure form purpose and non-duplication checks ...
-</thinking>
-
 # Celiac Disease Knowledge Quiz - Help Guide
 ## Purpose
 

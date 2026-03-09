@@ -1,11 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Heavy Vehicle Rescue Course Feedback" form. This form is designed to gather feedback from course participants on their experience with the heavy vehicle rescue course. The form is likely used by training administrators to evaluate the effectiveness of the course and identify areas for improvement.
-
-To ensure that this form does not overlap with existing documentation, we will focus on explaining the form's purpose, how to complete it, and a field-by-field explanation of each field. 
-
-This form is not part of a critical process with time-sensitive deadlines, so the tone can be informal and friendly.
-</thinking>
-
 # Heavy Vehicle Rescue Course Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from course participants on their experience with the Heavy Vehicle Rescue Course. It will help training administrators evaluate the course's effectiveness and identify areas for improvement.

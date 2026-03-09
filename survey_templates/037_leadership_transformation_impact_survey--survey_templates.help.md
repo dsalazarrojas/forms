@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback and information from participants in leadership transformation training programs. The purpose of this survey is to gauge the impact of these programs on leadership development, communication, and project management skills. The survey aims to understand the frequency, focus, and goals of these training programs, as well as the participants' perception of their impact on performance, engagement, and job satisfaction. 
-
-This form is not intended to be completed multiple times by the same participant. Each participant should fill out the form once per training session or program. 
-
-Please ensure that you are filling out this form for the correct training session. If you're not sure, please check with your supervisor or trainer before proceeding.
-</thinking>
-
 # Leadership Transformation Impact Survey - Help Guide
 ## Purpose
 The Leadership Transformation Impact Survey is a tool to collect feedback and information from participants in leadership transformation training programs. The survey helps us understand the effectiveness of these programs in enhancing leadership skills, communication, and project management.

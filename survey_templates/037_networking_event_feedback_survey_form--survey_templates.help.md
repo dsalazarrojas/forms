@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from attendees of a networking event. The form is designed to gather information on the event name, attendee name, contact email, event feedback, rating, comments, and if the attendee attended or not.
-</thinking>
-
 # Networking Event Feedback Survey Form - Help Guide
 ## Purpose
 This form is used to collect feedback from attendees of a networking event. It helps us understand the attendees' experiences and improve future events.

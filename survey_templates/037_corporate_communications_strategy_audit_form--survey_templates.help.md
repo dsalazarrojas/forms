@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help organizations evaluate and improve their corporate communications strategy. By providing a clear and structured framework, it guides the completion of a thorough audit of the corporate communications strategy, which is essential for identifying areas of improvement and making informed decisions. Before starting, please ensure that you are not duplicating efforts and that this form is not a replacement for existing similar processes. If you have already completed a corporate communications strategy audit, please do not fill out this form. If you are unsure, please reach out to your supervisor or manager for guidance.
-</thinking>
-
 # Corporate Communications Strategy Audit Form - Help Guide
 ## Purpose
 The Corporate Communications Strategy Audit Form is designed to help organizations evaluate and improve their corporate communications strategy. This form provides a structured and systematic approach to identifying areas of improvement and making informed decisions.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for assessing the maturity of a software or business process (SOP). It's likely intended for team members or management to evaluate the current state of their review process. The form is composed of several fields that cover different aspects of the review process, such as cadence, communication, adherence rates, feedback mechanisms, training programs, and documentation. The form might be used to identify areas for improvement, track progress, and inform decisions. However, without more information about the specific use case, it's difficult to determine the exact purpose and context of this form. It's possible that it's part of a larger process for implementing or maintaining quality management systems.
-</thinking>
-
 # SOP Maturity Survey - Help Guide
 ## Purpose
 This form is used to evaluate the maturity of a software or business process (SOP) review process. It will guide you through a series of questions to assess your team's current state in different areas of the review process.

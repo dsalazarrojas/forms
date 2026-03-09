@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed to collect feedback and suggestions from students, teachers, and parents in a school community. The purpose of this form is to gather information about the school environment, teacher performance, and parent engagement. To prevent duplication, users should not submit the form if they have already completed it.
-
-</thinking>
-
 # school_community_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions from students, teachers, and parents in a school community.

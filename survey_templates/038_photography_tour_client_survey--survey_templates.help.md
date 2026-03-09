@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from clients who have participated in a photography tour. The purpose of this form is to understand the client's experience and satisfaction with the tour. The form will help identify areas of improvement and provide valuable insights to enhance the tour experience. Please review each page to ensure you are not duplicating feedback.
-
-Please note that the form does not require submission, the answers are collected for internal use only. 
-</thinking>
-
 # Photography Tour Client Survey - Help Guide
 ## Purpose
 This form is used to collect feedback from clients who have participated in a photography tour. It will help us understand their experience, satisfaction, and provide valuable insights to enhance the tour experience.

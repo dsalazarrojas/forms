@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect user-provided tips and advice on various topics. Its purpose is to gather feedback, suggestions, or recommendations from end-users. The form will collect input from users on their personal experiences, expertise, or insights they'd like to share.
-
-This form will be used to collect data from users on a one-time basis, and its output will likely be displayed as a collection of user-submitted content in the form of tips or advice.
-
-The following sections should be covered in this guide to make it clear and easy to use for end-users:
-* Purpose and goal of the form
-* Instructions on how to complete the form
-* Field-by-field explanations
-
-</thinking>
 # tips_and_advice_sharing_form - Help Guide
 ## Purpose
 The purpose of this form is to collect user-provided tips and advice on various topics. This form will help gather feedback and insights from end-users, which will be displayed as tips or advice.

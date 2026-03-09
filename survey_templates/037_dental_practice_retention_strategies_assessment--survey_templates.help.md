@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dental Practice Retention Strategies Assessment - Help Guide
 
 ## Purpose

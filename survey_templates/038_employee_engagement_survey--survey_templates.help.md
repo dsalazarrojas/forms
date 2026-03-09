@@ -1,8 +1,3 @@
-<thinking>
-The Employee Engagement Survey is a crucial tool for employees to provide insights into their job satisfaction, engagement levels, and overall company culture. To ensure this survey is effective, it's essential that employees understand the purpose and relevance of each question. This guide is designed to help employees navigate the survey and provide accurate and honest feedback.
-The questions included in this survey are chosen to assess the different aspects of employee engagement, such as job satisfaction, communication, autonomy, feedback opportunities, recognition, growth opportunities, diversity and inclusion, job security, work-life balance, and open communication. This comprehensive approach helps managers and HR teams to identify areas of improvement and implement changes to foster a positive work environment.
-</thinking>
-
 # Employee Engagement Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a survey on rural-urban migration. The purpose is to collect data on why people migrate from rural to urban areas, the challenges they encounter during the process, and their plans for settlement. It is likely that this form will be used by researchers or policymakers in the field of demographics and urban planning.
-</thinking>
-
 # Rural Urban Migration Survey - Help Guide
 ## Purpose
 The Rural Urban Migration Survey is designed to collect information on migration from rural to urban areas. This survey aims to understand the reasons behind such migration, the challenges faced during the process, and the plans for settlement.

@@ -1,5 +1,3 @@
-<thinking>...To determine if this form is suitable for the user and to prevent duplication, we will check if the user has already completed the "Understanding Delivered Duty Paid (DDP)" form and if their input for this form does not overlap with other forms they've completed. If the form is suitable and there is no overlap, we will proceed with generating the help guide... </thinking>
-
 # Understanding Delivered Duty Paid (DDP) - Help Guide
 ## Purpose
 The "Understanding Delivered Duty Paid (DDP)" form is designed to assess your familiarity, awareness, usage, challenges, impact, and feedback regarding DDP. It's intended to help us better understand your experiences and perceptions related to DDP, which will inform our services and improvement initiatives.

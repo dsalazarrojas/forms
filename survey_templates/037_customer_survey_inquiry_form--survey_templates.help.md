@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their experience with a business or service. The form is intended to be a starting point for understanding customer needs and satisfaction. 
-Before completing this form, please ensure that you are not duplicating a previously submitted survey or inquiry. 
-The form will only gather information about the customer's experience and will not contain any sensitive or confidential information. 
-This form will help the business to identify areas of improvement and make data-driven decisions to enhance customer satisfaction and experiences.
-</thinking>
-
 # Customer Survey Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with our business or service. It will help us gather valuable insights to improve our services and enhance customer satisfaction.

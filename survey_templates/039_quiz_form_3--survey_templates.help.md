@@ -1,9 +1,3 @@
-<thinking>Here's a brief internal reasoning block to explain the form purpose and check for relevance and non-duplication:
-
-We are designing a user-facing help guide for the "Quiz Form 3" survey template. This form is intended to collect various types of information from users, including text, select_one, select_multiple, number, date, time, and note inputs. We need to create a clear and concise guide that explains the purpose of the form, how to complete it, and what each field means. The guide should also include tips for users to follow while filling out the form.
-
-</thinking>
-
 # Quiz Form 3 - Help Guide
 ## Purpose
 The "Quiz Form 3" is a survey template designed to gather information from users in a structured and organized manner. This form is used to collect different types of responses, including text, multiple-choice, and numerical answers.

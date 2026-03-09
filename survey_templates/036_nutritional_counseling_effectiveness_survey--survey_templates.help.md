@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nutritional Counseling Effectiveness Survey - Help Guide
 ## Purpose
 The Nutritional Counseling Effectiveness Survey is designed to gather information on the effectiveness of nutritional counseling programs. This survey aims to assess the level of satisfaction with the nutritional counseling provided and identify areas of improvement.

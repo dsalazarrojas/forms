@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to assess an individual's knowledge and practices regarding food hygiene and proper food storage. This guide will walk you through the form's purpose, how to complete it, and what each field means.
-
-To ensure the form is relevant and useful, we'll consider the following:
-
-*   The form's purpose is to identify areas where an individual needs improvement in food hygiene and storage practices.
-*   The form's questions are relevant to common food safety and storage issues.
-*   The form's completion should provide clear and actionable information for improvement.
-
-We'll cover the form's purpose, how to complete it, and each field's explanation in the following sections.
-
-</thinking>
-
 # Food Hygiene Quiz - Help Guide
 
 ## Purpose

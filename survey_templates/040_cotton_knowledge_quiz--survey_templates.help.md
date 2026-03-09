@@ -1,5 +1,3 @@
-<thinking>This help guide assumes the user is familiar with the concept of a quiz or survey form. This guide will walk through the steps to complete the "Cotton Knowledge Quiz" form, which appears to be a collection of multiple pages with various question types. The purpose of this form is to collect responses to different questions and prompts, likely related to cotton knowledge or expertise.</thinking>
-
 # Cotton Knowledge Quiz - Help Guide
 ## Purpose
 The "Cotton Knowledge Quiz" form is designed to gather responses to various questions related to cotton knowledge or expertise. This form consists of multiple pages with different types of questions, such as multiple-choice, text input, and date/time input.

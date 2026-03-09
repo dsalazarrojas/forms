@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the Zodiac Event Registration form. This guide will explain the form's purpose, how to complete it, and provide a field-by-field explanation of each form field. I'll assume that the form is used to collect information about zodiac events, participants, and related details.</thinking>
-
 # Zodiac Event Registration - Help Guide
 ## Purpose
 The Zodiac Event Registration form is designed to collect information about zodiac events, including event details, participant information, and status updates. This form helps us keep track of zodiac events, their participants, and their progress.

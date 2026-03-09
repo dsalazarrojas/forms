@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge employees' understanding of the company's finance policy. The purpose of the survey is to collect information about employees' awareness of the policy and their suggestions for improvement. By completing this form, employees can provide valuable feedback that will help the organization refine its finance policy and make it more effective. It is essential to provide honest and constructive feedback, as it will be used to make data-driven decisions about policy improvements.
-</thinking>
-
 # finance_policy_understanding_survey - Help Guide
 ## Purpose
 The finance policy understanding survey is a tool to collect feedback from employees about their understanding of the company's finance policy. The survey is designed to help identify areas where the policy is unclear or difficult to understand, and to gather suggestions for improvement.

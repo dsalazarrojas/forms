@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to gather information from faculty members about their peer learning support experiences, which can help inform the development of more effective faculty peer learning support programs. 
 
 The form should be completed by each faculty member who has participated in a peer learning program or activity. This will help ensure that all relevant perspectives are captured. 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Vs Print Reader Preferences Questionnaire - Help Guide
 
 ## Purpose

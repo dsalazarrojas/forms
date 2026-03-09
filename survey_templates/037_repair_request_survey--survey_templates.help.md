@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Repair Request Survey - Help Guide
 
 ## Purpose

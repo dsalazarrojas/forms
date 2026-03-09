@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their experiences with consumer electronics products. The goal is to understand the customer's satisfaction with their product, identify areas for improvement, and gauge their overall satisfaction with the product and brand. This form will help the company to make data-driven decisions to improve their products and customer experience.
-
-</thinking>
-
 # Consumer Electronics Customer Satisfaction Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather feedback from customers about their consumer electronics products. It is intended to measure customer satisfaction, product quality, and overall experience with the product.

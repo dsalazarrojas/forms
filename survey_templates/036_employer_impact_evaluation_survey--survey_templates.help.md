@@ -1,15 +1,3 @@
-<thinking>
-  This form is intended to be a subjective evaluation survey of an employer's impact. 
-  It seems this form is intended for internal use within the organization, likely for 
-  gathering employee feedback. There is no obvious duplicate of this form in the 
-  current knowledge base, but if this form exists elsewhere, please make sure to 
-  link to it from here to avoid duplication. This form has a mix of free text, 
-  select, date/time and email fields, indicating it is meant to gather both 
-  qualitative and quantitative data. Please review the form fields and instructions 
-  carefully to ensure they accurately capture the desired information and provide a 
-  clear understanding of the form's purpose.
-</thinking>
-
 # employer-impact-evaluation-survey - Help Guide
 ## Purpose
 This form is designed to collect subjective evaluations from employers regarding their impact, likely for internal feedback and improvement purposes.

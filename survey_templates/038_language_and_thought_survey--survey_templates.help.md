@@ -1,5 +1,3 @@
-<thinking>As a designer and technical writer, I'll create a help guide that is clear, concise, and easy to understand. I'll use the provided YAML fields to inform the guide, ensuring it accurately reflects the form's purpose, fields, and instructions.</thinking>
-
 # Language And Thought Survey - Help Guide
 ## Purpose
 

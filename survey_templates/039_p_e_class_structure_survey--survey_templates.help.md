@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about the P.E. class structure, focusing on aspects such as what the class looks like, how engaged students feel, and any improvement ideas they may have. The purpose of this form is to collect data that can be used to improve the P.E. class experience for students. 
-</thinking>
-
 # P.E. Class Structure Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback and information about the structure of Physical Education (P.E.) classes. Your input will help us understand what students feel about their P.E. class experience and identify areas for improvement.

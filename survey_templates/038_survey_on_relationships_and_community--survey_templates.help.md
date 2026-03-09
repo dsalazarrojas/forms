@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather user feedback on the effectiveness of survey templates in facilitating relationships and community building. The form collects responses on whether users have had positive relationships, the extent of their community engagement, and how well the surveys have improved their work. This form is not intended for users who have not interacted with survey templates before, as it is focused on users with prior experience. Please ensure you have relevant experience with survey templates before completing this form.
-</thinking>
-
 # Survey On Relationships And Community - Help Guide
 ## Purpose
 This form is designed to gather feedback on the effectiveness of survey templates in building relationships and community engagement, and to understand how they have improved user's work.

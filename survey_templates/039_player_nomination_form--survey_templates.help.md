@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block: This form is designed to collect player nomination data for team selection and management purposes. The form requires users to enter team name, player's name, position, and player nomination type (nominating or denoting). Age, email, phone number, and note fields are optional. The "position" field has a select multiple type allowing multiple selections. The form ensures that users select at least one position for each player. The form's purpose is to gather information for team selection and management, and it's expected that users will be familiar with the team's specific requirements and rules for nomination and denoting players.
-</thinking>
-
 # Player Nomination Form - Help Guide
 ## Purpose
 The Player Nomination Form is used to collect player nomination data for team selection and management purposes.

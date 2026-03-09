@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from volunteers about their course preferences, including the types of courses they are interested in, how often they would like to take courses, their contact information, the location where they would like to take the courses, and their rating of the courses. This form will help us understand the needs and preferences of our volunteers, ensuring we can tailor our course offerings to meet their needs.
-</thinking>
-
 # Volunteer Course Selection Survey - Help Guide
 ## Purpose
 This form is designed to collect essential information from volunteers about their course preferences and needs.

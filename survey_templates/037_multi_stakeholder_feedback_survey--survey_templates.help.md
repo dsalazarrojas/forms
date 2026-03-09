@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from multiple stakeholders on a project's performance. The form is intended to be completed by project team members, stakeholders, or other relevant individuals. It helps in gathering information on the project's status, team composition, and any other relevant details.
-</thinking>
-
 # Multi Stakeholder Feedback Survey - Help Guide
 ## Purpose
 This form is used to collect feedback from multiple stakeholders on a project's performance.

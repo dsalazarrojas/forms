@@ -1,22 +1,3 @@
-<thinking>
-The form is used to collect information from providers about their onboarding process, including their organization, contact details, onboarding status, feedback, and notes. This form is likely used by administrators or managers to track and manage the onboarding process of providers.
-The form collects information that is relevant to the following fields: 
-- provider organization (multiple selection)
-- contact name (text input)
-- email (email input)
-- phone (text input)
-- onboarding date (date input)
-- onboarding status (single selection)
-- feedback (note input)
-- notes (note input)
-- readiness score (number input)
-- readiness insights (text input)
-- onboarding team (multiple selection)
-- follow-up (date input)
-- follow-up frequency (single selection)
-
-</thinking>
-
 # provider_network_onboarding_survey - Help Guide
 ## Purpose
 The provider network onboarding survey is used to collect information from providers during the onboarding process.

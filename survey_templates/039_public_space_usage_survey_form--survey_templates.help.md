@@ -1,6 +1,3 @@
-<thinking>
-We need to make sure that the form is being used for its intended purpose and not for other purposes. This form is a Public Space Usage Survey Form. It's used to gather information about how often and how people use public spaces. This form should only be filled out by people who have used public spaces and can answer questions about their experiences. If you're filling out this form for someone else, please make sure that person has given their consent. If you're unsure about the purpose of this form, please don't fill it out. This form is for people who have used or intend to use public spaces to share their experiences and thoughts about them. Please be honest in your answers and provide as much detail as possible. If you have any questions or need help with the form, please contact the form administrators.</thinking>
-
 # Public Space Usage Survey Form - Help Guide
 ## Purpose
 This form is designed to gather information about your experiences and preferences regarding public spaces. It's a way for you to share your opinions and help us understand how to improve public spaces for everyone.

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I understand that a well-crafted user guide is essential to help users navigate complex forms effectively. This guide aims to clarify the purpose and functionality of the "Viral Video Creators Quiz" form, ensuring that users comprehend its intended use and complete it accurately.</thinking>
-
 # Viral Video Creators Quiz - Help Guide
 ## Purpose
 This form is a survey designed to help us understand the demographics and behaviors of viral video creators. Your responses will help us better understand the types of creators we're targeting, their monetization strategies, and how we can best support their growth.

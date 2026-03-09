@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from participants after a cognitive session, such as a training, assessment, coaching, or workshop. The form is intended to capture their overall satisfaction, experience, and perception of the session, as well as their feedback on the facilitator's performance and the quality of materials provided. The form should only be used for sessions that have a clear cognitive focus, such as cognitive training, assessment, coaching, or workshop. Please ensure that you are using the correct form for your specific session type. If you have any questions or need further clarification, please contact form@gic.mx.
-
-</thinking>
-
 # Cognitive Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants after a cognitive session, such as a training, assessment, coaching, or workshop. The form captures their overall satisfaction, experience, and perception of the session, as well as their feedback on the facilitator's performance and the quality of materials provided.

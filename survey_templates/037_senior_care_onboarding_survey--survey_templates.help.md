@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a part of the onboarding process for senior care facilities. It collects information about the resident, their medical conditions, emergency contacts, and other relevant details. This form should only be completed by authorized personnel within the facility and is intended to provide a comprehensive overview of the resident's needs and circumstances. Please ensure that you have the necessary permissions and clearance to access this form and the information collected within it.
-</thinking>
-
 # Senior Care Onboarding Survey - Help Guide
 ## Purpose
 The Senior Care Onboarding Survey is a form used to collect information about a resident's medical conditions, emergency contacts, and other relevant details during the onboarding process.

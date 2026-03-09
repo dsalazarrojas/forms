@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gauge the level of awareness and participation in health and wellness programs among employees. It is likely to be used by HR or benefits administration teams to gather information on program effectiveness and areas for improvement. 
-It is likely to be used for internal reporting and decision-making purposes. It should not be used for any other purpose without further internal review and approval.
-The form does not seem to collect any sensitive or confidential information and should be considered safe to use.
-</thinking>
-
 # Health And Wellness Program Awareness Poll - Help Guide
 ## Purpose
 The Health And Wellness Program Awareness Poll is a survey aimed at gauging the level of awareness and participation in health and wellness programs among employees.

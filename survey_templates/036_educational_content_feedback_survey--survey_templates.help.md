@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting feedback from users on educational content presented to them. The purpose of this form is to gauge the effectiveness and usability of the content provided to the user, ensuring that it meets the needs of the target audience. 
-</thinking>
-
 # Educational Content Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the educational content presented to you. Your input will help us improve the content and ensure it meets the needs of our users.

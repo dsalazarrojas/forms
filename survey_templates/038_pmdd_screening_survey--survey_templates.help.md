@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide aims to assist end-users in understanding and effectively filling out the "PMDD Screening Survey" form, a crucial tool for screening patients for PMDD (Premenstrual Dysphoric Disorder) symptoms. The form is part of a larger assessment process to identify individuals who may be experiencing PMDD-related issues. This guide provides a step-by-step walkthrough of the form's purpose, fields, and instructions to ensure accurate and efficient completion.
-
-</thinking>
-
 # PMDD Screening Survey - Help Guide
 ## Purpose
 The PMDD Screening Survey is a comprehensive form designed to gather essential information from patients about their medical history, symptoms, and current health status. This data is used to assess the presence or absence of PMDD symptoms, which can significantly impact a patient's mental health and well-being. Completing this form accurately and thoroughly is vital for healthcare professionals to provide the best possible care.

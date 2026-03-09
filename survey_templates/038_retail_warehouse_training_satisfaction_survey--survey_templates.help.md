@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose is clear and that users understand what they are being asked to do. Before proceeding, please take a moment to review the form and its purpose.
-
-This form is called the "Retail Warehouse Training Satisfaction Survey". The form is designed to collect feedback from retail warehouse trainers on their training experiences and the effectiveness of the training. The form aims to gather information on the trainer's satisfaction with their training, their overall experience, and areas for improvement.
-
-</thinking>
-
 # Retail Warehouse Training Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from retail warehouse trainers on their training experiences and the effectiveness of the training.

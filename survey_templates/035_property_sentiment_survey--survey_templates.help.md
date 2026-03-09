@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information about a property's sentiment. It is meant to be completed by users who have a property for sale or rent, and it will help them to provide an accurate and detailed description of their property. The form is part of a larger system used to collect and analyze data about properties.
-
-To avoid duplication and ensure accurate data entry, please make sure to:
-
-*   Only fill out this form once per property.
-*   Do not fill out this form if you have already completed it for the same property.
-*   If you are unsure about a question or its relevance to your property, please reach out to the support team for clarification.
-
-</thinking>
-
 # Property Sentiment Survey - Help Guide
 ## Purpose
 The Property Sentiment Survey is a form designed to gather information about a property's sentiment. It is meant to be completed by users who have a property for sale or rent, and it will help them to provide an accurate and detailed description of their property.

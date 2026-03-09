@@ -1,8 +1,5 @@
 > 
-### <thinking>
-This form is intended to capture feedback from customers about their experience with the Fitness Studio, specifically their customer journey. It's essential to understand how customers perceive the quality of the staff members, services, and facilities they have used during their visit. This information will help the Fitness Studio management refine their services and improve customer satisfaction. To ensure accurate data collection, it's crucial to complete each field carefully and honestly. Please review the form carefully before proceeding.
-</thinking>
-# Fitness Studio Customer Journey Survey - Help Guide
+### # Fitness Studio Customer Journey Survey - Help Guide
 ## Purpose
 The Fitness Studio Customer Journey Survey is designed to gather feedback on various aspects of your visit to help us improve our services and facilities.
 ## How To Complete This Form

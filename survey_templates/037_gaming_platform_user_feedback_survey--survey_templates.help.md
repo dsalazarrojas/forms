@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their experience with a gaming platform. It is intended for internal use by platform administrators to monitor and improve the user experience. Please note that this form should only be filled out by users who have actually experienced the gaming platform. Please do not submit this form if you are not a user of the gaming platform.
-
-To complete this form, follow these steps:
-
-1. Answer each question to the best of your ability, providing honest and constructive feedback.
-2. Make sure to fill out all required fields.
-3. If a field is optional, you can choose to leave it blank if you do not have any information to provide.
-
-</thinking>
-
 # gaming_platform_user_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with the gaming platform, helping us to identify areas for improvement and make necessary adjustments to enhance the user experience.

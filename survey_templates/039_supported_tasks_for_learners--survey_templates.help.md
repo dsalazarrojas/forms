@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect feedback and information on learner support needs and satisfaction. It is intended for users who require support for their learning experiences. The form is not affiliated with or endorsed by any form creation platform, and it is an original adaptation created by AI using public metadata as inspiration. The purpose of this form is to collect data on learner support methods and satisfaction levels, which can help identify areas of improvement for learning experiences.</thinking>
-
 # Supported Tasks For Learners - Help Guide
 ## Purpose
 This form is designed to collect feedback and information on learner support needs and satisfaction. It is intended for users who require support for their learning experiences.

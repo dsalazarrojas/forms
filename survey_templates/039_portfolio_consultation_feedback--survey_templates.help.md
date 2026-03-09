@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for gathering feedback from clients after a portfolio consultation session. The purpose of this form is to collect information on whether the client was satisfied with the consultation and to gather more qualitative and quantitative feedback about the session. It's crucial that the form is filled out by the client, as it helps to improve the quality of services provided by the consultants. Please make sure this form is not duplicated or filled out by someone other than the client.
-</thinking>
-
 # Portfolio Consultation Feedback - Help Guide
 ## Purpose
 The Portfolio Consultation Feedback form is designed to gather feedback from clients after a portfolio consultation session. This feedback is used to improve the quality of services provided by the consultants.

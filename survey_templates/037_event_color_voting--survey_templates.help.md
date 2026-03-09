@@ -1,12 +1,3 @@
-<thinking>
-The form "Event Color Voting" is designed to collect feedback on color preferences from respondents. The form is meant to be completed by people attending events, conferences, or meetings. Respondents are asked to select their favorite color from a list of options, with some fields requiring multiple color choices. The form also includes an optional field for additional comments.
-
-The form is not intended to collect sensitive or personal data. It is meant for general feedback and analysis purposes.
-
-Before filling out this form, please ensure that you have reviewed the form purpose and instructions to avoid any duplication of effort.
-
-</thinking>
-
 # Event Color Voting - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on color preferences from respondents.

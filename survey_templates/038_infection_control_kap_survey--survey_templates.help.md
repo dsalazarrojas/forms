@@ -1,5 +1,3 @@
-<thinking>... This form appears to be a structured survey used to gather data on various aspects of infection control in a healthcare setting. The form has 25 pages or sections, each with different types of questions such as text, number, select_one, select_multiple, date, time, and email. The form is likely intended for healthcare professionals or individuals working in the infection control field to gather information on best practices, training, and protocols. However, without more context, it's difficult to determine the specific purpose and scope of the survey. It would be beneficial to review the form and its intended use cases to ensure it is relevant and not duplicating efforts...</thinking>
-
 # Infection Control Kap Survey - Help Guide
 ## Purpose
 This guide is designed to assist users in completing the Infection Control Kap Survey form. The form is a comprehensive tool used to gather data on various aspects of infection control in a healthcare setting.

@@ -1,14 +1,3 @@
-<thinking>
-This help guide is for the "Microlocks Acknowledgment Survey" form. 
-
-This form is used for acknowledging microlocks, a process that involves recording and verifying the completion of certain tasks or events. This form helps to ensure that all necessary steps are taken and that all parties involved are informed and acknowledged. 
-
-This guide will walk you through the process of completing the form, field by field, so make sure to review each section carefully. 
-
-Before proceeding, please ensure that you have reviewed the form's purpose and that you are not duplicating an existing acknowledgment. 
-
-</thinking>
-
 # Microlocks Acknowledgment Survey - Help Guide
 ## Purpose
 The Microlocks Acknowledgment Survey is used to document and verify the completion of tasks or events related to microlocks. This form ensures that all parties involved are informed and acknowledged, and that all necessary steps are taken.

@@ -1,7 +1,3 @@
-<thinking>
-This guide will help users understand the purpose and usage of the "custom_product_sampling_request_form" form. The form is used to capture information from business contacts for custom product sampling requests. It is intended for internal use and helps our team gather necessary details to fulfill the requests. Please ensure that you are filling this form for a valid reason and not duplicating a request already made.
-</thinking>
-
 # custom_product_sampling_request_form - Help Guide
 ## Purpose
 The "custom_product_sampling_request_form" is used to collect information from business contacts for custom product sampling requests. This form helps our team gather necessary details to fulfill the requests efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a Chamber Of Commerce Event Interest Poll, designed to gather insights from respondents on their preferences for various aspects of chamber events, including poll dates, event types, speaker types, venue preferences, and more. It is intended to be completed by individuals who are or have an interest in the chamber, whether as a member, potential member, or non-member. The form should not be filled out by the same individual multiple times, as it is meant to capture diverse opinions and preferences. 
-</thinking>
-
 # Chamber Of Commerce Event Interest Poll - Help Guide
 ## Purpose
 This form aims to gather feedback from the respondents on their preferences for various aspects of chamber events.

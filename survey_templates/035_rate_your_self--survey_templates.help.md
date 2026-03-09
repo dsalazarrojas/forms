@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback on a self-evaluation or self-assessment survey. The form asks the user to rate or respond to various statements or questions using different types of input fields such as multiple-choice ratings, single-choice answers, and open-ended text fields. This form may be used in educational or personal settings to gauge individual attitudes, opinions, or perceptions about oneself or others. To determine if you are eligible to complete this survey, please answer the following questions about your identity. If you're unsure or have questions, feel free to ask. 
-
-</thinking>
-
 # Rate Your Self - Help Guide
 ## Purpose
 The "Rate Your Self" form is a self-evaluation survey designed to help you assess your attitudes, opinions, or perceptions about yourself or others. It's a set of questions and rating scales to gauge your self-awareness and understanding.

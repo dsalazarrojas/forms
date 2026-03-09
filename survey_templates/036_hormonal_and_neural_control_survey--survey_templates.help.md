@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about individuals' general knowledge, demographic information, education level, and other relevant details such as employment status, occupation, and research interests. This form is likely designed to gather data for research or analysis purposes. Please make sure to complete this form accurately and thoroughly, and avoid duplication of data entry.
-
-</thinking>
-
 # Hormonal And Neural Control Survey - Help Guide
 ## Purpose
 This form is designed to collect information about individuals' general knowledge, demographic information, and other relevant details for research or analysis purposes.

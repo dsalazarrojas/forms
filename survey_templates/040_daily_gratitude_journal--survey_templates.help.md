@@ -1,5 +1,3 @@
-<thinking> ... </thinking>
-
 # Daily Gratitude Journal - Help Guide
 
 ## Purpose

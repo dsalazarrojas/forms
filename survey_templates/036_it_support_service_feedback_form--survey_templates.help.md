@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to provide feedback on the support service. This is an optional form, and it's meant to help us understand how our support service has performed in a particular situation. This form will help us improve our service by collecting information on general feedback, rating, issue description, and contact information. Please fill it out only if you have relevant feedback or comments to share. If you don't, feel free to skip it.
-
-</thinking>
-
 # it_support_service_feedback_form - Help Guide
 ## Purpose
 This form is intended to collect feedback from users on the support service provided by your organization.

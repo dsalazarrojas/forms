@@ -1,18 +1,3 @@
-<thinking>
-To create an optimal user-facing help guide for the "Emotional AI Safety Inquiry Form", we first need to understand its purpose and how to complete it.
-
-The Emotional AI Safety Inquiry Form is a tool used to evaluate and manage risks associated with the development and deployment of emotional AI systems. The form aims to identify and document potential risks, safeguards, and benefits related to these systems, ensuring that they are designed and deployed in a safe and responsible manner. This form should only be filled out when a new AI system is being developed or when an existing one is being reviewed or updated. 
-
-To complete this form correctly, follow these steps:
-
-1. Review the risk factors that apply to your AI system, selecting all that are relevant to your project.
-2. Identify the safeguards that can mitigate these risks, ensuring that your system is designed with safety in mind.
-3. List the benefits that your AI system will bring, such as improving user experience or reducing workload.
-4. Provide any additional comments or information that might be helpful in understanding your AI system.
-5. If you're filling out this form as an individual developer or organization, please select the appropriate option.
-
-</thinking>
-
 # Emotional AI Safety Inquiry Form - Help Guide
 ## Purpose
 The Emotional AI Safety Inquiry Form is a tool used to identify and document potential risks, safeguards, and benefits of AI systems. It ensures that AI systems are developed and deployed in a safe and responsible manner.

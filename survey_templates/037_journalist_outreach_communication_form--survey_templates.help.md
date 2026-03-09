@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form used for outreach communication with journalists. It's designed to gather information about the journalists we're reaching out to, so we can tailor our communication and content creation to their specific needs and preferences.
 
 The form is not meant to be a comprehensive or exhaustive survey, but rather a simple way to get a quick sense of who the journalist is and what they might be interested in. It's essential to fill out this form accurately and truthfully to ensure that we're able to effectively collaborate and provide valuable content to them.

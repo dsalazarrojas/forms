@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect nominations for football awards. It's designed to gather essential information from nominators, including the nominee's name, position, and award category. The form also captures details about the nominator, such as their name, position, and email address. Additionally, it collects submission information, such as the submission date and time, and the type of nomination being made. The form is crucial for tracking and validating nominations for football awards. Before starting the form, please ensure that you have not already submitted a nomination for the same nominee and award category to avoid duplicate submissions.
-</thinking>
-
 # Football Awards Nomination Survey - Help Guide
 ## Purpose
 This form is used to collect nominations for football awards.

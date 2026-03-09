@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Retail Employee Shift Satisfaction Poll - Help Guide
 =====================================================
 

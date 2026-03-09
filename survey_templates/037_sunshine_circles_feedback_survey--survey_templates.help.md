@@ -1,10 +1,3 @@
-<thinking>
-The form purpose and design seem to be for collecting feedback from participants of a session, likely in an educational or community setting. It appears to be a comprehensive survey to gather various information about the session, including ratings, feedback, and details about the session. This form likely aims to help facilitators or organizers understand how well a session was received, what was effective and what areas need improvement.
-The form design suggests that the feedback is being collected for an internal purpose, possibly for program evaluation, improvement, or to inform future session planning. It's likely that the data collected will be used for aggregated analysis or for providing feedback to facilitators or participants.
-The fields in the form are mostly self-explanatory, but some might require clarification. For example, "session_type" and "session_location" seem to be related to the type and location of the session, while "session_goals" and "participant_goals" appear to be about the goals and expectations of the participants.
-To confirm, I'll provide a help guide for the form below.
-</thinking>
-
 # sunshine_circles_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants about a session or event. It will help us understand how well the session was received, what was effective, and what areas need improvement.

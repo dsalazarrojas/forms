@@ -1,13 +1,3 @@
-<thinking> This form is designed to assess a person's knowledge in the field of mucosal immunology. It appears to be a comprehensive survey covering various concepts within this field. The form consists of 23 questions, each asking for text responses, likely meant to gauge the respondent's understanding or opinions on different aspects of mucosal immunology.
-
-Before proceeding, please ensure that you have a clear understanding of the subject matter and are not repeating this survey for any other purpose than its intended use.
-
-This form does not store or utilize any data from other platforms, and responses will only be used as intended by its creators.
-
-If you have any questions or concerns, please refer to the contact information at the end of this guide. 
-
-</thinking>
-
 # Mucosal Knowledge Assessment Survey - Help Guide
 ## Purpose
 This survey is designed to assess your knowledge in the field of mucosal immunology. It consists of 23 questions covering various concepts within this field.

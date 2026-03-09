@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the water_quality_inspection_form is to collect information from users about the quality of a water body, typically a lake, river, or pond. This form aims to gather data on the physical characteristics of the water, such as pH levels, turbidity, temperature, conductivity, and color, as well as the time and date of the inspection. This information will help users assess the overall health of the water body and identify any potential issues or changes in its quality.
-
-Before proceeding, please ensure you understand the context and relevance of this form. This form should not be used for other purposes or contexts where water quality inspection is not the primary goal. By completing this form, you will be providing valuable information to support water quality management and conservation efforts.
-
-</thinking>
-
 # water_quality_inspection_form - Help Guide
 ## Purpose
 The water_quality_inspection_form is a tool used to collect and document observations about water bodies such as lakes, rivers, or ponds. Its primary purpose is to gather data on physical parameters, sample date and time, and other attributes that contribute to a comprehensive understanding of water quality.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information about a franchise's onboarding process, including the individual's experience, questions, and feedback. This form aims to collect data that can help franchisors understand the effectiveness of their onboarding process and identify areas for improvement. The form is designed for franchisees who have joined or are about to join a franchise, and it's intended to be completed by them. The form's data will be used to provide insights that can help the franchise improve their onboarding process.
-</thinking>
-
 # Franchise Onboarding Survey - Help Guide
 ## Purpose
 The Franchise Onboarding Survey is a tool to collect feedback and information from franchisees about their onboarding experience. This survey aims to understand the effectiveness of the onboarding process and identify areas for improvement.

@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is for the "Email Routing Assessment Survey" form, designed to gather feedback and insights from users about the current email routing process. To ensure relevance, this form is only intended for those with a stake in the email routing process, such as IT or Operations teams. Please note that this form is not a duplicate of other feedback channels, and responses will help us understand areas for improvement in our internal processes.
-
-</thinking>
-
 # Email Routing Assessment Survey - Help Guide
 ## Purpose
 The "Email Routing Assessment Survey" form is designed to gather feedback and insights from users about the current email routing process. This form aims to understand how often users use email routing, their satisfaction with the current process, and areas where improvements can be made.

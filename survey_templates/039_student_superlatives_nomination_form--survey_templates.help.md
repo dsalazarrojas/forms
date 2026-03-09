@@ -1,13 +1,3 @@
-<thinking>
-The Student Superlatives Nomination Form is used to recognize and reward students who excel in various areas of academic and extracurricular activities. The form allows students to nominate their peers who embody qualities such as inspiration, innovation, and leadership, and who have made a significant impact on campus. To ensure that each student is only nominated once, this form is used to collect and track nominations, helping to maintain the integrity of the superlative selection process.
-
-Before proceeding, please note that:
-
-* This form is not intended for self-nomination.
-* Each student can only be nominated once for each category.
-* If you are unsure about any nomination, please reach out to the relevant authorities or your peers for guidance.
-</thinking>
-
 # Student Superlatives Nomination Form - Help Guide
 ## Purpose
 The Student Superlatives Nomination Form is designed to acknowledge and recognize students who exhibit extraordinary qualities and contributions on campus.

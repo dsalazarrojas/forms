@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I'll review the form's purpose and fields to ensure it's correctly understood. This form, "Cleaning Service Feedback Form", seems to be designed for customers to provide feedback on their experiences with a cleaning service. It's likely used by the service to gauge their performance, identify areas of improvement, and understand their customers' needs and preferences.</thinking>
-
 # Cleaning Service Feedback Form - Help Guide
 ## Purpose
 

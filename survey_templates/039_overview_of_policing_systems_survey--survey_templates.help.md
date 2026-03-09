@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to gather opinions and feedback on the effectiveness and satisfaction of various policing systems. The form may be used by administrators or researchers to gather data on how well different policing models are working in specific regions, how much public trust is being fostered, and whether reforms are meeting their priorities. Before proceeding, ensure that the questions and answers have not been previously asked and answered. If you're unsure, you may want to check with the person or team responsible for administering this form.
-</thinking>
-
 # Overview Of Policing Systems Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on various policing systems and their effectiveness.

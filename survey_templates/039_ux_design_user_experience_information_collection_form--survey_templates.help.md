@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect user experience information to help improve the overall design and usability of the application. The purpose of this form is to gather feedback from users about their interactions with the application, specifically on the following aspects:
-* Form title and category
-* Form description
-* Satisfaction level
-* Usability
-* Daily habits for using the application
-* Any comments or suggestions
-* Phone number (optional)
-* Email (optional)
-This form is intended for internal use within the organization, and the information collected will be used to inform design decisions and improve the user experience. Please ensure that you are using this form for its intended purpose and do not collect any sensitive or personally identifiable information.
-</thinking>
-
 # ux_design_user_experience_information_collection_form - Help Guide
 ## Purpose
 The purpose of this form is to collect user experience information to help improve the overall design and usability of the application.

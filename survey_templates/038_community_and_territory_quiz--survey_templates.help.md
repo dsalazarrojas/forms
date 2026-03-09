@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community And Territory Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge about community and territory concepts. It consists of 15 questions, divided into 5 sections: Community Basics, Territory Basics, Community Organization, Territorial Management, and Application. The quiz is intended to be a fun and informative way to learn about these topics.

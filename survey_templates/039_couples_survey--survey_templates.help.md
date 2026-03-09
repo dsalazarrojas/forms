@@ -1,10 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "Couples Survey" form. This form is designed to gather information about the dynamics of romantic relationships between two individuals. The purpose of this form is to collect data on the couple's relationship status, type, level of awareness, influence, communication style, conflict resolution, emotional intelligence, emotional support, intimacy level, conflicts frequency, and communication channels. 
-
-To prevent duplication of effort, it's essential to ensure that the form is filled out by the intended user, i.e., a couple or two individuals in a romantic relationship.
-
-</thinking>
-
 # Couples Survey - Help Guide
 ## Purpose
 The Couples Survey form is designed to gather information about the dynamics of romantic relationships between two individuals. It's essential to fill out this form if you're part of a couple or two individuals in a romantic relationship.

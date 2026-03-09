@@ -1,7 +1,3 @@
-<thinking>
-This form is a part of the organizational diversity and inclusion initiative aimed at understanding employee perceptions, experiences, and actions regarding diversity and inclusion. The goal is to gather data to identify areas for improvement within the organization. Please ensure that you answer truthfully and provide as much detail as possible. The survey is anonymous, and your responses will be kept confidential. If you have any questions or concerns, feel free to reach out to the diversity and inclusion team. Please note that this is the 1st edition of the survey and might need to be revisited in the future to adjust to the evolving work environment.
-</thinking>
-
 # Diversity and Inclusion Survey - Help Guide
 ## Purpose
 The "Diversity and Inclusion Survey" is designed to gather information on employees' perceptions, experiences, and actions regarding diversity and inclusion within the organization. Your input will help the diversity and inclusion team better understand the current state of diversity and inclusion and identify areas for improvement.

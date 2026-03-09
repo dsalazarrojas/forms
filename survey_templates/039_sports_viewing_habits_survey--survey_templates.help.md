@@ -1,15 +1,3 @@
-<thinking>
-
-This form, "sports_viewing_habits_survey", is intended to gather information about users' habits and preferences regarding sports viewing. It collects data on various aspects of sports watching, including favorite teams, games, players, leagues, and more. The form appears to be designed for research purposes, collecting both demographic and psychographic data to inform sports industry businesses or organizations.
-
-This form is a comprehensive tool with 25 fields, each asking for specific details such as favorite sports teams, games, and players, as well as viewing frequency, time, and platform preferences. It includes questions on the user's preferred sports leagues, news sources, media consumption habits, and events frequencies and lengths. 
-
-Given the variety of fields, it is crucial to ensure that users understand what each question is asking and how to provide accurate responses.
-
-The questions appear to be multiple choice, asking users to select from a range of options, with some fields being required. The form seems to prioritize gathering in-depth information on users' sports viewing behaviors.
-
-</thinking>
-
 # sports_viewing_habits_survey - Help Guide
 ## Purpose
 The "sports_viewing_habits_survey" form is designed to gather data on users' habits and preferences regarding sports viewing. 

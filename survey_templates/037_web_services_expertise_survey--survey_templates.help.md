@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gauge the respondent's expertise in various web services, allowing us to better understand their proficiency and familiarity with different technologies. This survey is designed to be completed by experts who have hands-on experience with web services and can provide informed answers about their use, implementation, and best practices. To ensure the accuracy of our results, please only complete this survey if you have actual expertise in web services. Please note that duplicate or unrelated submissions will be removed.
-
-</thinking>
-
 # Web Services Expertise Survey - Help Guide
 ## Purpose
 The Web Services Expertise Survey is designed to assess your familiarity and experience with various web services. The survey consists of five sections, each focusing on a specific aspect of web services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health History General Survey - Help Guide
 ## Purpose
 The Health History General Survey is a form designed to collect essential information about a patient's health history. This form aims to gather comprehensive details about their medical conditions, allergies, surgical history, and other relevant health-related information. Please ensure you have the patient's consent before sharing this form with them.

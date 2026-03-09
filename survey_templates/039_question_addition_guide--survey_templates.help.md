@@ -1,12 +1,6 @@
 # Question Addition Guide - Help Guide
 
 ## Purpose
-<thinking>
-This form is designed to add new questions to a survey template. The purpose of this form is to provide a structured way to create and manage questions for surveys, quizzes, and assessments. To ensure that each question is relevant and accurately categorized, we recommend carefully reviewing the form's fields before submitting.
-
-Before proceeding, please make sure you have a good understanding of the question you want to add, as well as the survey template you are using.
-</thinking>
-
 ## How To Complete This Form
 1. Fill in the title of the question in the **question-addition-guide** field.
 2. Provide a description of the question in the **form-description** field.

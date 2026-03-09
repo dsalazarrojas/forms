@@ -1,11 +1,3 @@
-<thinking>
-
-This form aims to assess the emergency response readiness of building occupants by gathering information on various aspects of their knowledge and behaviors related to emergency evacuation procedures. The form will be used by building management or emergency response teams to evaluate the effectiveness of their emergency response systems and identify areas for improvement. It's essential to fill this form carefully and honestly to provide accurate and reliable results. 
-
-Please note that this form is for survey purposes only and does not collect any sensitive or personal information. If you're unsure about any question, feel free to ask your supervisor or emergency response team for clarification.
-
-</thinking>
-
 # Building Emergency Response Survey - Help Guide
 ## Purpose
 This form is designed to assess the emergency response readiness of building occupants by gathering information on various aspects of their knowledge and behaviors related to emergency evacuation procedures.

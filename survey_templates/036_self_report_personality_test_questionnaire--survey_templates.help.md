@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a user's personality traits and demographics. It consists of questions that assess the user's personality type (Extraverted or Introvert) and their levels of agreeableness, conscientiousness, openness, and extroversion. Additionally, the form collects demographic information such as job title, company, email, and phone number. This form is meant to be a self-reporting personality test questionnaire.
-
-This guide is provided to help users understand the purpose and process of completing the form. Please ensure that you are filling out this form with honest and accurate information.
-</thinking>
-
 # Self Report Personality Test Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about your personality traits and demographics in order to create a better understanding of your personality type and characteristics.

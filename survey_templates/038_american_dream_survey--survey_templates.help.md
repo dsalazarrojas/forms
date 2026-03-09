@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a comprehensive survey designed to gather insights from individuals about their experiences and perceptions of the American Dream. The survey seems to aim to cover various aspects of the American Dream, from demographic information and personal experiences to motivations, challenges, and future outlook. 
-
-To ensure that the respondents are providing valuable and accurate insights, it's crucial to ensure that the form is filled out by individuals who have a genuine understanding of the American Dream. Therefore, it's essential to ensure that the respondents meet the eligibility criteria or are part of the target audience.
-
-It's also worth noting that some of the questions might be sensitive or potentially duplicate, and some respondents might find it challenging to provide accurate answers to certain questions, especially if they don't have a clear understanding of the American Dream. To minimize the risk of duplication and sensitive questions, it's recommended to review the form carefully and make adjustments as necessary.
-
-</thinking>
-
 # American Dream Survey - Help Guide
 ## Purpose
 The American Dream Survey is a comprehensive questionnaire designed to gather insights from individuals about their experiences and perceptions of the American Dream. This survey aims to understand what the American Dream means to different people, how achievable it is, and what challenges they face in pursuing it.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Donation Survey - Help Guide
 ## Purpose
 The "Donation Survey" form is designed to collect information from donors, including their contact details, gift details, and preferred language for communication. This form helps us understand donor behavior and preferences, enabling us to better serve them and tailor our communication accordingly.

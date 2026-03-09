@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect data for a survey related to religious parenting practices. The goal is to gather insights and feedback from parents on their experiences and opinions about various aspects of religious parenting. Please ensure that you are filling out this form with relevant and thoughtful answers. Note that this form is not affiliated with or endorsed by any specific religious organization and is intended to be a neutral and general survey.</thinking>
-
 # religious Parenting App Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your experiences and opinions on various aspects of religious parenting practices. Your responses will help us understand your perspectives and provide valuable insights for creating better resources for parents.

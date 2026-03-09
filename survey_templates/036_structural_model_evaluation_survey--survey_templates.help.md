@@ -1,13 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "structural_model_evaluation_survey" form. The form is part of the "survey_templates" category and has 15 fields in total. We will need to clearly explain the purpose of the form, how to complete it, and each field's meaning to the end users.
-
-Let's first review the form's purpose and structure. The form is designed to collect evaluations of structural models, which are likely used in some technical or scientific context, such as architecture or engineering. The form is likely used by experts or evaluators who need to assess the suitability and quality of structural models.
-
-The form has several fields that ask for ratings, scores, and descriptions, which suggests that it's a comprehensive evaluation survey. The fields are divided into sections, each focusing on a specific aspect of the structural model.
-
-Now that we have a good understanding of the form's purpose and structure, let's create the help guide.
-</thinking>
-
 # structural_model_evaluation_survey - Help Guide
 ## Purpose
 The "structural_model_evaluation_survey" form is designed to collect evaluations of structural models, assessing their suitability, quality, and characteristics.

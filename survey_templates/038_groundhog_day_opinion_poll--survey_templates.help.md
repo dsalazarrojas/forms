@@ -1,7 +1,3 @@
-<thinking>
-This form is a user-facing help guide for the "groundhog_day_opinion_poll" survey template. The purpose of this form is to collect opinions about Groundhog Day, which is a popular cultural event where a groundhog's prediction of weather determines the weather for a given period. The survey will help us understand users' familiarity with this event, their beliefs about it, their level of interest, favorite characters, and any other opinions they may have. It's essential to ensure that users understand the form's purpose and how to complete it correctly to provide accurate and useful insights.
-</thinking>
-
 # groundhog_day_opinion_poll - Help Guide
 ## Purpose
 This form is a survey about your opinions and thoughts about Groundhog Day. It will help us understand your familiarity, beliefs, interest, and favorite characters related to this event.

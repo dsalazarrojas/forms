@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather data from respondents about their interest in new beverages, specifically about the launch of a new beverage product. The form is used to collect demographic information (age range, gender, etc.) and opinions on various aspects of the beverage, including its concept, flavor, packaging, price, and marketing channels. The form is part of a larger research initiative aimed at understanding consumer behavior and preferences related to new beverage products. This form is intended for internal use and is not affiliated with any specific company or organization.
-</thinking>
-
 # Beverage Launch Marketing Poll Form - Help Guide
 ## Purpose
 The Beverage Launch Marketing Poll Form is designed to collect data on consumer opinions and preferences regarding a new beverage product. This form helps the research team understand how consumers perceive the product, what features appeal to them, and what they are willing to pay for it.

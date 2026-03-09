@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect feedback from franchisees or customers about their satisfaction with the business opportunity. The purpose of this form is to gather information on their overall experience, identify areas for improvement, and gather feedback on the support provided by the business opportunity. The form consists of several sections, each focusing on different aspects of the experience.</thinking>
-
 # Franchise Satisfaction Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from franchisees or customers about their experience with the business opportunity. Your input will help us identify areas for improvement and provide better support in the future.

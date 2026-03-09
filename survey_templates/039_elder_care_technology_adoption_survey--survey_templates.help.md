@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from elder care service providers about their technology adoption, challenges, and feedback. The goal is to understand the current state of technology adoption in the elder care industry, identify areas for improvement, and provide recommendations for future development. It's essential to complete this form accurately and thoroughly to ensure valuable insights are collected.
-
-Before proceeding, please review the form carefully to ensure you're providing the most relevant and up-to-date information. If you've already completed a similar survey or have provided similar information previously, please provide an updated version to reflect any changes.
-
-This form consists of several sections, each focusing on different aspects of technology adoption in elder care. Please follow the instructions and explanations provided for each field to ensure accurate and efficient completion.
-
-</thinking>
-
 # Elder Care Technology Adoption Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about technology adoption in the elder care industry. Your participation will help us understand the current state of technology adoption and provide valuable insights for future development.

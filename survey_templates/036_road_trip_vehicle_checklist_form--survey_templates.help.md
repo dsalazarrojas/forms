@@ -1,12 +1,3 @@
-<thinking>
-This form is used to gather information on the condition of a vehicle before and after a road trip. It is intended to be completed by someone who is inspecting the vehicle, typically an owner or driver. The form helps ensure that all essential systems are checked and recorded, and that any issues or concerns are noted.
-
-To prevent duplication of efforts, please ensure that the form is only completed once per vehicle inspection. If the vehicle is being inspected for the same purpose multiple times (e.g., a regular check-up or a pre-trip check), it's recommended to keep a copy of the previous inspection results for reference.
-
-Before starting the form, review the vehicle's current condition and make sure that all relevant information is recorded accurately. If a section is unsure or unknown, mark the corresponding field as "Not Checked" or "Unknown" as needed.
-
-</thinking>
-
 # Road Trip Vehicle Checklist Form - Help Guide
 ## Purpose
 The Road Trip Vehicle Checklist Form is used to gather information on the condition of a vehicle before and after a road trip. It ensures that all essential systems are checked and recorded, and any issues or concerns are noted.

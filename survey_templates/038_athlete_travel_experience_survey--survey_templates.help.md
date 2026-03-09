@@ -1,7 +1,3 @@
-<thinking>
-We need to assess how our athlete travel experience surveys are being used within the organization. This form is designed to gather insights from athletes on their experiences while traveling for events or competitions. The purpose of this survey is to identify areas of improvement for our travel logistics and to ensure that athletes have a positive experience during their trips. By analyzing the results, we can adjust our processes to better meet the needs of our athletes. Please note that this survey is only for athletes who have recently traveled for our events or competitions.
-</thinking>
-
 # Athlete Travel Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from athletes on their experiences while traveling for events or competitions.

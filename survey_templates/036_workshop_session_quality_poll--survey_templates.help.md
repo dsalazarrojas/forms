@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their experience with a workshop. The purpose of this form is to gauge the overall quality of the workshop, covering various aspects such as organization, content, and facilities. The form is intended to be completed by workshop attendees to provide valuable insights for future workshop organizers.
-</thinking>
-
 # workshop_session_quality_poll - Help Guide
 ## Purpose
 This form aims to gather feedback on the quality of a workshop, providing a comprehensive evaluation of its organization, content, and facilities.

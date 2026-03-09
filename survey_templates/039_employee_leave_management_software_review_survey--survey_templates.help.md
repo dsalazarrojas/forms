@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from employees on their experience with the Employee Leave Management Software. The purpose of this form is to collect information on the software's ease of use, feature set, and overall satisfaction. This data will be used to improve the software and make it more user-friendly.
-The form is not intended for immediate action, but rather for the collection of valuable insights that will inform future development decisions.
-The feedback collected from this form will be used to identify areas of improvement and to make data-driven decisions for the development and maintenance of the software.
-Please note that this form is a one-time feedback collection tool and responses are voluntary.
-</thinking>
-
 # Employee Leave Management Software Review Survey - Help Guide
 
 ## Purpose

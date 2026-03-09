@@ -1,5 +1,3 @@
-<thinking>... this form is used by customers to provide feedback on the e-commerce chatbot's performance. The form is designed to be simple and easy to complete, with fields that allow customers to rate the chatbot, provide feedback, and share their contact information if they'd like to receive more information or support. To avoid duplication and ensure relevant feedback, we will only accept submissions from customers who have not already provided feedback or have not interacted with the chatbot in the past 30 days...</thinking>
-
 # e-commerce_chatbot_feedback_form - Help Guide
 ## Purpose
 This form is designed to gather customer feedback on our e-commerce chatbot's performance. We value your opinion and use your feedback to improve the chatbot's functionality and user experience.

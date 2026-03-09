@@ -1,10 +1,3 @@
-<thinking>
-This help guide is for the exhibitor survey form. The form is used to gather information from exhibitors about their events or webinars. It's used to determine the type of survey that will be conducted and the frequency of follow-up surveys. The form is divided into two main sections: the first section collects information about the event or webinar, and the second section collects information about the survey questions and follow-up schedule. The form is designed to be filled out by exhibitors and will help us understand their needs and preferences for follow-up surveys.
-
-This guide will walk you through each section of the form and explain the purpose of each field.
-
-</thinking>
-
 # exhibitor_survey_form - Help Guide
 ## Purpose
 This form is used to gather information from exhibitors about their events or webinars. It helps us determine the type of survey that will be conducted and the frequency of follow-up surveys.

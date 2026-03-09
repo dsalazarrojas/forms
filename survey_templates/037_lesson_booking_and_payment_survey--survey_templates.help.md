@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to be used by end-users who need to fill out the Lesson Booking And Payment Survey form. Before proceeding, ensure that you are familiar with the form's purpose and requirements. This form should only be filled out by users who have actually completed a lesson and have relevant experience to provide feedback and ratings.
-</thinking>
-
 # Lesson Booking And Payment Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from users who have completed a lesson and payment survey. It consists of 24 fields, divided into different sections to make it easier to provide your thoughts and opinions.

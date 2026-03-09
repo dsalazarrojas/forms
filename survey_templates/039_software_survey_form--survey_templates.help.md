@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a comprehensive help guide for the "Software Survey Form" that covers its purpose, completion process, and field-by-field explanation. I'll make sure to be concrete, concise, and practical in my explanation, based on the provided YAML fields. I'll also use the required Markdown structure after this internal reasoning block.</thinking>
-
 # Software Survey Form - Help Guide
 ## Purpose
 The Software Survey Form is designed to gather feedback from users about their experience with our software. This form helps us understand how often you use our software, your job title, contact information, and what you like or dislike about it. Your responses will help us improve and better serve your needs.

@@ -1,5 +1,3 @@
-<thinking> ... </thinking>
-
 # Cultural Event Communication Form - Help Guide
 ## Purpose
 This form is designed to gather information about cultural events, including event details, participant information, and communication preferences. It is intended for event organizers to effectively communicate with participants and ensure a smooth event experience.

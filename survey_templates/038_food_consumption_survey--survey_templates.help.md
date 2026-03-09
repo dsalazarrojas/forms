@@ -1,5 +1,3 @@
-<thinking>This form is a Food Consumption Survey designed to gather information about a patient's fast food consumption habits, including frequency, awareness, and score details. The form is likely used by healthcare professionals to assess the patient's eating habits and provide personalized recommendations. This form should only be filled out by the patient or their representative, as it is a survey meant to gather information about their own habits. Please ensure that you have permission from the patient to fill out this form. Before proceeding, check that you have not already completed this form, as duplicate submissions may lead to unnecessary and repetitive data collection.</thinking>
-
 # Food Consumption Survey - Help Guide
 ## Purpose
 This form is used to collect information about a patient's fast food consumption habits, including frequency, awareness, and score details. The data collected will help healthcare professionals assess the patient's eating habits and provide personalized recommendations.

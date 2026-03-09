@@ -1,5 +1,3 @@
-<thinking>As we create this user-facing help guide for the "industrial_wastewater_user_survey" form, we'll aim to make it clear, concise, and practical for end-users to understand its purpose, completion process, and field explanations. This guide will be based on the provided YAML fields and structured according to the required Markdown format.</thinking>
-
 # industrial_wastewater_user_survey - Help Guide
 ## Purpose
 The "industrial_wastewater_user_survey" form is designed to collect information about industrial wastewater characteristics and waste management practices from users. This form helps in identifying key areas for improvement and understanding the current state of industrial wastewater management. Please ensure that the form is completed accurately and honestly, as it will help in developing effective solutions for better wastewater management.

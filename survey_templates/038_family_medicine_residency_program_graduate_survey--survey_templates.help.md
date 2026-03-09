@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from graduates of the Family Medicine Residency Program. The information collected will be used to evaluate the program's performance and make data-driven decisions to improve future cohorts.
-
-Before proceeding, please ensure that you have not previously completed this survey. Duplicate responses can skew the results and are not considered valid. If you are not sure, please verify with the program administrators before submitting your response.
-
-</thinking>
-
 # Family Medicine Residency Program Graduate Survey - Help Guide
 ## Purpose
 

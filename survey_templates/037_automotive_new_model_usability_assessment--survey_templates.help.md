@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather information from automotive experts or reviewers to evaluate the usability of a new car model. The purpose of this form is to provide a comprehensive assessment of the car's user experience, including its interior and controls, driving dynamics, safety features, and overall impression. The form will help to identify areas of improvement and provide valuable feedback to the car manufacturer.
-
-The form should not be completed by anyone who has not actually test-driven the car, as the questions and answers will be specific to their personal experience with the vehicle.
-
-Please ensure that you have test-driven the car before attempting to complete this form.
-
-</thinking>
-
 # Automotive New Model Usability Assessment - Help Guide
 ## Purpose
 The Automotive New Model Usability Assessment form is designed to gather feedback on the user experience of a new car model. The form covers various aspects of the car, including its interior and controls, driving dynamics, safety features, and overall impression.

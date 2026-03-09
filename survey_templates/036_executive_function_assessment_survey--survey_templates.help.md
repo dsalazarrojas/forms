@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for assessing the executive function of an individual, possibly in an educational or psychological context. The goal of the form is to gather information about the individual's executive functions, which are high-level cognitive processes such as planning, decision-making, and problem-solving. This form might be used by educators, psychologists, or healthcare professionals to evaluate an individual's executive function abilities. The form's design and the fields included suggest it is meant for data collection and analysis.
-</thinking>
-
 # Executive Function Assessment Survey - Help Guide
 
 ## Purpose

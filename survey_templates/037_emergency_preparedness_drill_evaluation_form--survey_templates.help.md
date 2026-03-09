@@ -1,10 +1,3 @@
-<thinking>
-The Emergency Preparedness Drill Evaluation Form is a document used to assess the effectiveness and quality of emergency preparedness drills conducted by emergency organizations. This form is designed to collect data on various aspects of the drill, including the observation area, communication, and participant engagement. The form is meant to provide feedback and suggestions for improvement to the organizers of the drill, helping them to refine their response planning and execution in emergency situations.
-
-The form will likely be used by emergency response teams, emergency management professionals, and other stakeholders involved in emergency preparedness and response efforts. To avoid duplication and ensure relevance, the form should only be filled out after an emergency response exercise or drill has been conducted.
-
-</thinking>
-
 # Emergency Preparedness Drill Evaluation Form - Help Guide
 ## Purpose
 The Emergency Preparedness Drill Evaluation Form is a tool used to assess the effectiveness of emergency preparedness drills. It helps emergency response teams and stakeholders evaluate the drill's strengths and weaknesses, providing valuable insights for improvement.

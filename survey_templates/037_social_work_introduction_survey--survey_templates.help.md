@@ -1,10 +1,3 @@
-<thinking>
-Before we dive into the form design, I'd like to clarify the purpose and relevance of this form. This form appears to be a social work survey template used to gather information about clients, their support needs, and the services they require. It's likely used to assess the client's situation, identify their priorities, and determine the best course of action for their support and care.
-
-Please confirm if this is the correct interpretation, and I'll proceed with creating the user-facing help guide.
-
-</thinking>
-
 # social_work_introduction_survey - Help Guide
 
 ## Purpose

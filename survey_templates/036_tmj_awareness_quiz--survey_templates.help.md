@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gauge the user's awareness of TMJ (Temporomandibular Joint) issues, specifically regarding their understanding and experiences related to the joint. The purpose of this form is to collect data on users' knowledge and perceptions about TMJ disorders, which will be used to improve education and awareness campaigns for this condition. This form is not intended for medical diagnosis or treatment, but rather for general awareness purposes.
-
-Please note that this form is not intended to be filled out by users who have already taken the quiz in the past. If you have previously completed this form, please do not attempt to re-take it.
-</thinking>
-
 # TMJ Awareness Quiz - Help Guide
 ## Purpose
 This form is designed to collect information about your awareness and experiences related to TMJ issues. Your participation will help us better understand users' knowledge and perceptions about this condition.

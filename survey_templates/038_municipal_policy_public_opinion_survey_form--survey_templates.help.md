@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather public opinion on municipal policies. The purpose of this form is to collect data from residents on their views and experiences with various municipal services, policies, and community programs. This form aims to gather valuable insights that can inform decision-making by local government officials. Please note that this form should not be completed by municipal employees or contractors, as the goal is to capture diverse and representative public opinions.
-
-</thinking>
-
 # Municipal Policy Public Opinion Survey Form - Help Guide
 ## Purpose
 This guide will help you complete the Municipal Policy Public Opinion Survey Form successfully.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data on an individual's performance and wellbeing in their current role. The purpose of this form is to gather information that can be used to identify areas of improvement and provide support for employees. It is not a mandatory form and is intended for voluntary completion. Please ensure that you are completing this form for the correct purpose and do not provide any personal identifiable information.
-</thinking>
-
 # Individual Performance And Wellbeing Survey - Help Guide
 ## Purpose
 This form is designed to assess your performance and wellbeing in your current role, allowing you to reflect on your experiences and identify areas for improvement.

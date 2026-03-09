@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I need to consider the purpose and requirements of the form. The purpose of this form is to assess the readiness and response of an organization to disasters or critical incidents. This form will help the organization identify areas of concern and determine the level of preparedness to recover from such incidents. I will ensure that the explanation is clear, concise, and follows the provided YAML structure. I will not include any internal reasoning or duplication in the guide.</thinking>
-
 # Disaster Recovery Plan Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the readiness and response of your organization to disasters or critical incidents. It helps identify areas of concern and determines the level of preparedness to recover from such incidents.

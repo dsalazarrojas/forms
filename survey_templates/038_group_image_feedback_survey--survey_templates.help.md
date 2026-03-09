@@ -1,5 +1,3 @@
-<thinking>Are you sure the fields are correctly labeled? The "rating_scale" is a field with id 2 and id 7. Also, there's a "phone" field which is not a typical form field. I'll assume it's a typo and you meant to ask for a "phone number" field. I'll also assume the fields are meant to collect feedback on four images and a overall rating.</thinking>
-
 # Group Image Feedback Survey - Help Guide
 ## Purpose
 This form is for collecting feedback on a group of images. It is used to gauge the overall impression and quality of the images, as well as gather additional comments and contact information for follow-up.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the marketing reach of a company or brand, gathering information on various aspects such as the channels used, audience reached, and performance indicators. It's intended to help users assess the effectiveness of their marketing strategies. Before starting, ensure that you are not duplicating efforts and have a clear understanding of the form's purpose and your goals. If you have already completed a similar form, you may want to review the changes or updates made since your last submission.
-</thinking>
-
 # Marketing Reach Evaluation Form - Help Guide
 ## Purpose
 The Marketing Reach Evaluation Form is designed to assess the marketing reach and performance of your company or brand. This form helps you evaluate your marketing channels, audience, and growth challenges, providing valuable insights for future marketing strategies.

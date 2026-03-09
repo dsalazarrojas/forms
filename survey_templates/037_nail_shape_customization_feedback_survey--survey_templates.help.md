@@ -1,12 +1,3 @@
-<thinking>
-This form is used to gather feedback on the nail shape customization options offered by the organization. The purpose of this form is to help the organization understand what customers think about their current nail shape offerings and what they would like to see offered in the future. The form asks about the customer's preferred nail shape, their satisfaction with the current options, and if they have any additional comments or suggestions. This information will be used to improve the organization's nail shape customization offerings and provide better service to customers. 
-
-Before proceeding, please check that this form is not a duplicate and that your feedback is relevant to the organization's nail shape customization services. If you have already provided feedback on this topic, your response will not be recorded. 
-
-Please note that this form is for feedback purposes only and your responses will be kept confidential. Your contact information will only be used to follow up with you regarding any additional questions or to clarify any points from your feedback.
-
-</thinking>
-
 # Nail Shape Customization Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the organization's nail shape customization options. It aims to understand customer preferences and satisfaction with the current offerings, and to gather suggestions for future improvements.

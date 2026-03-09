@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect metadata for music albums, including album name, URL, genre, style, critic name, release date, rating, release status, critic feedback, and other relevant details. The purpose of this form is to gather information about music albums for the purpose of review and release management. This form is intended for music critics and industry professionals to provide a structured and organized way of collecting and documenting music album metadata. To ensure accurate and comprehensive data collection, please fill out the form carefully and thoroughly. Before starting, ensure that you are filling out the form for a specific music album and that the information you provide is accurate and up-to-date.
-
-Before proceeding, please note that some fields are required while others are optional. Required fields are marked as such and are necessary for the form submission to be valid. You can refer to the field explanations below for more detailed information about each field.
-
-</thinking>
-
 # Music Album Critic Release Form - Help Guide
 ## Purpose
 This form is designed to collect metadata for music albums to facilitate efficient and organized data management and review.

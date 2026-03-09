@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Reminder Setup Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your preferences for reminders, including your preferred time of day, notification method, reminder day, reminder frequency, time of day, reminder message, email, and phone number. The goal is to help us set up your reminders according to your specifications.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to gather information about the Deaf Awareness Training Survey, which aims to assess the knowledge, understanding, and experience of individuals who have completed the training. The form is likely used to evaluate the effectiveness of the training program and gather feedback from participants. It is assumed that the training program has already been delivered, and this form is a follow-up survey to collect data on the participants' experiences and perceptions. This form is intended to be completed by individuals who have undergone the training.
-
-</thinking>
-
 # Deaf Awareness Training Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather feedback and information about the Deaf Awareness Training Survey. It is meant to evaluate the effectiveness of the training program and gather data on participants' experiences and perceptions.

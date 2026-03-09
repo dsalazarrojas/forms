@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Facilities Maintenance Questionnaire - Help Guide
 ## Purpose
 

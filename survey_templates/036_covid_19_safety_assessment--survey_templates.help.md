@@ -1,17 +1,3 @@
-<thinking>
-The purpose of this form is to assess and document the COVID-19 safety protocols and procedures of an organization or team. This form aims to help identify areas of improvement and provide a framework for implementing effective safety measures to mitigate the risks associated with COVID-19.
-
-To ensure accurate and comprehensive assessments, please ensure that:
-
-* The form is filled out by a qualified workplace safety officer or designated representative.
-* The assessment is performed regularly, ideally on a weekly or bi-weekly basis.
-* The assessment covers all employees, contractors, and visitors present in the workspace.
-* The assessment is documented in accordance with company policies and procedures.
-
-Before starting the form, review the organization's COVID-19 safety protocols and procedures to ensure that all aspects are addressed.
-
-</thinking>
-
 # COVID 19 Safety Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess and document the COVID-19 safety protocols and procedures of an organization or team.

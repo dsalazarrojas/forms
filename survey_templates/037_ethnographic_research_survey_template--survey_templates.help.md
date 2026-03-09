@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for collecting information about ethnographic research surveys. It helps in identifying the research method, participant behaviors, activities, and other relevant details. The purpose of this form is to gather data that can be used to better understand human behavior and interactions in a particular setting. This form is not meant to be filled out for every single research project, but rather as a template to be used when the project requires such information. It is essential to fill out this form carefully, as the data collected will be used to inform future research and decision-making.
-
-</thinking>
-
 # Ethnographic Research Survey Template - Help Guide
 ## Purpose
 The Ethnographic Research Survey Template is a form designed to collect information about ethnographic research surveys. It is meant to be used when conducting research that involves observing and recording human behavior in its natural setting.

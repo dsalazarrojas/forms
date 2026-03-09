@@ -1,5 +1,3 @@
-<thinking>This form is a "Student Satisfaction Survey Form" intended to collect feedback from students about their experiences and satisfaction with various aspects of a school or educational institution. Before completing this form, please ensure that you are responding to it sincerely and honestly, and that your feedback is not repetitive or redundant. The form is designed to gather data that will help us understand the strengths and weaknesses of our educational programs, so your responses will have a direct impact on the quality of our services.</thinking>
-
 # Student Satisfaction Survey Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from students about their experiences and satisfaction with various aspects of the school or educational institution.

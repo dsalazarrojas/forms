@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my task is to create a user-facing help guide for the "Corporate Climate Survey" form. The form is designed to collect data and opinions from employees about their work experience and perception of the company. It consists of three pages: "Company Survey", "Climate Survey", and "Employee Experience". To complete this form, the user should understand the purpose and each field's explanation, which will help ensure accuracy and consistency in the data collected.</thinking>
-
 # Corporate Climate Survey - Help Guide
 ## Purpose
 The Corporate Climate Survey is designed to gather feedback from employees about their perception and experience working for the company. This information will help management understand the climate of the company, identify areas of improvement, and develop strategies to enhance employee satisfaction and engagement.

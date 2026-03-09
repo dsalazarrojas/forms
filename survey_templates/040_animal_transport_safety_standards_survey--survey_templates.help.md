@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animal Transport Safety Standards Survey - Help Guide
 ## Purpose
 This form is designed to assess your views on animal transport safety standards, including current practices, challenges, and potential improvements. Your input will help identify gaps and areas for improvement in the industry.

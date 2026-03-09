@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect user opinions on a wrestling match prediction survey. The purpose of the form is to ask users to select the best options for various parameters of a wrestling match. This form is likely used by a sports organization or a website that wants to collect user feedback on wrestling matches.
- 
-The form is divided into two main categories: selecting the participants of the match, and providing their respective confidence and result predictions.
- 
-We should ensure that the user selects only one option from each of the select_one fields to avoid confusion.
- 
-</thinking>
-
 # Wrestling Match Prediction Survey - Help Guide
 ## Purpose
 The Wrestling Match Prediction Survey is designed to collect user opinions on a wrestling match. The survey asks users to select the best options for various parameters of the match, such as the confidence level of each wrestler and the match result.

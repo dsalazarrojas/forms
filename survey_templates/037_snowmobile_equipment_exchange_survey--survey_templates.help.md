@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users regarding snowmobile equipment exchange. The purpose of this form is to gather data on the condition, type, and description of the snowmobile equipment being exchanged or sold. This form will help in creating a record of the equipment's details, facilitating a smooth transaction between buyers and sellers. It is essential to note that this form is not intended for commercial use but rather for internal purposes within the organization.
-
-The form is divided into several sections, and users will be guided through each field to ensure accurate and complete submission. 
-
-</thinking>
-
 # Snowmobile Equipment Exchange Survey - Help Guide
 ## Purpose
 The Snowmobile Equipment Exchange Survey form is a tool for collecting and recording information on snowmobile equipment being exchanged or sold. This form is designed to help facilitate transactions between buyers and sellers by providing a structured way of gathering essential details.

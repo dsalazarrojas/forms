@@ -1,21 +1,3 @@
-<thinking>
-This form appears to be a survey for patients or individuals seeking treatment for skin-related concerns, such as pigmentation issues. The form is likely used in a medical setting to collect information about the patient's medical history, previous treatments, and concerns. The purpose of this form is to gather data on the patient's expectations and experiences with pigmentation treatments.
-The form is designed to be completed by patients or individuals, and it is likely used to inform treatment decisions or to assess the effectiveness of pigmentation treatments. There is no indication that the form is meant to be completed by healthcare professionals.
-The form consists of several sections, including:
-- Introduction: A brief section to provide context and information about the survey.
-- Pigmentation Concerns: A section to ask about the patient's concerns related to pigmentation.
-- Prior Treatments: A section to ask about previous treatments the patient has received.
-- Expectations: A section to ask about the patient's expectations from the treatment.
-- Description of Concerns: A section to ask the patient to describe their concerns in more detail.
-- Medical History: A section to ask about the patient's medical history.
-- Previous Treatments: A section to ask about previous treatments the patient has received.
-- Description of Expectations: A section to ask the patient to describe their expectations from the treatment.
-- Description of Medical History: A section to ask the patient to describe their medical history.
-- Concerns Frequency: A section to ask about how often the patient's concerns occur.
-- Concerns Severity: A section to ask about the severity of the patient's concerns.
-- Concerns Duration: A section to ask about how long the patient's concerns last.
-</thinking>
-
 # Pigmentation Treatment Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your experiences and expectations related to pigmentation treatments.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and ratings from applicants on their experience with the university's admissions process. This form is designed to gather information on the application process, communication style, admission decision, and overall satisfaction with the process. This form may only be completed by applicants who have gone through the university's admissions process. Please ensure that you are responding to this survey based on your actual experience with the university. Duplicate responses will not be accepted, as this will skew the results and make it difficult to get an accurate picture of the applicant's experience.
-</thinking>
-
 # University Admissions Process Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback and ratings from applicants on their experience with the university's admissions process. Your responses will help us identify areas of improvement and enhance the overall student experience.

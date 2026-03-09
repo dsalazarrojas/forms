@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to assess an organization's crisis management preparedness, which is crucial for mitigating risks and responding to crises effectively. It helps in evaluating the organization's ability to manage crises, evaluate its response and preparedness levels, and identify areas for improvement.
-The form is a comprehensive assessment tool that covers various aspects of crisis management, including assessing crises, evaluating preparedness, managing response, and assessing readiness scores. The form should be completed by relevant personnel responsible for crisis management within the organization.
-</thinking>
-
 # Crisis Management Preparedness Assessment Form - Help Guide
 ## Purpose
 The Crisis Management Preparedness Assessment Form is designed to evaluate an organization's crisis management preparedness, assessing its ability to respond to and manage crises effectively.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # event_meal_contribution_feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from event attendees about their experiences with meal contributions, specifically their ratings and satisfaction levels. The form will help event organizers understand what attendees think about the quality and quantity of food provided, and what suggestions they have for future improvements.

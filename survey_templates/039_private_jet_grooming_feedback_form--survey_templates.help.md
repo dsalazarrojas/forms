@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from private jet customers about their grooming and overall experience. It's intended to gather information about the cleanliness of the cabin, quality of grooming services, overall satisfaction, and other relevant details. This form should only be filled out by customers who have taken a private jet flight. If you've filled out this form before, you might not need to do so again. Please ensure you're providing your real contact information for follow-up communication.
-</thinking>
-
 # private_jet_grooming_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from private jet customers about their experience with the airline.

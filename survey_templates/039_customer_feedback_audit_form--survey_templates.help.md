@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect customer feedback and audit the quality of service and products provided to customers. This form should only be completed by customers or their representatives, not by internal staff members. The form should not be used for internal quality control or performance evaluation.
-</thinking>
-
 # Customer Feedback Audit Form - Help Guide
 ## Purpose
 The Customer Feedback Audit Form is designed to gather valuable insights from customers to improve our products and services.

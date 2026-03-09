@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's health survey, and it will be used to provide a comprehensive overview of the patient's medical history, symptoms, and treatment preferences. The form is divided into several sections, each focused on a specific aspect of the patient's health. The information collected will help healthcare professionals better understand the patient's needs and provide more effective care. Before proceeding, please ensure that you have not already completed this survey, as duplicate submissions may cause confusion and affect patient care.
-</thinking>
-
 # health_survey - Help Guide
 ## Purpose
 The health survey form is designed to collect comprehensive information about a patient's medical history, symptoms, and treatment preferences.

@@ -1,12 +1,3 @@
-<thinking>
-To create a user-friendly help guide for this form, we first need to understand the purpose and context of the form. Based on the provided YAML fields, it appears that this form is designed to assess the resource development in a team, likely for the purpose of evaluating or evaluating the effectiveness of resource development within the team. 
-
-Given the structure of the form, it seems that it is intended for team members to provide feedback and input on various aspects of resource development, such as adequacy, challenges, priorities, and other open-ended notes. The form's layout also suggests that it may be used for self-assessment or peer review purposes. 
-
-To provide a comprehensive help guide, we should ensure that each field is clearly explained, and the user can easily understand how to navigate through the form.
-
-</thinking>
-
 # Resource Development Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the resource development within your team. It is designed to gather feedback and input on various aspects of resource development, including adequacy, challenges, priorities, and other relevant information. This form is intended for team members to provide their insights and help evaluate the effectiveness of resource development.

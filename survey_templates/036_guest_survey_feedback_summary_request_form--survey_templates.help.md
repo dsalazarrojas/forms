@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect feedback from guests on the events or incidents they have experienced at a location. The purpose of this form is to gather information about the guest's satisfaction with the services provided and to identify areas for improvement. This form is not intended to be a formal complaint form, but rather a way to gather feedback to help us improve our services.
-
-Before completing this form, please note that the information you provide will be used to help us improve our services, and will not be used for any other purpose. If you have already provided feedback on this form in the past, please do not fill out this form again, as your feedback will not be processed multiple times.
-</thinking>
-
 # Guest Survey Feedback Summary Request Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # share_your_recovery_journey - Help Guide
 ## Purpose
 This form is designed to collect information about your recovery journey. It's meant to help us understand your experiences and challenges during your recovery process. Please answer the questions honestly, and feel free to provide as much detail as you need to share your story.

@@ -1,10 +1,3 @@
-<thinking>
-This form is likely used to collect feedback from customers about their experience with residential soundproofing systems. The purpose of this form is to gather data on customer satisfaction, specifically their ratings of the soundproofing system, quality of installation, and customer support. This data will help the company understand areas of improvement and provide better services to their customers in the future.
-
-To avoid duplication of efforts, we should ensure that this form is not used to collect data that is already collected through other means, such as customer reviews or ratings on the company's website.
-
-</thinking>
-
 # Residential Soundproofing Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with residential soundproofing systems. The data collected will help the company understand customer satisfaction and identify areas for improvement.

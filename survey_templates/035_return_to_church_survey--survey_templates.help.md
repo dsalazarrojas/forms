@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect information from individuals who have returned to the church after a period of absence. The purpose of this form is to help the church understand the reasons for their return and gather information on their last visit. 
-
-The form is not required for everyone, but it's recommended for those who have been away from the church for an extended period. It's not a survey for current attendees, and it's not meant to be completed for every individual. 
-
-Please only complete this form if you've returned to the church after a period of absence and would like to inform us about your experience.
-
-</thinking>
-
 # return_to_church_survey - Help Guide
 ## Purpose
 This form is designed to help the church understand the reasons for your return and gather information on your last visit.

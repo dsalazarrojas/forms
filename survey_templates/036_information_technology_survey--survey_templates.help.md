@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information about an individual's experiences and attitudes towards information technology, which will help us better understand their needs and expectations.
-Before you start, make sure you are the right person to fill this form out. If you're not sure, please don't fill it out. This form should only be filled out once per individual.
-</thinking>
-
 # Information Technology Survey - Help Guide
 ## Purpose
 This form is designed to gather information about an individual's experiences and attitudes towards information technology.

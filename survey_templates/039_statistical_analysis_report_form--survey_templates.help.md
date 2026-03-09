@@ -1,25 +1,3 @@
-<thinking>
-This form is designed to collect information about a statistical analysis report. The purpose of this form is to provide a clear and structured way for users to submit reports on statistical analysis, ensuring that all necessary information is provided. This form is used to collect data for the Statistical Analysis Report Form.
-
-Before completing this form, please ensure that you have all the required information and that you are not submitting duplicate reports.
-
-When filling out this form, please follow these steps:
-
-1.  Enter the title of the report, which should be a brief and descriptive title that accurately represents the content of the report.
-2.  Provide a short description of the report, which should give an overview of the report's purpose and main findings.
-3.  Select the type of report you are submitting, which will help the recipient understand the content and scope of the report.
-4.  Specify whether data was sourced from within the organization or an external source.
-5.  Choose the statistical method used in the analysis, which will help the recipient understand the methodology behind the report.
-6.  Select the frequency of the report's output, if applicable.
-7.  Enter the date the report is scheduled to be completed or submitted.
-8.  Enter the date the report was actually submitted.
-9.  Provide the submission status of the report, which should reflect the current stage of completion.
-10. Enter the name of the person submitting the report, which should include their title.
-11. Enter the contact information of the person submitting the report, including email and phone number.
-12. If necessary, enter additional contact information.
-
-</thinking>
-
 # Statistical Analysis Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about a statistical analysis report.

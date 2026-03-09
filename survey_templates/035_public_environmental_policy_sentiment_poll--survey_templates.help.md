@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to gather information from users on their opinions and concerns regarding public environmental policies. The form is divided into multiple pages, each covering different aspects of environmental policies, such as policy concerns, effectiveness, and additional comments. The form also collects contact information, including email addresses, phone numbers, and names. The fields are mostly optional, except for the email addresses which are required for respondents to provide. The form aims to gather diverse opinions and concerns from users, allowing for a comprehensive understanding of the public's perspective on environmental policies.
-
-Please note that the form's design and fields seem to be redundant and repetitive, as there are multiple fields with similar labels and options. This might be due to an error in the form's design or a misunderstanding in the form's purpose. It is recommended to review and refine the form's design to ensure it is clear, concise, and efficient.
-
-</thinking>
-
 # Public Environmental Policy Sentiment Poll - Help Guide
 ## Purpose
 This form is designed to gather information from users on their opinions and concerns regarding public environmental policies.

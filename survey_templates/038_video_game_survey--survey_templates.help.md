@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a user's preferences and characteristics as a gamer. This form is likely used to help game developers, publishers, or market researchers understand their target audience's habits, preferences, and demographics.
-The form collects data on various aspects of gaming, including favorite game genres, platforms, consoles, and qualities, as well as personal preferences such as game duration and difficulty level. Some fields allow for free-text responses, such as favorite game notes and other game preferences.
-To ensure accurate and relevant data, it's essential to understand the correct answers for each field. Here are some internal checks that can be made to avoid duplication and ensure the form is filled out correctly:
-- Ensure the "User Name" field is filled out correctly, following the standard format for names in your organization.
-- For the "Gamer Type" field, select only one option that best describes the user's identity as a gamer (e.g., casual, hardcore, or social).
-- When answering "Favorite Game Genre" and "Favorite Game Language", select all that apply.
-- For "Favorite Game Quality" fields (Video Quality, Music Quality, etc.), select one option per field.
-</thinking>
-
 # Video Game Survey - Help Guide
 
 ## Purpose

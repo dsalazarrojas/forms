@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge the preferences of users regarding menu items, likely for the purpose of gathering feedback and improving menu offerings. The form is divided into several pages, each containing questions that ask users to rate, select, or provide information about their preferences. Each page has a unique label and ID, indicating the specific topic or question being asked. The form is not required, suggesting that it's optional to complete and may be used for informational or exploratory purposes. The fields are a mix of single-select, multiple-select, and free-text questions, allowing users to provide varied responses.
-</thinking>
-
 # Menu Item Preference Survey - Help Guide
 
 ## Purpose

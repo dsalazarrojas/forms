@@ -1,13 +1,3 @@
-<thinking> 
-
-This form is designed to collect information on respondents' knowledge and experience with chemistry. It's likely that the target audience is individuals who have some level of chemistry education or experience, such as students, teachers, or professionals in fields related to chemistry. However, it's worth noting that the form's scope is not exclusively limited to these groups, and the survey might be useful for anyone interested in chemistry.
-
-The following sections of the form aim to cover various aspects of chemistry knowledge, experience, and attitudes. The sections include questions about demographics, educational background, knowledge in specific areas of chemistry, and personal experiences and attitudes towards chemistry.
-
-To the best of my knowledge, the form does not ask questions that are highly sensitive or invasive, but some questions may be perceived as somewhat personal or intrusive. However, the form is designed to be completed in a way that allows respondents to feel comfortable sharing their opinions and experiences without feeling pressured to reveal more than they're willing to share.
-
-It's also worth noting that the form seems to be designed to be completed by a single individual at a time, and it's unlikely to be used in a high-pressure or timed situation.</thinking>
-
 # Chemistry Knowledge Survey - Help Guide
 
 ## Purpose

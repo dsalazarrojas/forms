@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from a model or talent for registration. It is likely a part of a system for managing models or talents in the entertainment industry, such as modeling agencies. The form is meant to be completed by the model themselves, providing their personal details and professional information. To ensure that the form is completed correctly, it is recommended that the model reads through each field carefully and provides accurate information.
-
-This form is likely used in conjunction with other forms and systems to manage models or talents, so the information collected here will be used to populate other systems or databases. To avoid duplication, it is recommended that the model only fills out this form once and updates their information in future interactions with the system.
-
-The form is divided into sections, but there are no explicit section headers or labels. Each field is explained below in the Field-by-Field Explanation section.
-
-</thinking>
-
 # model_registration_survey - Help Guide
 ## Purpose
 The model registration survey is a form designed to collect information from models or talents for registration and management purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user feedback and preferences regarding hieroglyph symbols. The goal is to understand users' preferences and demographics. The form is not required and can be completed at any time. Please note that your responses will be kept confidential and will help us improve our products and services. If you have completed this form previously, your responses will not be recorded again. Please answer the questions honestly, and if you have any questions or concerns, feel free to contact us.
-</thinking>
-
 # Hieroglyph Selection Survey - Help Guide
 ## Purpose
 This survey is designed to collect your preferences and demographics regarding hieroglyph symbols. Your responses will help us improve our products and services.

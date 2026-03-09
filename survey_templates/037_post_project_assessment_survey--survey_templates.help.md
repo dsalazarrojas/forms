@@ -1,12 +1,3 @@
-<thinking>
-# This help guide is for the "Post Project Assessment Survey" form.
-# The form is designed to collect information about a project.
-# This information will be used to help project managers and team members better understand the project's progress, status, and key attributes.
-# The form should only be filled out after the project has been completed.
-# This form will help to identify any issues that may have arisen during the project's lifecycle.
-# Please make sure to fill out the form accurately and completely.
-</thinking>
-
 # Post Project Assessment Survey - Help Guide
 ## Purpose
 This form is used to collect information about a project that has been completed.

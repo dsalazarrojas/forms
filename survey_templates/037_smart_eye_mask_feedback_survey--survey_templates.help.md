@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I'll analyze the form's purpose and requirements to create a clear and concise user-facing help guide. The Smart Eye Mask Feedback Survey is designed to collect feedback from users about their experiences with the Smart Eye Mask. The form aims to gather information on various aspects of the mask, including overall satisfaction, feasibility, comfort, design, materials, size, style, color, face shape, fit, breathing difficulty, face shape difficulty, overall quality, recommendation, and improvement suggestions.</thinking>
-
 # Smart Eye Mask Feedback Survey - Help Guide
 ## Purpose
 The Smart Eye Mask Feedback Survey is designed to collect feedback from users about their experiences with the Smart Eye Mask. The form aims to gather information on various aspects of the mask, including overall satisfaction, feasibility, comfort, design, materials, size, style, color, face shape, fit, breathing difficulty, face shape difficulty, overall quality, recommendation, and improvement suggestions.

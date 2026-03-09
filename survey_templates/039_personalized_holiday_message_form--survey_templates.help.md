@@ -1,18 +1,3 @@
-<thinking>
-To create a helpful guide, I'll need to analyze the form's purpose and structure. This form is for generating personalized holiday messages, likely for Christmas or other celebrations.
-
-The form consists of five fields:
-
-* Title: Personalized Holiday Message Form (this is the form's title)
-* Page 1: Holiday Message (text field for the message itself)
-* Page 2: Recipient Name (text field for the recipient's name)
-* Page 2: Sender Name (text field for the sender's name)
-* Page 3: Sender Email (email field for the sender's email)
-
-Given the form's design, the user will be asked to provide a brief personalized message, the recipient's name, the sender's name, and the sender's email address.
-
-</thinking>
-
 # Personalized Holiday Message Form - Help Guide
 ## Purpose
 This form is designed to help you create a personalized holiday message for a recipient. You can use it to send a heartfelt greeting or gift message to your loved ones during special occasions like Christmas, birthdays, or other celebrations.

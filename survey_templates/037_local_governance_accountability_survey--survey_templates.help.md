@@ -1,8 +1,3 @@
-<thinking>
-This form was created using AI-generated form creation as a form of experimentation, innovation, and exploration. This guide is intended to help end users understand the form's purpose and complete it accurately and effectively. To ensure the form's relevance and avoid duplication, it's essential to review the form's purpose and intended outcome. The "Local Governance Accountability Survey" aims to gather information on the quality and effectiveness of a service or initiative provided by a local government or institution. By filling out this form, users will be providing feedback on various aspects of the service, including satisfaction, quality, and accessibility.
-
-</thinking>
-
 # Local Governance Accountability Survey - Help Guide
 ## Purpose
 The "Local Governance Accountability Survey" is designed to gather feedback on the quality and effectiveness of a service or initiative provided by a local government or institution. This information helps local authorities understand their strengths and weaknesses, enabling them to make data-driven decisions and improve their services.

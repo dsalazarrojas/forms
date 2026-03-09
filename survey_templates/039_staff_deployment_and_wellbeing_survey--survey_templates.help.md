@@ -1,15 +1,3 @@
-<thinking>
-To ensure that this form is completed correctly and accurately, we first want to understand its purpose and relevance to our organization's goals. This "Staff Deployment And Wellbeing Survey" is designed to gather information about the current deployment status and wellbeing of our staff members. The goal is to collect feedback and ratings that will help us identify areas of improvement and provide support where needed. Please complete this form only if you are a staff member who has been deployed or is currently on deployment. If you are not a staff member or have not been deployed, please do not complete this form.
-
-This form will help us understand the following aspects of staff deployment and wellbeing:
-- Deployment status: Are you currently deployed or not?
-- Deployment date: If you are deployed, what is your deployment date?
-- Wellbeing rating: How would you rate your current wellbeing?
-- Feedback text: Is there anything specific you would like to share about your deployment or wellbeing experiences?
-
-Please take a few minutes to complete this form accurately and truthfully. Your feedback is invaluable to us.
-</thinking>
-
 # Staff Deployment And Wellbeing Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from staff members regarding their deployment status and wellbeing. It is essential that each staff member completes this form accurately and truthfully.

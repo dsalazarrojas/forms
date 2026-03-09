@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers or users who have experienced property damage. The purpose of this form is to gather information about the damage, including the property name, location, type of damage, date, and any other relevant details. This feedback is used to help the property recovery team understand the situation better and provide appropriate assistance. 
-
-This form is intended to be completed by the person who submitted the damage report, and it is recommended that they provide accurate and detailed information about the damage. 
-
-Note: Some fields are optional, and users can choose to provide or not provide information depending on the situation.
-
-</thinking>
-
 # Property Damage Recovery Feedback Survey - Help Guide
 ## Purpose
 The Property Damage Recovery Feedback Survey is a form used to collect feedback from customers or users who have experienced property damage. It's designed to gather information about the property name, location, type of damage, date, and any other relevant details.

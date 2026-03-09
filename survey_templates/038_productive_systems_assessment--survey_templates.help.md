@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess the productivity systems of an organization. The purpose of this form is to gather information on how employees are using productivity tools, their satisfaction level, and any comments or suggestions they may have. This form is likely used in an internal HR or management context to gather feedback and insights on how to improve the organization's productivity systems. The form is designed to be completed by team members and is not a formal, formal evaluation.
-</thinking>
-
 # Productive Systems Assessment - Help Guide
 ## Purpose
 This form is designed to gather information on team members' productivity systems, including their satisfaction level and usage of productivity tools.

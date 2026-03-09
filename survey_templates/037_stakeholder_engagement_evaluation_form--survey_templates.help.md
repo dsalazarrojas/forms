@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather feedback from stakeholders about their engagement experience. This form aims to assess their level of engagement, evaluate the form's quality, and collect suggestions for improvement. It's essential to complete this form if you're an end user to provide valuable insights to help refine the survey templates...</thinking>
-
 # Stakeholder Engagement Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from stakeholders about their engagement experience with our survey templates.

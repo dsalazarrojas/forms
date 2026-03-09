@@ -1,11 +1,3 @@
-<thinking>
-This form is a Legislative Perception Assessment Questionnaire, designed to gather information about a person's perceptions and opinions about legislative issues. It is intended for gathering demographic information and open-ended responses, as well as numerical ratings and scaling questions. This form is likely to be used by legislative researchers, policymakers, or other stakeholders who need to collect data on people's views on legislative matters.
-
-To ensure that the form is used correctly, it is essential to understand its purpose and the questions it contains. The form's questions cover a range of topics, from demographic information to open-ended questions and scaling questions, allowing researchers to gather comprehensive data.
-
-Please note that this form is not designed for commercial or marketing purposes, so it's unlikely that the form will be used in a commercial setting. If you're unsure about the form's purpose or the questions it contains, please contact the form owner for clarification.
-</thinking>
-
 # Legislative Perception Assessment Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about a person's perceptions and opinions about legislative issues.

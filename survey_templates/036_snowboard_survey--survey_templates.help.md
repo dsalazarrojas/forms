@@ -1,7 +1,3 @@
-<thinking>
-To create a help guide for the "snowboard_survey" form, I first need to understand the form's purpose and ensure that it's not a duplicate task. The snowboard_survey form appears to be a survey with various sections, including welcome, introduction, feedback, satisfaction, trends, recommendations, product development, and future events. The form likely aims to gather information from users on their experience and opinions. I will proceed with creating a concise and practical help guide for the end-users.
-</thinking>
-
 # snowboard_survey - Help Guide
 ## Purpose
 The snowboard_survey form is designed to gather information from users on their experience and opinions. It consists of several sections, including a welcome page, introduction, feedback, satisfaction, trends, recommendations, product development, and future events.

@@ -1,12 +1,3 @@
-<thinking>
-We want to create a user-facing help guide for the `tech_startup_app_feature_interest_poll` form. The form is a survey template designed to gather information from tech startups about their interest in various features. Our goal is to understand what features tech startups are looking for in a product or service, which will help us provide better solutions for them. 
-
-Before we start creating the guide, let's check if this form is a good fit for our audience. The form has a mix of fields like company information, job titles, and contact details. We should make sure that the form is clear and easy to understand for our users. 
-
-Assuming the form is well-designed and relevant, let's proceed with creating the guide.
-
-</thinking>
-
 # tech_startup_app_feature_interest_poll - Help Guide
 ## Purpose
 The `tech_startup_app_feature_interest_poll` form is a survey template designed to gather information from tech startups about their interest in various features. This form helps us understand the needs and preferences of tech startups, which enables us to provide better solutions for them.

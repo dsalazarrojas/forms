@@ -1,13 +1,3 @@
-<thinking>
-
-The Medication Adherence Motivation Survey is used to collect information on factors influencing medication adherence, motivations for adherence, and potential reasons for non-adherence. This form is designed to help healthcare providers understand the factors affecting medication adherence and identify areas for improvement.
-
-This form is part of a larger survey and is typically completed by healthcare providers. However, depending on the specific use case, other individuals or entities may also be able to submit this form. 
-
-Before you start, it's essential to ensure this form is not already complete for the same patient, as this may lead to duplicate data and confusion in the analysis.
-
-</thinking>
-
 # Medication Adherence Motivation Survey - Help Guide
 ## Purpose
 The Medication Adherence Motivation Survey is used to collect information on factors influencing medication adherence, motivations for adherence, and potential reasons for non-adherence.

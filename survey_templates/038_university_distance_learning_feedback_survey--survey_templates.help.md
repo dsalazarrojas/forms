@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from university students about their experiences with distance learning, specifically their perceptions of online learning quality, communication, support services, and overall experience. The form is designed to gather data that will be used to improve the university's distance learning offerings.
-
-To ensure the form is completed accurately and completely, please review this guide carefully before proceeding.
-
-The form has 7 fields. Please note that some fields are optional, and you are only required to fill in fields marked as "required" in the form.
-
-</thinking>
-
 # University Distance Learning Feedback Survey - Help Guide
 
 ## Purpose

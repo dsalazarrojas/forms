@@ -1,12 +1,3 @@
-<thinking>
-To create an effective help guide for the "Education Level Survey" form, we need to understand the form's purpose, which is to gather information about the user's level of education and related fields. The form is designed to collect data on the user's current level of education, their field of study, and their levels of English and math, among other details.
-
-The form is likely used for research, analysis, or data collection purposes, such as in a university or educational institution. The goal is to collect accurate and relevant information to inform decisions or policies related to education.
-
-Before starting the survey, please note that some fields are optional, and you should only fill in the relevant sections that apply to you. If you have any doubts or questions, please refer to the field-by-field explanations below.
-
-</thinking>
-
 # Education Level Survey - Help Guide
 ## Purpose
 The Education Level Survey is designed to collect information about your level of education and related fields. This data will help us understand your background and experiences, which can inform decisions or policies related to education.

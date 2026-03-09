@@ -1,8 +1,3 @@
-<thinking>
-This form is a general-purpose report form for product testing results, intended for use by various teams within the organization. It is likely to be used by teams to report on the status and outcomes of product testing, and to provide feedback and recommendations for improvement.
-To avoid duplication and ensure accuracy, please note that this form has been designed based on standard product testing processes and best practices within the organization.
-</thinking>
-
 # product_testing_results_report_form - Help Guide
 ## Purpose
 This form is designed to help teams report and track the results of product testing. It gathers essential information about the product, its testing status, and the outcomes of the testing process.

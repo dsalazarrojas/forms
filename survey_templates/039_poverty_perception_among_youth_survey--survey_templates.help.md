@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect opinions and experiences of youth about their perception of poverty. This form is intended for internal use only, and its results will help to understand the attitudes and perceptions of youth towards poverty. Please ensure that the form is completed honestly and accurately, as it will help to gather valuable insights for future research. Please note that this form has no duplicate questions to avoid redundancy in the data collection process. 
-</thinking>
-
 # Poverty Perception Among Youth Survey - Help Guide
 ## Purpose
 The Poverty Perception Among Youth Survey is designed to collect honest and accurate opinions and experiences of youth about their perception of poverty. This survey aims to gather valuable insights to help understand the attitudes and perceptions of youth towards poverty.

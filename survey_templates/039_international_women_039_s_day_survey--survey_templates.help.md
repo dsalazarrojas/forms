@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # International Women's Day Survey - Help Guide
 ## Purpose
 The "International Women's Day Survey" is a brief, user-friendly form designed to collect information about your occupation and work experience. It's intended to be completed by women in the workplace to help us better understand their experiences and perspectives. Please ensure that you're taking this survey in a relevant context and not duplicating your responses if you've already completed a similar survey.

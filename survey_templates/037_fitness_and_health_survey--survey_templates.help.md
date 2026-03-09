@@ -1,7 +1,3 @@
-<thinking>
-Is this form intended for collecting user input on physical activity habits, with questions about exercise frequency, participation in physical education, and overall health status? Are the questions designed to be filled out by users who are already familiar with physical activity and health concepts? Are there any specific requirements or constraints for filling out this form? Are there any redundant or duplicate questions?
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect information about your physical activity habits and overall health status. It's meant to be filled out by users who are familiar with physical activity and health concepts.

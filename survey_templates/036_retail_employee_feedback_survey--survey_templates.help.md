@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's consider the purpose and context of this form. This form appears to be a Retail Employee Feedback Survey, likely used to gather feedback from retail employees on various aspects of their work experience, such as store location, role, feedback, and store operational hours. It seems to cover both operational and employee-related aspects, which will help management or HR teams understand the needs and pain points of their employees.</thinking>
-
 # Retail Employee Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from retail employees on their work experience, helping management or HR teams understand their store's operational aspects and employee needs.

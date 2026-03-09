@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help users conduct a thorough usability test on a mobile app, ensuring a smooth and seamless user experience. It's meant to assess the app's features, layout, and overall usability from a user's perspective. This form is not meant to be a comprehensive analysis of the app's technical performance or backend infrastructure but rather a subjective evaluation of its user-friendlyness.
-
-This form's design and questions are inspired by the "Mobile App Usability" topic, and its creation is an original adaptation, not affiliated with, or derived from any form platform. This form is released under CC BY 4.0, allowing you to use, modify, and even sell forms derived from it, provided you give credit.
-
-Before filling out this form, please ensure you have a clear understanding of the app's features and layout to provide an accurate and constructive evaluation.
-
-</thinking>
-
 # Mobile App Usability Testing Checklist - Help Guide
 ## Purpose
 This form is designed to collect your subjective feedback on the usability of a mobile app. Please answer the questions based on your real or hypothetical user experience with the app.

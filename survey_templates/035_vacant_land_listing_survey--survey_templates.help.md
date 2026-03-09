@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a vacant land listing. It will help us understand the characteristics of the land, such as its address, city, state, zip code, country, acres owned, property type, zoning status, property use, land use, lot size, property condition, lot shape, frontage, back to front, and lot owners. This form is essential for our records and future reference.
-
-To ensure the accuracy of our data, please fill out the form carefully and provide the most up-to-date information. If you have any questions or concerns, please reach out to us for assistance.
-
-</thinking>
-
 # Vacant Land Listing Survey - Help Guide
 ## Purpose
 The vacant land listing survey is a form designed to collect information about a vacant land listing. It will help us understand the characteristics of the land, such as its address, city, state, zip code, country, acres owned, property type, zoning status, property use, land use, lot size, property condition, lot shape, frontage, back to front, and lot owners.

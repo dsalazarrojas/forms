@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information after an event or session has taken place. It is meant to help assess the post-action progress and next steps of an action plan. The form is not meant to be filled out during the event itself, but rather after it has concluded. The form is likely to be used by an administrator or a designated person to collect data for further analysis and planning purposes.
-
-Before completing this form, please ensure that you are filling it out in relation to a specific event or session that has already taken place. If you are not sure which form you should be filling, please check with the responsible administrator or designated person.
-</thinking>
-
 # post_action_assessment_survey - Help Guide
 ## Purpose
 This form is used to collect information on the post-action progress and next steps of an action plan after an event or session has taken place.

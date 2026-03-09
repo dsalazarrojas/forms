@@ -1,7 +1,3 @@
-<thinking>
-The form "safety_perception_survey" is used to collect data on the safety perceptions of users. It has 10 fields that gather information on how safe users feel about different situations, their frequency of feeling safe, comments, and other relevant details. This form should be used in situations where understanding user safety perceptions is crucial, such as in risk assessment or quality improvement initiatives. It is recommended to use this form once the user has completed the "introduction" field, as the following questions are designed to gather specific feedback on safety perceptions.
-</thinking>
-
 # safety_perception_survey - Help Guide
 ## Purpose
 The safety_perception_survey form is used to collect data on the safety perceptions of users.

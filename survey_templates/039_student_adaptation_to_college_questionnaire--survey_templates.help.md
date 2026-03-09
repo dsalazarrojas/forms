@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about students' adaptation to college. This form is relevant to the "survey_templates" category, which suggests it's a pre-defined template for collecting feedback or data from students. The form is designed to collect demographic information about students, including their school program, name, grade level, academic history, citizenship, language proficiency, residency, age, gender, and parent/guardian information. This form is likely used for administrative or research purposes within the university or educational institution.
-</thinking>
-
 # Student Adaptation To College Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect demographic information about students to help institutions understand their adaptation to college.

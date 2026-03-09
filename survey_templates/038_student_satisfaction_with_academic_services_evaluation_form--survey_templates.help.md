@@ -1,16 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Student Satisfaction With Academic Services Evaluation Form". This form is designed to collect feedback from students on their satisfaction with the academic services they have received. The form aims to understand how well the services meet their needs and expectations. It is essential that each question is answered honestly to provide valuable insights for improvement.
-
-This form is divided into 8 fields, each with its own purpose and instructions. Please make sure to answer each question carefully, as it will help us better understand your experience.
-
-To fill out this form, follow these steps:
-
-1. Answer each question as accurately as possible based on your experiences.
-2. Select only the options that apply to you.
-3. For the "Comments" field, please provide any additional information you think will help us improve our services.
-
-</thinking>
-
 # Student Satisfaction With Academic Services Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect your feedback on the academic services you have received. Your responses will help us understand your level of satisfaction and identify areas for improvement.

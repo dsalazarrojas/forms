@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information on users' skin care habits, routines, and perceptions. The form is intended to be completed by users to provide insights into their skin care practices, including their morning and evening routines, products used, and concerns about their skin. The form should only be completed by users who have not previously filled out the skin care survey.
-
-To ensure accurate data collection, we will be checking for duplicate submissions and preventing users from filling out the form multiple times.</thinking>
-
 # Skin Care Survey - Help Guide
 ## Purpose
 

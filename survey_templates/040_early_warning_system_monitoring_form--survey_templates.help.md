@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information about the Early Warning System Monitoring Form, which is a tool used to monitor and track the status of early warning systems. This information will be used to ensure that the systems are properly configured and functioning as expected. 
-
-Before completing this form, please ensure that you have the necessary permissions and access rights to input information for the relevant organizations and systems. 
-
-Please note that the form is a one-time input form and should only be filled out once for each organization and system. 
-
-Also, please make sure to fill out all required fields, as indicated by the asterisks (*). 
-
-Please review the field-by-field explanations below to ensure you understand the purpose and requirements for each field. 
-</thinking>
-
 # Early Warning System Monitoring Form - Help Guide
 ## Purpose
 This form is designed to collect information about the Early Warning System Monitoring Form, which is a tool used to monitor and track the status of early warning systems. This information will be used to ensure that the systems are properly configured and functioning as expected.

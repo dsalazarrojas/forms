@@ -1,7 +1,3 @@
-<thinking>
-We should ensure that the form is only filled out when necessary and not duplicated by other teams. The purpose of this form is to gather information from instructors about their interview and recommendation experiences. This form is likely used for research, data collection, or other purposes related to instructor development, training, or academic programs. The form is not a standard part of any existing platform's offering, as it was generated using AI and public survey topic metadata. It's essential to use this form responsibly and not for malicious purposes.
-</thinking>
-
 # Instructor Interview & Recommendation Survey - Help Guide
 ## Purpose
 The Instructor Interview & Recommendation Survey form is designed to collect information from instructors about their experiences, recommendations, and evaluations. It's essential to understand that this form is a unique creation, generated using AI and public survey topic metadata, and its use should be responsible and not for malicious purposes.

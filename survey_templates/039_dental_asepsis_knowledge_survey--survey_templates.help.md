@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess knowledge and skills of dental staff on asepsis practices and protocols. Asepsis is an essential aspect of infection control in dental settings, and this survey aims to evaluate the level of understanding of dental staff regarding asepsis principles, protocols, and standards. The form will guide the user through a series of questions, each designed to gauge their knowledge and compliance with asepsis best practices. It is recommended that the user completes the form carefully and accurately to provide a thorough assessment of their knowledge. If you have completed this form previously, please note that this is a duplicate and you can exit without submitting it. If you have any questions or concerns, please reach out to your supervisor or HR department for assistance.
-</thinking>
-
 # Dental Asepsis Knowledge Survey - Help Guide
 ## Purpose
 The Dental Asepsis Knowledge Survey is designed to evaluate the level of understanding of dental staff on asepsis practices and protocols.

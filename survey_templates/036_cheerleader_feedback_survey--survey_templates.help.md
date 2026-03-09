@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a help guide for the "Cheerleader Feedback Survey", we need to understand the form's purpose and design it in a way that guides users through the completion process. 
 
 The form is designed to collect feedback from cheerleaders about their experience in a program, focusing on aspects such as satisfaction with coaching quality, team spirit, and overall rating of the program. It also includes fields for suggestions, comments, and ratings for different aspects of the program.

@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-The form's purpose is to collect information about farmers' crops. This form is intended to gather data on different aspects of farming, including crop details, types, seasons, and dates related to planting and harvesting.
+> The form's purpose is to collect information about farmers' crops. This form is intended to gather data on different aspects of farming, including crop details, types, seasons, and dates related to planting and harvesting.
 
 To prevent duplication, this form is not affiliated with, endorsed by, or derived from any form platform. It's an original adaptation created using public metadata as inspiration and released under CC BY 4.0.
 

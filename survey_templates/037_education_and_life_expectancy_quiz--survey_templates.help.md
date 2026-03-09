@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "Education And Life Expectancy Quiz", is to collect data on users' perceptions and opinions about the relationship between education and life expectancy. This form will guide users through a series of questions to better understand how education influences life expectancy, including its impact on developed and underdeveloped countries. Users will be asked about the importance of education, its effects on life expectancy, and the factors influencing these relationships.
-</thinking>
-
 # Education And Life Expectancy Quiz - Help Guide
 
 ## Purpose

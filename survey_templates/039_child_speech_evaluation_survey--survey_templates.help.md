@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the speech development of a child, collecting information about their age when they first said a word, their ability to form multi-word sentences, and other factors that indicate their language skills. This form is used to gather data for research or clinical purposes, and it's intended for completion by parents or caregivers who have regular contact with the child. Please ensure that the child's information is up-to-date and accurate to provide a valid assessment.
-</thinking>
-
 # Child Speech Evaluation Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect information about a child's speech development, including their age when they first spoke, their ability to form multi-word sentences, and other factors that affect their language skills.

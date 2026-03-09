@@ -1,14 +1,3 @@
-<thinking> 
-This form is designed to gather information from users about their opinions on a season's performance, likely for evaluation and improvement purposes. It's meant for users to express their feedback on players, teams, and coaches. The form is not affiliated with or endorsed by any specific platform or company.
-
-Please note that this form is an original adaptation, and not a copy or derivative of any existing form platform.
-
-To ensure consistency and accuracy, please ensure you're using this form for its intended purpose and not duplicating efforts.
-
-Also, please be aware that the form's content is released under the Creative Commons BY 4.0 license, allowing for modifications and even commercial use, as long as proper credit is given.
-
-</thinking>
-
 # Season Play Voting Form - Help Guide
 
 ## Purpose

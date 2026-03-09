@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to collect special moments from users. This form should not be filled out by users who have already filled out a "share_your_special_moments" form in the past. To ensure that users provide valuable feedback, we are limiting the form to users who are new to the form. This is an internal validation check to prevent data duplication and ensure that users provide genuine responses.
-</thinking>
-
 # share_your_special_moments - Help Guide
 ## Purpose
 

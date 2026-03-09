@@ -1,22 +1,3 @@
-<thinking>
-
-To determine the purpose and relevance of the form, we must first consider the structure of the form and the types of questions it asks. The form "Beer Survey" appears to be a comprehensive questionnaire aimed at gathering information about an individual's drinking habits, preferences, and opinions about beer. The form is divided into several sections, including "Your Beer Habits", "Brewery Experience", and "Future Interests", which suggest that it is designed to gather data on a user's current and future behavior related to beer consumption.
-
-Upon reviewing the form fields, we can infer the following:
-
-* The form is likely used for research purposes, such as market analysis or customer feedback gathering, as it asks questions about beer preferences, habits, and opinions.
-* The form is not a simple "yes/no" style survey, as it asks for more nuanced information such as the frequency of beer consumption, preferred beer styles, and factors considered when choosing a beer.
-* Some fields are marked as "required", which suggests that this information is crucial for the form's purpose.
-
-To ensure that the form is not redundant or a duplication of effort, we should:
-
-* Check if similar surveys exist within the organization and avoid duplicating questions.
-* Review the form's purpose and scope to ensure that it is aligned with the organization's goals and objectives.
-
-Assuming the form is relevant and necessary, we can proceed to create a user-facing help guide.
-
-</thinking>
-
 # Beer Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your beer consumption habits, preferences, and opinions. Your responses will help us better understand the market and improve our products and services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Marriage Survey - Help Guide
 
 ## Purpose

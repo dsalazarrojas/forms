@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for gathering demographic information from victims of crime. The purpose of this form is to collect data on the victim's demographics, crime details, and circumstances. This information will help us better understand the context of the crime and provide support to those affected.
-
-To confirm that the form is not duplicating any existing information, please check the "Additional Information" field, which is a free-text field where you can provide any additional details that are not covered in the other fields.
-
-</thinking>
-
 # Victims Of Crime Demographic Survey - Help Guide
 
 ## Purpose

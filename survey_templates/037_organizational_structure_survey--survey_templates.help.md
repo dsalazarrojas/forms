@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form, "organizational_structure_survey", and why is it relevant? This form is used to collect information about the organizational structure of a company. The form is relevant when you want to understand the internal structure and relationships within an organization. It is often used to visualize and document the reporting structure, team members, and other organizational elements.</thinking>
-
 # organizational_structure_survey - Help Guide
 ## Purpose
 The "organizational_structure_survey" form is used to collect information about the organizational structure of a company. This includes understanding the reporting relationships, team members, and other internal structures.

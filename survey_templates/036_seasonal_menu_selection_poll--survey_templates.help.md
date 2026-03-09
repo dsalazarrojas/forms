@@ -1,11 +1,3 @@
-<thinking>
-
-The "Seasonal Menu Selection Poll" form appears to be designed to gather user preferences and opinions on seasonal menu options. The form is likely intended to help businesses understand customer preferences and tailor their menu offerings accordingly. This form could be used in the context of a restaurant, food truck, or other food-related business to gauge customer interest in different types of cuisine and seasonal menu items.
-
-To avoid duplication, it's worth checking if the business already has similar forms or surveys in place that cover similar topics. If so, it might be beneficial to review those and see if there's a need to create a new form or if this one can be modified to cover unique aspects.
-
-</thinking>
-
 # Seasonal Menu Selection Poll - Help Guide
 
 ## Purpose

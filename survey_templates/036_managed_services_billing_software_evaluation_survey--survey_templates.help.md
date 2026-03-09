@@ -1,9 +1,3 @@
-<thinking>
-The goal of this form is to evaluate the managed services billing software and gather feedback from users. It is designed to understand user experiences and opinions on the software's features, usability, and limitations.
-This form consists of multiple pages with different types of questions, including select multiple, select one, number, text, note, time, email, and select one questions. 
-Before filling out this form, please review the questions carefully and ensure that you are providing honest and accurate feedback.
-</thinking>
-
 # Managed Services Billing Software Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to gather user feedback and opinions on the managed services billing software. Your input will help us understand the software's strengths and weaknesses, and identify areas for improvement.

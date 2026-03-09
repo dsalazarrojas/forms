@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to evaluate the Enterprise LLM, gathering information about the company and LLM name, user's rating, and any comments related to their interaction with the LLM. The main goal is to gather qualitative feedback from users.
-
-It's essential to fill out this form only once per LLM interaction, and it's not a requirement for everyone to fill it out. However, filling it out can provide valuable insights for the development team to improve the LLM.
-
-</thinking>
-
 # Enterprise LLM Evaluation Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather user feedback about your interaction with the Enterprise LLM. This will help us understand how well the LLM is performing and where we can improve it.

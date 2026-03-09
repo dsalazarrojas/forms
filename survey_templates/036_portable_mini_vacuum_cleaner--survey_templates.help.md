@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # portable_mini_vacuum_cleaner - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Floor Film Opinion Survey - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>This form is intended to gather feedback from child and youth referees on their experiences and perceptions of their refereeing roles. This includes questions about their age, the sport they referee, how long they've been refereeing, and their satisfaction with various aspects of refereeing, such as training quality, support, and player behavior. This information will be used to identify areas for improvement and provide valuable insights for the development of refereeing programs and services.</thinking>
-
 # Child And Youth Referee Survey - Help Guide
 ## Purpose
 The Child and Youth Referee Survey is a form designed to gather feedback from child and youth referees on their experiences and perceptions of their refereeing roles. The survey aims to identify areas of improvement and provide valuable insights for the development of refereeing programs and services.

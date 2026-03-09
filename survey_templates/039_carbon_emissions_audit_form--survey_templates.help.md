@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to help organizations collect and report their carbon emissions data in order to conduct a carbon audit. This form will guide you through the necessary steps to provide detailed information about your organization, including its name, size, industry, and audit scope. You will be asked to provide data on your organization's energy consumption and emissions sources, including stationary and mobile combustion, refrigerant/air conditioning emissions, and other indirect emissions. Finally, you will be prompted to provide a summary of your audit results and any recommended emissions reduction strategies.
-Please ensure you have all relevant information and data available before proceeding.
-This form should only be used for initial data collection, not for actual reporting or submission of emissions data.
-This form will only be used by authorized personnel within your organization.
-</thinking>
-
 # Carbon Emissions Audit Form - Help Guide
 ## Purpose
 This form is designed to help organizations collect and report their carbon emissions data in order to conduct a carbon audit.

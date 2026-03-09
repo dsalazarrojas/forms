@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback and information about the student life survey, which helps the institution to understand student experiences, needs, and perceptions about campus services, academic support, and overall campus life. This feedback will be used to improve the institution's services and policies. Please ensure you fill out this form with accurate and honest responses.
-
-Before proceeding, please note that this form is designed to collect feedback, and your responses will be kept confidential and anonymous. If you have any concerns or doubts, please feel free to contact us.
-
-This form is designed to be completed by students, so your input and feedback are highly valued. We appreciate your time and effort in filling out this form.
-
-Please note that some fields are optional, and you can skip them if you don't have any information to provide.
-
-</thinking>
-
 # Student Life Survey - Help Guide
 ## Purpose
 The Student Life Survey is designed to collect feedback and information about student experiences, needs, and perceptions about campus services, academic support, and overall campus life.

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide for the "Intelligent Planning Survey" form, let's quickly review the form's purpose and fields to ensure we're on the same page. This form appears to be designed to collect information about the planning process, meeting frequency, contact person, and other relevant details. The fields seem to be a mix of multiple-choice, text, and date fields. We'll make sure to cover each field clearly and concisely in this help guide.</thinking>
-
 # Intelligent Planning Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the planning process, meeting frequency, contact person, and other relevant details to facilitate effective planning and communication. Please take a few minutes to fill out this survey to help us better understand your planning needs.

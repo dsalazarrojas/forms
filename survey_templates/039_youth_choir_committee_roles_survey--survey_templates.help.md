@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the roles and experiences of individuals involved in a youth choir committee. It is meant to be a helpful guide for those responsible for selecting members for a specific role within the committee. The questions are meant to be simple and straightforward to elicit relevant information for the committee's purposes.
-</thinking>
-
 # Youth Choir Committee Roles Survey - Help Guide
 ## Purpose
 This form is used to gather information about the roles and experiences of individuals who will be part of the youth choir committee. The information collected will help the committee to make informed decisions when selecting members for specific roles.

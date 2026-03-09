@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on individuals' digital donation behavior, including their online giving habits, attitudes towards digital donations, and demographic information. This information will help the organization better understand the trends and patterns of digital donations. The form is divided into several sections, each with its own set of questions or fields. Please ensure that you are completing this form for the purpose of providing accurate and honest information about your digital donation behavior.
-</thinking>
-
 # Digital Donation Behavior Study - Help Guide
 ## Purpose
 This form is designed to gather information on your digital donation behavior, including your online giving habits, attitudes towards digital donations, and demographic information. This will help the organization understand the trends and patterns of digital donations.

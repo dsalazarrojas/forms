@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users about their experience with a specific service, likely for quality control or feedback purposes. The purpose of this form is to gather details about the service date, site address, team name, service type, experience rating, and any additional comments. This information will help service providers to understand how well they are performing and where they can improve.
-
-To determine the relevance of this form, it is likely used in a service-related business context, such as customer support or project management. It's possible that this form is used by customers or employees to provide feedback on services received. The form does not appear to be a duplicate of any other form in the survey_templates category, suggesting that it is a unique form designed for this specific use case.
-
-</thinking>
-
 # Knock Down Experience Survey - Help Guide
 ## Purpose
 This form is used to collect feedback on the quality of a service provided. It is meant to be filled out by customers or employees who have received the service and want to share their experience.

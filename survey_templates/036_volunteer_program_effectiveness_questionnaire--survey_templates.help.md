@@ -1,13 +1,3 @@
-<thinking> 
-
-The Volunteer Program Effectiveness Questionnaire is a form designed to assess the effectiveness of volunteer programs within an organization. It helps to evaluate the quality, impact, and overall performance of these programs. The form collects information on various aspects of volunteer programs, including their quality, participants' engagement, program outcomes, and overall sustainability.
-
-This form is meant to be used by organizations to assess their volunteer programs, and it's likely to be used by program administrators, managers, or directors. It's possible that this form will be used in multiple contexts, but its primary purpose is to provide feedback and insights for improving volunteer programs.
-
-Please ensure this form is not used for other purposes or in a way that may lead to duplication of effort. Ensure that the information collected is accurate and relevant to the specific volunteer program being evaluated.
-
-</thinking>
-
 # Volunteer Program Effectiveness Questionnaire - Help Guide
 ## Purpose
 The Volunteer Program Effectiveness Questionnaire is a tool used to evaluate and improve volunteer programs within an organization. It helps assess the program's quality, impact, and overall performance.

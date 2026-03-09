@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback on space planning from end-users. The purpose of this form is to understand how users are using available space and what their experience is with it. This form should only be used for this specific purpose and not for other types of feedback or surveys. 
-
-This form is divided into 5 sections, each with a unique purpose and set of fields. The form's fields are designed to be as clear and simple as possible for end-users to follow. 
-
-This form does not need to be filled out for every question as some sections are optional. However, filling out all sections will give the most comprehensive feedback. 
-
-Please note that some fields will have specific options to select from. Please select the option that best describes your experience or thoughts. 
-
-</thinking>
-
 # Survey On Space Planning - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on space planning from end-users. 

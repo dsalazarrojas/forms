@@ -1,12 +1,3 @@
-<thinking>
-The provided YAML defines a comprehensive insurance claims service survey form designed to gather feedback from customers about their experience with an insurance claims service. This form is likely used to measure customer satisfaction, identify areas for improvement, and provide a channel for customers to express their concerns or issues.
-
-Before starting, ensure that you have reviewed this form carefully and only provide feedback that accurately reflects your experience with the insurance claims service. If you have already provided feedback, please note that your responses are collected solely for the purpose of improving the service. 
-
-To confirm that you're filling this form as an end user, please select the "I agree to fill this form as a customer" radio button (if present) before proceeding.
-
-Please review the form carefully to avoid any confusion or duplication of answers. If you're unsure about any questions or answers, you can always reach out to the form administrator for clarification or guidance.</thinking>
-
 # Insurance Claims Service Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with the insurance claims service. Your responses will help us understand how we can improve the service to better meet your needs.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect data from social media platforms. The purpose of this form is to understand whether social media platforms are used for social media data collection, and if so, what kind of data is being collected. This form will help to identify the type of data being collected and the purposes it serves.
-
-The form is structured to be easy to complete and requires minimal effort from the users. It is not required for users to complete this form, but it will help to gather valuable insights into social media data collection practices.
-
-Please note that this form is for data collection only and not for any other purpose. Each field has been carefully selected to ensure that the data collected is relevant and helpful in understanding social media data collection practices.
-
-</thinking>
-
 # Social Media Data Collection Form - Help Guide
 ## Purpose
 This form is designed to collect data from social media platforms to understand their usage and data collection practices.

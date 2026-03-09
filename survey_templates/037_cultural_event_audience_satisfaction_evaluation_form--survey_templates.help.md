@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the "Cultural Event Audience Satisfaction Evaluation Form". This form is designed to gather feedback from event attendees about their experiences. The form is intended to collect data on various aspects of the event, including event name, date and time attended, performance rating, satisfaction level, and recommendations. It also includes questions about the attendee's experience, such as the number of pages visited and time spent, as well as their likelihood to return or recommend the event to friends or family. The form aims to provide valuable insights into the event's effectiveness and identify areas for improvement. We should check that this form is not being used for any other purpose other than its intended use.
-</thinking>
-
 # Cultural Event Audience Satisfaction Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from event attendees to help us improve future cultural events.

@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this is a template form for a "phd-template-god-funnel" which appears to be a survey form with multiple questions. The purpose of this form is to collect responses from users, likely for research or data collection purposes. Before proceeding, ensure you have not previously completed this survey and that you understand that the responses will be used for the intended purpose of the form.
-</thinking>
-
 # phd-template-god-funnel - Help Guide
 ## Purpose
 The "phd-template-god-funnel" form is a collection of questions to gather data from users.

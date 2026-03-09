@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect feedback from users about their experience with the debate platform. This form will help us understand the user's satisfaction with the platform, identify areas where we can improve, and gather suggestions for future refinements... This form will only be shared with people who are part of our internal teams... We have designed this form to be user-friendly and easy to complete, so please don't hesitate to provide your honest feedback... Please make sure to be as specific as possible with your feedback, so we can better understand your needs and expectations... Also, please note that some fields are optional, but we encourage you to provide as much information as possible, so we can get a comprehensive picture of your experience...</thinking>
-
 # Debate Platform Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with the debate platform. It will help us understand your satisfaction, identify areas where we can improve, and gather suggestions for future refinements.

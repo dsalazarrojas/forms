@@ -1,21 +1,3 @@
-<thinking>
-
-This form is a user-facing help guide for the Social Care Digital Transformation Survey. This guide will explain the purpose of the form, how to complete it, and what each field means. 
-
-The purpose of this form is to help Social Care professionals identify their digital transformation needs and provide feedback on how to improve the digital tools used in their practice. The form is designed to be completed by users who are interested in exploring how technology can help them in their work and provide valuable insights for the development of better digital solutions.
-
-The form is divided into several sections, each designed to capture specific information. The fields in this form are used to gather data on the following:
-
-* Digital transformation areas of interest
-* Level of skills development needed
-* Frequency of use of digital tools
-* Feedback on current digital tools
-* Additional feedback and comments
-
-The following guide is designed to walk users through the completion of this form and explain each field in detail.
-
-</thinking>
-
 # Social Care Digital Transformation Survey - Help Guide
 
 ## Purpose

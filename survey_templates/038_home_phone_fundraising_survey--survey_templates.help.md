@@ -1,11 +1,3 @@
-<thinking>
-
-This form, "home_phone_fundraising_survey", is designed to gather information about the usage habits and pain points of users who conduct phone fundraising for their organizations. It aims to identify areas where these individuals may be encountering challenges or inefficiencies in their fundraising efforts, which can help inform the development of better tools and resources for phone fundraising. This form is intended to be completed by phone fundraising coordinators, administrators, or other staff members who are involved in phone fundraising activities.
-
-Before proceeding, please ensure you are completing this form as a phone fundraising user. If you're not a user of phone fundraising, please do not complete this form.
-
-</thinking>
-
 # home_phone_fundraising_survey - Help Guide
 ## Purpose
 The home_phone_fundraising_survey form gathers information on how you use phone to fundraise, the challenges you face, and areas where you think could be improved.

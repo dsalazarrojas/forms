@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Military Service Survey - Help Guide
 
 ## Purpose

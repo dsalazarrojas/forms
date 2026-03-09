@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect opinions and feedback from employees on the company's sustainability program, which is a set of initiatives aimed at reducing the environmental impact of the company's operations and promoting a positive social and environmental impact. The form will help the company understand employee perceptions and opinions on the program's effectiveness, importance, and areas for improvement. This information will inform future sustainability efforts and initiatives. The form does not collect any personally identifiable information and is intended for internal use only.
-
-Before proceeding, please ensure that this is the correct form and that you are not a duplicate respondent. This will help maintain the quality and integrity of the data collected.
-</thinking>
-
 # Corporate Sustainability Program Opinion Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect opinions and feedback from employees on the company's sustainability program.

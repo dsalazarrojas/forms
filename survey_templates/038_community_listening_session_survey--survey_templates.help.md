@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for gathering feedback from attendees of a community listening session, aiming to understand their experiences, perceptions, and expectations. The goal is to collect actionable insights for future improvements in the listening process. This form will be filled out by attendees to provide their honest opinions, and answers will be kept confidential to ensure open and honest responses.
-</thinking>
-
 # Community Listening Session Survey - Help Guide
 
 ## Purpose

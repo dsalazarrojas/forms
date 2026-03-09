@@ -1,5 +1,3 @@
-<thinking>...this form is designed for competitor research to gather insights on customers' experiences and perceptions of competitors' products or services. This will help identify areas of improvement for our own product or service. The form should only be filled out by customers who are currently using a competitor's product or service, and it's essential to ensure that this form is not filled out by customers who are already using our product or service...!</thinking>
-
 # Competitor Research Survey - Help Guide
 ## Purpose
 This guide will walk you through the Competitor Research Survey form, designed to gather your thoughts on competitors' products or services you're using. Your input will help us understand their strengths and weaknesses, which will inform our product development and improvement process.

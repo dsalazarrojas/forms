@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is for gathering feedback and ratings from investors about their experience with our annual surveys. It's intended to understand their satisfaction and preferences regarding the information they receive and the services we offer. Before completing this form, please ensure you haven't already submitted a survey this year to avoid redundant responses. Your input will help us improve our processes and better serve you in the future. 
-</thinking>
-
 # Annual Investor Impact Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and ratings from investors on their experience with our annual surveys. Your input helps us understand your satisfaction and preferences, allowing us to improve our processes and better serve you.

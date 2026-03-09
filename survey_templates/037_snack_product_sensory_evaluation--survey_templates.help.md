@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on a snack product from customers. The form asks about the customer's taste, texture, satisfaction level, favorite taste, favorite texture, overall satisfaction, willingness to recommend, and open-ended comments. This information will help the product development team understand how the snack product is received by the customers and identify areas for improvement.
-</thinking>
-
 # Snack Product Sensory Evaluation - Help Guide
 ## Purpose
 This form is designed to collect feedback on a snack product from customers, helping the product development team to understand how the product is received and identify areas for improvement.

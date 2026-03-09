@@ -1,12 +1,3 @@
-<thinking> 
-  This form is intended to gather information about pre-work strategy planning from users. It appears to be designed to collect opinions or answers regarding various aspects of pre-work strategy planning, including questions, readiness, communication preferences, risk identification, project kickoff planning, team participation, stakeholder engagement, communication channels, team dynamics, and team capacity. It's possible that this form is part of a larger project management or organizational development process. 
-
-The form seems to be a comprehensive survey that captures a wide range of information, likely to inform pre-work strategy planning decisions. Each field has options such as "Yes" or "No" for select-one questions, and multiple options for select-multiple questions, which suggests that users are being asked to provide opinions or answers to each question.
-
-To confirm, this form is likely used in a project management or business setting, where team members or stakeholders are being polled on their opinions and readiness for pre-work strategy planning.
-
-</thinking>
-
 # pre_work_strategy_planning_survey - Help Guide
 ## Purpose
 This form is designed to collect opinions and answers from users regarding pre-work strategy planning, including questions, readiness, communication preferences, risk identification, project kickoff planning, team participation, stakeholder engagement, communication channels, team dynamics, and team capacity.

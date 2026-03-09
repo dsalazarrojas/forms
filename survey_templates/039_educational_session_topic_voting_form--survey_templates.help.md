@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to vote for the topics they'd like to attend in an educational session. Each topic is listed on a separate page, and users can select all the topics they're interested in by filling out the corresponding text fields. This form is designed to be a simple and accessible way to gather information about user preferences for session topics.
-</thinking>
-
 # Educational Session Topic Voting Form - Help Guide
 ## Purpose
 This form is designed to gather user feedback on preferred topics for an educational session. By filling out the form, you can indicate which topics you'd like to attend or are interested in.

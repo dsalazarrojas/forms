@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect feedback from users about the Net service, gathering information about their experience, any issues they encountered, and demographic data (first name, last name, email). The form is intended for users who have interacted with the service, and the data collected will be used to improve the service and its usability. To ensure accuracy, it's essential to fill out the form completely and truthfully.
 
 # Net User Feedback Survey - Help Guide

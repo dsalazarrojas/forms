@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for gathering feedback from employees who have attended a virtual training session. The purpose of this form is to collect data on their experience and opinions on the session's quality, facilitator's performance, and content. This form is likely to be completed by employees after a virtual training session, and the feedback collected will help the training team to evaluate and improve future sessions.
-The form should not be repeated for the same session, as it's meant for gathering feedback for different sessions. The feedback should be specific to each session, and employees should fill out this form for each session they attend.
-The form's data will be used to improve the training program, and employees' input is valuable in providing insights on what worked and what didn't in a session.
-</thinking>
-
 # Corporate Virtual Training Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees after a virtual training session. Your input is crucial in helping us improve our training programs, and we appreciate your time and effort in filling this out.

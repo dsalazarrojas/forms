@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Demographic Survey - Help Guide
 
 ## Purpose

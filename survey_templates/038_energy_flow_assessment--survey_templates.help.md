@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for conducting an energy flow assessment, which is a systematic approach to identify and analyze the energy flows and inefficiencies within a facility or building. This form is likely used by facility managers, energy auditors, or building operators to gather information about the energy consumption and potential savings. The purpose of this form is to assess the energy flow and provide recommendations for improvements.
-
-Given the fields included, it seems that this form collects data on various aspects of energy consumption, such as categories, descriptions, facility IDs, start and end dates, start and end times, energy used, efficiency loss areas, recommended actions, notes, facility energy savings, assessment forms, and facility IDs.
-
-Before completing this form, please ensure that you have reviewed the fields carefully and understand the required and optional questions. The fields include text inputs for description, site name, location ID, start date, end date, start time, end time, facility energy used, efficiency loss area description, loss area description, and notes. Number inputs are available for facility ID, start date, end date, facility energy used, and total energy used. Select one fields are used for category, facility energy savings, and assessment form. Select multiple fields are available for facility ID 1, facility ID 2, and efficiency loss area. Time inputs are used for start time and end time.
-
-Please review the form carefully and ensure that you understand the purpose and requirements before starting to complete it.
-</thinking>
-
 # Energy Flow Assessment - Help Guide
 
 ## Purpose

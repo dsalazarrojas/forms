@@ -1,8 +1,3 @@
-<thinking>
-To determine the purpose of this form, I analyzed the form's "title" field, which indicates that the form is called "Supermarkets Cabinet Survey". The context of the form's name suggests that it might be used for gathering information about supermarkets, possibly for customer feedback or inventory management purposes. I assume this form will be used by employees or managers in the supermarket's back-office system to gather information about their stores' performance.
-Given the fields present in this form, I'll create a help guide that covers the form's purpose, completion instructions, and field-by-field explanations. This form appears to be a general survey for supermarkets, asking questions about the availability and condition of different types of products, as well as some demographic information for the person filling out the survey. The form is likely used for inventory management or customer service purposes.
-</thinking>
-
 # Supermarkets Cabinet Survey - Help Guide
 ## Purpose
 This form is designed for supermarket employees to report on the availability and condition of various products, as well as gather some demographic information about the person filling out the survey. This data will help the supermarket management team make informed decisions about inventory management and customer service.

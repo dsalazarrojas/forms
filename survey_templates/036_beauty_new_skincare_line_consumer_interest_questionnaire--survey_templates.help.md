@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to gauge consumer interest in a new skincare line, focusing on demographic information, current skincare habits, and preferences for a new product line. The form will help the company understand the target audience's age group, gender, and location, as well as their current skincare routines and concerns. It will also gather information about the consumer's interest in a new skincare line, their preferred features, product types, and price ranges. Additionally, it will explore their preferences for key ingredients, product textures, and sustainability considerations. The form will help the company create a product line that meets the needs and expectations of its target audience.
-</thinking>
 # Beauty New Skincare Line Consumer Interest Questionnaire - Help Guide
 
 ## Purpose

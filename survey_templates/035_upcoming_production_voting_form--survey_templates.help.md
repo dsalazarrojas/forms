@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for an upcoming production vote. The form allows users to cast a vote for one of three production teams and provide additional information about their selection. This form will help us understand which team has the most support and gather feedback for future productions. Please note that this form is not a formal vote, but rather a way to gauge interest and opinions. If you are not associated with any of the production teams, please do not vote. If you are associated with multiple teams, you can select all relevant teams. If you are unsure about any of the fields, please feel free to ask for clarification.
-</thinking>
-
 # upcoming_production_voting_form - Help Guide
 ## Purpose
 This form is designed to collect information for an upcoming production vote, allowing users to cast a vote for one of three production teams and provide additional feedback.

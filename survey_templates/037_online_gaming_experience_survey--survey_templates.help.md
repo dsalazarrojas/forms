@@ -1,7 +1,3 @@
-<thinking>
-This is a form to gather information on the online gaming experience of users, specifically to identify the platforms they use, their play habits, and their level of satisfaction. The form is meant to be completed by users in order to gain insights and improve online gaming experiences. 
-</thinking>
-
 # Online Gaming Experience Survey - Help Guide
 ## Purpose
 

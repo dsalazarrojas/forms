@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users complete the net promotor score form with confidence. The form's purpose is to collect feedback on how customers perceive a company's products or services. It's designed to be simple and quick to fill out, with just four questions that gauge a customer's likelihood to recommend the product or service to friends or family and their rating of the product or service. Before proceeding, please make sure you have some familiarity with the company's products or services, or else the survey results may not be accurate. To prevent duplication of effort, please do not attempt to fill out the form unless you've actually interacted with the company's products or services.
-</thinking>
-
 # net_promoter_score_form - Help Guide
 ## Purpose
 The net promotor score form is a tool used to collect feedback on how customers perceive a company's products or services. It's a simple four-question form that aims to measure a customer's likelihood to recommend and rate the product or service.

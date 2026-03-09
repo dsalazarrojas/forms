@@ -1,10 +1,3 @@
-<thinking>
-The goal of the Volunteer Program Impact Evaluation Form is to gather information on the impact of a volunteer program, specifically the types of participation and the benefits it brings to participants. This form aims to assess how volunteers and participants engage with the program, the duration of their involvement, and any notable outcomes or achievements. By collecting this data, the organization can evaluate the effectiveness of the program and make informed decisions for future improvements.
-
-To prevent duplication, this form should only be filled out by individuals who have participated in or have been involved with the volunteer program in the past.
-
-</thinking>
-
 # Volunteer Program Impact Evaluation Form - Help Guide
 
 ## Purpose

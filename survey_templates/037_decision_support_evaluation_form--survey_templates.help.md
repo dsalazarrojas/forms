@@ -1,7 +1,3 @@
-<thinking>
-To be honest, I don't fully understand the purpose and context of this form. The form appears to be designed to collect survey-like feedback on some sort of decision support system, but I'm not sure what specific decisions are being evaluated or what kind of system this is. I'll do my best to create a help guide based on the provided YAML fields, but please let me know if I'm missing anything crucial.
-</thinking>
-
 # decision_support_evaluation_form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on a decision support system. It seems to be evaluating the system's performance in making decisions, but the specific details are not clear. Please answer the questions truthfully to help improve the system.

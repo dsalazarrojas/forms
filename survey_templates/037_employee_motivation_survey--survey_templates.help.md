@@ -1,8 +1,3 @@
-<thinking>
-The employee motivation survey is used to gauge the motivation level and drivers of employees within the organization. This survey aims to provide insights into the motivations and engagement levels of employees, which can help in making informed decisions regarding employee development and performance management. Before proceeding, ensure that you have not completed this survey before, as it is designed to be taken on a regular basis to track changes in employee motivation over time.
-
-</thinking>
-
 # employee_motivation_survey - Help Guide
 ## Purpose
 The employee motivation survey is a tool used to measure employee motivation levels and identify drivers of motivation. It is meant to be taken on a regular basis to track changes in employee motivation over time.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation data about the implementation of social assistance technology in various organizations. 
-The purpose of this form is to gather information about the effectiveness of social assistance technology in different contexts. 
-This guide is intended to help users understand what the form is used for and how to complete it accurately.
-</thinking>
-
 # Social Assistance Technology Implementation Evaluation - Help Guide
 
 ## Purpose

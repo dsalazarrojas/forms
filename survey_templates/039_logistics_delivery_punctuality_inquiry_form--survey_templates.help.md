@@ -1,9 +1,3 @@
-<thinking>
-
-The Logistics Delivery Punctuality Inquiry Form is a tool used by customers to report incidents of late, early, or on-time deliveries. It's crucial to fill out this form to report any discrepancies with scheduled deliveries. Please note that submitting this form is not a substitute for contacting customer service via other means. If you need to report an urgent issue, it's best to reach out to us directly through customer service channels.
-
-</thinking>
-
 # Logistics Delivery Punctuality Inquiry Form - Help Guide
 ## Purpose
 This form is designed to allow customers to report incidents of late, early, or on-time deliveries. It helps us understand the circumstances surrounding the delivery and identify areas for improvement to better serve our customers.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for hurricane preparedness and response. It's designed to gather general information, emergency plans, supplies, contact details, and other relevant data from users. This form is not meant to be duplicated for each user; instead, it's a reusable template for multiple users to fill out with their own information. The form has multiple pages with different types of fields, including text, email, phone number, date, time, select one, select multiple, and note fields.
-</thinking>
-
 # hurricane_preparedness_checklist_form - Help Guide
 ## Purpose
 The "hurricane_preparedness_checklist_form" template is a reusable form designed to help users prepare for hurricane emergencies. This form will guide you in gathering essential information to ensure you're ready for hurricanes.

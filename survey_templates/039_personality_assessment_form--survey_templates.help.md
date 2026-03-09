@@ -1,9 +1,3 @@
-<thinking>
-We'll create a comprehensive help guide for the "Personality Assessment Form" to guide end-users in understanding its purpose, completing it, and grasping each field's meaning.
-
-To confirm, the form purpose is to assess the personality traits of individuals, but it's not entirely clear what "Personality Traits" and "Tendencies" fields are used for. It seems like there might be some overlap or redundancy between the fields, so we'll need to clarify their intentions. Let's review the form fields and determine the best explanation for each.
-</thinking>
-
 # personality_assessment_form - Help Guide
 ## Purpose
 The Personality Assessment Form is a tool used to gather information about an individual's personality traits, birth date, contact details, and preferences. This data is collected to better understand individual differences and facilitate more effective communication and collaboration within our team.

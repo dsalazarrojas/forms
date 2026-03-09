@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Assessment Form - Help Guide
 
 ## Purpose

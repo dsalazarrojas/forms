@@ -1,7 +1,3 @@
-<thinking>
-This help guide aims to support end-users who will use this form for gathering feedback from children about their sessions. It is crucial to understand that the form is designed to collect information about a specific session, focusing on the child's experiences and perceptions. This guide will walk the user through the form's purpose, how to complete it, and each field's meaning to ensure accurate and helpful feedback.
-</thinking>
-
 # Child Session Feedback Survey - Help Guide
 ## Purpose
 The Child Session Feedback Survey is designed to gather information from children about their experiences during a session. This form helps identify areas of satisfaction, engagement, and any challenges or concerns they may have had during the session. It also allows providers to rate their overall satisfaction and engagement level.

@@ -1,13 +1,3 @@
-<thinking>
-
-To create this help guide, I will follow the specified structure and provide a comprehensive explanation for each field in the form, based on the provided YAML fields.
-
-The form purpose is to gather information from the user to troubleshoot issues with their solar panel, providing a clear and concise way to report problems and schedule services. This form is designed to collect relevant details about the user's issue, including description, photos, contact information, and service scheduling preferences.
-
-Before filling out this form, please make sure to provide accurate and complete information to help us better understand and assist with your issue.
-
-</thinking>
-
 # Solar Panel Troubleshooting Survey - Help Guide
 ## Purpose
 This form is designed to help our team troubleshoot and resolve issues with your solar panel system. By providing detailed information about your issue, you will be able to get assistance from our team and schedule services if necessary.

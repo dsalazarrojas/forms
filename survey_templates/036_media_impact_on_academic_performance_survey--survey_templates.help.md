@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect data on the impact of media on academic performance. The purpose of this form is to gather information from students about their social media usage, habits, and how it affects their performance. This form is intended to be completed by students, and the data collected will be used for analysis and research purposes.
-
-Before proceeding, please make sure you have not completed this form before. Completing this form multiple times may lead to duplicate data entry and skew the results.
-
-Please answer the questions honestly and to the best of your ability. This form is designed to gather general trends and patterns in media usage and impact, not to identify individual students. Your responses will be kept confidential and anonymous.
-
-</thinking>
-
 # Media Impact On Academic Performance Survey - Help Guide
 ## Purpose
 

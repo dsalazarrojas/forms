@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect user information and status related to a specific set of criteria. It is designed to gather data about a user's qualifications, reasons for requalification, and any relevant input or notes.
-
-This form should only be filled out if the user has been previously qualified. If the user has not been previously qualified, please fill out the initial qualification form instead.
-
-Please note that this form is not intended to be filled out multiple times for the same user. If you are filling out this form for a user who has already completed it, please do not submit multiple entries. Only one entry per user is required.
-</thinking>
-
 # Validation And Requalification Survey - Help Guide
 ## Purpose
 The Validation And Requalification Survey is a form used to collect user information and status related to a specific set of criteria. It is designed to gather data about a user's qualifications, reasons for requalification, and any relevant input or notes.

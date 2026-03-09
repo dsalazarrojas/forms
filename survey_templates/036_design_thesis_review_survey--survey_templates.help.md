@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Design Thesis Review Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from various stakeholders, including faculty members, guest critics, and alumni, on a design thesis. The purpose of this survey is to collect opinions and insights on the design thesis, helping to inform and improve the design process.

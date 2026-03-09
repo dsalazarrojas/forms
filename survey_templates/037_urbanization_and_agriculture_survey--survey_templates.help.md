@@ -1,7 +1,3 @@
-<thinking>
-**This form was created to collect data on the impact of urbanization on agriculture. The form is divided into two pages. On the first page, respondents are asked about the impact of urbanization, how much time they spend outside of work, and their employment status. On the second page, there are additional questions, including how much time they spend outside of work in urban areas and their age. This form should only be filled out by individuals who have relevant information to provide on this topic. Please note that this form may be part of a larger study and responses will be kept confidential. If you have filled out this form before, you may not need to fill it out again.**
-</thinking>
-
 # Urbanization And Agriculture Survey - Help Guide
 ## Purpose
 This form is designed to collect information on the impact of urbanization on agriculture from individuals who have relevant information to provide on this topic.

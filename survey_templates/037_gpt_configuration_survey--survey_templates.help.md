@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users configure their GPT (Generative Pre-training of Parameters) model for optimal performance and customization. The form is a survey that gathers information about the user's preferences and requirements for their GPT model configuration. This configuration can include settings such as the form title, description, category, subcategories, target audience, and other relevant details.
-</thinking>
-
 # GPT Configuration Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information about your GPT model configuration preferences and requirements. Please answer these questions to help us better understand your needs and provide optimal configuration settings for your model.

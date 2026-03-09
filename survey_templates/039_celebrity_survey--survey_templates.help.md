@@ -1,5 +1,3 @@
-<thinking>Let's assume that this form will be used to collect information from respondents about a celebrity's suitability for a particular project. This form will gather data on the celebrity's producer or casting information, project details, and evaluation criteria such as popularity, box office appeal, role fit, audience appeal, brand alignment, career momentum, quality of recent projects, risk factors, and overall recommendation. It's essential to note that this form is not affiliated with any form platform and is an original adaptation created by AI using public survey topic metadata. We should ensure that each section of the form is clear and concise, and every field is accurately described to prevent confusion.</thinking>
-
 # Celebrity Survey - Help Guide
 ## Purpose
 This form is designed to gather information from respondents about a celebrity's suitability for a particular project, covering various aspects such as producer or casting information, project details, and evaluation criteria.

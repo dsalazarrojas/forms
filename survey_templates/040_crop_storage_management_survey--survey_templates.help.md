@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from users regarding their crop storage management practices. It is likely being used within an agricultural or farming context to collect feedback or survey responses. The purpose of this form might be to understand how users manage their crop storage facilities, what practices they employ, and any challenges they face in this process. This information can help inform decisions or improvements in crop storage management.
-
-Before continuing, please ensure you have not already completed this survey. If you have, your responses may not be recorded or may be duplicated, which could lead to confusion or inaccurate data.
-
-To complete this form, simply follow the on-screen instructions.
-</thinking>
-
 # Crop Storage Management Survey - Help Guide
 
 ## Purpose

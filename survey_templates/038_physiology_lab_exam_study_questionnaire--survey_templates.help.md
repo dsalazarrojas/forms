@@ -1,14 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form called "physiology_lab_exam_study_questionnaire". The form is designed to collect information from users, but we need to ensure that the form is completed correctly and that users understand what each field is for. We should consider the type of data being collected, the purpose of each field, and how the user can navigate the form to complete it successfully.
-
-Before we start, let's review the form structure. The form has 25 fields across multiple pages. We have a mix of text input fields, multiple-choice questions, select-one questions, and date/time fields. Some fields are required, while others are optional.
-
-To avoid duplication, we should ensure that each field is clearly labeled and that the user can easily navigate between fields. We should also provide tips and explanations for each field to help the user understand what information is being collected and how to input it correctly.
-
-Let's start with the form purpose and structure in mind.
-
-</thinking>
-
 # physiology_lab_exam_study_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from users about their physiology lab experience and preferences. It is essential to complete this form accurately to help us better understand your experiences and tailor our services to your needs.

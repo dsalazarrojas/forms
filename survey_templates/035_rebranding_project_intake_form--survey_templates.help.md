@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rebranding Project Intake Form - Help Guide
 ## Purpose
 The Rebranding Project Intake Form is a tool used to collect information about new branding projects. This form helps ensure that all necessary details are captured and organized for efficient project management and execution.

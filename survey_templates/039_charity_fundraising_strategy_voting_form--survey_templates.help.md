@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Charity Fundraising Strategy Voting Form - Help Guide
 
 ## Purpose

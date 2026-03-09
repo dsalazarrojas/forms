@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants in an urban visibility study. The goal is to gather information about participants' experiences, perceptions, and behaviors related to urban environments. The survey is meant to be completed by individuals who have been in contact with the study team and are responding to a follow-up inquiry. This form is not intended to be used for other purposes, so please do not fill it out if you are not a participant in the urban visibility study.
-</thinking>
-
 # Urban Visibility Study Survey - Help Guide
 
 ## Purpose

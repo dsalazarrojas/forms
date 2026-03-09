@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users about their menu options. This form is likely used by restaurant or food establishment staff to understand customer preferences and opinions about their menu offerings. To complete this form, users will be asked to select their top choice from a list of menu items, rate their top choice, choose which menu items they would like to see more of, and provide feedback on the frequency and price range of their preferred menu items. 
-</thinking>
-
 # menu_options_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on users' preferences for menu options, including their top choice, rating, desired menu items, and frequency and price range.

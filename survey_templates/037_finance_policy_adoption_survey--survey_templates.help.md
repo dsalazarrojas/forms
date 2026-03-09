@@ -1,12 +1,3 @@
-<thinking> 
-We are creating this help guide to support users in completing the Finance Policy Adoption Survey, which is a form used to gauge the level of finance policy awareness and adoption within an organization. This form will help in assessing the current state of finance policy implementation and identifying areas of improvement. It is essential to provide clear guidance on how to complete this form accurately and effectively to ensure that the data collected is reliable and useful.
-
-Before proceeding, please note that this form is only for internal use within the organization, and the responses will be confidential. It is also expected that the form will be completed honestly, and users will not duplicate their responses.
-
-This help guide is designed to be concrete, concise, and practical, covering the form's purpose, how to complete it, and a field-by-field explanation of each section. Please refer to the following sections for more information.
-
-</thinking>
-
 # Finance Policy Adoption Survey - Help Guide
 ## Purpose
 The Finance Policy Adoption Survey is a tool used to evaluate the current state of finance policy awareness and adoption within an organization. Its primary purpose is to collect data that will help the management identify areas where the finance policy is being well-implemented and where there is room for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data on students' environmental literacy levels and related experiences. The purpose of this form is to gather information on students' perceptions and understanding of environmental issues, which can be used to inform educators, researchers, and policymakers on how to improve environmental education and literacy programs. This form is not designed to be a comprehensive assessment tool but rather a tool to collect general feedback and opinions from students and their teachers. To ensure accurate and relevant data, please ensure that the form is filled out by students in their own school and by their own teachers who know them personally. This form should not be duplicated by students or teachers who are not directly affiliated with the students or schools in question.
-</thinking>
-
 # Environmental Literacy Among Students Survey - Help Guide
 
 ## Purpose

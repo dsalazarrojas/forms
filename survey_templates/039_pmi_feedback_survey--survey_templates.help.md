@@ -1,5 +1,3 @@
-<thinking>...checking the form purpose and ensuring it's not a duplicate of existing forms...</thinking>
-
 # PMI Feedback Survey - Help Guide
 ## Purpose
 The PMI Feedback Survey is a tool used to collect feedback from participants and project managers on the overall project process. It aims to gather insights on project outcomes, participant satisfaction, and areas for improvement. This form is intended for regular assessment and improvement of project management practices within the organization.

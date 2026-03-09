@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge the interest of users in training courses, specifically asking about their preferred topics, methods, and scheduling options. This form is likely used to gather information about what courses are in demand, and to help shape future course offerings. It's possible that this form is used by instructors or course administrators to gather feedback from students. 
-</thinking>
-
 # Training Course Interest Survey - Help Guide
 
 ## Purpose

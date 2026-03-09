@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Withdrawal Survey - Help Guide
 
 ## Purpose

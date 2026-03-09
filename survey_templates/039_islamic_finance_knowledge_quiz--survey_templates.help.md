@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to assess the user's knowledge on Islamic Finance, specifically covering topics such as the core concepts of Mudarabah and its relation to Islamic finance, the main objectives of Shariah (Shariah law), and the understanding of what Islam is. This form is designed to provide an interactive and engaging experience for users to test their knowledge and gain insight into the principles of Islamic Finance.
-
-Before proceeding, please ensure you have reviewed the relevant information on Islamic Finance and are not duplicating an existing submission. If you're unsure about any aspect of this form, feel free to ask for clarification.
-
-</thinking>
-
 # Islamic Finance Knowledge Quiz - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Restaurant POS System Feedback Poll form. The form is meant to gather feedback from users on their experience with the POS system, and is likely used by system administrators to monitor user satisfaction and identify areas for improvement. To ensure the form is completed accurately, please follow the instructions below. Note: This form does not require user registration or authentication.
-
-</thinking>
-
 # Restaurant POS System Feedback Poll - Help Guide
 ## Purpose
 The Restaurant POS System Feedback Poll form is designed to collect feedback from users on their experience with the Restaurant POS system. Your input will help us improve the system and provide better service in the future.

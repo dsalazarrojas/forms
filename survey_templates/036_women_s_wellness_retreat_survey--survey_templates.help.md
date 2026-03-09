@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a survey designed to gauge the effectiveness and satisfaction of a Women's Wellness Retreat. It is used to collect feedback from participants to help improve future retreats. The form is likely to be filled out by women who have attended a wellness retreat and are providing their input on their experience. 
-
-This form is likely to be relevant to women's wellness retreats, and filling out the form should provide valuable insights to organizers to improve their events.
-
-</thinking>
-
 # Women's Wellness Retreat Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from participants to help improve future wellness retreats.

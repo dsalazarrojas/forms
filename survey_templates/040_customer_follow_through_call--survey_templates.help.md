@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track the progress and resolution of customer calls. The purpose of this form is to ensure that customers are followed up on in a timely manner after an initial call. The form is divided into multiple pages, each with its own set of fields. This form is optional, and it's recommended to fill it out when a customer call is being followed up on.
-</thinking>
-
 # customer_follow_through_call - Help Guide
 ## Purpose
 The customer follow through call form is used to record and track the progress of customer calls. This form helps ensure that customers are followed up on in a timely manner.

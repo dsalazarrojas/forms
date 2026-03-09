@@ -1,11 +1,3 @@
-<thinking>
-This form is for collecting information about women attorneys, specifically their experience, practices, and firm sizes. The purpose of this form is to gather data on the demographics, work experience, and other relevant details of women attorneys for research and analysis. 
-
-The form is composed of multiple pages, each focusing on a specific area of information collection. Please ensure you are filling this form for the intended purpose and not duplicating or misrepresenting any information. If you are not sure about any field or question, please seek assistance from a knowledgeable person before proceeding.
-
-Please refer to the following guide for a detailed understanding of the form's purpose and fields.
-
-</thinking>
 # Women Attorneys Survey - Help Guide
 ## Purpose
 The Women Attorneys Survey is designed to collect information about the demographics, work experience, and other details of women attorneys. This data will be used for research and analysis to better understand the profession and industry.

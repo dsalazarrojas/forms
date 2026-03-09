@@ -1,8 +1,6 @@
 # local-governance-feedback-form - Help Guide
 
 ## Purpose
-<thinking>This form is designed to collect feedback on local governance matters. The primary purpose is to understand the concerns or issues reported to the local government. This form is intended to collect data that will help us improve the services provided by the local government. If you have experienced any issues or concerns with the local government, please use this form to report them. Please note that if the issue has already been reported, your feedback will not be considered a new instance of the issue.</thinking>
-
 ## How To Complete This Form
 To complete this form, follow these steps:
 

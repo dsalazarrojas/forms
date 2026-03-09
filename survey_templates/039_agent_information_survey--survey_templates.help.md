@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information from agency agents, including their name, joining date, official contact email, primary phone number, language proficiency, primary area of expertise, relevant certifications, current work schedule, previous industry experience, software tools mastered, and emergency contact information.
-
-This form is designed for the internal use of the agency, and it is assumed that the agents are already registered and have some level of affiliation with the agency. Therefore, this form is not intended to be completed by external users who are not affiliated with the agency.
-
-Before filling out this form, please ensure that you are an authorized agent of the agency and that you have a valid reason for completing this form. If you are unsure, please contact your supervisor or HR department for guidance.
-
-Please note that some fields are marked as "required", which means that the field must be filled out for the form to be considered complete. If you are unable to fill out a required field, please contact your supervisor or HR department for assistance.
-
-</thinking>
-
 # Agent Information Survey - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about the user's kissing habits and preferences. It is intended to be a fun and lighthearted way to gather insights into the user's relationships and physical intimacy. The form includes questions about the user's current relationship status, their comfort level with kissing, and their preferred kissing style. It also asks about their frequency and duration of kissing, as well as their favorite places and times to get kissed. Some questions are about their most and least intimate experiences with kissing, and others ask about how their kissing habits have changed over time. This form is not intended to be a serious or scientific survey, but rather a playful way to explore the user's feelings and attitudes towards kissing. Before answering, please note that the form is not meant to be taken seriously and is intended for entertainment purposes only. If you're in a current relationship, please consider your partner's feelings and boundaries before answering. If you're not comfortable with the topic of kissing, you can skip the form altogether. 
-
-</thinking>
-
 # kissing_experience_survey - Help Guide
 ## Purpose
 The **Kissing Experience Survey** is a fun and lighthearted form designed to collect information about your kissing habits and preferences. It's meant to be a playful way to explore your feelings and attitudes towards kissing.

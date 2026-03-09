@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Respondent Identification Questionnaire - Help Guide
 ## Purpose
 This Respondent Identification Questionnaire is designed to collect essential information about the individual filling out the form. The purpose of this form is to gather demographic and program-specific details to facilitate follow-up contacts, surveys, or other interactions with the respondent. The form is intended for individuals who are participating in or have participated in a study or program.

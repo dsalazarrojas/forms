@@ -1,8 +1,3 @@
-<thinking>
-The form's purpose is to evaluate the quality of a research paper presented at a conference. This form will help assessors provide feedback on various aspects of the paper, including its title, authors, quality, relevance to the topic, clarity of the conference proceedings, and overall score. This form is intended to be completed by assessors who have reviewed the paper and are providing their professional opinion on its quality. The form is not intended for general public users, and its completion is likely to be restricted to assessors who have been invited to review papers for the conference. The form's purpose is to provide a structured and systematic way to collect feedback on research papers presented at conferences.
-
-</thinking>
-
 # research_conference_paper_quality_evaluation_form - Help Guide
 ## Purpose
 The research_conference_paper_quality_evaluation_form is a tool used by assessors to evaluate the quality of research papers presented at conferences. This form helps assessors provide structured and systematic feedback on various aspects of the paper.

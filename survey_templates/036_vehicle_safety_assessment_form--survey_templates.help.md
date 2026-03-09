@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the safety of a vehicle, gathering information on various aspects such as vehicle condition, damage, inspection, maintenance, and safety standards. The purpose of this form is to ensure that the vehicle is safe to operate and to identify potential risks or issues that need to be addressed. The form is designed to be completed by vehicle owners, operators, or maintenance personnel.
-</thinking>
-
 # Vehicle Safety Assessment Form - Help Guide
 ## Purpose
 The Vehicle Safety Assessment Form is used to assess the safety of a vehicle, gathering information on various aspects such as vehicle condition, damage, inspection, maintenance, and safety standards.

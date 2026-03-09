@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect data on plant improvement from users. It is intended for internal use and will be used to assess the plant's performance. Please make sure to fill in all required fields. The form has 25 fields in total, but not all of them are required. Some fields are designed for optional comments or ratings. </thinking>
-
 # Plant Improvement Assessment Quiz - Help Guide
 ## Purpose
 The Plant Improvement Assessment Quiz is a form designed to collect data on plant improvement from users. This form will help us assess the plant's performance.

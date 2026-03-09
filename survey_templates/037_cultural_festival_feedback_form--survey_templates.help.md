@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used as a tool for gathering feedback from attendees of cultural festivals. The purpose is to collect data on individual experiences, opinions, and ratings of the event. This form will be used to inform future event planning and organization. It is not intended for commercial use. Please ensure that all required fields are filled in and that the form is submitted completely before leaving the event or festival location.
-</thinking>
-
 # Cultural Festival Feedback Form - Help Guide
 
 ## Purpose

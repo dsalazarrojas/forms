@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess the attitudes, practices, and challenges of non-profit organizations regarding their marketing strategies and policies. It gathers information on the current state of marketing practices, challenges faced by non-profits, and awareness of ethical marketing practices. The form is intended for non-profit organizations to reflect on their marketing approaches and identify areas for improvement. It does not collect any sensitive or personal data. 
-
-Please ensure that this form is not duplicated or used for commercial purposes without proper attribution. This form is released under the Creative Commons By 4.0 license, which allows for free use, modification, and even commercial use, provided that credit is given to the original creator.
-</thinking>
-
 # Ethical Marketing Practices In Nonprofits Survey - Help Guide
 ## Purpose
 This form is designed to gather information on the current state of marketing practices, challenges faced by non-profits, and awareness of ethical marketing practices within non-profit organizations.

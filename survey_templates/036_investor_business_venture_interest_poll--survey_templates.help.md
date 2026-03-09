@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information from investors about their views on various aspects of business ventures, including what they consider when evaluating investments, how they measure success, and their expectations for return on investment. The form is not affiliated with any specific form platform and is an original adaptation of a public survey topic. The form has 14 fields, each with a label, type, and options for selection. The form is meant to gather diverse opinions from investors and provide insights into their thoughts and behaviors. It is essential to ensure that each investor completes the form only once to avoid duplication of responses.</thinking>
-
 # Investor Business Venture Interest Poll - Help Guide
 ## Purpose
 This form is designed to gather information from investors about their views on various aspects of business ventures. The form aims to collect diverse opinions from investors and provide insights into their thoughts and behaviors.

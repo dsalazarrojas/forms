@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "creative_characteristics_survey" form. This form is used to gather information on an individual's creative characteristics, preferences, and skills. Its purpose is to help assess an individual's creative inclinations, preferences, and skills related to various activities. The form is composed of 9 fields that cover different aspects of creative characteristics, including preference for artistic and adventurous activities, scientific activities, sports activities, and self-reported and observed creativity. The form will likely be used by professionals such as psychologists, educators, or coaches who want to evaluate an individual's potential for creativity, problem-solving skills, and other cognitive abilities. This form is not intended for general public use.
-</thinking>
-
 # creative_characteristics_survey - Help Guide
 ## Purpose
 The creative_characteristics_survey form is designed to gather information on an individual's creative characteristics, preferences, and skills. It is intended to be used by professionals such as psychologists, educators, or coaches to assess an individual's potential for creativity, problem-solving skills, and other cognitive abilities.

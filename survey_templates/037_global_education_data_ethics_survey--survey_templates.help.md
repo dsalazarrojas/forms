@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect data on the ethics of education data management from stakeholders in the education sector. The purpose of this form is to gather insights on the attitudes and practices of individuals with regards to data collection, use, and management in educational settings. The form will be used to identify areas of concern and potential risks associated with data management, as well as to track progress towards improving data ethics in education. 
-
-Please note that this form is not designed for general public use, but rather for specific stakeholders in the education sector, such as students, teachers, researchers, parents, and policymakers. The form is intended to be completed by one person per submission.
-
-</thinking>
-
 # Global Education Data Ethics Survey - Help Guide
 ## Purpose
 The Global Education Data Ethics Survey is designed to collect data on the attitudes and practices of stakeholders in the education sector with regards to data management, collection, and use.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from travelers about their experiences, preferences, and details related to their travel. This form aims to gather data on various aspects of travel, including the traveler's name, contact information, travel dates, destinations, modes of transportation, and other relevant details. The form will help in understanding the travelers' preferences, experiences, and habits, which can be used to improve travel-related services and experiences for travelers in the future.
-
-Before filling out this form, ensure that you have relevant information about your travel experiences ready. Please note that this form is for gathering information and will not be used for any marketing or solicitation purposes.
-
-</thinking>
-
 # Post Travel Survey - Help Guide
 ## Purpose
 This form is designed to collect information from travelers about their experiences, preferences, and details related to their travel. It aims to improve travel-related services and experiences for future travelers.

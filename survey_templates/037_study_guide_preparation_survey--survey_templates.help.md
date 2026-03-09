@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to check form relevance and prevent duplication ...
-
-This form is designed to gather information about study guide preparation preferences from users. It is intended to be used by educators and instructors to better understand their students' needs and tailor their teaching methods accordingly. The form is not intended for general users, so only relevant and non-duplication responses are requested.
-
-</thinking>
-
 # study guide preparation survey - Help Guide
 ## Purpose
 This form is designed to gather information about study guide preparation preferences from users. It is intended to be used by educators and instructors to better understand their students' needs and tailor their teaching methods accordingly.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is used to gather information on the market research for influencer collaboration. To ensure that each submission is relevant and unique, please ensure that you have not previously completed this form. Each section of the form is designed to help us understand different aspects of the potential audience for our collaboration. 
 
 This form has 14 questions, including select multiple and select one options, as well as a note section for any additional information. Some questions will be more relevant than others based on your selection. 

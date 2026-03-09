@@ -1,18 +1,3 @@
-<thinking>
-This form appears to be a template for collecting feedback or evaluation on Employer Of Record (EOR) services. The form has multiple pages with various questions or fields, but their purpose and structure seem to be quite open-ended. To ensure you understand the form's intent and can effectively provide input, it's essential to clarify the purpose and requirements.
-
-It's possible that the form is designed for companies or organizations to evaluate their EOR service's performance, features, or overall satisfaction. This evaluation can help identify areas of improvement, highlight strengths, or assess the service's effectiveness in meeting their needs. However, more specific details about the form's intended use case would be helpful to provide a more accurate and practical guide.
-
-Before proceeding, consider the following:
-
-* Is this form meant for internal use within the company or a broader audience?
-* Are there specific questions or prompts that need to be answered for each page?
-* Are there any required fields that must be filled out for the form to be considered complete?
-
-If the form's purpose and structure are not well-defined or are open to interpretation, it might be beneficial to clarify these points to ensure that users understand the intended use case and can provide valuable input.
-
-</thinking>
-
 # Employer Of Record Service Evaluation Form - Help Guide
 ## Purpose
 This guide is designed to help you complete the Employer Of Record (EOR) Service Evaluation Form. The form is intended to collect feedback and evaluation on your experience with EOR services. Please refer to the internal documentation or your organization's guidance for the specific use case and requirements.

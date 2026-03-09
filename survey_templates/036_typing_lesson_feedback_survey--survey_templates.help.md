@@ -1,7 +1,3 @@
-<thinking>
-This help guide will explain the "Typing Lesson Feedback Survey" form, which aims to collect feedback from users about their experience with typing lessons. The form is intended to gather insights on the effectiveness, difficulty level, materials provided, and overall satisfaction of the lessons. Before proceeding, ensure you've completed the typing lessons being evaluated.
-</thinking>
-
 # Typing Lesson Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experience with typing lessons. Your input will help us identify areas for improvement and provide better learning experiences for you and others.

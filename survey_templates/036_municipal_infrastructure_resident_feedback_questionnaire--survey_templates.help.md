@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from residents about their perception of neighborhood services, local conditions, and community satisfaction. It is intended to be used by city officials to understand the needs and concerns of their constituents. The form should only be filled out by one resident at a time, and responses are not necessarily representative of the entire neighborhood.
-</thinking>
-
 # Municipal Infrastructure Resident Feedback Questionnaire - Help Guide
 ## Purpose
 The purpose of this questionnaire is to gather feedback from residents about their neighborhood services, local conditions, and overall community satisfaction. This feedback will be used by city officials to understand the needs and concerns of their constituents and to inform decision-making.

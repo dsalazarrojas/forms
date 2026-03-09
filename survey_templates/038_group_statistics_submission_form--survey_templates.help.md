@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect statistics and performance data from teams, allowing managers to track and report progress across different teams. It consists of several fields that require input on period-based reporting, supporting documentation, group performance updates, results across teams, consistent data collection, group statistics submission form, reporting period, reporting time, manager name, team members, manager comments, manager contacts, team performance updates, performance measures, data collection method, data collection periodicity, and submission date. The form does not require any additional information, and the submission is not affiliated with any form platform. The form is released under CC BY 4.0, allowing users to modify and even sell forms derived from it, as long as credit is given.</thinking>
-
 # group-statistics-submission-form - Help Guide
 ## Purpose
 This form is designed to collect statistics and performance data from teams, allowing managers to track and report progress across different teams.

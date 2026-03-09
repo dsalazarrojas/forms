@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from participants in equine learning sessions. This feedback will help us improve our programs and provide a more engaging and valuable experience for future participants. 
-
-Please ensure that you are providing feedback for the correct session, and that you have not already submitted feedback for this session. If you have any concerns or suggestions, please let us know so we can take them into consideration.
-
-</thinking>
-
 # Equine Learning Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect your feedback on our equine learning sessions. Your input will help us create a more engaging and valuable experience for future participants. Please take a few minutes to complete this form and provide your honest feedback.

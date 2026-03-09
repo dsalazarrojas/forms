@@ -1,13 +1,3 @@
-<thinking>
-
-Before diving into the help guide, let's briefly explain the purpose and context of the Organizational Culture Assessment Form.
-
-This form is designed to gather feedback on the overall culture of an organization from a team or department level. It aims to help organizations understand their strengths and weaknesses, identify areas for improvement, and make data-driven decisions to foster a positive work environment. The form collects information on various aspects, including communication, collaboration, feedback, trust, satisfaction, values, and overall satisfaction.
-
-Please fill out this form if you are a team member or employee who has a good understanding of the organizational culture within your team or department.
-
-</thinking>
-
 # Organizational Culture Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to assess the organizational culture of your team or department. It will help us understand what works well and what areas need improvement.

@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-We are creating this form to collect feedback from members of our community club to improve our services and activities. This form is meant for members who have participated in club activities and are interested in sharing their thoughts on their experiences.
+> We are creating this form to collect feedback from members of our community club to improve our services and activities. This form is meant for members who have participated in club activities and are interested in sharing their thoughts on their experiences.
 
 If you have already provided feedback, please do not fill out this form again.
 

@@ -1,12 +1,3 @@
-<thinking>
-The employment engagement survey form is designed to gauge employees' perceptions of their current job satisfaction, work-life balance, and overall happiness. This form is meant to be filled out by employees to provide anonymous feedback to management regarding their job satisfaction and engagement. The purpose of the form is to help management understand the current state of employee engagement and make informed decisions to improve the work environment.
-
-Before filling out this form, please ensure that you have not already submitted a similar form for this purpose. Duplicate feedback is not only unnecessary but also may dilute the effectiveness of the survey results.
-
-The form is divided into several pages, each with a specific set of questions. Please review the instructions below to understand the purpose and requirements of each page.
-
-</thinking>
-
 # employment_engagement_survey - Help Guide
 ## Purpose
 The employment engagement survey is designed to gather feedback from employees about their current job satisfaction, work-life balance, and overall happiness.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is a simple survey designed to gather information about project management from project managers. The purpose of this form is to collect contact information and basic details about project managers. It is intended to be used by project managers to provide their contact information and title. The form will not be used to store or display sensitive or confidential information.
-
-</thinking>
-
 # Project Management Survey - Help Guide
 ## Purpose
 This form is a simple survey designed to gather contact information and basic details about project managers.

@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to register attendance for events. It is intended to collect information about the availability of individuals to attend events and their agreement to terms and conditions. This form will help in determining whether the individual is available to attend an event and has accepted the terms and conditions. 
-
-It is crucial that each user understands the purpose and relevance of this form as it will be used to filter and sort responses in a way that makes sense for event planning and management. Please make sure you are filling this form for the correct purpose and only once.
-
-Please note that this is a survey form and the answers will not affect your personal data or any other sensitive information. The responses will be collected to help event planners make informed decisions.
-
-Also, note that each field has specific roles in the event registration process. Some are required for the form to be complete, and some are for additional information or preferences.
-</thinking>
-
 # Event Attendance Registration - Help Guide
 ## Purpose
 This form is designed to collect information about your availability and agreement to terms and conditions for events. Please complete this form carefully to ensure accurate and helpful data for event planning and management.

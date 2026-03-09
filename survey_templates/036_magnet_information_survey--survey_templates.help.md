@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a magnet's attributes and usage habits to better understand customer preferences and behavior. The purpose of this form is to gather feedback from customers about their experiences with magnets, including the frequency of use, satisfaction rating, and purchasing channels. This form will help our team to improve the design and development of our products. 
-Please fill out this form only if you have used a magnet product or service recently. 
-Please note that this form is designed to gather information about your honest opinions and experiences. Your answers will help us understand our customers better.
-</thinking>
-
 # Magnet Information Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a magnet's attributes and usage habits to improve product design and development.

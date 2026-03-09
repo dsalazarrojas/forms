@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to evaluate the customer service responsiveness of a particular interaction. It's meant to assess how well a customer service representative handled a situation, taking into account factors such as communication, resolution rate, time to resolution, customer satisfaction, and additional comments. This form should only be filled out after an interaction has been completed and is meant for internal use only. To avoid duplication, please only submit one form per interaction.
 
 # Customer Service Responsiveness Evaluation Form - Help Guide

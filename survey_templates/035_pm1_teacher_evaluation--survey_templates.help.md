@@ -1,13 +1,3 @@
-<thinking>
-
-This form was created to collect feedback from teachers regarding their experiences with their students, administrators, and colleagues. The purpose of this form is to understand the effectiveness of various support systems and programs implemented by the institution, allowing for the identification of areas for improvement and opportunities to enhance teacher satisfaction and performance.
-
-The form will ask for basic contact information (first name, last name, email) followed by job title, department, years of teaching experience, teaching level, and will allow the user to provide additional comments and feedback regarding their experiences.
-
-Before you begin, please ensure that you are the person you are evaluating. If you are a student or not the intended user, you will not be able to complete this form. Also, please ensure that you have not already submitted this form in the past. Re-submissions are not accepted.
-
-</thinking>
-
 # PM1 Teacher Evaluation - Help Guide
 ## Purpose
 The PM1 Teacher Evaluation form is designed to collect feedback from teachers regarding their experiences with their students, administrators, and colleagues. This feedback will be used to identify areas for improvement and opportunities to enhance teacher satisfaction and performance.

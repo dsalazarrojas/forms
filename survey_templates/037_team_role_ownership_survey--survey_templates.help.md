@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help team members understand and take ownership of their roles within the team. The form consists of 25 pages, each with a specific question or prompt related to role ownership. The form is meant to be filled out by team members to provide insights into their current role responsibilities and interests, as well as their willingness to take on new responsibilities or interests. It's essential to complete this form carefully and honestly to provide accurate information. Please make sure to answer the questions truthfully and thoroughly, and avoid duplicating or skipping any questions.
-</thinking>
-
 # Team Role Ownership Survey - Help Guide
 ## Purpose
 The Team Role Ownership Survey is a tool to help team members understand and take ownership of their roles within the team. It helps to gather insights into their current role responsibilities and interests, as well as their willingness to take on new responsibilities or interests.

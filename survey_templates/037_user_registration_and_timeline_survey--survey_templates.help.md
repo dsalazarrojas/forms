@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand its purpose and the information it's intended to collect. The form is for user registration and timeline survey, which suggests it's meant to gather demographic and timeline-related information from users. Given the fields included in the form, it appears to be a basic form for collecting user details, such as name, email, program, timeline, and submission date/time.
-It's essential to verify that this form is not redundant or a duplicate of existing forms. However, since this form was generated using AI and is an original adaptation, it's unlikely to be a duplicate. Therefore, we can proceed with creating the user-facing help guide.
-</thinking>
-
 # user_registration_and_timeline_survey - Help Guide
 ## Purpose
 This form is designed to collect user registration and timeline information for demographic analysis and tracking.

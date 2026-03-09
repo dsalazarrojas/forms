@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Synthetic Food Ingredients Quiz - Help Guide
 ## Purpose
 This form is designed to gather information from participants about their knowledge and experience with synthetic food ingredients. The goal is to assess their understanding of various synthetic additives, food colorants, and preservatives commonly found in food products. By completing this form, you will help us improve our knowledge base and develop more effective education and outreach materials.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding and completing the Feminism Survey form. The purpose of this form is to gather information and opinions from users on various aspects of feminism, including their beliefs, knowledge, and experiences. This form is not intended to be a comprehensive or scientifically valid assessment tool. Users should feel free to provide their honest opinions without worrying about being judged or evaluated. The survey will be treated as an anonymous and confidential source of input to help inform and improve our understanding of feminism.
-</thinking>
-
 # Feminism Survey - Help Guide
 
 ## Purpose

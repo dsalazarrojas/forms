@@ -1,5 +1,3 @@
-<thinking>...This form is meant to collect data on the ESG policy adoption by an individual or a company. This is typically completed by a company representative. The form may be used to track progress of ESG policy implementation within an organization. It is recommended to fill out this form carefully, as any submitted data will be recorded for further analysis. It is also suggested to check the form carefully to ensure that all required fields are filled out correctly. This form consists of multiple pages, including a header section, a contact information section, an ESG policy adoption section, and a submission details section. This form is not intended for multiple submissions, so please fill out one submission per user. If you are unsure of how to fill out the form, please refer to the following guidelines...</thinking>
-
 # ESG Policy Adoption Survey - Help Guide
 ## Purpose
 This form is designed to collect data on the ESG policy adoption by an individual or a company. It is meant to track progress of ESG policy implementation within an organization.

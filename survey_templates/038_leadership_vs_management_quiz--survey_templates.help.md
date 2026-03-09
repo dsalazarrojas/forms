@@ -1,5 +1,3 @@
-<thinking>As an expert form designer, I'll create a comprehensive help guide for the provided YAML form. I'll ensure that the guide explains the form's purpose, how to complete it, and each field's meaning in a clear and concise manner.</thinking>
-
 # Leadership Vs Management Quiz - Help Guide
 ## Purpose
 The Leadership Vs Management Quiz is designed to distinguish between leadership and management styles in the workplace. This quiz will help you assess your leadership skills and identify areas where you can improve.

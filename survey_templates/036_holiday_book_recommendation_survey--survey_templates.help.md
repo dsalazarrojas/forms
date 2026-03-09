@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to provide input for a holiday book recommendation survey. It appears to be a survey to gather information about users' holiday preferences, book tastes, and contact details. Before proceeding, ensure that this form is not being used for any other purpose or to avoid duplicate work.
-</thinking>
-
 # Holiday Book Recommendation Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather information about users' holiday book preferences and suggestions. It aims to collect data on users' preferred book genres, suggested books, and holiday interests to help create personalized book recommendations.

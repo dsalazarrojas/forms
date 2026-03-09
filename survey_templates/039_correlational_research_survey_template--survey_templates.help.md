@@ -1,17 +1,3 @@
-<thinking> ... 
-
-This form is designed to guide users in creating a correlational research survey template. The form is intended to help users define the objectives, variables, and expected outcomes of a research study. 
-
-The form is structured into multiple sections, each focusing on specific aspects of the research survey. 
-
-Before filling out the form, please ensure that you have a clear understanding of the research question, objectives, and expected outcomes. 
-
-The form will ask you to confirm if a particular variable is to be surveyed or not, and if a solution to a problem exists. 
-
-Please fill out the form carefully, ensuring that your answers accurately reflect your research goals and objectives. 
-
-... </thinking>
-
 # Correlational Research Survey Template - Help Guide
 ## Purpose
 The Correlational Research Survey Template is a tool used to define the objectives, variables, and expected outcomes of a research study. It helps users create a clear and concise survey template for their research needs.

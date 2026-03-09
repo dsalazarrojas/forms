@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be interacting with the "Geographic Information Survey" form. This form is designed to collect information about user's geographic locations, demographic characteristics, and personal preferences. The purpose of this form is to understand how often users visit specific locations, their age, income level, place of residence, place of work, education level, language proficiency, gender, and various other personal characteristics.
-
-Please note that this help guide is a comprehensive resource for end-users, providing them with a clear understanding of the form's purpose and how to complete it.
-
-Before proceeding, please review the following sections to ensure you're familiar with the form's purpose and fields.
-
-</thinking>
-
 # Geographic Information Survey - Help Guide
 ## Purpose
 The "Geographic Information Survey" form is designed to collect data on users' geographic locations, demographic characteristics, and personal preferences.

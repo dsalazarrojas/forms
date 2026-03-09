@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about how the user wants to share their sensor data. This form is likely to be used for research, business development, or marketing purposes. It's possible that the form will be used for other reasons as well, such as sharing data with external partners, government agencies, or for personal data usage. The form includes fields for selecting the type of data to be shared, the reason for sharing, and the method of sharing. The user will also be asked to provide their email and phone number for further communication.
-</thinking>
-
 # Smart Sensor Data Sharing Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information about how you want to share your sensor data. This includes selecting the type of data to be shared, the reason for sharing, and the method of sharing.

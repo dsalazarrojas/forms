@@ -1,13 +1,3 @@
-<thinking>
-This form is for collecting information from users to personalize holiday greetings. The purpose of the form is to gather user-submitted content and photos to display in a shared digital environment.
-To ensure accurate and complete data collection, please note that the form has been designed with the following considerations:
-* Required fields are marked as "required: true", but most fields are optional.
-* Some fields, like "video" and "digital wall", are intended for users to provide timestamps, which may cause unexpected behavior if left unattended.
-* The "community contribution" field is a free-form note field, where users can enter any information they choose.
-* This form is part of a larger project and may be used in conjunction with other forms and surveys.
-Please review the form carefully to ensure accuracy in your input.
-</thinking>
-
 # Join Our Holiday Greetings - Help Guide
 ## Purpose
 

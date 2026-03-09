@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a user's past, current, and future goals, relationships, obstacles, habits, and other relevant aspects of their personal life. This data will be used to generate a yearly forecast for the user, providing them with insights and suggestions to achieve their goals and improve their overall well-being.
-
-This form is designed to be completed by the user, who will be asked to provide information about their past year, current state, and goals for the next year. The form will ask for details about their relationships, obstacles, and habits, as well as their email address. 
-
-Please make sure to complete this form accurately and truthfully, as the information will be used to create a personalized forecast that will help you achieve your goals and improve your life.
-
-This guide will walk you through each section of the form, explaining what each field means and how to complete it.
-</thinking>
-
 # Personal Yearly Forecast Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your past, current, and future goals, relationships, obstacles, habits, and other relevant aspects of your personal life. This data will be used to generate a personalized yearly forecast for you, providing you with insights and suggestions to achieve your goals and improve your overall well-being.

@@ -1,7 +1,3 @@
-<thinking>
-Please ensure this form is being used for its intended purpose (i.e., gathering information on chocolate preferences), and not for any other purpose that may be outside the scope of this form. It's also recommended to avoid duplicating efforts by not using this form for the same type of survey or research that already exists. This will help maintain data accuracy and prevent redundant responses.
-</thinking>
-
 # Chocolate Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your preferences, habits, and thoughts regarding chocolate. It will help us understand your favorite types of chocolate, how often you eat it, and what influences your purchasing decisions.

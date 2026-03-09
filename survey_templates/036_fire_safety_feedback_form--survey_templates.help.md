@@ -1,7 +1,3 @@
-<thinking>
-We should only allow users who have access to the fire safety feedback form to submit feedback, and ensure that this form is not completed by users who do not have the necessary permissions or are outside of our company's internal network. We will review the submitted feedback regularly to identify areas of improvement for fire safety procedures. The form should not be used to report external safety concerns or incidents. 
-</thinking>
-
 # fire_safety_feedback_form - Help Guide
 ## Purpose
 This form is used by authorized personnel to provide feedback on fire safety concerns, drills, and training within the company's internal fire safety procedures.

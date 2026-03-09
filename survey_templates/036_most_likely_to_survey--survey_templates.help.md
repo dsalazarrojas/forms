@@ -1,5 +1,3 @@
-<thinking>This form, "Most Likely To Survey", is a 12-question survey designed to gather information about an individual's potential future events or outcomes. The form is intended to be filled out by individuals who are interested in exploring their likelihood of achieving various goals or experiences in the next year. This form is not meant to be filled out by anyone who has already achieved these outcomes, as the purpose is to gauge future prospects.</thinking>
-
 # Most Likely To Survey - Help Guide
 ## Purpose
 This form is a survey designed to help individuals gauge their likelihood of achieving various outcomes in the next year. The survey asks questions about the likelihood of events such as winning a prize, being featured in a magazine, being approached by a talent scout, and more.

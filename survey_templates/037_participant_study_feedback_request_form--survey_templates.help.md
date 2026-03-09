@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Participant Study Feedback Request Form - Help Guide
 
 ## Purpose

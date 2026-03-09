@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect firmographic information about a company, which is crucial for understanding the demographics and characteristics of the company. The firmographic information can be used to analyze and segment companies based on their size, industry, location, and other relevant factors. This form is designed to be completed by company administrators or representatives to provide a comprehensive view of the company's attributes.
-To prevent duplication of effort and ensure consistency in the collected data, it is essential to complete this form only when the company's information is not already available in our system. If you're unsure about whether the company's information is already available, please check with our support team.
-</thinking>
-
 # Firmographics Survey - Help Guide
 ## Purpose
 The Firmographics Survey is designed to collect comprehensive firmographic information about a company. This information is essential for understanding the company's demographics, size, industry, location, and other attributes.

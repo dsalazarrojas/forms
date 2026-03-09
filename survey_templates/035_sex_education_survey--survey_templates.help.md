@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect data for sex education surveys, likely for educational institutions or organizations that provide sex education programs. The purpose of this form is to gather information from students, teachers, or other stakeholders about their experiences, opinions, or feedback regarding sex education. The form's structure and fields suggest that it's meant to collect both quantitative and qualitative data, allowing for in-depth analysis and evaluation of sex education programs. This form is likely used by educators, administrators, or researchers to assess the effectiveness of sex education initiatives, identify areas for improvement, and inform future program development.
-
-Before proceeding, ensure that you are familiar with the purpose and requirements of this form. This guide will walk you through each section and field to help you complete the form accurately and effectively.
-
-</thinking>
-
 # Sex Education Survey - Help Guide
 ## Purpose
 This guide provides step-by-step instructions on how to complete the Sex Education Survey form.

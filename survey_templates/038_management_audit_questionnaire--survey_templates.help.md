@@ -1,13 +1,3 @@
-<thinking>
-This help guide is generated based on the provided YAML fields for the Management Audit Questionnaire form. It is designed to be a comprehensive guide for end-users to understand the purpose and usage of the form.
-
-The purpose of this form is to collect information about an individual's current role/position in the company, their short-term and long-term goals, how they achieve and plan to achieve their goals, their current evaluation methods, management style, performance monitoring frequency, goal review frequency, and overall performance rating. This information will help in assessing and improving an individual's management performance.
-
-Before starting the form, it is essential to ensure that you are filling this form for the correct purpose and not duplicating the effort. This form is designed to be filled out once a year to help in evaluating and improving the management performance. 
-
-This guide will walk you through each field of the form, explaining what each field means and how to complete it correctly.
-</thinking>
-
 # Management Audit Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about your management performance in order to evaluate and improve it. It will take about 15-20 minutes to complete, and will help us understand your current management practices, goals, and performance.

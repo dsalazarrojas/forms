@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect data on equity in digital access for schools. It is intended for school administrators, IT professionals, or other authorized personnel who need to report on the digital access and connectivity of their institution. The form should only be completed by one person per school and should not be duplicated. Please ensure that only the most accurate and up-to-date information is submitted.
-</thinking>
-
 # equity_in_digital_access_survey - Help Guide
 ## Purpose
 This form is designed to collect information about the digital access and equity of a school. It is essential to have accurate and up-to-date data for making informed decisions.

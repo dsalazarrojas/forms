@@ -1,9 +1,3 @@
-<thinking>
-
-The form purpose is to collect information about a post-festival event, including its name, contact details, event details, and timing. This form will guide users through a step-by-step process to provide all necessary information for the post-festival follow-up process. Please make sure to complete the form carefully, as it is a requirement for our internal processes. 
-
-</thinking>
-
 # post_festival_survey - Help Guide
 ## Purpose
 This form is intended to collect post-festival event information for internal use. Please fill it out thoroughly and accurately to ensure a smooth process.

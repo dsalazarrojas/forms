@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information on knowledge and understanding of Industry 4.0 concepts, which is a set of technologies and practices that enables the integration of artificial intelligence and robotics in manufacturing. The form is meant to assess the knowledge and understanding of individuals in this field.
-The form has 25 questions that cover various aspects of Industry 4.0, including questions on understanding of concepts, knowledge of specific technologies, and experience with implementation. The form is designed to be completed by individuals who have experience or knowledge in this field.
-The form is not a comprehensive assessment, but rather a tool to gather information on knowledge and understanding of Industry 4.0 concepts.
-</thinking>
-
 # industry_4_0_knowledge_quiz - Help Guide
 ## Purpose
 This form is designed to gather information on knowledge and understanding of Industry 4.0 concepts.

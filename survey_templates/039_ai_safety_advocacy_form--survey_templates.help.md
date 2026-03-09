@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from individuals who are interested in AI safety advocacy. It helps to gauge their level of expertise, areas of interest, and potential contributions to the field. The form will not be used to contact or contact individuals for unrelated purposes.
-</thinking>
-
 # AI Safety Advocacy Form - Help Guide
 ## Purpose
 This guide is intended to help users complete the AI Safety Advocacy Form accurately and efficiently.

@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the purpose, usage, and field-by-field explanation of the "Health Communication Transparency Survey" form.
-The form is designed to assess the transparency and trustworthiness of health communication channels, and it's likely used in a healthcare or research context. This form is not intended for use in other industries or purposes. It's possible that the form has been previously created, but without further information, I'll create a guide based on the provided YAML structure.
-</thinking>
-
 # Health Communication Transparency Survey - Help Guide
 
 ## Purpose

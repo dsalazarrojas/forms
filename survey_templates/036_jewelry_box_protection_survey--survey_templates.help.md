@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information from users about their jewelry box protection habits and preferences. 
-The survey asks users to input their name, their storage method, how often they store their jewelry, which protection features they consider most important, and their overall satisfaction with their current storage setup. 
-The form should not be filled out by individuals who do not have jewelry or do not store their jewelry. 
-This form is for research purposes only, and the collected data will be used to improve the development of jewelry box protection solutions. 
-Please fill out this form responsibly and accurately. 
-</thinking>
-
 # Jewelry Box Protection Survey - Help Guide
 ## Purpose
 The Jewelry Box Protection Survey is a research tool designed to gather information about users' jewelry storage habits and preferences. 

@@ -1,7 +1,3 @@
-<thinking>
-The "Client Health Consultation Survey" form is designed for clients to provide health-related information and expectations for potential consultation services. This form will help clients to accurately report their health status, goals, and expectations, which will be reviewed by healthcare professionals to create a personalized plan for their health consultation. Please fill out this form carefully and thoroughly, as your input will help create a comprehensive understanding of your health needs. Before proceeding, please check if you have filled out this form before; if so, you may want to update your information if necessary.
-</thinking>
-
 # Client Health Consultation Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your health status, goals, and expectations for potential consultation services. This information will help healthcare professionals understand your needs and create a personalized plan for your consultation.

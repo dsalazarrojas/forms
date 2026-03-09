@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # course_evaluation_survey - Help Guide
 ## Purpose
 The course evaluation survey is a form used to gather feedback from students about their experiences in a course. It is designed to assess various aspects of the course, including its content, organization, difficulty, relevance, value, and satisfaction, as well as the quality and effectiveness of the instructor. This survey helps instructors and course administrators understand the strengths and weaknesses of the course and make necessary adjustments to improve it.

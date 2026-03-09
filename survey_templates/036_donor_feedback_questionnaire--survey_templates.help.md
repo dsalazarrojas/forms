@@ -1,12 +1,3 @@
-<thinking>
-This form is for donors to provide feedback on a specific campaign. This form is intended for internal use by the campaign team to collect information that can be used to improve future campaigns. This guide will walk through each field and explain its purpose and requirements.
-
-Please note that this form is not intended to capture personal or sensitive information, and all fields are optional. The form is designed to be completed by donors who have been part of a campaign and have an opinion or suggestion to share.
-
-Before completing this form, please ensure you have not already provided feedback on this campaign. If you have, your response will not be captured.
-
-</thinking>
-
 # Donor Feedback Questionnaire - Help Guide
 
 ## Purpose

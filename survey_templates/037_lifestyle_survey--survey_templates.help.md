@@ -1,8 +1,3 @@
-<thinking>
-**Lifestyle Survey: Internal Use Case**
-This form is designed for gathering lifestyle information from survey participants to gain insights into their personal preferences, habits, and characteristics. Please fill out this form if you are participating in a research study or survey. Note that this form is meant for internal use only and responses will not be shared externally.
-</thinking>
-
 # Lifestyle Survey - Help Guide
 ## Purpose
 This lifestyle survey aims to collect information about your personal characteristics, habits, and preferences. The survey is divided into several sections, each covering different aspects of your lifestyle.

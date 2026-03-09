@@ -1,9 +1,3 @@
-<thinking>
-  This form is for assessing report types, which is used to categorize and prioritize reports based on their urgency and importance. This assessment helps to determine the priority and frequency of reports, as well as any tools that may be required to complete them. 
-  It's essential to complete this form accurately to ensure that reports are properly managed and addressed. 
-  Before starting, please ensure that the report you are assessing is not already in the system and you are not duplicating an existing assessment.
-</thinking>
-
 # Report Types Assessment - Help Guide
 ## Purpose
 The Report Types Assessment form is used to categorize and prioritize reports based on their urgency and importance.

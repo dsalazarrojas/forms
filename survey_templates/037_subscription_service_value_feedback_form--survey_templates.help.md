@@ -1,7 +1,3 @@
-<thinking>
-This form was created using AI to generate a feedback form for a subscription service. The purpose of this form is to gather feedback from users about their experience with the subscription service. The form is designed to be simple and easy to use, with multiple pages that ask different questions to help the user provide detailed feedback.
-</thinking>
-
 # Subscription Service Value Feedback Form - Help Guide
 ## Purpose
 The Subscription Service Value Feedback Form is designed to gather feedback from users about their experience with the subscription service. This form consists of multiple pages that ask different questions to help us understand what you think about our service.

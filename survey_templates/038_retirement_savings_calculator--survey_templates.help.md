@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users calculate their retirement savings needs. It's a financial planning tool that allows users to input their current financial situation and goals, and provides an estimate of the total savings required to meet those goals. To prevent users from over-saving or under-saving, we will be providing two sets of inputs: "Max" and "Min". The "Max" fields represent the maximum amount of savings required to achieve the highest possible returns, while the "Min" fields represent the minimum amount of savings required to avoid risk or financial insecurity. Please note that these calculations are for illustration purposes only and should not be taken as investment advice.
-</thinking>
-
 # Retirement Savings Calculator - Help Guide
 ## Purpose
 The Retirement Savings Calculator is a financial planning tool designed to help you estimate your retirement savings needs. It will guide you through a series of questions to determine your target wealth, retirement goals, and other relevant factors to provide a personalized estimate of your total savings required.

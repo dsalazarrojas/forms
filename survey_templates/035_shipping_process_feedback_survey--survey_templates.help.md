@@ -1,12 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "shipping_process_feedback_survey" form. This form is designed to collect feedback about the shipping process from customers. The purpose of this form is to gather information about their experience with the shipping process, including their satisfaction with the shipping time, rate, and overall experience. The form will be used to identify areas of improvement and make informed decisions about the shipping process.
-
-This form is not intended for duplicate submissions. Each submission should only be a single instance of feedback for a specific shipping process. If you've already submitted feedback, please do not submit again.
-
-The feedback form is divided into several sections, each designed to gather specific information about the shipping process. Please follow the instructions carefully to complete the form accurately.
-
-</thinking>
-
 # shipping_process_feedback_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback about the shipping process from customers. The feedback will help us identify areas of improvement and make informed decisions about the shipping process.

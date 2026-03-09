@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about stockroom doors, specifically whether they are used, their condition, frequency of use, performance impact, and performance measures. This form is likely used in an operational context to track and monitor stockroom doors.
-
-This form is designed for users to report on stockroom doors, but it's not clear whether this form is intended for a single door or multiple doors. 
-
-To confirm, please review the following questions and fields to make sure this form is relevant and not a duplication for your needs.
-
-This form has 4 select types of questions, 2 date/time types, and 4 text fields. The select one questions seem to indicate a binary answer (yes/no), while the note field seems to be for free form comments.
-
-If this form is indeed relevant and not a duplication, let's move forward with providing a user-facing help guide.
-
-</thinking>
-
 # Stockroom Door Type Survey - Help Guide
 ## Purpose
 This form is used to gather information about stockroom doors, including whether they are used, their condition, and other relevant details.

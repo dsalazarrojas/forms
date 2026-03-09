@@ -1,11 +1,3 @@
-<thinking>
-This form is a tool for evaluating a user's performance or achievement in a specific domain. It is designed to collect feedback on the quality of a submission, whether it meets the required criteria, and other relevant details. The form is used to assess the evaluation rubric, which is a set of criteria that a submission must meet to be considered acceptable.
-
-The form is meant to be filled out by an evaluator who has reviewed a submission and is providing their assessment and feedback. The form should not be filled out by the person submitting the work.
-
-The form is part of a larger system for tracking and evaluating performance, and is used in conjunction with other forms and workflows to provide a comprehensive view of a user's or team's performance.
-</thinking>
-
 # Evaluation Rubric Survey - Help Guide
 
 ## Purpose

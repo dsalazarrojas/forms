@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to capture demographic information about a user's ethnicity, specifically asking about their race, ethnicity, culture, language, country of origin, and ancestry. This information is intended to help the organization better understand the diversity of its users and tailor its services or programs accordingly. 
-
-However, before we begin, let's confirm that we're not duplicating any existing surveys and that this form is relevant to the current project goals. If you're unsure about any of these, please contact the project lead. 
-
-Also, keep in mind that this form will only collect information that is visible to you, the end user. The data collected will not be shared with any external parties without your consent.
-</thinking>
-
 # Ethnicity Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your ethnic background to help us better serve and understand the diversity of our users.

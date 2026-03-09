@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be a survey for gathering information about a party that took place in the previous year. The purpose of this form is to collect data on various aspects of the party, including the theme, attendees, venue, food, dress code, entertainment, and costs. This information will likely be used to track trends and statistics about parties in the company or community.
-
-To ensure relevance and non-duplication, the form seems to be designed to collect information on a specific party event rather than general data. The options provided for each field are likely specific to the type of party being surveyed. It is essential to complete this form with accuracy and attention to detail to provide valuable insights into party planning and execution.
-
-Before proceeding, please note that some fields are optional, and you can skip them if they do not apply to your experience. Also, be aware that the "party_prophets" fields are duplicates, and you should choose one of the options to answer the question.
-</thinking>
-
 # Previous Year Party Survey Form - Help Guide
 
 ## Purpose

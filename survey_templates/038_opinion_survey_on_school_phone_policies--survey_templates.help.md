@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather opinions and data about student use of school phones, including frequency of use, purpose, and potential consequences of misuse. It is expected that this form will be completed by students, who will report on their personal experiences with school phones and how they use them for both academic and personal activities. This form is meant to help school administrators gather valuable information about student behavior and preferences regarding school phones, ultimately informing policies and guidelines for their use. Before continuing, please note that this form is not intended to be a survey about personal opinions, but rather a factual assessment of student experiences and habits regarding school phones.
-
-</thinking>
-
 # Opinion Survey On School Phone Policies - Help Guide
 ## Purpose
 This survey is designed to gather information about your opinions and experiences with school phones. Your responses will help school administrators understand how you use your school phone and any concerns or issues you may have.

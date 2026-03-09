@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ginger_knowledge_quiz - Help Guide
 ## Purpose
 The **Ginger Knowledge Quiz** is designed to collect demographic information from users to gather insights for research purposes. This form is not intended for real-time feedback or direct communication. The collected data will be used to improve our services and provide better experiences for our users.

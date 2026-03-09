@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess the veterinary clinic's cybersecurity readiness and identify potential vulnerabilities. The goal is to gather information about the clinic's current practices, concerns, and preparedness for potential cybersecurity threats. This data will be used to provide recommendations for improvement. Please note that the form is not a substitute for a comprehensive cybersecurity audit, but rather a starting point for self-assessment and planning.
-
-</thinking>
-
 # Veterinary Cybersecurity Readiness Survey - Help Guide
 ## Purpose
 The Veterinary Cybersecurity Readiness Survey is a self-assessment tool designed to help veterinary clinics evaluate their current cybersecurity posture and identify areas for improvement. This guide will walk you through the form fields and their intended use.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers regarding their smart grid systems, including contract types, prices, lengths, and customer service requests. This information will help the organization to better understand customer needs and preferences.
-
-This form is not intended to be used for duplicate or non-essential data collection purposes. It is designed to gather necessary and relevant data for customer relationship management and decision-making.
-
-Before completing this form, please ensure that you have the necessary authority to collect and report this information, and that the data is accurate and complete.
-
-</thinking>
-
 # Customer Smart Grid Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers regarding their smart grid systems.

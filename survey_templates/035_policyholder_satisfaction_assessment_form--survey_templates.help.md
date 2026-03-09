@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and satisfaction data from policyholders about their experience with our organization. To avoid duplication of effort, please fill out this form only if you have not already provided feedback or completed this form in the past. We value your input and use it to improve our services and policies.
-
-</thinking>
-
 # Policyholder Satisfaction Assessment Form - Help Guide
 
 ## Purpose

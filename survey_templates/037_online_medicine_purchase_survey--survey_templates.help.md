@@ -1,7 +1,3 @@
-<thinking>
-This form is for users who want to gather insights on how often online shoppers purchase medicine, their motivations and concerns, satisfaction, and demographic information. It's essential to ensure that this form is only filled out once per respondent, and not multiple times by the same person to avoid duplication of data.
-</thinking>
-
 # Online Medicine Purchase Survey - Help Guide
 ## Purpose
 This form is designed to gather insights on online shoppers' habits, motivations, and concerns regarding medicine purchases. It's a tool to help businesses and researchers understand the online medicine purchasing behavior of their customers or target audience.

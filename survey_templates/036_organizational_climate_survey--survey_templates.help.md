@@ -1,10 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Organizational Climate Survey" form. The purpose of this form is to gather information about the current state of an organization's climate, which can be thought of as the overall atmosphere or character of an organization. This form aims to help identify areas of strength and weakness within the organization, which can inform decision-making and improvement initiatives. It is essential to complete this form honestly and thoroughly to get the most accurate picture of the organization's climate. 
-Please note that this form is a survey, and the responses will be kept anonymous. 
-It is crucial to review the form carefully before completing it to ensure that you understand each question and answer accordingly.
-If you are unsure about any question, please contact the designated contact person for clarification.
-</thinking>
-
 # Organizational Climate Survey - Help Guide
 ## Purpose
 The Organizational Climate Survey is designed to gauge the current state of our organization's climate, helping us understand areas of strength and weakness. Your honest and thorough responses will help us improve our work environment.

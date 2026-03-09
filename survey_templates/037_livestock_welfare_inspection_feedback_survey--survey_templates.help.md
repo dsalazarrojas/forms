@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback on the welfare of livestock during inspections. It is designed to be used by inspectors to report on the conditions and treatment of animals on farms, slaughterhouses, and other facilities. To ensure accurate and consistent data collection, please make sure to complete this form carefully and thoroughly. If you have previously completed this form, please review the changes and update your answers accordingly.
-</thinking>
-
 # Livestock Welfare Inspection Feedback Survey - Help Guide
 ## Purpose
 The Livestock Welfare Inspection Feedback Survey is a tool used to gather feedback on the welfare of livestock during inspections. It is designed to be completed by inspectors to report on the conditions and treatment of animals on farms, slaughterhouses, and other facilities.

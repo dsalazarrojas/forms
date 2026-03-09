@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about respondents' experiences and preferences related to Autonomous Sensory Processing Disorder (ASMR). This form is part of a research study aiming to understand the demographics, frequency of ASMR use, and triggers that contribute to ASMR sensations. The form is intended to help researchers collect data on how individuals experience and interact with ASMR content, which can inform the development of more effective and enjoyable ASMR experiences for users.
-
-It's essential to fill out this form accurately, without duplication of responses. Please take the time to answer each question truthfully, and do not skip any questions. The form's fields have been designed to be easy to understand and complete, but if you're unsure about any question or option, please ask for clarification. If you need help or have questions about the form, contact the researcher or study team.
-
-</thinking>
-
 # ASMR Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather information about your experiences and preferences related to Autonomous Sensory Processing Disorder (ASMR). The goal of this survey is to help researchers understand how individuals interact with ASMR content and identify factors that contribute to ASMR sensations.

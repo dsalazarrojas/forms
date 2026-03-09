@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect user responses about their experiences in different environments. The form will help to categorize users by their environment, sound conditions, moods, and productivity levels. This form is not intended for duplicate submissions, and users are encouraged to complete it only once.
-</thinking>
-
 # Places And Sounds Survey - Help Guide
 ## Purpose
 This form is designed to collect user feedback about their experiences in different environments. It will help us understand how users perceive and respond to various environments in terms of sound conditions, moods, and productivity levels.

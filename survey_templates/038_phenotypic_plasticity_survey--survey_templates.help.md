@@ -1,21 +1,3 @@
-<thinking>
-To determine the internal reasoning behind this form, let's break down its components:
-
-*   **Form Title**: "Phenotypic Plasticity Survey"
-*   **Form Type**: It appears to be a survey focused on the "phenotypic plasticity" theme, likely related to the study of changes in physical traits or characteristics over time. This is a scientific or research-focused form.
-*   **Form Pages**: There are 12 pages with different field types, including text, select_one, select_multiple, and number.
-*   **Field Types and Requirements**:
-  *   `trait_variation`: A text field for describing trait variation, likely a free-form text field where users can elaborate on their responses.
-  *   `lab_equipment`: A select_one field with three options, possibly indicating different types of laboratory equipment used.
-  *   `research_goals`: A select_multiple field with three options, likely denoting different research goals or objectives.
-  *   `trait_measure`: A number field for recording numerical data related to traits.
-  *   `education_level`: A select_one field with three options, possibly indicating the level of education or qualifications.
-  *   `research_experiences`: A text field for describing research experiences, similar to `trait_variation`.
-  *   `field_teams`: A select_multiple field with three options, possibly denoting different field teams or research groups.
-  *   The remaining fields (`another_field`, `more_fields`, `yet_another_field`, `even_more`, `last_field`) are all text fields with no hints or options provided, suggesting they may be placeholders or fields for free-form text or notes.
-
-To avoid duplication and redundancy in the response, we'll focus on the essential fields and provide a practical explanation for end-users.</thinking>
-
 # Phenotypic Plasticity Survey - Help Guide
 ## Purpose
 The Phenotypic Plasticity Survey is a scientific form designed to collect data on the changes in physical traits or characteristics. It's intended for researchers and professionals in the field of phenotypic plasticity.

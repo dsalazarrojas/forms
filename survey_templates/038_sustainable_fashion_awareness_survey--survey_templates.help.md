@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's attitudes and behaviors related to sustainable fashion, with specific focus on their awareness, interest, and involvement in sustainable fashion practices. It aims to assess the level of importance individuals place on sustainability and fashion, as well as their frequency of purchasing sustainable clothing and products. The survey is intended to be a self-reporting instrument, where respondents provide their own answers and opinions about their fashion habits, preferences, and attitudes. 
-</thinking>
-
 # Sustainable Fashion Awareness Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about your attitudes and behaviors related to sustainable fashion. It is a self-reporting instrument that asks you to report your own answers and opinions about your fashion habits, preferences, and attitudes.

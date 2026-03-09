@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather data on clients' perception of the company's brand and services. It's essential to understand how clients think and feel about the brand, its personality, and its overall value proposition. This information will help refine the company's marketing strategy and improve customer relationships.
-</thinking>
-
 # Client Brand Survey - Help Guide
 ## Purpose
 This form is designed to collect client feedback on the company's brand perception, personality, and services. Your input will help us understand how we're doing and where we can improve.

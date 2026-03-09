@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a user's experience and thoughts on in-person learning. The goal is to capture their level of agreement, satisfaction, and frequency of participation in in-person learning activities. The form will help to provide insights on how effective in-person learning is, its benefits, and what could be improved. This information will be used to inform future development and improvement of in-person learning programs. Please ensure you understand the purpose of this survey and answer truthfully.
-</thinking>
-
 # Return To In Person Learning Survey - Help Guide
 ## Purpose
 This survey is designed to gather your thoughts and experiences on in-person learning. Your responses will help us understand your perception of in-person learning and inform future development.

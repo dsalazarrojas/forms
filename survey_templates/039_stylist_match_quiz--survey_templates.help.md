@@ -1,7 +1,3 @@
-<thinking>
-We have a form called "Stylist Match Quiz" which is part of the "survey_templates" category. This form is designed to help clients discover the perfect stylist for their needs. We want to ensure that users understand its purpose and how to complete it correctly. Please let's review the form structure and provide a help guide that explains each field clearly and concisely.
-</thinking>
-
 # Stylist Match Quiz - Help Guide
 ## Purpose
 The Stylist Match Quiz is a tool to help you find the best stylist for your needs. Please answer a few questions to get personalized recommendations.

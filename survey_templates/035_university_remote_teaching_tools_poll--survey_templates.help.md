@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # university_remote_teaching_tools_poll - Help Guide
 ## Purpose
 This form is designed to gather information about the usage patterns, improvement priorities, and opinions on remote teaching platforms from university stakeholders. It will help us understand their experiences and suggestions to enhance the effectiveness of these platforms.

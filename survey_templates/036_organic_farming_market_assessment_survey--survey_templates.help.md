@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect data from organic farmers or producers about their market assessment and production practices. It is intended to gather information on their farm size, production area, years of experience with inorganic farming, organic certification status, and other relevant details. The data collected will be used to better understand the market trends and challenges faced by organic farmers and producers. Please ensure that you are filling out the form for your farm or production entity.
-
-Before completing this form, please ensure that you have the necessary permissions or authority to represent your farm or production entity.
-</thinking>
-
 # Organic Farming Market Assessment Survey - Help Guide
 ## Purpose
 This guide will walk you through each section of the Organic Farming Market Assessment Survey, explaining the purpose of each question and how to complete it correctly.

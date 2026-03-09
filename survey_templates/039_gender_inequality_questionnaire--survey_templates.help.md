@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about a person's experience and perception of gender inequality. It's meant to be a subjective, personal assessment of how often one feels like they are treated unfairly or discriminated against due to their gender.
-The goal of this form is to collect anonymous, self-reported data that can help identify patterns and trends in gender inequality experiences. It's essential to complete this form honestly and thoughtfully, as the results will be used to inform future research and initiatives that aim to address gender inequality.
-Please note that the form is not a formal, legally binding document and is intended for research purposes only.
-</thinking>
-
 # Gender Inequality Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your experiences and perceptions of gender inequality.

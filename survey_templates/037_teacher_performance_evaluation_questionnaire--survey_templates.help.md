@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Teacher Performance Evaluation Questionnaire - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Advanced Biology And Genetics Survey - Help Guide
 ## Purpose
 This guide is intended for users who are interested in completing the "Advanced Biology And Genetics Survey" form. The form is designed to gather information about the respondent's academic background, research interests, and attitudes towards genetics and genomics. It is used to assess the respondent's level of knowledge and interest in these areas.

@@ -1,8 +1,4 @@
-# <thinking>
-This form is a survey used to collect information about the configuration of data sources. The purpose of this form is to gather data on team configuration, data collection start and end dates, data collection frequency, data collection status, and potential issues with data quality. This information will be used to improve the overall data source configuration and ensure that data collection is being done effectively and efficiently. This form should only be filled out by users who have access to this data and are familiar with the data collection process. Please make sure to complete this form carefully and accurately.
-</thinking>
-
-# Source Configuration Survey - Help Guide
+# # Source Configuration Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the configuration of data sources, which is used to improve the overall data source configuration and ensure that data collection is being done effectively and efficiently.
 

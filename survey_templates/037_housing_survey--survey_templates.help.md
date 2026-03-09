@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and completion process of the Housing Survey form. The Housing Survey is a user-facing form designed to gather information from users about their housing experiences. It is essential to ensure that users complete the form accurately and provide valuable feedback. To avoid duplication, users should not submit multiple surveys unless instructed to do so.
-
-To complete this form, users will be presented with a series of questions, each with a specific field type and required status. The following guide will walk users through the form and explain each field in detail.
-
-</thinking>
-
 # Housing Survey - Help Guide
 ## Purpose
 The Housing Survey is a tool designed to collect feedback from users about their housing experiences. Your responses will help us improve our services and better understand your needs.

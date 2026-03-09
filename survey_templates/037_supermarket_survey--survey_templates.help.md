@@ -1,5 +1,3 @@
-<thinking>Before diving into the detailed help guide, let's quickly review the form purpose and ensure it's being used for its intended use case. This Supermarket Survey form is likely designed to gather feedback or opinions from customers about their experience at a supermarket. Each field should aim to collect relevant information about the customer's visit, product purchasing habits, satisfaction levels with different aspects of the store, and any additional comments. To avoid duplication of efforts, please ensure you have not already collected this information through other means, such as customer feedback forms in the store or through online reviews.</thinking>
-
 # supermarket_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their experience at the supermarket, including their satisfaction levels with various aspects of the store and their purchasing habits.

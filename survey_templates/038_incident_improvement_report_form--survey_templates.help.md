@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect incident improvement reports, which are essential for identifying areas of improvement in an organization. It captures information on non-conforming incidents, near misses, and corrective actions taken to prevent future occurrences. By filling out this form, users will be able to provide a clear and concise report that can aid in improving processes and reducing risks. 
-
-Before proceeding with this guide, please ensure that you have a legitimate reason to fill out this form and that the information you provide is accurate and relevant to your incident experience. Duplicate or incomplete forms may lead to unnecessary review and potential delays in processing. 
-
-</thinking>
-
 # Incident Improvement Report Form - Help Guide
 ## Purpose
 The Incident Improvement Report Form is designed to collect information about incidents that occurred within the organization. This form helps to identify areas of improvement and provide insights for future prevention.

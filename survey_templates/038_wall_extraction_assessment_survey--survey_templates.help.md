@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather data from users about the characteristics and conditions of a building's walls. The form is designed to be a comprehensive assessment tool for evaluating the wall's suitability for various construction projects. The user will be prompted to provide information about the site conditions, photos of the site, and other relevant details about the wall.
-
-To ensure that users provide accurate and complete responses, the form has been carefully crafted to guide them through the required fields. This help guide is designed to provide users with a clear understanding of each field's purpose and how to complete the form accurately.
-
-</thinking>
-
 # Wall Extraction Assessment Survey - Help Guide
 ## Purpose
 The Wall Extraction Assessment Survey is designed to collect comprehensive data on the characteristics and conditions of a building's walls for evaluation purposes.

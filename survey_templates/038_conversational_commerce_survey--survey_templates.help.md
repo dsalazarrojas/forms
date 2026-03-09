@@ -130,11 +130,6 @@ To complete this form, follow these steps:
     +   Somewhat Less
     +   Much Less
 
-<thinking>
-This form is an original adaptation of a public survey topic, designed to gather information about conversational commerce. The purpose of this survey is to understand your experiences, preferences, and concerns related to conversational commerce. This form does not copy or use proprietary content from any form creation or survey platform. Please answer the questions honestly, and feel free to provide any additional comments or feedback if you have any. 
-
-</thinking>
-
 ### <hr>
 ### <hr>
 

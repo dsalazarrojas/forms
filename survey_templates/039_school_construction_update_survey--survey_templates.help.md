@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect updates from school construction projects. It's likely used by staff or administrators to gather information about the status and details of each project. However, it's essential to confirm that this form is relevant to your specific use case and not a duplicate effort. Please review your organization's workflow and ensure that this form aligns with your current processes. If you're unsure, please consult with your team or supervisor before proceeding.
-</thinking>
 # School Construction Update Survey - Help Guide
 ## Purpose
 This guide is here to help you understand how to complete the School Construction Update Survey form. The form is designed to collect updates from school construction projects, providing essential information about the status and details of each project.

@@ -1,20 +1,3 @@
-<thinking>
-To create an effective help guide for the "Back To School Survey", it's essential to understand the purpose of the form and the context in which it will be used. This form is designed to gather perspectives from the entire school community, including parents, guardians, students, teachers/staff members, and community members, on various aspects of the school's readiness for the new academic year. The form aims to collect information on their level of preparedness, concerns, and preferences for the upcoming year. By completing this form, the school administration can gain valuable insights to better understand the needs and concerns of their community and make informed decisions for a successful and safe academic year.
-
-This form will help the school administration to:
-
-* Assess the overall preparedness of students and staff for the new academic year
-* Identify potential safety concerns and address them proactively
-* Determine the effectiveness of communication methods used by the school administration
-* Evaluate the level of need for additional social-emotional support services
-* Understand the preferred method of receiving school news and updates
-* Gather any other feedback or concerns from the community
-
-Before starting the survey, ensure that you are using this form in the correct context and for its intended purpose. Do not duplicate efforts or submit this form if you have already completed the survey or if you are not part of the school community.
-
-If you are unsure about any field or have any issues during the survey, please refer to this guide for assistance.
-</thinking>
-
 # Back To School Survey - Help Guide
 ## Purpose
 The Back To School Survey is designed to gather perspectives from the entire school community on various aspects of the school's readiness for the new academic year. This includes information on the level of preparedness, safety concerns, communication effectiveness, and other relevant topics.

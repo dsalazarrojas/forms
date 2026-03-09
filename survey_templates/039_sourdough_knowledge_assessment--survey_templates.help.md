@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for assessing the knowledge and skills of bakers and individuals interested in sourdough bread-making, with the aim of providing feedback to help them improve their skills. The form is part of a process used to help bakers understand their current knowledge level, identify areas where they need improvement, and develop an action plan to enhance their baking skills.
 
 **Sourdough Knowledge Assessment - Help Guide**

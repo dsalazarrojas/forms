@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user feedback on a creative practice or project. It aims to gather information about the artist's experience, their project's details, and their reflection on the process. The form will likely be used in an educational or artistic context, where understanding the user's perspective and feedback is crucial for improvement and growth. 
-</thinking>
-
 # creative_practice_reflection_survey - Help Guide
 ## Purpose
 This form is designed to collect user feedback on a creative practice or project.

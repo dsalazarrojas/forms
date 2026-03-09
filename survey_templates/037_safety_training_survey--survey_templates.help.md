@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Safety Training Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on your experience with a recent safety training session. It helps us understand what you think about the topics covered, the effectiveness of the training, and areas for improvement. Your input is crucial in helping us refine our safety training program.

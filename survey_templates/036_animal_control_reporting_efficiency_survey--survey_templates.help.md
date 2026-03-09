@@ -1,9 +1,3 @@
-<thinking>
-
-We're using this form to help collect data and improve the efficiency of animal control reporting systems. This survey is meant to gather information from animal control agencies about their current systems, challenges, and areas for improvement. Your input will help us better understand the needs and pain points of animal control agencies, which can inform the development of more effective and efficient reporting systems.
-
-</thinking>
-
 # Animal Control Reporting Efficiency Survey - Help Guide
 ## Purpose
 This survey aims to gather data on the efficiency of animal control reporting systems from various agencies. Your feedback will help us identify areas for improvement and develop more effective solutions.

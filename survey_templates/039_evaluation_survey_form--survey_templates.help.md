@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used to collect feedback and ratings from students about their experience at a school. To ensure accuracy, it is essential to complete the form carefully. Before starting, please review the form's purpose and requirements to avoid duplication of work. This guide will walk you through each field, explaining its purpose and how to fill it out correctly.
-</thinking>
-
 # Evaluation Survey Form - Help Guide
 ## Purpose
 The Evaluation Survey Form is designed to gather information about your experience and perceptions at this school. Your feedback is crucial in helping us understand your needs and make improvements.

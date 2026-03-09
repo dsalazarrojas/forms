@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from students about their experience in a class. The form is likely to be used by instructors or course administrators to gauge student satisfaction and identify areas for improvement. This form is not a substitute for a comprehensive evaluation or assessment process, but rather a tool to gather specific feedback on certain aspects of the course. Before completing this form, please ensure that you are providing your genuine feedback and are not duplicating information already covered in other evaluations or forms.
-</thinking>
-
 # pre_class_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from students about their experience in a class. It aims to identify areas of improvement and help instructors refine their teaching practices.

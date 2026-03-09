@@ -1,7 +1,3 @@
-<thinking>
-This form is for measuring customer satisfaction and gathering feedback on our product or service. The form is designed to be completed by customers who have interacted with our product or service. The purpose of this form is to collect data on their satisfaction levels, likelihood to recommend, and overall experience. This data will help us improve our product or service to better meet customer needs.
-</thinking>
-
 # NPS Survey - Help Guide
 
 ## Purpose

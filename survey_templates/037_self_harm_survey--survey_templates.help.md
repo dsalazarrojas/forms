@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's self-harm experiences, knowledge, coping strategies, emotional and physical states, support systems, prevention methods, and access to resources related to self-harm. The form is intended for individuals who may be at risk of self-harm, including but not limited to, those who have expressed suicidal ideation, have a history of self-injurious behaviors, or are struggling with mental health concerns. To avoid duplication of effort, this form should only be completed by the individual themselves, unless otherwise directed by a qualified mental health professional. If you are completing this form on behalf of someone else, please do not proceed. If you are not sure if this form is relevant to you, please contact a qualified mental health professional for guidance.
-</thinking>
-
 # self_harm_survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experiences, knowledge, and behaviors related to self-harm.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their delivery experience with a retail product. It is intended for customers to rate their satisfaction with the product and the delivery process. This form can be filled out by customers who have received a product from a store. The form should only be used for customers who have received a product and not for customers who have not received a product.
-
-The form will gather information about the customer's experience, including their overall satisfaction with the product and delivery process. This information will help the store improve its delivery process and customer service.
-
-The form should not be used for customers who have not received a product or for customers who are not satisfied with their experience. Customers who are not satisfied with their experience should be directed to a different form for support or feedback.
-
-Please ensure that the form is only filled out by customers who have received a product and are providing feedback about their experience.
-
-</thinking>
-
 # Retail Product Delivery Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their delivery experience with a retail product.

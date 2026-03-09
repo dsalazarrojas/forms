@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended to provide an overview of the real estate green financing awareness survey, a form designed to collect information on the level of awareness and interest of various aspects of green financing. To ensure that this information is accurate and up-to-date, it is suggested that this guide be reviewed and validated by relevant experts in the field.
-
-Before proceeding to use this form, please ensure that it is appropriate for your specific use case. This guide is intended to be used as a general reference, and any modifications or changes should be made with caution and according to your organization's specific needs and guidelines.
-
-To avoid duplication of effort, it is recommended that you review the following guide carefully and understand the purpose and requirements of each field before using the form. If you need any further assistance or have questions, feel free to reach out to me for help.
-</thinking>
-
 # real_estate_green_financing_awareness_survey - Help Guide
 ## Purpose
 The real estate green financing awareness survey is a form designed to collect information on the level of awareness and interest of various aspects of green financing. The survey aims to assess respondents' understanding of green financing options, incentives, and barriers, as well as their interest in sustainable properties, financing, and green building practices.

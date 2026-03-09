@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Disability-Friendly Community Survey - Help Guide
 
 ## Purpose

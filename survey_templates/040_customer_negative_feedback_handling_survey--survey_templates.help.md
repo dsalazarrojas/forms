@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to handle customer negative feedback, allowing users to record and track feedback received from customers. The purpose of this form is to ensure that customer feedback is properly documented and addressed. It is recommended to fill out this form only when actual customer feedback has been received and not for general feedback or other purposes.
-</thinking>
-
 # Customer Negative Feedback Handling Survey - Help Guide
 ## Purpose
 The Customer Negative Feedback Handling Survey is used to document and track customer feedback received on products or services. This form helps to ensure that feedback is properly recorded, categorized, and addressed.

@@ -1,8 +1,3 @@
-<thinking>
-This form is a survey template designed to collect feedback from users about their vacation experiences. It is meant to be used as a guide for understanding what users liked or disliked about a specific vacation package. The form has three sections: "What did you experience", "How satisfied are you", and "What could we improve". 
-
-</thinking>
-
 # Vacation Package Feedback Form - Help Guide
 ## Purpose
 This form is meant to collect feedback from users about their vacation experiences, allowing the organization to understand areas of improvement and identify what users liked or disliked about a specific vacation package.

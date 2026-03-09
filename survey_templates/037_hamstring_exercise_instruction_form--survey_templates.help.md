@@ -1,7 +1,3 @@
-<thinking>...
-This form is intended to be a general instruction form for hamstring exercises, which may be completed by participants to confirm their participation in a training session. Before using this form, please ensure that you've reviewed the form's purpose and only use it if the specific exercise is indeed a hamstring exercise. 
-</thinking>
-
 # Hamstring Exercise Instruction Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants about their participation in hamstring exercises. It's meant to be completed by participants to confirm their participation and provide additional details about their experience with the exercise.

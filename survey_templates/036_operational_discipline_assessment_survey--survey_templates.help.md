@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assess the operational discipline of an individual or team. Operational discipline refers to the adherence to established procedures and guidelines that ensure the safe and efficient execution of tasks and activities. This form is meant to gauge the extent to which individuals or teams demonstrate good operational discipline by following established protocols and processes. It is likely being used by management or leadership to evaluate the performance and behavior of employees or teams within an organization.
-
-Before filling out this form, please take a moment to review the fields and ensure that you are providing accurate and thoughtful responses. You may want to refer to your job description, established procedures, or relevant policies to aid in your answers.
-
-Please note that this form has two pages. The first page is the Operational Discipline Survey Form, and the second page is a summary page where you can add additional comments or remarks.
-</thinking>
-
 # Operational Discipline Assessment Survey - Help Guide
 ## Purpose
 The Operational Discipline Assessment Survey is a tool used to evaluate the operational discipline of an individual or team. It assesses adherence to established procedures and guidelines that ensure safe and efficient task execution.

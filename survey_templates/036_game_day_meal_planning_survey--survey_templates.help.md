@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Game Day Meal Planning Survey form. The form is used to gather information about the number of people being planned for, food preferences, contribution commitments, and contact details for a game day meal planning event. This guide will walk users through each field of the form and provide explanations for each to ensure a smooth and accurate completion process. Please review the form carefully and ensure that all relevant fields are filled out accurately to avoid any issues during the survey process.
-</thinking>
-
 # Game Day Meal Planning Survey - Help Guide
 ## Purpose
 The Game Day Meal Planning Survey is used to gather information about the number of people being planned for, food preferences, contribution commitments, and contact details for a game day meal planning event. This form helps the event host plan and organize the meal arrangements for the game day.

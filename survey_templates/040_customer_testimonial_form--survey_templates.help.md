@@ -1,5 +1,3 @@
-<thinking>...We should create a help guide for the "Customer Testimonial Form" to assist end-users in completing the form correctly and providing quality testimonials...The form is intended to collect feedback from customers about their experience with the business, including their satisfaction with the quality of work, recommendation of the business, and other relevant details. It's crucial to ensure that the form is completed accurately and consistently to provide valuable insights for the business. We should avoid duplication of effort and ensure that the form is filled out correctly the first time...</thinking>
-
 # Customer Testimonial Form - Help Guide
 
 ## Purpose

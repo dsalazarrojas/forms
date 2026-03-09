@@ -1,15 +1,3 @@
-<thinking>
-
-This form is likely used for assessing the state of inventory management within an organization. The purpose of this form is to collect data and feedback on the current inventory management processes, stock levels, and stock evaluation. It's possible that this form is used by inventory management teams to gauge their performance, identify areas for improvement, and inform strategic decisions.
-
-The form appears to have a mix of free-text fields for general feedback, numerical fields for specific stock levels, and dropdown select fields for evaluating stock levels. This suggests that the form aims to collect both qualitative and quantitative data on stock levels and processes.
-
-There's no indication that the form is for a specific department or team, so it might be a general-purpose assessment form used across different parts of the organization.
-
-Before proceeding, it's essential to ensure the form is not a duplicate or redundant effort. The form should only be completed if there's no existing assessment or similar form being used for similar purposes.
-
-</thinking>
-
 # inventory_management_assessment_form - Help Guide
 ## Purpose
 

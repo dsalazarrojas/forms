@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from healthcare professionals about their outreach materials needs. It is intended to be used by healthcare outreach teams to gather data on the types of materials they have, what they need, and how they want to receive them. This form should only be used by healthcare professionals who have a legitimate need to access outreach materials. Duplicate or unnecessary submissions will be flagged and removed.
-</thinking>
-
 # Healthcare Outreach Material Delivery Form - Help Guide
 ## Purpose
 This form is designed to help healthcare outreach teams collect information about the types of outreach materials healthcare professionals have, what they need, and how they want to receive them.

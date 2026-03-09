@@ -1,17 +1,3 @@
-<thinking>
-This form is used to gauge an employee's awareness of investment policies within the organization. Its primary purpose is to collect feedback and insights on employees' understanding of these policies, their department, location, and training needs. This information will help management identify areas where employees require additional training or resources.
-
-Before completing this form, please ensure that:
-* You have reviewed the organization's investment policies.
-* You are aware of your department and location within the organization.
-* You have an understanding of your current level of training in the area of investment policies.
-* You are ready to provide honest feedback and insights.
-
-This form is designed to be completed by employees. Management and administrators may also use this form to collect data for training and resource allocation purposes.
-
-To complete this form, simply follow the instructions below:
-</thinking>
-
 # Investment Policy Awareness Survey - Help Guide
 
 ## Purpose

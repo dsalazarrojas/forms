@@ -1,6 +1,4 @@
-> <thinking>... This form is designed to collect feedback on the clarity of a sentence. It consists of multiple pages, each with different types of form fields. Some fields are select options, while others are text or number inputs. The form is intended for users to evaluate the clarity of a sentence on a scale of 1-10. The team and team member feedback fields are designed to collect additional insights from team members and team leaders, respectively. This form will help to gather data on the perception of sentence clarity and feedback from various stakeholders. The form is likely used in a research or educational context. ...</thinking>
-
-# Sentence Clarity Evaluation Questionnaire - Help Guide
+> # Sentence Clarity Evaluation Questionnaire - Help Guide
 ## Purpose
 The Sentence Clarity Evaluation Questionnaire is designed to collect feedback on the clarity of a sentence. It is intended to gather data on how users perceive the sentence clarity and provide feedback from various stakeholders.
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting data on an individual's financial wellness, specifically for the purpose of assessing their overall financial health and behavior. The form is intended to gather information on various aspects of an individual's financial situation, including their current savings, financial goals, risk tolerance, investment experience, and interactions with financial institutions. This form is likely used for educational, research, or advisory purposes, such as creating personalized financial plans or providing guidance for individuals seeking financial advice. 
-</thinking>
-
 # financial_wellness_survey - Help Guide
 ## Purpose
 This form is designed to collect information on an individual's financial wellness and behavior, allowing for the assessment of their overall financial health.

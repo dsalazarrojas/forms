@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about characters and costumes used for improv and theatrical performances. The main goal is to gather details that help us better understand the requirements for an improv show and ensure a great experience for both the actor and the audience. I will check that this form is not a duplicate. If it is a duplicate, I will not output anything.
-</thinking>
-
 # improv_character_and_costume_survey - Help Guide
 ## Purpose
 The `improv_character_and_costume_survey` form is designed to collect information about characters and costumes for improv and theatrical performances. It aims to gather details that help us better understand the requirements for an improv show and ensure a great experience for both the actor and the audience.

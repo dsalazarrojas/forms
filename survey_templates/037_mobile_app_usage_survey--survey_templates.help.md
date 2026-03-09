@@ -1,9 +1,3 @@
-<thinking>
-
-The Mobile App Usage Survey form is designed to gather information about users' behavior and preferences regarding mobile apps. This form is intended for internal use by the development team to gather insights on how users interact with mobile apps, what features they find most valuable, and where they face challenges. To avoid duplication and ensure accurate input, please complete this form carefully and honestly.
-
-</thinking>
-
 # Mobile App Usage Survey - Help Guide
 ## Purpose
 

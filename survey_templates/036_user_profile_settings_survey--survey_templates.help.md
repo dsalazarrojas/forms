@@ -1,6 +1,3 @@
-<thinking>
-This internal reasoning block is here to ensure we are on the same page. The form purpose is likely to gather user profile information, such as name, email, and other personal details. The form might be used for onboarding new users, or it might be a settings form to allow users to adjust their account settings. It's possible that this form is intended for users to fill out their profile information only once, or perhaps they can be updated at any time. To ensure clarity, let's make some assumptions and create a help guide based on these possibilities.</thinking>
-
 # user-profile-settings-survey - Help Guide
 ## Purpose
 This form is a user profile survey to collect information about you. The goal is to gather your personal details, settings, and preferences. Please fill out this form accurately and completely.

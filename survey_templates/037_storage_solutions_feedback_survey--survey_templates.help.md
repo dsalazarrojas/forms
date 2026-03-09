@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from users about their experience with Storage Solutions, a service that provides data storage solutions. The form aims to gather information on various aspects of the user's experience, including their satisfaction with the storage product, services, and overall experience. The feedback will help us improve our services and better serve our customers in the future.
-
-This form will be used to collect data on users' preferences, experiences, and opinions about Storage Solutions. The questions are designed to be clear and concise, and the options provided are meant to be helpful in guiding users to provide the most relevant and accurate feedback.
-
-To avoid duplication of effort, we are using this form to collect feedback only from users who have used Storage Solutions' services and want to provide feedback. We appreciate your participation in this effort and thank you for taking the time to help us improve.
-
-</thinking>
-
 # Storage Solutions Feedback Survey - Help Guide
 
 ## Purpose

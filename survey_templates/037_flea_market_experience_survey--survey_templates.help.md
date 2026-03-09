@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to share their experiences after visiting a flea market. It will help us understand the overall satisfaction of customers with the market day, identify areas of improvement, and gather feedback for future events. This form will be useful in making data-driven decisions for future flea market events. Please ensure that the answers are accurate and relevant. 
-</thinking>
-
 # Flea Market Experience Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your experience at the flea market. We want to hear about your overall satisfaction and any feedback or comments you may have.

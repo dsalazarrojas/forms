@@ -1,10 +1,3 @@
-<thinking>
-  This form is used to collect client feedback and gather information about their experience with your company. It's essential to understand the purpose of this form to ensure that users are providing their feedback voluntarily and without any misinterpretation. 
-  Please note that the form is designed to be a one-time submission, and users can revoke their consent at any time. The form collects personal and demographic information, including name, email, phone number, and company name. It also asks about the type of feedback provided, the date it was provided, and the permission to use the feedback in various ways (marketing, website, social media, print materials, etc.). 
-  The form ensures that users understand their rights and the terms of using their feedback, including revoking consent at any time. It also asks about the compensation received for providing feedback and the relationship with the company. 
-  Please make sure that users understand the purpose and implications of this form before proceeding. 
-</thinking>
-
 # Client Feedback Usage Consent Form - Help Guide
 ## Purpose
 The Client Feedback Usage Consent Form is designed to collect client feedback and gather information about their experience with your company. This form is essential for improving your services and products and ensuring that you can use client feedback to create valuable content for marketing and other purposes.

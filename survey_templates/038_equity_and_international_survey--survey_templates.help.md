@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Equity And International Survey - Help Guide
 ## Purpose
 This form is designed to collect information about participants' demographics, experiences, and perceptions related to equity and international issues. The form is meant to be a starting point for further investigation and analysis of these topics.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information on environmental chemistry knowledge and preferences from users. To ensure you're using this form correctly, please make sure you have the necessary permissions to access this form and that you're not duplicating your answers for multiple surveys. If you're unsure about any of the information, please don't hesitate to reach out to your department or contact the form owner.
-</thinking>
-
 # Environmental Chemistry Knowledge Survey - Help Guide
 ## Purpose
 This form is designed to gather information on your understanding, attitudes, and preferences related to environmental chemistry. Your input will help us better understand your knowledge and provide more effective support and resources.

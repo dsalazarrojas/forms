@@ -1,8 +1,3 @@
-<thinking>
-This help guide is being generated for the Chemotherapy Patient Outcome Survey form. Before generating the guide, I want to ensure that this form is relevant to the intended use case and will not duplicate effort. The form appears to be a structured survey for patients undergoing chemotherapy, aiming to gauge their physical and emotional well-being, treatment effectiveness, and experience with care teams. The form covers various aspects, including demographics, treatment details, side effects, quality of life, and overall experience. Upon reviewing the form, I have determined that it meets the purpose of providing a comprehensive assessment of chemotherapy patients' outcomes.
-
-</thinking>
-
 # Chemotherapy Patient Outcome Survey - Help Guide
 ## Purpose
 The Chemotherapy Patient Outcome Survey is designed to collect information about patients' physical and emotional well-being, treatment effectiveness, and overall experience with chemotherapy. This survey helps healthcare teams understand patient outcomes, identify potential issues, and provide personalized support to improve care.

@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly to gather accurate information and avoid unnecessary data duplication. This form should be completed by clients who have received investment advice or service and are willing to provide feedback on the quality of advice they received. The purpose of this form is to collect feedback on the investment advice provided, the advisor's performance, and the overall service quality.
-We should also check if the client has already completed a similar form to avoid duplicate submissions.
-</thinking>
-
 # Investment Advice Quality Inquiry Form - Help Guide
 ## Purpose
 The Investment Advice Quality Inquiry Form is designed to gather feedback from clients on the quality of investment advice they received. Please use this form to provide your honest opinion on the advice provided by our advisors.

@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Restaurant Evaluation Form", we need to consider the following:
-
-* The form is likely used to collect feedback about restaurants, focusing on various aspects such as food quality, order accuracy, service quality, cleanliness, speed of service, and overall satisfaction.
-* The form likely aims to provide customers with a structured way to share their experiences, allowing restaurants to identify areas for improvement and provide better services.
-* The goal is to guide users through the form completion process, ensuring they understand what to expect and how to provide accurate feedback.
-* We need to explain each field in a clear and concise manner, avoiding unnecessary jargon or assumptions.
-* The form is designed to be a user-friendly and accessible tool for customers to share their feedback.
-
-</thinking>
-
 # Restaurant Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect your feedback about your recent visit to a restaurant. It will help us understand your experiences and identify areas for improvement. Your input will help us provide better services and improve the quality of our restaurants.

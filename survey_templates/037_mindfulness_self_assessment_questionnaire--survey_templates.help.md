@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive tool for individuals to assess their level of mindfulness, which is the practice of being intentionally present in the moment. This form will help users evaluate their current state of mindfulness, focusing on various aspects such as their mindfulness practices, frequency of meditation, self-care, and reflections. The form is meant to be a self-assessment tool to help individuals identify areas where they can improve their mindfulness skills.
-
-To ensure that this form is used correctly, it's essential that users understand the purpose and each field's significance. This guide will walk users through each field and provide guidance on how to complete it effectively.
-
-Please note that some fields might be optional, and users can skip them if they don't apply to their situation. However, answering all relevant questions will provide a more comprehensive assessment of their mindfulness levels.</thinking>
-
 # Mindfulness Self-Assessment Questionnaire - Help Guide
 ## Purpose
 This form is a self-assessment tool designed to evaluate your level of mindfulness, focusing on various aspects such as your mindfulness practices, frequency of meditation, self-care, and reflections.

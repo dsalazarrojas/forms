@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from teachers and staff members on a student's performance in a gradebook system. The purpose of this form is to gather information on the student's strengths and weaknesses, as well as any areas of improvement. This form is intended for internal use within an educational institution, and the data collected will be used to support student development and growth. Please ensure that you are authorized to complete this form before providing feedback. Please note that this form is an AI-generated adaptation and not affiliated with any specific form platform.
-</thinking>
-
 # Gradebook Feedback Survey - Help Guide
 ## Purpose
 

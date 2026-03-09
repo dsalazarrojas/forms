@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the interior condition and other relevant details of a vehicle, which is likely used for inventory management, vehicle valuation, or other purposes. This form should only be filled out for vehicles that are relevant to this assessment. If you have already completed this form for this vehicle, please do not fill it out again as this will create duplicate records. This guide will walk you through the process of completing the form.
-</thinking>
-
 # Vehicle Interior Assessment Survey - Help Guide
 ## Purpose
 This form is designed to collect detailed information about a vehicle's interior condition and other key attributes. This information will be used for inventory management, vehicle valuation, and other purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a Granny Flat, which is a type of building or development that has a specific set of regulations and guidelines that must be followed. The purpose of this form is to provide a quick and easy way to gather data about Granny Flats, including their characteristics and features. This form is meant to be completed by individuals who are familiar with Granny Flats and can provide accurate information. It is recommended that users only complete this form if they have a clear understanding of the regulations and guidelines that apply to Granny Flats in their area.
-</thinking>
-
 # Granny Flat Regulations Quiz - Help Guide
 ## Purpose
 The Granny Flat Regulations Quiz is a form designed to collect information about Granny Flats, a type of building or development that has specific regulations and guidelines. 

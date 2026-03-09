@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to help individuals assess their trust building behavior, identify areas of improvement, and develop strategies for building stronger relationships. The form includes sections that cover self-reflection, relationship goals, trust factors, relationship strengths, relationship challenges, trust building strategies, coaching goals, coaching approaches, next steps, and a trust building plan. 
-
-The form is meant to be completed by individuals seeking to improve their trust building skills, but it can also be used by coaches or facilitators to help clients or team members assess and improve their trust building abilities.
-
-The form's sections are designed to be completed in a sequential manner, with each section building upon the previous one. The form's fields are clearly labeled and require varying levels of effort to complete.
-
-The form is part of a larger suite of tools for assessing and improving trust building behavior, and its results can be used to inform coaching or development plans.
-
-</thinking>
-
 # Trust Building Behavior Assessment - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to gather feedback from attendees of events, conferences, or workshops. It's crucial to understand the form's purpose and ensure that the feedback collected is valuable and relevant. To maintain the accuracy and quality of the feedback, it's essential to avoid duplication and ensure that each response is thoughtful and detailed. Please review the form carefully and provide clear answers to each question, being as specific as possible.
-
-</thinking>
-
 # Consumer Feedback Event Attendance Form - Help Guide
 
 ## Purpose

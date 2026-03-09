@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information on the performance of a marine engine, gathering data on various aspects such as engine type, capacity, condition, maintenance cost, annual hours, fuel efficiency, and other performance metrics.
-The form is divided into several sections, each corresponding to a specific page. The first page asks about the engine type, capacity, and condition. The second page focuses on maintenance cost, annual hours, and fuel efficiency. The third page inquires about various performance metrics such as engine temperature, pressure, leakage, noise, vibration, and other issues. The final page is a catch-all for any other performance problems not covered in the previous sections.
-This form is essential for users to report on the performance of marine engines, providing valuable data for analysis and improvement.
-</thinking>
-
 # Marine Engine Performance Survey - Help Guide
 ## Purpose
 The Marine Engine Performance Survey form is designed to collect information on the performance of marine engines, helping users report on various aspects of engine operation.

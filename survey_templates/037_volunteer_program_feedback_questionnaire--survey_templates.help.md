@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback on the volunteer program from program participants. The purpose of this form is to gather information on the participants' experiences, overall satisfaction, and feedback on specific aspects of the program. This form should only be filled out by program participants, and the information collected will help the organization running the program to make improvements and enhance the experience for future participants. 
-
-Before filling out this form, please make sure you have not already filled it out, as the information is not intended to be filled out multiple times.
-
-</thinking>
-
 # Volunteer Program Feedback Questionnaire - Help Guide
 ## Purpose
 This form collects feedback from volunteer program participants to help the organization improve the program. Please fill out this form to provide your honest and detailed feedback.

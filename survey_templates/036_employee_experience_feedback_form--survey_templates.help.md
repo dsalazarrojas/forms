@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect feedback from employees about their experience with the company. The purpose of this form is to gather information about various aspects of the work environment, including company culture, communication, and overall satisfaction. It is likely that this form will be used by HR or management to identify areas for improvement and make data-driven decisions. This form should not be used to collect sensitive or personal information about employees. 
-
-</thinking>
-
 # Employee Experience Feedback Form - Help Guide
 ## Purpose
 The employee experience feedback form is a tool used to gather feedback from employees about their experience with the company, helping identify areas for improvement and make data-driven decisions.

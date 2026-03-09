@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users identify their ideal skincare routine based on their skin type, concerns, product preferences, and other factors. By completing this form, users will be guided through a series of questions to determine the best products and steps for their individual skin needs.
-</thinking>
-
 # Skincare Routine Finder Quiz - Help Guide
 ## Purpose
 This form is designed to provide personalized skincare recommendations based on the user's skin type, concerns, and habits. Please answer the questions honestly to receive the most accurate results.

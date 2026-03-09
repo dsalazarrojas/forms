@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Club Facilities Member Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from members on their experience with the club facilities. The information gathered will help the club to understand what areas need improvement and make data-driven decisions to enhance the facilities and services provided.

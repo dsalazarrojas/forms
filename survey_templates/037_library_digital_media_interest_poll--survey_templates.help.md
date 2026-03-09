@@ -1,7 +1,3 @@
-<thinking>
-This form is a survey designed to gauge interest in digital media among library users. It is intended to be used by library professionals to gather insights on how often users consume digital media, what types of digital media they use, and their overall satisfaction level with digital media. The form is designed to be user-friendly and should take around 5-7 minutes to complete. It is not a part of any specific library system or platform, and you are free to use, modify, and distribute as you see fit.
-</thinking>
-
 # Library Digital Media Interest Poll - Help Guide
 ## Purpose
 This survey is designed to gather information on digital media usage and preferences among library users. The data collected will help library professionals understand user behavior and tailor services to meet their needs.

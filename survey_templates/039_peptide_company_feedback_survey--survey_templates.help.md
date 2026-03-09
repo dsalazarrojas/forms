@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Peptide Company Feedback Survey - Help Guide
 
 ## Purpose

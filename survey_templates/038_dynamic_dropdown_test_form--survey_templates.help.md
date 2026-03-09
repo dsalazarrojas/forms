@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to test the functionality of dynamic dropdown menus, allowing users to select from options and input various types of data. The form consists of 10 fields, each with a specific type and purpose. This form is intended for testing and validation of the dropdown menu functionality, ensuring that it works correctly and behaves as expected in different scenarios.
-
-</thinking>
-
 # Dynamic Dropdown Test Form - Help Guide
 ## Purpose
 The Dynamic Dropdown Test Form is designed to test the functionality of dynamic dropdown menus, allowing users to select from options and input various types of data.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect user preferences regarding themes, styles, colors, textures, notes, contact information, and categorization for an unknown purpose. The form does not have any required fields, so users can fill it out at their discretion. It is possible that this form is used for categorizing and organizing user data within the organization or company. The form may be used for internal purposes to gather information from users about their preferences. This form does not appear to be used for any external purposes such as collecting payment or sensitive information. 
-Please note that this form does not include any fields related to sensitive information such as password or credit card numbers. 
-Please fill this form out carefully and accurately to ensure that your preferences are correctly recorded.</thinking>
-
 # Theme Preference Survey - Help Guide
 
 ## Purpose

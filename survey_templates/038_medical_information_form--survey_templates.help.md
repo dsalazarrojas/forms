@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect medical information from users, which can be used for various purposes such as insurance claims, medical billing, or patient registration. It's likely that this form will be used in a healthcare setting, possibly for patients or medical professionals.
-</thinking>
-
 # Medical Information Form - Help Guide
 ## Purpose
 This form is intended to collect medical information from users, which can be used for various healthcare-related tasks.

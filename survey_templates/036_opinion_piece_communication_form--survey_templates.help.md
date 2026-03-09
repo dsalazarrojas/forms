@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure this form is completed correctly and accurately, please read the following help guide.
 
 ## Purpose

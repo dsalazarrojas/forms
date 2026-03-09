@@ -1,10 +1,3 @@
-<thinking>
-The Property Fit Assessment Survey is a crucial tool for property owners and managers to evaluate the fit of a property with their clients' needs and preferences. This form will help you gather essential information about the property and its features, enabling you to identify potential matches with potential clients. Please make sure to complete this form accurately and thoroughly to ensure that the property is properly assessed and presented to potential clients.
-
-Before starting the survey, please make sure that you have all the necessary information about the property and its features. This form is meant to be completed by property owners or managers, not clients.
-
-</thinking>
-
 # Property Fit Assessment Survey - Help Guide
 ## Purpose
 The Property Fit Assessment Survey is designed to gather essential information about a property and its features, enabling property owners and managers to identify potential matches with clients.

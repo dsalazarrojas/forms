@@ -1,16 +1,3 @@
-<thinking>
-This help guide is being created for the "Weekly Delivery Preferences Survey" form, which is used to collect information on a user's preferences for weekly deliveries. The form is designed to be completed by end-users, and this guide will walk them through the purpose and process of completing the form.
-
-To ensure that the form is completed accurately and efficiently, we will cover the purpose of the form, how to complete it, and provide field-by-field explanations.
-
-This guide will cover the "Weekly Delivery Preferences Survey" form, which is part of the "survey_templates" category.
-
-Please note that the form is not required for any critical or time-sensitive operations, and users are not expected to complete it regularly. It is intended to be a self-servicing form for end-users to provide their personal preferences.
-
-Before starting the survey, we recommend users take a moment to review the form fields and their corresponding options to ensure they understand what information is being collected.
-
-</thinking>
-
 # Weekly Delivery Preferences Survey - Help Guide
 ## Purpose
 This form is designed to collect information on a user's preferences for weekly deliveries. The form helps us understand individual preferences and tailor our services accordingly.

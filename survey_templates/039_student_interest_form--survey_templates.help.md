@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Student Interest Form - Help Guide**
 
 ## Purpose

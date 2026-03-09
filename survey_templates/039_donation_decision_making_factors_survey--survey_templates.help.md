@@ -1,14 +1,3 @@
-<thinking>
-This help guide is designed to assist end-users in completing the "Donation Decision Making Factors Survey" form effectively and efficiently. The form is intended to collect information about a donor's decision-making process when considering making a donation to a charity or non-profit organization. 
-
-The form is divided into multiple pages, each containing various fields that ask for specific information about the donor's preferences and experiences. 
-
-The "Donation Decision Making Factors Survey" form is intended to help organizations better understand their target audience's decision-making processes, which can inform fundraising strategies and improve donor engagement. 
-
-Please ensure that you are responding to this survey as an actual donor or someone closely related to the donor, and not as part of a data collection or market research exercise. Duplicate responses are not allowed and will be removed from the analysis.
-
-</thinking>
-
 # Donation Decision Making Factors Survey - Help Guide
 ## Purpose
 The Donation Decision Making Factors Survey is a tool designed to help organizations understand what drives donors' decisions when considering making a donation. It aims to gather information on various factors that influence donor behavior, including donor type, age, motivation, barriers, and preferences.

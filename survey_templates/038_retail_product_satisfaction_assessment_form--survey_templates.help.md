@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Product Satisfaction Assessment Form - Help Guide
 ## Purpose
 The Retail Product Satisfaction Assessment Form is a survey designed to gather information about customers' experiences with retail products. It aims to collect data on product satisfaction, customer feedback, and improvement suggestions. This form will help us understand customer needs and preferences, enabling us to improve product development and customer service.

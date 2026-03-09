@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect insights on employee engagement within the telecom industry. The purpose of this form is to gather information about employees' job satisfaction, departmental alignment, and feedback. This form is intended to be completed by employees, and the responses will be used to identify areas of improvement and opportunities for growth within the organization. To ensure that this form is completed by the right individuals, please note that this form is only intended for telecom industry employees. If you are not a telecom industry employee, please do not complete this form.
-</thinking>
-
 # Telecom Employee Engagement Insights - Help Guide
 ## Purpose
 This form is designed to collect insights on employee engagement within the telecom industry. It gathers information about employees' job satisfaction, departmental alignment, and feedback. The collected data will help identify areas of improvement and opportunities for growth within the organization.

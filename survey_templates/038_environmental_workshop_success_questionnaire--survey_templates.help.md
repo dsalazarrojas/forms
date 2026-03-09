@@ -1,16 +1,3 @@
-<thinking>
-This form, called the "Environmental Workshop Success Questionnaire," is intended to measure the effectiveness and satisfaction of an environmental workshop or training session. It is designed to gather feedback on various aspects of the session, including its quality, impact, and overall satisfaction. The form will help the organizers of the workshop to identify areas of improvement and make necessary adjustments to future sessions.
-
-When answering this form, please make sure to answer truthfully and thoroughly, providing as much detail as possible. This will help us to get a better understanding of your experience and expectations.
-
-Please note that the form is divided into two sections: "Session Information" and "Additional Comments." The "Session Information" section gathers information about the session itself, while the "Additional Comments" section is for any further thoughts or suggestions you may have.
-
-Before starting, please make sure to have all the necessary information ready, such as the session date, time, and location. If you have any questions or need clarification on any of the questions, feel free to ask.
-
-This form should take about 10-15 minutes to complete, depending on your pace. If you need more time or have any difficulties in completing the form, please let us know and we will do our best to accommodate your needs.
-
-</thinking>
-
 # Environmental Workshop Success Questionnaire - Help Guide
 ## Purpose
 

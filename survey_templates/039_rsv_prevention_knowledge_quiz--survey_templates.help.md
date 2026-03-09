@@ -1,7 +1,3 @@
-<thinking>
-This form is a knowledge quiz for Respiratory Syncytial Virus (RSV) prevention. It's designed to gauge a user's knowledge about RSV prevention strategies, transmission, symptoms, and communication plans. This form is part of a larger process to evaluate user understanding and provide personalized feedback. Please fill out this form carefully, ensuring that your answers are accurate and complete. Note that some questions may be optional, but providing all possible information will give you a more comprehensive understanding of your knowledge.
-</thinking>
-
 # RSV Prevention Knowledge Quiz - Help Guide
 ## Purpose
 This is a quiz to assess your understanding of RSV prevention strategies, transmission, symptoms, and communication plans.

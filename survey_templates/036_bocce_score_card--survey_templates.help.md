@@ -1,13 +1,3 @@
-<thinking>
-
-To create an effective help guide for the Bocce Score Card form, I'll need to understand the form's purpose and its intended use case. The form appears to be for recording scores in Bocce, a sport also known as American Bocce. It captures essential information about the match, including dates, times, team details, scores, and other relevant data. This form seems to be used for tracking and maintaining records of Bocce games.
-
-Before proceeding, I'll review the form structure and fields to ensure I cover all the necessary information. Upon review, I see that the form is divided into various sections, each with its own fields. The form requires information about the match date and time, league name, season, division, and court number. It also includes sections for team details, such as team names, player lists, and scores. The form has multiple fields for recording scores in different frames and overall scores. Additionally, it allows for recording the match winner, the scorekeeper's name, and any special circumstances.
-
-To avoid duplication, I will make sure to cover each field's purpose and relevance in the help guide.
-
-</thinking>
-
 # Bocce Score Card - Help Guide
 ## Purpose
 The Bocce Score Card is a form used for recording and tracking scores in Bocce games. It helps maintain accurate and organized records of matches, including team details, scores, and other relevant information.

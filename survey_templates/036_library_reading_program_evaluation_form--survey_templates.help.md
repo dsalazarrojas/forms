@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to be a tool for evaluating library reading programs, likely used to gather feedback from participants or librarians about their experiences and opinions about the programs. This form might be used by library management or administrators to assess the effectiveness and impact of these programs. The form's purpose is to collect relevant data, which could be used for future program planning and improvement. To fill out this form, users should ensure that they provide accurate and truthful information about their experiences, as this data will help inform future program development.
-</thinking>
-
 # Library Reading Program Evaluation Form - Help Guide
 ## Purpose
 The Library Reading Program Evaluation Form is designed to gather feedback from participants and librarians about library reading programs. This form helps library management or administrators assess the effectiveness and impact of these programs.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess the quality of educational workshops, gathering feedback from participants, their level of satisfaction, and areas for improvement. It ensures consistency with the existing quality assessment process, avoiding duplication or redundancy in the data collected. The form's design is based on the "session" concept, focusing on feedback, satisfaction, and potential areas of improvement for future workshops. It's essential to provide a comprehensive understanding of each field to ensure accurate and meaningful feedback.
-
-</thinking>
-
 # Educational Workshop Quality Assessment - Help Guide
 ## Purpose
 This guide explains the Educational Workshop Quality Assessment form, which evaluates the quality of educational workshops by gathering participant feedback and ratings on key aspects of the session.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to evaluate the performance and user experience of a specific type of protective glove. The form is not intended for general use, but rather for specific instances of glove evaluation. This guide will walk you through the fields and help you complete the form accurately.</thinking>
-
 # Protective Gloves Evaluation Form - Help Guide
 ## Purpose
 The Protective Gloves Evaluation Form is used to gather feedback and ratings on the effectiveness, comfort, and overall satisfaction of a specific type of protective glove.

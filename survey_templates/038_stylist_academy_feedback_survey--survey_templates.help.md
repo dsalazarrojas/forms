@@ -1,14 +1,3 @@
-<thinking>
-
-This form is designed for the Stylist Academy to collect feedback from users, which will help the academy to improve its services and offerings. This feedback will help the academy to:
-- identify areas of improvement
-- understand user experience and expectations
-- provide better support and services to users
-
-Before filling this form, please ensure that you are not duplicating the feedback, and that your response is honest and constructive. Your input is valuable, and we appreciate your time and effort to provide us with your feedback.
-
-</thinking>
-
 # Stylist Academy Feedback Survey - Help Guide
 
 ## Purpose

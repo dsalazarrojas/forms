@@ -1,9 +1,3 @@
-<thinking>...
-
-This form is designed for researchers to provide information on the quantitative research project checklist, which is used to assess the readiness of a research project. It is likely used in an academic or institutional setting to ensure that research projects meet certain standards. This form appears to be a comprehensive checklist that covers various aspects of research projects, including their readiness, data collection methods, and quality checks. It may be used by project managers, researchers, and reviewers to evaluate and validate research projects.
-
-</thinking>
-
 # Quantitative Research Checklist - Help Guide
 ## Purpose
 This form is used to assess the readiness and quality of quantitative research projects. It is designed to ensure that research projects meet certain standards and guidelines, and to gather information on various aspects of the project.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gauge the satisfaction and experience of volunteers who have participated in various activities or events. It is meant to be completed by volunteers after their participation to gather feedback and insights that can be used to improve future events. It's possible that this form may have been created as a one-time solution and might not have any immediate follow-up actions or next steps in terms of analysis or report generation. It would be helpful to check if this form is already included in the existing set of forms in the survey_templates category before creating a new instance of it.
-
-To create the help guide for the form, we can follow the provided structure and focus on making it concise and practical for end-users. This guide will help volunteers understand the purpose and usage of the form, making it easier for them to complete it accurately and provide valuable feedback.
-</thinking>
-
 # Volunteer Satisfaction Survey Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from volunteers about their satisfaction and experience with our organization's activities or events. Please take a few minutes to complete this form to help us understand your opinions and suggestions.

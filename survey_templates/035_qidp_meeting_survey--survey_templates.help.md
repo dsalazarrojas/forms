@@ -1,7 +1,3 @@
-<thinking>
-**Internal reasoning:** This form is designed to collect information about meetings, including the date, time, location, attendees, and any notes or comments. It is intended to be completed by meeting organizers or attendees to record and document meeting details. The form should only be filled out for meetings that have a specific purpose or goal. If the meeting is a routine or regular occurrence (e.g., a weekly team meeting), the form may not be necessary. Please ensure that the form is not completed for non-significant meetings.
-</thinking>
-
 # QIDP Meeting Survey - Help Guide
 ## Purpose
 The QIDP Meeting Survey form is designed to collect information about meetings, including the date, time, location, attendees, and any notes or comments. This form helps meeting organizers or attendees document and record meeting details.

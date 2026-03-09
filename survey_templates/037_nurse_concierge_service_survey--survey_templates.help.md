@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form for gathering feedback and data from patients about their experiences with our nurse concierge service. This form is meant to be a helpful tool for us to understand what we're doing well and what we can improve on in order to provide better care. Please only fill this out if you are a patient who has received service from our nurses. If you have already filled out this form for a different facility, please do not fill it out again. 
-</thinking>
-
 # Nurse Concierge Service Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and data from patients about their experiences with our nurse concierge service. The information collected will help us identify areas of improvement and make informed decisions about our service.

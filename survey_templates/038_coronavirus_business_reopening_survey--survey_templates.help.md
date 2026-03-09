@@ -1,11 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block:**
-
-This form is intended to gather information about businesses and their reopening status during the COVID-19 pandemic. The form will likely be used by government agencies or other organizations to gather data on businesses that have reopened or plan to reopen, and to provide targeted support to those that need it. This form should be filled out by business owners or representatives to provide accurate and timely information about their business. Please fill out this form only if your business is currently open or planning to reopen.
-
-</thinking>
-
 # Coronavirus Business Reopening Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your business and its reopening status during the COVID-19 pandemic. Your input will help us understand your business's needs and provide targeted support to help you navigate this challenging time.

@@ -1,7 +1,3 @@
-<thinking>
-The form "Audit Process Simplification Survey" is designed to gather information about the respondent's experience with their current audit processes. It is meant to assess areas where simplification is needed to improve efficiency and productivity. Please ensure that the form is completed accurately and honestly to provide valuable insights for process improvement.
-</thinking>
-
 # Audit Process Simplification Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experiences with your current audit processes. It will help identify areas where simplification can improve efficiency and productivity.

@@ -1,11 +1,3 @@
-<thinking> This form is designed to collect feedback from managers on the communication effectiveness of their interactions with team members. It's intended to be used to gauge the quality of communication within the team and identify areas for improvement. By completing this form, managers will be able to provide their perspective on the communication effectiveness of their interactions, and the feedback form can be used to inform future improvements to communication strategies.
-
-Please note that this form is not intended for personal feedback or criticism, but rather to gather objective feedback on communication practices. It is also not intended for duplicate or redundant submissions, and each submission should capture feedback from a single interaction or communication instance.
-
-If you're unsure about a particular field or question, please refer to the explanations below for more details.
-
-</thinking>
-
 # Management Communication Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from managers on the communication effectiveness of their interactions with team members.

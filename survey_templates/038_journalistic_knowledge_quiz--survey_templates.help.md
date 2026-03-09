@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help users gauge their knowledge on a set of key skills and concepts related to journalistic practices, from investigative reporting to digital tools and media law. It is intended to provide a quick and easy-to-use assessment tool for journalists, students, and industry professionals to evaluate their proficiency in various aspects of journalism. By answering the questions in this form, users will be able to identify their strengths and weaknesses, and focus on areas for improvement. This form should not be used for any purpose other than assessing knowledge, and should not be reused without proper attribution or permission from the form creators.
-
-This guide will help users understand what each section means and how to complete it correctly.
-</thinking>
 # Journalistic Knowledge Quiz - Help Guide
 ## Purpose
 This form assesses your knowledge on key journalistic skills and concepts.

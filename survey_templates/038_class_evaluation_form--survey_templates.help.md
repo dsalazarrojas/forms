@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather feedback from students or trainees about a class or training they have attended. The purpose of this form is to collect information about the quality of the class, the instructor, and the student's overall experience. This feedback will help instructors and course creators improve their teaching methods and materials.</thinking>
-
 # Class Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from students or trainees about their experience in a class or training session.

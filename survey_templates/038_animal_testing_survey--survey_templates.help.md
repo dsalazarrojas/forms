@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animal Testing Survey - Help Guide
 ## Purpose
 This survey is designed to gather information from individuals about their knowledge, awareness, and opinions on animal testing practices. The survey aims to understand respondents' stances on animal testing, their awareness of alternatives to animal testing, and their involvement in animal advocacy. The results of this survey will help researchers and organizations better understand the public's perception of animal testing and its implications on animal welfare.

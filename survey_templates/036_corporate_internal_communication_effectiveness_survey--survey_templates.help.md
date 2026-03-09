@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for end-users to understand the purpose and requirements of the "Corporate Internal Communication Effectiveness Survey" form. The form is designed to gather information on internal communication within the company, specifically regarding the frequency of communication, methods, and overall satisfaction with current communication methods. The purpose of this survey is to gather feedback on how effectively internal communication is happening within the company and to identify areas for improvement.
-
-Before starting the survey, ensure that you have the necessary permissions to complete it, and that you have not already completed it. If you have, please disregard this guide and do not continue.
-
-The survey is divided into multiple sections, each with specific questions and fields to be completed. Below is a detailed explanation of each section and field.
-
-</thinking>
-
 # Corporate Internal Communication Effectiveness Survey - Help Guide
 
 ## Purpose

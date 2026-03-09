@@ -1,10 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "Stat Adjustment Survey" form. This guide will explain the form's purpose, how to complete it, and provide field-by-field explanations to ensure end-users understand the form's requirements and functionality. After reviewing the provided YAML, I will focus on the following key points:
-
-* The form is designed to collect feedback and adjustments related to player statistics.
-* The form will guide users through a series of questions to provide detailed and actionable feedback.
-* The form's purpose is to gather information for internal use, so I will emphasize the importance of providing accurate and relevant feedback.
-
-Now, let's create the user-facing help guide in Markdown format:</thinking>
 # Stat Adjustment Survey - Help Guide
 ## Purpose
 The Stat Adjustment Survey is designed to collect feedback and adjustments related to player statistics. Your input will help us improve the game experience and provide more accurate statistics. Please answer the questions carefully, and provide as much detail as possible.

@@ -1,11 +1,3 @@
-<thinking>
-This form seems to be a survey focused on gathering opinions and preferences about ice cream, specifically asking users about their thoughts on ice cream, their favorite flavor, and how they would rate something (though it's unclear what they're rating). Given the presence of contact information fields (email and phone), it's also possible this form is meant to gather contact information in addition to opinions.
-
-Before proceeding, let's consider the following:
-- The form has two sections or "pages", but the second "page" (id: 3) doesn't seem to add any unique content or functionality. It's possible that it's intended to be a section header or just an empty page for formatting purposes.
-- There's a duplication in the question for best flavor (id: 4 and id: 6), but since id: 4 is marked as required and has more specific content, it might be the intended "best flavor" question.
-</thinking>
-
 # ice_cream_business_survey - Help Guide
 ## Purpose
 This is a survey about your opinions on ice cream. It aims to understand your thoughts about ice cream and gather some contact information for follow-up.

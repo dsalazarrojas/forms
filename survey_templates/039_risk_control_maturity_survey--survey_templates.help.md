@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to assess an individual's or an organization's risk control maturity, which is a measure of how well one is able to identify, assess, and mitigate risks. This form is designed to be completed by individuals or teams responsible for managing risk within their organization.
 
 This form is not affiliated with, endorsed by, or derived from any form platform, but rather created using AI as an original adaptation of public survey topic metadata.

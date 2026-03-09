@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess the success of a team-building activity. It is meant to be filled out by the team leader or the person in charge of organizing the activity. The purpose of this form is to gather information about the event, the team's dynamics, and the effectiveness of the activity in boosting team morale and collaboration.
-
-This form is not meant to be a substitute for more in-depth, qualitative feedback, but rather a quick and easy way to gather quantitative data. It is recommended to fill it out after the event has concluded, and to review the results with the team to identify areas of improvement.
-
-Before filling out this form, please make sure that you are not duplicating effort and that someone else has not already filled it out. This form is meant to be filled out by one person per team, so please be mindful of that.
-
-</thinking>
-
 # Team Building Activity Success Assessment - Help Guide
 ## Purpose
 This form is designed to help team leaders and organizers assess the success of a team-building activity. It is meant to be filled out after the event has concluded.

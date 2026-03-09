@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # theater_performance_feedback_form - Help Guide
 ## Purpose
 Theater Performance Feedback Form is designed to collect feedback from attendees about their overall experience with a theater performance. This form asks questions about various aspects of the show, such as quality of performance, sound, lighting, and overall impact. It also collects contact information for follow-up purposes. The form is intended to help theater staff understand what worked well and what can be improved upon for future performances.

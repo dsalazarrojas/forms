@@ -1,8 +1,3 @@
-<thinking>
-To ensure the form's effectiveness, it's essential to understand its purpose and ensure that it's being used correctly. This form is designed to collect feedback and preferences from attendees of events, allowing organizers to gauge the attendees' experiences, identify areas for improvement, and tailor future events accordingly. Before proceeding, please review this help guide to ensure you're completing the form as intended.
-
-</thinking>
-
 # Event Festival Attendee Preferences Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and preferences from attendees of events. Your responses will help us understand your experience and identify areas to improve future events.

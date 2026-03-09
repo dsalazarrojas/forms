@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be filling out the "Students Time Management Survey". The purpose of this survey is to gather information about how students manage their time on a daily, weekly, and monthly basis. This includes questions about their study habits, time spent studying and other activities, and any time-wasting habits. It is essential to fill out this form accurately to help educators and administrators understand how to effectively support students with their time management.
-</thinking>
-
 # Students Time Management Survey - Help Guide
 ## Purpose
 This survey is designed to collect data on students' daily, weekly, and monthly time management habits. Your input will help us understand how you spend your time and identify areas where we can provide better support.

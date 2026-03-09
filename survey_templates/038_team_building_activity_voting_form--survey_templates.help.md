@@ -1,7 +1,3 @@
-<thinking>
-This form is used for team building activity voting, allowing team members to vote on activities and submit their preferences. This form should only be filled out by team members, and it's best to avoid filling it out multiple times to avoid duplication of work. It's also recommended to fill out the form at the correct submission time.
-</thinking>
-
 # Team Building Activity Voting Form - Help Guide
 ## Purpose
 

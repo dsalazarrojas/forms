@@ -1,21 +1,3 @@
-<thinking>
-This form appears to be a survey template designed to gather information on temperature and fuel usage habits from end-users. The purpose of this form is likely to collect data for energy management or conservation efforts within a particular domain such as a city, region, or community. To confirm, I will briefly review the provided YAML fields.
-
-This form has multiple fields that cover various aspects of energy usage and saving practices, such as:
-- Heating fuel type
-- Current thermostat setting
-- Energy-saving habits (e.g., using energy-saving appliances, unplugging appliances when not in use)
-- Fuel consumption data (e.g., quantity, unit)
-- Energy savings goals (e.g., reducing energy consumption, improving home comfort)
-- Frequency of performing energy-saving habits
-
-The form's structure and fields suggest a focus on understanding user habits and behaviors related to energy usage. This could be part of an initiative or program aimed at promoting sustainable practices. The presence of fields like "Comments" and additional "Comments" fields may indicate an open-ended aspect to the survey, allowing users to provide additional insights or feedback.
-
-The fields also seem to cater to various user preferences, with options such as "Low", "Medium", and "High" for thermostat settings, and "Always", "Often", "Sometimes", "Rarely", and "Never" for frequency of energy-saving habits. This variety might help tailor the survey results to specific user contexts.
-
-Given this analysis, I'll now provide a user-facing help guide for the Temperature and Fuel Usage Survey form.
-</thinking>
-
 # Temperature And Fuel Usage Survey - Help Guide
 ## Purpose
 This form is part of an initiative to collect information about your temperature and fuel usage habits to support sustainable practices in your home or community.

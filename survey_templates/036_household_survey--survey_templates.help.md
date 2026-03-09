@@ -1,6 +1,3 @@
-<thinking>
-This form is part of a larger system that collects data from end users about their households. Its primary goal is to capture essential information about household demographics, income, expenses, and living arrangements. This will help us better understand household dynamics and improve our services accordingly. Please note that this form is designed to be completed once a year, and the data will be used for aggregated analysis. If you have already completed this form in the past, please ensure that your household has undergone significant changes since the last submission to avoid duplicating data.</thinking>
-
 # Household Survey - Help Guide
 ## Purpose
 The Household Survey form is designed to collect data about your household, including its demographics, income, expenses, and living arrangements. This information will help us improve our services and tailor them to your needs.

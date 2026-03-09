@@ -1,8 +1,3 @@
-<thinking>
-Please note that this form is designed to assess an individual's self-worth and social connection. The form is not intended for children under 18 years old. 
-It is also recommended to complete the form in one sitting and with a clear and honest mindset. This will allow you to get an accurate assessment of your self-worth and social connection.
-</thinking>
-
 # Self-Worth And Connection Survey - Help Guide
 ## Purpose
 The Self-Worth And Connection Survey is designed to assess your level of self-worth and social connection. It is a set of questions that aim to understand how you perceive your relationship with yourself and others. The survey will provide you with insights into your strengths and areas for improvement in these two areas.

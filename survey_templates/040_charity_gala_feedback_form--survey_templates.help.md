@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from attendees of a charity gala event. The purpose of this form is to gather information about the attendee's experience, satisfaction with the event, and areas for improvement. The form is intended to be completed by attendees of the charity gala, and the feedback collected will help the organizers to understand the strengths and weaknesses of the event.
-
-To ensure data quality and relevance, please complete this form only once per person, and avoid duplication of effort.
-
-</thinking>
-
 # Charity Gala Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees of a charity gala event, helping the organizers to understand the strengths and weaknesses of the event and improve future events.

@@ -1,11 +1,3 @@
-<thinking>
-This help guide will provide instructions on how to complete the Content Creation Feedback Survey. The survey is designed to gather feedback and ratings on content projects, ensuring that the content meets the desired quality and engagement levels. Please ensure that you have read and understood the purpose of this survey before proceeding.
-
-Before starting the survey, please note that the survey is intended for content projects and not for general feedback. If you are providing feedback on a content project that is not relevant to your work, please do not complete this survey.
-
-Also, to ensure the survey's effectiveness, please complete it for each content project separately. If you need help or have any questions, feel free to reach out to the survey administrators.
-</thinking>
-
 # Content Creation Feedback Survey - Help Guide
 ## Purpose
 The Content Creation Feedback Survey is designed to collect feedback and ratings from respondents on content projects, allowing us to improve the quality and engagement of our content.

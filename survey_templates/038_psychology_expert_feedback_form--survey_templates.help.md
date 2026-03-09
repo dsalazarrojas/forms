@@ -1,7 +1,3 @@
-<thinking>
-This form is used by psychologists or mental health professionals to provide feedback on a session with a client. The form is meant to help identify areas for improvement and provide insights into the effectiveness of the session. Please ensure that only psychologists or mental health professionals are filling out this form, and that the form is not used for non-relevant or duplicate feedback.
-</thinking>
-
 # Psychology Expert Feedback Form - Help Guide
 ## Purpose
 The Psychology Expert Feedback Form is used to collect feedback from psychologists or mental health professionals on their sessions with clients. This form helps identify areas for improvement and provides insights into the effectiveness of the session.

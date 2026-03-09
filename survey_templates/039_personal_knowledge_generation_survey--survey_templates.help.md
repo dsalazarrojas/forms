@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to create a user-facing help guide for the "Personal Knowledge Generation Survey" form. The form is designed to gather information about users' habits and preferences related to personal knowledge generation. To ensure that the form is completed correctly and effectively, it's essential to provide clear instructions and explanations for each field. I will follow the provided YAML structure and use the labels, types, and options to create a comprehensive help guide.</thinking>
-
 # Personal Knowledge Generation Survey - Help Guide
 ## Purpose
 The "Personal Knowledge Generation Survey" is a form designed to collect information about your habits and preferences related to personal knowledge generation. This survey aims to gather data to help us understand how you create and maintain your knowledge, and what tools and habits are most effective for you.

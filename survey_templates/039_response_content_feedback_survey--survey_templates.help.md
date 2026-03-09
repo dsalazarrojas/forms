@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather feedback from users about the content of a response to a question or problem. The purpose of this form is to help the response author understand how well their response was received and what can be improved. This form should only be filled out by users who have actually responded to a question or problem, and should not be filled out by users who are just browsing the site.
-
-This form will likely be filled out by a specific set of users, so it's a good idea to make sure that only relevant users see this form, and that users don't fill it out multiple times. This could be implemented by requiring authentication or tracking user behavior before displaying the form.
-
-To prevent duplication, we could also consider using a flag or indicator on the user's profile or account that indicates whether they have already filled out this form. This would prevent users from seeing the form multiple times and encourage them to provide feedback only once.
-</thinking>
-
 # Response Content Feedback Survey - Help Guide
 ## Purpose
 The Response Content Feedback Survey is a form designed to gather feedback from users about the content of a response to a question or problem. This form helps the response author understand how well their response was received and what can be improved.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # salon_rebooking_behavior_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your rebooking behavior as a client of a salon. We want to understand how frequently you rebook your appointments, what types of services you usually rebook, and your satisfaction with your last appointment. This information will help us improve our services and tailor our approach to better meet your needs.

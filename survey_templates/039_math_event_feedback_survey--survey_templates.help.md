@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on math events, allowing users to report on events that have taken place, providing a way to track and analyze feedback on these events. This form is not intended to be a duplicate of existing feedback forms, but rather a specific tool for math-related events. It is recommended to fill out this form for events that are relevant to math, such as competitions, workshops, or training sessions. Please make sure to provide accurate information for each field to ensure that the feedback is useful.
-</thinking>
-
 # Math Event Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on math events, such as competitions, workshops, or training sessions.

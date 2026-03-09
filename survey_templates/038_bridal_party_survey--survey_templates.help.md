@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from bridal party members about their role in the wedding party, their preferences and needs, and their availability and budget concerns. It is essential to fill out this form accurately to ensure that you can properly support and accommodate the needs of all party members. Please note that this form is not intended to be a comprehensive survey but rather a way to gather relevant information that will help plan and execute the wedding party events smoothly. Ensure that you are filling out this form for the correct wedding party and that you have not already submitted the form.
-</thinking>
-
 # Bridal Party Survey - Help Guide
 ## Purpose
 This form is designed to collect information from bridal party members about their role, preferences, and availability. It helps us understand how to best support and accommodate your needs during the wedding party events.

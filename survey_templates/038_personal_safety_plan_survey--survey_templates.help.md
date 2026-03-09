@@ -1,13 +1,3 @@
-<thinking>
-
-This form was created to assess an individual's personal safety plan, which is a critical component of domestic violence prevention and support. The form is designed to gather information about the individual's relationship status, their safety needs, potential danger situations, coping strategies, emergency contacts, and next steps. 
-
-This form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created using public survey topic metadata. 
-
-To complete this form, please review the sections below.
-
-</thinking>
-
 # Personal Safety Plan Survey - Help Guide
 
 ## Purpose

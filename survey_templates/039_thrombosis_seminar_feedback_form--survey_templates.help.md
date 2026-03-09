@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from attendees of a seminar about thrombosis, a medical condition related to blood clotting. The purpose of this form is to gather information about the attendees' thoughts, opinions, and experiences about the seminar. This form should be completed by attendees who have participated in the Thrombosis Seminar. If you have already provided feedback on a similar form, please do not fill out this form again. If you're not an attendee of the Thrombosis Seminar, your answers will not be recorded in the seminar's records.
-</thinking>
-
 # Thrombosis Seminar Feedback Form - Help Guide
 
 ## Purpose

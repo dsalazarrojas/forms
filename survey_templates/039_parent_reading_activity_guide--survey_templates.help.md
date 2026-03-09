@@ -1,8 +1,3 @@
-<thinking> 
-To confirm the purpose and relevance of this form, the form "Parent Reading Activity Guide" is used to gather information from parents about their reading habits with their child. This form will help the program or school understand how often and in what context parents read with their child, what topics they read about, and what feedback they give to their child. The form is designed to be completed by parents to provide insight into their reading habits and to help improve the program or school's services. 
-
-</thinking>
-
 # Parent Reading Activity Guide - Help Guide
 ## Purpose
 The Parent Reading Activity Guide is a survey form used to gather information from parents about their reading habits with their child. This form will help the program or school understand how often and in what context parents read with their child, what topics they read about, and what feedback they give to their child.

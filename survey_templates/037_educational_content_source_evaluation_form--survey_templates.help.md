@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help evaluators assess the quality and effectiveness of educational content sources. The purpose of this form is to gather information about the content's relevance, usefulness, and overall quality. The form will guide the evaluator to rate the content using a scale of 1-5, provide comments on the rating, and recommend the content based on its educational value. To ensure consistency, evaluators should fill in the form for every content source they rate.
-</thinking>
-
 # Educational Content Source Evaluation Form - Help Guide
 ## Purpose
 The Educational Content Source Evaluation Form is a tool for evaluating the quality and effectiveness of educational content sources.

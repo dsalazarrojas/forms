@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Productivity And Wellness Survey - Help Guide
 
 ## Purpose

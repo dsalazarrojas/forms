@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information related to employee time certification, and it is likely used for purposes such as evaluating employee work hours, verifying time spent on projects, or tracking certification requirements. 
-Given the options and form structure, it appears to be used by managers or supervisors to oversee and review employee time certification. 
-
-This form may not need to be filled by the same user twice, and it is recommended to fill it out carefully and accurately. 
-</thinking>
-
 # time_certification_survey - Help Guide
 ## Purpose
 This form is designed to collect information related to employee time certification. It is used to verify and track the time spent on projects or tasks by employees, ensuring that certification requirements are met.

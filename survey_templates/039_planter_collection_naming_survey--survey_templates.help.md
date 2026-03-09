@@ -1,14 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and requirements of the Planter Collection Naming Survey form. It is crucial to ensure that users complete the form accurately and thoroughly. This guide will walk you through each field, explaining its purpose and requirements.
-
-Before proceeding, please ensure that you have read and understood the purpose of this form: to collect relevant information from customers. This information is essential for further analysis and decision-making.
-
-If you have previously completed this form, please check that it is up-to-date and that you are not submitting duplicate responses.
-
-Please note that this form has multiple pages with different fields, each with its own purpose and requirements. Please follow the instructions carefully to ensure accurate and complete responses.
-
-</thinking>
-
 # Planter Collection Naming Survey - Help Guide
 
 ## Purpose

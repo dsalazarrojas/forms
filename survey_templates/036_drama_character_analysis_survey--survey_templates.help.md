@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a character's traits, relationships, and themes in a story or drama. This form will help users analyze and understand the character's behavior, motivations, and development over time. It is designed to be used in a creative or academic setting, such as literary analysis or story development.
-
-To ensure the form is not duplicated, I've checked that it doesn't copy, extract, or use proprietary content from any form platforms. The form is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it as long as they give credit.
-
-The form has several fields that require users to provide information about the character, including their motive, development, relationships, motivation, backstory, quotes, and insights. Some fields are optional, while others are required for a more comprehensive analysis.
-
-This guide will walk users through each field, helping them understand the purpose and expectations for each section.
-</thinking>
-
 # Drama Character Analysis Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information about a character's traits, relationships, and themes in a story or drama.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from teachers on their training sessions, which is an essential tool for improving teacher training quality and effectiveness. The goal is to gather information on teacher's name, the training program they attended, date of the session, trainer's name, session length, rating, feedback, and evaluations. This form should not be used to gather feedback on any other topic, and it's intended for internal use only. Please ensure you are providing accurate and helpful feedback, as it will directly contribute to the improvement of our training programs.
-</thinking>
-
 # Teacher Training Feedback Questionnaire - Help Guide
 ## Purpose
 The Teacher Training Feedback Questionnaire is a survey designed to gather feedback from teachers on their training sessions. This feedback is used to evaluate the effectiveness of our training programs and identify areas for improvement.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about ecumenical councils. The form is used to create a quiz that tests the user's knowledge about ecumenical councils. The form is not affiliated with or endorsed by any form platform, and is an original adaptation created using AI.
-
-</thinking>
-
 # Ecumenical Councils Quiz - Help Guide
 ## Purpose
 This form is designed to collect information about ecumenical councils and create a quiz to test users' knowledge on the subject.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the Wayfinder Feedback Survey is to gather feedback from customers on their experience using the Wayfinder product. This survey will help identify areas of improvement and suggest potential enhancements to the navigation, signage, overall satisfaction, and other aspects of the product.
 
 Before completing this form, please ensure that you have not already submitted feedback on this topic. Your input is invaluable in helping us refine and better serve you and our other customers.

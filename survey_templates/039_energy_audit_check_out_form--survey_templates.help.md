@@ -1,5 +1,3 @@
-<thinking>Energy Audit Check Out Form is used to collect user information on their current energy usage habits and preferences regarding lighting, electronics, water heaters, and other energy-related aspects. It is meant to be used during an energy audit to assess a user's current state of energy efficiency. By filling out this form, users will provide detailed insights into their daily habits and behaviors that affect energy consumption. Please ensure the fields you fill out reflect your genuine habits and behaviors for accurate results.</thinking>
-
 # Energy Audit Check Out Form - Help Guide
 ## Purpose
 The Energy Audit Check Out Form is a crucial tool to assess users' energy-efficient habits and provide insights for optimizing energy consumption.

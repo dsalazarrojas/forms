@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for energy auditors to check in with their presence and report information about a visit to a property. The purpose of this form is to gather essential details about the visit, including location, timing, and relevant contact information. It will help the energy auditor to provide efficient and accurate records of their visits. Please ensure you are only using this form for energy audits and not for other purposes. If you have already submitted an energy audit check-in for this property, please do not resubmit this form.
-
-</thinking>
-
 # Energy Audit Check In Form - Help Guide
 ## Purpose
 The Energy Audit Check In Form is a tool for energy auditors to report their presence and gather information about a visit to a property.

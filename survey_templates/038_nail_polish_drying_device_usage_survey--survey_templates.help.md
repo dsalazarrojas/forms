@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nail Polish Drying Device Usage Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about users' experiences with different nail polish drying devices. It aims to understand how frequently users employ these devices and what issues they have encountered during use.

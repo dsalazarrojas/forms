@@ -1,5 +1,3 @@
-<thinking>...I will create a user-facing help guide for the "Intern Survey" form. I will base it on the provided YAML fields and explain each field's purpose in a clear and concise manner. I will also ensure that the guide is practical and easy to follow. I will not output YAML, but instead use Markdown as required... </thinking>
-
 # Intern Survey - Help Guide
 ## Purpose
 The Intern Survey is a form used by employers to collect feedback from interns about their internship program. This survey aims to gather valuable insights to improve the internship experience and better support future interns.

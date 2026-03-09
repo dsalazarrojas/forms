@@ -1,17 +1,3 @@
-<thinking>
-The purpose of the "Change Readiness Assessment" form is to help individuals evaluate their personal and team readiness for an upcoming change initiative. This form will help assess the individual's or team's level of preparation and understanding for the change, as well as identify potential areas of concern or required support. The form should only be used for assessing readiness for a specific change initiative, and not for general change readiness.
-
-The form should not be used to evaluate readiness for changes that have already occurred.
-
-To ensure accurate and consistent results, this form should only be completed by one person per individual or team being assessed.
-
-Please ensure that you are completing this form in the context of the specific change initiative being assessed.
-
-Please answer the questions honestly and to the best of your ability.
-
-Note to admin: This form should only be used for change readiness assessments and not for any other purpose. Please ensure that the form is being used correctly and not duplicated for other purposes.
-</thinking>
-
 # Change Readiness Assessment - Help Guide
 ## Purpose
 

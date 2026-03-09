@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a survey for assessing risk perception across different factors. It seems to be designed to gauge an individual's or organization's perception of various risks and their potential impact on business operations. I'll make sure to focus on providing clear guidance to ensure accurate and thorough completion of this form.
-</thinking>
-
 # risk_perception_benchmark_survey - Help Guide
 ## Purpose
 This form is designed to help you assess your perception of various risks that may impact your business operations. It will guide you through a series of questions to understand your risk factors, likelihood, impact, and confidence in your assessment.

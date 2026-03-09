@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for healthcare professionals to conduct a final audit survey for healthcare-related activities. The purpose of this form is to collect ratings and recommendations from the user, with a focus on ratings from 1 to 5 for various aspects of the healthcare services provided, as well as text-based recommendations for improvements or follow-up recommendations. It's essential to review this form carefully to ensure it's completed accurately and relevantly to the specific healthcare audit being conducted. 
-
-Please note that this form has no duplicate fields and all fields are optional, except when marked as required in the form definition. This guide will explain each field clearly, so you can complete the form with confidence.
-
-</thinking>
-
 # Healthcare Final Audit Survey - Help Guide
 ## Purpose
 

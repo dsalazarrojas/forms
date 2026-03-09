@@ -1,16 +1,3 @@
-<thinking>
-This form is intended for collecting feedback on environmental lifestyle choices of users, aiming to gauge their habits and behaviors towards sustainable living practices. The survey is designed to cover various aspects such as transportation, energy usage, water conservation, food production, waste management, and community involvement. 
-
-This survey template should be completed by individuals who are interested in sharing their personal experiences and preferences on sustainable living practices. 
-
-Before proceeding, it is essential to note that this survey template is used for educational and research purposes only. All responses will be kept anonymous and confidential, and the data collected will not be shared or sold to any third-party organizations. 
-
-Please ensure that you are completing the survey voluntarily, and your responses will be used solely for the purpose of improving the understanding of sustainable living practices.
-
-Please take a moment to review the following sections and questions carefully and answer them based on your actual experiences and preferences.
-
-</thinking>
-
 # Environmental Lifestyle Choices Survey - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for educational institutions to gauge their current and future perceptions, approaches, and concerns regarding AI governance. The primary goal of this survey is to help institutions understand their strengths, weaknesses, and areas of improvement in AI governance.
-</thinking>
-
 # Educational AI Governance Perception Survey - Help Guide
 ## Purpose
 This form is designed to gather insights from educational institutions on their current and future perceptions, approaches, and concerns regarding AI governance. The purpose of this survey is to help institutions understand their strengths, weaknesses, and areas of improvement in AI governance.

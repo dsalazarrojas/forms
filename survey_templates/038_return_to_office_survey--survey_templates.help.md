@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to be used by employees who will be filling out a "Return To Office Survey". The purpose of the survey is to collect information about employees' work habits and preferences. It is essential that only employees who are eligible to fill out the survey will actually have access to it. Please fill out this form carefully and accurately to provide valuable feedback.
-</thinking>
-
 # Return To Office Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect information about your work habits and preferences. This information will help us understand your needs and make informed decisions about work arrangements that support employee productivity and well-being.

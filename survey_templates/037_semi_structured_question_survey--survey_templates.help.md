@@ -1,13 +1,3 @@
-<thinking>
-
-The Semi Structured Question Survey form appears to be designed to collect a wide range of demographic and personal information from users. The form is composed of 25 questions across different categories, including text fields, dropdown menus, and date/time fields.
-
-Before proceeding with the help guide, I would like to confirm that this form is intended to be used for research or other purposes, and not for collecting sensitive or critical personal data. Additionally, I would like to clarify that the form's structure and question design seem to be quite extensive, suggesting that it may be a survey for a specific demographic or group, rather than a general survey for a wide audience.
-
-Please let me know if these assumptions are correct, and I will proceed with creating the help guide based on the provided YAML fields.
-
-</thinking>
-
 # Semi Structured Question Survey - Help Guide
 ## Purpose
 This form is designed to collect a wide range of demographic and personal information from users. It appears to be intended for research or other purposes, and is composed of 25 questions across different categories.

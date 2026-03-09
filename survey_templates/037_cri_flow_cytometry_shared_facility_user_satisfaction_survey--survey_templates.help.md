@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect user feedback and satisfaction data from users who have interacted with a shared facility, likely in an academic or research setting. The form aims to evaluate the priority of the user's experience at the facility, their perception of the facility's equipment quality, and various aspects of the facility staff's performance. The questions are designed to be easy to understand and complete, and the form is optimized for users with varying levels of technical expertise.
-
-</thinking>
-
 # cri_flow_cytometry_shared_facility_user_satisfaction_survey - Help Guide
 ## Purpose
 This form is designed to collect user feedback and satisfaction data from users who have interacted with a shared facility, likely in an academic or research setting.

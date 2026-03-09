@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's confirm that this form is for collecting feedback on digital identity awareness in academia, and it should only be completed by relevant stakeholders. Please ensure that you are filling this form correctly and not duplicate any previous responses. If you're unsure about the purpose or scope of this form, please reach out to the relevant personnel for clarification.</thinking>
-
 # digital_identity_awareness_in_academia_survey - Help Guide
 ## Purpose
 This form is designed to help us better understand digital identity awareness in academia. Your input will help us identify areas where we need to improve and inform future policies and training programs.

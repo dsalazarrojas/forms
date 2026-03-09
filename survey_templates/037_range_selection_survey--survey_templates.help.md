@@ -1,17 +1,3 @@
-<thinking>
-This form is a survey template designed to collect various types of data from users, including temperature ranges, meeting time ranges, productivity levels, team selections, meeting times, start and end dates, notes, email addresses, phone numbers, and team selections. The form is likely used for organizational purposes, such as scheduling meetings or evaluating team performance. The form does not have any conditional logic or dependencies between fields, suggesting that it is a simple data collection tool.
-
-To determine the relevance and potential duplication of this form, we can consider the following:
-
-* The form has a mix of text boxes, time fields, date fields, and dropdown menus, suggesting that it is designed to collect both qualitative and quantitative data.
-* There are multiple fields with similar labels, such as "Team Selection" with multiple instances (team_selection_2, team_selection_3, team_selection_4, team_selection_5, team_selection_6, team_selection_7). This could be considered duplication, but it's possible that these fields are intended to collect data from different teams or contexts.
-* The form does not have any clear dependencies between fields, such as one field requiring the input of another.
-* The form does not have any obvious conditional logic, such as one field hiding or showing another based on user input.
-
-Given these considerations, it appears that the form is a simple data collection tool and does not have any complex logic behind it. The form is likely used for data aggregation and analysis purposes.
-
-</thinking>
-
 # range_selection_survey - Help Guide
 ## Purpose
 This form is designed to collect data from users on various aspects of their experience, such as temperature ranges, meeting times, productivity levels, and team selections. The form is likely used for organizational purposes, such as scheduling meetings or evaluating team performance.

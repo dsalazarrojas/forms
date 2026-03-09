@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from program members about their satisfaction with the program. Before proceeding, please note that:
-
-* This form is intended for program members who have participated in the program and want to share their experience and opinions.
-* This form is part of an ongoing evaluation process to help us understand areas of improvement and make data-driven decisions to enhance our program.
-* Please ensure you are providing honest and sincere feedback, as it will help us better understand your perspective and improve the program for future participants.
-
-To provide accurate and helpful feedback, we kindly request that you do not complete this form if you have already provided feedback on the same program. Your feedback will be reviewed and analyzed to identify areas for improvement.
-
-</thinking>
-
 # Program Member Satisfaction Assessment Form - Help Guide
 
 ## Purpose

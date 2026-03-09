@@ -1,9 +1,3 @@
-<thinking>...The form is used to assess the usage and needs of editing tools across various departments within an organization. It is a self-reporting form that aims to gather information about the tools and features required by each department. The form's purpose is to help departments identify their specific needs and make informed decisions about the tools and support they require. This form is a crucial tool for departments to reflect on their current state of editing tool usage and make necessary adjustments to optimize their workflow and productivity.
-
-To avoid duplication of effort, please ensure that each department completes this form only once. If you have completed this form previously, you do not need to repeat the process.
-
-</thinking>
-
 # Editing Tools Assessment - Help Guide
 ## Purpose
 The Editing Tools Assessment form is designed to help departments evaluate their usage and needs of editing tools. It gathers information about the tools and features used by each department, which helps in making informed decisions about resource allocation and optimization.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about the technology usage of barber shops. The purpose of this form is to collect data on how barber shops use various tools and systems, such as booking and POS systems, digital marketing channels, and AI-driven tools. This form will help us understand the challenges and pain points faced by barber shops, their current technology stack, and their interest in adopting new technologies. The data collected will be used to provide anonymized industry trends and insights to participating shops.
-This form is a survey and is not meant to be filled out by the same person multiple times. It is designed to be completed by one person per barber shop.
-</thinking>
-
 # Barber Shop Technology Usage Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about the technology usage of barber shops. We aim to understand how shops use various tools and systems, their challenges and pain points, and their interest in adopting new technologies.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess a person's level of narcissistic behavior. Narcissistic behavior refers to a pattern of grandiosity, lack of empathy, and a tendency to exploit or manipulate others for personal gain. This form will ask you to rate your level of agreement with certain statements related to narcissistic behavior. Your responses will help identify areas where you may exhibit narcissistic tendencies.
-</thinking>
-
 # Narcissistic Behavior Assessment Quiz - Help Guide
 ## Purpose
 This assessment is designed to help you understand your level of narcissistic behavior. Narcissistic behavior refers to a pattern of grandiosity, lack of empathy, and a tendency to exploit or manipulate others for personal gain. This form will ask you to rate your level of agreement with certain statements related to narcissistic behavior.

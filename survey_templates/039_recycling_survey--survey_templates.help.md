@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to ensure users understand the purpose and correct usage of the recycling survey form. It is meant to collect information and feedback from individuals on their recycling habits, knowledge, and participation in recycling programs. It should only be filled out by individuals who are being asked to participate in the survey, and it is recommended that only one individual fill out the survey per household. To avoid duplication, ensure that each household has not yet completed the survey.
-</thinking>
-
 # Recycling Survey - Help Guide
 ## Purpose
 The Recycling Survey is a tool designed to gather information on your household's recycling habits, knowledge, and participation in recycling programs. Your responses will help us better understand your perspective and make informed decisions to improve recycling practices.

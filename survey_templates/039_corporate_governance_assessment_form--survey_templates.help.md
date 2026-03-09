@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess the corporate governance of an organization. Corporate governance refers to the framework through which a company or organization is managed and controlled. This form is intended to be a self-assessment tool for the executive board or other stakeholders to evaluate the current state of corporate governance within their organization. It is crucial to fill out this form honestly and thoroughly to get an accurate evaluation of your corporate governance.
-
-Before proceeding, please review the provided answers and ensure they accurately reflect your current practices. If any information is unclear or disputed, consult with relevant stakeholders before submitting the form.
-
-</thinking>
-
 # corporate_governance_assessment_form - Help Guide
 ## Purpose
 The corporate_governance_assessment_form is a tool to help assess the current state of corporate governance within an organization. This form evaluates the executive board's size, composition, decision-making process, communication, conflict resolution, risk management, reporting, and more.

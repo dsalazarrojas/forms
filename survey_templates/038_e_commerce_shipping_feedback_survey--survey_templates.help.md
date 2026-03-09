@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers on their e-commerce shipping experiences. Its purpose is to gather information on various aspects of the shipping process, including shipping rates, delivery speed, communication, and customer satisfaction. This form will help identify areas of improvement and provide insights for optimizing the shipping process.
-
-To ensure that the data collected is accurate and relevant, it is essential to understand the context and intent behind each question. 
-
-The form is divided into sections, each focusing on a specific aspect of the shipping experience. 
-
-This guide will walk you through each section, explaining each field's purpose and what information is being sought. 
-
-</thinking>
-
 # E Commerce Shipping Feedback Survey - Help Guide
 
 ## Purpose

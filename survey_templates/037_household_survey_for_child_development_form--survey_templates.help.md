@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I must first understand the purpose and requirements of the form. The form is titled "Household Survey For Child Development Form" and seems to be designed to collect information about households and their children. The form appears to be focused on collecting data on various aspects of household demographics, such as location, family composition, and income. The fields are mostly text or numeric types, suggesting that the form is meant to be filled out by users who can provide written or numerical answers. There are no obvious security or privacy concerns, so I'll focus on making the explanation clear and concise.
-
-</thinking>
-
 # Household Survey For Child Development Form - Help Guide
 ## Purpose
 This form is designed to collect information about households and their children to support child development programs. Please take a few minutes to fill out this form to provide valuable data for these initiatives.

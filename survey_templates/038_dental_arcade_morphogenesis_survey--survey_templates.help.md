@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for collecting participant information and feedback in the context of the Dental Arcade Morphogenesis Survey. The form appears to be a survey instrument with multiple pages, each containing a mix of questions, fields, and free-text responses. It does not seem to be a traditional "survey" in the classical sense, but rather a more comprehensive assessment tool with a variety of fields for collecting participant data. There doesn't appear to be any overlap between the pages. However, the "participant_info_page" and "participant_comments_page" might be merged into one section for brevity. I will assume that "screening_formulas_page" is a field for collecting specific information related to screening.
-</thinking>
-
 # Dental Arcade Morphogenesis Survey - Help Guide
 ## Purpose
 

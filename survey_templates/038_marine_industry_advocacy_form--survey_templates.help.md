@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Marine Industry Advocacy Form - Help Guide
 ## Purpose
 The Marine Industry Advocacy Form is a tool used to gather feedback and support from stakeholders in the marine industry. It is designed to help identify areas of concern and opportunities for improvement within the industry. By completing this form, stakeholders can express their opinions and provide valuable insights that will help shape the future of the marine industry.

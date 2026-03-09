@@ -1,9 +1,3 @@
-<thinking>
-This form is likely designed to collect information about romantic relationships, likely used for research, marketing, or other purposes related to dating, relationships, or romance. However, without more context, it's difficult to pinpoint its exact purpose. I'll assume it's a survey to gather opinions or experiences about romantic relationships.
-This form has a mix of single and multiple select questions, a date field, and a text area for comments. I will not assume any proprietary content was used.
-The form is likely intended for personal relationships, not for corporate or B2B relationships.
-</thinking>
-
 # Romantic Survey - Help Guide
 ## Purpose
 The Romantic Survey is designed to gather information about romantic relationships, likely for research, marketing, or other purposes. Please answer the questions based on your personal experiences and opinions.

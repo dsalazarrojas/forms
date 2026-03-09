@@ -1,7 +1,3 @@
-<thinking>...Here's the internal reasoning block, but I won't be outputting this. I'll be focusing on the help guide for the end user...
-
-</thinking>
-
 # Research Hypothesis Assessment - Help Guide
 ## Purpose
 This form is used to document and assess the research hypothesis submitted by the researcher. This form helps to ensure that the hypothesis is clear, well-defined, and meets the necessary standards for further research and development.

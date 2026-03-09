@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Life Path Reading Survey - Help Guide
+> # Life Path Reading Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your preferences for a life path reading, which is a type of consultation that provides insights into your life's path and potential. The form helps us understand your preferences for the type of reading, how to receive the reading, length, frequency, payment methods, and communication preferences.
 ## How To Complete This Form

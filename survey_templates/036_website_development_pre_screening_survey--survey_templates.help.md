@@ -1,10 +1,3 @@
-<thinking>
-We are creating a help guide for a website development pre-screening survey form. This form is designed to collect information about projects and their associated details. The purpose of this form is to gather essential data that helps in evaluating and prioritizing projects.
-
-To ensure the form is completed correctly, it's essential to understand its purpose and the relevance of each field. This guide will break down each field, explaining its significance and the required information to be provided.
-
-</thinking>
-
 # Website Development Pre Screening Survey - Help Guide
 ## Purpose
 The Website Development Pre Screening Survey is a crucial tool for evaluating and prioritizing projects. This form is used to gather essential information about projects, including their goals, budget, timeline, and other relevant details. By providing accurate and complete information, project stakeholders can make informed decisions about project progression and resource allocation.

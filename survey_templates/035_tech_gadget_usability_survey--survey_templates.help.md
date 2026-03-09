@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tech Gadget Usability Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about the usability of a tech gadget. It's a survey to help us understand how well users like our products. This form should only be used for internal purposes within your company. Please do not submit feedback on behalf of others unless you are certain it's their genuine feedback.

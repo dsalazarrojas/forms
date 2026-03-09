@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to gather data on the accessibility challenges and improvement ideas for sports facilities. It is meant to be used by staff, athletes, and visitors to provide feedback on the accessibility features and resources available at a given venue. This form is not affiliated with any proprietary form platforms and is a public domain adaptation for accessibility improvement surveys. The form is designed to be user-friendly and easy to understand, with clear labels and instructions to guide users through the completion process. 
-
-</thinking>
-
 # Sports Facility Accessibility Improvement Survey - Help Guide
 ## Purpose
 The Sports Facility Accessibility Improvement Survey is a tool designed to collect feedback and ideas from staff, athletes, and visitors on the accessibility features and resources of sports facilities. This survey aims to identify areas of improvement and suggest solutions to enhance the accessibility of these facilities.

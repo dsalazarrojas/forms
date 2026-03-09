@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a comprehensive and user-friendly help guide for the "website_delivery_feedback_survey_form" form. To ensure the guide is relevant and non-duplicative, I will analyze the form's purpose and structure, focusing on providing concrete and concise explanations for each field.</thinking>
-
 # website_delivery_feedback_survey_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with website deliveries. It helps us understand their satisfaction with the delivery process, identify areas for improvement, and make data-driven decisions to enhance our services.

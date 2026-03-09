@@ -1,12 +1,3 @@
-<thinking>
-This form is used to capture detailed information about a research project. The form is likely to be used by researchers and project managers to provide a comprehensive overview of their project. 
-
-To ensure the form is completed accurately, please make sure you have all the necessary information at hand before starting. If you're unsure about any field, try to fill it in as best as you can with the information you have, or skip it for now and come back to it later if needed. 
-
-This guide will walk you through each field in the form, so you can understand what information is required and how to fill it out.
-
-</thinking>
-
 # research_project_summary_form - Help Guide
 ## Purpose
 

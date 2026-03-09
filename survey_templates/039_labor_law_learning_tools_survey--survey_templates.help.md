@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback and information about the Labor Law Learning Tools Survey, which appears to be a form for users to share their preferences and needs related to learning labor law concepts. The form is likely being used to gather data to improve the effectiveness and accessibility of learning tools for labor law. 
-
-The purpose of this guide is to ensure that users understand the form's purpose and how to complete it accurately and effectively. 
-
-To avoid duplication, this guide will assume that the reader has already reviewed the form's YAML fields and is familiar with the options and labels provided.
-
-</thinking>
-
 # Labor Law Learning Tools Survey - Help Guide
 ## Purpose
 The Labor Law Learning Tools Survey is designed to gather feedback and information about your preferences and needs related to learning labor law concepts. Your input will help us improve the effectiveness and accessibility of our learning tools.

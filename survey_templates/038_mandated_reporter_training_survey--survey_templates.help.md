@@ -1,9 +1,3 @@
-<thinking>As a mandated reporter, the purpose of this form is to gather information about the training experience of participants in a mandated reporter training program. The form is designed to collect demographic and feedback data to help evaluate the effectiveness of the training program. This form will guide you through the required and optional questions to help you provide accurate and comprehensive data.
-
-Please ensure that you have completed all required fields to submit a complete and valid response.
-
-</thinking>
-
 # mandated_reporter_training_survey - Help Guide
 ## Purpose
 The mandated reporter training survey aims to collect demographic and feedback data from participants in the mandated reporter training program.

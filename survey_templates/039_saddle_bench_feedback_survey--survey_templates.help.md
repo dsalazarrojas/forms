@@ -1,7 +1,3 @@
-<thinking>
-This form, the "Saddle Bench Feedback Survey", is intended to gather feedback from individuals who have experienced issues or provided feedback on the Saddle Bench. To ensure that your feedback is taken into account, it is essential that you complete the form accurately and thoroughly. Please note that your responses will be reviewed and used to improve the service, product, or experience. If you have already completed this survey, your feedback will not be recorded again.
-</thinking>
-
 # Saddle Bench Feedback Survey - Help Guide
 ## Purpose
 This guide will walk you through the Saddle Bench Feedback Survey form. Please carefully read each section to ensure that you provide the necessary information for your feedback to be effectively recorded.

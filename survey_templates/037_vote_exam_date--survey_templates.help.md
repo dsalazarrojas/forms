@@ -1,7 +1,3 @@
-<thinking>
-This form is used for capturing information about exam dates and results. It appears to be used for collecting feedback or responses from exam participants. The form is likely used by administrators or educators to track and analyze exam data. To complete this form, you should have some basic knowledge of the exam process and terminology. If you're unsure about any field, please ask your administrator for clarification.
-</thinking>
-
 # Vote Exam Date - Help Guide
 ## Purpose
 This form is used to collect information from exam participants about their experience. It is designed to gather data on exam dates, exam results, and participant responses.

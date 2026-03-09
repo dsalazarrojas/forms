@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Scanning Survey - Help Guide
 ## Purpose
 This form is designed to gather user feedback about their experience with the product scanning feature in a retail store. The goal is to understand the user's perception of the scanning ease of use, information accuracy, and overall satisfaction with the product. This feedback will help us improve the product and enhance the shopping experience for our customers.

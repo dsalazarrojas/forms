@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I will first review the form's purpose and structure. This form is designed to collect information about researchers, including their research types, habits, motivations, focus areas, and goals. The form is structured into 12 pages with various fields, including multiple select, text, email, and date fields. The required fields are: Research Type, Institution, Research Habits, Research Focus Areas, Research Goals, Phone, Contact Name, Contact Phone, Contact Email, Department Email, Department Phone, Department Contact Name, and Submit. The form is meant to be completed by researchers to provide accurate and comprehensive information about themselves.</thinking>
-
 # Researcher Type Identification Survey - Help Guide
 ## Purpose
 The Researcher Type Identification Survey is designed to collect information from researchers to better understand their research types, habits, motivations, focus areas, and goals. This survey will help in identifying and categorizing researchers for various programs and initiatives.

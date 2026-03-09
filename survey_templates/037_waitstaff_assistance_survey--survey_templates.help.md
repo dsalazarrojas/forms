@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather feedback from customers about their experiences with the waitstaff. This will help us improve our service and provide better assistance to our customers. Please fill out this form only if you have had a recent interaction with our waitstaff. If you've filled out this form before, you don't need to fill it out again, as we'll keep track of your responses to avoid duplicate feedback.</thinking>
-
 # Waitstaff Assistance Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from customers about their experiences with the waitstaff. This feedback will help us improve our service and provide better assistance to our customers.

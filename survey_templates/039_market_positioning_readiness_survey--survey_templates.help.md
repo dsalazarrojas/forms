@@ -1,13 +1,3 @@
-<thinking>
-We are creating this form to help determine if a business is ready to take on a new market position. This form is part of a larger process to assess and improve market positioning. The form will be used by business owners and stakeholders to gauge the current market positioning of their business and identify areas for improvement. 
-
-This form will ask about specific segments of the market, the business's current brand positioning, strategy maturity, guidance on the market positioning, an action plan for improvement, and next steps to take. This form is required for all businesses, and the answers will help us to provide tailored advice on how to improve market positioning. 
-
-Note: This form will be used in conjunction with other tools and processes to provide a comprehensive assessment of market readiness. 
-
-Please make sure to answer this form accurately and completely, as the answers will be used to inform business decisions.
-</thinking>
-
 # market_positioning_readiness_survey - Help Guide
 ## Purpose
 This form is designed to help businesses determine their market positioning readiness. It is a crucial step in identifying areas of improvement and developing a strategy to strengthen their market position.

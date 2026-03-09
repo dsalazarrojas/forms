@@ -1,5 +1,3 @@
-<thinking>Is this team building activity proposal request form for submitting team building activity proposals to the management for approval?</thinking>
-
 # Team Building Activity Proposal Request Form - Help Guide
 ## Purpose
 The Team Building Activity Proposal Request Form is a tool for submitting proposals for team building activities to the management for approval. The form helps to centralize and streamline the proposal submission process.

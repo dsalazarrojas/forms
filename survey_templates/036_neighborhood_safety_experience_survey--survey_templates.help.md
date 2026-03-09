@@ -1,7 +1,3 @@
-<thinking>
-We're creating a form to collect feedback on the safety experiences of neighborhood residents. This form should be used by residents to express their feelings on various aspects of their neighborhood's safety. It should be completed by individuals who want to provide their opinions on the safety of their neighborhood. To ensure the collected data is useful, we need to ensure that the respondents understand what the form is asking them.
-</thinking>
-
 # Neighborhood Safety Experience Survey - Help Guide
 ## Purpose
 The Neighborhood Safety Experience Survey is designed to collect information on the safety experiences of neighborhood residents. This survey aims to gather opinions on various aspects of neighborhood safety, including how safe respondents feel when walking alone in their neighborhood, their level of safety when walking at night, and their experiences with potentially threatening situations.

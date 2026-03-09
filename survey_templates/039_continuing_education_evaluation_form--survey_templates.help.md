@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for internal review by stakeholders and reviewers to ensure that the "Continuing Education Evaluation Form" is clear, complete, and relevant for the target audience.
-</thinking>
-
 # Continuing Education Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on their experience with the course, evaluating its content, instructor, and overall quality. The feedback will help us improve our educational offerings and better serve our learners.

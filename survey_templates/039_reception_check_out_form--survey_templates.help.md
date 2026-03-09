@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Reception Check Out Form - Help Guide
 ## Purpose
 The Reception Check Out Form is designed to gather feedback from guests and collect billing information from customers after they have checked out of your establishment or service. This form will help you understand their overall experience, any issues they faced, and provide an opportunity to collect billing details for any outstanding payments or services.

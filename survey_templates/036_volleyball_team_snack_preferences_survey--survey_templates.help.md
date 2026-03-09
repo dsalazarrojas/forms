@@ -1,23 +1,3 @@
-<thinking>
-This form is designed to collect information about the snack preferences of volleyball players on a team. The purpose of this survey is to gather data on the dietary needs and snack preferences of athletes, which will be used to inform the selection of snacks to be provided during team events or practices. This information will help ensure that snacks are inclusive and accessible for all players, regardless of their dietary restrictions or preferences.
-
-The form is intended to be completed by individual athletes, and the data will be used to provide personalized snack recommendations for each team member. The survey will be used to gather data on the first name, last name, dietary needs, snack preferences, team ID, coach's name, and parent's name of each athlete.
-
-Before proceeding, please ensure that you have reviewed the relevant policies and procedures for this team and that this survey is not intended to replace any existing documentation or reporting requirements.
-
-To confirm, this survey is not intended to:
-
-* Collect information about the athletes' playing performance or skills
-* Create an exhaustive list of snack options for the entire team
-* Replace the team's existing communication channels or documentation
-* Duplicate any existing data collection efforts
-
-If you are unsure about any of these points, please contact the relevant authorities before completing this survey.
-
-Please follow the instructions below to complete this form accurately and thoroughly.
-
-</thinking>
-
 # Volleyball Team Snack Preferences Survey - Help Guide
 ## Purpose
 The Volleyball Team Snack Preferences Survey is designed to collect information about the snack preferences of volleyball players on a team. The data collected will be used to provide personalized snack recommendations for each team member.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from bookstore staff regarding the quality and sales potential of new releases. It aims to evaluate various aspects of the book, such as its title, author, genre, cover design, and target audience. The goal is to help bookstores decide whether to feature the book prominently in their displays or to suggest similar books that are currently selling well.
-
-The form requires input from staff members, who should provide feedback on their personal experience with the book, including their name, the date of their feedback, and a rating of the book's quality and cover design. They should also indicate their expected reader reaction and sales potential. Additionally, they should select the book's genre, publisher, and target audience, and provide any additional feedback or comments.
-</thinking>
-
 # Bookstore New Release Feedback Report Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from bookstore staff on new releases. The feedback is used to help decide which books to feature in the store's displays and suggest similar books that are currently selling well.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback and suggestions from customers regarding their satisfaction with a service or product. The form is designed to be used internally to track customer feedback and use it to improve the quality of service or product offered. This form should not be used for any other purpose, such as marketing or sales.
-</thinking>
-
 # customer_satisfaction_survey_quotation_form - Help Guide
 ## Purpose
 This form is a customer satisfaction survey designed to collect feedback and suggestions from customers. It is meant to help us understand how we can improve our service or product offerings.

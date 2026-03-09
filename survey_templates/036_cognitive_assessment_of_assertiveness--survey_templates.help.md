@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cognitive Assessment Of Assertiveness - Help Guide
 ## Purpose
 The Cognitive Assessment Of Assertiveness form is designed to measure an individual's assertiveness, which is a quality that enables them to express their thoughts, feelings, and needs in a clear and respectful manner. Assertiveness is a key component of effective communication and relationships. This form assesses various aspects of assertiveness, including the ability to express opinions, say no, stand up for oneself, respect others' boundaries, and communicate needs clearly.

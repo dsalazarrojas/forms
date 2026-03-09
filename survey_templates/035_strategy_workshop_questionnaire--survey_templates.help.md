@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather information and feedback from stakeholders during a strategy workshop. It aims to collect data on the current state of the project, objectives, metrics, and next steps, as well as gather feedback and participation from stakeholders. The form is divided into several sections, each corresponding to a specific aspect of the project.
 
 # Strategy Workshop Questionnaire - Help Guide

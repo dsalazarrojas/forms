@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect feedback from customers about their experience at a particular venue. This form is meant to be used to gather information about the customer's satisfaction with the venue's services, amenities, and overall atmosphere. By completing this form, customers can provide constructive feedback that can help us improve our services and better serve future customers.
 
 </thinking>

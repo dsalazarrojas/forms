@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mental Health Survey - Help Guide
 ## Purpose
 The Mental Health Survey is a tool designed to collect data on mental health-related topics. It is intended to be completed by individuals seeking mental health support or professionals assessing mental health. The survey is divided into multiple sections, each covering a different aspect of mental health.

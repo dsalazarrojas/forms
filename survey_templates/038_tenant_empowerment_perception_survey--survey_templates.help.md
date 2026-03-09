@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to measure the tenant's perception of their experience with the landlord or property manager. It is intended to gauge their satisfaction with various aspects of their living or working space, such as communication, support, and overall empowerment. This survey will help identify areas of strength and weakness in the landlord's or property manager's management and inform potential improvements. Please ensure that you have not already taken this survey before and that your feedback is sincere and accurate.
-</thinking>
-
 # Tenant Empowerment Perception Survey - Help Guide
 ## Purpose
 This survey aims to gather your opinions and experiences about your living or working space to help improve the services provided by the landlord or property manager. Your input will help us understand what's working well and what areas need attention.

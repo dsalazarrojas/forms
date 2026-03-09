@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my task is to create a user-facing help guide that explains the purpose of the "football_survey" form, how to complete it, and what each field means. I will analyze the provided YAML fields and ensure that the explanation is concrete, concise, and practical. I will also check for any unclear field labels and provide a best-effort explanation without inventing unsupported business logic.</thinking>
-
 # football_survey - Help Guide
 ## Purpose
 The "football_survey" form is designed to collect feedback and information about a football event. It helps to gather data about the event's date, ticket price, team favorite, overall experience, and other aspects of the event. This form is intended to be completed by participants after attending the event.

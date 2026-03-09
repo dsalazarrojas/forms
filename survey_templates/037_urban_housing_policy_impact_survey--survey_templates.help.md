@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to collect data on the impact of urban housing policies on residents. The goal of this survey is to gather feedback and suggestions from residents on how effective they find these policies to be. This form will help us understand what residents value most in housing policies and what they would like to see changed or improved. By completing this form, you will be helping us better understand how to create more effective and responsive housing policies that meet the needs of our community.
-
-Please note that this form is for feedback purposes only and is completely optional. You are not required to fill out this form, but your input will help us improve the urban housing policies for the benefit of all residents. If you have already filled out this form, your responses will not be duplicated.
-
-</thinking>
-
 # Urban Housing Policy Impact Survey - Help Guide
 ## Purpose
 This survey aims to collect your opinions and feedback on the impact of our urban housing policies. Your input will help us identify areas of improvement and develop more effective policies that suit the needs of our community.

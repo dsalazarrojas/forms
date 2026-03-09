@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to gather feedback about the sick leave donation program. It is likely being used by an organization to assess employee opinions and suggestions about the program. This form is likely to be completed by employees of the organization. The purpose of this form is not explicitly defined in the metadata but based on the fields, it appears to be collecting sentiment, opinions, and suggestions about the sick leave program.
-
-</thinking>
-
 # Sick Leave Donation Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback about the sick leave donation program, allowing employees to share their opinions, concerns, and suggestions about the program.

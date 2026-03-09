@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and functionality of the Internship Experience Questionnaire form. The form is used to collect feedback and ratings from interns who have completed an internship program. The goal of this form is to gather valuable insights on the internship experience, including program title, duration, rating, and overall satisfaction. 
-
-Before proceeding, please ensure that the internship program you are evaluating is the one you wish to provide feedback on. Duplicate submissions for the same program will not be accepted. 
-
-</thinking>
-
 # Internship Experience Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from interns who have completed an internship program. The information gathered will help us understand the strengths and weaknesses of the program, enabling us to improve future internships.

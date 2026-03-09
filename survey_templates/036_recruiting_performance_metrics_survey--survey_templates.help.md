@@ -1,24 +1,3 @@
-<thinking>
-To create a clear and concise help guide for this form, let's first break down its purpose and requirements.
-
-The purpose of this form is to collect feedback and ratings from users about their performance and experiences in a specific department, likely for the purpose of assessing individual employee performance or providing feedback on a team's performance.
-
-Upon examining the form's fields, we can see that they include:
-
-*   A "Survey Title" to be filled in by the user.
-*   The "Manager Name" and "Team Name" fields, which are likely to collect feedback on who is providing the input.
-*   "Performance Rating" field, which is likely used to assess the employee's performance.
-*   "Feedback Frequency" field, which might be used to indicate how frequently the user receives feedback.
-*   "Questions Answered" field, which could be used to track how many questions were answered.
-*   "Survey Comments" field, likely for any additional comments.
-*   "Manager Comments" and "Team Comments" fields, which might be used for the manager or team leader to add their own comments.
-*   "Performance Improvement Plan" field, which could be used to outline actions or steps needed to improve performance.
-*   "Department Name" field, which might be used to indicate the department the feedback is about.
-*   "Performance Rating Scale" field, which could be a multi-choice rating system.
-*   Five "Rating" fields, likely for rating specific aspects of performance.
-*   Four "Feedback Frequency" fields, likely to indicate how frequently feedback is received on different aspects.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 

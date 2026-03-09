@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## product_prototype_inquiry_form - Help Guide
 
 ## Purpose

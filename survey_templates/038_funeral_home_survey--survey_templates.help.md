@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Funeral Home Survey - Help Guide
 ## Purpose
 The Funeral Home Survey is designed to collect information about funeral homes that have been visited or will be visited by our organization. This survey aims to gather data on services attended, ratings, and comments from funeral homes, which will help us improve our services and support.

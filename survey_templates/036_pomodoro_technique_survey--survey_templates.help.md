@@ -1,12 +1,3 @@
-<thinking>
-This help guide is for the "pomodoro_technique_survey" form, which aims to gather feedback from users on their experience with the Pomodoro Technique. The form is designed to understand users' habits and attitudes towards the technique, specifically their focus, productivity, and satisfaction levels during sessions. This form is meant to be completed by users who have experience with the Pomodoro Technique, and the results will help inform future development and improvement of the technique.
-
-Please note that this form is intended for users who are familiar with the Pomodoro Technique, and the questions are designed to gather specific feedback related to their experience with it. If you are new to the technique, please do not fill out this form. This guide will help you understand the form's purpose, how to complete it, and explain each field in detail.
-
-If you have already filled out a similar survey, please do not submit the same feedback again. The survey is meant to be a one-time submission and will help us understand how the technique is being used and how it can be improved for future users.
-
-</thinking>
-
 # pomodoro_technique_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users on their experience with the Pomodoro Technique. It aims to understand users' habits, focus, productivity, and satisfaction levels during sessions.

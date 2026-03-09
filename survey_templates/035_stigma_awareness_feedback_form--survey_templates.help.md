@@ -1,12 +1,3 @@
-<thinking>
-This help guide will walk the user through the Stigma Awareness Feedback Form and explain each field in detail.
-
-The Stigma Awareness Feedback Form is designed to collect feedback from individuals about their perceptions of stigma related to a specific program or initiative. This form will help identify areas where the program can improve in terms of reducing stigma. By providing honest and accurate feedback, you will contribute to the development of more effective and stigma-free programs.
-
-Please fill out this form completely and honestly. If you have any additional comments or concerns, please provide them in the "Additional Info" field. You can also skip the "Phone" field if you do not have a phone number.
-
-</thinking>
-
 # Stigma Awareness Feedback Form - Help Guide
 ## Purpose
 This form is used to gather feedback on stigma related to a specific program or initiative. It is meant to be completed by individuals who have participated in or have knowledge of the program.

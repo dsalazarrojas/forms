@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to gather information about a product testing session. It is used to collect details about the session, including the session duration, location, date, and any notes or feedback. This form should only be filled out after a product testing session has taken place and the purpose of the form is to document and review the session details. It is not meant to be filled out by the end user for every product they test, but rather by the testing team or product owner to keep track of product testing sessions.
-
-Before filling out this form, please ensure that you have all the necessary information about the session and have not already filled out a similar form for this product.
-
-Please note that some fields are optional and do not need to be filled out if not applicable.
-
-This form is not intended to be filled out by the end user for their own benefit, but rather for the benefit of the testing team or product owner to keep track of product testing sessions.
-</thinking>
-
 # product_testing_audit_form - Help Guide
 ## Purpose
 This form is used by the testing team or product owner to document and review product testing sessions.

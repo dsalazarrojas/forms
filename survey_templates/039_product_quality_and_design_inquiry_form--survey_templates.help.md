@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Product Quality And Design Inquiry Form - Help Guide**
 
 ## Purpose

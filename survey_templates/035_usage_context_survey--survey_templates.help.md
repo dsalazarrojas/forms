@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect information on the usage context of a product or service. It appears to be a comprehensive survey designed to gather insights on various aspects of usage, such as when, where, why, and how the product or service is used. This form is likely used to inform product development, improvement, or research purposes.
-</thinking>
-
 # Usage Context Survey - Help Guide
 ## Purpose
 The Usage Context Survey is a tool designed to gather information on the usage patterns and habits of users. This survey aims to collect detailed insights on when, where, why, and how users interact with a product or service.

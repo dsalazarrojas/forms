@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess the preparation for a kitchen cabinet painting project, specifically in the context of a survey. The purpose of this form is to gather information about the client's readiness, safety awareness, and other relevant factors that affect the success of the project. This form should be completed by the client or project manager to provide a comprehensive assessment of the project's requirements.
-
-The form is composed of multiple fields, each representing a different aspect of the project. Some fields are multiple-choice questions or select-one questions, while others are text fields for additional comments. Each field should be filled out carefully to provide accurate and detailed information about the project.
-
-Before proceeding, please ensure that all fields are relevant to the project and that no information is duplicated.
-
-</thinking>
-
 # Kitchen Cabinet Prep Quiz - Help Guide
 ## Purpose
 This form is designed to assess the preparation for a kitchen cabinet painting project.

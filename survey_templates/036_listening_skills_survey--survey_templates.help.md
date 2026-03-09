@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # listening_skills_survey - Help Guide
 ## Purpose
 The Listening Skills Survey is designed to assess your listening skills and abilities. It is a series of questions that will help us understand how well you hear, understand, and remember information. Please take a few minutes to complete this survey, and answer each question as accurately as possible.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather feedback from the public on their experiences with government public services. The purpose of this form is to collect data that can be used to improve and better serve the community. This form should only be completed by members of the public who have had a recent experience with a government public service. It is not intended for use by government employees or other non-public users. 
-
-</thinking>
-
 # Government Public Service Community Feedback Assessment - Help Guide
 
 ## Purpose

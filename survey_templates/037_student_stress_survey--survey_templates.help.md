@@ -1,8 +1,4 @@
-> <thinking>
-The purpose of this form is to collect information about students' stress levels and areas of concern in various aspects of their lives, such as academic performance, social relationships, and time management. This form likely aims to gather data for the purpose of improving support services or identifying areas of intervention for students.
-</thinking>
-
-# Student Stress Survey - Help Guide
+> # Student Stress Survey - Help Guide
 ## Purpose
 The Student Stress Survey is designed to collect information about students' stress levels and areas of concern in various aspects of their lives.
 

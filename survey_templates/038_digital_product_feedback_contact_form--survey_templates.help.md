@@ -1,10 +1,3 @@
-<thinking>
-This help guide aims to provide users with a clear understanding of the purpose and usage of the Digital Product Feedback Contact Form. It's essential to ensure that users comprehend the form's intended use case and can navigate it smoothly.
-
-Before proceeding, it's crucial to note that the form was generated using AI, but it's an original adaptation of a public survey template. The form is not affiliated with, endorsed by, or derived from any form platform, and it's released under a Creative Commons license. This means that users are free to use, modify, and even sell forms derived from it, as long as they provide proper credit.
-
-</thinking>
-
 # Digital Product Feedback Contact Form - Help Guide
 
 ## Purpose

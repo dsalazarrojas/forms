@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on the security standards of a particular system or application. The form is meant to be completed by an evaluator who has assessed the system's security standards and is providing their assessment in the form. The form has multiple fields that require information such as the title of the assessment, the selected evaluation method, and the risk factors identified in the assessment. The form also asks for the evaluator's name and contact information.
-</thinking>
-
 # Data Security Standards Comparison - Help Guide
 ## Purpose
 

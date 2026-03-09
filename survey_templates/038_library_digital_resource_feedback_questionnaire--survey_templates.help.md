@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user feedback on our digital collection, aiming to understand what users think about it, identify areas of improvement, and gather suggestions on how to enhance their experience. The form should be completed by users who have visited our digital resources, allowing us to gather valuable insights and make targeted improvements. Please ensure you've actually visited our digital collection before providing feedback to maximize the relevance and usability of your input. 
-</thinking>
-
 # Library Digital Resource Feedback Questionnaire - Help Guide
 ## Purpose
 This form is a feedback mechanism to collect your thoughts on our digital collection, enabling us to refine and improve it for better user experience.

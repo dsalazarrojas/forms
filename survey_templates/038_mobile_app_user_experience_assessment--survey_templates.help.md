@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to assess the user experience of a mobile app, gathering feedback on various aspects of the app's usability, user satisfaction, features, demographics, and contact information. The goal is to collect data that can be used to improve the app's design and functionality.
-
-We will be assessing the user experience based on several factors, including user usability, satisfaction, features, and demographics. To ensure we don't collect duplicate feedback, we will only collect feedback from each unique user.
-
-</thinking>
-
 # Mobile App User Experience Assessment - Help Guide
 ## Purpose
 The Mobile App User Experience Assessment form is designed to gather feedback from users on various aspects of a mobile app. This feedback will help improve the app's design and functionality.

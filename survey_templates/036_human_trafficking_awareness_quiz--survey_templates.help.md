@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess users' knowledge about human trafficking, a complex and multifaceted issue that affects millions of people worldwide. The goal of this form is to help users understand the different forms of human trafficking, its victims, and the ways to prevent and combat it. The form is divided into several sections, each addressing a specific aspect of human trafficking. By completing this form, users will gain a deeper understanding of the issue and its consequences, as well as the various ways to address it.
-
-</thinking>
-
 # Human Trafficking Awareness Quiz - Help Guide
 ## Purpose
 This form is a survey designed to assess users' knowledge about human trafficking, its forms, victims, and prevention methods.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to evaluate the readership of a publication, likely for academic or research purposes. The form is designed to collect feedback from users on various aspects of the publication, such as its overall quality, relevance, and accessibility. This information can be used to improve the publication's content, format, and distribution. 
-
-Before proceeding, please ensure that you are completing this form for the intended purpose and not duplicating effort. If you're unsure about the form's purpose or have already provided feedback, please do not submit this form again.
-
-</thinking>
-
 # Publishing Readership Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the readership of a publication, helping us improve its content, format, and distribution.

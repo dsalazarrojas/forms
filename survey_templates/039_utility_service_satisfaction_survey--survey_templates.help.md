@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the "Utility Service Satisfaction Survey" is to collect feedback from customers about their experience with your utility service. This form is used to gauge customer satisfaction, identify areas for improvement, and provide a basis for evaluating the quality of service provided by your organization. Before proceeding, please confirm that this is the correct survey template and that you have the necessary permissions to complete this form.
-
-The following guide will walk you through each field of the survey template, explaining the purpose and expected input for each section.
-
-</thinking>
-
 # Utility Service Satisfaction Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect feedback from customers about their experience with our utility service. This will help us understand customer satisfaction and identify areas for improvement.

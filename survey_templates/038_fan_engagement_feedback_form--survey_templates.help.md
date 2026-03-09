@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fan Engagement Feedback Form - Help Guide
 
 ## Purpose

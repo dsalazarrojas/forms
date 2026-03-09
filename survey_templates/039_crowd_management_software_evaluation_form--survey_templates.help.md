@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect user feedback on the crowd management software, evaluating its features, performance, and overall user experience. It's crucial that this form is filled out accurately and completely to ensure that the data collected is valuable for future software development and improvement. Please do not submit duplicates, as this may skew the data and render it useless. The form should be filled out by one user at a time to avoid any conflicts or confusion.</thinking>
-
 # crowd_management_software_evaluation_form - Help Guide
 
 ## Purpose

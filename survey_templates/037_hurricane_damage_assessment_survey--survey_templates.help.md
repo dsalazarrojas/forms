@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hurricane Damage Assessment Survey - Help Guide
 ## Purpose
 The purpose of this survey is to assess the damage caused by hurricanes to properties. It is designed to gather data on the extent of damage to various components of a property, such as the roof, walls, electrical systems, heating systems, plumbing systems, foundation, and floors. This information will help insurance companies, government agencies, and other organizations to make informed decisions regarding property restoration and recovery.

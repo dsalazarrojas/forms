@@ -1,22 +1,3 @@
-<thinking> 
-This form is a Product Prototype Feedback Questionnaire designed to gather information about a product. It's intended for customers or end-users to provide feedback on a product prototype, sharing their thoughts, ratings, and suggestions. This form is meant to be user-friendly and easy to fill out. 
-
-To check for relevance and duplication:
-
-- This form is only relevant to customers or end-users who want to provide feedback on a product prototype.
-- The form is not meant for internal use, and users who are familiar with the product development process or have access to product information should not fill out the form.
-
-This form gathers information from users about:
-
-* Product details
-* Feedback on the product, including suggestions
-* Contact information
-* Additional context about the product
-
-The form includes fields for ratings, comments, and suggestions, making it a thorough and comprehensive tool for gathering user feedback.
-
-</thinking>
-
 # Product Prototype Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to help product developers understand user opinions and gather feedback on product prototypes. Fill out this form to provide your thoughts on a product, and help us create a better product for you.
