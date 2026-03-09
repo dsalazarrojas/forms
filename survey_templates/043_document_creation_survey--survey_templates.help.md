@@ -1,10 +1,3 @@
-<thinking>Internal reasoning and checks for duplicate or non-relevant surveys are performed in the following steps:
-
-* Verify that the survey is relevant based on the user's role and access rights.
-* Check if the survey is not a duplicate or similar to existing ones.
-* If the survey is still valid, proceed with the creation process.
-</thinking>
-
 # Document Creation Survey - Help Guide
 ## Purpose
 The Document Creation Survey is a form designed to collect information about a document's purpose and creation process. It helps users understand the context and requirements of the document, ensuring that it is properly created and maintained.

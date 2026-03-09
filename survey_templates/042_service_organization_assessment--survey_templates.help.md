@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback and information from customers about their experience with your service organization. It is likely used by service organizations to assess their current state of service delivery, identify areas for improvement, and develop strategies for customer engagement and satisfaction.
-
-This form is likely used by teams within the service organization, such as customer service teams, sales teams, or product development teams. Its purpose is to gather data and insights that can be used to inform business decisions, improve customer experience, and drive operational efficiency.
-
-The form is likely used in conjunction with other data sources and feedback channels to get a comprehensive view of customer experience. It is not a one-time use form, but rather a recurring process used to collect feedback and track progress over time.
-
-This guide will help users understand how to complete the form correctly and ensure that all required fields are filled out accurately.
-
-</thinking>
-
 # Service Organization Assessment - Help Guide
 ## Purpose
 This form is used to collect feedback and information from customers about their experience with your service organization.

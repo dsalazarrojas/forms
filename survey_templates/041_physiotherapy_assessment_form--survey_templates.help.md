@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from patients about their experience with a physiotherapy service. It's intended to gauge their satisfaction levels with various aspects of the service they received, such as service quality, communication, and overall satisfaction. This form should only be filled out by patients after receiving physiotherapy services.
-</thinking>
-
 # Physiotherapy Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients about their experience with a physiotherapy service.

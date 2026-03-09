@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Workshop Topics Voting Form - Help Guide
 
 ## Purpose

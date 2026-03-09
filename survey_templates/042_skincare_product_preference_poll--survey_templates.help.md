@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user preferences related to skincare products. The purpose of this form is to gather information from users about their skin type, routine, product decision-making factors, preferred purchase method, contact information, and level of skincare expertise. This form will help us better understand our users' needs and preferences, which will aid in creating more tailored and effective skincare products. Please make sure to fill out this form only once to ensure accurate and unique data collection.
-</thinking>
-
 # Skincare Product Preference Poll - Help Guide
 ## Purpose
 The Skincare Product Preference Poll is a form designed to collect your opinions and preferences on skincare products. Your input will help us create better products that meet your needs and expectations.

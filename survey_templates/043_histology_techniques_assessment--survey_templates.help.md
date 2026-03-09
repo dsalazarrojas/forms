@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for assessing the techniques used in histology labs, including microscopy, microtome, histology, scanning, and transmission techniques. The form also collects information on training and experience, such as hours, days, weeks, months, and years, as well as comments on the assessment. This form is probably used for educational or research purposes, possibly for training or certification.
-</thinking>
-
 # Histology Techniques Assessment - Help Guide
 ## Purpose
 This form is designed to assess the techniques used in histology labs, including microscopy, microtome, histology, scanning, and transmission techniques. It also collects information on training and experience.

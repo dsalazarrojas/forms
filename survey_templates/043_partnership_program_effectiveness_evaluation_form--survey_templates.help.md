@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to evaluate the effectiveness of partnership programs. It is meant to be filled out by partners to assess their own partnership programs in terms of their goals, outcome, communication, and value added to both the partner and the partnership. It will help identify areas of strengths and weaknesses within the partnership and provide a basis for continuous improvement.
-
-Before filling out this form, ensure that:
-  * This form is meant for partnerships where goals have been clearly established, and the partner has actively participated in the partnership's decision-making and planning processes.
-  * You have access to data and metrics to fill out the form accurately.
-  * You are able to answer questions based on your own involvement and experience with the partnership.
-
-Fill out this form honestly and thoroughly, as it will provide valuable insights into the partnership's performance and help identify areas for improvement.
-</thinking>
-
 # Partnership Program Effectiveness Evaluation Form - Help Guide
 ## Purpose
 The Partnership Program Effectiveness Evaluation Form is a self-assessment tool for partners to evaluate their own partnership programs. It helps identify strengths and weaknesses, areas for improvement, and provides a basis for continuous improvement.

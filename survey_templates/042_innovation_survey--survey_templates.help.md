@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is intended for the "innovation_survey" form, which is part of the "survey_templates" category. The purpose of this form is to collect information from employees and managers about innovation and communication within the team. The form is not mandatory (required: false), so it is meant to be a voluntary survey to gauge team attitudes and opinions on innovation and communication.
-
-To ensure relevance, this form is likely used in a team or departmental setting where innovation and communication are critical aspects of team performance.
-
-The guide below outlines how to complete this form and what each field is intended for.
-
-</thinking>
-
 # innovation_survey - Help Guide
 ## Purpose
 

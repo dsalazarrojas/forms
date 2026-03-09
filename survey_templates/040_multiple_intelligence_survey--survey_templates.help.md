@@ -1,9 +1,3 @@
-<thinking>**Internal Reasoning Block**
-
-This form is a multiple-choice survey aimed at assessing individuals' self-perceived intelligence, personality traits, and values. The goal is to collect information about how individuals perceive themselves, their thought processes, and what they value most. Please ensure the questions and options align with the provided survey topic, "multiple_intelligence_survey", to ensure accurate and relevant results. This form is not affiliated with any specific platform, and its content is original and not copied or derived from any other form or survey.
-
-</thinking>
-
 # multiple_intelligence_survey - Help Guide
 ## Purpose
 This form is designed to collect information about your self-perceived intelligence, personality traits, and values.

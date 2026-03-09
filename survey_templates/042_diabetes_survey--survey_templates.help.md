@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information about a patient's medical history and current condition related to diabetes. The form is intended for healthcare professionals to assess a patient's risk factors and treatment response for diabetes. This form should not be completed by patients themselves, but rather by medical professionals who have a thorough understanding of the patient's medical history and current condition. Please ensure that you are authorized to access and complete this form before proceeding.</thinking>
-
 # Diabetes Survey - Help Guide
 ## Purpose
 The Diabetes Survey form is a tool for healthcare professionals to assess a patient's risk factors and treatment response for diabetes. It is designed to gather relevant information to provide a comprehensive understanding of the patient's medical history and current condition.

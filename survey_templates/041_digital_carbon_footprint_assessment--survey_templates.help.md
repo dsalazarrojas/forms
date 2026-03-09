@@ -1,5 +1,3 @@
-<thinking>This form is used for assessing an individual's digital carbon footprint. This is a tool to gauge an individual's carbon footprint related to their online activities, energy consumption, and sustainability measures. This form aims to help individuals understand their current impact on the environment and encourage them to implement sustainable practices. Please note that some fields are optional, and the form's purpose is to gather information for educational and awareness-raising purposes.</thinking>
-
 # Digital Carbon Footprint Assessment - Help Guide
 
 ## Purpose

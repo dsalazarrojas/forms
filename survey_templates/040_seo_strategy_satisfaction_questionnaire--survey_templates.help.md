@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from clients and stakeholders on the quality of service and overall satisfaction with the provided SEO strategy. The form collects information on various aspects of the service, including the current state of SEO, expectations from the client, quality of service, communication, project management, results from SEO, and overall satisfaction.
-Before proceeding, please ensure that this is the correct form for your needs. If you have already completed a similar form or have any previous feedback related to this topic, kindly refer to your previous response or contact the support team for guidance.
-</thinking>
-
 # seo_strategy_satisfaction_questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from clients and stakeholders on the quality of service and overall satisfaction with the provided SEO strategy.

@@ -1,9 +1,3 @@
-<thinking>
-This survey template is designed for collecting feedback from users about the selection and time tracking process. It's intended for users who have participated in the selection process and is used to gather their experiences, satisfaction, and suggestions. This form is not meant for users who have not participated in the selection process. Please ensure that you have actually participated in the selection process before proceeding.
-
-The purpose of this survey is to gather qualitative and quantitative data on the user's experience with the selection process, specifically regarding the activities they were presented with and their satisfaction with the outcome. The information collected will help us improve the selection process for future users.
-</thinking>
-
 # Selection And Time Tracking Survey - Help Guide
 
 ## Purpose

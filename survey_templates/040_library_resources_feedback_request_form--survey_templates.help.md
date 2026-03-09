@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Library Resources Feedback Request Form - Help Guide
 
 ## Purpose

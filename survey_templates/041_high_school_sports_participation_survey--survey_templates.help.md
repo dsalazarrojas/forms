@@ -1,7 +1,3 @@
-<thinking>
-This form is a survey to gather information about the participation and interests of high school students in sports. The form is designed to be completed by students to provide insight into their current and future involvement in sports, as well as their interests and barriers to participation. The form will help identify the current level of sports involvement among high school students, including their participation in different sports and programs, and help inform future planning and development of sports programs and resources. This form is intended to be completed by individual students, and responses will be kept confidential. By completing this form, students will be contributing to the improvement of sports programs and resources at their school. Please ensure that you are completing this form for yourself and not on behalf of someone else.
-</thinking>
-
 # High School Sports Participation Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your current and future participation in sports, as well as your interests and barriers to participation. Your responses will help inform future planning and development of sports programs and resources at your school.

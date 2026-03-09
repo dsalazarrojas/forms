@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect user input on their smartphone use and productivity habits. This survey aims to gather information on how often users interact with their smartphones, what types of distractions they experience, which apps they use frequently, and the benefits and harms they associate with smartphone use. The survey should only be taken once per user, and answers should be honest and accurate. Please ensure that your answers reflect your actual behavior and thoughts on smartphone use. If you have any thoughts or comments, feel free to express them at the end of the survey.
-
-</thinking>
-
 # Smartphone Use And Productivity Survey - Help Guide
 ## Purpose
 This survey is designed to understand your smartphone use and productivity habits. It will help us better understand how users like you interact with their smartphones and identify patterns in behavior.

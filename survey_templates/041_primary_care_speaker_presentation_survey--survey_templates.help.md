@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Primary Care Speaker Presentation Survey - Help Guide
 ## Purpose
 The Primary Care Speaker Presentation Survey is a form designed to gather feedback from attendees after a presentation, focusing on the speaker's performance and the session's overall rating. This feedback will help us to improve our speakers' skills and tailor future presentations to better suit our audience's needs.

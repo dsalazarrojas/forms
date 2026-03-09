@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create an effective help guide, we'll first analyze the provided YAML structure to understand the form purpose and each field's intent. This survey template is designed for manual input, likely used in research, data collection, or feedback gathering contexts.
 
 **Manual Input Survey - Help Guide**

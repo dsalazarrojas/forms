@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This is a help guide for the "Feedback Process Effectiveness Survey" form, which aims to gather information about an individual's experience with the feedback process in their organization. The form is intended to be completed by employees, managers, or users who receive feedback, and it is designed to understand their current feedback channels, response times, and feedback frequencies. The form is not affiliated with, endorsed by, or derived from any form platform, and it is released under CC BY 4.0. You are free to use, modify, and even sell forms derived from it, just give credit.
-
-</thinking>
-
 # Feedback Process Effectiveness Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experience with the feedback process in your organization, including your current feedback channels, response times, and feedback frequencies. This will help us understand how effective our feedback process is and identify areas for improvement.

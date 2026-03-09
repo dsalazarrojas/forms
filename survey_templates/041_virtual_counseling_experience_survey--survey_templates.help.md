@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users regarding their virtual counseling experience. It is meant to collect information on various aspects of the counseling session, such as the session type, technology satisfaction, session satisfaction, improvement areas, and comments. Before filling out this form, please ensure you have experienced a virtual counseling session and are providing feedback on that specific session.
-</thinking>
-
 # Virtual Counseling Experience Survey - Help Guide
 ## Purpose
 This form is a collection of questions designed to gather feedback on your virtual counseling experience. Your input will help us improve our services and provide better experiences for our users in the future.

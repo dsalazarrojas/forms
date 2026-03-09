@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback on the network performance of the end-users. The goal is to understand the current state of the network, identify any issues, and measure the user's overall satisfaction with the network quality. The feedback collected through this form will help the IT team to identify potential problems and improve the network performance. Before proceeding, please ensure that you are providing feedback on your current network performance and not a hypothetical or future scenario.
-
-</thinking>
-
 # network_performance_feedback_form - Help Guide
 ## Purpose
 This form is designed to gather your feedback on the current state of your network performance. Your input will help us understand your experience and identify areas for improvement.

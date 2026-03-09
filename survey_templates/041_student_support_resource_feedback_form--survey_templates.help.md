@@ -1,8 +1,3 @@
-<thinking>
-The form is intended for students to provide feedback on the support services offered to them. The form is designed to collect information on their satisfaction with the services, their preferences for support, and areas for improvement. It will help the support team understand the students' needs and preferences, allowing them to provide better services. To ensure accurate feedback, please complete the form thoroughly and honestly. If you have previously submitted this form, please do not submit again. Your feedback is valuable, and we appreciate your time.
-
-</thinking>
-
 # Student Support Resource Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from students on the support services provided to them. It will help us understand your satisfaction with our services, your preferences, and areas for improvement.

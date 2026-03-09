@@ -1,9 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Annual Meeting Survey" form, we need to consider the form's purpose and how it can be completed. This form is likely designed to gather feedback and insights from attendees of an annual meeting, which could be a conference, seminar, or any other type of gathering where attendees interact with each other and the organizers. The form aims to gather information on various aspects of the meeting, including attendance details, overall satisfaction, and areas for improvement. By understanding the form's purpose, users will be able to navigate it more effectively and provide valuable feedback.
-
-Before proceeding, let's make sure that this form is relevant to your specific context and that you haven't created a similar form. If you have any other questions or need further clarification, please let me know.
-</thinking>
-
 # Annual Meeting Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and insights from attendees of an annual meeting. It covers various aspects of the meeting, including attendance details, overall satisfaction, and areas for improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # General Survey Template - Help Guide
 
 ## Purpose

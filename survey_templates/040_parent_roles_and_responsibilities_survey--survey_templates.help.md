@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide for the "Parent Roles And Responsibilities Survey" form, let's consider the form's purpose and context. This form appears to be designed to gather information about a student's skills and abilities from their parent(s) or guardian(s), with a focus on rating different areas such as math, science, English, and social studies. It also captures demographic information like the student's grade level, parent's education level, and parent's job title. The form might be used for assessment or evaluation purposes in an educational setting. Let's assume that the form is intended to be filled out by parents or guardians of students, and the information collected will help in making informed decisions about the student's academic development.</thinking>
-
 # Parent Roles And Responsibilities Survey - Help Guide
 ## Purpose
 This form is designed to gather information about a student's skills and abilities, demographic information, and parent/ guardian involvement in their education. Please answer the questions honestly to help us better understand the student's strengths and areas of improvement.

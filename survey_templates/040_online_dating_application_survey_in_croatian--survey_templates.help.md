@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's review the form's purpose and the fields included. The form is for an online dating application survey in Croatian, and it appears to be a comprehensive survey covering personal and demographic information. The purpose of this form is likely to gather data for research, marketing, or matchmaking purposes.</thinking>
-
 # Online Dating Application Survey In Croatian - Help Guide
 ## Purpose
 The purpose of this form is to gather information about potential users of an online dating application. The data collected will help us understand the demographic profile and preferences of users.

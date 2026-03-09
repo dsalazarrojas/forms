@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # teacher_effectiveness_evaluation_form - Help Guide
 
 ## Purpose

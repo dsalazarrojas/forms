@@ -1,6 +1,3 @@
-<thinking>
-To avoid duplication, this form will help users understand how to fill the Outdoor Cinema Experience Survey, a tool designed to gauge the audience's feedback on movie nights and their cinema experience preferences. Please ensure you have the necessary permissions to fill out this form before proceeding.</thinking>
-
 # Outdoor Cinema Experience Survey - Help Guide
 ## Purpose
 This form collects feedback on the outdoor movie experience and user preferences for cinema events, aiming to improve the overall quality of movie nights and provide a better understanding of audience needs.

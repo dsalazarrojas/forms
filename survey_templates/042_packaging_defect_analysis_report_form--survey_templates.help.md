@@ -1,11 +1,3 @@
-<thinking>
-This form is likely used for collecting data about packaging defects from customers, suppliers, or internal teams. The purpose of this form is to gather information about the occurrence, location, type, and analysis of packaging defects. This form might be used in a quality control or supply chain management context.
-
-The form is composed of multiple pages, each with a unique set of fields. The first page is the "Packaging Defect Analysis Report" page, which seems to be a summary or summary page. The subsequent pages have more detailed questions related to packaging defects, such as "Packaging Defects" (free text field), "Packaging Defect Location" (multiple choice field), "Packaging Defect Type" (single choice field), "Packaging Defect Frequency" (numeric field), "Packaging Defect Cause" (free text field), and "Additional Comments" (free text field).
-
-Given the structure of the form, it's likely that the user needs to answer a series of questions related to packaging defects, providing as much detail as possible about the defect's occurrence, location, type, and analysis. The form's purpose is to facilitate data collection and analysis of packaging defects, which could be used for quality control, supply chain management, or other related purposes.
-</thinking>
-
 # Packaging Defect Analysis Report Form - Help Guide
 ## Purpose
 The Packaging Defect Analysis Report Form is designed to collect data about packaging defects. This form helps in gathering information about the occurrence, location, type, and analysis of packaging defects to facilitate quality control, supply chain management, and other related purposes.

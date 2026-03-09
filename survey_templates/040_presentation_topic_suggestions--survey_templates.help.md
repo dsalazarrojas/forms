@@ -1,10 +1,3 @@
-<thinking>
-This form is used to suggest presentation topics for presentations, lectures, or other events. 
-It is a form that allows users to provide title, category, description, and other details about the presentation topic they are suggesting. 
-We need to ensure that the form is filled out for a valid presentation topic suggestion, so please review your answers carefully before submitting.
-Please do not submit duplicate or irrelevant suggestions.
-</thinking>
-
 # Presentation Topic Suggestions - Help Guide
 ## Purpose
 The "Presentation Topic Suggestions" form is used to collect information about presentation topics, such as title, category, description, and other details. This information will be used to suggest presentation topics for presentations, lectures, or other events.

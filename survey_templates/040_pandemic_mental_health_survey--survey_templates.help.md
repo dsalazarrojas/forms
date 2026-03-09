@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on the mental health and well-being of individuals, particularly during the pandemic. The goal is to understand how people are coping with the challenges posed by the pandemic and identify areas where support and resources are needed. This form is completely anonymous and confidential, and all responses will be used to inform public health initiatives and support efforts.
-</thinking>
-
 # Pandemic Mental Health Survey - Help Guide
 ## Purpose
 The Pandemic Mental Health Survey is designed to gather information on the mental health and well-being of individuals during the pandemic. The survey aims to understand how people are coping with the challenges posed by the pandemic and identify areas where support and resources are needed.

@@ -1,9 +1,3 @@
-<thinking>...This form is a survey designed to gauge the perceptions and experiences of students, faculty, and staff on a campus community. It is intended to provide insights into the climate and quality of campus life. The purpose of this form is to collect opinions and feedback from various segments of the campus community, which will help in understanding their needs and areas of improvement. It's essential to complete this form honestly and accurately to ensure that the results reflect the actual experiences and feelings of the respondents.
-
-To prevent duplication, please do not fill out this form if you have already done so in the past 6 months.
-
-</thinking>
-
 # Campus Climate Survey - Help Guide
 ## Purpose
 The Campus Climate Survey is a tool to gauge the perceptions and experiences of students, faculty, and staff on a campus community, providing insights into the climate and quality of campus life.

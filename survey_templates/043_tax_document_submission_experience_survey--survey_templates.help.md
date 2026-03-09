@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on their experience with submitting tax documents. The purpose of this form is to gather information about the ease of use, efficiency, and overall satisfaction of the tax document submission process. The form will ask users to provide their experience with the submission process, the quality of support they received, and their overall satisfaction. This feedback will help us improve the tax document submission experience for our users. Please make sure to complete the form only if you have actually submitted tax documents and not if you are just testing the form for testing or training purposes.
-</thinking>
-
 # Tax Document Submission Experience Survey - Help Guide
 ## Purpose
 

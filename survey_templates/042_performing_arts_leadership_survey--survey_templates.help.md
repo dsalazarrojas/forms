@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about performing arts leadership, specifically for the purpose of creating a comprehensive survey to gather data on the leadership dynamics within performing arts organizations. This data will help identify areas of strength and weakness in current leadership practices and inform future training and development programs. This form is intended for individuals who are currently in or have been in leadership positions within performing arts organizations. The form asks for contact information, job titles, performance history, and performance measures, among other details. Please ensure that you provide accurate and honest information to help us better understand the needs of performing arts leaders.
-
-</thinking>
-
 # Performing Arts Leadership Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about performing arts leadership, including job titles, performance history, and performance measures. Your participation will help us understand the needs of performing arts leaders and inform future training and development programs.

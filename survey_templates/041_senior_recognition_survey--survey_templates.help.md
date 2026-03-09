@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for senior recognition. It may be used for employee recognition, award nomination, or other senior-level acknowledgment purposes. Please ensure that the information entered is accurate and up-to-date to avoid duplication and redundancy. Ensure that the senior being recognized is aware that this form is being used for their recognition, and that their information will be used to create the recognition.
-
-</thinking>
-
 # Senior Recognition Survey - Help Guide
 ## Purpose
 The Senior Recognition Survey form is used to collect information for senior recognition. Please ensure that the information is accurate and up-to-date.

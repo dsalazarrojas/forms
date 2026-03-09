@@ -1,13 +1,3 @@
-<thinking>
-We are about to create a help guide for the "Youth Sports Parent Communication Survey" form. This form aims to gather information from parents about their experience with the sports organization's communication. The purpose of this guide is to provide clarity on how to complete the form, what each field represents, and offer tips for a successful submission. Before proceeding, let's quickly review the form's properties:
-* Title: "Youth Sports Parent Communication Survey"
-* Form type: Survey
-* Form category: "survey_templates"
-* Pages: 7 pages with various fields types such as notes, texts, select_one, select_multiple, etc.
-Given that the form is a survey, the goal is to gather information from parents, and there's no duplicate or irrelevant information, we can proceed with creating the guide. The form seems to be designed to gather feedback, updates, and general information from parents, and their experience with the sports organization's communication.
-
-</thinking>
-
 # Youth Sports Parent Communication Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from parents about their experience with the sports organization's communication. It will help us understand how well we are doing in terms of keeping parents informed and where we can improve.

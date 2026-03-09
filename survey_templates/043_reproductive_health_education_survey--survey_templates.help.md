@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect participant information for reproductive health education purposes. The form aims to gather data on participants' demographics, education level, and any reproductive health concerns they may have. The form is not meant to be a comprehensive medical survey, but rather a tool to educate participants on reproductive health topics. 
-
-The form has eight fields, each with its own purpose and requirements. This guide will walk you through each field, explaining what it is, what type of information it expects, and how to complete it.
-
-</thinking>
-
 # reproductive_health_education_survey - Help Guide
 ## Purpose
 The reproductive health education survey is designed to collect participant information for education purposes.

@@ -1,9 +1,3 @@
-<thinking>
-
-To create the user-facing help guide for the "wireless_temperature_monitoring_system_evaluation_form" form, I'll review the provided YAML fields and provide clear explanations for each section and field. This guide is designed to be easy to follow and understand for end-users who need to complete the form.
-
-</thinking>
-
 # wireless_temperature_monitoring_system_evaluation_form - Help Guide
 ## Purpose
 This form is designed to evaluate the wireless temperature monitoring system's performance and usability in various pilots sites. It helps assess the system's effectiveness, suitability, and ease of use, as well as identify potential issues and areas for improvement.

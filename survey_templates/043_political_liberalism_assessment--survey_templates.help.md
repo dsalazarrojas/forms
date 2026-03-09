@@ -1,5 +1,3 @@
-<thinking>Should we create a help guide for the "Political Liberalism Assessment" form, which appears to be a comprehensive assessment tool evaluating an individual's political views and behaviors? This guide will aim to clarify the form's purpose, explain each field in detail, and provide tips for users to navigate it effectively. We will ensure that the guide is concise, practical, and based on the provided YAML fields.</thinking>
-
 # Political Liberalism Assessment - Help Guide
 ## Purpose
 The Political Liberalism Assessment is a form designed to evaluate an individual's political views, behaviors, and beliefs on various aspects of liberalism. This assessment aims to provide a comprehensive understanding of one's political ideology, values, and participation in political activities.

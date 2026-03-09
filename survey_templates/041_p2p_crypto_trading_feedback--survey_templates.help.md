@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users who have engaged in peer-to-peer (P2P) crypto trading activities. The purpose of this form is to gather information about their experience, including their overall satisfaction with the process, perceived speed and ease of use, level of trust and support received, and other relevant details. This form should only be filled out by users who have actually participated in a P2P crypto trade, and not by users who are simply testing or exploring the system.
-
-To ensure that this form is not filled out by users who are not actually participating in P2P trading, we will be using email validation to check that the email address entered in the 'contact_us' field matches the one used for the actual trade. This will help to prevent duplicated or fake feedback from being submitted.
-
-Before proceeding to fill out this form, please make sure that you have actually participated in a P2P crypto trade and that your email address matches the one used for the trade.
-
-</thinking>
-
 # p2p_crypto_trading_feedback - Help Guide
 
 ## Purpose

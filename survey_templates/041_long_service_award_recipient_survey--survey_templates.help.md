@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from employees who have received a long service award, to help the company understand their experiences and feelings towards the award process. This feedback is intended to improve the design and implementation of future long service awards. The form is designed to be completed by the employee who received the award, and it's essential that each section is filled out accurately and thoroughly to provide valuable insights.
-</thinking>
-
 # Long Service Award Recipient Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback from employees who have received a long service award, to help us better understand their experiences and feelings towards the award process.

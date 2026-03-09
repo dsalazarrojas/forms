@@ -1,12 +1,3 @@
-<thinking>
-To ensure this form's purpose and relevance, let's analyze its structure and fields. The form appears to be a survey or questionnaire with multiple pages, each page being a separate section of questions. The "page" labels are sequential numbers, indicating that the form is designed to be completed in a linear progression. The lack of specific question types (e.g., text, multiple choice, checkbox) suggests that the form is intended for general information gathering or free-form feedback.
-
-The form has 25 pages with identical configurations, each with a label "Page X" and no additional hints or instructions. This suggests that the form is a simple text-based survey or a basic template for collecting opinions or feedback. Given the structure and content, the form's purpose could be to collect free-form answers or comments on various topics.
-
-Before using this form, ensure that it aligns with your specific survey or feedback collection needs and doesn't duplicate existing forms or surveys that may serve a similar purpose. If you're unsure, please verify the form's purpose and intended use with the person who created it or the organization it's associated with.
-
-</thinking>
-
 # Survey Communication Form - Help Guide
 ## Purpose
 The Survey Communication Form is designed to collect free-form answers or comments on various topics. It has multiple pages for respondents to provide their thoughts and opinions.

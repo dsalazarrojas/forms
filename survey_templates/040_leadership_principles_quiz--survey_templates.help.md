@@ -1,7 +1,3 @@
-<thinking>
-This form is a leadership principles quiz designed to assess an individual's understanding and alignment with leadership principles. The quiz is composed of three pages, each containing a text field for respondents to answer. The form is not affiliated with, endorsed by, or derived from any form platform and is an original adaptation of public survey topic metadata.
-</thinking>
-
 # Leadership Principles Quiz - Help Guide
 ## Purpose
 This form is a quiz designed to gauge an individual's knowledge of leadership principles. It consists of three pages where you will be asked to provide brief answers to questions related to leadership principles.

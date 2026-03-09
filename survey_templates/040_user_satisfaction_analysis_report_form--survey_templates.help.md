@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect user feedback on their satisfaction analysis, gathering information on contact details, preferences, and other relevant data. The main goal is to gauge user satisfaction and understand their thoughts on various aspects of a product or service.
-To determine if this form is relevant and not a duplication of existing forms, consider the following:
-- Does this form collect information on user satisfaction analysis?
-- Does it cover a wide range of fields to gather comprehensive feedback?
-- Are the fields well-structured and clear in their labels and types?
-</thinking>
-
 # User Satisfaction Analysis Report Form - Help Guide
 ## Purpose
 The User Satisfaction Analysis Report Form is designed to collect user feedback on their satisfaction analysis, gathering information on contact details, preferences, and other relevant data.

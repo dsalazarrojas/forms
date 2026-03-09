@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help assess organizational trust and accountability within an organization. 
-The form is part of a larger set of assessment tools used to gauge the level of trust employees have in their organization and leadership. The form is meant to be completed by employees, and the results will be used to identify areas where trust and accountability need to be improved.
-
-This form should only be completed by employees who have a clear understanding of what the survey is about and why it's being conducted. If you are not sure about your organization's trust and accountability levels, please do not complete this form.
-
-Please ensure that you have not completed this form in the past 30 days before proceeding.
-</thinking>
-
 # Organizational Trust And Accountability Survey - Help Guide
 
 ## Purpose

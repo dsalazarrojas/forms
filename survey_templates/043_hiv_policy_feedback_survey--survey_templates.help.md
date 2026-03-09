@@ -1,11 +1,3 @@
-<thinking>
-To avoid confusion and ensure accuracy, it's essential to clearly understand the purpose and requirements of the HIV Policy Feedback Survey form. This form is designed to collect feedback from users on the effectiveness and implementation of HIV policies in various regions. The survey asks questions to gauge the level of support needed for specific policies, identify barriers to implementation, and gather input on areas for improvement. It is crucial to complete the form carefully, providing honest and accurate feedback to help inform policy development and decision-making.
-
-This form will be used by the organization to gather valuable information for policy development and improvement. Please ensure that you answer the questions honestly and thoroughly, taking into account your experience and knowledge of the HIV policies in your region.
-
-Before starting the survey, ensure that you have not already submitted this form. If you have, please do not submit it again.
-</thinking>
-
 # HIV Policy Feedback Survey - Help Guide
 
 ## Purpose

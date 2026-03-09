@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from employees about their experiences and opinions on how the company has handled the COVID-19 pandemic. The purpose is to identify areas of concern and potential improvements that the company can make to better support its employees. This form should only be completed by current or former employees of the company. If you've already completed this form or have similar concerns, please don't feel obligated to repeat your responses.
-</thinking>
-
 # COVID 19 Employee Survey - Help Guide
 ## Purpose
 This form is designed to collect information from employees about their experiences and opinions on COVID-19 policies and protocols within the company.

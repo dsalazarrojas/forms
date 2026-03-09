@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to evaluate the structure of a dramatic work, such as a film, play, or book. The form helps users analyze the presence of key elements in the structure of the story, including the use of dramatic elements, scene and sequel, character arcs, plot summaries, storytelling choices, and dramatic techniques. This form is designed to be completed by users who want to assess the effectiveness of the structure of a story in relation to its impact on the audience. The survey can be used by writers, editors, or anyone interested in analyzing and improving the structure of their own work or others.
-</thinking>
-
 # Dramatic Structure Survey - Help Guide
 ## Purpose
 This form is designed to help you evaluate the structure of a dramatic work, such as a film, play, or book. The survey assesses your familiarity with key elements of dramatic structure and their effect on the audience.

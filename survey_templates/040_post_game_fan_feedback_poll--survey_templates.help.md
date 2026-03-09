@@ -1,8 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "post_game_fan_feedback_poll" form. This form is used to collect feedback from event attendees after a game has been played. The form is designed to gather information about the attendee's experience, including their satisfaction with the event, interactions with event staff, and purchase of merchandise. The fields are organized into a logical flow that mirrors the sequence of questions an attendee would naturally answer when reflecting on their experience. The form's purpose is to collect feedback that can be used to improve future events and better serve the attendees.
-
-</thinking>
-
 # post_game_fan_feedback_poll - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees after a game has been played, allowing us to gather valuable insights and improve future events.

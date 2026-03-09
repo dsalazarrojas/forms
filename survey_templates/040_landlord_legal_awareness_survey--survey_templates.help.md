@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Landlord Legal Awareness Survey - Help Guide
 
 ## Purpose

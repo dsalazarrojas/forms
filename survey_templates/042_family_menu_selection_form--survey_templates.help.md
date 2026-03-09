@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a family's menu preferences and needs. The goal is to understand their goals, dietary restrictions, and special requests, as well as gather some basic information about the family members, such as their name.
-</thinking>
-
 # Family Menu Selection Form - Help Guide
 ## Purpose
 This form is designed to collect information about a family's menu preferences and needs. It is meant to be used for the purpose of understanding their goals, dietary restrictions, and special requests, as well as gathering some basic information about the family members.

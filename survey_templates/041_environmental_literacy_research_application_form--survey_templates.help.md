@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Environmental Literacy Research Application Form is used to collect information from applicants for environmental literacy research projects. This form is intended for individuals interested in applying for research grants or collaborations with institutions focused on environmental literacy. By providing detailed information about the applicant's background, interest, and project specifics, the form helps the project administrators to assess the eligibility and potential success of the project. To complete the form correctly, please ensure that you provide accurate and comprehensive answers for each field, and that you submit your application before the application deadline. 
 
 Please note that the form has several fields that require your contact information, relationship with the submitter, and verification of email and phone numbers. Ensure that you answer these fields truthfully and accurately, as they are crucial for communication and collaboration purposes. 

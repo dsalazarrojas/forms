@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's quickly review the purpose and context of this form. The Self Love And Boundaries Assessment is designed to help you evaluate your self-worth and boundary-setting habits. This form is intended to assess your self-worth on a scale from 1 to 10 and explore your boundary-setting habits through a series of questions. It's essential to take this form seriously and answer honestly to gain valuable insights into areas where you may need to focus on personal growth.</thinking>
-
 # Self Love And Boundaries Assessment - Help Guide
 ## Purpose
 The Self Love And Boundaries Assessment is a form designed to help you evaluate your self-worth and boundary-setting habits. This form provides a framework for you to assess your self-worth on a scale from 1 to 10 and explore your boundary-setting habits through a series of questions.

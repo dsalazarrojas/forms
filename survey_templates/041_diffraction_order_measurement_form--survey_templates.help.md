@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data related to a diffraction order measurement experiment, which is a method used in optical research to measure the diffraction angles and positions of light. The form will help in collecting and recording the relevant data for such experiments in a structured and organized manner. This form is primarily intended for researchers and scientists who conduct diffraction order measurement experiments, and it's likely used within a specific context or project. Before proceeding with this guide, ensure that you're familiar with the context and purpose of the form, and that you're not duplicating the data collection process for another experiment or project.
-</thinking>
-
 # Diffraction Order Measurement Form - Help Guide
 ## Purpose
 The Diffraction Order Measurement Form is designed to collect data for diffraction order measurement experiments in optical research. This form helps researchers record and document the relevant data for these experiments.

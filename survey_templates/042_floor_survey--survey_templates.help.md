@@ -1,7 +1,3 @@
-<thinking>
-This is a help guide for the "Floor Survey" form. Before proceeding, please ensure this form is relevant to your needs and not a duplicate submission. The form is used to gather information about building surveys, specifically for the first and second floor of a building. The required fields are marked with an asterisk (\*) in the field explanations. Please make sure to complete the required fields accurately and thoroughly. 
-</thinking>
-
 # Floor Survey - Help Guide
 ## Purpose
 The "Floor Survey" form is used to collect information about a building's floors, including its name, location, building type, size, and contact person's details. This form is used to create a comprehensive survey for the first and second floor of a building.

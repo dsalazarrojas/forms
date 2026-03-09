@@ -1,19 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the NSW Touch Football Affiliate Facility Audit form, we need to consider the purpose and functionality of the form. The form seems to be designed for assessing facilities affiliated with the National Squash of Wales (NSW) for touch football-related activities. The form is likely used to gather information about the facilities' details, equipment, and staff, which will be used to evaluate and audit the facilities' compliance with certain standards and guidelines.
-
-The form appears to be a structured questionnaire that requires the input of specific information from the facilities' administrators or managers. The fields are categorized into various sections, such as facility type, contact information, and survey details. Each field is designed to gather specific data points that will help assess the facility's readiness and compliance.
-
-Before proceeding, let's take a moment to consider the following questions:
-
-* Is this form part of a routine auditing process?
-* Are there any specific regulations or guidelines that the form is designed to enforce?
-* Are there any sensitive or confidential information that needs to be protected?
-
-These considerations will help us create a user-friendly and helpful guide that caters to the needs of the form's users.
-
-</thinking>
-
 # NSW Touch Football Affiliate Facility Audit - Help Guide
 ## Purpose
 The NSW Touch Football Affiliate Facility Audit form is designed to gather information from facilities affiliated with the National Squash of Wales to assess their readiness and compliance with certain standards and guidelines. This form helps facility administrators or managers provide necessary details about their facilities to ensure they meet the required criteria.

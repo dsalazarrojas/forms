@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect customer feedback about digital banking services. It is a set of 25 questions that ask customers about their level of trust in various aspects of digital banking. This form is designed to be completed by customers to provide feedback that can help improve digital banking services.
-Before starting, please ensure you have not completed this form before, as it will not be possible to resubmit. If you have previously completed this form, it is not necessary to complete it again.
-</thinking>
-
 # Customer Digital Banking Trust Poll Form - Help Guide
 ## Purpose
 

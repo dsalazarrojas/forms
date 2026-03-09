@@ -1,11 +1,3 @@
-<thinking>
-To determine the purpose and requirements of this form, we'll review the input schema to ensure that we're providing clear and concise guidance for end-users. Upon reviewing the schema, it appears that this form is designed to collect feedback from real estate agents, likely from customers or clients. The form seems to be asking for information that will help in assessing and improving the services provided by these agents. Each field is designed to gather specific data, such as the agent's name, contact method, contact information, ratings or feedback, and any additional notes or emails.
-
-We'll assume that this form is meant for internal use within a real estate company or similar organization, and that it's designed to streamline feedback collection. The form does not include any fields that would indicate external sharing or public-facing purposes.
-
-To create this guide, we'll focus on providing clear explanations for each field, assuming that the form fields are designed to be as straightforward as possible. Please note that we're taking a "best-effort" approach in case of unclear field labels.
-</thinking>
-
 # real_estate_agent_feedback_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from real estate agents, helping the organization assess their services and identify areas for improvement.

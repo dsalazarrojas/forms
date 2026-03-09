@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user preferences regarding saxophone types. The purpose of this form is to gather information about whether a user prefers the alto, tenor, or baritone saxophone. The form is not meant to be a technical or detailed form, but rather a simple preference survey.
-</thinking>
-
 # Saxophone Preference Form - Help Guide
 
 ## Purpose

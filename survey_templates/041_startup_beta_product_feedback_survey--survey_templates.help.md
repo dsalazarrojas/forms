@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from beta product users to help us improve the product's performance and user experience. To complete this form, users are encouraged to provide honest feedback on their experience with the beta product, including any issues they encountered and suggestions for improvement. This form will help us gather data on user demographics, product features, and potential issues, allowing us to refine the product and provide a better experience for all users. It's recommended that users fill out the form as thoroughly as possible to ensure their feedback is helpful. Please note that the form does not require any personal contact information, so users can remain anonymous if they so choose.
-</thinking>
-
 # Startup Beta Product Feedback Survey - Help Guide
 
 ## Purpose

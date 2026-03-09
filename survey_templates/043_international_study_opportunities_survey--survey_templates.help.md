@@ -1,10 +1,3 @@
-<thinking>
-To determine whether a user-facing help guide for this "International Study Opportunities Survey" form is needed, we first need to consider the purpose of the form and its relevance to users. This form appears to be a survey used to gather information from students or potential students about their interests and preferences for studying abroad. The form asks for various details such as the country of interest, type of study, language, reason for studying abroad, preferred location, study duration, date of birth, email, phone number, university, program, semester, and any other information. This form is likely used by institutions or organizations looking to provide study opportunities to students from different countries or backgrounds. 
-
-Before creating the user-facing help guide, we should also check if the form is not already well-understood by the target users. Given the nature of the form, it is likely that users who are familiar with the form will not need much assistance. However, for users who are less familiar, a clear and concise help guide can aid in filling out the form accurately and efficiently.
-
-</thinking>
-
 # International Study Opportunities Survey - Help Guide
 
 ## Purpose

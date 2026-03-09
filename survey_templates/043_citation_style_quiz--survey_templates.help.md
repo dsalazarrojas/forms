@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure that the form is used correctly and that users are not duplicating effort by using it for an inappropriate purpose. This form is designed to help users assess their knowledge on citation styles. It is not intended for other purposes such as creating a new citation style or providing feedback on a specific citation.
-</thinking>
-
 # Citation Style Quiz - Help Guide
 ## Purpose
 The Citation Style Quiz is designed to test your knowledge on different citation styles such as APA, MLA, Chicago, and more. It will ask you a series of questions about citation styles and help you identify which ones you need more practice on.

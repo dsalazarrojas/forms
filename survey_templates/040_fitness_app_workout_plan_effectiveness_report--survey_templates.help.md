@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fitness App Workout Plan Effectiveness Report - Help Guide
 
 ## Purpose

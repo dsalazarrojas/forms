@@ -1,5 +1,3 @@
-<thinking>...This form is for collecting feedback and suggestions on improving the cafeteria menu. Its purpose is to gather information from various groups of people, including students, staff, and visitors, about their preferences, satisfaction, and needs. This form will help the cafeteria management understand how to cater to the diverse needs of its customers... </thinking>
-
 # Cafeteria Menu Improvement Poll - Help Guide
 ## Purpose
 

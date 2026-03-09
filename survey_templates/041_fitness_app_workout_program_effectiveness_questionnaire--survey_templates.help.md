@@ -1,5 +1,3 @@
-<thinking>...checking for relevant context and avoiding duplication...</thinking>
-
 # Fitness App Workout Program Effectiveness Questionnaire - Help Guide
 ## Purpose
 The Fitness App Workout Program Effectiveness Questionnaire is designed to gather your thoughts and feedback about your experience with our fitness program. This survey will help us understand your satisfaction, comfort, and adherence to the program. Your input will help us improve the program to better serve you.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Donor Tracking Survey - Help Guide
 
 ## Purpose

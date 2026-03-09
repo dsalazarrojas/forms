@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the House Call Service Survey form is filled out correctly to capture relevant information about a service visit. Before proceeding, let's check if this form is a duplicate or if it's meant for a different purpose. The form's primary goal is to collect feedback and data from service providers or recipients, and its fields should be filled out accurately to reflect actual events or plans for future visits.
-</thinking>
-
 # House Call Service Survey - Help Guide
 ## Purpose
 This form is designed to collect information about house calls, including service provider details, visit frequency, and quality assessment. It will help identify areas for improvement and inform future visits.

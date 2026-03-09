@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback and evaluations from individuals who have taken a medical billing course. The purpose of this form is to collect data on the course's effectiveness, instructor performance, and overall experience. This information will be used to improve future course offerings and ensure that the courses meet the necessary standards for medical billing education. 
-</thinking>
-
 # Medical Billing Course Review Form - Help Guide
 ## Purpose
 The Medical Billing Course Review Form is designed to collect feedback and evaluations from course attendees, allowing us to assess the course's quality and areas for improvement.

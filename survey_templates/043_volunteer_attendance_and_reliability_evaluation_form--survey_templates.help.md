@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate volunteer attendance and reliability across different parts of a project. The purpose of the form is to collect data on volunteer attendance, reliability, and any issues encountered during the project execution. The form will be used by project managers to assess volunteer performance and make informed decisions. Please ensure that this form is not used for duplicate evaluation of the same volunteer, and only use it for the intended purpose.
-</thinking>
-
 # Volunteer Attendance And Reliability Evaluation Form - Help Guide
 
 ## Purpose

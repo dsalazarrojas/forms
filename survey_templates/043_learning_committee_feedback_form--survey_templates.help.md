@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about the Learning Committee, which is a crucial part of the organization's structure. The purpose of this form is to help the committee better understand the user's thoughts, opinions, and suggestions. This form will help us identify areas of improvement and gather feedback that will inform future decisions.
-Before completing this form, please ensure that you have read this guide thoroughly and that you are providing genuine and constructive feedback. If you have already completed this form, please note that your feedback will be treated as a new submission.
-</thinking>
-
 # learning_committee_feedback_form - Help Guide
 ## Purpose
 The learning committee feedback form is designed to collect feedback from users about the committee's performance, suggestions, and areas of improvement. This form is intended to help the committee better understand the user's thoughts and opinions.

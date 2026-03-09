@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about team preferences and availability for team-building activities. This information will be used to schedule and plan team-building events that are convenient and appealing to team members. 
-
-Before completing this form, ensure that you are not responding to a duplicate survey, as this may skew the results and create unnecessary work for the team.
-
-This guide is meant to help you complete the form accurately and make informed decisions about your team's preferences.
-</thinking>
-
 # Team Building Preference Survey - Help Guide
 ## Purpose
 The Team Building Preference Survey is designed to gather information about team preferences and availability for team-building activities. This information will be used to schedule and plan team-building events that are convenient and appealing to team members.

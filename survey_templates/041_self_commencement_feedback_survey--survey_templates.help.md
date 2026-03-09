@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a feedback survey for a self-commencement, which could be a process or experience related to starting or beginning something new, such as an internship, a new job, or a new project. The purpose of this form is to gather feedback from users about their experience with the self-commencement process. The form likely aims to collect data to improve the process, identify areas of improvement, and gauge overall satisfaction.
-
-To ensure that the form is completed effectively, please follow the steps below:
-
-</thinking>
-
 # self_commencement_feedback_survey - Help Guide
 ## Purpose
 This form is a feedback survey designed to collect your thoughts and opinions about your self-commencement experience. Your input will help us understand your journey and identify areas for improvement.

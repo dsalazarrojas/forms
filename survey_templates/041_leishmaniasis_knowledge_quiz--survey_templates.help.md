@@ -1,7 +1,3 @@
-<thinking>...I've analyzed the provided YAML form and generated the help guide for the "Leishmaniasis Knowledge Quiz" form.
-
-</thinking>
-
 # Leishmaniasis Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge about Leishmaniasis, a disease spread by sandflies, typically found in tropical and subtropical regions of Africa, Asia, and South America. It will assess your understanding of its symptoms, diagnosis, treatment, outcomes, prevention, and control methods.

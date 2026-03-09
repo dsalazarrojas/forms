@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information about the transfer of healthcare services between two facilities. The form is designed to be completed by healthcare professionals to provide a detailed and accurate record of the transfer. This form should only be completed by authorized users and the information should be kept confidential. 
-To ensure the form is completed correctly, please review the following instructions carefully.
-</thinking>
-
 # Healthcare Service Transfer Survey - Help Guide
 ## Purpose
 The Healthcare Service Transfer Survey is used to record the transfer of healthcare services between two facilities. This form is essential for maintaining accurate records and facilitating smooth transitions of care.

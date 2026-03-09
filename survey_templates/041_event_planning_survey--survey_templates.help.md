@@ -1,7 +1,3 @@
-<thinking>
-This form is a survey designed to collect information about an event, and it is meant to be filled out by event planners or organizers who need to collect data about upcoming events. The fields in this form should align with the typical information one would want to know for event planning purposes. However, there might be cases where the form is already being used, and you're wondering if it's the correct one to use, or if you're looking for more details on how to fill it out. 
-</thinking>
-
 # Event Planning Survey - Help Guide
 ## Purpose
 The Event Planning Survey is designed to collect essential information about an event, including the event title, details, date, time, location, number of guests, budget, and any additional notes. This guide will walk you through each field of the survey and help you fill it out correctly.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended for users who will be completing the "Curriculum Impact On Values Survey" form. The form is meant to be used for assessing the impact of a curriculum on a person's or organization's values. It is not a required form, but rather an optional tool for users to reflect on their values and provide feedback on the curriculum.
 
 The form consists of multiple pages with different types of fields, including select_one, note, date, time, email, text, and textareas. The purpose of this guide is to walk the user through each field and explain its purpose and required information.

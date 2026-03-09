@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's smartphone addiction level based on their behavior and habits related to smartphone use. The purpose of this form is to help identify potential problems or concerns that may arise from excessive smartphone use. Please note that this form is not a diagnostic tool, but rather a self-reporting instrument to raise awareness and encourage healthy smartphone use habits.
-</thinking>
-
 # Smartphone Addiction Assessment - Help Guide
 ## Purpose
 The Smartphone Addiction Assessment is a form designed to help individuals understand their smartphone usage habits and potential impact on their well-being.

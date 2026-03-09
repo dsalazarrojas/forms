@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to measure employee collaboration satisfaction, which is a crucial aspect of workplace well-being and productivity. The purpose of this survey is to gather feedback on collaboration and communication among team members, managers, and departments. This form will help identify areas of improvement and provide insights for creating a more collaborative work environment.
-
-Please note that some fields are optional and allow respondents to provide more detailed feedback.
-</thinking>
-
 # Employee Collaboration Satisfaction Survey - Help Guide
 ## Purpose
 This survey is designed to measure employee collaboration satisfaction, which is a crucial aspect of workplace well-being and productivity.

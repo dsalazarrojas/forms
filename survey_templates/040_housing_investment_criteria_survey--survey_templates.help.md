@@ -1,19 +1,3 @@
-<thinking> This form is designed to collect information from investors about their preferences, location, budget, investment objectives, and other relevant details. The goal is to understand the investor's criteria for selecting properties or investments.
-
-This form is intended to be completed by individual investors, not organizations or other entities. If you are representing a company or other entity, please do not complete this form. 
-
-Please ensure that you have permission to complete this form on behalf of the individual investor. 
-
-Also, note that this form is not intended to be a comprehensive survey, but rather a brief questionnaire to gather basic information about the investor's preferences and criteria. 
-
-Please answer the questions accurately and honestly, and do not provide any personal or sensitive information. 
-
-Before proceeding, please ensure that you have the necessary permissions and approvals to complete this form. 
-
-Please review each field carefully and provide the required information. 
-
-</thinking>
-
 # Housing Investment Criteria Survey - Help Guide
 ## Purpose
 The Housing Investment Criteria Survey is designed to collect information from investors about their preferences, location, budget, and other relevant details. This survey is intended to be completed by individual investors, not organizations or other entities.

@@ -1,33 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a host's availability for an event or service. The purpose of this form is to gather relevant data about the host's schedules, preferences, and availability, which will be used to determine the best possible time slot for the event or service. This form is intended for hosts who are responsible for providing services such as childcare, house-sitting, or event hosting. 
-
-The form has 13 fields: 
-- Host Availability Survey: A text field where the host can provide a brief description of their availability.
-- Event Date: A date field where the host selects a specific date for the event or service.
-- Start Time: A time field where the host selects the start time for the event or service.
-- End Time: A time field where the host selects the end time for the event or service.
-- Availability Start: A date field where the host selects the start date of their availability.
-- Availability End: A date field where the host selects the end date of their availability.
-- Days Off: A multiple select field where the host selects the days they are unavailable.
-- Morning Availability: A multiple select field where the host selects the morning time slots they are available.
-- Evening Availability: A multiple select field where the host selects the evening time slots they are available.
-- Notes: A text field where the host can provide any additional notes about their availability.
-- Email: A text field where the host provides their email address.
-- Phone: A text field where the host provides their phone number.
-- Preferred Language: A text field where the host selects their preferred language.
-
-The following tips are recommended for completing this form:
-
-* Be as specific as possible when filling out the form. This will help ensure that you are accurately representing your availability.
-* If you have any conflicts or exceptions, please mention them in the notes field.
-* Please select all applicable options in the multiple select fields.
-* Make sure to select a specific date and time for the event or service.
-* Enter your email and phone number correctly.
-* If you have any language preference, please select it from the list.
-
-</thinking>
-
 # Host Availability Survey - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is part of a larger system used for data collection and analysis within the sports club. The purpose of this form is to gather information from users about their preferences and habits related to food and beverages at the club. This form is intended to be completed by club members or visitors, and the data collected will be used to improve the overall experience and services offered by the club.
-The form is structured to be simple and easy to complete, with four sections: Food Selection, Visit Frequency, Preferred Beverage, and Ideas to Improve. Each section is designed to gather specific information that will help the club better understand its clientele. The form will not be used for any other purpose other than for internal analysis.
-</thinking>
-
 # sports_club_survey_form - Help Guide
 ## Purpose
 This form is designed to collect information about your preferences and habits related to food and beverages at the sports club.

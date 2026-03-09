@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool designed to measure the effectiveness of a manager, capturing various aspects of their performance, communication style, and relationship with their team. It is meant to help organizations assess and improve their management practices. The survey includes fields for personal information (name, title, department, job title, and reporting manager), as well as questions about their work style, communication habits, and team dynamics. The goal is to understand the strengths and weaknesses of management and provide insights for development.
-</thinking>
-
 # Manager Effectiveness Survey - Help Guide
 ## Purpose
 The purpose of this survey is to help organizations assess and improve their management practices by capturing various aspects of manager performance, communication style, and team dynamics.

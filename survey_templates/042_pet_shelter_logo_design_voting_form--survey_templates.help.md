@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect user feedback on pet shelter logo design ideas. The form is designed to gather opinions on whether a particular design concept is good or not, and to collect additional feedback on specific aspects of the design. This form is likely intended to be used by pet shelter administrators or designers to gauge user opinions on different logo design concepts.
-
-This form appears to be a simple, 12-field form that asks users to answer several yes/no questions, enter free-form text, select images or logos from a set of options, and enter text for links and button text. However, without further context, it's not entirely clear what each field is intended to collect and how the information will be used. Therefore, it's essential to carefully review each field and its purpose to ensure accurate and helpful feedback.
-
-Before filling out the form, users should carefully review each field and ensure they understand what is being asked of them. If a field is unclear or confusing, it's best to reach out to the form administrator for clarification.
-
-</thinking>
-
 # Pet Shelter Logo Design Voting Form - Help Guide
 
 ## Purpose

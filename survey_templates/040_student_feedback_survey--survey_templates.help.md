@@ -1,8 +1,3 @@
-<thinking>
-To confirm, this is a help guide for the "student_feedback_survey" form, which is used to gather feedback from students about their classroom experience. This form is likely used by instructors or administrators to collect feedback on various aspects of the class, including the quality of instruction, class materials, class size, and overall satisfaction. The form's design suggests that it is intended to be completed by students, but it is not explicitly stated whether this is a required or optional form.
-
-Before creating this help guide, I've reviewed the form's YAML definition and will aim to provide clear and concise explanations for each field. This guide will be tailored to the needs of the end-user, focusing on the practical aspects of completing the form.</thinking>
-
 # student_feedback_survey - Help Guide
 ## Purpose
 The "student_feedback_survey" form is designed to collect feedback from students about their experiences in the class. This feedback can help instructors and administrators understand the strengths and weaknesses of the class and make informed decisions to improve it.

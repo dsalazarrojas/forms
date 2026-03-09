@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to collect information from participants in a cricket knowledge quiz. This information will be used to understand the demographics of the participants, their knowledge about cricket, and how they found out about the quiz. The form is divided into several sections, each collecting different types of data. To avoid duplication, please do not fill out this form if you have already completed it in the past.
-
-</thinking>
-
 # Cricket Knowledge Quiz - Help Guide
 ## Purpose
 The Cricket Knowledge Quiz form is a tool to gather information from participants who have taken the cricket quiz. The data collected will help us understand who our participants are, their knowledge about cricket, and how they found out about the quiz.

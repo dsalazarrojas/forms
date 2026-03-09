@@ -1,5 +1,3 @@
-<thinking>This form is for gathering feedback from users on their perception of the presidential approval ratings. It is a multi-page form that inquires about the user's ratings, comments, and demographic information. This form serves as a tool for collecting data to understand user perspectives on presidential approvals. Before filling out this form, please ensure that you have not filled it out in the past, as this would be considered a non-unique response.</thinking>
-
 # Presidential Approval Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on their perception of presidential approval ratings. It is a multi-page form that inquires about the user's ratings, comments, and demographic information.

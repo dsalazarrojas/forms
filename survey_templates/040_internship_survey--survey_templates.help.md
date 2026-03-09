@@ -1,11 +1,3 @@
-<thinking>
-The form is designed to gather feedback from interns about their experiences during the internship period. This survey aims to collect insights into how interns perceive their internship opportunities, including how they hear about these opportunities, what motivates them to choose an internship, and what they enjoy or struggle with during their time in the program. The survey will be helpful in tailoring future internship programs to better meet the needs and expectations of potential interns.
-
-Before proceeding, please ensure that you have not filled out this survey before as it may lead to duplicate responses being submitted.
-
-Please note that this form is a generic template and not affiliated with any form platform, and you are free to use, modify, or sell forms derived from it.
-</thinking>
-
 # Internship Survey - Help Guide
 ## Purpose
 The Internship Survey is designed to collect feedback from interns about their experiences during the internship program. Your responses will help us understand how we can improve the program to better meet the needs and expectations of future interns.

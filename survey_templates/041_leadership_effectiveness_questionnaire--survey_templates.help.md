@@ -1,5 +1,3 @@
-<thinking>...To avoid creating a redundant form, first ensure that the form is not being used in addition to other existing forms. This form is meant to assess the effectiveness of leaders within an organization, focusing on their behaviors, skills, and characteristics. Ensure that you have not already completed similar forms in the past. If you are unsure, please review your form completion history before proceeding. This form is not a self-assessment or personality test, but rather an opportunity for leaders to provide insight into their practices and behaviors...</thinking>
-
 # Leadership Effectiveness Questionnaire - Help Guide
 ## Purpose
 The Leadership Effectiveness Questionnaire is designed to gather information about an individual's leadership behaviors, skills, and characteristics. This form helps assess an individual's effectiveness in leading their team or organization.

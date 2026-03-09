@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from customers about their experience with high heels. This form is part of a survey, and the data collected will help the business understand how customers feel about their high heel products. It's essential that customers provide accurate and honest feedback to give the business a clear picture. This form does not have any duplicate fields, but to prevent duplication, we should ensure that each customer fills out this survey only once. If a customer has already completed a similar survey in the past, please do not complete this form.
-
-</thinking>
-
 # high_heels_market_survey - Help Guide
 ## Purpose
 The high heels market survey is a tool designed to gather customer feedback on high heels products. It's intended to help us understand customer satisfaction, preferences, and experiences.

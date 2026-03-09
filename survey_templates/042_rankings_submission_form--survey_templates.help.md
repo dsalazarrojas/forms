@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rankings Submission Form - Help Guide
 ## Purpose
 The Rankings Submission Form is used to collect user input and ranking data for analysis and decision-making processes. The form is designed to be completed by individuals, providing an opportunity to provide their rankings for various topics.

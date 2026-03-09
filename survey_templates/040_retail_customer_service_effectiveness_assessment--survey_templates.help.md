@@ -1,12 +1,3 @@
-<thinking>
-
-**Purpose**
-The Retail Customer Service Effectiveness Assessment form is designed to evaluate the quality of service provided by a retail store. This assessment helps customers, employees, or management to identify areas of excellence and areas for improvement in customer service.
-
-This form is intended to be completed by customers who have visited a retail store, and it is divided into several sections, each addressing different aspects of the store's customer service. The form is meant to be completed once per visit, and the answers should reflect the customer's genuine experience and perception of the service provided.
-
-</thinking>
-
 # Retail Customer Service Effectiveness Assessment - Help Guide
 ## Purpose
 

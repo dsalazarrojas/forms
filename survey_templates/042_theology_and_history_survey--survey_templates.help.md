@@ -1,9 +1,3 @@
-<thinking>... 
-The "Theology And History Survey" form is intended to collect information from users on their background in Theology and History. It is designed to be completed by individuals with some knowledge in these fields, but no prior experience with the specific questions or questions structure is required. It is not necessary to complete all questions, but doing so will provide a more comprehensive picture of your background.
-This form is not required for any formal application or process, so it is not a high-priority task.
-It is recommended that you only fill in this form once.
-</thinking>
-
 # Theology And History Survey - Help Guide
 
 ## Purpose

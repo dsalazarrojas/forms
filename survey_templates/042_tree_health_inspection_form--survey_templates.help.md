@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive inspection form for trees, aiming to evaluate their health status, damage, and other relevant attributes. The purpose of this form is to collect information about a tree's condition, location, and any potential issues or concerns that need to be addressed. It seems that the form is intended to be filled out by a fieldworker or arborist who will be inspecting trees on a regular basis. Before proceeding, please note that this form may not be suitable for all types of trees or inspection scenarios. Ensure that the form is tailored to the specific needs and requirements of your organization or project.
-</thinking>
-
 # Tree Health Inspection Form - Help Guide
 ## Purpose
 The Tree Health Inspection Form is designed to assess the overall health and condition of a tree. It is used to gather information about tree details, status, damage, and other relevant attributes to inform decision-making and ensure the tree's well-being.

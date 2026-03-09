@@ -1,15 +1,3 @@
-<thinking> 
-**Form Purpose:**
-This form is designed to collect information and feedback about the usage and effectiveness of digital tools for work management within an organization. It inquires about various aspects, including satisfaction, challenges faced, priorities, and collaboration methods, among others. The form aims to understand the current state of digital tools in the workplace and gather insights to improve their usage.
-
-**Form Relevance:**
-The form is relevant to employees, managers, and anyone involved in work management processes within the organization. It helps in understanding the effectiveness of digital tools and identifying areas for improvement.
-
-**Form Non-Duplication:**
-There is no duplication of questions as each one targets a distinct aspect of work management. However, some questions may overlap in terms of their focus areas.
-
-</thinking>
-
 # Digital Tools For Work Management Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information and feedback about the usage and effectiveness of digital tools for work management within an organization.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about their experience with the tech support team. The form is used to assess the performance of the support team, identify areas for improvement, and make data-driven decisions. To ensure that the form is filled out correctly, it's essential to understand its purpose and the fields it contains. This guide will help users understand each field's intent and requirements.
-</thinking>
-
 # Tech Customer Support Assessment Form - Help Guide
 ## Purpose
 The Tech Customer Support Assessment Form is a tool used to gather feedback from customers about their experience with the tech support team. The form helps in assessing the performance of the support team, identifying areas for improvement, and making data-driven decisions.

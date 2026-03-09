@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information about potential geography app ideas from various individuals. The purpose of this form is to gather insights and feedback from students, educators, and product teams about their ideas for geography-related apps. The form is meant to be a starting point for further discussion and development of these ideas.
-
-Before proceeding, please note that this form is an AI-generated adaptation of public survey metadata and is not affiliated with or endorsed by any form platform. It is released under a Creative Commons BY 4.0 license, allowing for modification and use under certain conditions.
-
-To ensure the quality and relevance of the submitted ideas, please make sure to:
-
-* Only submit original and unique ideas, not copied or derived from existing works.
-* Avoid duplicate submissions, as this can lead to unnecessary review and evaluation efforts.
-* Be honest and accurate when filling out the form, as false or misleading information may lead to disqualification of ideas.
-
-</thinking>
-
 # Geography App Idea Submission - Help Guide
 ## Purpose
 The Geography App Idea Submission form is a tool for collecting and sharing ideas about geography-related apps. If you have a idea for a geography app, this form is the right place to submit it.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect feedback from app users, helping the development team understand their experiences, needs, and pain points. By analyzing the collected data, the team can identify areas for improvement and make informed decisions to enhance the app's overall quality and user experience. This form is not intended to replace other feedback channels, but rather supplement them, ensuring that user voices are heard and valued.
-</thinking>
-
 # App Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with the app. Your input will help us understand what you like and dislike about the app, and what areas need improvement.

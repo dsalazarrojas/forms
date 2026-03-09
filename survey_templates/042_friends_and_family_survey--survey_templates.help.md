@@ -1,5 +1,3 @@
-<thinking>
-We are designing this form to collect opinions and sentiments from friends and family members about a particular individual or situation. This form is intended for general use and does not collect sensitive or personal information. It's a tool for gathering opinions, not for conducting an in-depth analysis or assessment. Please note that the form is not meant for collecting information from a large group of people, but rather for a small, specific group, such as friends and family members. Ensure that the respondents are aware of this purpose and the context of the form before proceeding. It's essential to ensure that the form is not duplicated or used for multiple purposes, as it can lead to confusion and inaccurate data collection.</thinking>
 # Friends And Family Survey - Help Guide
 ## Purpose
 The Friends and Family Survey is a tool designed to collect opinions and sentiments from friends and family members about a particular individual or situation. This form is intended for general use and is not meant to collect sensitive or personal information.

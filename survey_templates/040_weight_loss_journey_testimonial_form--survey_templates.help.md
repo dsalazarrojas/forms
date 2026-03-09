@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect testimonials from weight loss program participants, likely for use in marketing, promotions, or other internal communications. This form is meant to gather information about the participant's weight loss journey, including their name, email, program participation, weight loss progress, before and after photos, testimonial, and permission to share their story. 
-This form might be used internally by a business or organization to evaluate the effectiveness of their weight loss programs or to create engaging content for their marketing efforts.
-
-Before proceeding, ensure that you haven't filled out this form in the past. Duplicate submissions may lead to unnecessary data storage and potential confusion in analysis.
-
-</thinking>
-
 # Weight Loss Journey Testimonial Form - Help Guide
 ## Purpose
 This form collects testimonials from weight loss program participants to gather information about their weight loss journey. It is used to evaluate the effectiveness of our programs and create engaging content for our marketing efforts.

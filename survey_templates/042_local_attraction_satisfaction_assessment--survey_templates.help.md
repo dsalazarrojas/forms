@@ -1,7 +1,3 @@
-<thinking>
-...this form is intended to assess the satisfaction of end-users with a local attraction, gathering information on their experience, guides, facilities, overall experience, and willingness to recommend the attraction. This form should not be completed by non-local attraction visitors. Please ensure that only relevant and unique feedback is provided, to avoid duplication and ensure that the form is completed with the intended intent.
-</thinking>
-
 # Local Attraction Satisfaction Assessment - Help Guide
 ## Purpose
 This form is designed to collect feedback from visitors of a local attraction, allowing us to understand their experience and identify areas for improvement.

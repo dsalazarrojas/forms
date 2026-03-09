@@ -1,7 +1,3 @@
-<thinking>
-The Home Staging Feedback Survey is a form used to gather feedback about the property staging process. It's essential to provide clear and accurate information to help improve the staging process. Before completing this form, ensure that you have relevant information and are not duplicating previous feedback. This form should only be used for properties that have been staged.
-</thinking>
-
 # Home Staging Feedback Survey - Help Guide
 
 ## Purpose

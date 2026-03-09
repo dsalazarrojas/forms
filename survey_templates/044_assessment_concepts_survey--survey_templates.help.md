@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Assessment Concepts Survey - Help Guide
 ## Purpose
 This survey is designed to understand your current professional role, familiarity with assessment concepts, preferred assessment methods, and views on assessment-related topics. Your responses will help us better understand your needs and preferences.

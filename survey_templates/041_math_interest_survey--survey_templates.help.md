@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about users' interests, preferences, and experiences related to mathematics. The data collected will be used to identify areas of interest within the math department and to improve teaching methods and resources. This guide will help users fill out the form accurately and efficiently.
-</thinking>
-
 # Math Interest Survey - Help Guide
 ## Purpose
 This form is designed to collect information about users' interests, preferences, and experiences related to mathematics. The data collected will be used to identify areas of interest within the math department and to improve teaching methods and resources.

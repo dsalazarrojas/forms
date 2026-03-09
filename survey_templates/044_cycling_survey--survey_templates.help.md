@@ -1,10 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Cycling Survey" form that explains its purpose, how to complete it, and the meaning of each field. The form is used to gather information about the user's level of expertise and physical and technical skills in various areas related to cycling. The user will be asked to answer questions about their level of expertise, physical fitness, and technical skills, which will help identify their strengths and weaknesses in cycling. The form has 12 fields, including 1 introduction page with a title and a note, and 11 question pages asking about level of expertise, technical skills, and physical fitness. To complete the form, users will need to select one or multiple options for each field, depending on the type of field. Users will be required to answer some fields but not all. 
-
-The form is designed to provide users with a quick and easy way to assess their skills and fitness level related to cycling, and to help the administrators to collect information about the users.
-
-</thinking>
-
 # Cycling Survey - Help Guide
 
 ## Purpose

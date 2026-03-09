@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Social Care Outreach Initiative Evaluation - Help Guide
 
 ## Purpose

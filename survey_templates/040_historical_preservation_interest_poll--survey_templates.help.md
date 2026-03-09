@@ -1,20 +1,3 @@
-<thinking>
-This help guide will cover the purpose and usage of the "Historical Preservation Interest Poll" form. The form is intended to gauge users' interests and priorities in historical preservation activities. The purpose of the form is to gather information on users' level of interest in preserving historical sites, objects, and their preferred methods of participation.
-
-The form is divided into several sections, each asking about a specific aspect of historical preservation. These sections include:
-- Preservation interest: This section asks users about their level of interest in preserving historical sites and objects.
-- Participation interest: This section inquires about users' willingness to participate in historical preservation activities.
-- Participation frequency: This section asks users about their frequency of participation in historical preservation activities.
-- Participation methods: This section inquires about the methods users prefer to participate in preservation activities.
-- Conservation priority: This section asks users to identify their top priority for preserving historical preservation.
-- Contact information: This section is for users to provide their contact information for follow-up purposes.
-- Other preservation interests: This section is for users to express any other preservation interests they may have.
-- Other preservation methods: This section is for users to describe any other preservation methods they may be interested in.
-
-The form is designed to be completed by anyone interested in historical preservation, from individuals to organizations. The information gathered will be used to better understand users' interests and preferences.
-
-</thinking>
-
 # Historical Preservation Interest Poll - Help Guide
 
 ## Purpose

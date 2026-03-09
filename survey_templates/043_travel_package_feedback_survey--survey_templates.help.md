@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to gather feedback from users about their travel package experience. The primary purpose of this form is to collect information about the user's travel dates, the travel agency or tour operator they used, their experience with the travel agent, and their overall satisfaction with the package. By analyzing this data, our team can identify areas for improvement and make adjustments to better serve our customers in the future. It is essential to fill out this form only once per travel experience, as it will help us to provide the most accurate and comprehensive insights.
-</thinking>
-
 # Travel Package Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their travel package experience.

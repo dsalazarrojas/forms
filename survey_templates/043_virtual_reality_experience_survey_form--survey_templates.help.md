@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge the user's experience with a virtual reality program. The form likely serves as a feedback mechanism for the program's developers to understand user satisfaction and areas of improvement. To fill out this form, the user will be presented with a series of questions that ask for their opinion on the program's quality and their personal experience with it. The form does not require users to provide any information, making it optional to fill out. The purpose of this form is to collect feedback and gather data for the program's development and improvement.
-</thinking>
-
 # virtual_reality_experience_survey_form - Help Guide
 ## Purpose
 The virtual reality experience survey form is a tool for collecting feedback from users about their experience with a virtual reality program. It is designed to gauge user satisfaction and identify areas of improvement for the program's development and enhancement.

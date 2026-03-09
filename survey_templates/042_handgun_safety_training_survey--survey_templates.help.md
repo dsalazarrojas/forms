@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from trainees who have completed a handgun safety training session. It is essential to understand how well the instructor performed, the quality of the training session, and what can be improved. This form helps us evaluate the effectiveness of the training program and identify areas that require attention to provide better service in the future.
-
-To fill out this form, please ensure that you have attended the handgun safety training session. This form is designed for your honest feedback, so be as candid as you can in your responses. We value your opinion, and it will help us improve our programs for the benefit of future trainees. Please complete all the questions as thoroughly as possible. If a question does not apply to your experience or you don't feel comfortable answering it, simply leave the field empty.
-
-Before proceeding, make sure you have reviewed our [privacy policy](link to privacy policy) which explains how we handle your data.
-
-Please note that some questions are optional, but the more information you provide, the more valuable your feedback will be to us.
-
-</thinking>
-
 # Handgun Safety Training Survey - Help Guide
 
 ## Purpose

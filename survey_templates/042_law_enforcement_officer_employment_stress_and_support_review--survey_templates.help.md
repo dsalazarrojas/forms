@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from law enforcement officers about their employment stress and support experiences. The purpose of this form is to help the agency understand the types of stressors and support resources that officers are experiencing, as well as their overall well-being and likelihood to leave the agency. This information will be used to inform the development of support programs and policies to better serve the needs of law enforcement officers. The form asks for demographic information such as job title and years of service, as well as questions about specific stressors, support resources, and factors affecting their likelihood to leave the agency. Additionally, the form includes space for officers to provide any additional comments or suggestions.
-</thinking>
-
 # law_enforcement_officer_employment_stress_and_support_review - Help Guide
 ## Purpose
 This form is used to gather information from law enforcement officers about their employment stress and support experiences to inform the development of support programs and policies.

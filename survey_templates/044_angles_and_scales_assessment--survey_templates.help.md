@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to assess a student's understanding of angles and scales, specifically measuring and calculating them. The assessment includes multiple-choice questions, numerical problems, and a space for students to reflect on their learning. The form will help instructors gauge students' understanding of various concepts, including definitions, measurement, and calculation. To use this form, follow the instructions carefully and complete each section as instructed.
-
-</thinking>
-
 # Angles And Scales Assessment - Help Guide
 ## Purpose
 This form is designed to evaluate a student's knowledge and understanding of angles and scales. It includes questions on definitions, measurement, and calculation, as well as opportunities for students to reflect on their learning.

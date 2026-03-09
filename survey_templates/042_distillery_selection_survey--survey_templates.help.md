@@ -1,9 +1,3 @@
-<thinking>... 
-
-This form is designed to collect information from visitors about their preferences for a distillery selection process. The purpose of this form is to gather data on visitors' willingness to participate in different activities, such as tasting room tours, events, and services. This data will be used to better understand visitor behavior and preferences, and to improve the overall distillery experience. It's essential to fill out this form carefully, as the information collected will directly influence the distillery's offerings and services.
-
-</thinking>
-
 # Distillery Selection Survey - Help Guide
 ## Purpose
 The Distillery Selection Survey is designed to gather information from visitors about their preferences for a distillery experience.

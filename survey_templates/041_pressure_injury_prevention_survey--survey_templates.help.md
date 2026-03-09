@@ -1,26 +1,3 @@
-<thinking>
-# Pressure Injury Prevention Survey - Help Guide
-
-This guide is intended to help individuals complete the Pressure Injury Prevention Survey form, which is used to collect data on various aspects of pressure injury prevention practices, training needs, and other relevant information.
- 
-Please review the form fields and their intended use before proceeding.
- 
-## Purpose
-The purpose of this survey is to gather information on the following:
- * Prevention practices (e.g., repositioning, pressure-redistributing support surfaces)
- * Training needs (e.g., education, skills)
- * Barriers to prevention (e.g., lack of resources, inadequate equipment)
- * Care processes (e.g., regular assessment, repositioning schedules)
- * Prevention strategies (e.g., use of foam mattresses, pressure-redistributing devices)
- * Staff training (e.g., education, certification)
- * Patient outcomes (e.g., pressure injury incidence, frequency)
- * Team leadership (e.g., leadership support, team engagement)
- * Organizational support (e.g., policies, resources)
- * Data collection (e.g., tracking, reporting)
- * Care process improvement (e.g., changes to care practices)
- * Knowledge translation (e.g., dissemination of best practices)
-</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

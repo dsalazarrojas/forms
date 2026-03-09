@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect data on wine fermentation, which is a crucial process in winemaking. This data can help wine producers and researchers understand the various factors that affect wine quality and production. The form is designed to be completed by wineries or individuals who want to share their data on wine fermentation. 
-
-To ensure that the form is completed correctly, we will review the data for relevance and non-duplication before it is accepted into our database. Please ensure that you provide accurate and up-to-date information. 
-
-This form is not intended to be used for commercial purposes. If you are using this form for commercial purposes, please contact us to discuss your specific needs.
-</thinking>
-
 # Wine Fermentation Data Collection - Help Guide
 ## Purpose
 The Wine Fermentation Data Collection form is designed to collect data on wine fermentation to help wine producers and researchers understand the various factors that affect wine quality and production.

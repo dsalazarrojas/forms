@@ -1,13 +1,3 @@
-<thinking>... internal reasoning and checks for relevance and non-duplication of the form purpose...
-
-This form is a user experience survey designed to collect feedback from users about their experience with the E Pal system. It is intended to collect data on user satisfaction, feature usage, recommendations, contact information, and any other relevant details that can help improve the system.
-
-The purpose of this form is to gather information from users to identify areas for improvement and to better understand their needs and preferences.
-
-Before proceeding, please confirm that this form is indeed relevant to your experience with E Pal and that you have not already completed this survey. Your responses will help shape the future development and improvement of the E Pal system.
-
-</thinking>
-
 # E Pal User Experience Survey - Help Guide
 ## Purpose
 This form is a user experience survey designed to collect feedback about your interaction with the E Pal system.

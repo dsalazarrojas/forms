@@ -1,5 +1,3 @@
-<thinking>As a technical writer, I'll create a user-friendly help guide for the Lab Experience Feedback Survey form, based on the provided YAML structure. The form appears to be designed to gather feedback from students about their lab experience, likely for quality improvement purposes. Before I begin writing the help guide, I'd like to note that the form is AI-generated, not affiliated with any form platforms, and released under CC BY 4.0. This form is likely meant to be used by educators, researchers, or lab managers to collect feedback from students about their lab experience, providing valuable insights for improvement. The form seems to cover various aspects of the lab experience, including facilities, equipment, instruction quality, and student comments.</thinking>
-
 # Lab Experience Feedback Survey - Help Guide
 ## Purpose
 The Lab Experience Feedback Survey aims to collect students' opinions and experiences about their lab sessions. This feedback will help lab managers and educators understand the strengths and weaknesses of their lab sessions, allowing them to make informed decisions for future improvements.

@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect feedback and ratings from users on various umbrella design concepts. The form likely aims to gather quantitative feedback on the design concepts through rating fields and open-ended feedback. It seems there might be a focus on rating designers, retailers, and product managers involved in the design process. I will provide a help guide that covers the form's purpose, how to complete it, and a breakdown of each field.
-</thinking>
-
 # Umbrella Design Voting Survey - Help Guide
 ## Purpose
 This survey is designed to collect ratings and feedback on various umbrella design concepts. You will be asked to rate each concept on a scale and provide your honest feedback. Your responses will help the design team understand what works and what doesn't in the design process.

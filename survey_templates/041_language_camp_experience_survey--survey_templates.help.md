@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "Language Camp Experience Survey" is designed to collect feedback from participants who have attended a language camp program. The purpose of this survey is to gather information about the overall experience of the participants, including their feedback on the camp staff, facilities, and activities offered. This feedback will help the language camp organizers to identify areas of improvement and make necessary adjustments to provide better services to future participants.
 
 # Language Camp Experience Survey - Help Guide

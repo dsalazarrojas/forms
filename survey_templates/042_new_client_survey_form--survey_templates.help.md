@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about new clients and their preferences, with the main goal of categorizing and organizing their data for further analysis. It is recommended that this form is only filled out once per client to avoid duplication of effort and data. Before proceeding, ensure that you are filling out this form for a new client and not updating an existing one.
-</thinking>
-
 # New Client Survey Form - Help Guide
 ## Purpose
 The New Client Survey Form is used to collect relevant information about new clients, including their category of interest, location, and contact details. This data is used to categorize and organize client preferences for further analysis and potential business development opportunities.

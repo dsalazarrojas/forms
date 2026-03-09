@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information about flame photometry equipment from users to gauge their satisfaction, identify recurring issues, and track improvement priorities.
-It appears this form is not previously known to us. Let's proceed with creating the help guide.
-</thinking>
-
 # Flame Photometry Equipment Survey - Help Guide
 ## Purpose
 The goal of this survey is to gather information about flame photometry equipment from users, aiming to understand their satisfaction with the equipment, identify any recurring issues, and determine the priority of improvements needed.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # music_interest_survey - Help Guide
 ## Purpose
 This form is designed to gauge an individual's interest in various music genres, including rock, jazz, pop, electronic, hip hop, classical, country, bluegrass, folk, R&B, and country rock, and their corresponding interest levels.

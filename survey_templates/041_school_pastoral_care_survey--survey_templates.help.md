@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Pastoral Care Survey - Help Guide
 
 ## Purpose

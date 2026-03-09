@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to assess the organizational culture within a company. It asks questions about various aspects of the company culture, including employee satisfaction, management culture, organization culture, job satisfaction, team dynamic, leadership style, communication culture, work-life balance, employee engagement, innovation culture, diversity and inclusion, organizational commitment, job security, employee recognition, work-life quality, job stability, work-life stimulation, job autonomy, management practices, leadership culture, and communication effectiveness.
-
-To avoid duplication, this form should only be filled out by employees who have not previously completed it. If you have already completed this form, please do not fill it out again. Please ensure that you have sufficient time to complete the form thoroughly and accurately.
-
-This form is designed for internal use and should not be shared with external parties without permission from the company management.
-
-Note: This form is for anonymous and confidential use, and all responses will be treated as such.
-
-The following fields are required to provide honest and accurate feedback. Your responses will be used to help the company improve its organizational culture.
-
-If you have any questions or concerns, please reach out to your HR representative or management team.
-
-</thinking>
-
 # Organizational Culture Survey - Help Guide
 
 ## Purpose

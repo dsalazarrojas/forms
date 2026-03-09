@@ -1,9 +1,3 @@
-<thinking>
-The form "Healthcare Disparities Registration" is designed to collect demographic information about patients for the purpose of identifying and addressing healthcare disparities. This form is intended for healthcare professionals to gather relevant data on patients' characteristics, including contact information, language and race/ethnicity, and age. The goal is to promote better understanding and service provision for patients with diverse backgrounds. Please ensure that this form is only filled out for patients who have given consent for data collection. 
-
-The form is structured to collect information about patients without being intrusive or repetitive. If you're unsure about any field, please refer to the field-by-field explanation below.
-</thinking>
-
 # Healthcare Disparities Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect demographic information about patients for healthcare disparities analysis and service provision.

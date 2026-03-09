@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers who have taken a guided tour, to help us understand their experience and improve our services. This form is not intended for employees and should only be filled out by customers who have actually taken a tour. If you're an employee, please do not fill out this form as it may result in duplicate data.
-</thinking>
-
 # Tour Guide Experience Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers who have taken a guided tour to help us understand their experience and improve our services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Amorphous Solar Cells Survey - Help Guide
 
 ## Purpose

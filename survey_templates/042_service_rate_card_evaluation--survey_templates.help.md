@@ -1,8 +1,3 @@
-<thinking>
-This form is used to evaluate the service rate card, which is a document that outlines the rates and conditions of a service. The purpose of this form is to gather feedback from clients on their experience with the service and provide an overall rating of the service. The form is designed to be completed by clients who have used the service and are able to provide an assessment of the service's quality and value. To avoid duplication, this form should only be completed if a client has not previously completed a service rate card evaluation form for the same service.
-
-</thinking>
-
 # Service Rate Card Evaluation - Help Guide
 ## Purpose
 The Service Rate Card Evaluation form is used to gather feedback from clients on their experience with the service and provide an overall rating of the service.

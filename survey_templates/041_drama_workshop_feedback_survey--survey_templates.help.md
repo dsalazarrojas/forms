@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for gathering feedback from users who attended a drama workshop, with the aim of improving future workshops. The form is part of a broader effort to collect data on the effectiveness and impact of the workshops. The form will likely be used by organizers of the workshop to get a general idea of how participants perceive the workshop and what they enjoyed most about it.
-</thinking>
-
 # drama_workshop_feedback_survey - Help Guide
 ## Purpose
 This form is a feedback survey for participants of a drama workshop. It's designed to gather information about your experience and opinions on the workshop. Your feedback is valuable to help us improve future workshops.

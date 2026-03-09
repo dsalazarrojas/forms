@@ -1,7 +1,3 @@
-<thinking>
-To determine whether to create this form, I first need to check if it's a valid form (no issues with input schema) and if it's not a duplicate form in the system.
-</thinking>
-
 # Baal Veer Series Quiz - Help Guide
 ## Purpose
 The Baal Veer Series Quiz is designed to gauge the audience's knowledge and enthusiasm for the Baal Veer series. It assesses participants' level of fandom, knowledge of the show's key events, and overall impression of the series. The data collected will help us to better understand our audience's engagement and preferences.

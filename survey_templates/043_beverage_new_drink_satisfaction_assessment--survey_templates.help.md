@@ -1,34 +1,3 @@
-<thinking>
-
-This form is designed to gauge the satisfaction level of customers who have tried a new drink, specifically assessing their experience with it. To ensure relevance and non-duplication, it's essential to review the form's questions and answers to guarantee that it aligns with the intended purpose.
-
-The form collects information on:
-
-*   Customer name and email for follow-up purposes
-*   Details about their experience with the new drink, including:
-    *   Visit date
-    *   Drink name
-    *   Drink size
-    *   Drink temperature
-*   Their subjective rating of:
-    *   Overall satisfaction
-    *   Taste
-    *   Sweetness level
-    *   Flavor strength
-    *   Presentation
-    *   Value for money
-*   Willingness to order again and recommend to others
-*   Favorite and least favorite aspects of the drink
-*   Comparison with existing menu items
-*   Suggestions for improvement
-*   Additional comments
-
-This form is intended for customers who have tried a new drink and are likely to have a recent experience with it. It is not intended for employees, managers, or other stakeholders.
-
-The questions are designed to be clear and concise, with options provided for subjective ratings to help gauge customer satisfaction and gather specific feedback.
-
-</thinking>
-
 # Beverage New Drink Satisfaction Assessment - Help Guide
 ## Purpose
 

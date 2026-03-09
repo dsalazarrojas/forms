@@ -1,7 +1,3 @@
-<thinking>
-We are creating this form to gain insights into our website's user experience. We want to know how users like our website, what we can improve on, and how we can better serve our visitors. This information will help us make informed decisions to enhance our website's performance and user satisfaction. Please make sure you're not duplicating responses from the same user. Each user should only submit one response per form.
-</thinking>
-
 # Website Visitor Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your experience with our website. Your responses will help us understand our website's strengths and weaknesses and make targeted improvements to enhance your user experience.

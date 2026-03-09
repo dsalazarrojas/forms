@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from customers on their experience with a retail store's customer service. By filling out this form, customers can provide their assessment of the sales representative's quality, the store environment, and the helpfulness and friendliness of the store staff. This feedback will help the retail store to identify areas of improvement and enhance their customer service.
-</thinking>
-
 # Retail Customer Service Quality Questionnaire - Help Guide
 ## Purpose
 The Retail Customer Service Quality Questionnaire is designed to collect feedback from customers on their experience with a retail store's customer service. This form is used to gather information about the customer's visit, including the store location, date of visit, and interactions with sales representatives and store staff.

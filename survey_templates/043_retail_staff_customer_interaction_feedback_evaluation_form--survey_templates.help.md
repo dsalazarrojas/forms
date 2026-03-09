@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers on their interaction with retail staff. The purpose of this form is to provide an opportunity for customers to rate their experience, provide suggestions for improvement, and leave comments about the staff member and their visit. It is not a required form, meaning that customers are not obligated to fill it out. However, filling this form can help us better understand customer experiences and improve our services.
-
-The form should only be used for retail staff interactions. If a customer interacts with other types of staff, such as customer service representatives, a different form would be more suitable.
-</thinking>
-
 # Retail Staff Customer Interaction Feedback Evaluation Form - Help Guide
 ## Purpose
 

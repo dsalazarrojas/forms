@@ -1,7 +1,3 @@
-<thinking>
-The form is used by evaluators to gather information about the performance of a portfolio, typically to assess its quality, effectiveness, and overall value. This form is likely used to evaluate a portfolio in a work or academic context. The form is divided into multiple pages, each with a specific field for inputting information. Before proceeding, please ensure you have all the necessary information and that you are filling out a unique portfolio evaluation for a specific individual or group, as duplicate or irrelevant submissions may lead to unnecessary administrative work.
-</thinking>
-
 # Portfolio Evaluation Survey - Help Guide
 ## Purpose
 The Portfolio Evaluation Survey is a tool for evaluators to assess the quality, effectiveness, and overall value of a portfolio.

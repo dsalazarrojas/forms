@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for cryptic text analysis. This form is intended to be filled out by individuals who have been asked to participate in a cryptic text analysis study. The information collected will be used to better understand the user's interpretation of cryptic text and their emotional state during the analysis.
-The study is not duplicating any existing survey. The information collected will be used to improve the understanding of cryptic text analysis and will not be shared with any external parties.
-</thinking>
-
 # Cryptic Text Analysis Survey - Help Guide
 ## Purpose
 The Cryptic Text Analysis Survey is a tool designed to collect information from users who have been asked to participate in a cryptic text analysis study. The survey is intended to gather data on how users interpret cryptic text and their emotional state during the analysis.

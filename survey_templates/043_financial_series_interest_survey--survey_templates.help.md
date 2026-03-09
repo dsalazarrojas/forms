@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about financial series interest. Each page of the form is designed to gather specific information from the user. The form does not require a specific order or priority of completion, and users are encouraged to fill out as much or as little of the form as they need to. This form is meant to be a general information gathering tool. It's possible that users may not need to fill out every page, depending on their individual circumstances. If users need help or clarification on any of the questions, please don't hesitate to reach out to the appropriate personnel.
-</thinking>
-
 # Financial Series Interest Survey - Help Guide
 
 ## Purpose

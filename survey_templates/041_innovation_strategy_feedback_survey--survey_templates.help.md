@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users on innovation initiatives. The purpose of this form is to collect data on how users perceive these initiatives, which can help the organization refine and improve its innovation strategy. It's essential to ensure that the form is filled out by relevant stakeholders and that the answers are not duplicates. Please fill out this form if you have relevant experience or expertise in the area of innovation initiatives.
-
-</thinking>
-
 # innovation_strategy_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather user feedback on innovation initiatives.

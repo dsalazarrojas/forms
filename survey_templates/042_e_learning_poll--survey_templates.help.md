@@ -1,12 +1,3 @@
-<thinking>
-I will create a comprehensive help guide for the "E Learning Poll" form. To start, I'll review the form's purpose and ensure it's not a duplicate.
-
-The form is used to collect feedback and opinions from users about their experience with e-learning platforms. The purpose of this form is to understand users' preferences, opinions, and feedback about different e-learning platforms, which will help improve the overall e-learning experience.
-
-Before creating the help guide, I will check for any duplicates or existing guides. If there's a similar form with similar content, I will make sure to tailor the guide to be unique and relevant.
-
-</thinking>
-
 # E Learning Poll - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm that the user understands the purpose and requirements of this form, a reminder that the Energy Solutions Feedback Release Form is designed to collect feedback and information from customers, which will be used to improve services and products.
 
 This form should only be completed by customers who are providing feedback or information about the energy solutions they've encountered, ensuring that the form is not duplicated by multiple users. The form is not intended for general inquiries or comments.

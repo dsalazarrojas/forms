@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help chess players identify their strengths and weaknesses in opening play. It will help us tailor our resources and training programs to better support your learning needs. This form should only be filled out if you are a player who is looking to improve or already has experience playing openings. Please note that some questions are mandatory and are required for our analysis. If you don't know the answer to a question or feel that it doesn't apply to you, please select 'None' or the closest match.
-
-</thinking>
 # Chess Opening Practice Survey - Help Guide
 ## Purpose
 This survey is designed to help us better understand your opening play and provide you with personalized resources to improve your skills.

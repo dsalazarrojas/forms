@@ -1,7 +1,3 @@
-<thinking>
-This help guide will walk you through the Webhook Delivery Platform Evaluation Form. This form is designed to evaluate the suitability of a webhook delivery platform. It helps you gather crucial information about various platforms and make informed decisions. This guide is meant for end-users who want to understand how to complete this form accurately. Before you start, ensure you are familiar with the form purpose. This form will only be used internally within your company, so please do not fill it out if you are an external entity. 
-</thinking>
-
 # Webhook Delivery Platform Evaluation Form - Help Guide
 
 ## Purpose

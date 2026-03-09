@@ -1,13 +1,3 @@
-<thinking>... internal reasoning block to check for form purpose and relevance ...
-
-This form, the "Pedagogical Research Awareness Survey", is designed to gather information from users about their familiarity with and involvement in pedagogical research. It seems to be related to assessing the awareness and engagement of educators or researchers with pedagogical research, likely for the purpose of gauging the effectiveness of pedagogical research activities or initiatives. Given the presence of fields such as "familiarity_levels", "research_areas", and "teaching_initiatives", it is possible that this form is part of a larger effort to understand the scope and reach of pedagogical research in educational settings.
-
-The form appears to be a survey, as it contains multiple select fields that ask users to report their experiences, familiarity, and engagement with various pedagogical research-related activities. The fields are not too complex, suggesting that the form is intended for users with a basic understanding of the topic. Given the options are mostly simple 'Yes' and 'No' selections, it does not seem to require any in-depth analysis or technical knowledge. However, some fields such as "familiarity_levels" and "training_needs" might have a slightly more nuanced understanding of the concept of levels or needs.
-
-Before proceeding, the user is required to be aware of the potential context and purpose of the form. Please ensure you have a good understanding of the topic before filling out the form.
-
-</thinking>
-
 # Pedagogical Research Awareness Survey - Help Guide
 
 ## Purpose

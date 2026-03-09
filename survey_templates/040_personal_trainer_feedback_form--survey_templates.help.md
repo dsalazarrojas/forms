@@ -1,7 +1,3 @@
-<thinking>
-This is a help guide for the "personal_trainer_feedback_form" designed for users to provide feedback on personal training sessions. This form is intended to help us improve our service by gathering feedback from clients and trainers. The form is divided into several sections, including ratings and free-text comments. The purpose of this form is to ensure that we can identify areas where we excel and areas where we need to improve.
-</thinking>
-
 # personal_trainer_feedback_form - Help Guide
 ## Purpose
 The "personal_trainer_feedback_form" is a tool for clients to provide feedback on their personal training sessions. This feedback will help us to improve our service and provide better training experiences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect and store customer communication preferences, including name and contact information. The form is designed to be completed by customers to provide their preferred method of communication, such as email or phone, and to collect their name and contact information. This form is intended for customers who have not provided their communication preferences previously or have had their preferences changed.
-</thinking>
-
 # Customer Communication Preference Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect and store customer communication preferences, including name and contact information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to be a Personal Clarity Assessment, a tool for individuals to reflect on their goals, values, and progress towards achieving success. It's likely that this form will be used in a personal development or career coaching context. To ensure accuracy, please review your answers carefully and provide honest responses. To avoid confusion, note that this form will only be completed once for the purposes of this assessment.
-</thinking>
-
 # Personal Clarity Assessment - Help Guide
 ## Purpose
 The Personal Clarity Assessment is a tool for individuals to gain insights into their goals, values, and progress towards achieving success. It helps you to reflect on your current situation, identify obstacles, and plan your next steps.

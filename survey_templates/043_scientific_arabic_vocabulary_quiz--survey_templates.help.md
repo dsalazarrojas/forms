@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide for the Scientific Arabic Vocabulary Quiz form, I will make sure to understand its purpose and requirements. This form is designed to gather information from users about their scientific knowledge in Arabic. It seems to be a comprehensive quiz that covers multiple aspects of scientific Arabic vocabulary. To confirm, are all the fields in the form relevant to the scientific Arabic vocabulary quiz, and is there a need to ensure that users do not duplicate their answers or submissions?</thinking>
-
 # Scientific Arabic Vocabulary Quiz - Help Guide
 ## Purpose
 This form is designed to assess your knowledge in scientific Arabic vocabulary. It consists of multiple questions that cover various aspects of scientific Arabic terminology.

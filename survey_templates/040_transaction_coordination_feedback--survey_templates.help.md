@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Transaction Coordination Feedback - Help Guide
 
 ## Purpose

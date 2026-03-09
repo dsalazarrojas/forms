@@ -1,17 +1,3 @@
-<thinking>
-Please note that creating a user-facing help guide for a form like this requires a good understanding of the form's purpose and the context in which it will be used. This form appears to be a survey to gather feedback from visitors to an animal exhibit, collecting information on their demographics, visit experience, and satisfaction with various aspects of the exhibit.
-
-To confirm, I will assume that this form is intended to:
-
-* Gather visitor demographic information (name, email address, group type, group size, etc.)
-* Collect information about their visit experience (date of visit, duration, favorite exhibit, etc.)
-* Assess their satisfaction with various aspects of the exhibit (overall satisfaction, exhibit quality, animal welfare, educational value, cleanliness, staff friendliness, etc.)
-* Gather feedback and suggestions for improvement
-
-Please review and validate this understanding before proceeding with creating the user-facing help guide.
-
-</thinking>
-
 # Animal Exhibit Visitor Satisfaction Assessment - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions from visitors to our animal exhibit. Please take a few minutes to answer the questions to help us improve your experience and the overall quality of our exhibit.

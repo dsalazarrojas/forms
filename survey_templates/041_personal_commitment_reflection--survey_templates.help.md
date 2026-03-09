@@ -1,7 +1,3 @@
-<thinking>
-The form "Personal Commitment Reflection" is intended to gather information from users on their personal growth and development goals, and how they reflect on their current state and goals. It is not intended for general users, but rather for specific stakeholders or teams within an organization that need to track and analyze this type of data. This form should not be filled out by people outside of this specific context.
-</thinking>
-
 # Personal Commitment Reflection - Help Guide
 ## Purpose
 The "Personal Commitment Reflection" form is designed to help users reflect on their personal growth, goals, and values. It is meant to be filled out by individuals who are part of a specific team or program within an organization.

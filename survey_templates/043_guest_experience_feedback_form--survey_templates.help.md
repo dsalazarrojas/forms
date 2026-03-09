@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Guest Experience Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from guests after their experience with our company. The purpose of this form is to gather information about their satisfaction and suggestions for improvement. By completing this form, you will be helping us understand how we can better serve our guests in the future.

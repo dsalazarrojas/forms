@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the "Educator Testimonial Collection" form, a tool for collecting feedback and opinions from educators. This form is a survey template designed to gather testimonials from educators, allowing institutions to gather valuable insights and opinions from their teaching staff. To ensure that you provide accurate and relevant information, please note that this form is designed for educational professionals and should only be used for collecting genuine testimonials. To avoid duplication, please ensure that you have not already submitted a testimonial for this form.
-
-</thinking>
-
 # Educator Testimonial Collection - Help Guide
 ## Purpose
 

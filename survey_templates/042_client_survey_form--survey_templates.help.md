@@ -1,9 +1,3 @@
-<thinking>
-
-As I review the provided YAML, I see that this is a client survey form designed to collect feedback and assess the quality of service received from a company. The form includes questions on the respondent's name, email address, preferred contact method, and their experience with the service or product. The form asks about their overall satisfaction, the quality of service, value for money, staff courtesy, timeliness, and their willingness to return and recommend the service. Additionally, there are fields for positive and negative aspects of their experience, additional comments, and areas of improvement.
-
-</thinking>
-
 # Client Survey Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients about their experience with our service or product. Your input is valuable to us, and we would love to hear about your thoughts, suggestions, and opinions. Please be honest and provide as much detail as possible.

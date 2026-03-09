@@ -1,9 +1,3 @@
-<thinking>... 
-
-We've designed this form to gather feedback from users before a conference. The purpose of this form is to understand attendees' expectations, provide a general feedback mechanism, gauge interest in conference boosting (e.g., sponsoring, promoting), and get an understanding of the session schedule and goals. This form will help us tailor the conference experience to better meet the needs of our attendees. We've tried to keep the form as simple and concise as possible, but please take a moment to review each field to ensure you're providing the information we need.
-
-</thinking>
-
 # pre-conference-survey - Help Guide
 ## Purpose
 The pre-conference survey is a form designed to gather information from attendees to help us tailor the conference experience to their needs.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # University Alumi Satisfaction Poll - Help Guide
 ## Purpose
 This form is designed to gather information from alumni about their satisfaction with their university experience. The goal is to collect data on various aspects of their time at university, including academic experience, communication, support services, and graduation outcomes. The data collected will help the university to understand the strengths and weaknesses of their programs and make informed decisions to improve the overall student experience.

@@ -1,6 +1,3 @@
-<thinking>...
-To assess the risk of wildfire in a household, the Wildfire Risk Assessment Form helps gather necessary information about the structure and its surroundings. This form aims to gather detailed information about the household's physical properties, safety measures, and emergency preparedness. This form is designed to identify potential risks and provide recommendations for mitigation. Please fill out this form carefully and honestly to ensure accurate risk assessment.
-</thinking>
 # Wildfire Risk Assessment Form - Help Guide
 ## Purpose
 The Wildfire Risk Assessment Form is a tool used to assess the risk of wildfire in a household. It is designed to gather detailed information about the household's physical properties, safety measures, and emergency preparedness.

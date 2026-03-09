@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Judaism Knowledge Quiz - Help Guide
 ## Purpose
 The Judaism Knowledge Quiz is a form designed to assess the knowledge of individuals about Judaism. This form aims to gather information about the user's basic knowledge of Judaism, including their name and submission details.

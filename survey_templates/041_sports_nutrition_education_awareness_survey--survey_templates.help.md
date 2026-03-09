@@ -1,7 +1,3 @@
-<thinking>
-This form is a survey to gather information on sports nutrition education awareness. It's designed to collect responses from users who have participated in a related program. Please note that this form should only be filled out by users who have actually taken part in the program and are providing feedback on their experience. Filling out this form more than once may result in duplicate entries. To avoid duplication, only one entry per user is allowed.
-</thinking>
-
 # sports_nutrition_education_awareness_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and insights from users on their experience with sports nutrition education awareness programs.

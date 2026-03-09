@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Assignment Topic Voting Form - Help Guide
 
 ## Purpose

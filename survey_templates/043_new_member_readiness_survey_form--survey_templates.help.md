@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to assess the readiness of new members to join our community. It's a series of questions that gather information about the background, interests, and preferences of new members. Please fill out this form to help us get to know you better and ensure a smooth transition into our community.
-
-Before starting, please check that you have completed all the required fields and select the options that apply to you. You can always save and return to the form later if needed.
-
-Please fill out the form carefully, and if you're unsure about any question, feel free to ask.
-
-This form consists of multiple pages, but you can navigate through it easily. Each field has a specific purpose, so read the explanations carefully to understand what's expected of you.
-
-Please note that some fields are mandatory (indicated by a '*'), and you must complete them to proceed.
-
-When you're finished, you can submit your answers, and we'll review them to ensure your readiness to join our community.
-</thinking>
-
 # New Member Readiness Survey Form - Help Guide
 ## Purpose
 This form is designed to gather information about new members' background, interests, and preferences to ensure a smooth transition into our community.

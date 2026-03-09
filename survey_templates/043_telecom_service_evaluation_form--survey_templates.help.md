@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about their experiences with telecom services provided by your company. It is crucial to ensure the form is filled out by users who have a direct experience with these services, as this feedback will be used to make informed decisions about the quality and value of these services.
-The goal is to gather both quantitative and qualitative feedback. This form is not mandatory, and users are free to leave it blank if they do not have any comments. However, please note that this feedback is invaluable for us to improve our services.
-</thinking>
-
 # Telecom Service Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather your feedback about your experience with our telecom services. Your input will help us improve our services and better serve you and other customers.

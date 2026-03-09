@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Breakup Recovery Reflection Form - Help Guide
 
 ## Purpose

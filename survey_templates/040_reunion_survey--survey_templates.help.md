@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for an event or reunion. This form should only be used for events that are specific and recurring, such as a family reunion, class reunion, or team reunion. Please do not use this form for one-time events or non-specific events. It is essential to ensure that the event details are accurate and up-to-date to ensure that the information gathered is reliable.
-</thinking>
 # Reunion Survey - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...the form "Download The UX Checklist" is designed to collect information from users interested in downloading a UX design checklist. This form is used to gather contact information and provide a download link for the checklist. The form is divided into multiple pages, each containing a set of fields. Users must complete the form by filling out each field according to the guidelines below.</thinking>
-
 # Download The UX Checklist - Help Guide
 ## Purpose
 This form is used to collect contact information and provide a download link for the UX design checklist.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from customers on their experiences and concerns regarding the reopening of a bar after a closure. This form aims to understand their preferences and expectations for a safe and comfortable environment. Please ensure you are taking this survey if you have visited the bar before its closure. This form is not intended for employees or staff members of the bar. Please fill out this form thoroughly and honestly to help us improve our services.
-</thinking>
-
 # Bar Reopening Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers on their expectations and preferences for a safe and comfortable reopening of the bar. Your input will help us improve our services and provide a better experience for you and our staff.

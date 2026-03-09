@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback and opinions on the college's seal size and design. It asks respondents about their familiarity with the seal, its current size and location on official documents and website, and their overall satisfaction with its use. The form is intended to be completed by individuals who are familiar with the college's seal, such as students, faculty, staff, and alumni. The responses will help the college understand how to effectively use the seal in various contexts and make informed decisions about its design and size.
-
-</thinking>
-
 # College Size Seal Survey - Help Guide
 ## Purpose
 The College Size Seal Survey is designed to gather feedback and opinions on the college's seal size and design. This information will be used to inform future decisions about the use of the college seal in official contexts.

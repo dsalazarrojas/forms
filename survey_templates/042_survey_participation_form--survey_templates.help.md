@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect participation information from users who have attended an event. The purpose of this form is to gather data on participant demographics and feedback. Before filling out this form, please ensure that you have actually attended the event and are not duplicating your entry. If you've already submitted this form, please do not submit again.
-</thinking>
-
 # survey_participation_form - Help Guide
 ## Purpose
 The survey participation form is used to collect information from event attendees.

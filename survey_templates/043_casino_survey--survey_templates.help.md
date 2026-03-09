@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a help guide for the "Casino Survey" form that explains its purpose, how to complete it, and what each field means.</thinking>
-
 # Casino Survey - Help Guide
 
 ## Purpose

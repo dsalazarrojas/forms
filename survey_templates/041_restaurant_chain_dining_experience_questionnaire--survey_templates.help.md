@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "restaurant_chain_dining_experience_questionnaire" form. After reviewing the provided YAML fields, I'll ensure that the guide is concise, practical, and easy to understand. The form appears to be a survey or questionnaire for customers to provide feedback on their dining experience at various restaurant chains. The fields include questions about the restaurant's experience, food quality, overall satisfaction, and comments. To avoid duplication, I'll focus on creating a clear and concise guide that covers the purpose, completion process, and a field-by-field explanation of each section.</thinking>
-
 # restaurant_chain_dining_experience_questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers about their dining experience at various restaurant chains. By providing their feedback, you'll help us improve our services and ensure that your next visit is even better.

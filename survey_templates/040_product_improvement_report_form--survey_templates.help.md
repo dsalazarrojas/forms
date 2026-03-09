@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a feedback mechanism for users to report any improvements or issues with a product. The goal is to collect suggestions and insights from users to improve the product's functionality, user experience, and overall quality.
-</thinking>
-
 # Product Improvement Report Form - Help Guide
 ## Purpose
 The Product Improvement Report Form is a tool for users to report any improvements or issues with our product. This form is designed to collect suggestions and insights from users to help us improve the product's functionality, user experience, and overall quality.

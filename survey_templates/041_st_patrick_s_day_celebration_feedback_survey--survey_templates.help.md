@@ -1,5 +1,3 @@
-<thinking>...the form is a survey designed to gather feedback from attendees at a St. Patricks Day event, aiming to gauge interest in the event, attendees' overall satisfaction, and gather any comments or suggestions. This form will help us understand how to improve future events. Please note that this is a sample form and might not be filled out by all attendees. If you are unsure whether you attended the event or not, please answer accordingly...</thinking>
-
 # St. Patricks Day Celebration Feedback Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback from attendees at a St. Patricks Day event. It will help us understand your experience and interest in the event, which will inform us on how to improve future events.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess the success of a fundraising campaign by collecting feedback and data from participants and donors. It's likely that this form will be used to evaluate the campaign's effectiveness, identify areas for improvement, and inform future campaign strategies. The form is likely to be used by fundraising teams or campaign managers to gather insights that can be used to refine their tactics and achieve better results.
-
-Before starting to complete this form, please ensure that you have all the necessary information and data ready. This form is divided into several sections, each focusing on a specific aspect of the campaign. You can navigate through the form by clicking on the next page button at the bottom of each page.
-
-</thinking>
-
 # Fundraising Campaign Success Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the success of a fundraising campaign by collecting feedback and data from participants and donors.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from trial participants on their experience with a beauty product trial program. The purpose of this form is to gather information on the effectiveness of the trial program and the product, as well as to identify areas of improvement. By collecting data on the trial participants' experiences, the program can be refined to better meet the needs of its participants and to improve product sales.
-
-The questions in this form are designed to cover various aspects of the trial program, including the program's convenience, product quality, and conversion rates. The data collected will help the organization behind the program to make informed decisions about future program development and to identify opportunities to improve the customer experience.
-
-Please note that this form is not affiliated with or endorsed by any form platform, and it is designed to be used as a standalone survey tool.
-
-</thinking>
-
 # Beauty Product Trial Conversion Survey - Help Guide
 ## Purpose
 The Beauty Product Trial Conversion Survey is designed to collect feedback from trial participants on their experience with a beauty product trial program. This survey aims to gather information on the effectiveness of the trial program and the product, as well as to identify areas of improvement.

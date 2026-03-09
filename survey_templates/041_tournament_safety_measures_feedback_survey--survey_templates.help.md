@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to gather feedback on the safety measures in place during a tournament. The purpose of this survey is to understand how well the tournament organizers implemented safety measures to ensure the participants' safety. This form will help identify areas of improvement and provide insights for future events. This form will only be sent to participants who are not already known to us, or to participants who have opted-in for feedback. We will not collect any identifying information about the participants and we will not contact them after they have submitted this form.
-
-</thinking>
-
 # Tournament Safety Measures Feedback Survey - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect campaign outcome data for Donor Campaigns. It helps to track campaign performance and donor feedback in a structured way. Each section is designed to collect specific information that can aid in analyzing and reporting on campaign success.
-
-Before you begin, please check that this form is not part of a recurring task and that you have all required information at hand, as some fields are not required.
-
-To start, begin with "Donor Campaign Outcome Report Form" and follow the steps below:
-</thinking>
-
 # Donor Campaign Outcome Report Form - Help Guide
 
 ## Purpose

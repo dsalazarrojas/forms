@@ -1,11 +1,3 @@
-<thinking>
-
-This form is likely used to collect information about user availability for a holiday party. It could be used to gauge interest in attending a holiday gathering and to gather information about time and date preferences. 
-
-The form might be sent out to a large group of people, and users will be able to select multiple options for each field, allowing for some flexibility in planning. The form is likely used by party organizers to plan the event around the majority of people's availability.
-
-</thinking>
-
 # Holiday Party Availability Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your availability and preferences for a holiday party. Please answer the questions to help us plan the event.

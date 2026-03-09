@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form, "Post Purchase Survey", is used to gather feedback from customers after they've made a purchase. The form collects demographic information about the customer, and their opinions on the product's quality and price. This information is used to improve the customer experience and the overall quality of the products offered by the company.</thinking>
-
 # Post Purchase Survey - Help Guide
 ## Purpose
 The Post Purchase Survey form is designed to gather feedback from customers after they've made a purchase. This feedback helps us improve the customer experience and the overall quality of our products.

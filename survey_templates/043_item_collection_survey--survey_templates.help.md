@@ -1,9 +1,3 @@
-<thinking>
-This form is a survey template used for collecting item information. It is intended to gather data about a specific item, such as its name, category, description, price, and other relevant details. The form is designed to be completed by users who have access to the item and are familiar with its characteristics.
-The form should only be used to collect data for items that are relevant to the current project or task, and not for general-purpose data collection. It is essential to fill out this form only once per item to avoid duplication of data.
-This form should not be used for collecting sensitive or confidential information.
-</thinking>
-
 # item_collection_survey - Help Guide
 ## Purpose
 This survey template is used to collect item information, such as its name, category, description, price, and other relevant details.

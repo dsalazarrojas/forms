@@ -1,38 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Distance And Color Measurement Survey" form, let's analyze the provided YAML schema and identify the form's purpose and key fields. This form is designed to collect information about distance and color measurements, likely for quality control or inspection purposes. The form likely serves as a tool for surveyors or inspectors to report on their measurements, providing data for analysis and improvement.
-
-The form appears to have two main sections: distance measurement and color measurement. Each section contains multiple fields, including:
-
-*   Distance type
-*   Distance unit
-*   Color type
-*   Distance accuracy
-*   Color accuracy
-*   Distance measurement tool
-*   Color measurement tool
-*   Distance measurement practice
-*   Color measurement practice
-*   Accuracy expectations
-*   Distance accuracy expected
-*   Color accuracy expected
-*   Tool accuracy
-*   Improvement opportunities
-*   Distance accuracy opportunities
-*   Color accuracy opportunities
-*   Distance measurement comments
-*   Color measurement comments
-*   Distance measurement improved
-*   Color measurement improved
-*   Distance measurement important
-*   Color measurement important
-*   Distance measurement suggestions
-*   Color measurement suggestions
-*   Assigned tool
-
-The form seems to collect data for both distance and color measurements, focusing on types, units, accuracies, tools, practices, and improvement opportunities. The fields with a note type likely provide a section for users to add notes or comments.
-
-</thinking>
-
 # Distance And Color Measurement Survey - Help Guide
 ## Purpose
 

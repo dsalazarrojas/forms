@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Patient Visit Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients about their visit to the hospital. The purpose of this form is to gather information about the overall rating of the patient's visit, the ratings of the doctor and staff, and to collect any recommendations or suggestions the patient may have.

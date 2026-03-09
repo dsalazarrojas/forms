@@ -1,8 +1,3 @@
-<thinking>
-Please ensure that this form is being used for the intended purpose of evaluating law enforcement performance. The form is meant to be used by law enforcement officers to provide feedback on their performance, and it's crucial to understand that the purpose is to gather information to aid in professional development and improve community relations. 
-To avoid duplication or misinterpretation of the data, please do not use this form for other purposes, such as for official disciplinary actions or as an official record of performance.
-</thinking>
-
 # Law Enforcement Performance Feedback Form - Help Guide
 ## Purpose
 The Law Enforcement Performance Feedback Form is designed to help law enforcement officers provide feedback on their performance in specific incidents or situations. This form is meant to aid in the professional development and improve community relations.

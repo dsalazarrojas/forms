@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from clients about their experience with a pet sitter. The purpose of this form is to help the business understand how well the pet sitter meets the expectations of its clients and to identify areas for improvement. This form is intended for clients who have used the pet sitter's services and wish to provide their feedback.
-
-</thinking>
-
 # Pet Sitter Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from clients about their experience with a pet sitter. The feedback is used to help the business understand how well the pet sitter meets the expectations of its clients and to identify areas for improvement.

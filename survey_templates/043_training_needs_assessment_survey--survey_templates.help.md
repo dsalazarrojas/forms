@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for assessing training needs of users in an organization. Its purpose is to gather information about each user's demographics and training requirements. The form asks about the user's demographic info, including education level, gender, and job title, as well as their training needs, such as preferred language, location, and type of training.
-
-Before filling out this form, please ensure that you are not taking the survey again if you have already taken it in the past. This will help us avoid duplicate submissions and ensure that your responses are not counted multiple times.
-
-</thinking>
-
 # Training Needs Assessment Survey - Help Guide
 ## Purpose
 The Training Needs Assessment Survey is designed to gather information about each user's demographics and training requirements to provide better training services that meet your needs.

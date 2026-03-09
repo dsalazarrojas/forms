@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to collect feedback on the user's experience with a particular issue or product. The form is designed to gather both hot feedback (positive or negative reactions) and cold feedback (comments on how the issue was handled). The form has multiple fields to capture various aspects of the user's experience, including their ratings, comments, and next steps. It's essential to complete this form accurately to provide valuable insights for improvement.
-
-This form will be used by [insert stakeholders or team members here, e.g., Product Managers, Customer Support, etc.].
-
-Before completing this form, please ensure you have not already provided feedback on this issue. Duplicate feedback may not be recorded.
-
-This form is intended to be completed by individuals who have experienced the issue personally.
-</thinking>
-
 # Hot And Cold Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on your experience with a particular issue or product.

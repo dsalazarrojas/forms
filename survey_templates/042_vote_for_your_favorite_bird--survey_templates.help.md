@@ -1,5 +1,3 @@
-<thinking>...This form is designed to be a fun and interactive experience for users to share their preferences and interests. This form is likely being used in a survey context to gather information about users' favorite bird species. The form includes questions about users' personal details, contact preferences, and how they heard about the organization. It's essential to provide clear guidance for users to understand the purpose and requirements of the form to ensure accurate and consistent responses. By following this guide, users will be able to complete the form efficiently and effectively. We also check that this guide does not introduce any non-duplication of questions or fields that might make the user's experience worse.</thinking>
-
 # Vote For Your Favorite Bird - Help Guide
 ## Purpose
 The "Vote For Your Favorite Bird" form is a survey designed to gather information about users' favorite bird species. This form is used to gather data that will help us understand user preferences and interests.

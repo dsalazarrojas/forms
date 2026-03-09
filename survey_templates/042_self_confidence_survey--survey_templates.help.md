@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the form is intended to measure an individual's self-confidence in various aspects, such as their ability to accomplish goals, take on new challenges, possess relevant skills and knowledge, and make decisions. This form will be used to assess their self-confidence levels and potentially identify areas where they may need improvement. Please ensure that this form is not duplicated or used for any other purpose.
-</thinking>
-
 # Self Confidence Survey - Help Guide
 ## Purpose
 This survey aims to assess your self-confidence in different areas of your life. Please answer the questions honestly, and provide clear and detailed responses where required.

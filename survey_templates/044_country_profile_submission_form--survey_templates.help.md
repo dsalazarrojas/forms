@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect country profiles, including the country itself, key facts, descriptions, email, phone number, date, time, any additional note, and a unique country ID. To ensure accurate and relevant submissions, please review the following guidelines before filling out the form:
-
-* This form should only be used for countries that are not already profiled in the database.
-* Ensure that you are filling out the form for the correct country.
-* If you are unsure about any field, refer to the help guide below.
-
-</thinking>
-
 # Country Profile Submission Form - Help Guide
 
 ## Purpose

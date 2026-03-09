@@ -1,7 +1,3 @@
-<thinking>
-This form is a survey template designed to collect opinions and thoughts from participants on various topics related to inspirational discussions. Before proceeding, please ensure that you have the necessary authority to complete this form and that you have not already submitted your thoughts on this specific set of topics. This form is intended for internal use within the organization and is not designed for external sharing or publication.
-</thinking>
-
 # inspirational_discussion_form - Help Guide
 ## Purpose
 The inspirational_discussion_form is a survey template used to gather opinions and thoughts from participants on inspirational topics. The form is designed to collect feedback, insights, and suggestions on various topics, allowing the organization to better understand the needs and interests of its community.

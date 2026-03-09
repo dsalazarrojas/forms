@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect statistical measures survey data. It appears to be a comprehensive form collecting various types of measures, including measures of central tendency, variability, and association. This form is likely used in academic, research, or statistical analysis settings where data collection is crucial.
-
-To ensure that each field is filled in correctly and that the data is complete and accurate, we will cover each field's purpose and explanation. 
-
-</thinking>
-
 # Statistical Measures Survey - Help Guide
 ## Purpose
 This survey is designed to collect various statistical measures, including measures of central tendency, variability, and association. The purpose of this survey is to gather information from participants to understand their responses in relation to these statistical measures.

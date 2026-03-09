@@ -1,15 +1,3 @@
-<thinking>**Form Designer and Technical Writer Notes**
-
-This form is designed to collect opinions about beverage packaging design from respondents. The form has two main sections: a demographics section (questions 1-2) and the packaging design survey section (questions 3-20). 
-
-Before proceeding, the respondent is asked for their name, which is required for follow-up surveys or other internal use. They are also asked to select a beverage category for which they are providing feedback. The main design section is self-explanatory, asking for their opinion on different aspects of the packaging design, from overall visual appeal to sustainability impression. 
-
-The form has two questions for respondents to provide free text answers. They can select their favorite and least favorite elements, and suggest improvements. The final question asks how this packaging design compares to competitors. The form is designed to be easy to complete and self-explanatory.
-
-**Before filling out this form, please review the survey instructions and questions carefully. If you are unsure of a question, please ask for clarification.**
-
-</thinking>
-
 # Beverage Packaging Design Opinion Survey - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to index knowledge quizzes, which are a type of assessment used to evaluate an individual's knowledge on a specific subject or topic. The form is used to collect information about the quiz, including the type of quiz, questions, and score. This form is not intended to be used for other purposes, such as general user feedback or contact information. Before proceeding, please ensure that you are completing this form for its intended purpose, and that you have not already done so. 
-</thinking>
-
 # Indexing Knowledge Quiz - Help Guide
 ## Purpose
 

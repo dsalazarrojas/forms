@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for surveying individuals about their plans and concerns related to celebrating holidays during the COVID-19 pandemic. It will help gather information on how people intend to celebrate holidays, where and with whom they will do so, and any precautions they are taking or intend to take to prevent the spread of the virus. This form is not intended for individuals who do not celebrate holidays or do not have any plans in place.
-Please note that this form does not duplicate any other form. The responses will help in understanding the current situation and provide valuable insights for future preparations.</thinking>
-
 # COVID 19 Holiday Survey Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about how individuals plan to celebrate holidays during the COVID-19 pandemic. This will help in understanding the current situation and preparing for future holiday celebrations.

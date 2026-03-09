@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information from users about their volunteer engagement experiences. It's possible that you're already have a form for this purpose, but in any case, let's ensure that we're using it correctly.
-</thinking>
-
 # Volunteer Engagement Challenge Poll - Help Guide
 ## Purpose
 The Volunteer Engagement Challenge Poll is a form used to collect information from users about their volunteer engagement experiences, including their name, email, organization, experience, and feedback.

@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is used to gather information about individuals who have gone through the bankruptcy process. The purpose of this form is to collect demographic and financial information from respondents to understand their experiences, challenges, and opinions about the process. This data can be used to identify areas for improvement and develop more effective support services for individuals in similar situations. To avoid duplication of effort, respondents who have already filled out this form should not be allowed to fill it out again.
-</thinking>
-
 # Bankruptcy Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your experiences and opinions about the bankruptcy process. Your responses will help us understand how we can improve our services to better support individuals in similar situations.

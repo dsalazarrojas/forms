@@ -1,5 +1,3 @@
-<thinking>This form is designed to measure customer engagement, gather information about employees, and assess their satisfaction with various aspects of their job or department. This form is likely used in an organizational or business setting to collect feedback and insights from customers, employees, or stakeholders. The form asks for demographic information, such as name, email, and phone number, as well as specific questions tailored to different departments or roles. Some questions are multiple-choice select, single-choice select, or multiple-select questions, indicating varying levels of complexity and scope. This form is meant to be completed by customers or employees, and the required questions are marked accordingly. To avoid duplication, ensure that each question has a unique ID and that the form is completed thoroughly and accurately.</thinking>
-
 # customer_engagement_survey - Help Guide
 ## Purpose
 The customer engagement survey is designed to gather feedback and insights from customers or employees about their experiences and perceptions of a specific aspect of the organization or business.

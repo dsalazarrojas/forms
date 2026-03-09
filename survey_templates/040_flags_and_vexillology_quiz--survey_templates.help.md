@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about flags and vexillology. Vexillology is the study of flags and their designs, which can be a fascinating subject for enthusiasts. The goal of this form is to gather data on flags and vexillology-related topics to better understand the interests and preferences of the users.
-</thinking>
-
 # Flags And Vexillology Quiz - Help Guide
 ## Purpose
 The Flags And Vexillology Quiz form is designed to collect information about flags and vexillology. The form will ask you to select some options, provide answers, and submit your comments, email, phone number, and notes.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a survey designed to collect information about team dynamics, which is the interactions and relationships within a team that affect the team's performance and overall well-being. The purpose of this survey is to help teams understand their strengths and weaknesses, identify areas for improvement, and develop strategies to enhance collaboration and teamwork.
-
-To avoid duplication of effort, please only fill out this survey once per team.
-
-</thinking>
-
 # Fun Group Dynamics Survey - Help Guide
 
 ## Purpose

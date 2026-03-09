@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users on the features of the web application. The purpose of this form is to help us understand which features are important to our users and which ones need improvement. By completing this form, you will be helping us make informed decisions about how to develop our web application. Please note that you can complete this form multiple times with different answers, and it's okay if you've already completed it before.
-
-</thinking>
 # Web Application Features Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the features of our web application. Your input will help us understand which features are important to you and which ones need improvement.

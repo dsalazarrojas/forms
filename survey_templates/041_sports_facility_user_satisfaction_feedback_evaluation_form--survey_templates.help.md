@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to gauge users' satisfaction with sports facilities they have visited, helping administrators and staff to improve the overall user experience.
-Before proceeding, we want to ensure that users understand what the form is asking for, and what information is required from them. We also need to consider any potential duplication of effort or information gathering.
-
-Given this understanding, the form's purpose is to capture essential information about the user's satisfaction, which will be used for internal evaluation and potential future improvements.
-This form should be completed by users who have visited the sports facility at least once.
-
-This section of the help guide is for end-users.
-</thinking>
-
 # Sports Facility User Satisfaction Feedback Evaluation Form - Help Guide
 
 ## Purpose

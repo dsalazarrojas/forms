@@ -1,8 +1,3 @@
-<thinking>
-This form, "service_feedback_questionnaire", is intended to gather feedback from customers on their overall experience at the service location. It collects information on various aspects such as overall satisfaction, staff service quality, and service frequency. This form will likely be filled out by customers after they have received a service, allowing them to provide a detailed review of their experience.
-It should not be used for duplicate or irrelevant feedback.
-</thinking>
-
 # service_feedback_questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from customers on their overall experience at the service location.

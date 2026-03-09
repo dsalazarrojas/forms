@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and insights from patients about their experiences with digital health tools and services. The purpose of this form is to understand how patients feel about their healthcare experience, what they like or dislike, and how they would like to see digital health tools and services improved. This form is intended to be completed by patients who have used digital health tools and services and have a genuine interest in providing feedback. Please note that this form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation of public survey topic metadata.
-</thinking>
-
 # Patient Empowerment In Digital Health Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and insights from patients about their experiences with digital health tools and services.

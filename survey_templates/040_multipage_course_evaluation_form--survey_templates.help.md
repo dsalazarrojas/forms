@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # MultiPage Course Evaluation Form - Help Guide
 
 ## Purpose

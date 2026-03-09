@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to gauge the awareness and participation levels of government schemes among the target population. It is intended to gather information on how well the schemes are understood and utilized by the individuals or groups being served. The form is likely to be used by government agencies, research institutions, or non-profit organizations to collect data on the effectiveness and accessibility of their schemes.
-
-This form is designed to be completed by individuals or groups that have interacted with or have knowledge about the government schemes in question.
-
-The following questions are designed to gather specific information from the respondents, and some fields are optional while others are required.
-
-Before proceeding, please ensure that you have a good understanding of the scheme being asked about and that you are not completing this form in duplicate.
-
-</thinking>
-
 # Government Scheme Awareness Survey - Help Guide
 ## Purpose
 The Government Scheme Awareness Survey is a form designed to collect information on the awareness and participation levels of government schemes among the target population.

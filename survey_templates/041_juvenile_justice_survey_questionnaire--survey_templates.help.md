@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the juvenile justice system, its various components, and the relationships between them. The purpose of this survey is to gather data on how different stakeholders perceive and interact with the juvenile justice system. The form is not affiliated with any specific form platform and is an original adaptation of public survey topic metadata.
-</thinking>
-
 # Juvenile Justice Survey Questionnaire - Help Guide
 ## Purpose
 The juvenile justice system is a complex network of services and interventions that aim to support the well-being and rehabilitation of young people who have committed crimes or are at risk of committing crimes. This survey aims to gather your insights and opinions on the different components of the juvenile justice system, including what it refers to, who it involves, and its various aspects such as justice, court, protection, welfare, family, education, health, housing, employment, safety net, law enforcement, social services, court case, case manager, service providers, service recipients, and court order.

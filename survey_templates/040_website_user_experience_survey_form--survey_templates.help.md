@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Website User Experience Survey Form - Help Guide
 
 ## Purpose

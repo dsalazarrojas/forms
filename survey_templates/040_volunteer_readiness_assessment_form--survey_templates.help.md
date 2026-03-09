@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an individual's readiness to become a volunteer. It asks questions about their skills, availability, interests, experience, and preferences to gauge their suitability for volunteer work. The form is composed of multiple pages, each with a set of questions that aim to gather specific information about the individual's background and characteristics. To complete this form, users will be asked to provide details about their skills, availability, interests, experience, and preferences, as well as their contact information and emergency contact details. The form does not require any personal identifiable information, and the questions are designed to be clear and concise to ensure that users can provide accurate and meaningful answers.
-</thinking>
-
 # Volunteer Readiness Assessment Form - Help Guide
 ## Purpose
 The Volunteer Readiness Assessment Form is designed to help us understand your volunteer characteristics and preferences. Your responses will help us to determine your suitability for volunteer opportunities.

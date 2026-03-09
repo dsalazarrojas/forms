@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from students and teachers about their yearbook experiences. It is likely used by school administrators or teachers to gather data for yearbook creation and planning purposes. This form should not be used for other purposes such as data collection for marketing or sales efforts.
-
-The fields on this form are likely related to student and teacher information, such as names, contacts, and dates. The form might be used to track student progress, teacher availability, or yearbook deadlines.
-
-</thinking>
-
 # Yearbook Survey - Help Guide
 
 ## Purpose

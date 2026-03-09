@@ -1,7 +1,3 @@
-<thinking>
-To ensure we're on the same page, this form is intended to gather feedback from employees on their office environment and work experiences. It will help identify areas for improvement and facilitate more effective office organization and employee satisfaction. Please note that the form is designed to be comprehensive, but not exhaustive, and you're welcome to provide any additional suggestions or comments. Before starting, review the form to ensure you've not already provided feedback in the past.
-</thinking>
-
 # Office Organization Feedback Form - Help Guide
 ## Purpose
 This form collects feedback from employees on their office space, resources, and work environment. The goal is to identify areas for improvement and help create a more efficient and satisfying work space.

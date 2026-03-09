@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is intended to help students understand the Student Financial Wellness Survey form, which is used to gauge students' attitudes, behaviors, and perceptions regarding their financial well-being. This survey aims to gather information on students' financial habits, challenges, and support systems, as well as their financial literacy, resilience, and goals. The survey is designed to provide insights into students' financial wellness and help administrators or financial advisors tailor support services accordingly. This guide will explain each section of the form and its purpose to facilitate a smooth and accurate submission.
 
 # Student Financial Wellness Survey - Help Guide

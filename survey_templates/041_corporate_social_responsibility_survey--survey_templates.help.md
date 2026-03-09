@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Social Responsibility Survey - Help Guide
 ## Purpose
 This Corporate Social Responsibility Survey is designed to measure the awareness, perception, and attitudes of employees towards corporate social responsibility (CSR) practices within the organization. The survey aims to gather information on various CSR initiatives, their effectiveness, and areas for improvement.

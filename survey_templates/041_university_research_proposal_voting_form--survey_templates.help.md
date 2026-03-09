@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # University Research Proposal Voting Form - Help Guide
 
 ## Purpose

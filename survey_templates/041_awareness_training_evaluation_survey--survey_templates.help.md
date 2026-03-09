@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Awareness Training Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to evaluate the effectiveness of an awareness training session. The survey asks about the participant's information, training experience, and feedback on the session's content and organization. It helps trainers and training teams assess the effectiveness of their training programs and identify areas for improvement.

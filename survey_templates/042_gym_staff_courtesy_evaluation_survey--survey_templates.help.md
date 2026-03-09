@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect feedback from gym-goers regarding their overall experience at the gym, specifically focusing on staff courtesy, cleanliness, amenities, and overall satisfaction. This information will help the gym management understand areas of improvement and maintain a good reputation among its customers... </thinking>
-
 # Gym Staff Courtesy Evaluation Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand your experience at our gym, specifically your impressions of the staff courtesy, cleanliness, and overall satisfaction.

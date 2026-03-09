@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback and practical work data from students in the healthcare industry. The purpose of this form is to gather information on students' work experiences, supervisor feedback, overall rating, and other relevant details. This form should not be used for other purposes or as a duplicate for the same student. Ensure that each student's form is submitted once.
-</thinking>
-
 # health_care_practical_work_feedback - Help Guide
 ## Purpose
 This form is used to collect feedback and practical work data from students in the healthcare industry.

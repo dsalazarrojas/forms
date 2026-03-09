@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to check for form purpose and non-duplication ...
-This form is used to gather information about the Marketing Mix (4Ps) of a product. The 4Ps stand for Product, Price, Place, and Promotion. This form is likely used by marketers or business analysts to understand the customer's behavior and preferences when it comes to these aspects. The form should be used to collect data from customers who have interacted with the product in the past or are familiar with it.
-
-Form Purpose: 
-To collect demographic information and preferences of customers about a product, specifically about their visit frequency, relationship with the brand, satisfaction with the product, price perception, delivery time, gender, income, occupation, education level, marital status, and visit frequency.
-
-No duplication of fields is expected, as each field seems to be asking a different question or collecting a different type of data...</thinking>
-
 # Marketing Mix (4Ps) Survey Questionnaire - Help Guide
 
 ## Purpose

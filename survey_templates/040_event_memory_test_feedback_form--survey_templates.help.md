@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from participants on the overall difficulty level, recall level, and other aspects of an event memory test. It is crucial that participants provide honest and constructive feedback to help refine and improve the event memory test. However, before filling out this form, please ensure you have completed the event memory test and are providing feedback based on your genuine experience. To avoid confusion, please refrain from duplicating your answers if you have already filled out the same form for another event.
-
-</thinking>
-
 # Event Memory Test Feedback Form - Help Guide
 ## Purpose
 The Event Memory Test Feedback Form is designed to gather feedback from participants on their overall experience with the event memory test. Your input will help improve the test and provide a better experience for future participants.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about solar programs, which are essential for evaluating and improving the efficiency and effectiveness of solar-powered projects. The survey aims to gather data on key aspects of these projects, including company details, project status, location, and other relevant metrics. This form will help us understand what works well and what areas need improvement in our solar program. We should ensure that this form is filled out accurately and consistently to provide valuable insights.
-</thinking>
-
 # Solar Program Survey - Help Guide
 ## Purpose
 The Solar Program Survey form is designed to collect information about solar-powered projects, helping us to understand the effectiveness and efficiency of our solar program. Please fill out this form to provide your input and help us improve our program.

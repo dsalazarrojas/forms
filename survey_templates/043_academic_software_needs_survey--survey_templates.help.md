@@ -1,7 +1,3 @@
-<thinking>
-We are designing a form for gathering feedback from users on their academic software needs. This form is intended to help us understand the current state of software usage in academic settings and identify areas where new software development can be beneficial. We want to collect information from various roles within institutions to get a comprehensive understanding of the different needs and requirements. Please complete this form accurately and thoroughly to help us better serve the academic software needs of your institution.
-</thinking>
-
 # Academic Software Needs Survey - Help Guide
 
 ## Purpose

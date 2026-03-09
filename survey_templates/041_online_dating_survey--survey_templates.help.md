@@ -1,7 +1,3 @@
-<thinking>
-I'll create a comprehensive help guide for the "Online Dating Survey" form, making sure to cover its purpose, how to complete it, and a field-by-field explanation. This will ensure that end-users understand the form's requirements and can accurately fill out the form without any confusion or errors.
-</thinking>
-
 # Online Dating Survey - Help Guide
 ## Purpose
 The "Online Dating Survey" form is designed to collect information about users' behavior and preferences when it comes to online dating. By completing this survey, you will help us better understand how people interact with online dating platforms and what they value when searching for a romantic partner or relationships online.

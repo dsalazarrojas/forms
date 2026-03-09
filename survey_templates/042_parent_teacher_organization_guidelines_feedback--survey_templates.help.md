@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect feedback from teachers and parents regarding the parent-teacher organization guidelines. The form will help identify areas of improvement and provide a clear understanding of the feedback provided. Please ensure that the feedback is specific, concrete, and focused on the guidelines rather than personal opinions. To avoid duplication of efforts, please fill out the form only once you have read and reviewed the current guidelines. 
-
-Please note that the fields marked as "optional" can be skipped if the respondent doesn't have an opinion or doesn't want to provide the information. 
-
-</thinking>
-
 # Parent Teacher Organization Guidelines Feedback - Help Guide
 ## Purpose
 The "Parent Teacher Organization Guidelines Feedback" form is a survey to gather feedback from teachers and parents to help us improve the parent-teacher organization guidelines. Your input will help us identify areas that need improvement, ensuring that the guidelines are clear, useful, and effective.

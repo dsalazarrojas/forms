@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hardware Maintenance Feedback Form - Help Guide
 
 ## Purpose

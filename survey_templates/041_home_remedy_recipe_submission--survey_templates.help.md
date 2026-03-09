@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect home remedy recipes from users. It is meant to be a fun and engaging way for users to share their personal recipes and tips for treating common health issues without needing to see a doctor. This form does not duplicate the functionality of other forms in our platform, and its purpose is to gather unique and valuable user-generated content that will help others find effective solutions to their health concerns.
-</thinking>
-
 # Home Remedy Recipe Submission - Help Guide
 
 ## Purpose

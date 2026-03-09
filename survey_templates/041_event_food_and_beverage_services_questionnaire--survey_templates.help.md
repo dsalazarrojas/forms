@@ -1,7 +1,3 @@
-<thinking>
-This help guide will be used to assist end users in understanding the Event Food And Beverage Services Questionnaire form. The form is used to gather information on the food and beverage services provided at an event, which can help event organizers assess the quality of these services and identify areas for improvement. This guide will cover the purpose of the form, how to complete it, and a field-by-field explanation of each field.
-</thinking>
-
 # Event Food And Beverage Services Questionnaire - Help Guide
 
 ## Purpose

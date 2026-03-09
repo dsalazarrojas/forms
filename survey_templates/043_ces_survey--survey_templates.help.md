@@ -1,7 +1,3 @@
-<thinking>
-We should verify that the form is used for its intended purpose and not duplicated. This form is designed to collect feedback on the customer's experience with the company, specifically their perception of the effort required to resolve an issue. It's essential to ensure that the form is not used for other purposes, such as collecting general feedback or sales inquiries. The form is likely used by support teams to gauge their performance and make necessary improvements. We should also ensure that the form is not filled out by customers who have not experienced an issue or have not interacted with the company recently, as their feedback might not be relevant.
-</thinking>
-
 # Customer Effort Score (CES) Survey - Help Guide
 ## Purpose
 The Customer Effort Score (CES) Survey is designed to measure the customer's perception of the effort required to resolve an issue with your company. It's a crucial tool for support teams to gauge their performance and make necessary improvements to provide better service.

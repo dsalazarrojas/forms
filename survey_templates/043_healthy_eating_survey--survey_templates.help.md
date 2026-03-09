@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about users' eating habits and preferences. This includes their choices on food items and dietary preferences. This form appears to be used in a health-related context, such as collecting data for research or analysis. Please verify that you are in the correct context before proceeding with the survey. Additionally, please note that this form is not meant for users who do not have the necessary knowledge or willingness to provide accurate answers. If you are unsure or have questions, it is best to contact the survey administrator before completing the form.
-</thinking>
 # healthy_eating_survey - Help Guide
 ## Purpose
 The healthy_eating_survey form is designed to collect information about users' eating habits and preferences.

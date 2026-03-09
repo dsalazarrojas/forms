@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about an organization's workforce inclusion strategy. It's essential to understand that this form is not affiliated with, endorsed by, or derived from any form platform, and it's an original adaptation created using AI. The form is released under the Creative Commons Attribution 4.0 license, allowing you to modify and share it freely. Before starting, please review the form purpose and ensure you're not duplicating efforts. This form is meant for one-time or recurring requests, so please use it for your specific needs.
-
-</thinking>
-
 # Workforce Inclusion Strategy Request Form - Help Guide
 ## Purpose
 The Workforce Inclusion Strategy Request Form is designed to help organizations collect and analyze data on their workforce inclusion efforts. This form will guide you through a series of questions to identify your current challenges, support needs, and proposed strategies for improvement.

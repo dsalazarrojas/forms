@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to assess an individual's skills in various aspects of data analysis. It appears to be a comprehensive evaluation tool for measuring a person's proficiency in data analysis concepts, sourcing, collection, visualization, storage, security, and discovery. However, there are concerns that this form may be redundant or overlapping with other assessments that cover similar topics. To ensure the form's utility and avoid duplication of efforts, it is crucial to review and validate the form's purpose, structure, and content with relevant stakeholders.</thinking>
-
 # data_analysis_skills_assessment_form - Help Guide
 ## Purpose
 This form is designed to evaluate an individual's skills in data analysis, covering various domains such as data concepts, sourcing, collection, visualization, storage, security, and discovery. The purpose of this form is to provide a comprehensive assessment of a person's abilities in these areas.

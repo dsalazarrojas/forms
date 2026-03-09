@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Caregiver Learning Needs Assessment - Help Guide
 ## Purpose
 

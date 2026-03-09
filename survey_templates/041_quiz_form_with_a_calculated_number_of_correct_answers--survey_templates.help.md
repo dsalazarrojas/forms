@@ -1,13 +1,3 @@
-<thinking>
-We need to ensure the form is being used correctly to calculate the number of correct answers. The form is designed to present a series of questions to the user, each followed by an option to choose a correct answer. This allows the user to demonstrate their knowledge of the subject matter. The form is intended to be used once only and the user should be able to complete it within a reasonable time frame.
-
-To complete the form, the user should select "Yes" or "No" for each question presented, which represents whether they believe the corresponding correct answer is correct or not.
-
-The field "first_name" seems out of place in this form, which is meant to be a quiz, so it might be best to skip it or re-label it as "Quiz Intro". Also, "Correct Answer6" is also out of place. It seems like it should be another question or "No" option.
-
-Please consider removing "first_name" and "Correct Answer6".
-</thinking>
-
 # Quiz Form With A Calculated Number Of Correct Answers - Help Guide
 ## Purpose
 This form is a quiz that tests the user's knowledge of a particular subject. It consists of three questions, each followed by a correct answer option. The user is required to select "Yes" or "No" for each question, indicating whether they believe the correct answer is correct or not.

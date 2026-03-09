@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from patrons about their patron saint selection. The purpose of this form is to gather relevant details about the patrons' preferences, affiliations, and demographic information. To ensure that the form is filled out correctly, please review the instructions and explanations below. 
-
-Please note that some fields may be optional or have specific formatting requirements. Make sure to fill out the form carefully and accurately. If you have any questions or concerns, feel free to reach out to the form administrators.
-</thinking>
-
 # Patron Saint Selection Survey - Help Guide
 ## Purpose
 The Patron Saint Selection Survey is designed to collect information from patrons about their patron saint preferences. This data will help us better understand their interests and tailor our services to meet their needs.

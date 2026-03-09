@@ -1,6 +1,3 @@
-<thinking>...
-This form is designed to gauge the political ideology, party affiliation, and interests of users. It's intended to be completed by individuals who have not filled out this form before. Please ensure that you complete this form carefully, as some fields are required to ensure the accuracy of your political ideology assessment.</thinking>
-
 # Political Ideology Survey - Help Guide
 ## Purpose
 The Political Ideology Survey is a tool used to measure the political views, party affiliations, and interests of individuals. It is designed to provide a comprehensive understanding of your political standpoint.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect user input on the usability of a system, product, or experience. This form is likely used in a user experience (UX) or user research context to gather qualitative and quantitative feedback from users. The form may be used by UX designers, product managers, and researchers to inform design decisions, identify pain points, and measure user satisfaction.
-
-Before filling out this form, please make sure you are not duplicating your input. If you've already filled out this form, your responses will not be recorded.
-
-</thinking>
-
 # System Usability Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect user input on the usability of a system, product, or experience.

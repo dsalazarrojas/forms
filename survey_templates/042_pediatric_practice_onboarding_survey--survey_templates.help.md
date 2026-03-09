@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be used by a pediatric practice to onboard new patients. The form will gather essential information about the patient and their family. The form's purpose is to streamline the onboarding process, reducing the time spent on paperwork and improving the patient's experience. This form should be reviewed to ensure it's being used appropriately and not for any other purpose. If you're unsure, please consult with the practice administration or the form owner.
-
-</thinking>
-
 # Pediatric Practice Onboarding Survey - Help Guide
 ## Purpose
 The Pediatric Practice Onboarding Survey is designed to gather essential information about new patients and their families, streamlining the onboarding process and improving patient experience.

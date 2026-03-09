@@ -1,5 +1,3 @@
-<thinking>Before we start creating a user-facing help guide for the "drywall-work-expectations-survey" form, I want to confirm that this form is intended to collect information about drywall work expectations, including project expectations, communication preferences, feedback, contact information, drywall specifications, materials, finishing, schedule, duration, quantities, notes, and signatures. This form seems to be a comprehensive survey that covers various aspects of drywall work, likely for a construction or building industry context. I also want to ensure that we are not duplicating any existing documentation or guides.</thinking>
-
 # drywall-work-expectations-survey - Help Guide
 ## Purpose
 This guide will walk you through the drywall-work-expectations-survey form, which is designed to collect information about drywall work expectations, including project requirements, communication preferences, feedback, and contact information.

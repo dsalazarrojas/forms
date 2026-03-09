@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a user's experience or knowledge regarding torque specification, presumably in a field related to mechanical or automotive engineering. The purpose of this form is to gather opinions or data from users about their department, the standards used for torque specification, and potential challenges they face in this field. This form's output will likely be used to inform or support further development or research in the field of torque specification. This form is an original adaptation created using only public data, and it is released under a Creative Commons Attribution 4.0 license. Please ensure that users understand that this form was not directly affiliated with, endorsed by, or derived from any specific form platform.
-</thinking>
-
 # Torque Specification Survey - Help Guide
 ## Purpose
 

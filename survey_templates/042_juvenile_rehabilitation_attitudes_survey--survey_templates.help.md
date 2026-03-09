@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the purpose and usage of the Juvenile Rehabilitation Attitudes Survey form. This form is designed to collect input from stakeholders about their attitudes towards rehabilitation programs for juveniles. The form aims to gather information on various aspects of rehabilitation, including approach, services, attitudes, outcomes, environment, support, staff, community involvement, and comments. The form will help identify areas of improvement for rehabilitation programs and inform policy decisions. Please review the form fields below to understand the specific questions being asked.
-
-</thinking>
-
 # Juvenile Rehabilitation Attitudes Survey - Help Guide
 ## Purpose
 The Juvenile Rehabilitation Attitudes Survey is designed to gather information from stakeholders about their opinions and attitudes towards juvenile rehabilitation programs. The survey will help identify areas of improvement and inform policy decisions related to juvenile rehabilitation.

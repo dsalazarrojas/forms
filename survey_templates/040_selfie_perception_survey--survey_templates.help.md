@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data about users' selfie-taking habits and preferences. This information will help the organization better understand how people interact with themselves and the world around them. To confirm, you are not a robot, this form is for humans only. Please do not submit this form if you have already done so in the past.
-</thinking>
-
 # Selfie Perception Survey - Help Guide
 ## Purpose
 The Selfie Perception Survey is a form designed to gather information about your selfie-taking habits and preferences. Your input will help us understand how you interact with yourself and the world around you.

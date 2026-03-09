@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from trade show attendees about their experience at the event. The purpose of this questionnaire is to gather information about what attendees thought about the trade show, what they enjoyed or did not enjoy, and how likely they are to attend the show again. This information will help the organizers of the trade show to improve future events and better meet the needs and expectations of their attendees. Please answer all questions accurately and thoroughly, and provide any additional feedback you may have about your experience at the trade show.
-</thinking>
-
 # Trade Show Attendee Experience Questionnaire - Help Guide
 ## Purpose
 

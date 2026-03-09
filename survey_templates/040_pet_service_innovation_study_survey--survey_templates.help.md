@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for gathering feedback from pet owners on pet services and related businesses. This feedback will help our organization understand pet owners' preferences, satisfaction levels with current services, and ideas for new services that could be developed. By completing this form, you are helping us improve our services to better meet the needs of pet owners like you. Please ensure you complete this form only once, as repeating the process will not provide additional value to our organization.
-</thinking>
-
 # Pet Service Innovation Study Survey - Help Guide
 ## Purpose
 This survey aims to collect your opinions on pet services and businesses. Your participation will help us create better services for pets.

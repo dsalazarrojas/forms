@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I reviewed the provided YAML form schema and ensured that each field is explained concisely and practically. This guide is designed for end-users who will be completing the form. Below is a concise help guide for the "Tech Market Interest Inquiry Form".</thinking>
-
 # Tech Market Interest Inquiry Form - Help Guide
 
 ## Purpose

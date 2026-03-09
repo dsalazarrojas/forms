@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Alcohol Consumption Survey - Help Guide
 ## Purpose
 This form is designed to collect anonymized data on alcohol consumption habits and behaviors. Please answer honestly to help us better understand patterns and trends in alcohol use.

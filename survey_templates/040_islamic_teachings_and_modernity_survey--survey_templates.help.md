@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather opinions and attitudes towards Islamic teachings in the modern world. It's essential to understand that this survey is a subjective assessment and aims to explore individual perceptions of the compatibility and relevance of Islamic teachings with contemporary values and societal issues. The survey questions cover a range of topics related to the influence of Islamic teachings on various aspects of modern life, including social justice, gender equality, poverty and inequality, democracy, global politics, interfaith dialogue, critical thinking, science and reason, education, tolerance, personal values and moral principles, global challenges, and peace and nonviolence. Please take the survey responsibly, considering your genuine thoughts and opinions. If you've responded to this or similar surveys in the past, your previous answers may still be valid and worth revisiting.
-
-This form is designed to gather opinions and attitudes towards Islamic teachings in the modern world.
-</thinking>
-
 # Islamic Teachings And Modernity Survey - Help Guide
 ## Purpose
 

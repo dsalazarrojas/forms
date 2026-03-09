@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coupling Expansion Feedback Survey - Help Guide
 ## Purpose
 The Coupling Expansion Feedback Survey is designed to collect your feedback and ratings on our product. Please take a few minutes to complete this survey to help us understand your experience with our product and identify areas for improvement. This survey is intended to be completed by end-users of our product, and your feedback will help us to provide better services in the future.

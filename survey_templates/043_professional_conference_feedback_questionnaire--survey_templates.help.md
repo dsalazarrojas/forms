@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## professional_conference_feedback_questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from attendees of professional conferences. This feedback will help us understand the overall experience of the attendees, evaluate the quality of the sessions and speakers, and identify areas for improvement.

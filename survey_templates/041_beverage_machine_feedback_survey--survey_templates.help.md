@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beverage Machine Feedback Survey - Help Guide
 ## Purpose
 This survey is designed to collect feedback from users about their experiences with the beverage machine in your department. Please answer the questions honestly, and let us know what you think about the machine's performance, ease of use, and overall satisfaction.

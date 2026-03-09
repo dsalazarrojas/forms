@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Enrollment Management Software Evaluation Form", the purpose of this form is to collect information from users about their experiences with enrollment management software. The form is designed to gather contact information, company details, and ratings of the software, as well as specific job titles and departmental information. This form will help us understand the users' perceptions of the software and provide valuable insights for improvement.
-
-This form is not affiliated with, endorsed by, or derived from any form platform, and it's an original adaptation of a public survey topic metadata. It's released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, just giving credit.
-
-Before starting to complete this form, please make sure to fill out all required fields. Note that some fields are optional, but filling them out will help provide more detailed insights.
-
-</thinking>
-
 # Enrollment Management Software Evaluation Form - Help Guide
 ## Purpose
 The Enrollment Management Software Evaluation Form is designed to collect information from users about their experiences with enrollment management software. This form helps us understand users' perceptions of the software and provides valuable insights for improvement.

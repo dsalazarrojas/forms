@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from a respondent regarding their divorce experience. The purpose of this form is to gather data on various aspects of divorce, such as reasons for divorce, number of children, assets, and income. This form will help in understanding the demographics and circumstances surrounding divorce cases.
-The form should only be filled out by individuals who have been through a divorce or are experiencing a divorce. To ensure accurate and relevant data, please make sure to provide honest and detailed information.
-</thinking>
-
 # Divorce Survey - Help Guide
 ## Purpose
 The Divorce Survey form is designed to collect information from respondents about their divorce experience. This form aims to gather data on various aspects of divorce, such as reasons for divorce, number of children, assets, and income.

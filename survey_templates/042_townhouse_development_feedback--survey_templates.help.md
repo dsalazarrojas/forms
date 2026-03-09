@@ -1,17 +1,3 @@
-<thinking>
-
-As we continue to enhance our townhouse development process, your feedback is invaluable to us. This form is designed to collect information about your experiences and suggestions for improvements in our community. Please take a few minutes to complete this form and help us better understand your needs and expectations.
-
-We will review your feedback to:
-
-* Identify areas for improvement
-* Develop new features and amenities
-* Enhance the overall resident experience
-
-Before you start, please note that this form is anonymous, and your responses will be treated confidentially. If you have any questions or concerns, feel free to reach out to us directly.
-
-</thinking>
-
 # Townhouse Development Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions from residents about their experiences and expectations in the community. Your input will help us improve our services and amenities.

@@ -1,5 +1,3 @@
-<thinking>...this form is designed to gather feedback and suggestions from customers about the lead-free relabeling process, aiming to understand their experiences and identify areas for improvement. This form will help gather data on customer satisfaction, the relabeling process they used, and any feedback or suggestions they may have. It's essential to complete this form only once for each customer, to avoid duplicate responses. If you've already completed this form, please do not fill it out again...</thinking>
-
 # Lead Free Relabeling Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather feedback and suggestions from customers about their experiences with the lead-free relabeling process.

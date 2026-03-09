@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather data from employees about their perception of the air quality in their workspace. The purpose of this form is to help management and facilities teams understand the overall air quality experience of employees, which can inform decisions to improve the indoor environment. This form should only be filled out once by each employee. Please ensure you have not already completed this form before, as duplicate submissions will not be considered.
-</thinking>
-
 # Air Quality Survey - Help Guide
 ## Purpose
 The Air Quality Survey is a tool to help management and facilities teams understand employee perceptions of the air quality in their workspace. This information can inform decisions to improve the indoor environment.

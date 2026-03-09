@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users about their evening availability, including their preferred time of day, day of the week, and availability for meetings. This form is used to collect input for scheduling purposes and will help the system optimize meetings and appointments to accommodate the user's preferences.
-This form is designed to be completed by users, and it is essential to ensure that it is filled out correctly to provide accurate and relevant information.
-Please note that if a user has already completed this form, they will not need to do so again. This form is a one-time requirement for new users.
-</thinking>
-
 # Evening Availability Survey - Help Guide
 ## Purpose
 The Evening Availability Survey is a form designed to collect information about your evening availability for scheduling purposes.

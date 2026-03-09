@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To avoid redundant feedback and ensure that the form's purpose is understood, we need to clarify that this is a survey form for gathering feedback from university alumni, focusing on their experiences and current status after graduation. To confirm, let's review the form fields.
 
 Upon reviewing the provided YAML fields, the form has the following fields:

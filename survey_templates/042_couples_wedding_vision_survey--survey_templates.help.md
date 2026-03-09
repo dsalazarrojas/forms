@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from couples about their preferences and vision for their wedding ceremony and reception. It's designed to be a comprehensive guide for wedding planning, allowing the couple to express their personal tastes and expectations. This form will help wedding planners and coordinators understand the couple's style and needs, ensuring a more personalized and enjoyable planning experience.
-
-Before filling out this form, please make sure you haven't already completed a similar survey or discussed these preferences with your wedding planner or coordinator. This will help us to provide more accurate and relevant information in the planning process.
-
-</thinking>
-
 # Couples' Wedding Vision Survey - Help Guide
 
 ## Purpose

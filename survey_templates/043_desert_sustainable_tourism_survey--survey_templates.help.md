@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Desert Sustainable Tourism Survey - Help Guide
 ## Purpose
 This survey aims to gather information about travelers' experiences and preferences related to sustainable tourism in desert regions. It will help us understand their motivations, behaviors, and opinions on sustainable tourism practices.

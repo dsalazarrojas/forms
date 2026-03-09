@@ -1,7 +1,3 @@
-<thinking>
-This form is for gathering feedback from participants about the youth sports program's impact on their experience. The program's goal is to understand how the program has affected the participants' satisfaction, athletic performance, and overall experience. The form will help to identify areas of improvement and gather feedback on how to make the program more effective. To ensure we gather accurate and meaningful feedback, please only complete this form if you participated in the program. If you have already filled out this form, please don't complete it again. This form will be reviewed to identify trends and common themes.
-</thinking>
-
 # Youth Sports Program Impact Poll - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Youth Sports Program Impact Poll form to provide feedback on your experience with the program.

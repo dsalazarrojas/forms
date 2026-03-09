@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants in science advisory sessions. The purpose of this form is to gather information about the participant's experience, including their satisfaction with the session, any recommendations for future sessions, and any comments they may have. It's essential to complete this form to help improve future science advisory sessions and provide valuable insights to the session organizers.
-
-Before filling out this form, ensure that you have the necessary information and permissions to complete it. If you have already filled out this form or have provided similar feedback, you may not need to complete it again.
-
-</thinking>
-
 # Science Advisory Feedback Form - Help Guide
 
 ## Purpose

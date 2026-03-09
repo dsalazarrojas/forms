@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users cast their vote for their preferred candidate in an election or other voting process. It is intended for use by voters to indicate their support or opposition to a candidate. This form should only be used by eligible voters who have not already cast their vote.
-</thinking>
-
 # Vote For Your Preferred Candidate - Help Guide
 ## Purpose
 This form is designed to gather information from voters about their preferred candidate in an election or other voting process.

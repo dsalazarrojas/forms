@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Planning And Journaling Survey - Help Guide
 ## Purpose
 This form is designed to help us better understand how you use our app. It's meant to be a brief and informal way for you to share your experiences, thoughts, and suggestions about our digital planning and journaling features.

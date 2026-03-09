@@ -1,22 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Creative Writing Prompt Generator" form. This form is designed to generate writing prompts for creative writers, allowing them to input their preferences and receive a writing prompt that fits their needs. To ensure the help guide is helpful and easy to understand, we should consider the following points:
-
-- The form's purpose is clear and well-defined.
-- The form fields are well-structured and easy to understand.
-- Each field should have a clear and concise explanation.
-- The form fields are not redundant or duplicate.
-
-Upon examining the input YAML, we notice that the form has several fields, including:
-- Writing Group
-- Writer Name
-- Writing Style
-- Writing Prompt
-- Writing Prompt Type
-- Story Length
-- Writing Prompt Details
-
-We should focus on providing a clear and concise explanation for each field, while also ensuring that the overall tone is friendly and approachable.</thinking>
-
 # Creative Writing Prompt Generator - Help Guide
 ## Purpose
 

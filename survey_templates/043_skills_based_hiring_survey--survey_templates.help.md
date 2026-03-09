@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about hiring practices and trends from various industries. The purpose of this form is to collect data on how companies approach skills-based hiring, adoption trends, challenges, and insights gained from HR and recruiting processes. This form is likely intended for HR and recruiting teams to better understand industry benchmarks and trends, but it's also possible that this form could be used to create industry reports, benchmarking studies, or internal knowledge sharing among companies within the same sector. Before proceeding, ensure this form is not already covered by another existing form or initiative within the company or organization.
-
-</thinking>
-
 # Skills-Based Hiring Survey - Help Guide
 
 ## Purpose

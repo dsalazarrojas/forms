@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to help organizations and individuals collect data and raise awareness about gender violence prevention. This form is designed to be completed by individuals, and it aims to gather information on the experiences and perceptions of respondents regarding gender violence. Before proceeding with this form, please ensure that you have not already completed it, as the data collected may be used to identify duplicates or redundant responses.
-
-This form consists of multiple pages, each containing various input fields that collect different types of information. The first page is an introduction, and the subsequent pages contain fields that ask for personal details such as gender, types of violence experienced, location, date, time of day, age, email, phone number, consent, and comments. 
-
-Please note that some fields are optional, and you can skip them if you do not wish to provide the information. However, please provide accurate and honest responses, as they will help in creating a comprehensive understanding of the topic.
-</thinking>
-
 # Gender Violence Prevention Awareness Survey - Help Guide
 ## Purpose
 The Gender Violence Prevention Awareness Survey is a tool designed to gather data and raise awareness about gender violence prevention. This survey aims to collect information on the experiences and perceptions of individuals regarding gender violence.

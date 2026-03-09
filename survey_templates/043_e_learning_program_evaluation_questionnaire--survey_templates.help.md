@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback and evaluations from participants in an e-learning program. The purpose of this form is to collect information about the quality of the program, including the content, instructors, materials, and overall experience. The form is meant to be completed by participants who have taken an online course through this program. 
-
-Before filling out this form, please ensure that you have participated in an e-learning program recently. This will help you answer the questions effectively.
-
-Please note that this form is for your own information and feedback, and the answers you provide will be kept confidential.
-
-To ensure the accuracy and quality of the responses, it is recommended that you review the questions carefully before providing your answers.
-
-</thinking>
-
 # e-learning-program-evaluation-questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback and evaluations from participants in an e-learning program. It helps us understand your experience, satisfaction, and suggestions for improvements.

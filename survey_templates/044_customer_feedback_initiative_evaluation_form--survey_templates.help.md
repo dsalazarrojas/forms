@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect customer feedback for the "Customer Feedback Initiative" within the company. The goal is to gather valuable insights from customers to help the company improve its services. This form is not intended for general customer complaints or support requests, but rather for gathering feedback on specific services provided. Please complete this form only if you have genuine feedback or opinions about our service. Duplicate feedback will not be counted towards the initiative.
-
-This form includes fields for various aspects of customer interaction with the company, including overall rating, customer satisfaction, complaints, recommendations, comments, contact information, and specific ratings for different services. Please answer these fields truthfully and to the best of your abilities.
-</thinking>
-
 # Customer Feedback Initiative Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers on our services to help us improve and better serve them in the future.

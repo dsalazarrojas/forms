@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive survey focused on gathering health and wellness information from users. The purpose of this form is likely to collect data on users' medical history, lifestyle habits, and other relevant factors that may impact their health outcomes. Before completing this form, ensure that you have read and understood the purpose and instructions provided.
-</thinking>
-
 # Health And Wellness Survey - Help Guide
 ## Purpose
 This survey is designed to gather information on your health and wellness. Please answer the questions as accurately as possible to help us better understand your health status and provide you with personalized recommendations.

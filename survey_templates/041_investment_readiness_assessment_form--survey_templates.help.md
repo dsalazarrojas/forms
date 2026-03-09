@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assess the readiness of an investment opportunity. The purpose of this form is to gather information from the investor to better understand their current status and readiness to invest. This form is typically used by investors to self-assess their investment readiness. It's meant to be completed by the investor themselves, rather than by someone else on their behalf.
-
-Before completing this form, please ensure that the information provided is accurate and up-to-date. The form should only be completed once by the investor, and not by others on their behalf.
-
-This form has multiple sections and fields that cover various aspects of investment readiness. Please make sure to complete all fields as accurately as possible, and refer to this guide for explanations on each field if needed.
-</thinking>
-
 # Investment Readiness Assessment Form - Help Guide
 ## Purpose
 This form is used to assess the readiness of an investment opportunity by gathering information from the investor.

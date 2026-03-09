@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information about forest conservation awareness, including users' knowledge, actions, and attitudes towards forest conservation. It also aims to gather details about the target audience, communication channel, campaign length, funding, location, target, goals, and start and end dates of forest conservation campaigns. The purpose of this form is to gather data that will help forest conservation organizations understand public perception and behavior in relation to forest conservation. It is essential to understand that this form is a survey, and users are expected to provide honest and accurate answers.</thinking>
-
 # Forest Conservation Awareness Survey - Help Guide
 
 ## Purpose

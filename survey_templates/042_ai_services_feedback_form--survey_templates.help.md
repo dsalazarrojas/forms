@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a help guide that accurately captures the purpose and functionality of the "AI Services Feedback Form". I will review the form's fields and ensure that each section is explained in a clear and concise manner. I will not invent any business logic that is not explicitly stated, and I will strive to create an intuitive guide that makes it easy for end-users to complete the form correctly.</thinking>
-
 # AI Services Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about the services provided by our AI. The feedback will help us understand how our services performed and identify areas for improvement. Please take a few minutes to complete this form and provide detailed information about your experience with our AI services.

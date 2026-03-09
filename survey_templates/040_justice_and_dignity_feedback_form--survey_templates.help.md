@@ -1,10 +1,3 @@
-<thinking>
-  This form is designed to collect feedback from users regarding their experience with a service, specifically focusing on aspects of justice and dignity. 
-  The form aims to gather information about how well the service was provided, how fair they felt they were treated, if they were approached for follow-up, and if they would like to contact the service staff. 
-  Please note that this form is not affiliated with any specific service or platform and is an original creation based on publicly available data.
-  Ensure that the form is filled out for its intended purpose and not duplicated or used for other purposes.
-</thinking>
-
 # Justice And Dignity Feedback Form - Help Guide
 ## Purpose
 The form is designed to collect feedback from users about their service experience, focusing on justice and dignity aspects.

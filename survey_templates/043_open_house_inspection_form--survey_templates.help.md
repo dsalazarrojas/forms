@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting information during an open house inspection, typically used in real estate, home buying, or property-related contexts. It appears to be a comprehensive form covering various aspects of the event or process, including contact information, event details, and feedback. To ensure accuracy, please note that this form is part of a "survey_templates" category, implying it's meant for surveys or assessments within that context. Before proceeding, double-check the form's purpose to confirm it aligns with your specific use case.
-</thinking>
-
 # Open House Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information and feedback during an open house inspection, which is an essential step in the home buying or property-related process.

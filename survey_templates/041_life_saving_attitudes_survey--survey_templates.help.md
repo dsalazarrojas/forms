@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Life Saving Attitudes Survey - Help Guide
 ## Purpose
 The Life Saving Attitudes Survey is designed to assess individuals' attitudes towards life-saving techniques, such as CPR and first aid. The survey consists of multiple-choice questions that aim to understand respondents' knowledge, confidence, and practices related to life-saving situations. This guide will walk you through each section of the survey, ensuring you complete it accurately and efficiently.

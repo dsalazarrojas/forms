@@ -1,5 +1,3 @@
-<thinking>This guide explains how to complete the "public_health_partnership_effectiveness_evaluation" form in a clear and concise way. The form is designed to evaluate the effectiveness of public health partnerships, and it is intended for users who are familiar with the concept of partnership evaluation. This guide will walk users through each page and field of the form, explaining their purpose, options, and how to complete them.</thinking>
-
 # public_health_partnership_effectiveness_evaluation - Help Guide
 ## Purpose
 The "public_health_partnership_effectiveness_evaluation" form is a survey designed to assess the effectiveness of public health partnerships. It is composed of 25 questions, which are distributed across 4 pages. This guide will walk you through each question and how to complete it.

@@ -1,7 +1,3 @@
-<thinking>
-We have a form for gathering feedback from users in the industry insights category. This form aims to collect data on various aspects of their business, including demographic information, company size, industry experience, services offered, areas of focus, pain points, suggestions, open-ended comments, and contact details. Before filling out this form, please ensure you are providing feedback on your current company or organization, and not on behalf of someone else. It is also essential to answer all questions honestly and accurately, as this will help us better understand your needs and preferences. Please fill out the form carefully, and make sure to complete all required fields. If you have any questions or concerns, feel free to ask, and we'll be happy to assist you.
-</thinking>
-
 # industry_insights_feedback_survey_form - Help Guide
 ## Purpose
 This form is designed to collect your feedback on your business and industry experiences. It is essential that you answer all questions truthfully and accurately to help us better understand your needs and preferences.

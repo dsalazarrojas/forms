@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is intended to inform users how to complete a "Training Effectiveness Report Form" which is meant to evaluate the effectiveness of a training program. Before proceeding, please ensure that you are filling out this form for a specific training program that you have attended and that you haven't previously submitted a form for this same program.
-
-This form is used to collect feedback from trainees to gauge the effectiveness of the training program. Please note that all fields are mandatory, except for the "Comments" field.
-
-Please ensure that you answer the questions truthfully to the best of your abilities.
-
-</thinking>
-
 # Training Effectiveness Report Form - Help Guide
 ## Purpose
 This form is used to collect feedback from trainees to help us understand the effectiveness of a training program. Your input is invaluable in helping us improve the quality and effectiveness of our training programs.

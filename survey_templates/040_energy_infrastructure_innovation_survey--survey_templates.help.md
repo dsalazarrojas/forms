@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about energy infrastructure innovations from survey participants. This form is intended to understand the priorities and barriers that organizations face when it comes to innovation in the energy sector. We want to ensure that this form is not duplicated by other projects, and that we are not surveying the same participants multiple times.
-</thinking>
-
 # Energy Infrastructure Innovation Survey - Help Guide
 ## Purpose
 This form is designed to gather information from survey participants about their organization's energy infrastructure innovation priorities and challenges. The data collected will help us better understand the energy infrastructure innovation landscape and identify key areas for improvement.

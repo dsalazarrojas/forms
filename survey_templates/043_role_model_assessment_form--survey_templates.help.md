@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to help assess and evaluate the performance of role models within an organization. It appears to be focused on evaluating the leader's qualities, behavior, and performance in various aspects such as rating, self-assessment, and overall performance. The form likely serves as a tool for HR or management teams to gauge the effectiveness of their leaders and provide feedback for professional development. However, without further information, it is unclear who the target audience is, and for what specific purpose the form is being used (e.g., performance reviews, leadership development programs, or something else).
-
-It is also possible that the form may be duplicated or redundant with existing evaluation forms. I will need more information to confirm this.
-
-</thinking>
-
 # Role Model Assessment Form - Help Guide
 ## Purpose
 The Role Model Assessment Form is designed to evaluate the performance and behavior of leaders within an organization. This form is used to assess the qualities and skills of the leader, providing feedback for professional development and growth.

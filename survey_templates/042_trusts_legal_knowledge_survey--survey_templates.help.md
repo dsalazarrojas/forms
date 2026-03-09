@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess a legal firm's knowledge about trusts, including their definition, key facts, and areas for improvement. It is used to gather information about a legal firm's understanding of trusts, and the answers will be used to provide feedback and guidance for the firm to improve their knowledge and practices. This form should only be filled out once by each legal firm, and should not be filled out multiple times by the same firm.
-
-This form is used to collect data about legal firms' knowledge and practices related to trusts. It is not intended for personal use or to collect information about individual clients.
-</thinking>
-
 # Trusts Legal Knowledge Survey - Help Guide
 
 ## Purpose

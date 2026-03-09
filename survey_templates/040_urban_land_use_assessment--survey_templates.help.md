@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to gather information about the properties and projects in a given area. The form will collect data on the land use, zoning status, and project status of each parcel of land. This information will help in understanding the current state of land use and zoning in the area. 
-The form will be used by land use and zoning officials to collect data on parcels of land, including their land use, zoning status, and project status. This data will help them in making informed decisions about land use and zoning in the area. 
-Please note that the form is designed for land use and zoning officials, and the fields and questions are specific to this context. Please ensure that you are in the correct role before attempting to use this form. 
-The form will be used in conjunction with other data to create a comprehensive assessment of land use and zoning in the area. Please ensure that the information you enter is accurate and complete. 
-</thinking>
-
 # Urban Land Use Assessment - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...This form is an AI-generated Veterinary Risk Management Survey, created from public metadata on veterinary industry and category, and is intended to be an original adaptation. Its purpose is to help veterinary professionals assess their risk management practices, identify areas of concern, and prioritize improvements. This form will not be used to collect sensitive or personal data, and all responses will be anonymous. Before filling out this form, please review the sections below to ensure you understand what each field entails and how to complete it properly.</thinking>
-
 # Veterinary Risk Management Survey - Help Guide
 ## Purpose
 The Veterinary Risk Management Survey is designed to help veterinary professionals assess their risk management practices, identify areas of concern, and prioritize improvements. This survey aims to gather information on various risk areas, staff awareness, current protocols, and priority settings for safety and quality improvements.

@@ -1,9 +1,3 @@
-<thinking>As I generate this form's help guide, I'll ensure I understand its purpose and how to complete it correctly.
-
-The form, "fluid_and_blood_knowledge_quiz", is designed for users to provide input for the "fluid and blood knowledge quiz" category. This form appears to be a collection of text fields, with 25 fields labeled as "starting points" for a quiz, likely used to gather input from users for the quiz's development or administration. Given the repetition in the field labels, it's likely that each field is intended to capture a specific starting point or point of interest related to the fluid and blood knowledge.
-
-Before proceeding, I'll verify if this form has any internal logic or rules that I should consider while explaining each field. Based on the form's structure and field names, it doesn't seem to have specific conditional dependencies or rules to consider for the field-by-field explanation.</thinking>
-
 # fluid_and_blood_knowledge_quiz - Help Guide
 ## Purpose
 

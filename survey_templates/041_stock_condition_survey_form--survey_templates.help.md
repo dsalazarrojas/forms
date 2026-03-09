@@ -1,7 +1,3 @@
-<thinking>
-The "Stock Condition Survey Form" is designed to gather information about the stock condition of an inventory, which is crucial for maintaining accurate records and making informed decisions. The form collects data on various aspects of stock condition, including physical inspections and inventory status. This form helps professionals in inventory management roles to assess the condition of their stock accurately and take necessary steps to maintain it. Please ensure that the form is filled out only once for each inventory item.
-</thinking>
-
 # Stock Condition Survey Form - Help Guide
 ## Purpose
 The Stock Condition Survey Form is a tool used to gather data on the condition of stock items. It helps maintain accurate records and informs decisions about inventory management.

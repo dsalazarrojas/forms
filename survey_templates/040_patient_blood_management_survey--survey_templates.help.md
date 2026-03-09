@@ -1,5 +1,3 @@
-<thinking>As the form is designed to collect information about patient blood management practices, it's likely that the form will be used for healthcare professionals to gather data on the effectiveness of patient blood management initiatives. The form's purpose is likely to help healthcare organizations identify areas of improvement, monitor progress, and make data-driven decisions. The form's structure suggests it will be composed of multiple pages with different types of fields, including select options, text input, date/time input, and numeric input. The form's fields are mostly optional, indicating that the form is designed to gather supplementary information rather than required data.</thinking>
-
 # Patient Blood Management Survey - Help Guide
 
 ## Purpose

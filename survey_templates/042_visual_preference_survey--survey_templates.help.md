@@ -1,6 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Visual Preference Survey" form. This form is designed to collect data on building characteristics and their surroundings. The goal is to provide an overview of the building's features and their relative distances to various amenities such as schools, hospitals, and public transportation. The form will have 25 questions, each addressing a different aspect of the building. The form will help identify and prioritize building locations that fit specific criteria and requirements.</thinking>
-
 # Visual Preference Survey - Help Guide
 ## Purpose
 The Visual Preference Survey form is used to collect data on building characteristics and their distances to various amenities. This data is used to prioritize and identify building locations that fit specific criteria and requirements.

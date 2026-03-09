@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about their experience with the automotive service center. It is meant to collect demographic information about the customer, details about the service performed, and an assessment of the service quality and overall satisfaction. The form should only be filled out by customers who have recently visited the service center. It is recommended that this form be filled out within a few days of the service visit to ensure accurate and timely feedback.
-</thinking>
-
 # Automotive Service Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback from customers about their experience at the automotive service center. It helps us understand what you liked or disliked about your visit and how we can improve our services.

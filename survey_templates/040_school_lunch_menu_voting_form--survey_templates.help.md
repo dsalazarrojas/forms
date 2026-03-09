@@ -1,8 +1,3 @@
-<thinking>
-We'll create a user-facing help guide for the "School Lunch Menu Voting Form" form. This form allows students to vote for their favorite school lunch menu options, providing an opportunity for students to express their preferences and help inform the school's culinary decisions. To create a user-friendly guide, we'll break down the form's purpose, completion instructions, and field explanations to ensure students understand how to effectively use the form. The form is designed to be completed in multiple pages, with each page focusing on a different aspect of the voting process.
-
-</thinking>
-
 # School Lunch Menu Voting Form - Help Guide
 ## Purpose
 The School Lunch Menu Voting Form is designed to allow students to vote for their favorite school lunch options. By participating in this survey, students help inform the school's culinary decisions, ensuring that the school lunch menu caters to their tastes and preferences.

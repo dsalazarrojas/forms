@@ -1,15 +1,3 @@
-<thinking>
-
-This form, "research_purpose_questionnaire", is likely designed to collect information about a research project or a scientific investigation. The form is structured into 12 pages, suggesting it might be used for a complex research study. The pages seem to be labeled as "page_n" where "n" is a number, which could indicate that each page is meant to gather specific data or information related to the research purpose.
-
-To confirm, the form was generated using AI algorithms and public metadata from the survey topic, without referencing any proprietary form platforms. This means that the form's structure and content are unique and original.
-
-Considering the form's structure and the fact that it's a research-oriented form, it's likely that the form is used to collect detailed information about a research project, possibly including its objectives, methodology, and results. This form might be used by researchers, scientists, or academics to gather data and insights for their studies.
-
-To ensure that this form is used correctly, it's essential to follow the instructions carefully and understand the purpose of each field. This guide is designed to help you navigate the form and make the most of it.
-
-</thinking>
-
 # research_purpose_questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about a research project or scientific investigation. It is structured into 12 pages, each with a unique label (e.g., "page_1", "page_2", etc.). The form's purpose is to gather specific data or information related to the research purpose.

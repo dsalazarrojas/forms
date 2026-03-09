@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback and insights from participants about their experience with the tournament registration process. The goal is to identify areas of improvement and areas where the process can be refined to enhance the overall participant experience. It's essential to provide honest and constructive feedback to help us better understand your experience and make informed decisions for future tournament registrations. Please ensure you're filling out the form only once, and answer each question based on your actual experience with the tournament registration process. If you're unsure about any question, feel free to skip it or provide additional comments for clarification.
-</thinking>
-
 # Tournament Registration Process Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback and insights from participants about their experience with the tournament registration process. Your responses will help us identify areas where we can improve and make informed decisions for future tournaments.

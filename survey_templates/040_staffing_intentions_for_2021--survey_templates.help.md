@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about staffings intentions for 2021. This form is likely to be used by HR or management teams to gather data on staffing plans and intentions for the upcoming year. To ensure accuracy, please review the form carefully and provide relevant information for each field. If you are unsure about any field, please refer to the field explanations below.
-
-</thinking>
-
 # Staffing Intentions For 2021 - Help Guide
 ## Purpose
 This form is designed to collect information about staffing intentions for 2021. It will help HR or management teams gather data on staffing plans and intentions for the upcoming year.

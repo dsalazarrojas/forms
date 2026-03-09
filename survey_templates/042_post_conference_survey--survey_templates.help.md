@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from attendees about a conference they have attended. The purpose of the form is to collect information on the attendees' experience, such as session attendance, speaker ratings, and any additional feedback they might have. This information will be used to improve future conference planning and organization. 
-
-The form is likely to be filled out by conference attendees, who have just finished attending a conference. 
-
-This form might already exist in some form, and you might already be familiar with its purpose and use. However, the goal of this guide is to provide a clear and concise explanation of each field, making it easier for new users to understand its purpose and complete it effectively.
-
-Before starting, ensure that you have the relevant information at hand, such as the details of the conference attended, and any notes or comments you'd like to make about your experience.
-
-</thinking>
-
 # post_conference_survey - Help Guide
 ## Purpose
 The post-conference survey is designed to gather feedback from conference attendees on their experience at the conference.

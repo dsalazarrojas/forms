@@ -1,7 +1,3 @@
-<thinking>
-This form is a "Worms Knowledge Quiz". The purpose of this form is to gather information on a user's familiarity with worms, a type of invertebrate animal. The quiz is designed to assess how well the user knows about worms, their characteristics, and their behavior. This form is likely used for educational or research purposes.
-</thinking>
-
 # Worms Knowledge Quiz - Help Guide
 ## Purpose
 The Worms Knowledge Quiz is a survey designed to gauge a user's knowledge about worms. It consists of three sections: an introduction, a quiz, and a submission section.

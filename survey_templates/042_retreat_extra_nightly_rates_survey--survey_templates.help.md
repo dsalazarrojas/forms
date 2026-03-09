@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather information from users about their preferences and habits related to extra nightly rates during retreats. The purpose of the form is to collect data on user behavior and preferences for the purpose of planning and optimization of retreat events. This form should not be filled out multiple times by the same user, and users are expected to provide accurate and honest information.</thinking>
-
 # Retreat Extra Nightly Rates Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your preferences and habits related to extra nightly rates during retreats. Your responses will help us plan and optimize our retreat events to better meet your needs.

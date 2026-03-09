@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect information about cult warning signs from users, which will help in identifying potential cult-related activities. This form should only be completed by individuals who have had direct contact with cults or have reason to believe they may be involved with a cult. Please ensure you have permission from your supervisor or authorized personnel before completing this form. 
-</thinking>
 # Cult Warning Signs Checklist - Help Guide
 
 ## Purpose

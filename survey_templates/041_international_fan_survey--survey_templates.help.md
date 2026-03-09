@@ -1,9 +1,3 @@
-<thinking> This form is an AI-generated "International Fan Survey" designed to collect fan-related information. The purpose of this form is to gather data from fans about their preferences, interests, and demographics. This form is intended to be a general survey and not specific to any particular fan culture or community. The data collected will be used for analysis and insights.
-
-Please ensure that you are completing this form for the intended purpose and not for any other reason. If you have completed this form before, please do not submit it again to avoid duplication.
-
-</thinking>
-
 # International Fan Survey - Help Guide
 ## Purpose
 The International Fan Survey is a comprehensive form designed to gather information from fans about their preferences, interests, and demographics.

@@ -1,5 +1,3 @@
-<thinking>Check if the form is being used for a valid reason. If so, proceed with creating the help guide. The form appears to be for nominating event hosts, likely for an event management or scheduling system. Ensure all required fields are explained clearly. This form is quite extensive, but it seems to be a comprehensive tool for capturing event details and host information. I will make sure to cover each field in detail.</thinking>
-
 # Event Host Nomination Form - Help Guide
 
 ## Purpose

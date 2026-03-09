@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather information from users about their public transportation needs and preferences. It appears to be a comprehensive form with various questions related to travel frequency, mode of transportation, preferred services, and submission confirmation. The form is designed to collect both multiple-choice and free-text responses. The fields seem to be a mix of required and optional questions, suggesting that the form is meant to be flexible in its requirements. However, some fields have identical labels and seem to be redundant or have unclear labeling. The purpose of this form is likely to be used in a public transportation planning or surveying context, possibly for research or data collection purposes.</thinking>
-
 # Public Transportation Plan Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather information about your public transportation needs and preferences.

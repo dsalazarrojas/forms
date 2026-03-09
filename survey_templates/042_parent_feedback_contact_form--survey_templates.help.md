@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm, the "parent_feedback_contact_form" form is a survey template used to gather feedback from parents or guardians of students. This form is used to collect various information from parents, including their name, email, contact number, school name, grade level, feedback, submission date and time, and rating score. The purpose of this form is to gather data for internal use and improve the quality of services provided.
 
 </thinking>

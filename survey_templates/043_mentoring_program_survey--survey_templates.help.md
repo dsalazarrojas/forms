@@ -1,7 +1,3 @@
-<thinking>
-This form is for the "Mentoring Program Survey" and is intended to gather information from users about their experience with the mentoring program. The purpose of this form is to gather feedback, suggestions, and other insights from users to help improve the program. This form should only be filled out by users who have participated in the mentoring program. If you have already filled out this form in the past, you should not fill it out again.
-</thinking>
-
 # Mentoring Program Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and suggestions from users about their experience with the mentoring program.

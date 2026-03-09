@@ -1,9 +1,3 @@
-<thinking>
-
-To help create an effective Property Optimization Survey, the form will collect feedback from property managers on their experience with optimization efforts, aiming to improve property management performance. To ensure a smooth completion process, please confirm that your role falls under property management and that your answers reflect your honest experience. Duplicate submissions will be automatically discarded to guarantee data accuracy.
-
-</thinking>
-
 # Property Optimization Survey - Help Guide
 ## Purpose
 The Property Optimization Survey is designed to gather valuable insights from property managers on their experiences and skills gained through optimization efforts. Your feedback will contribute to enhancing property management performance.

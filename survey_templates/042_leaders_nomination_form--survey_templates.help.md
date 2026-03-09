@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the "leaders_nomination_form" form, which is used to gather feedback and nominations from users. Before starting, please make sure you have a clear understanding of the form's purpose and requirements. This form is designed to collect information from users on different aspects of leadership and nomination. Please note that this form is not meant for duplicate or repetitive submissions, and ensure that you only fill it out once for the intended purpose.
-</thinking>
-
 # leaders_nomination_form - Help Guide
 ## Purpose
 The "leaders_nomination_form" is a form used to gather feedback and nominations from users. It is an essential tool for identifying and recognizing leadership qualities and potential in individuals within an organization.

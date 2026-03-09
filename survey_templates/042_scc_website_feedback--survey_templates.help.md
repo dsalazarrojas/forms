@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's take a moment to review the form's purpose and ensure that it's being used correctly. This form is for website feedback, and it's designed to collect input on the quality and usability of the SCC website. We should make sure that the user understands what information is being collected and why.</thinking>
-
 # SCC   Website Feedback - Help Guide
 ## Purpose
 The SCC website feedback form is designed to collect your thoughts and comments on the quality and usability of our website. Please take a moment to review each field and provide constructive feedback that will help us improve your experience.

@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information from retailers participating in a window display contest. It is intended for use by retailers who want to showcase their window displays and compete with other retailers in a contest. The form is not meant to be used for any other purpose. Please make sure you have the necessary permission to use this form and that you are not duplicating efforts in another contest. </thinking>
-
 # Window Display Contest Survey - Help Guide
 ## Purpose
 This form collects information from retailers participating in a window display contest. It is meant to gather details about the retailers' stores, such as their store name, phone number, email, website, and social media handles. This information will help the contest organizers contact the retailers and verify their contest entries.

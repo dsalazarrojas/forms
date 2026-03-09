@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a specific project milestone, including details such as the team member responsible for the project, project ID, project name, project manager, date completed, time completed, description, type of project, department, team lead, status, team lead comment, manager comment, milestone value, share with, milestone value comment, date, time, date range, time range, value range, share with range, manager comment range, status range, and milestone comment. The form has multiple pages, each with its own set of fields. This information will be used to track and manage project milestones.
-</thinking>
-
 # Milestone Sharing Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about a specific project milestone.

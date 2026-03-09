@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is designed to gather feedback from nonprofit organizations on their advocacy strategy, helping to identify areas of improvement and effective practices. The form is intended to be a starting point for discussion and evaluation of advocacy efforts. Before completing this form, please ensure you have reviewed your organization's current advocacy strategy to provide accurate and informed feedback.
-
-</thinking>
-
 # Nonprofit Advocacy Strategy Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from nonprofit organizations on their advocacy strategy, helping to identify areas of improvement and effective practices.

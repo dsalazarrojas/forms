@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Health Care Checklist - Help Guide
 
 ## Purpose

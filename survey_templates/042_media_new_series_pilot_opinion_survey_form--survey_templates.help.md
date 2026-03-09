@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Media New Series Pilot Opinion Survey Form - Help Guide
 ## Purpose
 This form is designed to gather opinions on a media series pilot episode. The purpose of this form is to collect feedback from individuals on their experience watching the pilot episode and their expectations for future episodes.

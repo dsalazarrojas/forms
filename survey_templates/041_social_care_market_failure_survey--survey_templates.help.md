@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from users about the social care market failure survey. This form aims to gather information about the user's experiences and opinions on various aspects of the social care market, including policy effectiveness, gaps, and resources. The form is intended to be completed by users who have participated in the social care market and are looking to provide their input on how to improve it. The questions cover different areas, from user demographics to specific policy-related issues, to encourage users to provide comprehensive feedback. This form is meant to be a one-time submission, and users will need to agree to the submission terms and confirm their completion status.
-
-</thinking>
-
 # social_care_market_failure_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experiences and opinions on the social care market.

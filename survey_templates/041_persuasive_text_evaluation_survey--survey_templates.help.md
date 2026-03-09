@@ -1,7 +1,3 @@
-<thinking>Before creating the help guide, I need to understand the purpose of this form, which is likely to evaluate the persuasive text used in various contexts. This form seems to be a survey that collects the user's opinion on different options related to persuasive text, likely for research or analysis purposes. I will review the form structure to ensure that each field is properly explained and that the help guide is concise and easy to follow.
-
-To confirm, I will not duplicate any information and will focus on explaining each field clearly. I will also ensure that the guide is practical and concrete, avoiding any unsupported business logic.</thinking>
-
 # Persuasive Text Evaluation Survey - Help Guide
 ## Purpose
 This survey is designed to collect your opinions on persuasive text in various contexts. Your responses will help us understand how people perceive and evaluate different types of persuasive text.

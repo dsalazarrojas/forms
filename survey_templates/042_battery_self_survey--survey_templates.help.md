@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Battery Self Survey" form, I'll first need to understand its purpose and requirements.
-
-The "Battery Self Survey" form is likely used for quality control and maintenance of batteries. It seems to collect information about a battery's production and manufacturer details, internal specifications, quality control checks, and survey completion date. The form requires input for various fields, including manufacturer's name, battery model number, production date, internal resistance, open circuit voltage, nominal capacity, quality checks, estimated shelf life, overall quality control rating, quality control technician's name, and survey completion date.
-
-To ensure relevance and non-duplication, this guide will assume that the user has access to the relevant information and is filling out the form to provide accurate and consistent data.
-
-</thinking>
-
 # Battery Self Survey - Help Guide
 ## Purpose
 The "Battery Self Survey" form is used to gather information about a battery's production and manufacturer details, internal specifications, quality control checks, and survey completion date. This data helps in maintaining accurate records and ensuring quality control processes are followed.

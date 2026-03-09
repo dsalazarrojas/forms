@@ -1,19 +1,3 @@
-<thinking>
-This form is designed for respondents to provide feedback on a cell expansion training session. The form is intended to gather information on various aspects of the training, including the quality of the content, the performance of the instructor, and the overall satisfaction of the respondent. The form is likely to be used by training administrators or program managers to evaluate the effectiveness of the training sessions and identify areas for improvement.
-
-To ensure that the form is filled out correctly, it is essential to understand the purpose and scope of the training session and the expectations of the respondents. This guide is designed to help respondents provide accurate and meaningful feedback.
-
-Before starting, please make sure that you have the necessary information and resources to complete the form accurately. If you have any doubts or questions, please refer to the survey administrator or the training program manager.
-
-This form should not be filled out if:
-
-* You have not attended the training session
-* You are not the intended respondent (e.g., you are not an employee of the organization)
-* You are not able to provide honest and constructive feedback
-
-Please note that some questions are required to be answered, while others are optional. Please make sure to fill out all required questions and provide as much detail as possible for optional questions.
-</thinking>
-
 # Cell Expansion Training Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on a cell expansion training session. It is intended to help training administrators and program managers evaluate the effectiveness of the training and identify areas for improvement.

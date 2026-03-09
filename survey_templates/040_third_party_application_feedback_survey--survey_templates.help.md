@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Third Party Application Feedback Survey - Help Guide
 
 ## Purpose

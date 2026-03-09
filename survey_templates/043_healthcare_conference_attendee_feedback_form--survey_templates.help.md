@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who need to complete a form to provide feedback on their experience at a healthcare conference. The form is designed to gather attendee feedback and suggestions for improvement. Before completing this form, make sure you have attended the healthcare conference and have some thoughts or suggestions to share.
-</thinking>
-
 # Healthcare Conference Attendee Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and suggestions from attendees of the healthcare conference. Your input will help us understand what we did well and what we can improve on for future conferences.

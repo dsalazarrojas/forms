@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from mothers about their personal details, habits, and preferences. The form is intended to be completed by mothers who are part of a specific demographic group. The purpose of this form is to gather data that will be used to understand the characteristics and behaviors of mothers in this group. To ensure the integrity of the data collected, please complete this form only once. Please answer the questions honestly, and avoid duplication of responses. This form is not intended for commercial use, and the data collected will be used for research purposes only.
-</thinking>
-
 # Mom Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information from mothers to understand their personal details, habits, and preferences.

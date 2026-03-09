@@ -1,6 +1,3 @@
-<thinking>
-The goal of this form is to collect feedback and insights about a given survey from users. This form is called "Effective Explanation Survey" and is used to gauge how well a survey is explained to users. The form is designed to be filled out by users after they have taken the survey, and it will help to improve the explanation of future surveys.
-</thinking>
 # Effective Explanation Survey - Help Guide
 ## Purpose
 This survey is used to collect feedback on how well a survey was explained to you. Your input will help us improve the explanation of our surveys.

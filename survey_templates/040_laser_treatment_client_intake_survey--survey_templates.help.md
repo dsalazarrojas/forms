@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients about their laser treatment experience. The form is intended to be a comprehensive intake process that captures the necessary details to provide personalized care for each client. By following this guide, you will be able to complete the form accurately and efficiently.
-</thinking>
-
 # Laser Treatment Client Intake Survey - Help Guide
 ## Purpose
 This form is used to collect essential information about your laser treatment experience. It helps us understand your background, contact details, and treatment specifics. Please take a few minutes to carefully fill out this form.

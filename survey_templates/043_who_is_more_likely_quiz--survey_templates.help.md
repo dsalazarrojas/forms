@@ -1,7 +1,3 @@
-<thinking>
-We need to check if the form is relevant and not a duplicate, then proceed with the guide.
-</thinking>
-
 # Who Is More Likely Quiz - Help Guide
 ## Purpose
 The "Who Is More Likely Quiz" is a form designed to collect user feedback on which events or activities are more likely to occur at a party, in a classroom, team building, or virtual event. This form is used to gather insights on user preferences and opinions.

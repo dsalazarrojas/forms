@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the form is to collect information about digital care communication experiences to better understand the preferences and demographics of users. To create this form, the designer considered the following:
-- Users will be asked to provide their gender, as it is a required field to gather demographic information.
-- The form will ask for their age to ensure that the experience of different age groups is represented.
-- Users will be asked to specify their occupation, as it can be a factor influencing their digital care needs.
-- A question about experience will help to identify if users have had positive or negative experience with digital care, which is crucial to understanding their expectations.
-- Finally, users will be given an opportunity to provide any additional comments they might have, as it can provide valuable feedback.
-</thinking>
-
 # digital_care_communication_experience_survey - Help Guide
 
 ## Purpose

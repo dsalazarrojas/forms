@@ -1,6 +1,3 @@
-<thinking>
-# self-defense-product-feedback form is designed to collect product feedback from customers. It's meant for customers to provide detailed information about their product purchase experience, including satisfaction, recommendations, and any additional comments or issues they might have. This form is not meant to be filled out by employees or internal staff. The form is designed to be completed by customers who have purchased a product from the company. This form should not be filled out by customers who have not purchased a product, as it is not intended for general feedback or suggestions. This form's fields should only be filled out if the customer has a genuine issue or concern with their purchase or if they wish to provide positive feedback. 
-</thinking>
 # self-defense-product-feedback - Help Guide
 ## Purpose
 The self-defense-product-feedback form is designed to collect detailed information from customers about their product purchase experiences, including satisfaction, recommendations, and any additional comments or issues they might have.

@@ -1,7 +1,3 @@
-<thinking>
-This form, "media_consumption_survey", is designed to gather information about users' media consumption habits. The purpose of this form is to understand how users consume media, such as TV shows, movies, music, and podcasts. This data can be used to provide insights for content creators, distributors, and advertisers to better tailor their offerings to meet user preferences.
-</thinking>
-
 # media_consumption_survey - Help Guide
 ## Purpose
 This form is used to gather information about users' media consumption habits.

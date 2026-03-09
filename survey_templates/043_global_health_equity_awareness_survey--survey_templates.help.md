@@ -1,7 +1,3 @@
-<thinking>
-A Global Health Equity Awareness Survey helps organizations and researchers assess and understand the global health concerns and inequities that affect different populations. It is designed to collect relevant information on global health topics, regions, age groups, and other relevant factors. The survey is a crucial tool for identifying trends, gaps, and areas of improvement in global health equity. This guide will walk you through the purpose and usage of the Global Health Equity Awareness Survey form.
-</thinking>
-
 # Global Health Equity Awareness Survey - Help Guide
 ## Purpose
 

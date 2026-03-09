@@ -1,5 +1,3 @@
-<thinking>...The School District Calendar Voting Form is designed to collect user feedback and suggestions for scheduling changes. It's meant to be filled out by school staff, teachers, or administrators to propose new schedule changes or modifications. To avoid duplication, the form should only be filled out for new schedule proposals. If a similar proposal has been submitted recently, users will be directed to review existing proposals before submitting a new one...</thinking>
-
 # School District Calendar Voting Form - Help Guide
 ## Purpose
 The purpose of this form is to collect proposals for changes to the school district calendar. Fill it out to suggest new schedule options or modifications.

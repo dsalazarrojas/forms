@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We're creating a form called "e_commerce_delivery_experience_poll_form" to collect customer feedback on their delivery experience. This form is designed to gather information on various aspects of their order, including the condition of the packaging and products, timeliness, communication, and overall satisfaction. Please ensure that you are using this form for its intended purpose, and that your responses are honest and respectful of the customer's experience.
 
 # e_commerce_delivery_experience_poll_form - Help Guide

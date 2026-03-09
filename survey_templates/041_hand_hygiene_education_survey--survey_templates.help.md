@@ -1,7 +1,3 @@
-<thinking>
-We have a form to collect information about hand hygiene education within an organization. The purpose of this form is to assess the level of hand hygiene education provided by the organization, as well as the impact of such education on hand hygiene practices. We want to understand how well the organization has implemented hand hygiene education programs and the benefits they have brought about. We need to collect information on various aspects of hand hygiene, including the role of employees within the organization, the level of education provided, and the impact on hand hygiene practices.
-</thinking>
-
 # Hand Hygiene Education Survey - Help Guide
 ## Purpose
 

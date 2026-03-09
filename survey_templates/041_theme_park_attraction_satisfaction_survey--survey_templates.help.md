@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data about visitor satisfaction with theme park attractions. The purpose of this survey is to gather information about the theme park attractions that visitors have visited, their satisfaction with those attractions, and any other feedback they may have. To ensure that this survey is not duplicated or irrelevant, it is essential that the attraction name is specific to the theme park being visited. This survey can be used by theme park staff to improve and optimize their services and attractions for a better visitor experience.
-</thinking>
-
 # Theme Park Attraction Satisfaction Survey - Help Guide
 ## Purpose
 This survey aims to collect feedback from visitors to theme park attractions, allowing us to understand their experiences and satisfaction with different theme park attractions.

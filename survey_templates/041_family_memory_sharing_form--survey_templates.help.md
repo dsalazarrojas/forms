@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect family memories and stories from family members. The goal is to gather information about the family's history, experiences, and relationships. The form will be used as a template for generating a document that can be printed or shared with family members. 
-The form has multiple pages with different sections, each with its own fields. The form requires no prior knowledge or understanding of specific business logic or processes.
-</thinking>
 # Family Memory Sharing Form - Help Guide
 ## Purpose
 The Family Memory Sharing Form is a template for collecting family memories and stories. This form is designed to help you gather information about your family's history, experiences, and relationships.

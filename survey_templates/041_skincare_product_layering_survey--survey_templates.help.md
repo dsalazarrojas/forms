@@ -1,33 +1,3 @@
-<thinking>
-This form appears to be a survey designed to gather information about a user's skincare habits and preferences. The form likely aims to collect data on how often users use various skincare products, the types of products they use, and their layering habits. It's possible this survey is used in the beauty or personal care industry for market research or product development purposes.
-
-The fields provided in the form include:
-
-* How often they use skincare products
-* The type of products used
-* Their skin condition
-* How often products are applied
-* How they typically layer products
-* Consistency of their routine
-* How long they keep using a skincare product
-
-The form does not seem to be a traditional survey, as many fields are optional and allow users to choose from various options. However, without further context, it's difficult to confirm its purpose and target audience.
-
-The form has 8 fields:
-
-* Skincare Routines (page with no field)
-* How often do you use skincare products? (select_one)
-* What product type do you use? (select_multiple)
-* What is your skin condition? (select_one)
-* How often do you apply skincare products? (select_one)
-* How do you typically layer skincare products? (select_multiple)
-* How consistent is your skincare routine? (select_one)
-* How long do you keep using a skincare product until you stop? (select_one)
-
-It's essential to review the form's purpose and target audience to ensure the provided information is accurate and helpful for the users.
-
-</thinking>
-
 # Skincare Product Layering Survey - Help Guide
 ## Purpose
 This survey aims to collect information about your skincare habits and preferences. Your responses will help us understand how you use and layer skincare products.

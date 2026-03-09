@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback and insights from HR personnel on their current use of various tools and initiatives within the HR department, with the goal of identifying gaps and opportunities for improvement in HR innovation adoption. It is crucial to gather accurate and relevant information to inform strategic decisions and drive positive change within the HR department. This form will help us understand what tools and methods HR personnel are currently using, and what they think are the most effective and useful ones. To avoid duplication of effort, please ensure that you have not already completed this survey. If you have, your feedback will be automatically recognized, and you will be directed to skip to the next page.
-</thinking>
-
 # HR Innovation Adoption Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your current use of various HR tools and initiatives. Your responses will help us understand what works and what doesn't in HR innovation adoption, and will inform strategic decisions to improve HR processes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # English Grammar Error Quiz - Help Guide
 
 ## Purpose

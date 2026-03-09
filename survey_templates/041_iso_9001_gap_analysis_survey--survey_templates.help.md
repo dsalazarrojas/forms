@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a larger survey and is used to collect data from managers within an organization. The purpose of this form is to conduct an analysis on the gap between what employees perceive as best practices and what managers think are best practices. Each question is designed to gather specific information that will be used to identify discrepancies between employee and manager perceptions. This form is used to gather data, not for immediate action or discussion. 
-</thinking>
-
 # iso_9001_gap_analysis_survey - Help Guide
 ## Purpose
 This form is used to collect data for a survey on the gap analysis between employee and manager perceptions.

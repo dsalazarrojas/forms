@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from members of a community or organization. The purpose of this form is to gather input and suggestions from members to improve services, products, or processes within the organization. 
-
-This form is meant to be a simple and straightforward way to collect feedback, without requiring extensive technical expertise. It is not a replacement for more in-depth feedback mechanisms, but rather a quick and easy way to get general input from members.
-
-Please note that this form is not a replacement for more formal surveys or assessments, and should only be used for general feedback purposes.
-
-</thinking>
-
 # Member Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from members of a community or organization.

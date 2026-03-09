@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess the quality of service provided by suppliers. This form will likely be filled out by customers or procurement teams to evaluate and record their experience with a supplier.
-</thinking>
-
 # supplier_quality_assessment_form - Help Guide
 ## Purpose
 The supplier quality assessment form is designed to gather information about a supplier's performance, including their quality of service, communication, reliability, and response time.

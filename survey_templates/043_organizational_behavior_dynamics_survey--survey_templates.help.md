@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about organizational behavior dynamics. The purpose of this form is to gather responses from employees about their perceptions of the dynamics within their organization, specifically their leadership, culture, communication, collaboration, satisfaction, and departmental aspects. This form is likely used by HR or organizational development teams to gain insights into employee sentiments and opinions about the organization's dynamics.
-</thinking>
- 
 # Organizational Behavior Dynamics Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from employees about their experiences and perceptions within the organization. The information collected will help the HR or organizational development teams to understand the strengths and weaknesses of the organization's dynamics.

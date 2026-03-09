@@ -1,9 +1,3 @@
-<thinking>
-This form is a survey that collects user testimonials in the form of video, audio, or text submissions. It is used to gather feedback and opinions from users about a product, service, or experience. To ensure that your submission is processed correctly, please review the following fields carefully.
-
-Please note that this form is a general-purpose form and not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation and does not copy, extract, or use proprietary content from any other form creation, data collection, or survey platform.
-</thinking>
-
 # Video Testimonial Submission Form - Help Guide
 ## Purpose
 This form is designed to collect user testimonials in various formats (video, audio, and text) to gather feedback and opinions from users.

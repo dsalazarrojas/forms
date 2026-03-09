@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a person's personality traits through a series of color preferences and associations. It is intended to be a fun and engaging way to gain insight into an individual's color preferences and how they may influence their personality. Before proceeding, please ensure that this form is not already completed for you, as the purpose is to collect new and unique responses.
-
-</thinking>
-
 # Personality Color Assessment - Help Guide
 ## Purpose
 This form is a fun and interactive way to explore the relationship between color preferences and personality traits. It will ask you to select colors that you like, associate with confidence, evoke strong emotions, and represent your personality. This will help us gain a better understanding of your unique color profile.

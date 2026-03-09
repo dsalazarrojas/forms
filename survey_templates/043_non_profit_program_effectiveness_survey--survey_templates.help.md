@@ -1,7 +1,3 @@
-<thinking>
-To be honest, this form appears to be a standard survey template designed to gauge the effectiveness of non-profit programs. It's likely used to gather feedback from program participants to assess areas of improvement and satisfaction. It's possible that this form is part of a larger evaluation process to inform program development and decision-making. Before proceeding, please ensure that this form is relevant to your specific use case and doesn't duplicate any existing evaluation processes. It's also a good idea to review the form's fields and their labels for clarity and completeness.
-</thinking>
-
 # Non Profit Program Effectiveness Survey - Help Guide
 
 ## Purpose

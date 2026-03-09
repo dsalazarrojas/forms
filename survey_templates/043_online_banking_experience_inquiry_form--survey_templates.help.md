@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to gather information about the customer's online banking experience to help us improve our services. This form is intended to be filled out by customers after they have used our online banking services. The information gathered will help us understand their satisfaction levels, perceived security, and preferences for product updates and services.
-We want to make sure you have all the information needed to complete the form accurately, so please take your time to fill it out carefully. If you have any issues or questions, feel free to ask.
-We kindly remind you that filling this form will not affect your online banking experience in any way. It's a tool to help us better serve you.
-</thinking>
-
 # Online Banking Experience Inquiry Form - Help Guide
 ## Purpose
 The Online Banking Experience Inquiry Form is a tool designed to help us understand your satisfaction with our online banking services. Your input will help us identify areas of improvement and enhance your overall experience.

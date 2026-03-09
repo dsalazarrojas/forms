@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is designed to evaluate the effectiveness of communication between patients and their healthcare providers. It is intended to gather feedback on how often patients feel understood, the quality of care planning, and what can be improved to enhance patient care. This form is not a duplicate of existing ones, but rather a unique assessment tool to help healthcare providers tailor their communication approach to individual patients' needs.
-
-</thinking>
-
 # Patient Communication Effectiveness Evaluation Form - Help Guide
 ## Purpose
 This form is used to gather feedback on patient communication with their healthcare providers. It helps evaluate the effectiveness of communication and identifies areas for improvement.

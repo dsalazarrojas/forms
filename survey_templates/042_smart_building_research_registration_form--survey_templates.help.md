@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from participants in smart building research. This form is intended for individuals who wish to register their interest in participating in smart building research, including participants, researchers, and real estate teams. By filling out this form, participants can provide their basic contact information, research interests, and specific details about their involvement in the research. The form is designed to ensure that all relevant information is collected accurately and efficiently.
-</thinking>
-
 # Smart Building Research Registration Form - Help Guide
 ## Purpose
 This form is meant to gather information from participants in smart building research projects. Please take a few minutes to fill out the form accurately and thoroughly.

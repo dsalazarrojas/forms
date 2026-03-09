@@ -1,12 +1,3 @@
-<thinking>
-This form is used to gather feedback on the completeness of information provided. The form is designed to assess the clarity, thoroughness, and ease of reading of the information. It also allows respondents to provide additional comments or questions they may have.
-
-To ensure accurate and consistent feedback, please complete the form with careful consideration and attention to detail. If you are familiar with the information, please answer the form as quickly and accurately as possible. If you are unsure or have questions, feel free to add additional comments in the designated fields.
-
-Before starting, please note that some fields are mandatory and must be completed to provide a complete and thorough response. The form has been designed to be user-friendly and intuitive, but if you have any difficulties or concerns, do not hesitate to reach out for assistance.
-
-</thinking>
-
 # Information Completeness Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on the completeness of information provided. This form aims to assess the clarity, thoroughness, and ease of reading of the information. Your responses will help improve the accuracy and quality of the information.

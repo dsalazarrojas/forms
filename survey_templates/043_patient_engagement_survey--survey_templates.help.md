@@ -1,5 +1,3 @@
-<thinking>...checking for form relevance and non-duplication...</thinking>
-
 # Patient Engagement Survey - Help Guide
 ## Purpose
 The Patient Engagement Survey is designed to gather feedback from patients about their experience and engagement with our healthcare organization. This survey aims to understand patients' perceptions, satisfaction, and any additional comments they may have. Please note that this survey is anonymous and all responses will be kept confidential.

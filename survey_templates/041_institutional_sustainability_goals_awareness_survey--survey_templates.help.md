@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to assess the level of awareness and engagement of institutional employees with sustainability goals. It is essential to ensure that the survey does not overlap with existing efforts and that the information provided is accurate. Before proceeding, please verify that your department is not already using a similar survey or form to collect the same information. The survey's purpose is to gauge the understanding and commitment of employees towards sustainability goals and to identify areas where more awareness and support are needed.
-</thinking>
-
 # Institutional Sustainability Goals Awareness Survey - Help Guide
 ## Purpose
 This survey aims to evaluate the level of awareness and engagement of institutional employees with sustainability goals, identifying areas where more support is needed to promote a culture of sustainability within the institution.

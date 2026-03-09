@@ -1,7 +1,3 @@
-<thinking>
-The Restaurant Profile Survey form is designed to gather information about restaurants, including their name, location, type, cuisine, price range, hours of operation, staff rating, cleanliness rating, overall rating, comments, email, phone number, website, social media presence, and rating scale. This form ensures that users provide accurate and comprehensive data about restaurants, which can be used for various purposes such as customer service, marketing, and data analysis. To prevent data duplication, ensure that you are not filling out this form for a restaurant that has already been surveyed.
-</thinking>
-
 # Restaurant Profile Survey - Help Guide
 ## Purpose
 The Restaurant Profile Survey form collects information about restaurants to provide a comprehensive overview of each location.

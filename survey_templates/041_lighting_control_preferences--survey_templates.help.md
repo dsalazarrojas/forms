@@ -1,13 +1,3 @@
-<thinking>
-
-To help ensure that users understand the purpose and requirements of this form, let's break down its design and functionality. This form, "Lighting Control Preferences," is meant to collect information from users about their preferences and needs regarding lighting control in various settings. The form is designed to be simple, yet comprehensive, and its fields allow users to express their thoughts and opinions in a concise manner. 
-
-The form is not a duplicate or redundant feature, and its purpose is to gather accurate and detailed information from users. It does not involve any sensitive or personal data and is designed to provide valuable insights for users and administrators alike. 
-
-By using this form, users can express their thoughts and opinions on their lighting control needs, including their level of automation preference, priority level, and any notes they may have. The form's fields are clear and concise, and the options provided are relevant and well-defined.
-
-</thinking>
-
 # Lighting Control Preferences - Help Guide
 ## Purpose
 The Lighting Control Preferences form is designed to collect information from users about their preferences and needs regarding lighting control in various settings.

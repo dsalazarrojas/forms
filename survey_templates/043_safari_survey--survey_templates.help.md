@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for a safari survey. This form will likely be used to gather data on user preferences, interests, and demographics for marketing and sales purposes. This form is likely to be used by the marketing or sales team to collect feedback and insights from users, and will help inform future product development and sales strategies. Before starting, ensure you have a clear understanding of the purpose and goals of this form, and that you are not duplicating effort with existing forms or surveys.
-
-</thinking>
-
 # safari_survey - Help Guide
 ## Purpose
 

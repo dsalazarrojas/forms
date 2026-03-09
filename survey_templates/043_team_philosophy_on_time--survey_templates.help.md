@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Philosophy On Time - Help Guide
 ## Purpose
 The Team Philosophy On Time form is designed to help teams reflect on and document their approach to managing time effectively. This form is meant to be used by team members to understand each other's expectations and commitments, and to identify areas for improvement in their time management practices. By completing this form, teams can gain a deeper understanding of their current habits and work towards implementing better time management strategies.

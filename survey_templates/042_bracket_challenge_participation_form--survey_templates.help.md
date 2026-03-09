@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for participants to register for and complete a bracket challenge, a type of sports betting pool where participants create and submit a predicted outcome for a series of matches. The form collects participant information, challenge preferences, and payment details. This form is likely used in a competitive sports environment, such as a fantasy sports platform or sports betting site.
-
-To avoid duplication, this form likely exists within a larger system that tracks participant information and challenge submissions. 
-
-</thinking>
-
 # Bracket Challenge Participation Form - Help Guide
 ## Purpose
 This form is for participants to register and complete a bracket challenge. It collects information about the participant, challenge preferences, and payment details.

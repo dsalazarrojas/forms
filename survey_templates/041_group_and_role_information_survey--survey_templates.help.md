@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a comprehensive survey focused on gathering information about groups and their roles. It's likely designed to collect data about the structure, composition, and history of these groups. The fields cover various aspects, including member details, roles, responsibilities, and group attributes. It's possible that this form is used for organizational or administrative purposes, such as creating or managing team groups within an organization. It's also possible that the form is used to track the status and progression of groups over time.
-
-To ensure the form is filled out accurately and efficiently, it's essential to understand each field's purpose. This guide will walk users through the form's structure and each field's explanation.
-
-</thinking>
-
 # Group And Role Information Survey - Help Guide
 ## Purpose
 This form is designed to collect information about groups and their roles. It's intended to help organizations understand their team structure, member responsibilities, and group attributes.

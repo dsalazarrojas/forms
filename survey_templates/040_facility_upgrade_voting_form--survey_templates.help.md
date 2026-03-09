@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to cast their vote on facility upgrades. The purpose of this form is to collect opinions and preferences from employees or stakeholders on which facility upgrades they would like to see implemented. The form consists of multiple pages with various fields to gather information about the proposed upgrades. The form does not require any personal or sensitive information and is intended for general feedback. It is likely that the form will be used within an organization or company to gather opinions and prioritize upgrades based on the feedback received.
-</thinking>
-
 # Facility Upgrade Voting Form - Help Guide
 ## Purpose
 The Facility Upgrade Voting Form is designed to collect opinions and preferences from employees or stakeholders on which facility upgrades they would like to see implemented.

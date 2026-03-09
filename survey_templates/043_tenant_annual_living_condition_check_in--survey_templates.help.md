@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather information about the living condition of a tenant at the end of each calendar year. It is intended to be filled out by the tenant or their representative, and its purpose is to provide a comprehensive overview of the property's condition at the time of the annual check-in.
-
-To complete this form, follow these steps:
-
-1.  On the first page, enter the current date in the "Annual Living Condition Check In Date" field. This is the date on which you are completing the form.
-2.  On the second page, select the priority of the maintenance required for the property. Choose from the options A, B, C, D, or E, depending on the level of attention needed.
-3.  On the third page, enter any comments or observations about the condition of the property. This is the space for any additional information that you want to report.
-4.  On the fourth page, select the methods used for data collection for the property. Choose from the options A, B, C, D, or E.
-
-</thinking>
-
 # Tenant Annual Living Condition Check In - Help Guide
 ## Purpose
 

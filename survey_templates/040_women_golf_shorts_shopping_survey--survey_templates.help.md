@@ -1,7 +1,3 @@
-<thinking>
-The form is being used to gather feedback from women golfers on their shopping preferences, satisfaction with their current shopping experience, and other relevant information. This form is not intended for internal use within the company and is meant to be used for customer feedback purposes only. This form is a survey to collect data on women golfers' shopping habits and preferences.
-</thinking>
-
 # Women Golf Shorts Shopping Survey - Help Guide
 ## Purpose
 The Women Golf Shorts Shopping Survey is a form used to gather feedback from women golfers on their shopping preferences and experience. This survey aims to collect information on their shopping habits, satisfaction with their current shopping experience, and other relevant details.

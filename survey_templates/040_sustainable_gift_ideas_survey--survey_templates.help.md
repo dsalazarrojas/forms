@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from users about their gift preferences, motivations, and other relevant details. The form is likely used by a business or organization to gather insights into their gift-giving process. The form is not explicitly stated to be for internal use only, but its purpose and design suggest it might be used for a specific business or organizational context. This guide will walk through the form's purpose, how to complete it, and a field-by-field explanation of each section.
-</thinking>
-
 # Sustainable Gift Ideas Survey - Help Guide
 ## Purpose
 The Sustainable Gift Ideas Survey is designed to gather information from users about their gift preferences, motivations, and other relevant details. This form aims to provide insights into the gift-giving process, likely for a business or organization's internal use.

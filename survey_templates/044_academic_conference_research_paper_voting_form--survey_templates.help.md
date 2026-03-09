@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect peer-review votes for academic conference research papers. It is intended for reviewers to provide a comprehensive evaluation of each paper, covering various aspects such as originality, methodology, clarity, significance, and overall recommendation. The form is meant to be filled out by reviewers with expertise in the relevant field or track, and the votes will be used to inform the program committee's decisions.
-
-To ensure data quality and prevent duplication, this form is designed to be completed only once per reviewer. If a reviewer has already submitted a vote for a paper, they will not be able to access the form again to submit a new vote.
-
-The form is divided into several sections: reviewer information, paper details, ratings, strengths and weaknesses, and comments. Each section is designed to collect specific information and provide a comprehensive evaluation of the paper.
-
-</thinking>
-
 # Academic Conference Research Paper Voting Form - Help Guide
 ## Purpose
 This form is designed to collect peer-review votes for academic conference research papers, providing a comprehensive evaluation of each paper across various aspects.

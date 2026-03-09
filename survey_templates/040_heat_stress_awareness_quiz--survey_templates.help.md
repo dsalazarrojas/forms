@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a quiz designed to assess an individual's knowledge about heat stress, specifically its symptoms, risks, and mitigation strategies. It seems to be used in an environment where heat stress is a relevant concern, such as in construction or other physically demanding occupations. Before we proceed, let's review the form to ensure it's complete and free of errors. After reviewing the YAML, I see that this form is designed to gather information about an individual's understanding of heat stress, its symptoms, risk factors, and how to mitigate it. All the questions seem relevant and well-structured. Now, let's create the help guide for the user.
-
-</thinking>
-
 # Heat Stress Awareness Quiz - Help Guide
 
 ## Purpose

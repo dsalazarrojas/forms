@@ -1,8 +1,3 @@
-<thinking>
-This form is likely designed to collect information from users about their daily transportation fees, which could be used for research, analysis, or other business purposes. The purpose of this form is to gather details about the frequency, mode, and time spent on daily commutes, as well as user satisfaction with current transportation fees. This form might be used by transport authorities, researchers, or companies to better understand public transportation usage patterns and inform policy decisions. Please confirm that you understand the form's purpose and relevance before proceeding.
-
-</thinking>
-
 # Daily Transportation Fee Survey - Help Guide
 ## Purpose
 The Daily Transportation Fee Survey is designed to collect information from users about their daily transportation habits, including the frequency and mode of commutes, commute time, and user satisfaction. This data can be used to inform policy decisions and improve public transportation services.

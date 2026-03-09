@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback and comments from judges and representatives of the competition organizers about the Space Model Competition. The purpose of this form is to gather information about their experience and opinions on the competition, including their thoughts on the winners, the overall experience, and their willingness to provide feedback. The form will help identify areas for improvement and provide valuable insights for future competitions.
-
-This form is not intended for public submission. It's a private feedback collection tool for the competition organizers. 
-
-</thinking>
-
 # Space Model Competition Voting - Help Guide
 ## Purpose
 The Space Model Competition Voting form is designed to collect feedback and comments from judges and representatives of the competition organizers about the competition. This form will help gather information about their experience and opinions on the competition, including their thoughts on the winners, the overall experience, and their willingness to provide feedback.

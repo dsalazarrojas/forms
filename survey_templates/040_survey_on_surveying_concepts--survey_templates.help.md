@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Survey On Surveying Concepts - Help Guide
 ## Purpose
 This survey is designed to assess your understanding of surveying concepts. It consists of multiple pages with questions that cover various aspects of surveying. Each page is designed to help us understand your perspective on specific topics related to surveying. Your responses will help us improve our surveying processes.

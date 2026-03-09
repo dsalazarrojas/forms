@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from tabletop game players on the game's title, version, rating, feedback, and recommended improvements. The purpose of this form is to gather input from players to help game developers understand what they like or dislike about their game and identify areas for improvement.
-</thinking>
-
 # tabletop_game_feedback_form - Help Guide
 ## Purpose
 The table-top_game_feedback_form is used to collect feedback on tabletop game experience. This form will help game developers understand what to improve.

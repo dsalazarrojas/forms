@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about education market research projects. It is used to gather data from participants in educational research projects. The form is designed to be completed by researchers or project leads to register their projects and provide details about their research focus, participant information, and project status.
-To avoid duplication, this form should only be used for projects that are not already registered in the system.
-
-</thinking>
-
 # Education Market Research Registration - Help Guide
 ## Purpose
 This form is used to register education market research projects and collect information from participants.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users understand their personality traits by taking a personality quiz, specifically tailored to the "monster" personality, with multiple-choice questions that ask about personality traits. This guide will walk you through the steps to complete this form and explain each field in detail.
-</thinking>
-
 # monser_personaliy_quiz - Help Guide
 ## Purpose
 The "monser_personaliy_quiz" form is a personality quiz designed to help users understand their monster personality traits. It consists of multiple-choice questions that ask about various personality characteristics. After completing the quiz, users will be able to gain insights into their personality and have a conclusion page to review their results.

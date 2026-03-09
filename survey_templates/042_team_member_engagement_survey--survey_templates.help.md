@@ -1,10 +1,3 @@
-<thinking>
-To avoid duplication and ensure the correct completion of the form, we will first verify the relevance and importance of this form for team members. This form, "Team Member Engagement Survey," is crucial for understanding how team members perceive their work environment, manager, and overall well-being. Its purpose is to collect feedback on various aspects of team members' experiences, such as their satisfaction with their work environment, manager, and work-life balance. This data will help managers and leadership identify potential areas for improvement and provide targeted support to team members.
-
-Upon reviewing the form, it is clear that it is designed to be user-friendly and straightforward, with most fields being self-explanatory. However, to ensure that users understand the intent behind each field, we will provide a detailed explanation of each field in the Field-by-Field Explanation section.
-
-</thinking>
-
 # Team Member Engagement Survey - Help Guide
 ## Purpose
 

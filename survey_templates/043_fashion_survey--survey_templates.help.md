@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fashion Survey - Help Guide
 
 ## Purpose

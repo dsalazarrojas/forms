@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from users for hotel recommendations. It is meant to be filled out by individuals who wish to provide input on their hotel preferences. This guide is intended to be used by these users to fill out the form accurately and efficiently. Please read this guide carefully to ensure you are able to complete the form correctly.
-</thinking>
-
 # Hotel Recommendation Form - Help Guide
 
 ## Purpose

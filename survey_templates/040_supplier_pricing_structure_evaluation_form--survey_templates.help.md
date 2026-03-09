@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # supplier_pricing_structure_evaluation_form - Help Guide
 ## Purpose
 This form is used to evaluate the pricing structure of a supplier. It gathers information about the supplier's pricing model, pricing frequency, contract period, and other related details.

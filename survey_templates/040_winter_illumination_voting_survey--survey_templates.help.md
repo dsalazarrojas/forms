@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Winter Illumination Voting Survey - Help Guide
 ## Purpose
 

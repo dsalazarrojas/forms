@@ -1,12 +1,4 @@
-# <thinking>...thinking>
-
-This form is a part of a larger survey that aims to gather feedback on the breakfast program provided by an educational institution. The goal is to understand the opinions and experiences of the participants, including students, teachers, staff, parents, and administrators, to help improve the quality and effectiveness of the program.
-
-To ensure that the feedback is valuable and actionable, please fill out this form carefully and honestly. If you have already filled out a similar survey, please do not submit the same feedback.
-
-</thinking>
-
-# Breakfast Program Feedback - Help Guide
+# # Breakfast Program Feedback - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on the breakfast program provided by your institution. Your input will help improve the quality and effectiveness of the program.
 

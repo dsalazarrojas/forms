@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect demographic information from influencers for validation purposes. It is designed to be a comprehensive questionnaire that covers various aspects of an influencer's online presence and contact information. The form should only be filled out by influencers who have explicitly opted-in to receive emails or other forms of communication from the platform. It is essential to check that an influencer has not already been previously validated to avoid duplication of effort and to maintain data accuracy.
-
-The fields in this form are categorized into two main sections: Demographics and Social Media. The Demographics section collects general information about the influencer, including name, location, gender, age, occupation, and income. The Social Media section asks for the influencer's preferred social media platforms, email frequency, email format, and email provider.
-
-It is crucial to fill out the form accurately and completely, as the information collected will be used to tailor communication and content recommendations to the individual influencer's preferences.
-</thinking>
-
 # influencer_demographic_validation_form - Help Guide
 ## Purpose
 This form is designed to collect demographic information from influencers for validation purposes.

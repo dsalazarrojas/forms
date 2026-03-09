@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, my goal is to create a user-friendly help guide that explains the purpose and functionality of the 'gender_transition_support_survey' form. This guide will be concise, easy to understand, and practical for users who need help completing the form. I will base my explanation on the provided YAML fields, using the labels and hints as a reference to provide clarity on each field's purpose.</thinking>
-
 # gender_transition_support_survey - Help Guide
 ## Purpose
 The 'gender_transition_support_survey' form is designed to gather information about your experiences with support during your gender transition. This survey aims to understand the types and levels of support you have received, as well as your interactions with healthcare professionals and online resources.

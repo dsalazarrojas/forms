@@ -2,8 +2,6 @@
 
 ## Purpose
 
-<thinking>This form is designed to help managers and team members assess and improve timekeeping policies and practices within a team. It is used to collect feedback and identify areas of improvement to enhance productivity and compliance with timekeeping standards.</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

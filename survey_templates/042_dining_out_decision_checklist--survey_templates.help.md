@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help individuals make dining out decisions by asking a series of questions related to meal preferences, dietary restrictions, and notification options.
-The form is intended to be completed by users, and it is not affiliated with, endorsed by, or derived from any form platform. The form schema is generated using only public survey topic metadata as inspiration.
-The purpose of this guide is to ensure that users understand the form's intention and can complete it accurately.
-</thinking>
-
 # Dining Out Decision Checklist - Help Guide
 ## Purpose
 This form helps users make informed decisions when dining out by asking questions about their preferences and restrictions.

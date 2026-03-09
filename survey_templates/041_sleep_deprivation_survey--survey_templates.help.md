@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from users about their sleep habits and experiences. It's essential to complete this form accurately and honestly, as the data collected will help identify patterns and trends related to sleep deprivation. Please note that some fields may be optional or have specific instructions, so make sure to read each field carefully before providing your input. If you have any previous experience with this form, you may skip it, but your input is still valuable if your circumstances have changed.
-</thinking>
-
 # Sleep Deprivation Survey - Help Guide
 ## Purpose
 The Sleep Deprivation Survey aims to gather information about your sleep habits, difficulties, and experiences. Your input will help us better understand sleep-related patterns and trends.

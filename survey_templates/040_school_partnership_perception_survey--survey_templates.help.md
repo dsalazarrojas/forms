@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Partnership Perception Survey - Help Guide
 ## Purpose
 This survey aims to gauge your perceptions of our school partnership, helping us understand your views on various aspects of our collaboration. Your feedback will contribute to strengthening our partnership and improving our services.

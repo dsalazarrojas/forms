@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a company's payment policy for service partners. The purpose of this form is to gather insights into how companies approach payment terms, communicate them to service partners, and manage feedback and concerns from them. The form is intended to help companies better understand their payment policies and identify areas for improvement. 
-
-This form appears to be a comprehensive survey about payment policies, covering various aspects such as payment due dates, additional fees, communication methods, and feedback management. It is likely to be used by companies that work with service partners, such as freelancers, contractors, or vendors. 
-
-Before filling out this form, it is essential to have a clear understanding of the company's payment policies and procedures to ensure accurate and relevant information is provided. This form is not designed to be completed in one sitting, and respondents are encouraged to review and fill it out in sections, taking care to provide detailed and accurate information for each field.
-
-</thinking>
-
 # Service Partner Payment Policy Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your company's payment policies for service partners. It covers various aspects of payment terms, communication, and feedback management.

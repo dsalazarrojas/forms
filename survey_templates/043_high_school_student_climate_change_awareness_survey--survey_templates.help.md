@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to gather information from high school students on their awareness and perceptions of climate change. This includes their level of concern, understanding of its causes, and thoughts on how to address it. The responses will be used to inform educational initiatives and policies that promote climate change awareness and education in schools.
-The survey questions cover various aspects of climate change, including the student's level of concern, understanding of its causes, perceived impact on their community, and potential actions to address it. Some questions are multiple-choice, allowing students to choose one or more options, while others are single-select or numerical.
-This form does not appear to have any identical or near-identical questions. However, some questions may be similar to others in terms of content or intent. It is essential to review each question carefully and ensure that the student's response is not influenced by previous answers.
-To ensure accurate and complete responses, please provide honest answers to each question, and make sure to answer all questions that apply to you. If you are unsure about a question, please select "Not applicable" or "Not likely at all" as a response.
-</thinking>
-
 # High School Student Climate Change Awareness Survey - Help Guide
 ## Purpose
 The High School Student Climate Change Awareness Survey aims to gather information from high school students on their awareness and perceptions of climate change. This survey is designed to understand how students think about climate change, what they know about it, and how they believe their schools can address it.

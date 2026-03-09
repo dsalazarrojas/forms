@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about user's laptop usage habits and preferences. 
-It collects data on laptop usage frequency, purchase year, resolution, storage capacity, connectivity options, operating system, and other relevant details. 
-The purpose of this form is to gather user feedback and insights about their laptop usage patterns, helping businesses and organizations understand their audience better. 
-</thinking>
-
 # Laptop Research Survey Template - Help Guide
 ## Purpose
 This form aims to collect data on laptop usage habits and preferences of users. It helps businesses and organizations understand their audience's behavior and make informed decisions.

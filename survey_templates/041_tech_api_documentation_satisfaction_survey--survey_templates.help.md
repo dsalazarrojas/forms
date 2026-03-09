@@ -1,7 +1,3 @@
-<thinking>
-Before you begin, let's quickly review the purpose of this form and ensure it's a good fit for you. This Tech API Documentation Satisfaction Survey is designed to gather feedback from users about their experience with our API documentation. It's a series of questions that will help us understand your satisfaction level with our documentation, identify areas of improvement, and gather suggestions for further development. Please take a moment to review the form carefully, and if you have any questions or concerns, feel free to ask. Also, please note that this form is intended for internal use, and your responses will help us improve our API documentation. If you've already completed a similar survey, your answers may be duplicated, so please don't hesitate to provide feedback if you have a different perspective. Let's move on to the instructions.
-</thinking>
-
 # Tech API Documentation Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about their experience with our API documentation. It will help us understand your satisfaction level, identify areas of improvement, and gather suggestions for further development.

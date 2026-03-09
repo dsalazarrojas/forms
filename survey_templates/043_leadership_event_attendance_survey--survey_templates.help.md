@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the "Leadership Event Attendance Survey" form, which is intended for evaluating the effectiveness of a leadership event. This form is designed to collect feedback from attendees on various aspects of the event, including session participation, overall rating, and suggestions for improvement. The form aims to gather information that can be used to refine and improve future leadership events. Please ensure you have the necessary permissions and consent from the event participants before collecting their feedback.
-</thinking>
-
 # Leadership Event Attendance Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from attendees on the leadership event, allowing you to evaluate its effectiveness and make improvements for future events.

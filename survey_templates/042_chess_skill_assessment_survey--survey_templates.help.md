@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive assessment survey for individuals who play chess. The purpose of this form is to collect information about the player's background, skills, and goals. This information will likely be used to tailor a training program or provide guidance to improve the player's chess skills. The form is divided into several sections, including demographics, playing habits, skills assessment, and areas for improvement. This form does not appear to be a duplication of any other form in the "survey_templates" category.
-</thinking>
-
 # Chess Skill Assessment Survey - Help Guide
 ## Purpose
 This form is designed to help us understand your chess skills, experience, and goals. The information collected will be used to tailor a training program or provide guidance to improve your skills.

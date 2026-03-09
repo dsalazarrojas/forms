@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather public input on the potential renovation of a public park. The purpose of the form is to collect data on the opinions and thoughts of the public on what kind of upgrades and changes should be made to the park. This form will help the park administration to understand the community's needs and priorities for the park renovation project. 
-
-Note: Before proceeding, please ensure that you are accessing this form with a valid login. 
-If this form has been filled out previously by you, please do not fill it out again to avoid duplication of effort. If you are accessing this form for a different purpose (e.g., for research, to report an issue), please do not fill it out as it is not intended for that purpose. 
-
-</thinking>
-
 # public_park_renovation_poll - Help Guide
 ## Purpose
 This form is designed to collect public input on the potential renovation of a public park. It will help the park administration understand the community's needs and priorities for the park renovation project.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # heel_pain_assessment_survey - Help Guide
 ## Purpose
 The heel pain assessment survey is a collection of questions designed to gather information about a patient's heel pain experience. It helps healthcare professionals assess the severity and characteristics of the pain, as well as the patient's medical history and treatment history. This survey is used to support the diagnosis and treatment of heel pain conditions.

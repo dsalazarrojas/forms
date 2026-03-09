@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation of business specialists' offers. The purpose of this form is to help reviewers provide a comprehensive assessment of an offer, considering various factors such as market alignment, competitive advantage, value proposition clarity, financial viability, and overall recommendation. To ensure the form is filled out accurately and effectively, we will only allow one submission per reviewer. Reviewers are encouraged to provide honest and constructive feedback, and their input will help shape the decision-making process for the offer being reviewed.
-Please fill out this form carefully, and be as detailed as possible in your responses. If you have any questions or concerns, feel free to reach out to the form creators for assistance.
-</thinking>
-
 # Business Specialist Offer Review - Help Guide
 ## Purpose
 

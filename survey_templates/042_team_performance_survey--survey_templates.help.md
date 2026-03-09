@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to gather information about <string>. It is designed to assist in the collection of data on <string> that will help us better understand <string>. This form should only be filled out once for each <string> and not repeated if the same <string> has already been processed.

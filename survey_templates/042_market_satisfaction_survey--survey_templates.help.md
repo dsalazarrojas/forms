@@ -1,6 +1,3 @@
-<thinking>
-**Internal reasoning block:** This form, "Market Satisfaction Survey," is designed to collect customer feedback on their experience with the store's services and products. It is likely used to assess customer satisfaction, identify areas of improvement, and inform business decisions. This guide will help users understand the purpose and requirements of the form, ensuring they complete it accurately and provide valuable insights.
-</thinking>
 # Market Satisfaction Survey - Help Guide
 ## Purpose
 This form, "Market Satisfaction Survey," is designed to collect customer feedback on their experience with the store's services and products. The goal is to gauge customer satisfaction and help us understand how we can improve.

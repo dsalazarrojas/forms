@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess the educational leadership of a school or institution. It is designed to gather information about the quality of educational leadership and its impact on the school environment. Please ensure that the form is filled out by someone with knowledge of the school's educational leadership, such as a teacher or school administrator. To avoid duplication of effort, please only fill out this form once per school year.
-
-</thinking>
-
 # Educational Leadership Assessment Survey - Help Guide
 
 ## Purpose

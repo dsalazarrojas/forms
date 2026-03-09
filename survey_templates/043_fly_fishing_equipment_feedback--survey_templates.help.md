@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fly Fishing Equipment Feedback - Help Guide
 
 ## Purpose

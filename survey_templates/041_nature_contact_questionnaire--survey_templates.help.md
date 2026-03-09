@@ -1,5 +1,3 @@
-<thinking>... This is a form designed to gather information about users' nature contact frequency and activities, with the goal of understanding how people interact with nature and the impact of their activities on the environment. This form is part of a larger study to assess and manage natural resources. Please note that this form is not meant to be filled out multiple times, and each response is unique. If you have already completed this form, you may not need to do so again... </thinking>
-
 # Nature Contact Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about your nature contact frequency and activities. Your responses will help us understand how people interact with nature and the impact of their activities on the environment.

@@ -1,10 +1,3 @@
-<thinking>
-We are creating a help guide for the "Wireline Training Assessment Survey" form. This form is used to assess the training needs and confidence levels of employees in various locations. It's crucial to understand that this form is designed to be completed by employees who have undergone wireline training, and the purpose of the form is to gather information on their confidence levels and training locations. 
-
-This guide will walk you through each field of the form, explaining what each field means and how to fill it out correctly.
-
-</thinking>
-
 # Wireline Training Assessment Survey - Help Guide
 ## Purpose
 This form is used to assess the training needs and confidence levels of employees who have undergone wireline training. It's designed to help us understand the effectiveness of our training program and identify areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather participant feedback on various aspects of a project, workshop, or event. The form is designed to collect feedback on specific questions and allow participants to provide additional comments. This form is intended for participants who have attended a particular event or project and want to share their thoughts and opinions. Before filling out this form, please ensure you have not already provided feedback on the same event or project, as duplicate feedback may not be necessary or helpful.
-</thinking>
-
 # Participant Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants on various aspects of a project, workshop, or event. The form includes questions and fields to gather detailed comments and ratings.

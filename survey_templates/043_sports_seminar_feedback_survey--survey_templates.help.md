@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect feedback from attendees of a sports seminar about their experience and perception of the event. It appears to be a general feedback form for events, likely used to evaluate the effectiveness and quality of the seminar. However, there might be a better-suited form for the specific needs of the seminar organizers.
-
-Before filling out this form, please ensure you are providing feedback for the correct event or seminar. If you're not sure about any questions or the purpose of this form, double-check to confirm the seminar name, date, and details.
-
-The purpose of this form is to gather your opinions, thoughts, and feelings about the seminar, which will help the organizers to improve future events and provide better experiences for attendees.
-
-Please note that this form does not require any personal information or sensitive data, so it should be safe to fill out anonymously.
-
-If you've attended multiple seminars and events related to sports, it's possible that you may have filled out this form before. In this case, please take note of the seminar name, date, and any unique details to ensure you're providing the correct feedback for each event.
-
-</thinking>
-
 # Sports Seminar Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from sports seminar attendees about their experience and perception of the event.

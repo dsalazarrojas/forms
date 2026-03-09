@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback on lighting design projects. It's meant to be used by lighting designers to get a general idea of how their work is received by clients and clients to provide feedback on the quality of the design. The form should be filled out by both lighting designers and clients, and it's recommended that it's filled out after the project has been completed or is currently in progress.
-
-Before filling out this form, please make sure that you have filled out a similar form for this project already, or that you are the lighting designer or client who worked on this project. If you're not sure, please contact the project manager for clarification.
-
-The form is divided into several sections, each with its own set of questions. Please make sure to fill out all required fields and provide as much detail as possible for the optional fields.
-
-</thinking>
-
 # Lighting Design Feedback Questionnaire - Help Guide
 ## Purpose
 This form is used to collect feedback on lighting design projects. It's meant to be filled out by lighting designers and clients after a project has been completed or is currently in progress.

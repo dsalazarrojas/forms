@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect metadata for setting up webinars. The purpose of this form is to ensure that the webinar setup is completed correctly and accurately. This guide will walk through the form step by step to help users understand how to fill out the form and what each field means. Please note that this form is for setting up webinars and is not intended for other purposes. It is also assumed that the user has a basic understanding of webinars and their setup.
-
-</thinking>
-
 # Webinar Setup Checklist - Help Guide
 ## Purpose
 This form is used to collect metadata for setting up webinars. It helps ensure that the webinar setup is completed correctly and accurately.

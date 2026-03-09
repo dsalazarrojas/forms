@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture information from researchers and institutions that are participating in field research, ensuring they have given their consent and agree to the terms of participation. 
-
-The form's fields are used to collect the researcher's name, institution, department, institutional review board approval, research objectives, participant informed consent, participant right to withdrawal, contact information, and agreement to participate. The fields are mostly optional, but required for those that are marked as such in the form's schema.
-
-To complete this form, you will need to fill out each of the provided fields with the relevant information.
-
-</thinking>
-
 # Field Research Participation Consent Form - Help Guide
 ## Purpose
 The Field Research Participation Consent Form is designed to collect information from researchers and institutions participating in field research. This form ensures they have given their consent and agree to the terms of participation.

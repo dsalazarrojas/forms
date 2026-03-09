@@ -1,6 +1,3 @@
-<thinking>
-Is there something I can help you with?</thinking>
-
 # Captain Nomination Form - Help Guide
 ## Purpose
 The Captain Nomination Form is used to identify and recognize outstanding team captains for their leadership and dedication. This form helps to evaluate a team member's potential to lead and guide their team effectively.

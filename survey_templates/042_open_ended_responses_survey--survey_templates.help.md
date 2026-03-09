@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect open-ended responses from users for two questions. The form is designed to gather free-formatted text answers that can be used to gather more in-depth information from users. This form is part of a larger survey category, suggesting that it is intended to be used within a larger assessment or evaluation process. The form does not have any specific restrictions on response format, indicating that users can answer in any style they prefer. The form's simplicity and lack of complex features suggest that it is meant for basic, casual use. 
-
-This form appears to be a one-page survey with two open-ended questions. There's no explicit instruction on how to complete the form, so let's assume that users are expected to type their answers for each question, and submit the form once they finish.
-
-The following is a step-by-step guide for using this form:
-</thinking>
-
 # Open Ended Responses Survey - Help Guide
 ## Purpose
 This form is designed to collect open-ended responses from users for two questions, allowing for more in-depth information to be gathered in a free-formatted text format.

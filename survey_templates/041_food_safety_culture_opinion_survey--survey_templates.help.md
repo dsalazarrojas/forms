@@ -1,14 +1,3 @@
-<thinking>
-**Purpose of this form:** This form is designed to gauge the culture of food safety practices within an organization. It will help identify areas where employees are adhering to good food safety habits and where there might be room for improvement.
-
-To ensure you're not wasting time or resources, please note that this form doesn't duplicate existing data or require any sensitive or identifying information. The purpose is to gather opinions on a scale from 1-5, where 1 represents 'Not Very Often' and 5 represents 'Always'.
-
-This form will be used to understand how often employees follow good food safety practices in various scenarios, including during work hours, breaks, and when preparing or handling specific types of food. It will also touch upon the frequency of learning new practices, providing feedback, and feeling supported by management.
-
-Please answer these questions based on your actual practices and experiences.
-
-</thinking>
-
 # Food Safety Culture Opinion Survey - Help Guide
 ## Purpose
 The Food Safety Culture Opinion Survey is designed to gather your opinions on food safety practices within our organization. Please answer these questions based on your actual experiences and practices. Your input will help us identify areas where we need to improve our food safety culture.

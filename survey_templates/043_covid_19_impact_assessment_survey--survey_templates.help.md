@@ -1,7 +1,3 @@
-<thinking>
-This form is a comprehensive COVID-19 Impact Assessment Survey designed to gather information on the effects of the pandemic on individuals and their families. The survey is intended to help identify areas of significant impact and provide a baseline for future assessments. Please note that this form is not a medical or financial assessment, but rather a subjective evaluation of the respondent's experiences and perceptions. This form should only be completed by individuals who have been directly affected by the COVID-19 pandemic. Please do not complete this form if you are not affected by the pandemic or if you have already completed this survey in the past. 
-</thinking>
-
 # COVID 19 Impact Assessment Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand the impact of the COVID-19 pandemic on your life and business. Your responses will help us identify areas where support is needed and provide valuable insights for future assessments.

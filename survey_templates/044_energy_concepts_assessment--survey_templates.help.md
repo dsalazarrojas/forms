@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed to assess an individual's understanding and attitude towards energy concepts. The form is composed of multiple questions that cover various aspects of energy, such as its importance, impact on daily life, types of energy (renewable and non-renewable), sources, efficiency, conversion, and storage. There is also a section where the user can elaborate on their understanding of these concepts. This form aims to collect data on how individuals perceive and understand energy-related topics, which could be useful for educational, research, or informational purposes.
-</thinking>
-
 # Energy Concepts Assessment - Help Guide
 ## Purpose
 

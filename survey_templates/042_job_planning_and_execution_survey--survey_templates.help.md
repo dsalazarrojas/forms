@@ -1,13 +1,3 @@
-<thinking>
-**Reasoning and Validation:**
-This form is used to collect feedback and information about job planning and execution. It's likely used by project managers or team members to gather insights and data about past projects. The form seems to be designed for general use, without any specific constraints or requirements for specific types of projects or industries. To ensure the form's purpose is clear, it's essential to confirm with the project team or management that this is indeed the correct form for collecting relevant information.
-
-Additionally, we should check if there are similar forms in use that might be a duplicate or redundant. If the form is part of a larger system, we need to consider how it integrates with other forms or surveys.
-
-Lastly, we should consider the form's scope and complexity. Given the 25 fields, it might be too lengthy and complex for end-users. Simplifying the form or breaking it down into smaller sections could make it more manageable and user-friendly.
-
-</thinking>
-
 # Job Planning And Execution Survey - Help Guide
 
 ## Purpose

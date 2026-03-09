@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and requirements of the "defect_type_selection_survey" form, which is used to collect information about defects reported. The form is part of a larger system, but its purpose is not explicitly stated in the provided YAML fields. However, based on the fields included, it appears to be designed to collect basic information about a defect, such as its type, location, pattern, severity, and relevant contact details. To avoid duplication of effort, ensure that the form is not completed for a defect already under investigation.
-</thinking>
-
 # defect_type_selection_survey - Help Guide
 ## Purpose
 

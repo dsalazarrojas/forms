@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect data on pet product packaging preferences from pet owners. The form includes questions about the materials used in packaging, the importance of eco-friendly packaging, and the satisfaction with current and eco-friendly packaging. Additionally, it asks for open-ended comments and contact information. The form is intended to gather information on pet owners' preferences and opinions on packaging materials, which can be used to inform product development and packaging design decisions. This form is not intended to be a comprehensive survey, but rather a starting point for further research and exploration of pet owners' preferences. Please ensure that the data collected is accurate and complete, and that the form is filled out by pet owners who are familiar with the product and packaging materials. </thinking>
-
 # Pet Product Packaging Preference Survey - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Service Feedback Questionnaire - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is a survey for researchers to gather information about their backgrounds, interests, and experiences in the field of protein research. The purpose of this form is to understand the diversity of researchers in the field, their willingness to collaborate, and their areas of expertise. By filling out this form, participants can help create a comprehensive database of researchers' backgrounds, which can be used to facilitate collaboration and knowledge-sharing opportunities. Please note that this form is not affiliated with or derived from any specific survey platform, and any data collected through this form will not be shared or sold to third parties.
-</thinking>
-
 # Protein Research Participation Survey - Help Guide
 ## Purpose
 This survey is designed to gather information from researchers in the field of protein research. Please answer the questions to help us understand your background, interests, and experiences.

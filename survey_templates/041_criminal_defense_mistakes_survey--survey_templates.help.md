@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about mistakes that have occurred during criminal defense cases. It is intended to help identify areas where improvement can be made to enhance the efficiency and effectiveness of criminal defense services. Please note that this form is for internal use only and any information collected will be used for research and development purposes.
-
-</thinking>
-
 # Criminal Defense Mistakes Survey - Help Guide
 ## Purpose
 The "Criminal Defense Mistakes Survey" is a self-reporting instrument designed to collect feedback from criminal defense professionals about mistakes that have occurred during their cases. The information gathered through this survey will help to identify areas of improvement in the defense process.

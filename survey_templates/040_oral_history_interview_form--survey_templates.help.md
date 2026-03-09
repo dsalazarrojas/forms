@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Oral History Interview Form - Help Guide
 
 ## Purpose

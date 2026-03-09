@@ -1,11 +1,3 @@
-<thinking>
-The form "Ethical Use Of AI In Learning Survey" is designed to collect opinions and insights from educators on the use of Artificial Intelligence (AI) in education. This form is intended to gauge the understanding, concerns, and recommendations of educators on the responsible use of AI in educational settings.
-
-Before proceeding, please ensure that you have not already filled out this form. If you have, your submission will not be recorded again. 
-
-Please note that this form has multiple pages with various types of questions, including multiple-choice and text-entry fields. Be sure to provide accurate and detailed answers to each question.
-</thinking>
-
 # Ethical Use Of AI In Learning Survey - Help Guide
 ## Purpose
 This survey aims to gather opinions and insights from educators on the use of Artificial Intelligence (AI) in education. The survey will help us understand your understanding, concerns, and recommendations regarding the responsible use of AI in educational settings.

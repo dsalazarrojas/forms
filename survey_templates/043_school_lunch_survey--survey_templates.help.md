@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Lunch Survey - Help Guide
 ## Purpose
 This form is designed to collect information from parents or guardians about their child's school lunch experience. The survey aims to gather feedback on how frequently children eat school meals, their overall satisfaction with the school's meal provision, and any dietary restrictions or allergies that affect their meal options.

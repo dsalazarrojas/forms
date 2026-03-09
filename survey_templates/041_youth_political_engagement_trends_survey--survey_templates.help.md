@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for end users who want to understand and complete the "Youth Political Engagement Trends Survey" form. The form is designed to collect insights on how young people are engaging with politics, and it's crucial to ensure that the information collected is accurate and relevant. 
-
-Before proceeding, please note that this form was created using AI-generated technology, and it's not affiliated with any form platform. The form is released under a Creative Commons license, allowing for free use, modification, and distribution. 
-
-Before starting the survey, ensure that you have a clear understanding of the context and purpose of the form. This guide will walk you through each section of the form to help you complete it effectively.
-
-</thinking>
-
 # Youth Political Engagement Trends Survey - Help Guide
 ## Purpose
 The "Youth Political Engagement Trends Survey" is designed to collect data on how young people are engaging with politics. This survey aims to gather valuable insights on their attitudes, behaviors, and opinions on various political topics.

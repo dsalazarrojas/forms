@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help social workers gauge their knowledge and skills in writing reports, which is a crucial task in the social work profession. This quiz aims to assess the understanding of social workers on the core principles of report writing, including scenario assessment, reporting skills, reporting confidence, scenario skills, reporting knowledge, and the ability to draw conclusions and submit their work.
-The quiz will not be a replacement for a thorough evaluation or certification process, but it will help social workers identify areas where they need improvement. 
-The results of this quiz will provide valuable insights into the strengths and weaknesses of the social worker's knowledge and skills, allowing them to focus their training and development efforts more effectively.
-</thinking>
-
 # Social Work Report Writing Quiz - Help Guide
 ## Purpose
 This quiz is designed to help social workers gauge their knowledge and skills in writing reports, which is a crucial task in the social work profession.

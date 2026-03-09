@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess the skills of a trustee, likely a board member or officer, in an organization. The form aims to gauge their proficiency in various areas, such as communication, leadership, and problem-solving. This information can help in identifying training needs and areas of improvement for the trustee. 
-
-The form is likely to be used in a context where the organization wants to evaluate the skills of its board members or officers, perhaps for performance evaluation or professional development purposes.
-
-The form has multiple pages, and each page asks for different types of information, including text-based responses, select-one and select-multiple questions, and date fields. This suggests that the form is designed to be comprehensive and cover various aspects of a trustee's skills and performance.
-
-</thinking>
-
 # Trustee Skills Self-Assessment - Help Guide
 
 ## Purpose

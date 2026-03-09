@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Safety Reflection Form - Help Guide
 
 ## Purpose

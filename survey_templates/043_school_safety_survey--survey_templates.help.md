@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a school's safety and security measures, parent and staff involvement, and student engagement. This survey aims to understand the level of safety and security measures implemented within the school, the frequency of parent involvement, the effectiveness of school safety measures, and the level of student and staff engagement. This data will help in understanding the school's safety and security landscape, identify areas of improvement, and provide insights for future development. It is essential to fill out this form thoroughly and accurately to ensure that the gathered data is reliable and valid.
-</thinking>
-
 # School_Safety_Survey - Help Guide
 ## Purpose
 This form is designed to gather information about a school's safety and security measures, parent and staff involvement, and student engagement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from reviewers on code submissions. Reviewers will use this form to provide detailed feedback on code submissions, including comments, recommendations, and ratings. The form is intended to be used by reviewers to provide constructive feedback to submitters, and to help them improve their code submissions. It's essential to ensure that the form is completed accurately and thoroughly to provide valuable feedback. Please review this guide carefully to ensure you understand how to complete the form correctly.
-</thinking>
-
 # Peer Code Review Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback from reviewers on code submissions. Reviewers will use this form to provide comments, recommendations, and ratings on code submissions.

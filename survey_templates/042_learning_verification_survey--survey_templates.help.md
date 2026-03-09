@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # learning_verification_survey - Help Guide
 
 ## Purpose

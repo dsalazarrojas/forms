@@ -1,16 +1,3 @@
-<thinking>
-We can use this form to assess the awareness and knowledge of our users about snakes, their behavior, and safety practices. This form will help us understand what our users know and don't know about snakes, and provide us with valuable insights to improve our educational materials and training programs. This is a one-time form, and users will not be able to submit it multiple times. We will use this form to identify areas where our users need more education and training, and adjust our programs accordingly.
-
-Please note that this form is a snake awareness quiz, and it is not a test. It is designed to be a fun and informative experience for our users.
-
-This form is for general awareness and knowledge about snakes, and it is not specific to any particular location or context. It is open to anyone who wants to learn about snakes.
-
-Before we proceed, we need to make sure that this form is complete and accurate. Please answer the questions honestly, and do not rush through the form. If you have any questions or need help, please don't hesitate to reach out to us.
-
-This form is completely anonymous, and your answers will not be shared or used for any purpose other than to improve our educational materials and training programs.
-
-</thinking>
-
 # Snake Awareness Quiz - Help Guide
 ## Purpose
 The Snake Awareness Quiz is a fun and informative form designed to assess your knowledge and awareness about snakes. It is not a test, but rather an educational tool to help you learn about snakes and stay safe in the wild.

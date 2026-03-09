@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the "Engagement And Authority Survey" form is to gather information about the level of engagement and authority of a person or organization in a specific context. This form is likely used to assess the degree to which a person or entity is actively involved or holds a position of authority in a particular project, initiative, or decision-making process.
 
 This form is likely used in a research or evaluation context, where the goal is to understand the level of commitment, motivation, or influence that someone has. It may also be used to identify potential leaders or key stakeholders in a project or organization.

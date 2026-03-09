@@ -1,5 +1,3 @@
-<thinking>...checking for relevance and non-duplication...</thinking>
-
 # post_graduation_career_outcome_survey - Help Guide
 
 ## Purpose

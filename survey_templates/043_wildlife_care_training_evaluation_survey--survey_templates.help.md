@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be used as a template for collecting feedback and evaluation on wildlife care training programs. It is meant to be filled out by participants after attending a wildlife care training session. The form's purpose is to gather information on the quality of the training, and to identify areas for improvement. It's essential to complete this form accurately to help instructors refine their training methods and improve future sessions.
-
-Before proceeding, please ensure that you have not already completed this form for the same training session. This will help prevent duplicate evaluations and ensure that your feedback is recorded correctly.
-
-</thinking>
-
 # wildlife_care_training_evaluation_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and evaluation on wildlife care training sessions. Please take a few minutes to complete it, and provide honest feedback to help us improve our training programs.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Demography Training Assessment Quiz - Help Guide
 
 ## Purpose

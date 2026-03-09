@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Caesar's Campaigns Quiz - Help Guide
 
 ## Purpose

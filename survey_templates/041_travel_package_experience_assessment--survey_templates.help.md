@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and assessment on a travel package, which is a collection of travel services and amenities that can be customized to suit a traveler's needs. The form is designed to gather information on the traveler's experience, satisfaction, and preferences, including their overall rating, package name, rating reason, travel agency, travel agent, price, and more. This form is likely used by travel companies to improve their services and tailor their offerings to meet customer needs. 
-
-The form is composed of multiple fields that cover various aspects of the travel experience, such as package satisfaction, travel agency and travel agent satisfaction, price, and overall rating. The fields include select_one, select_multiple, and text input types, which allow travelers to provide detailed feedback. The form also asks travelers about their travel frequency and type, which can help travel companies understand their target audience better. 
-
-It's essential to complete this form accurately and honestly to help travel companies improve their services and provide better experiences for their customers. 
-
-Please note that some fields are optional, and travelers can choose not to answer them if they don't have any information or opinions to provide.
-
-</thinking>
-
 # Travel Package Experience Assessment - Help Guide
 ## Purpose
 This form is designed to collect feedback and assessment on a travel package, which is a collection of travel services and amenities that can be customized to suit a traveler's needs.

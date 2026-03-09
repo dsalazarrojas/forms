@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Field Research Permission Form - Help Guide
 ## Purpose
 This form is designed to collect information from researchers and participants for field research purposes. It is meant to be used by researchers to gather necessary contact information and details about their field research, and by participants to provide their consent and information about their involvement in the research.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users assess the SMARTness of a goal. A SMART goal is Specific, Measurable, Achievable, Relevant, and Time-bound. The form is intended to guide users through a series of questions to evaluate whether a goal meets these criteria. This form is not affiliated with, endorsed by, or derived from any form platform, and is instead an original adaptation created using AI.
-</thinking>
-
 # SMART Goals Assessment - Help Guide
 ## Purpose
 The SMART Goals Assessment form is designed to help you evaluate whether a goal meets the SMART criteria: Specific, Measurable, Achievable, Relevant, and Time-bound. This form will guide you through a series of questions to help you assess each aspect of your goal.

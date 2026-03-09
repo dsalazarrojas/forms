@@ -1,14 +1,3 @@
-<thinking>
-The form is intended for collecting feedback from users about the adapter's performance. This feedback will help us understand how well the adapter is working, and identify areas for improvement. To ensure accurate feedback, please review each field carefully and complete the form as instructed.
-
-Before submitting, ensure you're providing feedback for a specific project, not duplicating effort or providing feedback for a different project. This form is not intended for general comments or suggestions, but rather for specific, project-focused feedback.
-
-Please keep in mind that some fields have specific format requirements or constraints. For example, the "Installation Date" field should be in the format mm/dd/yyyy, while the "Rating" field should be a number between 1 and 5.
-
-This form is not meant to be filled out more than once for the same project. If you've already submitted feedback for this project, do not resubmit. Instead, contact the support team to discuss any further comments or concerns.
-
-</thinking>
-
 # Curb Adapter Feedback Form - Help Guide
 ## Purpose
 The Curb Adapter Feedback Form is used to collect feedback from users about the performance of our adapters in specific projects. This feedback is essential to help us identify areas for improvement and enhance our adapters' efficiency and effectiveness.

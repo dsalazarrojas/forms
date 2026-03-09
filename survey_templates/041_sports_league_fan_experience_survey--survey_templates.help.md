@@ -1,13 +1,3 @@
-<thinking>
-To create an effective help guide for the "sports_league_fan_experience_survey" form, we first need to consider the following:
-
-*   The form is designed to collect feedback from sports league fans regarding their experience with the league.
-*   The form has 25 fields, ranging from text inputs for general feedback to select_one and select_multiple inputs for more specific feedback.
-*   The form is likely used to gauge fan satisfaction, engagement, and other experiences related to the league.
-*   To ensure the guide is helpful and complete, we'll cover all fields in the "Field-by-Field Explanation" section.
-
-</thinking>
-
 # sports_league_fan_experience_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from sports league fans regarding their experience with the league, focusing on aspects such as game day satisfaction, team performance, engagement, and other related factors.

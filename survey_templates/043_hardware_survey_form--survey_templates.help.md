@@ -1,9 +1,3 @@
-<thinking>... 
-
-This form is designed to collect information about a company's hardware inventory. It will help you to keep track of the type, model, purchase date, cost, and other relevant details about each piece of hardware in your inventory. Before filling out this form, please make sure you have not already submitted this information. If you need help with a particular field, you can find the field-by-field explanation below.
-
-</thinking>
-
 # Hardware Survey Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # cyberbullying_and_online_aggression_survey - Help Guide
 
 ## Purpose

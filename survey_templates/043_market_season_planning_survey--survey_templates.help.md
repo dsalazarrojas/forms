@@ -1,7 +1,3 @@
-<thinking>
-We created this form as a generic, user-facing Market Season Planning Survey to help users understand the dates associated with a specific market season. This form is designed to collect multiple date-related fields to help users plan and organize their market season activities. We assume that the purpose of this form is to gather information on the dates related to a market season, such as start and end dates, seasonal dates, or other significant dates.
-</thinking>
-
 # Market Season Planning Survey - Help Guide
 ## Purpose
 This form is designed to collect information on dates related to a market season, which can be used for planning and organization purposes.

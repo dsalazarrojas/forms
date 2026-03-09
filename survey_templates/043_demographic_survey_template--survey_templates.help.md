@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect demographic information from participants.
-It's a survey template with 19 input fields, each with a unique label and type. The form does not have any specific validation rules or constraints.
-This template is intended to be used as is or adapted and modified to suit specific needs.
-It is not affiliated with, endorsed by, or derived from any form platform.
-It's an original creation.
-</thinking>
-
 # Demographic Survey Template - Help Guide
 ## Purpose
 This demographic survey template is designed to collect basic demographic information from participants. 

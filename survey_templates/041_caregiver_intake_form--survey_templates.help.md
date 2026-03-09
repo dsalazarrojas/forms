@@ -1,14 +1,3 @@
-<thinking>... 
-
-The Caregiver Intake Form is designed to collect demographic and professional information from caregivers to assess their eligibility for various caregiving positions. This form gathers data on the caregiver's personal details, educational background, work experience, skills, and certifications. By providing this information, the caregiver will be able to accurately match their qualifications with the needs of facilities that have openings for caregiving positions. It's essential to fill out this form accurately and thoroughly, as the information will be used to create a profile for the caregiver, which will be used in the hiring process.
-
-Before filling out the form, ensure that you have all the necessary information and documents ready. This form is meant for caregivers who are interested in or are already applying for caregiving positions, so please only fill it out if you are applying for a caregiving position.
-
-Please review the form carefully and answer all questions honestly and accurately. If you have any questions or concerns, you can reach out to the contact person listed in this form or the organization responsible for creating it.
-
-Also, please note that some of the fields are required, and providing false or incomplete information may lead to the rejection of your application. 
-
-</thinking>
 # Caregiver Intake Form - Help Guide
 ## Purpose
 The Caregiver Intake Form is designed to collect demographic and professional information from caregivers to match their qualifications with caregiving positions.

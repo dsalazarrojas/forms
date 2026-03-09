@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a "Newborn Photography Survey" used to collect information from parents or guardians regarding their newborn baby's photography session. This form aims to gather essential details such as session preferences, photographer preferences, and demographic information. It will help the photographer to understand the parents' expectations, preferences, and provide a smooth and enjoyable experience for the baby's photography session.
-
-To prevent duplication, ensure that you are not submitting multiple surveys for the same session.
-
-</thinking>
-
 # Newborn Photography Survey - Help Guide
 ## Purpose
 This form is a "Newborn Photography Survey" used to collect information from parents or guardians about their newborn baby's photography session.

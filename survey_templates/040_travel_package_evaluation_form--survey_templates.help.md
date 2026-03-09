@@ -1,10 +1,3 @@
-<thinking> 
-This form is intended to collect user feedback and evaluation on travel packages. It is likely used by travel agencies or tour operators to gauge customer satisfaction and identify areas for improvement. This form may be used to collect information such as the user's contact information, travel preferences, and specific details about their trip. It is likely that the collected data will be used to refine the travel packages offered by the agency or operator.
-
-To confirm, this is not a duplicate of the form "Travel Package Evaluation Form" in our system. If you have any doubts or concerns, please let us know.
-
-</thinking>
-
 # Travel Package Evaluation Form - Help Guide
 
 ## Purpose

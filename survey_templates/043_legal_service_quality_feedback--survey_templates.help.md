@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect feedback on the legal services provided by our organization. The purpose of the form is to gather information on the quality of the services, allowing us to identify areas of improvement and make necessary changes to better serve our clients. This form should only be filled out by individuals who have received our legal services and have a genuine opinion on their experience. Please do not fill out this form if you have not received our services or if you are simply providing a generic comment. We value your feedback and appreciate your honesty, but please keep in mind that this form is for the sole purpose of improving our services, not for soliciting free advertising or promoting a personal agenda.
-
-</thinking>
-
 # Legal Service Quality Feedback - Help Guide
 ## Purpose
 The Legal Service Quality Feedback form is a tool used to gather feedback from clients who have received our legal services. This form is used to collect information on the quality of our services, allowing us to identify areas of improvement and make necessary changes to better serve our clients.

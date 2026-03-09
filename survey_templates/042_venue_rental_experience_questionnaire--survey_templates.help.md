@@ -1,9 +1,3 @@
-<thinking>
-The goal of this form is to collect feedback and insights from customers about their experience renting a venue. The form will help us understand the event details, date and time of the event, the rental process, and their overall satisfaction with the venue. This information will aid us in improving our services and providing a better experience for future clients.
-This form is not meant to be a comprehensive assessment tool, but rather a simple and straightforward way to gather basic information and feedback.
-Please make sure to fill out this form only if you have rented a venue from us in the past.
-</thinking>
-
 # Venue Rental Experience Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback and insights from customers about their experience renting a venue from us. Your input will help us understand how we can improve our services and provide a better experience for future clients.

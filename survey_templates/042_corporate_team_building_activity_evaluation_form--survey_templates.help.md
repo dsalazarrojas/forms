@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather participant information and evaluate the effectiveness of a corporate team building activity. This form will ask you to input your details as a participant, along with information about your team's characteristics and your evaluation of the activity.
-</thinking>
-
 # Corporate Team Building Activity Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants and evaluate the effectiveness of the team building activity. Your responses will help the organizers improve future team building events.

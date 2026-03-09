@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Golf Trip Preferences Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your golf trip preferences. It will help us understand your interests, preferences, and needs for a golf trip, which will enable us to provide a more personalized experience.

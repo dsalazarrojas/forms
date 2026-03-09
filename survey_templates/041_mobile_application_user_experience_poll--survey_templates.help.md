@@ -1,13 +1,3 @@
-<thinking>
-
-**Form Purpose:**
-The "Mobile Application User Experience Poll" form is designed to gather user opinions and feedback on a mobile app. The form helps in understanding user experiences, preferences, and pain points related to the app.
-
-**Form Relevance Check:**
-This form is part of a survey to collect user feedback and opinions. It is designed for users who have used the mobile app and are willing to share their experiences. This form is a collection of multiple-choice questions and free-text fields that aim to gather comprehensive data on the app's usability and user experience.
-
-</thinking>
-
 # Mobile Application User Experience Poll - Help Guide
 ## Purpose
 ## How To Complete This Form

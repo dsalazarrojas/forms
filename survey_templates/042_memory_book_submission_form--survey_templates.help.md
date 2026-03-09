@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is for the "Memory Book Submission Form". The form is used to collect memories and experiences from users, which will be compiled into a digital "memory book" for a specified purpose or project. This form is not intended for general public use, so please ensure you are authorized to access and submit this form.
 
 ## Memory Book Submission Form - Help Guide

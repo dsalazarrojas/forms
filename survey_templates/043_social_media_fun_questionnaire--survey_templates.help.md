@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's social media habits, preferences, and experiences. The purpose of this questionnaire is to gain insights into how people interact with social media platforms, what types of content they engage with, and their attitudes towards online activities. This information will help us better understand social media trends and behaviors.
-
-Please note that the questions are designed to be neutral and non-sensitive, and the answers will not be used for any purpose other than research and analysis.
-
-If you have already completed this form, please do not fill it out again. Your responses will be stored in our database, and repeated submissions will be discarded.
-
-</thinking>
-
 # Social Media Fun Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about your social media habits, preferences, and experiences.

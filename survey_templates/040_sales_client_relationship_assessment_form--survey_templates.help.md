@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users assess the quality of a client relationship, covering various aspects such as communication, issue resolution, effort required, and trust. This form is intended to be a self-assessment tool for sales teams to evaluate their relationships with clients. It's essential to complete this form accurately to ensure consistency and fairness in evaluating client relationships across different sales teams. Please ensure that you only complete this form for clients with whom you have a relationship, and avoid duplicating your assessments for the same client. The data collected will help us understand our clients better and improve our services. If you're unsure about any field, please don't hesitate to reach out to your manager or support team.
-</thinking>
-
 # Sales Client Relationship Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to assess the quality of your relationship with a client, helping you to evaluate and rate key aspects of your interactions.

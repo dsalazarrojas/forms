@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather data on user's health anxiety, specifically to gauge their awareness and perceptions on certain health-related aspects. The form is divided into four sections: an introduction, a section to identify worries, a section to document coping strategies, and a section to record experiences. This form's purpose is to collect information on user's health awareness, and the questions are designed to be non-sensitive and straightforward.
-</thinking>
-
 # Health Anxiety Awareness Survey - Help Guide
 ## Purpose
 This form is intended to collect information on users' health anxiety, including their awareness and perceptions on certain health-related aspects.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Seminar Attendee Feedback Check In Form - Help Guide
 ### Purpose
 

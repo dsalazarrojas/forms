@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Submit Your Question For Q+A - Help Guide
 
 ## Purpose

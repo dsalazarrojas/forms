@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to gather feedback from employees on their overall satisfaction and provide an opportunity to suggest improvements. It's intended for internal use within the organization, and the feedback will be reviewed by management to help identify areas of improvement.
-
-Before proceeding, please ensure you have not already provided feedback for this form. If you have, your response will be recorded and considered.
-
-</thinking>
-
 # Employee Feedback Form - Help Guide
 ## Purpose
 

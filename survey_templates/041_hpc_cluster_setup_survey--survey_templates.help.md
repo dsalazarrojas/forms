@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about HPC cluster setup from users. It includes fields for cluster name, type, IT team, research team, cluster purpose, cluster location, cluster size, support team, support level, timeline start and end, timeline duration, budget, and additional comments. This form should only be filled out by authorized personnel and should not be duplicated.
-</thinking>
-
 # HPC Cluster Setup Survey - Help Guide
 
 ## Purpose

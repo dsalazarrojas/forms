@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Art Exhibition Feedback Questionnaire - Help Guide
 ## Purpose
 The Art Exhibition Feedback Questionnaire is designed to gather feedback from visitors on their experience at an art exhibition. This feedback helps us understand what we do well and what we can improve on to provide a better experience for future visitors.

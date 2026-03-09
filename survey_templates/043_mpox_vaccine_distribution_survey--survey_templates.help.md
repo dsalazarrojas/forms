@@ -1,6 +1,4 @@
-# <thinking>...</thinking>
-
-This form is designed to collect data on the distribution of the Mpox vaccine, including demographic information and details about the vaccine's efficacy, side effects, and distribution channels. This form is intended for use by individuals or organizations involved in the Mpox vaccine distribution process.
+# This form is designed to collect data on the distribution of the Mpox vaccine, including demographic information and details about the vaccine's efficacy, side effects, and distribution channels. This form is intended for use by individuals or organizations involved in the Mpox vaccine distribution process.
 
 </thinking>
 

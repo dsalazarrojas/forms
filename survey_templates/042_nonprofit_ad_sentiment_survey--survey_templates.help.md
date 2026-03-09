@@ -1,23 +1,3 @@
-<thinking>
-We are using this survey to understand the sentiment of our nonprofit ad on social media. This survey helps us gauge whether the ad was effective in conveying our message, how often people saw it, and how it impacted them. Please answer these questions truthfully to help us improve our ad strategy.
-
-We have reviewed the form structure and have determined it is valid. This survey consists of 11 fields:
-
-1. A brief introduction page
-2. Questions about how often you have seen our ad on social media
-3. How did you feel about the ad on social media? 
-4. How did our ad impact you? 
-5. Did our ad inspire you to donate? 
-6. Will you share our ad on social media? 
-7. Are you interested in learning more about our nonprofit organization? 
-8. Your name 
-9. Your email address 
-10. Your phone number 
-11. Optional message to us
-
-Please make sure to answer all required fields. Each field is explained below.
-</thinking>
-
 # Nonprofit Ad Sentiment Survey - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-The form "public_trust_in_charitable_organizations_survey" is intended to measure the level of trust in charitable organizations. It's meant for public use, likely to gather data for research or evaluation purposes. This form does not appear to be part of a workflow where completion is strictly enforced, as indicated by the 'required: false' flag on all fields. Therefore, users may not be compelled to answer every question.
-</thinking>
-
 # public_trust_in_charitable_organizations_survey - Help Guide
 ## Purpose
 This form, "public_trust_in_charitable_organizations_survey," is designed to measure the level of trust people have in charitable organizations. Its purpose is to collect information about how much people trust these organizations, allowing for evaluation or research on this topic.

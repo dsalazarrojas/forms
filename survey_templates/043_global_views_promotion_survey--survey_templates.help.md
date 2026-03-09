@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to gather feedback on the effectiveness and improvement areas of global views promotion. The form is designed to be completed by users from different regions and languages, and is meant to collect information on their views, measurement methods, and ideas for improvement. This form is a crucial tool for gathering valuable insights to help refine and improve the global views promotion strategy.
-
-</thinking>
-
 # Global Views Promotion Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the effectiveness and improvement areas of global views promotion. It aims to collect information from users on their views, measurement methods, and ideas for improvement, helping to refine and improve the global views promotion strategy.

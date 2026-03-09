@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the end-of-year programming survey from teams. It's essential to fill out this form to help the organization understand the team's productivity, skills, and development strategies. This form is not intended to be filled out multiple times, so please ensure that each team only completes this form once per year. The form is divided into several sections, and each section is dedicated to a specific topic. It's crucial to provide accurate and thoughtful answers to help the organization understand the team's needs and plan for the next year.
-</thinking>
-
 # end_of_year_programming_survey - Help Guide
 ## Purpose
 The end-of-year programming survey is a tool to help teams reflect on their productivity, skills, and development strategies. It's a crucial part of the team's self-assessment process, allowing them to identify areas for improvement and set goals for the next year.

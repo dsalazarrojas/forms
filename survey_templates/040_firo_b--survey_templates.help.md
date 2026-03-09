@@ -1,6 +1,3 @@
-<thinking>
-This form is likely being used for general user information collection, likely for demographic purposes or as a starting point for more specific data collection. However, without further context, it's hard to determine the exact use case. It may be worth double-checking the form's intention and purpose to avoid duplication of effort or misalignment with business goals.</thinking>
-
 # Firo B - Help Guide
 
 ## Purpose

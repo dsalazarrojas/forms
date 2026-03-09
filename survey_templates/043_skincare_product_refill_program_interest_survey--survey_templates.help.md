@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals who are interested in the Skincare Product Refill Program, a program that offers refill options for skincare products. The form aims to gather data on how users heard about the program, which type of products they are interested in, their reordering frequency, preferred contact method, and any additional feedback or comments they may have. This information will be used to improve the program's marketing strategy and product offerings.
-
-The form is designed to be user-friendly and straightforward, with clear labels and options for each field. However, to ensure that the form's data is accurate and relevant, it is essential to complete the form carefully and honestly.
-
-Before filling out the form, please note that some fields are required, marked with a asterisk (*) symbol. Required fields must be completed to ensure that the form's data is valid and can be used for analysis.
-
-The purpose of this guide is to walk you through each field and explain what information is being gathered and how to complete it accurately.
-</thinking>
-
 # Skincare Product Refill Program Interest Survey - Help Guide
 
 ## Purpose

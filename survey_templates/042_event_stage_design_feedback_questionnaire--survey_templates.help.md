@@ -1,12 +1,4 @@
-# <thinking>
-This form is designed to gather feedback from users about event stage design. The form is intended to be filled out by attendees of an event, such as a conference, meeting, or seminar, to provide feedback on the design of the stage, including the layout, equipment, and overall satisfaction with the event.
-
-Before filling out this form, please ensure that you have attended an event and have experience with the stage design. This form is not intended for non-attendees or those without personal experience with the event stage design.
-
-This form is a one-time submission, and your feedback will be used to improve future event stage designs. Please be as concise and thorough as possible in your responses.
-
-</thinking>
-# Event Stage Design Feedback Questionnaire - Help Guide
+# # Event Stage Design Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback on the design of an event stage, including the overall layout, equipment, and satisfaction.
 

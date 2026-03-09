@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Organic Pre Qualification Survey" form. This guide will explain the form's purpose, how to complete it, and what each field means, making it easy for end-users to understand and fill out the form accurately.
-</thinking>
-
 # Organic Pre Qualification Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about a company's organic products and customer demographics. It will help us understand who the company targets and what kind of customers they are likely to be interested in their products.

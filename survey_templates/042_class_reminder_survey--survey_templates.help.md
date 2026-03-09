@@ -1,10 +1,3 @@
-<thinking>
-We will create a help guide that explains the purpose of the "Class Reminder Survey" form, how to complete it, and provides detailed explanations of each field, making it easy for end-users to understand.
-
-This form is designed to collect information from students to help instructors improve their class communication and organization. It is intended to be completed by students and will help instructors tailor reminders to their students' needs.
-
-</thinking>
-
 # Class Reminder Survey - Help Guide
 
 ## Purpose

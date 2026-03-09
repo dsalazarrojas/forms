@@ -1,5 +1,3 @@
-<thinking>This form is intended to gather information about travel plans, allowing users to report their departure times, travel methods, travel dates, travel locations, travel modes, start and end locations, travel reasons, and personal contact information. The form is designed to be completed by travelers, providing a structured way to collect relevant data for further analysis or reporting. To ensure consistency and accuracy, the form is divided into sections corresponding to different aspects of travel information. The form should not be used for duplicate submissions, as this may lead to inaccurate or redundant data.</thinking>
-
 # Departure Time Survey - Help Guide
 ## Purpose
 This form is designed to collect departure time survey information from travelers. It is intended to gather data on departure times, travel methods, travel dates, travel locations, travel modes, start and end locations, travel reasons, and personal contact information.

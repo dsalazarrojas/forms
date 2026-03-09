@@ -1,5 +1,3 @@
-<thinking>Given the provided YAML file, it seems we are creating a help guide for a form used for Safety Assessment Surveys. This form is likely used to collect information about equipment, its condition, and related assessment details. The purpose of this form is to provide a structured way to gather data for safety assessments, possibly for maintenance, inspection, or certification purposes. Before proceeding, let's ensure there's no duplication or redundancy in the fields. After reviewing the fields, it appears that there are multiple fields related to equipment condition, certification, and assessment details. This form might be used in a maintenance or inspection process where assessors need to provide information about the equipment's status, location, and other relevant details.</thinking>
-
 # scba_safety_assessment_survey - Help Guide
 ## Purpose
 This form is used to collect information for safety assessments, which are essential for maintaining equipment in good condition, ensuring compliance with regulations, and preventing accidents.

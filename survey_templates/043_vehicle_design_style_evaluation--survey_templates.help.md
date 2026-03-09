@@ -1,8 +1,3 @@
-<thinking>
-The "vehicle_design_style_evaluation" form is used to evaluate the design style of vehicles. The purpose of this form is to collect data about how well-liked and comfortable a vehicle design is. This form helps in understanding the overall impression, color scheme, and features importance of a vehicle design. 
-The form is designed to be filled out by experts in the automotive industry who have a good understanding of design and comfort aspects of vehicles. This form is part of a larger evaluation process that aims to improve the design of future vehicle models.
-</thinking>
-
 # vehicle_design_style_evaluation - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from public transport users about their usage changes. The form is intended to gather information on how often they use public transport, the mode of travel they prefer, and any improvements they would like to see implemented. The form is likely used by public transport administrators or managers to gauge public opinion and make data-driven decisions about improving public services.
-</thinking>
-
 # public_transport_usage_change_report_form - Help Guide
 ## Purpose
 This form is used to collect feedback from public transport users about their usage habits and preferences. It helps administrators or managers to understand how often users take public transport and what improvements they would like to see.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be a comprehensive assessment tool for individuals seeking counseling or therapy services. It is intended to help gather detailed information about the individual's experiences, challenges, and preferences for their treatment plan. The purpose of this form is to provide the counselor with a thorough understanding of the individual's situation, allowing for more effective and personalized support.
-
-Before proceeding, please ensure that you are not duplicating this form with another survey or assessment. This form is intended to be a one-time assessment and should only be completed once.
-
-</thinking>
-
 # Counseling Survey - Help Guide
 ## Purpose
 This form is designed to gather detailed information about your experiences, challenges, and preferences for your counseling or therapy treatment plan. Please answer the questions honestly, and feel free to elaborate on any of your responses.

@@ -1,7 +1,3 @@
-<thinking>
-We should ensure that the form is used for its intended purpose and not duplicated unnecessarily. This form is designed to collect data from customers about retail stores, including their characteristics, operations, and performance metrics. Before proceeding, please note that if you have already filled out this form for the same store, you will not be able to submit duplicate data. If you are unsure about the store's information or have updates to existing data, please reach out to your supervisor for guidance.
-</thinking>
-
 # Retail Survey - Help Guide
 ## Purpose
 The Retail Survey is designed to collect data from customers about retail stores. This data will be used to analyze store performance and identify areas for improvement.

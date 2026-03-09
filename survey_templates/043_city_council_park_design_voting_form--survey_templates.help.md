@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather community feedback on the design of a new park in the city. The form asks respondents to share their thoughts on various aspects of the park's design, such as its size, amenities, and safety features. This feedback will be used to inform the city council's decision on how to design the park in a way that meets the community's needs and preferences. 
-We will not be duplicating any existing efforts as this form will be used to gather new and fresh perspectives. The form is designed to be user-friendly and easy to understand, with clear labels and hints to guide the respondent through the process.
-The form has 29 fields, each with a clear label and a concise description of the type of input expected from the respondent. The form has three sections: "Park Design Community Feedback", "Safety and Maintenance", and "Design Preferences". Each section focuses on different aspects of the park's design and provides respondents with a range of options to choose from.
-
-</thinking>
-
 # City Council Park Design Voting Form - Help Guide
 ## Purpose
 This form is designed to gather community feedback on the design of a new park in the city. Your input will help inform the city council's decision on how to create a park that meets the community's needs and preferences.

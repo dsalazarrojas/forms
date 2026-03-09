@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from university alumni about their current employment status. The purpose of this form is to gather data on the employment status of graduates to better understand their career outcomes and experiences after graduation. This form is likely used by the university's career services or alumni office to track the employment trends and outcomes of their graduates. It's possible that this form will be used to create reports and analyze the data to identify areas for improvement in the university's career services and to provide valuable information to alumni and the university community.
-</thinking>
-
 # University Alumni Employment Status Audit Form - Help Guide
 
 ## Purpose

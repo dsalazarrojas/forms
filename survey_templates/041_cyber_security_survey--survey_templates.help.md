@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information about a company's cyber security posture, practices, and concerns. The goal is to gather data on the types of employees, their levels, and the company's current and future security measures. This will help to understand how the company is currently handling security and what measures it plans to take in the future. Please note that each field is crucial in providing a comprehensive picture of the company's security posture, and it is essential to fill out all the required fields. </thinking>
-
 # cyber_security_survey - Help Guide
 ## Purpose
 This guide will help you complete the cyber security survey form with ease, ensuring you provide accurate and comprehensive information about your company's cyber security posture.

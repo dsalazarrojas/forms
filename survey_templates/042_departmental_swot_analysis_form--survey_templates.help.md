@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to help departments conduct a SWOT (Strengths, Weaknesses, Opportunities, and Threats) analysis, a strategic planning tool used to identify internal and external factors that may impact the department's performance. The goal of this form is to collect input from department members about their perception of their department's internal and external situation, in order to inform decision-making and develop strategies to address identified strengths, weaknesses, opportunities, and threats. To ensure consistent responses, please fill in the form for every section. Duplicate answers may affect the accuracy of your department's SWOT analysis.</thinking>
-
 # Departmental SWOT Analysis Form - Help Guide
 ## Purpose
 This form is intended to be used by department members for a SWOT analysis, which helps identify factors that can impact the department's performance.

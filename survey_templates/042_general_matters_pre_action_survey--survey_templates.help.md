@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the general matters pre-action survey, a critical step in the decision-making process. It aims to assess the readiness of the team or stakeholders before embarking on a project or action. This form ensures that all relevant concerns, early feedback, and guiding support are captured, and it provides an overview of the tools assigned to the project. This information will be used to inform decision-making and provide context for the project's success. **Please ensure you are not duplicating efforts by completing this form, as it's designed to be a one-time assessment.**
-</thinking>
-
 # General Matters Pre Action Survey - Help Guide
 ## Purpose
 This form is used to gather information about the general matters pre-action survey, a critical step in ensuring project readiness and success.

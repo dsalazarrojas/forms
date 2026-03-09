@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather data about the smartphone usage behavior of consumers. This will help in identifying patterns and trends in the data. 
-The form is designed with multiple questions covering various aspects of smartphone usage such as phone model usage, screen size, app usage, phone price and accessories usage. This data will help in making business decisions about the smartphone market. It is also likely that the form will be used by sales teams, marketers and other internal teams to gain insights and create targeted content and campaigns. This form may also be used as a survey in research studies and academic studies to understand smartphone usage patterns. 
-
-To ensure accurate and relevant data, please note that this form will only accept data from individuals with a smartphone, and it is not a diagnostic or medical device. Also, please make sure to fill in only relevant and honest information to help us gather accurate insights.
-</thinking>
-
 # Smartphone Consumer Behavior Quiz - Help Guide
 ## Purpose
 This form is designed to gather data about the smartphone usage behavior of consumers to help identify patterns and trends in the data. 

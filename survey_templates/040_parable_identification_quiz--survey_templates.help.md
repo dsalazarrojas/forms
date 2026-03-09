@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect user information about parables, a type of short story or fable that conveys a moral or lesson. The form is intended to help identify and categorize parables based on various characteristics. To ensure data consistency and accuracy, users are required to provide answers to all questions. 
-This form should only be completed by users who are familiar with parables and their characteristics. If not, the form will be rejected. Please review and understand the form requirements before proceeding.
-</thinking>
-
 # Parable Identification Quiz - Help Guide
 
 ## Purpose

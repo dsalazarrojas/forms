@@ -1,7 +1,3 @@
-<thinking>
-This help guide is to be used by festival attendees to provide feedback on their experience. It's essential to ensure that the feedback is specific and not a duplicate. To avoid duplication, please only submit one feedback per festival experience.
-</thinking>
-
 # Festival Experience Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from festival attendees on their overall experience. Your input will help us improve future festivals.

@@ -1,12 +1,3 @@
-<thinking>
-This form is for gathering feedback from community members about their experiences with the neighborhood watch program. The purpose of this form is to collect information on the effectiveness of the program, identify areas of improvement, and suggest changes or modifications that can be made to better serve the community. It is likely that this form will be filled out by community members who have had interactions with the program, such as residents who have reported incidents or received services from the program.
-
-Before filling out this form, please ensure that you have not already submitted feedback on this topic. If you have already submitted feedback, please do not repeat your comments, as this will help ensure that your feedback is not duplicated in the evaluation process.
-
-This form is designed to be completed by community members, but it is possible that it may also be filled out by program staff or administrators to provide their own insights and suggestions.
-
-The following help guide will walk you through the form fields and provide explanations for each.</thinking>
-
 # neighborhood_watch_program_feedback_evaluation_form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from community members about their experiences with the neighborhood watch program. This feedback will help us identify areas of improvement and make necessary changes to better serve the community.

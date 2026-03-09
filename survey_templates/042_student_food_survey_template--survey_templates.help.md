@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about students' eating habits, specifically their consumption of fruits, vegetables, pizza, beverages, snacks, and eating habits in the morning. The form is part of a larger research study aiming to collect data on students' dietary behaviors. Please ensure this form is relevant and not duplicated within your organization.
-</thinking>
-
 # Student Food Survey Template - Help Guide
 
 ## Purpose

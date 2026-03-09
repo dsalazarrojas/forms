@@ -1,14 +1,3 @@
-<thinking>
-This form is used to collect user preferences and demographics for the purpose of better understanding their cheesecake consumption habits and opinions. This helps businesses and bakeries tailor their products to suit the needs and desires of their customers. 
-
-This form should not be used for internal or confidential surveys, as it's intended for public-facing purposes only. Please ensure that the survey is not being completed by a duplicate respondent, as this may lead to skewed data.
-
-For best results, please complete the form honestly and carefully, and only select options that apply to you. This will ensure that the data collected accurately represents your preferences and demographics.
-
-If you have any questions or need help with completing this form, feel free to contact us.
-
-</thinking>
-
 # Cheesecake Preferences Questionnaire - Help Guide
 ## Purpose
 This form collects information about your demographics, cheesecake preferences, and opinions to help us better understand your needs and tailor our products accordingly.

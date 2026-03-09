@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to capture student reflections, which is a crucial part of the educational process. It helps students reflect on their learning, identify areas of improvement, and set goals for future growth. This form is designed to be completed by students to provide a record of their progress and reflection.
-
-To ensure that each student's reflection is accurate and comprehensive, please note that this form must be filled out completely, with all required fields marked as such. This guide will walk you through each field to help you complete the form accurately.
-
-</thinking>
-
 # Student Reflection Form - Help Guide
 
 ## Purpose

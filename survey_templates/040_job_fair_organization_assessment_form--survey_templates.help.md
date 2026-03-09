@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to assess the organization and effectiveness of a job fair event. It appears to be a self-reporting instrument designed for job fair participants, event organizers, and possibly exhibitors. The form aims to capture feedback on various aspects of the event, including the event itself, setup, location, and overall satisfaction. It also seeks suggestions for improvements.
-
-Before filling this form, please ensure that you have attended the job fair event and are providing your honest feedback.
-
-</thinking>
-
 # Job Fair Organization Assessment Form - Help Guide
 ## Purpose
 

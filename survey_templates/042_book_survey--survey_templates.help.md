@@ -1,9 +1,3 @@
-<thinking>
-This help guide is for the Book Survey form, a self-contained, AI-generated form with no affiliation or connection to any proprietary form platform.
-The form was created based on public survey topics, adapted to provide a user-friendly experience for end-users.
-This guide will outline the form's purpose, how to complete it, and a detailed explanation of each field.
-</thinking>
-
 # Book Survey - Help Guide
 ## Purpose
 The Book Survey form aims to collect information about your reading habits, preferences, and behaviors. It is designed to gather data on various aspects of reading, including favorite genres, reading frequency, preferred formats, and more.

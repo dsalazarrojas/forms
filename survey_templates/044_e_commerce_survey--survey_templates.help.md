@@ -1,11 +1,3 @@
-<thinking> 
-
-The form is designed to collect information from e-commerce customers about their shopping habits, purchase decisions, and experiences. It will be used to gain insights into the behavior and preferences of customers, which can inform business decisions and improve the overall customer experience. 
-
-The form consists of multiple pages, each with different fields that ask specific questions. For example, "User Information" and "Contact Details" pages will ask for personal and contact information, while "Order History" and "Product Purchases" pages will ask about the customers' purchase history and preferences.
-
-This guide will walk you through each field in the form and explain what information it is collecting, and what the customer needs to do to complete the form.</thinking>
-
 # E Commerce Survey - Help Guide
 
 ## Purpose

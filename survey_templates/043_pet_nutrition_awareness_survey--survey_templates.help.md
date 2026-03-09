@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # pet_nutrition_awareness_survey - Help Guide
 
 ## Purpose

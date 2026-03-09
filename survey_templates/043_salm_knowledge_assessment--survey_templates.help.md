@@ -1,5 +1,3 @@
-<thinking>...This form was created using a combination of public survey topic metadata (title + industry/category) as inspiration. It's a unique creation, not affiliated with, endorsed by, or derived from any form platform. It's released under a Creative Commons Attribution 4.0 license, allowing free use, modification, and even sale with credit. The form is intended to collect user responses in a specific category and industry, but its actual purpose and use will depend on the discretion of its users.</thinking>
-
 # Salm Knowledge Assessment - Help Guide
 ## Purpose
 This form, Salm Knowledge Assessment, is designed to collect user input for assessment purposes. It's a versatile tool for various uses within the industry and category specified in its metadata. Please note that the actual use and purpose of the form may vary depending on the specific context.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a user's horror movie viewing habits and preferences. It is intended to be used by users to share their personal experiences and opinions about horror movies. There is no internal duplication or redundancy in the form fields, and it is intended for general information gathering purposes only. The form is designed to be user-friendly and easy to complete.
-</thinking>
-
 # horror-movie-viewing-checklist - Help Guide
 ## Purpose
 This form is designed to gather information about your horror movie viewing habits and preferences. Please complete the form to share your experiences and opinions about horror movies.

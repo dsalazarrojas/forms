@@ -1,6 +1,3 @@
-<thinking> 
-This help guide is intended to assist users in completing the Community Harmony Assessment form. The form is designed to gauge a user's perception of their community's level of harmony and identify areas where improvement can be made. This form should be filled out by individuals living within the community, providing an opportunity to collect valuable feedback from residents. The goal is to create a better understanding of community dynamics, fostering more effective community development initiatives.</thinking>
-
 # Community Harmony Assessment - Help Guide
 ## Purpose
 The Community Harmony Assessment form is a survey aimed at measuring the level of harmony within a community. It inquires about the respondent's relationship with their neighbors, communication, sense of belonging, appreciation for diversity, frequency and resolution of conflicts, participation in community events, satisfaction with these events, and perception of overall community safety and condition. The form is designed to help communities better understand their strengths and weaknesses and identify areas that require improvement.

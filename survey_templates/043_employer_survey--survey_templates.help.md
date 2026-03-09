@@ -1,15 +1,3 @@
-<thinking>
-The form "employer_survey" is part of a larger system for gathering information about employers in our organization. The form's primary purpose is to collect data on the employer's basic details such as their name, job type, and work experience. This information will be used to categorize and store employer data in our system. Please ensure that you are filling out this form for a specific, valid employer entity to avoid duplicates or incorrect information.
-
-When filling out this form, you must have a legitimate business reason for accessing or creating an employer entity in our system. Ensure that you are only providing accurate and up-to-date information to the best of your knowledge.
-
-To ensure that you are correctly using this form, please take note of the following:
-- Each field is described below for clarity.
-- Required fields are marked "Required".
-- Please double-check your information before submission to avoid errors.
-- If you encounter any issues or discrepancies, contact our support team.
-</thinking>
-
 # employer_survey - Help Guide
 ## Purpose
 The "employer_survey" form is used to collect and store data on employers in our system. It serves as a basic data collection tool for employer details such as name, job type, and work experience.

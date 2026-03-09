@@ -1,7 +1,3 @@
-<thinking>
-The "grinder_pump_feedback_survey" form is used for customers to provide feedback on their experience with the grinder pump, specifically regarding its functionality, performance, and areas for improvement. This feedback will be used to refine and improve the product based on customer insights. The form should only be completed by customers who are providing feedback on their own experiences and not by sales, support, or other departments that may have a different view or agenda. To ensure accurate and relevant feedback, please complete the form only if you are the customer who used the grinder pump in question.
-</thinking>
-
 # grinder_pump_feedback_survey - Help Guide
 ## Purpose
 

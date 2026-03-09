@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Visual Problem Solving Survey - Help Guide
 
 ## Purpose

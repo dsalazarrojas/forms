@@ -1,8 +1,3 @@
-<thinking>
-This guide is for the Tourist Resorts Reopening Survey, which is designed to gather information about how tourists have been informed about the reopening of tourist resorts. The purpose of this survey is to understand the effectiveness of different channels and methods used to communicate the reopening of tourist resorts. It is crucial that the survey is completed accurately and truthfully to provide valuable insights for further improvement.
-Before starting, please ensure that you have not completed this survey before, as it is designed to collect unique responses from each participant. If you have any concerns or questions, please contact the support team.
-</thinking>
-
 # Tourist Resorts Reopening Survey - Help Guide
 ## Purpose
 This survey aims to gather information about how tourists were informed about the reopening of tourist resorts. Your input is crucial in helping us understand what worked best and where we can improve.

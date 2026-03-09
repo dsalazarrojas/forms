@@ -1,13 +1,3 @@
-<thinking> 
-**Form Purpose:**
-The DIY Beauty Practice Survey is designed to gather information about users' at-home beauty routines, habits, and preferences. This survey aims to understand how users approach beauty practices, their motivations, challenges, and satisfaction levels related to their routines.
-
-Before proceeding, please ensure that you have not already filled out this survey. If you have, please try again with a different set of questions or responses to provide a more accurate representation of your views.
-
-To help us better understand your at-home beauty practices, please answer the questions as accurately and honestly as possible. Your responses will be kept confidential and anonymous. If you have any questions or need help, don't hesitate to ask.
-
-</thinking>
-
 # DIY Beauty Practice Survey - Help Guide
 ## Purpose
 The DIY Beauty Practice Survey is designed to gather information about users' at-home beauty routines, habits, and preferences.

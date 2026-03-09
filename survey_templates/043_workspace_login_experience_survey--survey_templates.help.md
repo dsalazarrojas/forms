@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to provide users with a clear understanding of the Workspace Login Experience Survey form. It's crucial to note that this form is designed to gather information about users' experiences with logging into their workspace. This form should not be filled out if the user has not experienced any issues or had any login-related problems.
-
-To fill out this form, please navigate to the Workspace Login Experience Survey page and follow the prompts below. 
-
-</thinking>
-
 # Workspace Login Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experiences with logging into their workspace. This will help us understand how to improve the login process and provide better user experience.

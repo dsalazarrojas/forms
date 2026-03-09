@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to provide feedback on the usability of a tech app. The purpose of this form is to gather information about the users' experiences and opinions on the app, including their rating of the app's usability, overall satisfaction, and areas for improvement. The form aims to collect specific suggestions and comments from users, which will be reviewed by the app development team to identify areas that require improvement. This form will help us better understand user needs and expectations, and ultimately improve the app's usability.
-</thinking>
-
 # Tech App Usability Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback on the usability of a tech app. It aims to gather information about users' experiences and opinions on the app, including their overall satisfaction and suggestions for improvement.

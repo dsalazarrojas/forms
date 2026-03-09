@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Service Satisfaction Survey - Help Guide
 ## Purpose
 The customer service satisfaction survey is designed to help us understand how well we've met your expectations. Your feedback will help us improve our service quality, communication, and overall experience.

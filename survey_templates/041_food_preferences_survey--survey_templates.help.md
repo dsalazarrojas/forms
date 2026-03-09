@@ -1,6 +1,3 @@
-<thinking>
-This guide is intended for users to understand the purpose and completion instructions of the Food Preferences Survey form. Before proceeding, ensure that the form is relevant to your current project or task. If you're unsure, please review your project scope or ask your team for clarification. This guide provides a step-by-step explanation of each field in the form to help you complete it accurately and efficiently.</thinking>
-
 # Food Preferences Survey - Help Guide
 
 ## Purpose

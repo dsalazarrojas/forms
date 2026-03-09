@@ -1,5 +1,3 @@
-<thinking>This form is designed to evaluate the effectiveness of an instruction and evaluation quiz. It collects feedback from participants on the quiz's content, relevance, and overall performance. This form is intended to be completed by the quiz's creators or evaluators, rather than the participants who take the quiz.</thinking>
-
 # Instruction And Evaluation Quiz - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluation on the quiz's content, relevance, and overall performance.

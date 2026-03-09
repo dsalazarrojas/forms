@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a product defect, including contact details, product information, and defect characteristics. This form will be used to collect relevant data for the product defectiveness assessment.
-</thinking>
-
 # Product Defectiveness Assessment Questionnaire - Help Guide
 
 ## Purpose

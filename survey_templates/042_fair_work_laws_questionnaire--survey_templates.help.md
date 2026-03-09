@@ -1,13 +1,3 @@
-<thinking> 
-
-This form is used to help employees understand their rights and benefits under fair work laws, which are designed to protect employees' rights in the workplace. This form is intended to be completed by employees to assess their own knowledge and understanding of these laws. However, this form may not be necessary for employees who are already familiar with fair work laws or those who have completed a similar assessment in the past.
-
-It's worth noting that this form is not a test of the employee's knowledge, but rather a way to identify areas where they may need additional guidance or training. The results of this form will help HR or management to tailor their training and support programs to meet the needs of their employees.
-
-The form is designed to be self-explanatory, but if you have any questions or concerns, please reach out to your HR representative for clarification.
-
-</thinking>
-
 # fair_work_laws_questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to help employees understand their rights and benefits under fair work laws, which are designed to protect employees' rights in the workplace.

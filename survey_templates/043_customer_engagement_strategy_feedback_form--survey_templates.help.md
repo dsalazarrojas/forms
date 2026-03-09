@@ -1,17 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback on the customer engagement strategy. It is designed to collect input from customers on various aspects of the engagement process, including communication channels, preferred methods of engagement, and suggestions for improvement. This form should only be filled out by customers who have had a recent engagement with the company and have been asked to complete the form as part of the customer engagement process.
-
-To ensure that you get the most out of this form, please make sure that you have:
-
-* Had a recent engagement with the company
-* Read the form carefully before starting to complete it
-* Answer all required fields, marked with an asterisk (\*)
-
-Please note that the form is split into several pages, each with a specific focus. Make sure to complete each page in the order it appears.
-
-If you are unsure about any question or have any feedback, please do not hesitate to reach out to us. We value your input and would like to hear from you.
-</thinking>
-
 # Customer Engagement Strategy Feedback Form - Help Guide
 ## Purpose
 The Customer Engagement Strategy Feedback Form is a tool used to collect feedback from customers on their experience with the company's customer engagement strategy.

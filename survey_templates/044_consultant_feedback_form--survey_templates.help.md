@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-friendly guide that explains the purpose and usage of the Consultant Feedback Form. The form is designed to gather feedback from clients who have worked with the consultancy, providing an opportunity to assess the quality of service delivery, communication, and overall experience. This form will help the consultancy identify areas of strength and improvement, ultimately enhancing their service offering and building stronger relationships with clients. Before filling out this form, please note that it should not be used for duplicate feedback from the same project. Each feedback submission should represent a unique engagement.</thinking>
-
 # Consultant Feedback Form - Help Guide
 ## Purpose
 The Consultant Feedback Form is designed to gather feedback from clients who have worked with the consultancy. This form helps us identify areas of strength and improvement, ensuring we continue to deliver high-quality services that meet your needs.

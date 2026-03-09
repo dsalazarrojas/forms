@@ -1,7 +1,3 @@
-<thinking>
-This help guide is being created for the "thanksgiving_survey" form, which is used to gather information about how participants heard about the organization and their preferences related to the holiday season. The form is divided into several sections, each with a specific purpose and requirement level.
-</thinking>
-
 # thanksgiving_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about how participants heard about the organization and their preferences related to the holiday season. This will help us understand our outreach efforts and tailor our marketing strategies accordingly.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and preferences from users regarding software tools used in the organization. The form is intended to gauge user satisfaction and preferences for different software tools. Each field in the form is designed to elicit specific information, and the form's layout is structured to facilitate easy completion and understanding. Before proceeding, please ensure you have reviewed the provided instructions and have not previously completed this form to avoid duplication.
-</thinking>
-
 # Software Preference Voting Form - Help Guide
 ## Purpose
 

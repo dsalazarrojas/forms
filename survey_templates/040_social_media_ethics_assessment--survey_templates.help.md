@@ -1,12 +1,3 @@
-<thinking>
-Are you sure this form is about social media ethics? Let me double-check the input schema to make sure we're on the same page. 
-
-This form seems to be collecting information on users' behavior, habits, and opinions on various social media-related topics, such as online interactions, data sharing, and digital rights. It appears to be a comprehensive assessment of users' social media ethics.
-
-To confirm, the form is not about setting up or configuring social media accounts, nor is it a survey on personal preferences or interests. It's more about understanding users' attitudes and practices when interacting with social media platforms.
-
-Let me know if this makes sense to you or if I've misread the input schema!</thinking>
-
 # Social Media Ethics Assessment - Help Guide
 ## Purpose
 The Social Media Ethics Assessment is a tool designed to help you gauge your understanding and behavior when interacting with social media platforms. It's a set of questions intended to evaluate your level of awareness and adherence to responsible social media usage.

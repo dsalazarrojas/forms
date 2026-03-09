@@ -1,14 +1,3 @@
-<thinking>
-This form appears to be a feedback survey designed to gather information about customers' experiences with a self-checkout kiosk. The purpose of this form is to collect detailed feedback from customers on various aspects of their visit, including their satisfaction with the kiosk's clarity, cleanliness, and helpfulness. This form is likely used to identify areas for improvement and gauge the overall satisfaction of customers with the self-checkout process. 
-
-The form consists of 25 questions, covering a range of topics from personal details like name and email, to questions about their experience, satisfaction, and interaction with the kiosk. To ensure consistency in the data collected, it's essential to fill in this form accurately and thoroughly. Please note that this form is optional, and customers are not required to answer all questions.
-
-Before starting to fill the form, it's helpful to review each question to understand what information is being asked. This will ensure that the answers provided are accurate and relevant. If any question is unclear or not applicable, please feel free to skip it or reach out for assistance.
-
-To fill in this form, follow the instructions below:
-
-</thinking>
-
 # self_checkout_instructions_form - Help Guide
 ## Purpose
 This form is designed to gather feedback on your experience with the self-checkout kiosk.

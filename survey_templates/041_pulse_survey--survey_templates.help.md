@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will cover the purpose of the Pulse Survey form, how to complete it, and a field-by-field explanation of each question.
 
 ## Pulse Survey - Help Guide

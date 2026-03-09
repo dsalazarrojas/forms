@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about system design experiences. It consists of multiple pages with various fields asking about different aspects of system design. The purpose of this form is to collect data that can help in identifying areas of improvement and provide relevant training materials based on individual needs. To get the most out of this form, please ensure that you have a thorough understanding of the system design concepts and processes involved.
-
-</thinking>
-
 # System Design Experience Survey - Help Guide
 ## Purpose
 

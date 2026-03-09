@@ -1,9 +1,3 @@
-<thinking>
-
-To ensure that the user understands the purpose and scope of this form, we need to check if the form will be used in the right context and not duplicated in the process. This form seems to be a survey for individuals who have received coaching for chronic diseases, aiming to assess their progress and satisfaction with the coaching program. It's essential to clarify that this form is not meant for patients or individuals who are new to the program, but rather for those who have already received coaching sessions. Additionally, this form should not be used as a substitute for medical consultation or diagnosis. 
-
-</thinking>
-
 # Chronic Disease Coaching Outcome Survey - Help Guide
 ## Purpose
 The Chronic Disease Coaching Outcome Survey is designed to evaluate the progress, satisfaction, and areas for improvement of individuals who have received coaching for chronic diseases. The survey aims to gather data on the effectiveness of the coaching program and identify potential improvements.

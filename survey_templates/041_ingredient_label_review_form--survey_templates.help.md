@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an ingredient label, allowing users to review and validate the presence and correctness of ingredients in a product. This form is part of a larger process for ensuring accuracy and transparency in product labeling. To use this form effectively, users should have a basic understanding of the ingredient's characteristics and the product being reviewed. To avoid duplication of effort, users should only submit this form if they have not already reviewed the same product label recently.
-</thinking>
-
 # ingredient_label_review_form - Help Guide
 ## Purpose
 The ingredient label review form is used to validate the presence and correctness of ingredients in a product label.

@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I will first review the provided YAML fields to understand the form's purpose and functionality. The Frozen Display Audit Survey form appears to be designed for assessing the condition of freezers in various stores, with the goal of maintaining optimal display conditions. This form likely helps store managers and auditors evaluate the status of freezers, which is crucial for food safety and customer satisfaction. Before proceeding, I will check for any redundant or unnecessary fields. After reviewing the form schema, I have a clear understanding of the form's purpose and can now create the user-facing help guide.</thinking>
-
 # Frozen Display Audit Survey - Help Guide
 ## Purpose
 

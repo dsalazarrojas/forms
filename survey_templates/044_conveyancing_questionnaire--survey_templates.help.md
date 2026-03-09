@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be designed to collect information about a property transaction, likely for real estate or conveyancing purposes. It asks for various details about the property, its owner/occupiers, and the transaction process. The form seems to be structured to gather information on the property's status, ownership, and any potential issues or disputes that may arise during the transaction. 
-
-To confirm, the form appears to be collecting data for a Conveyancing Questionnaire, which is typically used in real estate transactions to gather information about the property, its owners, and the transaction process. This information is crucial for solicitors and other professionals involved in the transaction to ensure a smooth and legally sound process. 
-
-Before proceeding, please review the provided YAML and let me know if this is correct and if there's anything I've missed or any further clarification needed.
-
-</thinking>
-
 # Conveyancing Questionnaire - Help Guide
 
 ## Purpose

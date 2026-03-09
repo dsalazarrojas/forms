@@ -1,7 +1,3 @@
-<thinking>
-The Mutual Aid Weekly Check In form is a tool for individuals in mutual aid groups to check in with each other on a weekly basis. This form helps group members share their current wellbeing, provide mutual support, and stay connected. It's essential to fill out this form accurately and thoroughly, as it helps the group understand each other's circumstances and offer targeted assistance.
-</thinking>
-
 # Mutual Aid Weekly Check In - Help Guide
 ## Purpose
 The Mutual Aid Weekly Check In form is a tool for mutual aid groups to check in with each other on a weekly basis. This form is meant to be filled out by each group member to provide a brief summary of their current wellbeing, the help they have provided or received, and their plans and goals for the upcoming week.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect personal stories from users. This form is designed to be a flexible and adaptable tool for gathering information about individuals and their experiences.
-
-To ensure that this form is used as intended and to prevent duplicate submissions, please note that this form is a one-time use template. If you are looking for a more dynamic or interactive solution, consider using a different form tool.
-
-This template is released under the Creative Commons 4.0 license, allowing you to use, modify, and even sell forms derived from it, as long as you give proper credit.
-
-</thinking>
-
 # Personal Story Sharing Form - Help Guide
 ## Purpose
 The Personal Story Sharing Form is a simple, text-based form designed to collect personal stories from users. This form is ideal for gathering information about individuals, such as their experiences, thoughts, or feelings.

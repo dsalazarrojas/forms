@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a market research project to gather data on the neonatal monitoring market. The purpose of this form is to collect information from healthcare providers and researchers about their usage, satisfaction, buying cycles, adoption barriers, device characteristics, market trends, demographics, and contact information. This information will be used to understand the market landscape and to identify potential areas for improvement or innovation.
-</thinking>
-
 # neonatal_monitoring_market_research_survey - Help Guide
 ## Purpose
 This form is designed to collect data on the neonatal monitoring market. Your input is crucial in helping us understand this market and identify areas for improvement or innovation.

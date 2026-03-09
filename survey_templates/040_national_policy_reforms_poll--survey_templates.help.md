@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to collect feedback and data on national policy reforms. The questions aim to evaluate the priority of potential reforms among citizens. Each field in this form is a specific question, and the answers should reflect the individual's opinions. The questions are designed to be concise and easy to understand. Please make sure to answer all required questions. If a question is optional, feel free to provide any information you wish. Your participation in this survey is voluntary and your responses will help shape public discourse.
-
-</thinking>
-
 # National Policy Reforms Poll - Help Guide
 
 ## Purpose

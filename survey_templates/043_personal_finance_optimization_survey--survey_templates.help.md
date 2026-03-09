@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's personal finance goals and preferences. It is intended to be filled out by an individual who wants to optimize their financial situation. Please ensure that you are filling out this form for the purpose of personal finance optimization and not for any other use. If you have already filled out this form in the past, please do not fill it out again as it may be considered redundant data.
-
-</thinking>
-
 # Personal Finance Optimization Survey - Help Guide
 
 ## Purpose

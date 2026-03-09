@@ -1,8 +1,3 @@
-<thinking>
-This form is a survey designed to gather feedback from graduates about their experience with a program. The purpose of this form is to collect data on various aspects of the program, including overall satisfaction, educational experience, program value, and overall value. This information will help the program administrators to identify areas of improvement and make data-driven decisions.
-Please ensure that you are completing this form only once you have graduated from the program. If you have already completed this form, please do not submit it again.
-</thinking>
-
 # graduate_exit_survey - Help Guide
 ## Purpose
 The graduate exit survey is a form designed to collect feedback from graduates about their experience with a program. The data collected will help the program administrators to identify areas of improvement and make data-driven decisions.

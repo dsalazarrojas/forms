@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback from tourists who have visited local attractions. The purpose of this form is to gather information about their experience, including their name, email, rating of the attraction, comments, visit date and time, visited location, facilities, and staff interaction. This form is intended to be completed by the tourist after visiting a local attraction.
-
-To ensure that the form is completed accurately and thoroughly, please review the fields below and follow the instructions carefully.
-
-Please note that this form is meant for tourists who have visited local attractions, and it is not intended for internal use. Therefore, please do not complete this form if you are an internal staff member or have not visited the attraction recently.
-
-Additionally, please ensure that you have visited the attraction before completing this form. If you have not visited the attraction, please do not complete this form.
-
-</thinking>
-
 # local_attractions_tourist_feedback_survey - Help Guide
 ## Purpose
 

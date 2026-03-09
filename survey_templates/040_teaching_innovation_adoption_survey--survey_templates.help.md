@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for this form, ensuring that end-users understand the form's purpose, how to complete it, and what each field means.</thinking>
-
 # Teaching Innovation Adoption Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your school's current stage in the innovation adoption cycle, the biggest barriers you face when adopting new ideas or teaching methods, and the support you need from your district or school. This data will help us understand the challenges and needs of schools in adopting innovations.

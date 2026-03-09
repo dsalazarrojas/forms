@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for art gallery visitors to provide their feedback and opinions about their experience. The form gathers information on various aspects of their visit, such as the visit summary, demographics, the exhibition they came to see, and their overall experience. It also inquires about the quality of curation, variety of artworks displayed, gallery layout, cleanliness, and facilities. The form also seeks to understand the visitors' preferences, such as what they liked most, any improvements, and whether they would recommend the gallery to others or attend future exhibitions. This information will help the art gallery to refine their exhibitions and improve their visitor experience. This form does not require any existing account, so it is designed to be completed anonymously. It is essential to fill out all required fields to provide a complete and useful response. If you have any further questions or need assistance, please feel free to ask.
-</thinking>
-
 # Art Gallery Visitor Experience Report Form - Help Guide
 
 ## Purpose

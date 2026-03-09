@@ -1,6 +1,3 @@
-<thinking>
-This form seems to be a debriefing survey, likely used to gather feedback and evaluation of an event or project. The form appears to be designed to collect information on team members, overall effectiveness, and any additional comments. The purpose of this form is to facilitate post-event or post-project review and improvement. It's likely that this form is intended for use by teams or organizations to assess their performance and identify areas for growth. Before proceeding, it's essential to ensure that this form is being used in the correct context and that the same form isn't being used to collect similar information in other surveys.</thinking>
-
 # debrief_survey - Help Guide
 
 ## Purpose

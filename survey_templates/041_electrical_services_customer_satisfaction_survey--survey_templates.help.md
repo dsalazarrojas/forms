@@ -1,7 +1,3 @@
-<thinking>
-This form is likely a customer satisfaction survey for a company that provides electrical services. It's designed to collect feedback from customers about their experiences with the service. The survey may be used to evaluate the quality of the service, the performance of the technicians, and overall customer satisfaction. Before proceeding, ensure that this form is not a duplicate of another existing form, and the purpose of this survey aligns with your team's needs.
-</thinking>
-
 # Electrical Services Customer Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experiences with electrical services.

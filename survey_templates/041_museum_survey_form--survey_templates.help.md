@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from visitors about their experience at the museum, including their contact information, visit history, and any questions or comments they may have about the museum. This form helps the museum staff understand visitor demographics, preferences, and needs, which can be used to improve the overall museum experience. 
-
-Please fill out this form if you are a visitor to the museum. The information collected will be kept confidential and used to improve our services.
-
-This form should not be completed multiple times, so please only answer it once.
-</thinking>
-
 # Museum Survey Form - Help Guide
 ## Purpose
 This form helps us understand your visit experience and gather your feedback. Please take a few minutes to complete this form, and thank you for your contribution to the museum.

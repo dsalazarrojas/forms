@@ -1,22 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Salary Survey" form, we must first understand the purpose and requirements of the form. The form's primary goal is to collect information about an employee's job details, including their job title, job grade, and bonuses. This data is crucial for various internal processes and reporting. To ensure the form's data is accurate and consistent, it's essential to explain each field clearly and concisely to the users.
-The form is divided into different sections, and each field has its specific label, type, and required status. Some fields are required, while others are optional. The form includes select_one and text fields for job grade and job stock options, as well as number fields for job title salary, job grade salary, and employee stock.
-Before creating the help guide, let's analyze the fields to understand their purpose and requirements better:
-- Employee details: This field is likely used to capture the employee's name or ID.
-- Job Title Salary: This field captures the employee's salary for their job title.
-- Job Grade Salary: This field captures the employee's salary based on their job grade, which is a classification within the organization.
-- Job Title Bonus: This field captures any bonus the employee receives for their job title.
-- Job Grade Bonus: Similar to Job Title Bonus, this field captures any bonus for the employee's job grade.
-- Job Stock Options: This field may capture any stock options or equity granted to the employee.
-- Job Stock Ownership: This field captures the employee's stock ownership or equity.
-- Job Stock: This field likely captures the total value of the employee's job stock or equity.
-- Employee Stock Options: This field captures any stock options or equity granted to the employee.
-- Employee Stock Ownership: Similar to Job Stock Ownership, this field captures the employee's stock ownership or equity.
-- Employee Bonus: This field captures any bonus the employee receives.
-
-With this understanding of the form's purpose and fields, we can now create a help guide that explains each field and its requirements.
-</thinking>
-
 # Salary Survey - Help Guide
 ## Purpose
 The Salary Survey form collects information about an employee's job details, including job title, job grade, and bonuses. This data is used for internal processes and reporting.

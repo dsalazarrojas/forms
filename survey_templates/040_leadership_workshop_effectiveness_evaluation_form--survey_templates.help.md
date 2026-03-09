@@ -1,7 +1,3 @@
-<thinking>
-A Leadership Workshop Effectiveness Evaluation Form is designed to be completed by workshop attendees after participating in a leadership development workshop. This form helps evaluate the effectiveness of the workshop in terms of content, engagement, and overall experience. It's essential to ensure that the data collected is not duplicated or biased, so please be aware that this form should be filled out by unique attendees and not by anyone who has already completed it. 
-</thinking>
-
 # Leadership Workshop Effectiveness Evaluation Form - Help Guide
 
 ## Purpose

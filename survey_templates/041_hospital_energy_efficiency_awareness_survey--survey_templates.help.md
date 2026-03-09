@@ -1,9 +1,3 @@
-<thinking>
-
-This guide will help users understand the purpose and how to complete the "Hospital Energy Efficiency Awareness Survey" form. The form is designed to gather information from hospital staff about their energy usage habits and awareness of energy-saving opportunities. The form is not intended for patients or visitors, and its primary purpose is to collect data that will help hospital administrators identify areas where energy efficiency can be improved.
-
-</thinking>
-
 # Hospital Energy Efficiency Awareness Survey - Help Guide
 ## Purpose
 The "Hospital Energy Efficiency Awareness Survey" is a form designed to gather information from hospital staff about their energy usage habits and awareness of energy-saving opportunities. This data will help hospital administrators identify areas where energy efficiency can be improved, reducing costs and environmental impact.

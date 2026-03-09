@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect demographic and socioeconomic data from families to assess their poverty levels and related factors. The survey is used to gather information on household income, family size, age range, employment status, family relationships, education, language, and other relevant factors. This data will help identify areas where families may be struggling financially and provide insights for policy-making and resource allocation. The form is not intended to be a comprehensive poverty assessment tool, but rather a starting point for further analysis and investigation. Please ensure that you are eligible to take the survey and that your responses are accurate and honest.
-</thinking>
-
 # poverty_survey - Help Guide
 ## Purpose
 This form collects demographic and socioeconomic data from families to help identify areas of financial struggle and inform policy-making.

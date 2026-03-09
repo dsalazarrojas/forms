@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is filled out by customers who have actually interacted with the company before. This form should not be filled out by customers who have not been served by the company.
-</thinking>
-
 # Follow Up Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from customers who have interacted with the company for follow-up purposes.

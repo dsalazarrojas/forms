@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Level Creation Survey - Help Guide
 
 ## Purpose

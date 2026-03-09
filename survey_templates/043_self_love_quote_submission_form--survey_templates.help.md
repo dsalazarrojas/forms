@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect self-love quotes from users. The purpose of this form is to gather relevant information about the quote, including the quote itself, the name of the person who submitted it, their contact information, and the source of the quote if applicable. It is essential to complete this form accurately and honestly to ensure that the quote is properly recorded and potentially used for internal purposes.
-
-Before submitting the form, please note that the form checks for duplication of submissions based on the email address and phone number. If a user has already submitted a quote with the same email address or phone number, it will not be possible to submit another quote with the same information.
-
-</thinking>
 # self_love_quote_submission_form - Help Guide
 ## Purpose
 The self-love quote submission form is a tool to collect inspiring and uplifting quotes that promote self-love and positivity.

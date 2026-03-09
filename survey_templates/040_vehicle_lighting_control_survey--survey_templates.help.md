@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Vehicle Lighting Control Survey - Help Guide
 
 ## Purpose

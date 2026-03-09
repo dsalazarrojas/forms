@@ -1,5 +1,3 @@
-<thinking> This form is a Rotary Representative Election Survey, used for nominations for a rotary representative election. It seems that the form is designed for gathering contact information and nomination forms, but it appears to be a repetitive pattern of "Nomination Form" and "Contact Info" fields. Upon closer inspection, it looks like there might be a better approach to organizing the form to minimize redundancy. However, I will proceed with the current structure for the sake of the guide. </thinking>
-
 # Rotary Representative Election Survey - Help Guide
 ## Purpose
 The Rotary Representative Election Survey is a tool to collect nominations for a rotary representative election. It is designed to gather information about individuals who wish to be nominated as representatives for the rotary organization.

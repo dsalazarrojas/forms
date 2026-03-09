@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to match a user's makeup color with their personal characteristics. It gathers information about the user's skin tone, face shape, hair color, eye color, complexion, lip shape, skin type, and preferred makeup color. This information will help the system provide tailored suggestions for makeup products. Please ensure you fill this form accurately to receive personalized results. Note that some of the fields are optional and you may answer them according to your true likeness or preference.
-</thinking>
-
 # Personalized Makeup Color Match Form - Help Guide
 ## Purpose
 This form is designed to match a user's makeup color with their personal characteristics, providing tailored suggestions for makeup products.

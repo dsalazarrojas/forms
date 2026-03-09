@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from sailing club members about their racing schedule, event quality, and participant experience. The form is intended to be simple and straightforward, allowing users to provide their input without any unnecessary complexity. Before filling out the form, ensure that you have reviewed the instructions carefully to avoid duplication of efforts or any confusion. If you're unsure about any field or its purpose, please don't hesitate to reach out to us for clarification.
-
-</thinking>
-
 # Sailing Club Racing Survey - Help Guide
 ## Purpose
 The Sailing Club Racing Survey is designed to gather valuable information from sailing club members to better understand their racing schedule, event quality, and participant experience. This feedback will help the club organizers to make informed decisions to improve future events.

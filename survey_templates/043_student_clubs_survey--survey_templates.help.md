@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from student clubs on their activities, status, and other relevant details.
-It appears that this form is not duplicative with other forms or surveys, and its purpose is to collect data for administrative or organizational purposes.
-</thinking>
-
 # Student Clubs Survey - Help Guide
 ## Purpose
 This form is designed to gather information about student clubs, including their activities, status, and other relevant details.

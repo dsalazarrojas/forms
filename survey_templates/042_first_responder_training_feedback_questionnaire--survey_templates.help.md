@@ -1,5 +1,3 @@
-<thinking>First Responder Training Feedback Questionnaire is a crucial tool for evaluating the effectiveness of our training program in preparing first responders for real-world scenarios. This form is designed to gather feedback from attendees after they have completed a training session, ensuring we can identify areas of strength and weakness, make informed decisions about curriculum development, and improve future training experiences. By using this form, we can avoid duplicating efforts and focus on areas that need improvement. Please ensure that you fill this form out as thoroughly and accurately as possible, as your feedback is invaluable to us in our continuous pursuit of excellence in first responder training.</thinking>
-
 # First Responder Training Feedback Questionnaire - Help Guide
 ## Purpose
 The First Responder Training Feedback Questionnaire is designed to gather feedback from attendees of our first responder training sessions, providing us with valuable insights to improve the effectiveness and quality of our training program.

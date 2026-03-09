@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for evaluating the condition and maintenance plan of a facility. It should be used for gathering information about the physical condition of the building, equipment, and overall maintenance history. Please ensure this form is not used for other purposes, and if you're unsure, please review the facility maintenance guidelines. 
-</thinking>
-
 # Facility Maintenance Evaluation Form - Help Guide
 ## Purpose
 The Facility Maintenance Evaluation Form is used to assess the condition of a facility, including its physical state and maintenance procedures.

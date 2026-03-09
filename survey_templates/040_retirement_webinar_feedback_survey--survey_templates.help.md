@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 **Retirement Webinar Feedback Survey - Help Guide**
 
 ## Purpose

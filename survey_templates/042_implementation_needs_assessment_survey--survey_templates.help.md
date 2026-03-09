@@ -1,13 +1,3 @@
-<thinking>
-This survey template is designed to help project teams assess their current implementation needs, identify potential challenges, and gather information about the project's scope, goals, and objectives. It is intended to be completed by project managers or team members to gain insight into the project's implementation status and identify areas that require attention.
-
-To ensure accuracy, please review the following guidelines before completing the survey:
-
-* This survey is only for projects that are currently in an implementation phase.
-* Please complete the survey only for your own project, and avoid duplication of responses.
-
-</thinking>
-
 # Implementation Needs Assessment Survey - Help Guide
 ## Purpose
 This survey is designed to help project teams assess their current implementation needs, identify potential challenges, and gather information about the project's scope, goals, and objectives.

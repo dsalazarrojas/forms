@@ -1,7 +1,3 @@
-<thinking>
-This guide is to ensure that the "structured_interview_survey" form is completed correctly and consistently by all users. This form is used to collect data from interviewers and candidates in a structured format. To ensure that the data collected is accurate and reliable, it is essential to understand the purpose and requirements of each field in the form. Please read this guide carefully before completing the form.
-</thinking>
-
 # structured_interview_survey - Help Guide
 ## Purpose
 The "structured_interview_survey" form is designed to collect data from interviewers and candidates in a structured format. It helps to gather information about the candidate's performance, feedback, and progress throughout the interview process.

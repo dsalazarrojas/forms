@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from providers, including their name, address, email, phone number, license, specialties, languages they speak, and any additional languages they may speak. The form is intended to be completed by providers to provide their contact information and details about their services. This form is likely used to create a directory or database of providers for various purposes, such as referrals or client management. To avoid duplication of effort, please make sure to complete this form only once for each provider.
-</thinking>
-
 # Provider Survey - Help Guide
 ## Purpose
 The provider survey form is a tool used to collect and record information about providers for various purposes. This form helps to streamline the collection of provider data, ensuring consistency and reducing errors.

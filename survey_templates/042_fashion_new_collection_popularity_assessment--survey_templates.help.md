@@ -1,11 +1,3 @@
-<thinking>
-
-The "Fashion New Collection Popularity Assessment" form is designed to collect data on users' opinions and preferences regarding a new fashion collection. The form is meant to gauge their interest in the collection, their purchasing behavior, and demographic information to better understand the appeal and potential marketability of the collection.
-
-To avoid duplication of effort and ensure accurate results, please complete the form once you have reviewed the entire form and are familiar with the questions and options provided.
-
-</thinking>
-
 # Fashion New Collection Popularity Assessment - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on a new fashion collection, aiming to understand their opinions, preferences, and demographic information.

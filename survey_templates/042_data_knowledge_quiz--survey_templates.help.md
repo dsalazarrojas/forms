@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be a simple data knowledge quiz that collects information about a form's metadata, allowing users to input title, description, category, tags, image, video, audio, document, URL, date, time, email, phone, note, checkboxes, select one options, select multiple options, date range, integer, decimal, text area, and submit button. The form does not require any specific business logic, and it's primarily meant for users to input their own form data.
-
-</thinking>
-
 # Data Knowledge Quiz - Help Guide
 ## Purpose
 This form is intended for users to input metadata about their form. The goal is to collect a variety of information to help categorize and manage forms in a system.

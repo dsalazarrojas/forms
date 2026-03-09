@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge the user's satisfaction with the Virtual Health Platform Services (Vhps). The primary goal is to understand the user's experience with the service and gather insights for improvement. The survey includes a mix of single-choice, multiple-choice, and open-ended questions to collect qualitative and quantitative feedback. This form is intended to be completed by users who have interacted with the Vhps services. By providing this information, the user will be contributing to the improvement of the services they use, as well as helping the platform to better understand their needs and preferences.
-</thinking>
-
 # Virtual Health Platform Satisfaction Survey - Help Guide
 ## Purpose
 This guide will walk you through the Virtual Health Platform Satisfaction Survey form. The form is designed to collect user feedback on their experience with the Virtual Health Platform Services (Vhps).

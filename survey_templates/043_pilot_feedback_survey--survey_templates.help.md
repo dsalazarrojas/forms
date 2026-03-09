@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the "pilot_feedback_survey" form is to collect feedback from pilots regarding their flight experience, safety perception, communication quality, and other aspects related to their flight. This form is likely used to gather insights that can inform improvements to flight operations, communication, or training programs. 
-
-Before proceeding, please ensure you have not already submitted feedback on this form, as it may lead to duplicate entries. If you're unsure, you can check with your team or supervisor for guidance.
-
-</thinking>
-
 # pilot_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from pilots on their flight experiences, safety perception, communication quality, and other related aspects.

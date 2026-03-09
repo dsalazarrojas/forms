@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Bake Off Voting - Help Guide
 ## Purpose
 This form is designed to gather information for the Community Bake Off Voting event. It collects details about the voting process, including the date of voting, unique vote reference number, and the voter's information. The form also asks for the voter's opinion on various categories, such as best overall baked good, best bread, best dessert, and so on. Additionally, it requests feedback on the event and the bakers.

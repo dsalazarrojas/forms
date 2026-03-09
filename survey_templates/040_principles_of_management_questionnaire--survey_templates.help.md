@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about management roles within an organization. The purpose of this form is to gather data on the characteristics and responsibilities of management roles, such as their role in the organization, their level of training experience, and their availability for training. This information will help in creating effective training programs tailored to management needs.
-</thinking>
-
 # Principles Of Management Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about management roles within an organization, to help create effective training programs tailored to management needs.

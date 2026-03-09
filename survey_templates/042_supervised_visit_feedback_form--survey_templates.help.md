@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supervised Visit Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on visits supervised by a supervisor. The supervisor will use this form to record their observations, outcomes, and feedback on the session. This form is intended to be completed by the supervisor after each visit, and it will help to track progress and identify areas for improvement.

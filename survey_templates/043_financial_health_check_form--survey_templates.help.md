@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Financial Health Check Form - Help Guide
 ## Purpose
 The Financial Health Check Form is designed to help you assess your financial health by providing an overview of your income, expenses, savings, investments, and other financial indicators. This form is meant to be a tool for personal reflection and is not intended for use in professional financial planning. Please note that this form does not provide any personal financial advice. If you are seeking professional financial advice, please consult a licensed financial advisor.

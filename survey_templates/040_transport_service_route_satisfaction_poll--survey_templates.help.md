@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect feedback from transport service riders regarding their satisfaction with the routes they use. It is essential to gather data on how riders perceive the efficiency, frequency, and performance of each route. The purpose of this form is to help transport service providers improve their services and better meet the needs of their riders. To prevent duplication of effort, please note that this form should only be used by riders who have recently used the transport service and are providing feedback on their most recent experience.
-
-</thinking>
-
 # Transport Service Route Satisfaction Poll - Help Guide
 
 ## Purpose

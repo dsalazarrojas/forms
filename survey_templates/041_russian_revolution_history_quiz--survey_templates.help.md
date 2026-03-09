@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a user's knowledge of the Russian Revolution. As such, it will be most relevant to history enthusiasts, educators, and those interested in the topic. Please note that this form is not affiliated with any form platform and is an original adaptation created using public metadata. If you are unsure about the purpose of this form, please contact form@gic.mx.
-
-</thinking>
-
 # Russian Revolution History Quiz - Help Guide
 
 ## Purpose

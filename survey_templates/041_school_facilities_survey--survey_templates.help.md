@@ -1,7 +1,3 @@
-<thinking> 
-This form is meant to gather information about the condition of school facilities from users. The form is used to assess the current state of facilities and rate them according to various criteria. To complete this form, follow the steps below. 
-
-</thinking>
 # School Facilities Survey - Help Guide
 ## Purpose
 This form is used to gather information about the condition of school facilities. It assesses various aspects of facility condition, such as building condition, equipment, safety, accessibility, cleanliness, hygiene, and waste management. 

@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to gather information from researchers working with biotinylation in various fields, focusing on their research background, expertise, and collaboration interests. It is essential to provide accurate and detailed information to help facilitate collaboration and resource sharing among researchers in the field. Please note that this form is for informational purposes only and does not imply any commitment or partnership.
-
-The form is structured to collect data on various aspects of biotinylation research, including researcher information, biotinylation experience, protein research, and collaboration interests. It will help identify potential collaborators, resources, and expertise for future research projects.
-
-Please ensure that the information provided is accurate and up-to-date to ensure that your input is considered for potential collaborations or resource sharing.
-
-</thinking>
-
 # Biotinylation And Proteins Research Form - Help Guide
 ## Purpose
 This form is designed to gather information from researchers working with biotinylation to facilitate collaboration and resource sharing.

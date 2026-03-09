@@ -1,7 +1,3 @@
-<thinking>
-We're designing a form to collect data on the user's preference for digital content. This form will help us understand what type of content users are interested in, how often they consume it, on which platforms and devices, and what formats they prefer. Please ensure this form is only filled out by users who are actually interested in digital content and not by users who are simply testing or spamming the system. This will help us to create more tailored digital content recommendations. This form will be used by content creators and developers to inform their content creation and delivery strategies.
-</thinking>
-
 # Digital Content Consumption Preference Poll - Help Guide
 ## Purpose
 The form is a collection of questions designed to understand individual's preferences and habits when consuming digital content.

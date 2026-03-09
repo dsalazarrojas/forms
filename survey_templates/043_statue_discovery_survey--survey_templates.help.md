@@ -1,9 +1,3 @@
-<thinking>
-
-This form was created to collect information about statues from around the world. The purpose of this form is to help users discover and document statues in a standardized way. This form is designed to be used by anyone interested in statues, whether you're a historian, artist, or enthusiast. If you've already created a form with similar fields, please don't worry – this form is an original adaptation and does not copy or use proprietary content from any form platform. You're free to use, modify, and even sell forms derived from this one, just give credit.
-
-</thinking>
-
 # Statue Discovery Survey - Help Guide
 ## Purpose
 The Statue Discovery Survey form is designed to collect information about statues from around the world. This form helps users document and share statues in a standardized way, making it easier for others to find and learn about them.

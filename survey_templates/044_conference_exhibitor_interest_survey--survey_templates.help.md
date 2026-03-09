@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended for conference exhibitors to understand the purpose and process of completing the Conference Exhibitor Interest Survey. 
 
 The purpose of this form is to collect information from exhibitors about their interest in participating in the conference, specifically in regards to booth size and location, display requirements, anticipated leads, level of interest in sponsorship packages, marketing materials to provide, and other relevant details. 

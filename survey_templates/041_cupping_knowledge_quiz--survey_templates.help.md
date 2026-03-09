@@ -1,14 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Cupping Knowledge Quiz" form, we need to consider the form's purpose, the fields it contains, and how end-users can effectively complete it. The form appears to be designed to gather information about a person's practice and experience with cupping, a traditional form of Chinese medicine. The fields cover various aspects such as contraindications, benefits, risks, medical conditions, cupping technique, certification, practice frequency, duration, and areas of application. The form's purpose is likely to help users assess their knowledge and experience with cupping.
-
-Before creating the user-facing help guide, let's review the form structure and identify potential areas of focus. The form has 22 fields across 11 pages, which can be overwhelming for users. The fields can be grouped into categories such as "Medical Background," "Cupping Experience," "Practice Habits," and "Certification." This categorization can help users better understand the form's flow and purpose.
-
-Upon reviewing the fields, we notice that some fields are similar or have overlapping information, such as "contraindications" and "risks," which might be better combined into one field. Additionally, some fields like "cupping_certification" and "cupping_course" have similar options, which could be consolidated into one field.
-
-To create an effective help guide, we'll focus on explaining each field's purpose and how to complete it concisely. We'll also consider the user experience and provide tips to help them navigate the form efficiently.
-
-</thinking>
-
 # Cupping Knowledge Quiz - Help Guide
 ## Purpose
 The Cupping Knowledge Quiz is designed to assess your knowledge and experience with cupping, a traditional form of Chinese medicine. Please answer the questions accurately and concisely to help us better understand your understanding of cupping.

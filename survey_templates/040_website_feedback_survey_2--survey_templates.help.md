@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Website Feedback Survey 2 - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about our website. By completing this form, you will help us understand your experiences and suggestions for improvement.

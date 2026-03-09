@@ -1,11 +1,3 @@
-<thinking>
-
-The "learning_chapter_worksheet" form is designed to track progress and feedback for learners in a learning program. It captures essential information about the learner's journey, including their name, chapter progress, reflections, and completion status. This form helps instructors and administrators monitor learner engagement, identify areas of improvement, and adjust the curriculum accordingly.
-
-Before proceeding, ensure you are completing this form in the correct context and that the information is relevant to your role and responsibilities.
-
-</thinking>
-
 # learning_chapter_worksheet - Help Guide
 ## Purpose
 The "learning_chapter_worksheet" form is used to collect feedback and progress updates from learners on each chapter of a learning program.

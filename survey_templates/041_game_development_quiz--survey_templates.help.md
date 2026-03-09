@@ -1,8 +1,3 @@
-<thinking>
-We are creating a help guide for the Game Development Quiz form. This form is intended for users who want to provide their feedback or input on game development-related topics. The form is designed to be completed by individuals with varying levels of experience with game development.
-To ensure that the form is relevant to the correct audience, we'll check if the form's purpose is clear and whether the form is not duplicated in the system.
-</thinking>
-
 # Game Development Quiz - Help Guide
 ## Purpose
 The Game Development Quiz form is used to gather information about game development experience and preferences.

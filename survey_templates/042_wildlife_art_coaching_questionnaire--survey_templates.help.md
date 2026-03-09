@@ -1,7 +1,3 @@
-<thinking>
-This form is part of an ecosystem where users interact with the coaching program to receive feedback on their artistic skills. To provide the best assistance, we need accurate information about users, sessions, and progress. This form is intended to capture the required data for the coaching staff to deliver personalized support. Please use it only if you are a valid user of this ecosystem, such as an artist seeking coaching or a coach offering feedback. If you've already filled out this form, please do not submit duplicate information.
-</thinking>
-
 # Wildlife Art Coaching Questionnaire - Help Guide
 
 ## Purpose

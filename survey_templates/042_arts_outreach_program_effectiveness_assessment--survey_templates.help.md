@@ -1,7 +1,3 @@
-<thinking>
-This form, titled "Arts Outreach Program Effectiveness Assessment," is a tool designed to evaluate the effectiveness of arts outreach programs. It is intended to be filled out by participants after attending such programs. The form will assess various aspects of the program, including its overall effectiveness, instructor quality, content relevance, learning environment, and more. This form will help program organizers and facilitators identify areas of improvement and make informed decisions for future programming.
-</thinking>
-
 # Arts Outreach Program Effectiveness Assessment - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants about their experience with arts outreach programs. The information collected will help program organizers and facilitators evaluate the effectiveness of their programs and make improvements for future events.

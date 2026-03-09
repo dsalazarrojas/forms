@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gauge the alignment of an organization's strategic focus with its current capacity to deliver it. The form is intended for internal use within the organization, and its data is not meant to be publicly shared or accessed by external parties. Before filling out this form, please ensure that you are authorized to do so and that your responses are accurate and honest.
-</thinking>
-
 # Organizational Alignment Impact Survey - Help Guide
 ## Purpose
 The Organizational Alignment Impact Survey is a tool to measure the strategic focus and capacity of an organization. It helps identify potential gaps between what the organization aims to achieve and what it can realistically deliver.

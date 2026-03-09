@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is intended to be a comprehensive survey to gauge employee satisfaction with their job, work-life balance, and company policies. It's crucial to understand the employee's perspective on various aspects of their job and work environment. Before proceeding, ensure this form is relevant and not a duplicate of existing surveys, and that the goal is to gather accurate and unbiased feedback. 
-
-</thinking>
-
 # Job Satisfaction Survey - Help Guide
 ## Purpose
 The Job Satisfaction Survey is designed to gather feedback from employees on their job satisfaction, work-life balance, and company policies. This survey helps employers understand what they can improve on to create a better work environment.

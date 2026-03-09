@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the effectiveness and impact of the Volunteer Appreciation Program. It is meant to gather feedback from volunteers on their experiences, suggestions for improvement, and overall satisfaction with the program. This form will help the organization understand what methods of appreciation are most effective, how often volunteers feel appreciated, and areas that need improvement. It is not a mandatory form and the answers provided will be used to help refine the volunteer program for future development.
-</thinking>
-
 # Volunteer Appreciation Program Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from volunteers on their experiences with the Volunteer Appreciation Program. It will help us understand what methods of appreciation are most effective, how often volunteers feel appreciated, and areas that need improvement.

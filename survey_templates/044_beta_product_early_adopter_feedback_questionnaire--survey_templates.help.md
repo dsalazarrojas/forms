@@ -1,5 +1,3 @@
-<thinking>As a Beta Product Early Adopter Feedback Questionnaire, this form aims to collect valuable insights from early adopters about their experience with the beta product. The purpose of this form is to gather feedback on the product's usability, design, and overall performance. By completing this form, you will be helping the product team to identify areas of improvement and ensure the final product meets the needs and expectations of its users. Please note that this is an anonymous feedback form, and your responses will be kept confidential. This form should only be filled out once, so please make sure to answer all questions thoroughly.</thinking>
-
 # Beta Product Early Adopter Feedback Questionnaire - Help Guide
 ## Purpose
 The Beta Product Early Adopter Feedback Questionnaire is designed to gather feedback from early adopters about their experience with the beta product. This form will help the product team understand the product's strengths and weaknesses, identify areas for improvement, and ensure the final product meets the needs and expectations of its users.

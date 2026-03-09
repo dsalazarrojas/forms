@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather data on healthcare policy impact awareness from various stakeholders. The goal is to understand how different policy changes affect the healthcare system, including their perceived impact and any notable effects on healthcare providers and costs.
-It is essential to complete this form accurately and concisely, without duplicating information already provided, as it will help in creating a comprehensive report to inform decision-making processes within the organization.
-Please review this help guide to ensure you understand the form's purpose and how to fill it out correctly.
-</thinking>
-
 # Healthcare Policy Impact Awareness Survey - Help Guide
 ## Purpose
 This survey aims to collect information on recent policy changes in the healthcare system and their effects on healthcare providers and costs. Your input will help us better understand how these changes impact our services and make informed decisions.

@@ -1,9 +1,3 @@
-<thinking>
-
-We need a comprehensive help guide for the "Market Researcher Information Form" that explains the form's purpose, how to complete it, and each field's meaning. The form appears to be designed to collect information about market researchers, including their form ID, category, description, experience, contact information, and availability. The form seems to be used to gather data for some internal purpose within the organization, likely for research or resource allocation. To avoid duplication, we should note that the form does not require a category if the form ID already exists in the system.
-
-</thinking>
-
 # Market Researcher Information Form - Help Guide
 ## Purpose
 The Market Researcher Information Form is used to collect information about market researchers for internal purposes, such as research or resource allocation. Please complete this form to provide your details for our records.

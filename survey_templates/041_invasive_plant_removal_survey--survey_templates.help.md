@@ -1,11 +1,3 @@
-<thinking>
-
-This survey template is designed to be used by land managers or field personnel to collect data on invasive plant removal activities. This template should only be used for collecting data on removal activities where invasive plant species have been identified and removed. It is not intended for general surveys of vegetation or habitat types. 
-
-Before starting the survey, make sure to review the location of the removal activity and the methods used to remove the invasive plant species. The survey should only be filled out once per removal activity.
-
-</thinking>
-
 # Invasive Plant Removal Survey - Help Guide
 ## Purpose
 This survey template is designed to collect data on invasive plant removal activities.

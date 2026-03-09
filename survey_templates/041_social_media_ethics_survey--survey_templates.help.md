@@ -1,16 +1,3 @@
-<thinking>
-
-To create a help guide for the "social_media_ethics_survey" form, I will follow these steps:
-1.  Summarize the form's purpose and check for duplication and relevance.
-2.  Extract the form's fields and their labels.
-3.  Create a Markdown-based help guide for the form.
-
-The purpose of this form is to gather information about users' attitudes towards social media ethics, which is essential for companies to understand their customers' perspectives on online behavior and data collection. This form is likely part of a larger study or research project, and its purpose is to collect data that can inform the development of more responsible and customer-centric social media platforms.
-
-The form appears to be well-structured, but it is essential to review each field to ensure that they are clear and concise.
-
-</thinking>
-
 # social_media_ethics_survey - Help Guide
 ## Purpose
 The social_media_ethics_survey form is designed to collect information about your attitudes towards social media ethics, which is essential for companies to understand their customers' perspectives on online behavior and data collection.

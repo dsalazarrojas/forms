@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly to gather accurate and reliable data. This form is designed to collect feedback from customers about their online shopping experience. The purpose of this form is to identify areas of improvement for the online store. Please make sure to answer based on your actual experience, and do not provide hypothetical or fictional responses. Also, ensure that you are answering all questions that apply to your experience, even if it's not a straightforward "yes/no" question. For example, if the store's online platform is not very friendly, answer "very unfriendly" as it's more accurate than "neutral". If you're unsure about a question, answer "neutral" or provide a brief explanation in "Additional Comments" field.
-</thinking>
-
 # Online Shopping Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their online shopping experience. Your responses will help us identify areas of improvement for the online store.

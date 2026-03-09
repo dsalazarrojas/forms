@@ -1,7 +1,3 @@
-<thinking>
-This form will be used to collect feedback from participants about the diversity and inclusion workshop they attended. The purpose of the form is to gather information on the participants' experiences, satisfaction, and recommendations for future workshop topics. To ensure that the feedback is useful, please only submit one response per page per participant. If you have attended multiple workshops, please submit a separate form for each workshop.
-</thinking>
-
 # Diversity And Inclusion Workshop Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants about their experience with the diversity and inclusion workshop they attended. The information collected will be used to improve future workshop content and facilitation.

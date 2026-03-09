@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # intimacy_expectations_survey - Help Guide
 ## Purpose
 This form is designed to assess your intimacy expectations and boundaries in a relationship. It will help you evaluate how often you expect physical and emotional intimacy from your partner and how important it is for you. The form is divided into several sections, each addressing a different aspect of intimacy.

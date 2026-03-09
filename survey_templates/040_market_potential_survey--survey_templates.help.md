@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about market potential, including company details, user experience, and product feedback. This form is designed to collect data on various aspects of the market potential, such as company category, product name, and contact information. It also aims to gather insights on user satisfaction, feature preferences, and usage habits. This form is intended for internal use and may not be publicly accessible. It is assumed that the form will be filled out by authorized personnel, and the data collected will be used to improve the product and services offered. It is recommended to fill out the form only once per company to avoid duplication of effort.
-</thinking>
-
 # Market Potential Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about market potential, including company details, user experience, and product feedback.

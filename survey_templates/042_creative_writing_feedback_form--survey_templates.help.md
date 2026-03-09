@@ -1,10 +1,3 @@
-<thinking>
-This is a guide to help users fill out the "Creative Writing Feedback Form" effectively.
-This form is meant to gather information from users to understand their preferences for a creative writing project.
-This project aims to provide users with a better understanding of how to tailor their writing to specific needs and preferences.
-Please make sure you're filling out this form for its intended purpose and not for other purposes to avoid duplicate or unnecessary data.
-</thinking>
-
 # Creative Writing Feedback Form - Help Guide
 
 ## Purpose

@@ -1,17 +1,3 @@
-<thinking>
-
-This form is intended to help users assess their current situation and provide information that will be used to determine the best course of action to address their primary challenge. The form will likely be used by individuals or organizations seeking support or guidance on how to address a specific issue or problem they are facing. 
-
-Before proceeding, please confirm that this is the correct form for your needs by considering the following:
-
-* Are you facing a specific challenge or problem that you are seeking support or guidance on?
-* Have you previously attempted to address this issue or problem, and if so, what steps did you take?
-* Are you looking for support or guidance on addressing this challenge or problem?
-
-If you have answered "yes" to these questions, then this form should be suitable for your needs.
-
-</thinking>
-
 # Assess Your Situation - Help Guide
 ## Purpose
 This form is designed to gather information about your current situation and challenges. It will help us better understand your specific needs and provide you with guidance and support tailored to your requirements.

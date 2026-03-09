@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a company's sales and marketing strategy, channels, and budget. This information will be used to help us understand how companies approach sales and marketing within their organization, and how they measure the effectiveness of their strategies. This form should only be filled out by companies that are currently utilizing a vertical selling model, and are looking for guidance on how to improve their sales and marketing efforts. If you are not using a vertical selling model, please do not fill out this form.
-</thinking>
-
 # Vertical Selling Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information about your company's sales and marketing strategy, channels, and budget. This information will help us understand how companies approach sales and marketing within their organization and how they measure the effectiveness of their strategies.

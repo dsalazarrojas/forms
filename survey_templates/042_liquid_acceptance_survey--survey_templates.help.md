@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # liquid_acceptance_survey - Help Guide
 ## Purpose
 The "liquid_acceptance_survey" form is used to gather information about the acceptance and use of liquid-based products or services.

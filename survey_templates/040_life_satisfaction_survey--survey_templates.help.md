@@ -1,12 +1,3 @@
-<thinking>
-To provide a user-friendly help guide for the "Life Satisfaction Survey" form, we must first ensure it meets the intended purpose and avoid duplicating efforts. 
-
-The purpose of this form is to collect feedback from users about their overall life satisfaction, including various aspects such as overall satisfaction, happiness, and well-being. This form is designed to gather quantitative data through numeric fields and qualitative data through select-one and select-multiple fields. The fields cover different domains such as life activities, relationships, and personal perceptions. 
-
-Before proceeding, please review the form structure and identify any potential issues or areas for improvement.
-
-</thinking>
-
 # Life Satisfaction Survey - Help Guide
 ## Purpose
 The Life Satisfaction Survey is designed to gather feedback on different aspects of overall life satisfaction. This includes overall satisfaction, happiness, and well-being, as well as specific areas such as life activities, relationships, and personal perceptions.

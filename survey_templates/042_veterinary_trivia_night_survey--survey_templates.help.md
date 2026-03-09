@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and data from users who have attended veterinary trivia nights. The purpose of this form is to gather information on the number of participants, the average score achieved by the participants, and other metrics related to the event. This form is likely to be used by event organizers to analyze and improve future events. Please fill out this form if you have attended a veterinary trivia night. Please note that this form is intended for attendees only, so please do not fill it out if you have not attended an event.
-</thinking>
-
 # Veterinary Trivia Night Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and data from users who have attended veterinary trivia nights.

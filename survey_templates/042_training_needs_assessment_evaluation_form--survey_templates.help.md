@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This help guide will explain the purpose and completion instructions for the "Training Needs Assessment Evaluation Form" in a clear and concise manner.
 
 # Training Needs Assessment Evaluation Form - Help Guide

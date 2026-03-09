@@ -1,15 +1,3 @@
-<thinking>
-
-As a designer of forms and technical writer, the goal is to provide clarity and simplicity in the instructions to guide the user through the form submission process. 
-
-The form purpose is to gather data on the coaching progress, identifying areas where the coach should focus the next meeting and any adjustments the client should make in between sessions.
-
-To avoid duplication, ensure that the user is not using the form if they have not had a meeting/sessions with the coach yet, as the questions asked are based on a session that has already occurred, implying that the form will be used for post-meeting feedback.
-
-The form's structure follows the typical pattern of asking for progress information, obstacles faced, lessons learned, support needed, and focus for the next period.
-
-</thinking>
-
 # Coaching Progress Check In - Help Guide
 ## Purpose
 The Coaching Progress Check In form is designed to help coaches and clients track progress, identify areas for improvement, and set goals for the next meeting. 

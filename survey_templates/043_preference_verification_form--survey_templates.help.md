@@ -1,7 +1,3 @@
-<thinking> 
-We are designing this form to collect preference verification data from end-users for a team setting. The form is meant to help us understand team preferences for contact and updates. This form will not ask questions that are not relevant to team settings, and users are allowed to skip questions if they have already provided the information elsewhere. Please note that this form is not affiliated with any specific form platform and is an original adaptation created using public survey topic metadata as inspiration. 
-</thinking>
-
 # Preference Verification Form - Help Guide
 ## Purpose
 This form is designed to collect preference verification data from team members for a team setting. It is used to understand and verify team preferences for contact and updates.

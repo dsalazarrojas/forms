@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback and ratings from participants about their experiences at a post-Christmas party. The purpose of this form is to gather data on the quality and enjoyment of the party, including the food, drinks, games, music, and overall atmosphere. This information will help organizers understand what worked well and what could be improved for future events.
-
-This form should only be completed by participants who attended the post-Christmas party. Please note that this form is not intended to be filled out by non-participants or for general feedback about other events. 
-
-</thinking>
-
 # Post-Christmas Party Survey - Help Guide
 ## Purpose
 The Post-Christmas Party Survey is designed to gather feedback and ratings from participants about their experiences at the post-Christmas party. This information will help us understand what worked well and what could be improved for future events.

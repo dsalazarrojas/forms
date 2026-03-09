@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this survey is to help teams and individuals prioritize tasks based on their importance and urgency. It seems that this form is meant to be a tool to gather information on tasks, their priority levels, and the order in which they should be performed. To avoid duplication and ensure accurate results, please fill out the form carefully, making sure to answer each question truthfully.
-</thinking>
-
 # Task Prioritization Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information on tasks, their priority levels, and the order in which they should be performed.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions from mobile banking customers. The form is intended to gather information about their mobile banking experiences, including their satisfaction with the service, potential improvements, and any comments or feedback they may have. This form is likely used by the mobile banking team to understand customer needs and preferences, identify areas for improvement, and make data-driven decisions to enhance the mobile banking service.
-
-Before completing this form, please make sure you have not already provided feedback on this survey in the past, as your previous responses will be considered for this survey. If you are unsure about any questions or fields, please feel free to ask for clarification or clarification from a support representative.
-
-Please note that this form is for informational purposes only, and any information provided will be used to improve the mobile banking service. Your feedback is greatly appreciated and will help us serve you better.
-</thinking>
-
 # Mobile Banking Survey - Help Guide
 ## Purpose
 This guide is designed to walk you through the Mobile Banking Survey form, helping you understand its purpose and how to complete it accurately.

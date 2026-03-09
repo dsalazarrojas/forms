@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and data from customers about their experience with candles. It is intended for internal use to improve the product and business practices. Before filling out this form, ensure that you have not already submitted a survey or filled out this form previously to avoid duplicate submissions. It is recommended that you provide honest and accurate information to help us better understand your needs and preferences.
-</thinking>
-
 # Candle Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your experiences and opinions on various aspects of our candle products and services.

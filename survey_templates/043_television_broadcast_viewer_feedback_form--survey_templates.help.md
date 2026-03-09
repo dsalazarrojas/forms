@@ -1,7 +1,3 @@
-<thinking>
-Is the form purpose to collect feedback from viewers of television broadcasts? The form is designed to gather opinions on the content of the broadcast and gather more information about the viewer, specifically their name, contact information, and level of satisfaction with the broadcast. This form will help the broadcaster understand what their audience likes or dislikes about the broadcast, which can be used to improve future content. This form does not seem to be a duplicate form, as the provided YAML fields do not overlap with any other form in the system.
-</thinking>
-
 # Television Broadcast Viewer Feedback Form - Help Guide
 ## Purpose
 The "Television Broadcast Viewer Feedback Form" is designed to collect feedback from viewers of television broadcasts. The information collected will help the broadcaster improve future content and better understand their audience's preferences.

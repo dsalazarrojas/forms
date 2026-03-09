@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form, "Health And Wellness Program Survey", is to collect information about an individual's health and wellness habits and preferences. This information will help us better understand your current lifestyle and identify areas for improvement. Please answer each question truthfully, and don't worry, all answers will be kept confidential. 
-
-Before starting, please ensure that you have completed all the previous questions before proceeding. If you're unsure about any question, please ask for clarification.
-
-Also, please note that some fields are optional, so you can skip them if you don't feel comfortable sharing that information.
-
-</thinking>
-
 # Health And Wellness Program Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your health and wellness habits and preferences.

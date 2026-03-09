@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is intended for end-users who are completing the "Personal Hygiene Survey" form. This form is designed to gather information about an individual's personal hygiene practices, such as their frequency of washing their hands, face, armpits, and body, as well as their use of deodorant, soap, and hand sanitizer. 
-
-The form is likely to be used in a healthcare or research setting to collect data on the effectiveness of personal hygiene habits. To ensure the most accurate and relevant data, please answer the questions as honestly and consistently as possible. If you have any questions or concerns about the form, please do not hesitate to reach out to the relevant authorities.
-
-</thinking>
-
 # Personal Hygiene Survey - Help Guide
 ## Purpose
 The "Personal Hygiene Survey" is a form designed to collect information about an individual's personal hygiene practices. This information will be used to gather data on the effectiveness of personal hygiene habits.

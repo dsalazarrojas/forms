@@ -1,5 +1,3 @@
-<thinking>...This form is used for assessing the volunteer needs of individuals. It aims to gather information about the availability and interests of volunteers in order to better understand their capacity for volunteer work. This form is part of a larger process for matching volunteers with opportunities that align with their skills and preferences. By completing this form, you will be helping us understand your needs and interests as a volunteer, which can help us tailor our programs to better meet your needs...</thinking>
-
 # Volunteer Needs Assessment Survey - Help Guide
 ## Purpose
 The Volunteer Needs Assessment Survey is a tool used to collect information about your volunteer needs and availability. This survey will help us understand your capacity for volunteer work and match you with opportunities that suit your skills and preferences.

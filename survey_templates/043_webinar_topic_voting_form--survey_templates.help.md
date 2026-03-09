@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to vote on potential webinar topics, formats, and schedules. Users will be presented with multiple questions, including selecting topics, formats, and preferred schedules. The form will allow users to provide additional notes and contact information (email or phone number) if desired. This form will not be used for any other purpose and should only be filled out by users who have a genuine interest in participating in the webinar.
-</thinking>
-
 # Webinar Topic Voting Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect data about the heat stress experiences of employees in a work environment. It appears to focus on various aspects, including feedback, employee role, workplace location, shift details, temperature readings, heat exposure, symptoms, prevention methods, and submitter information. The form likely serves as a means for employees to report and document heat-related incidents, which can inform management and safety measures. Before proceeding, review the fields and their descriptions to ensure this form suits your specific needs and purposes.</thinking>
-
 # Heat Stress Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about employee experiences with heat stress in the workplace.

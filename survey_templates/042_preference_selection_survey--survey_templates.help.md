@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand and effectively use the Preference Selection Survey form. The form is designed to collect user preferences and feedback, and its purpose is to gather information on users' likes and dislikes. Please ensure that you have not completed this survey previously, as the form is meant to be filled out only once. If you have already completed this survey, your response will not be recorded.
-</thinking>
-
 # Preference Selection Survey - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Upgrade Feedback Poll Form - Help Guide
 
 ## Purpose

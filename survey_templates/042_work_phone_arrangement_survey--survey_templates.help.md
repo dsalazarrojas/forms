@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information about an individual's work phone arrangement, which is a set of questions and comments related to their work schedule and availability. The purpose of this form is to gather data that will help us understand how employees are currently handling their work phone and identify areas for improvement.
-
-To ensure that your answers are accurate and consistent, please review the questions carefully and respond accordingly. Some questions may be optional, but they are included to provide a more comprehensive understanding of your work arrangement.
-
-Before starting, make sure you have all necessary information and documents ready to answer the questions. If you need clarification on any question, please don't hesitate to ask.
-
-Please note that this form should not be filled out more than once per person. If you need to make changes or updates, please use the contact information provided below.
-
-</thinking>
-
 # Work Phone Arrangement Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your work phone arrangement, including your availability, schedules, and preferences.

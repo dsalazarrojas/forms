@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect pre-experience feedback from participants in a program or activity. The main purpose of this form is to gather information about participant expectations, background, and preferred communication preferences. The form will only be relevant to participants who are about to start a program or activity. Please ensure that participants are not filling out this form if they are already in the middle or at the end of a program or activity.
-
-This form has been designed to provide a structured way of collecting feedback from participants. The answers will be used to tailor the experience to meet participant needs and expectations.
-
-Please note that this form is only meant to be filled out once before the participant starts the program or activity. It is recommended that participants fill out this form only if they are going to participate in the program or activity.
-
-This form will only be filled out by participants who are about to start a program or activity. If you are already participating in the program or activity, this form is not meant for you.
-
-Please ensure that participants are not filling out this form if they have already started the program or activity. This form is only meant to be filled out once before the participant starts the program or activity.
-
-This form is meant to be filled out by participants who are about to start a program or activity. If you are already participating in the program or activity, this form is not meant for you.
-
-Please ensure that participants are not filling out this form if they are already participating in the program or activity.
-
-</thinking>
-
 # Pre Experience Feedback Survey - Help Guide
 ## Purpose
 The Pre Experience Feedback Survey is designed to collect valuable information from participants about their expectations, background, and communication preferences before they start a program or activity.

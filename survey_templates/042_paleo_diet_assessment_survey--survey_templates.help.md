@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide will provide an overview of the Paleo Diet Assessment Survey form, explaining its purpose, how to complete it, and the significance of each field.
 
 # Paleo Diet Assessment Survey - Help Guide

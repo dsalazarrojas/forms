@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users regarding their access to educational resources. The form is intended to be completed by users who are either accessing or not accessing these resources, and is meant to help us understand their current situation. Please ensure that you are completing this form only once and that the information you provide is accurate and up-to-date. If you have already completed this form, your previous responses will not be overridden.
-</thinking>
-
 # Educational Equity Resource Access Survey - Help Guide
 ## Purpose
 This form collects information about users' access to educational resources. Please answer the questions honestly, and make sure to complete all required fields. Required fields are marked with <code>**Required**</code>.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from employees on the cleanliness of their office workspace. This form will help the facilities team to understand the current state of cleanliness, identify areas of improvement, and adjust their cleaning schedules and practices accordingly. By collecting feedback, the facilities team can work towards maintaining a clean and healthy work environment that benefits everyone.
-
-Before completing this form, please ensure that you haven't already submitted a similar feedback. If you've already provided feedback recently, it's unlikely that your feedback will be considered again.
-</thinking>
-
 # Office Cleanliness Feedback Form - Help Guide
 ## Purpose
 

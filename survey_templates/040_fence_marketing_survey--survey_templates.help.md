@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # fence_marketing_survey - Help Guide
 ## Purpose
 This survey is designed to gather information about a company's marketing strategy and tactics. It will help us understand your marketing goals, target audience, and competitive analysis, among other aspects of your marketing efforts.

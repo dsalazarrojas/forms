@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, let's review the form purpose and fields to ensure we're on the same page. This form appears to be a health challenges survey, aiming to gather information about an individual's health and wellness. Each page is designed to address a specific aspect of health, such as physical activity, mental health, sleep habits, and more. The form asks for ratings, categories, and other types of information to understand the user's health challenges. To confirm, this is a user-facing help guide for end-users to complete the form correctly.</thinking>
-
 # health_challenges_survey - Help Guide
 ## Purpose
 The health challenges survey is designed to gather information about your health and wellness. This form is meant to help you identify areas where you may need improvement or support in your overall well-being.

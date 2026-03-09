@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about users' preferences and habits related to wearing underwear. The purpose of this form is to gather insights on how often and at what time users wear their underwear, as well as their preferred type of undergarment. This information will be used to help us better understand our users' behavior and preferences.
-
-To ensure that we gather accurate and relevant information, we'll be checking this form for internal duplication and redundancy to prevent duplicate surveys from being created.
-</thinking>
-
 # Underwear Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your preferences and habits related to wearing underwear. Please fill out this survey to help us understand how you live your daily life and what you wear under your clothes.

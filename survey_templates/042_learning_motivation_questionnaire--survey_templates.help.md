@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an individual's motivation and preferences. This information will be used to provide insights for learning purposes, such as identifying areas of interest for educational programs or resources. It is essential to answer this form honestly and thoroughly to get the most accurate results. This form does not have a duplicate or redundant field, and each field is required to be filled out only if specified as "required".
-</thinking>
-
 # learning_motivation_questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about your motivation and preferences for learning. The collected data will be used to identify areas of interest for educational programs or resources.

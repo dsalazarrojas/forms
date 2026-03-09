@@ -1,7 +1,3 @@
-<thinking>
-  This form is a "Student Interest Survey" and it's intended to gather information about students' preferences and interests. It's not meant to be completed by everyone, only by students who have expressed their intention to participate in certain activities. The form is designed to be simple and easy to fill out, with only the essential fields required for the purpose of this specific survey. This form is used to understand what students are interested in, so only the most relevant data is collected.
-</thinking>
-
 # Student Interest Survey - Help Guide
 ## Purpose
 The "Student Interest Survey" is a short form that gathers information from students about their preferences and interests. It's a tool to help us get a better understanding of what you like to do or are interested in, so we can offer you suitable activities.

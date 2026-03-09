@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Sustainable Product Self Assessment Questionnaire form. This form is used to gather information about a product's sustainability features and characteristics, which will help users evaluate and compare products based on their environmental impact. The form should only be filled out once for each product, and any existing entries for the same product will be considered duplicates and ignored.
-</thinking>
-
 # Sustainable Product Self Assessment Questionnaire - Help Guide
 ## Purpose
 The Sustainable Product Self Assessment Questionnaire is a form used to gather information about a product's sustainability features and characteristics. This form helps users evaluate and compare products based on their environmental impact.

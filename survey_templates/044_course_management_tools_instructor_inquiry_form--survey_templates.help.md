@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect feedback and information from instructors regarding the management tools used in courses. The purpose of this form is to help us understand how instructors use and experience the course management tools, which will aid in identifying areas of improvement and development of new features. Please ensure that you fill out the form accurately and thoroughly. If you have previously submitted this form, please note that we will only process your new submission if there are significant changes in your responses. If you have already provided similar feedback, your new submission will be treated as an update and will not be processed as a duplicate.
-
-</thinking>
-
 # course_management_tools_instructor_inquiry_form - Help Guide
 ## Purpose
 This form is designed to gather information from instructors about their experiences and opinions on the course management tools they use. Your input will help us understand how these tools are being used and what areas need improvement.

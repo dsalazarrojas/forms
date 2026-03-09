@@ -1,5 +1,3 @@
-<thinking>A cognitive reframing worksheet is a tool designed to help individuals manage and overcome unhelpful thinking patterns. By providing a structured process for examining and challenging negative thoughts, it aims to promote more balanced and constructive thinking. This worksheet is intended for personal use, and its completion should help users develop a more realistic and hopeful outlook on their situations. Please note that this is a self-help tool and not a professional diagnostic or therapeutic instrument. If you're struggling with mental health issues, consult a qualified professional for guidance and support.</thinking>
-
 # Cognitive Reframing Worksheet - Help Guide
 ## Purpose
 The Cognitive Reframing Worksheet is a personalized tool for identifying and challenging negative thoughts and emotions related to specific situations. It's designed to help you develop a more balanced and realistic perspective, leading to improved emotional regulation and decision-making.

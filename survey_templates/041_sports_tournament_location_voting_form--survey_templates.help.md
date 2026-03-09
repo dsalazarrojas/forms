@@ -1,9 +1,3 @@
-<thinking>
-
-This form's purpose is to collect data on a sports tournament. Specifically, it is intended for users to vote on a location for a sports event. This form is not intended to be filled out by people who have not participated in the sports event or have no interest in voting. It is crucial to note that this form is not mandatory, meaning users can fill it out or not as they see fit. If users have already expressed their location choice through other means, they should not fill out this form.
-
-</thinking>
-
 # Sports Tournament Location Voting Form - Help Guide
 ## Purpose
 The Sports Tournament Location Voting Form is designed to collect feedback on potential locations for a sports tournament from users.

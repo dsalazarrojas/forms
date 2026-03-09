@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting feedback and opinions from choir members and non-members about their experiences with the choir. The form is designed to gather information on various aspects of the choir's operations, including the overall experience, communication, performance, and administration. This feedback will help the choir leadership to identify areas of improvement and make informed decisions to better serve its members. Please ensure that you only answer questions that are relevant to your experience and avoid duplicating responses if you have already completed the form in the past.
-</thinking>
-
 # Choir Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback and opinions from choir members and non-members about their experiences with the choir. Your input will help the choir leadership to identify areas of improvement and make informed decisions to better serve its members.

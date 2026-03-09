@@ -1,9 +1,3 @@
-<thinking>
-
-This form, "information_and_enjoyment_survey", is intended to gather information and gather user feedback on the user's experience. It is likely used to understand how users perceive certain information or services provided by the company or organization. The form should be completed by users who have already interacted with the service and are providing their feedback. To avoid duplication, it is recommended to wait a certain amount of time after completing other similar feedback forms before submitting this one. Please ensure that this form is not completed multiple times for the same reason.
-
-</thinking>
-
 # information_and_enjoyment_survey - Help Guide
 ## Purpose
 The `information_and_enjoyment_survey` form is used to gather user feedback on their experience with the information and services provided. It is designed to collect information about the user's thoughts, feelings, and perceptions.

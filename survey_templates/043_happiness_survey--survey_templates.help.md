@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for collecting user feedback and sentiment about their overall happiness, specifically their current level of happiness and how they perceive the world as a fair place. This form will help us understand individual opinions and sentiments to improve the user experience.
-This form seems to be a one-time survey, and there is no indication that users can save their progress or return to this form later. It's best to fill out the form in one session.
-Before starting, please note that all fields are optional, and you can skip any question that doesn't apply to you.
-</thinking>
-
 # Happiness Survey - Help Guide
 ## Purpose
 This form is designed to collect your opinions about your current level of happiness and your perception of the world as a fair place.

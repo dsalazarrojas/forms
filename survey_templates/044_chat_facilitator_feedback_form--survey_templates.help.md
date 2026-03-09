@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chat Facilitator Feedback Form - Help Guide
 
 ## Purpose

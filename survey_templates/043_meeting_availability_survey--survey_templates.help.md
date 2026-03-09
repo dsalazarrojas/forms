@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about the availability of a meeting. The purpose of this form is to schedule meetings and events, and this template helps to create a standard format for meeting requests. To ensure this form is used correctly, please note that it is not intended to replace existing meetings, but rather to supplement them with additional information.
-</thinking>
-
 # Meeting_Availability_Survey - Help Guide
 ## Purpose
 This form is used to collect information about meeting availability, including start and end times, duration, and location. The goal is to create a clear and concise request for meetings and events.

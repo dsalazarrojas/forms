@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users on their experience with an online course. The purpose of this form is to assess the effectiveness of the course, the performance of the instructors, and gather suggestions for improvement. It is intended for students or learners who have completed the course. To avoid duplicate submissions, please fill out this form only once for each course completion.
-
-This form is divided into several sections, each with specific questions or fields. Below is a step-by-step guide on how to complete this form:
-
-</thinking>
-
 # Online Course Completion Evaluation Form - Help Guide
 ## Purpose
 The Online Course Completion Evaluation Form is designed to gather feedback from users on their experience with an online course.

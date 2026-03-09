@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their salon services, including client information, service type, service details, and other relevant details. The form is meant to help the salon staff make recommendations to clients based on their preferences and needs.
-
-The form will be used for internal purposes only, and the information collected will be used to improve the salon's services and customer experience. It is expected that users will complete the form only once and only if they have a specific appointment scheduled. 
-
-This guide will only cover the basic fields, and additional explanations will be provided for each field if they are unclear or need further clarification.
-</thinking>
-
 # salon_service_recommendation_form - Help Guide
 ## Purpose
 This form is designed to gather information about clients' salon services preferences to provide tailored recommendations.

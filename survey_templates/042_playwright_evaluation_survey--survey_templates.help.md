@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect feedback on a script, providing an opportunity for the evaluator to assess its performance and provide their evaluation. To ensure that this guide is relevant and accurate, please note that it's intended for use in a production or testing environment, and it's assumed that the evaluator has the necessary permissions to access the evaluation data.
-
-This form's primary goal is to collect detailed information about a specific script, which can include its performance, usability, and overall effectiveness. It's used to track progress and identify areas for improvement in the script development process.
-
-This form is likely to be used by script developers, quality assurance team members, or anyone involved in the development and improvement of the script, as well as other stakeholders interested in evaluating its performance.
-
-This form does not seem to be a duplicate of any other form within the system, based on the provided YAML. The fields appear to be relevant to script evaluation, and no similar form is identified within the system.
-
-</thinking>
-
 # Playwright Evaluation Survey - Help Guide
 ## Purpose
 The Playwright Evaluation Survey is designed to collect feedback on a script's performance, providing an opportunity for the evaluator to assess its usability, effectiveness, and overall quality. This form will help track progress and identify areas for improvement in the script development process.

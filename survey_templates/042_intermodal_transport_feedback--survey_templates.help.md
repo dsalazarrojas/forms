@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is designed to collect feedback from users who have experienced an intermodal transport experience. It will help us understand their satisfaction with the service, identify areas for improvement, and gather information about their journey. We aim to make the transport experience more efficient and enjoyable for everyone. This form should only be filled out by users who have actually experienced an intermodal transport service, not by staff members or other non-users. Please provide honest and constructive feedback to help us better serve you.
-
-</thinking>
-
 # Intermodal Transport Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from users who have experienced an intermodal transport experience. It will help us understand their satisfaction with the service, identify areas for improvement, and gather information about their journey.

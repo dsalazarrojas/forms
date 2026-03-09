@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a comprehensive survey form with a mix of text, select, and date/time fields, likely used for gathering information about entry filter surveys. The purpose of this form is not explicitly stated in the provided YAML, but it could be used for various purposes such as tracking survey status, progress, or metrics.
-
-Before filling out this form, please ensure that you have all the necessary information and permissions to do so. Also, be cautious not to duplicate entries, as this form appears to be designed to collect new or unique data.
-
-Please note that some fields may have identical labels but different purposes or functionalities. Ensure to carefully read each field's description to avoid confusion.
-
-</thinking>
-
 # Entry Filter Survey - Help Guide
 
 ## Purpose

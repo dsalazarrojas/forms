@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a village, including demographic details, economic and social factors, and access to basic services. This form is used to assess the overall well-being of a village and identify areas that require improvement. 
-
-Before proceeding, ensure that you are filling out the form for the correct village and that the information provided is accurate and relevant. It is also essential to check that the form is not being filled out for the same village twice, as this could lead to duplicate data and skew the results.
-</thinking>
-
 # Village Survey - Help Guide
 ## Purpose
 This form is designed to gather information about a village, its demographics, and its access to basic services. The data collected will be used to assess the village's overall well-being and identify areas that require improvement.

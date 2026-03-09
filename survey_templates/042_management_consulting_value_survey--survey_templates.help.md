@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture feedback from management consulting clients about the value they have gained from the consulting relationship. The form is meant to be completed by clients to provide their perspective on how the consulting services helped them achieve their goals and outcomes. The form is likely to be completed by clients who have undergone a management consulting engagement. The information gathered from this form will help management consultants understand where they excel and where they need improvement. This form should only be completed once per consulting engagement, and any duplicate entries will be considered invalid.
-
-</thinking>
 # Management Consulting Value Survey - Help Guide
 ## Purpose
 This form is designed to capture feedback from management consulting clients about the value they have gained from the consulting relationship. It's meant to be completed by clients to provide their perspective on how the consulting services helped them achieve their goals and outcomes.

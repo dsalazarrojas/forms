@@ -1,10 +1,3 @@
-<thinking>
-This form is used to evaluate a person's special interests, which are a set of specific areas of focus or areas of interest that they are particularly drawn to or have a strong connection with. 
-It seems that this form is designed to be somewhat repetitive in nature, with multiple fields asking about various primary interests, each with a yes/no answer option. This form may be used to help users identify their areas of interest or focus areas within a specific domain. It's likely used for research or assessment purposes within an organization or institution. 
-It appears that the form is not designed for users to select multiple interests, but rather to select one interest per field. This is consistent with the `select_one` type for most fields. 
-The form does not appear to have any duplicate or conflicting fields, based on the provided YAML. 
-</thinking>
-
 # Special Interest Evaluation - Help Guide
 ## Purpose
 The Special Interest Evaluation form is designed to help you identify your areas of focus or interest within a specific domain. It is used to assess your special interests and provide insight into your strengths or areas of interest.

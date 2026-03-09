@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect feedback and data from customers to help us improve our services. The form includes questions about customer information, feedback, and ratings. It is intended for internal use, so please only fill it out if you are a customer representative or have direct contact with our customers. This form should not be filled out if you are not authorized to do so.
-
-</thinking>
-
 # Customer Feedback Data Request Form - Help Guide
 ## Purpose
 This form is used to collect feedback and data from customers to help us improve our services.

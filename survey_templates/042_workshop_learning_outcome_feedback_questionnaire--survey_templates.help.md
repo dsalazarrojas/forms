@@ -1,7 +1,3 @@
-<thinking>
-To ensure that we're clear about why this form is being used and to prevent duplication, let's consider the context: This form is intended to gather feedback from participants about their experience in a workshop or training session. The purpose of the form is to collect information about the participant's name, session details, and their rating of the session, as well as their comments and suggestions for improvement. This form should only be used for sessions where the participant has attended, not for other purposes. 
-</thinking>
-
 # workshop_learning_outcome_feedback_questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants about their experience in a workshop or training session. It helps facilitators and trainers to understand what worked well and what could be improved in the session.

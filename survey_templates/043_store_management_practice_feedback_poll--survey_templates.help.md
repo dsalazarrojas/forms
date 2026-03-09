@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The following is a user-facing help guide for the "Store Management Practice Feedback Poll" form.
 
 # Store Management Practice Feedback Poll - Help Guide

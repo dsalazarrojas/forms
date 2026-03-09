@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Group Therapy Interest Survey - Help Guide
 
 ## Purpose

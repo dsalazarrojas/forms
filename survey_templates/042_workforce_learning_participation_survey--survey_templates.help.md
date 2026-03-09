@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and ratings from users regarding their participation in workforce learning programs. It's essential to understand the relevance and non-duplication of this form to ensure it's not a redundant effort. This form will help the learning and development team to evaluate the effectiveness of the programs and make data-driven decisions to improve future training sessions.
-
-The form is designed to collect information on various aspects of the training, including the program's relevance, the participant's rating, and their suggestions for improvement. It also inquires about the participant's experience with the training, such as the training type, status, date, and time. Additionally, it collects data on the session's length and location.
-
-To ensure the form is used effectively, it's crucial to understand the purpose and the relevance of each field. This guide will help users navigate the form and provide valuable insights for the learning and development team.
-</thinking>
-
 # Workforce Learning Participation Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and ratings from users regarding their participation in workforce learning programs.

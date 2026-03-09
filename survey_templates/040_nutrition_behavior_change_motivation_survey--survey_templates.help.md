@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the motivation level and responses of users regarding their nutrition behavior change. It is crucial to understand the user's motivation and responses to gauge the effectiveness of the nutrition behavior change program. Please ensure this form is filled out only once per user, and any repeated submissions will be discarded. This form is only for users who have been enrolled in the nutrition behavior change program.
-</thinking>
-
 # Nutrition Behavior Change Motivation Survey - Help Guide
 
 ## Purpose

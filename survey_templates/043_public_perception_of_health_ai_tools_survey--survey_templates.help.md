@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's quickly review the form purpose and relevance. The form, "Public Perception Of Health AI Tools Survey", appears to be designed to gather insights and opinions from healthcare professionals about their experiences, perceptions, and expectations regarding AI tools in their workflow. The questions cover various aspects of AI adoption, including role in the organization, experience with AI tools, confidence level in AI integration, challenges, and benefits. This form is likely used for research or feedback purposes to inform the development and improvement of AI tools in healthcare.</thinking>
-
 # Public Perception Of Health AI Tools Survey - Help Guide
 ## Purpose
 This form is designed to gather your opinions and experiences about AI tools in your healthcare organization. Your input will help us better understand the current state of AI adoption and identify areas for improvement.

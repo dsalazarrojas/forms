@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a structured survey designed to assess an individual's willingness to buy a product or service. The survey is composed of multiple pages, each with its own set of questions. The fields are a mix of select-one, select-multiple, text, date, time, and email input types. The form seems to be collecting information on awareness, interest, purchase intent, demographics, contact information, and follow-up details.
-
-To the best of my knowledge, there is no clear indication of how this form should be filled out, and there is no duplication of questions. However, it's possible that this form is intended to be filled out in a specific way or order, but that information is not explicitly stated. Further investigation into the form's purpose and requirements would be necessary to confirm.
-
-</thinking>
-
 # Willingness To Buy Survey - Help Guide
 ## Purpose
 This survey is designed to collect information on your willingness to buy a product or service. The questions are meant to gauge your awareness, interest, and purchase intent, as well as gather demographic details and contact information.

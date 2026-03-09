@@ -1,18 +1,3 @@
-<thinking>
-To create this form for a Thanksgiving Potluck Survey, we're aiming to gather information that helps in organizing a successful and enjoyable community event.
-
-The main purpose of this form is to collect necessary details about an upcoming Thanksgiving Potluck event. By filling out this form, users will be able to:
-- Determine the type of event (e.g., Friendsgiving Party, Family Gathering)
-- Set a specific date and time for the event
-- Provide essential details about the event location, number of guests expected, and type of food being prepared
-- List potential food options and any dietary restrictions users may have
-- Note any additional remarks or requests
-- Share their contact information for potential follow-ups
-
-Before proceeding, please ensure you have not filled out this form previously and that you're not already a part of another potluck group.
-
-</thinking>
-
 # Thanksgiving Potluck Survey - Help Guide
 ## Purpose
 This form is designed to gather information about the upcoming Thanksgiving Potluck event, allowing us to better understand your preferences and needs.

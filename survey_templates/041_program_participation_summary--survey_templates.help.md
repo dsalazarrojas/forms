@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, the form "Program Participation Summary" is a survey used to gather information about a participant's engagement and experience with a program. It aims to assess the participant's perception of the program's outcomes and their own feedback. This form should only be filled out once for each program, to avoid duplication of effort. The form's data should be used internally to monitor and improve the program.
-
-</thinking>
-
 # Program Participation Summary - Help Guide
 ## Purpose
 The "Program Participation Summary" form is a survey that gathers information about a participant's engagement and experience with a program. It helps us understand how the participant perceives the program and their own feedback. This information is essential for internal use to monitor and improve the program.

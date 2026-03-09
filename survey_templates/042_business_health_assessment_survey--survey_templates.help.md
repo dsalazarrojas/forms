@@ -1,13 +1,3 @@
-<thinking>
-To create a user-friendly help guide for this form, we need to consider the following:
-
-* The form is designed to assess the health of a business, covering various aspects such as financial, operational, and market performance.
-* Each field is intended to gather specific information about the business's strengths and weaknesses.
-* The form is likely used by business owners or managers to identify areas that require improvement.
-
-Given the fields and their labels, we can provide concrete explanations and examples to help users understand the form's purpose and how to complete it.
-</thinking>
-
 # Business Health Assessment Survey - Help Guide
 ## Purpose
 The Business Health Assessment Survey is a tool to help business owners or managers evaluate their company's performance in various areas, including financial, operational, and market aspects. This survey aims to identify strengths and weaknesses, allowing for targeted improvements and growth.

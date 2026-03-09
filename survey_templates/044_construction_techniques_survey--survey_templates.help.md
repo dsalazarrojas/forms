@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from construction professionals about their experiences, techniques, and priorities in the industry. It is intended to provide insights into construction techniques, technology adoption, and priorities, aiming to understand the current state of the industry. Before filling out this form, please ensure you have the authority to participate and that your responses are not duplicate entries. This form should only be completed once per individual.
-</thinking>
-
 # Construction Techniques Survey - Help Guide
 ## Purpose
 This survey is designed to gather information from construction professionals about their experiences, techniques, and priorities in the industry. Your input will help us understand the current state of the construction industry and identify areas for improvement.

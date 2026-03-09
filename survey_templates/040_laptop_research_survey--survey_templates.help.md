@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for gathering information about users' laptop preferences and usage habits. To verify that the form's purpose is still relevant, you should check with the project stakeholders or the form creator to ensure that the form's requirements have not been altered. To avoid duplication of work, ensure that the form's data will not overlap with or replicate any existing surveys or data collection efforts.
-</thinking>
-
 # Laptop Research Survey - Help Guide
 
 ## Purpose

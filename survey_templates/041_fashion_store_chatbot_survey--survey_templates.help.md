@@ -1,20 +1,3 @@
-<thinking>
-To create a help guide that is both useful and user-friendly, we should first understand the context and purpose of this form. Based on the YAML input, this form appears to be a survey for customers who interact with a fashion store chatbot. The form likely aims to gather information about customer preferences, budget, feedback, and other relevant details to improve the chatbot's performance and customer experience. The form seems to have a mix of free-text fields for customers to provide their thoughts and opinions. 
-
-However, to confirm this, let's analyze the form fields:
-
-* `customer_preferences` and `product_preferences` suggest that the form is interested in understanding the customer's preferences and interests.
-* `budget_preferences` might be a field to collect information on the customer's budget or spending habits.
-* `feedback` and `chatbot_feedback` indicate that the form is looking for comments or suggestions on the customer's experience with the chatbot.
-* `customer_info` and `store_info` might be fields to collect demographic information or other details about the customer and the store.
-* `purchase_preferences` seems to be a field to gather information on the customer's purchase behavior or preferences.
-
-Considering these points, the form's purpose appears to be to collect both qualitative and quantitative data on customer preferences, spending, and feedback to help improve the chatbot's performance and customer experience.
-
-Now, let's create a help guide that covers the form's purpose, completion steps, and field explanations.
-
-</thinking>
-
 # Fashion Store Chatbot Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to create a survey that gathers data for a Morality Survey. As a survey form, it is likely used to collect opinions, attitudes, and beliefs on moral issues. This form is designed to be simple and easy to use, with each page consisting of a single input field for respondents to fill out. The form was created using AI and is not affiliated with any specific form platform.
-</thinking>
-
 # Morality Survey - Help Guide
 ## Purpose
 This form is designed to collect survey responses on moral issues. Respondents will be asked to fill out three text input fields, one on each page.

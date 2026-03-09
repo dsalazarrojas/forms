@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide will help you complete the development opportunity survey form to assess project viability and potential opportunities for growth. Please ensure you have all the necessary information before starting the survey. If you have already completed this form for this project, your responses will be overwritten.
 
 # Development Opportunity Survey - Help Guide

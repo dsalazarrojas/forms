@@ -1,5 +1,3 @@
-<thinking>Before we dive into the form help guide, let's clarify the form's purpose and ensure it's a good fit for you. This form is designed to gather feedback from college students about their satisfaction with various campus services. It aims to help the institution understand which services need improvement and what students value most. If you're a college student, please take a few minutes to complete this form to provide valuable insights. If you've already completed a similar form, you might want to double-check that this one doesn't duplicate your previous responses. Let's get started!</thinking>
-
 # College Student Service Voting Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from college students about their satisfaction with various campus services. Your input will help the institution understand what's working well and what areas need improvement.

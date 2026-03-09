@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to help organizations collect information on criminal justice topics. It may not be affiliated with or endorsed by any form platform. The form is a public adaptation created using AI-generated code, and any content or information it collects or shares is for educational and research purposes only. 
-
-Please ensure you are using this form for its intended purpose, and review the form's terms of service before sharing or submitting it. 
-
-To avoid duplication, ensure you are not sharing or submitting the same form multiple times. 
-
-This form is a public adaptation created for educational and research purposes. 
-
-You are free to modify or derive new forms from it as per the form's public license.
-</thinking>
-
 # Criminal Justice Survey - Help Guide
 ## Purpose
 This form is designed to collect information related to criminal justice topics. It is intended for research and educational purposes only.

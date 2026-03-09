@@ -1,10 +1,3 @@
-<thinking>
-To ensure that users understand the purpose and intent behind this form, I will first need to explain the reasoning behind the form's design. This "kids_career_survey" form is intended to collect information from kids about their interests, preferences, and habits in a variety of areas related to careers and hobbies. The form is designed to be simple and easy to use, with a mix of text fields and select options for the user to choose from. The form's questions cover topics such as favorite subjects, hobbies, and interests, as well as more specific areas like video games and reading habits. This form is likely intended for use in a school or educational setting, perhaps as a tool for teachers or counselors to gain insight into students' career aspirations and interests.
-
-Before proceeding, it's essential to ensure that users understand that this form is not a test or a requirement, but rather a survey to gather information and help shape educational programs to better serve the students' needs.
-
-</thinking>
-
 # kids_career_survey - Help Guide
 ## Purpose
 The "kids_career_survey" form is designed to collect information from kids about their interests, preferences, and habits related to their future careers and hobbies. This form is intended for use in a school or educational setting to help teachers or counselors understand students' career aspirations and interests.

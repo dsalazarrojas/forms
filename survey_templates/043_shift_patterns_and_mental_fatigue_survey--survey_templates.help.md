@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a help guide for the Shift Patterns And Mental Fatigue Survey form. I'll make sure to clearly explain the form's purpose, how to complete it, and what each field means, based on the provided YAML fields.</thinking>
-
 # Shift Patterns And Mental Fatigue Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your shift patterns and mental fatigue. It's meant to be completed by individuals who work irregular or non-traditional hours or shifts. The data collected will help us understand how shift patterns affect mental fatigue and overall wellbeing.

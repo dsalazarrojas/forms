@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate and document research projects. It helps researchers to provide information about their research projects, including their methods, tools, and outcomes. This form is used internally to track and analyze research projects across various categories.
-</thinking>
-
 # field-research-documentation-evaluation-form - Help Guide
 ## Purpose
 This form is designed to help researchers document and evaluate their research projects, providing a standardized template for consistency and ease of reference.

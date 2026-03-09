@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Epic Feedback Survey - Help Guide
 ## Purpose
 The Epic Feedback Survey is a tool used to collect feedback from participants about their experience with our organization's services. The survey aims to gather information that will help us identify areas of improvement and make informed decisions to enhance our services. By completing this survey, you will be helping us to better understand your needs and preferences, which will allow us to create more effective and satisfying experiences for our participants.

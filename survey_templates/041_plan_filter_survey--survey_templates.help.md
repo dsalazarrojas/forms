@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Plan Filter Survey - Help Guide
 ## Purpose
 The Plan Filter Survey is a form designed to gather information from users about their plans, including plan types, benefits, budget, and schedule. This information will be used to filter and prioritize plans based on the user's preferences.

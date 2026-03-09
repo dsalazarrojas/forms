@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from customers about their experience on a Nile River cruise. It is meant to be a quick and user-friendly way to gather information about their satisfaction with the cruise and identify areas for improvement. 
-
-To ensure that you provide the most accurate and helpful feedback, please review this guide carefully before starting.
-
-</thinking>
-
 # Nile River Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience on a Nile River cruise. Please take a few minutes to answer the following questions and provide your honest feedback.

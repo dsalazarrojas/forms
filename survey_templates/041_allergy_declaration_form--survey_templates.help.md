@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about guests attending an event or visiting your establishment. The purpose of this form is to inform staff and management about potential allergies and medical conditions that may require special attention. This form is not intended to be a comprehensive medical history, but rather a brief and concise overview of the guest's situation.
-
-To ensure that the form is filled out accurately, please carefully read through each section and answer the questions accordingly. If you are unsure about any of the questions, please don't hesitate to ask for clarification. 
-
-Please note that this form is not a substitute for a medical consultation or a medical professional's advice.
-
-</thinking>
-
 # Allergy Declaration Form - Help Guide
 
 ## Purpose

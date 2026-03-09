@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # labour_market_survey - Help Guide
 
 ## Purpose

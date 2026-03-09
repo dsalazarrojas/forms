@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's habits regarding changing their wallpaper. The purpose of this form is to collect data on how often people change their wallpaper, why they change it, and what influences their choice of wallpaper. This information can help us understand user behavior and preferences when it comes to decorating their living spaces. Please fill out this form only if you have personal experience with changing your wallpaper. If you're filling out this form as a representative of a company or organization, please make sure to have permission from the individual whose data you're collecting.
-</thinking>
-
 # Wallpaper Change Interval Survey - Help Guide
 ## Purpose
 This form is designed to collect data on your habits and preferences when it comes to changing your wallpaper.

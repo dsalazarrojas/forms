@@ -1,5 +1,3 @@
-<thinking>...this form serves as an assessment tool for Pro Bono agents to provide feedback about their experience with the services they have received. To ensure that the form is completed accurately, it should only be filled out by Pro Bono agents that have actually received such services. To prevent duplicate entries, please ensure that you only submit this form once per service received... </thinking>
-
 # Pro Bono Agent Feedback Form - Help Guide
 ## Purpose
 The Pro Bono Agent Feedback Form is used to gather information about your experience with the services you have received from our organization. This feedback is crucial in helping us understand what we do well and where we can improve.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a program, specifically the outcome report. This form will help the user to report on the outcome of an eco-program, which is likely a program related to environmental protection, conservation, or sustainability. The form is intended to collect various types of data, including program details, outcomes, challenges, and supporting evidence. The form is likely used for reporting and monitoring the progress of eco-programs, and may be used by program administrators, managers, or reviewers.
-To ensure that the form is filled out correctly, the user should carefully review the required fields and ensure that they are filled out accurately.
-The form appears to be designed for reporting on outcomes of programs related to the environment, but it does not explicitly state whether the form is used for reporting on a specific program or a collection of programs. If the form is used for a specific program, the user should ensure that they are reporting on the correct program.
-Before filling out the form, the user should review the options for each field to ensure they are selecting the correct options for their report.
-The form appears to be designed to collect information about multiple programs, as there are fields with the same label but different "2" suffix, indicating a duplicate field for a different program.
-</thinking>
-
 # Eco Program Outcome Report Form - Help Guide
 ## Purpose
 The Eco Program Outcome Report Form is designed to collect information about the outcomes of environmental programs and reports. This form helps to track and monitor the progress of eco-programs.

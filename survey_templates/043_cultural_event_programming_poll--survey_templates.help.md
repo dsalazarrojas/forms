@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication and ensure accurate responses, this form is designed to gather information about a single cultural event in a structured and organized manner. It is intended for staff members or administrators to use when planning or promoting an event. This form helps to gather essential details such as the event's name, date, time, location, and target audience. Please ensure that all fields are filled out accurately and completely, and that you have permission to share the information gathered through this form.
-</thinking>
-
 # Cultural Event Programming Poll - Help Guide
 ## Purpose
 This form is used to gather information about a cultural event, including its name, date, time, location, and target audience.

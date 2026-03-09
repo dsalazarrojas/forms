@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the user's counting ability and strategy. It's called the "Progressive Counting Survey" and aims to gather data on the user's counting skills. This form is likely used in educational settings or research studies to assess the user's counting proficiency. It's essential to fill out this form accurately to ensure the gathered data is reliable and valid. Please ensure you are completing this form for the intended purpose and not duplicating your responses.
-
-To complete this form, follow the steps below:
-
-1.  Fill out the form in the order of the pages (from left to right).
-2.  Each page has a unique ID and name. Please ensure you are completing the correct page.
-3.  Some fields are optional; you can skip them if you're not sure or don't have the information.
-4.  If you're unsure about a field, ask your supervisor or instructor for guidance.
-
-</thinking>
-
 # Progressive Counting Survey - Help Guide
 ## Purpose
 The Progressive Counting Survey is designed to collect information about your counting ability and strategy. It's used in educational settings or research studies to assess your counting proficiency.

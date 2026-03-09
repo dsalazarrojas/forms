@@ -1,21 +1,3 @@
-<thinking>...thinking>
-
-The Expectations_Assessment_Survey form is designed to assess individual expectations and priorities within a team or organization. This form helps team members understand their own expectations and those of their colleagues, fostering better communication, collaboration, and productivity.
-
-To ensure that the survey questions align with the goals and objectives of your organization, it is essential that you review the questions carefully and consider the context in which they will be answered. Duplicate or irrelevant questions may lead to confusion and unnecessary burden on the respondents.
-
-Before starting the survey, familiarize yourself with the following pages and fields:
-
-* Section A: This section is about selecting multiple options that best describe your expectations.
-* Section B: This is a free-text field where you can write your answer in detail.
-* Section C: This is a time-entry field where you can enter a specific time or date.
-* Section D: This section is about selecting one option that best describes your answer.
-* Section E: This is a numerical field where you can enter a whole number.
-* Section F: Similar to Section E, this is also a numerical field, but it is designed for decimal numbers.
-* Section G: This section is about selecting a specific date.
-
-Please answer the questions honestly, and take as much time as you need to complete the survey.</thinking>
-
 # Expectations_Assessment_Survey - Help Guide
 ## Purpose
 

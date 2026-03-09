@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from Cloud Systems Analysts about their experiences, challenges, and opinions on their role and job satisfaction. This information will help us better understand the needs and pain points of Cloud Systems Analysts, which will inform our product development and support decisions. To avoid duplication and ensure accurate data collection, please do not fill out this form if you have already done so in the past or if you are not a Cloud Systems Analyst.
-</thinking>
-
 # Cloud Systems Analyst Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect information from Cloud Systems Analysts about their experiences, challenges, and opinions on their role. This information will help us better understand the needs and pain points of Cloud Systems Analysts, which will inform our product development and support decisions.

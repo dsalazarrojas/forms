@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is clear and concise for end-users to provide accurate and helpful feedback. The form's purpose is to collect information about their experience with the gym facility, specifically their thoughts on the renovation. We also need to double-check that the form isn't being filled out by the same user multiple times. This form seems to be a survey, and we should confirm this before proceeding.
-</thinking>
-
 # Gym Facility Renovation Feedback Survey - Help Guide
 
 ## Purpose

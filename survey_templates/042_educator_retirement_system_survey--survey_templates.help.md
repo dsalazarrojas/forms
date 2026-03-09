@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-This form is an educator retirement system survey designed to gather information about the experiences and concerns of educators regarding their retirement benefits, communication, and perceived fairness. The purpose of this survey is to help administrators or policymakers understand the needs and challenges faced by educators in their retirement planning and decision-making processes. This survey is part of a larger effort to improve the retirement system for educators. Please fill out this form carefully, and ensure that your answers accurately reflect your experiences and opinions.
-</thinking>
-
 # Educator Retirement System Survey - Help Guide
 ## Purpose
 The Educator Retirement System Survey is designed to gather information from educators about their experiences and concerns related to retirement benefits, communication, and perceived fairness in the retirement process. Your input will help administrators or policymakers make informed decisions to improve the retirement system for educators.

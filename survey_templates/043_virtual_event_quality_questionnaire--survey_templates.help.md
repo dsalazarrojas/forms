@@ -1,8 +1,3 @@
-<thinking>
-This form is part of a larger system used to collect feedback on virtual events. It's designed to gather information on event details, such as date, title, format, and ratings, to help organizers assess the quality and effectiveness of their virtual events. This guide aims to ensure that users understand the purpose and requirements of the form to provide accurate and relevant information.
-
-</thinking>
-
 # Virtual Event Quality Questionnaire - Help Guide
 ## Purpose
 The Virtual Event Quality Questionnaire is a tool used to collect feedback on virtual events. It helps event organizers to assess the quality and effectiveness of their events by gathering information on various aspects of the event.

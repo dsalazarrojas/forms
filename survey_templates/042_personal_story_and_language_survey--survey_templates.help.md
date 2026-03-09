@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to provide users with a clear understanding of the Personal Story And Language Survey form, its purpose, and how to complete it. The form is designed to collect information about a user's personal background, language skills, and experience with multilingual backgrounds. The purpose of this form is to gather data that can be used to improve language learning and teaching practices.
-
-Before proceeding, please note that this form is not intended to be a formal assessment tool, but rather a self-reported survey aimed at gathering personal experiences and language abilities. The data collected will be used to inform educational and research initiatives.
-
-To complete this form, please follow the instructions below:</thinking>
-
 # Personal Story And Language Survey - Help Guide
 ## Purpose
 The Personal Story And Language Survey is designed to collect information about your personal background, language skills, and experiences with multilingualism. This form will help us better understand your language abilities and backgrounds, which will inform educational and research initiatives.

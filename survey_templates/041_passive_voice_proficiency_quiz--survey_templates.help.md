@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the proficiency of users in using passive voice in their writing. The purpose of this form is to gauge a user's ability to identify and use passive voice correctly in a given sentence. The form will ask users to review sentences and select the correct option that uses passive voice. This form is intended for internal use within the organization and is not meant to be publicly accessible. Please note that this form is not meant to assess the user's ability to use active voice.
-
-</thinking>
-
 # Passive Voice Proficiency Quiz - Help Guide
 ## Purpose
 This form is designed to assess the proficiency of users in using passive voice in their writing.

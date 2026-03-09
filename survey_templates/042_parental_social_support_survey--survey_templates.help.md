@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parental Social Support Survey - Help Guide
 ## Purpose
 This survey is designed to gauge the frequency of parental involvement and support in a child's educational experience. It aims to gather information on how often parents engage with teachers, attend school events, and provide support to students. The results will help schools and educators understand the level of parental involvement and identify areas for improvement.

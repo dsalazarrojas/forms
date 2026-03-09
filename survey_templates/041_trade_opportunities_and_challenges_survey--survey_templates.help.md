@@ -1,5 +1,3 @@
-<thinking>...This is a form to gather information about trade opportunities and challenges that businesses face when trading. It is essential to complete this form accurately to help us better understand your needs and provide you with the most suitable support and guidance. Please take a few minutes to carefully review the following instructions before starting the form. This is not a mandatory form, and you can skip it if you have already completed a similar form in the past. If you have any doubts or need clarification, feel free to contact us. Please make sure to provide the most accurate information about your business and its needs...</thinking>
-
 # Trade Opportunities And Challenges Survey - Help Guide
 ## Purpose
 This form is designed to help us understand your business's trade opportunities and challenges. The information gathered from this form will enable us to provide you with the most suitable support and guidance to help you succeed in trading.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect feedback from individuals who have attended a jazz brunch event. It aims to gather information about the event, including the date and time, music style, food quality, service attitude, and overall experience. The form is likely used to evaluate the success and attendee satisfaction of the event, which can help event planners make informed decisions for future events.
-
-To complete this form, users will be asked to provide their contact information, including their email, phone number, and name. They will also be asked to rate their experience with a series of numbers, from 1 to 5, for various aspects of the event. Additionally, they will have the option to select multiple food items they ordered and provide comments if they wish.
-
-The form is intended to gather both quantitative and qualitative feedback, allowing event organizers to assess the effectiveness of the event in meeting its goals, whether they were entertainment, business, cultural, or social.
-
-This form should only be completed by individuals who have attended the jazz brunch event, and users are encouraged to provide honest and constructive feedback.
-</thinking>
-
 # Jazz Brunch Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from attendees of a jazz brunch event.

@@ -1,7 +1,3 @@
-<thinking>
-The Athlete Wellness Program Evaluation Survey aims to gather feedback from athletes on their experience with a wellness program, assessing its impact on various aspects of their lives, such as sleep quality, nutrition, mental health, injury prevention, educational content, and overall improvement. This survey helps in understanding the program's effectiveness and areas where improvements can be made.
-</thinking>
-
 # Athlete Wellness Program Evaluation Survey - Help Guide
 ## Purpose
 The Athlete Wellness Program Evaluation Survey is designed to assess the effectiveness of the wellness program in improving various aspects of an athlete's life. By completing this survey, you will help us understand how well the program has met your needs and identify areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning check: This form is designed to collect data for utility survey and excavation training registrations. The form is intended to gather information from the provider and contact person of the training, including details about the contract start date, training type, provider type, training start date and time, and contract end date. The form is likely used for administrative purposes, such as scheduling and planning, and ensuring that relevant parties are aware of the training details. The fields are mostly optional, suggesting that the form is not a mandatory or high-stakes registration process. However, it is still essential to ensure that all relevant information is provided accurately and consistently to maintain a reliable record.
-</thinking>
-
 # Utility Survey And Excavation Training Registration - Help Guide
 ## Purpose
 This form is designed to collect information from providers and contacts for utility survey and excavation training registrations. It's a straightforward form meant to gather the necessary details for administrative purposes.

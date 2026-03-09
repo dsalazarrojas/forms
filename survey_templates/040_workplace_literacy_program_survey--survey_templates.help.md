@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to gather information from employees regarding their participation in a Workplace Literacy Program. It is designed to gather data on their literacy levels, educational background, job titles, and other relevant details. This form will help in understanding the effectiveness of the program and make adjustments as necessary to improve employee engagement and outcomes.
-
-</thinking>
-
 # Workplace Literacy Program Survey - Help Guide
 ## Purpose
 This form is designed to collect information from employees participating in the Workplace Literacy Program. Please answer the questions honestly to help us improve the program and better serve your needs.

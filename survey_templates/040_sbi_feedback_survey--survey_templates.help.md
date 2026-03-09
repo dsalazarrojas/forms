@@ -1,7 +1,3 @@
-<thinking>
-We have designed this form to collect feedback from customers about their experience at our branches. This survey will help us understand what we do well and what we can improve. Please complete this survey to provide your honest feedback.
-</thinking>
-
 # SBI Feedback Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers about their experience at our branches. The survey will help us understand what we do well and what we can improve.

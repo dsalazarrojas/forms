@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a property management agreement, which is used to understand the terms and conditions of a rental or lease arrangement. This form should only be used for properties managed by this company, and it's essential to ensure that all relevant fields are filled out accurately and completely. Please review the form carefully before filling it out to avoid duplication and ensure that all required fields are included.
-</thinking>
-
 # Property Management Agreement Survey - Help Guide
 ## Purpose
 This form is used to collect and record the terms and conditions of a property management agreement, including property details, questions, instructions, tenant feedback, and other relevant information. The purpose of this form is to ensure that all parties involved are aware of their responsibilities and expectations.

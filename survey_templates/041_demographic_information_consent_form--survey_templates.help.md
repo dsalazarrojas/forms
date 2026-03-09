@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect demographic information and consent from participants in a study or research project. It includes fields for collecting data about the participant's background, gender, date of birth, email, phone number, country of birth, and consent status. The purpose of this form is to gather essential information to identify and classify participants in the study. It's crucial to note that this form is not intended to be used as a standalone tool for participant recruitment or data collection. Instead, it's meant to be used as a supplement to other data collection methods, ensuring that each participant has provided consent and demographic information before proceeding. Ensure that you have reviewed and understood the form requirements before proceeding, and that the participant has given their explicit consent before submitting the form.
-</thinking>
-
 # Demographic Information & Consent Form - Help Guide
 ## Purpose
 This form is designed to collect demographic information and consent from participants in a study or research project.

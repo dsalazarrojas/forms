@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions from public officials on their job satisfaction, benefits, salary, and overall experience. The form aims to gather information on their role, job type, years of service, salary range, benefits offered, and satisfaction levels with their job, benefits, and overall work experience. This form is intended for public officials who want to provide their candid feedback on their work experiences. Please ensure that this form is completed honestly and accurately, as the feedback will help inform future policy and resource allocation decisions. Before proceeding, please note that this is a survey, and your responses will be kept confidential. You can skip any questions that do not apply to you. Please respond to each question as honestly as possible, and if you have any additional comments, please feel free to share them in the "Additional Comments" field.
-
-</thinking>
-
 # Salary Survey For Public Officials - Help Guide
 
 ## Purpose

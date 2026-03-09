@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assess the competitive landscape of stores in a market. The purpose of this form is to gather information about a store's competitors, such as their awareness, distance, and market analysis. This information will help inform business strategies and decision-making.
-
-Before filling out this form, please note that the following fields are not required. If you have already completed a similar survey, you may not need to fill out this one.
-
-This form will guide you through the process of completing a store level competition survey. Please follow each step carefully to ensure you provide accurate and complete responses.
-</thinking>
-
 # Store Level Competition Survey - Help Guide
 
 ## Purpose

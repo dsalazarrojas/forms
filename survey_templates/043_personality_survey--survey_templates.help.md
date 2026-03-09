@@ -1,6 +1,3 @@
-<thinking>
-The form is used to collect data for a personality survey, likely for research or analysis purposes. The survey asks a series of questions to gather information about the user's personal preferences, habits, and characteristics. This form does not require authentication or any sensitive information, making it accessible to anyone who completes it. To ensure the data collected is reliable and consistent, please note that you are only allowed to complete the survey once.</thinking>
-
 # Personality Survey - Help Guide
 ## Purpose
 This form is used to collect data for a personality survey. The survey asks a series of questions to gather information about your personal preferences, habits, and characteristics.

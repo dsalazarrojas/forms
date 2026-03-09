@@ -1,5 +1,3 @@
-<thinking>This form was created to gather informed consent from participants in research studies. This guide will help you understand its purpose, how to complete it, and what each field means, making sure you can fill it out accurately. Before proceeding, please check if you have any existing informed consent forms that cover similar topics, especially if they're already being used in your research project. If that's the case, you might not need this form. Otherwise, continue with the guide below.</thinking>
-
 # Informed Consent For Research Declaration Form - Help Guide
 ## Purpose
 The Informed Consent For Research Declaration Form is designed to collect informed consent from research participants. It's essential to fill it out carefully to ensure accurate and valid consent.

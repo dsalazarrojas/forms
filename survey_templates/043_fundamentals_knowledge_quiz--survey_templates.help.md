@@ -1,17 +1,3 @@
-<thinking>
-This form appears to be a quiz focused on assessing knowledge and comprehension in a educational setting, likely for educators or trainers. The purpose of this form is to gather information on various aspects of knowledge, including knowledge retention, comprehension, and effective assessment. The form may be used to evaluate the effectiveness of educational materials or programs.
-The form has 9 fields, all of which are text inputs, and none of which are required. This suggests that the form is not meant to be a mandatory assessment, but rather a tool for gathering feedback or opinions. The fields are:
-- **survey-template** (text): likely a placeholder or template title
-- **knowledge-quiz** (text): likely a description of the quiz content
-- **participants-knowledge** (text): likely a section on participants' knowledge
-- **knowledge-retention** (text): likely a section on knowledge retention
-- **educators-trainers** (text): likely a section on educators or trainers' roles
-- **assess-effectively** (text): likely a section on effective assessment
-- **knowledge-comprehension** (text): likely a section on knowledge comprehension
-- **participants-knowledge-retention** (text): likely a section on participants' knowledge retention
-- **retention-and-comprehension** (text): likely a section on both retention and comprehension
-
-</thinking>
 # Fundamentals Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to assess knowledge and comprehension in a educational setting, gathering information on various aspects of knowledge, including knowledge retention, comprehension, and effective assessment.

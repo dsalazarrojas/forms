@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from guests after their visit. This form is designed to gauge their satisfaction with various aspects of their experience, such as food, staff, and ambiance. This will help our business understand what areas to improve, providing a better experience for future guests.
-
-Before proceeding, please ensure that you are answering the questions from the perspective of your recent visit.
-
-</thinking>
-
 # Guest Satisfaction Quiz - Help Guide
 ## Purpose
 The Guest Satisfaction Quiz is a form designed to collect feedback from guests after their visit. This form aims to understand their satisfaction with various aspects of their experience.

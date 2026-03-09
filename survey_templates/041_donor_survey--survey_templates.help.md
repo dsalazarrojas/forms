@@ -1,7 +1,3 @@
-<thinking>
-Donor Survey is a form used to collect demographic information from donors, including contact details and donation history. This form is meant to gather data on the frequency and amount of donations made by donors, as well as their contact preferences. Ensuring that each donor's data is accurate and up-to-date is crucial for effective communication and resource allocation. Please review the form carefully to ensure that all required fields are filled out accurately and correctly.
-</thinking>
-
 # Donor Survey - Help Guide
 ## Purpose
 The Donor Survey form is designed to collect essential information from donors, including their contact details, donation history, and frequency of donations. This data helps us understand the donor's behavior and preferences, enabling us to provide personalized services and optimize our resource allocation.

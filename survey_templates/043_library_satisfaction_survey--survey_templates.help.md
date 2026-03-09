@@ -1,5 +1,3 @@
-<thinking>What a lovely survey template! This form is designed to gather feedback from library users about their overall satisfaction with the library's services, staff, and facilities. The form should help us understand what we do well and what areas need improvement. We want to make sure we are meeting the needs of our users, so please be as honest as possible. Please review each field to make sure you answer all the questions, but only answer what you are sure and comfortable with. Don't worry, your answers will be completely anonymous and won't affect your access to library services.</thinking>
-
 # Library Satisfaction Survey - Help Guide
 ## Purpose
 The library survey is designed to help us understand your experiences and perceptions about our services, staff, and facilities. Your feedback will help us make informed decisions to improve your library experience.

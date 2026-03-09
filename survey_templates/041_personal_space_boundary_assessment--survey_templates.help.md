@@ -1,7 +1,3 @@
-<thinking>
-This form is used for assessing personal space boundaries. It will help users determine their comfort levels in certain situations, their preferences when it comes to boundaries, and identify who is best suited to complete this form. This form is not designed for repeat completions, so users should only fill it out once.
-</thinking>
-
 # Personal Space Boundary Assessment - Help Guide
 ## Purpose
 The Personal Space Boundary Assessment is a form designed to help users assess their personal space boundaries. It is used to determine their comfort levels in certain situations and identify their preferences when it comes to boundaries.

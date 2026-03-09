@@ -1,12 +1,3 @@
-<thinking>
-To prevent duplication or non-relevance, we should ensure that the form is clear, concise, and easy to understand for end-users.
-
-The form is meant to assess the wine service knowledge of individuals in the industry, specifically to understand their level of expertise in wine and service. By answering the questions, users will help us better tailor our services to their needs and improve our offerings.
-
-Before we dive into the form, let's note that some of the fields may seem redundant or overlapping. However, our goal is to collect comprehensive data that will help us understand your role in the wine service industry, your experience, and your level of knowledge. Your responses will be kept confidential and used solely for the purpose of improving our services.
-
-</thinking>
-
 # Wine Service Knowledge Quiz - Help Guide
 
 ## Purpose

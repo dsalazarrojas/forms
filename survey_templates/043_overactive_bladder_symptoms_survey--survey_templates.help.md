@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Overactive Bladder Symptoms Survey" form, which is designed to collect information about the symptoms experienced by individuals with overactive bladder syndrome. This form is not affiliated with or endorsed by any form platform, but rather an original adaptation created by AI using public survey topic metadata.
-
-Before proceeding, please ensure that you are using this form for its intended purpose and not duplicating an existing survey. This form is released under CC BY 4.0, allowing users to use, modify, and sell forms derived from it, provided they give credit.
-
-The following guide will walk you through the form and explain each field in detail.</thinking>
-
 # Overactive Bladder Symptoms Survey - Help Guide
 ## Purpose
 The Overactive Bladder Symptoms Survey is designed to collect information about the symptoms experienced by individuals with overactive bladder syndrome. This survey aims to understand the nature, duration, and severity of symptoms, as well as medical history and treatment options.

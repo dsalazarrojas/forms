@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Speaker And Topic Suggestions - Help Guide
 ## Purpose
 This form is used to collect suggestions for speakers and topics to be featured in events or presentations. It is designed to be filled out by event organizers or administrators to provide a list of potential speakers and topics for consideration.

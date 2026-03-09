@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's break down the form purpose and relevance. The Employee Recognition Program Questionnaire is designed to gather information about employees' preferences and experiences with recognition programs. This form likely aims to understand how employees perceive recognition, how often they receive it, and what types are most valuable to them. This will help the company's employee recognition program development and improvement. This form should not be filled out by employees who do not have an opinion on recognition programs or do not receive recognition in the company.</thinking>
-
 # Employee Recognition Program Questionnaire - Help Guide
 ## Purpose
 

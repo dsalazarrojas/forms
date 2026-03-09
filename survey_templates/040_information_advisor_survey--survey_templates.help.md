@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users who have interacted with an advisor, with a focus on understanding their satisfaction and quality of the service provided. It is intended to help the organization identify areas of improvement and provide better services in the future. The form is not meant to be completed by non-users, so please only fill out this form if you have had an interaction with the advisor.
-
-</thinking>
-
 # information_advisor_survey - Help Guide
 ## Purpose
 This form is used to collect feedback from users who have interacted with an advisor, in order to improve the quality of the service provided.

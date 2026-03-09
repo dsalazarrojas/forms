@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from gym facility users about their experience. The goal is to gather information on the cleanliness and staff helpfulness of the facility, as well as the user's overall satisfaction and likelihood to return. It's essential to complete this form accurately and thoroughly to provide valuable insights for the gym management to improve their services.
-
-To avoid duplication, please fill out this form once and do not submit multiple responses. This will help ensure that your feedback is considered and implemented effectively.
-
-</thinking>
-
 # Gym Facility Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from gym facility users about their experience.

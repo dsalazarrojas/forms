@@ -1,8 +1,3 @@
-<thinking> 
-This form, "name_error_identification_survey", is designed to capture information about names that have errors or issues in different contexts. This form is intended to be used for identifying and reporting name errors, which can be related to various aspects such as team support, HR, operations, and more. The purpose of this form is to ensure that all relevant details are collected so that corrective actions can be taken accordingly. Please ensure that you are using this form in the appropriate context and that you are not duplicating efforts.
-
-Please note that this form has multiple pages but is displayed here with all the fields in a single page for ease of reference.</thinking>
-
 # name_error_identification_survey - Help Guide
 ## Purpose
 This form is used to collect information about names that have errors or issues.

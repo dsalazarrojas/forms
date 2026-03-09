@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and information about the X Ray exam experience, covering various aspects such as pain and symptom assessment, medical history, radiology and imaging, X Ray exam experience, feedback and suggestions, and overall experience. It appears to be a comprehensive survey that aims to gather data from patients or medical professionals about their interactions with X Ray exams. To ensure this form is used correctly and efficiently, it's essential to review and fill it out carefully. There's no indication that the form has been created for a specific medical institution or organization, so it can be assumed that it's intended for general use. Before filling out this form, double-check that you're using the correct pages and filling in the required fields. Each page has a clear label and is self-explanatory. Please refer to the field-by-field explanation for more information on each page.
-</thinking>
-
 # X Ray Exam Assessment Survey - Help Guide
 ## Purpose
 The X Ray Exam Assessment Survey is a comprehensive form designed to collect feedback and information about the X Ray exam experience. It covers various aspects of the exam, including pain and symptom assessment, medical history, radiology and imaging, and overall experience.

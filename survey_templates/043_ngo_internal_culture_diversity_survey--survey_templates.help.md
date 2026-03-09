@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a tool for NGOs to assess and evaluate their internal culture diversity. It's intended for staff members to provide feedback and insights on their experiences and perceptions regarding diversity, inclusion, and overall work environment. Please note that this form should only be filled out once per employee, and responses will not be duplicated in any way. Please make sure you're not taking this form more than once.
-</thinking>
-
 # NGO Internal Culture Diversity Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect anonymous feedback from employees on various aspects of your NGO's internal culture, diversity, and work environment. Your responses will be used to identify areas for improvement and help us become a more inclusive and positive place to work.

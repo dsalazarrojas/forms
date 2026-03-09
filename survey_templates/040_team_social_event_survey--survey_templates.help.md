@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from team members about a social event. The form is used to gather data on the team name, event details (name, date, start and end time, duration), attendees (who attended and who did not), event location, food provided, and feedback. Additionally, it collects information on the department and team lead responsible for the event, as well as any additional comments. The form also asks about the type and frequency of the event, and if there are any suggestions for future events.
-
-To avoid duplication, please ensure that you are not submitting a duplicate survey for the same event. If you are unsure about any of the information, please check with your team lead or the event organizer.
-
-This form is designed to be completed by team members. If you are not a team member, please do not submit this form.
-
-</thinking>
-
 # team_social_event_survey - Help Guide
 ## Purpose
 The team_social_event_survey is a form used to collect information from team members about a social event.

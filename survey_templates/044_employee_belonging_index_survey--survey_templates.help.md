@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help employees reflect on their sense of belonging within the organization. The questions aim to gather insights into employees' perceptions of their departmental and team-based sense of belonging. The form is meant to be a self-assessment tool, allowing employees to honestly express their feelings about their work environment. Please ensure you complete this form only once, as it is meant to be a single instance of reflection. If you have any questions or concerns, reach out to your HR or departmental representative for clarification.
-</thinking>
-
 # Employee Belonging Index Survey - Help Guide
 ## Purpose
 This form is designed to help employees reflect on their sense of belonging within the organization.

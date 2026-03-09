@@ -1,5 +1,3 @@
-<thinking>This form is used for students to provide feedback after an exam, allowing teachers to gauge their knowledge and understanding of the subject. The form is designed to be completed by students and should only be filled out once per exam session. Please ensure that you are not duplicating efforts and that you have not already completed this form for this exam session.</thinking>
-
 # student-post-exam-feedback-check-in-form - Help Guide
 ## Purpose
 This form is used to collect feedback and answers from students after an exam. It helps teachers assess students' understanding and identify areas where they may need additional support.

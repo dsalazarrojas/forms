@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's evening routine and self-care practices. The purpose of this form is to help users understand their daily habits and identify areas for improvement. The form is divided into several sections, each addressing a different aspect of the evening routine. To ensure that the form is complete and relevant, users are encouraged to answer all questions honestly and thoroughly. Note that some fields are required to help ensure that the form is complete.
-</thinking>
 # evening_reflection_survey - Help Guide
 ## Purpose
 The evening reflection survey is designed to gather information about your daily habits and practices, helping you gain a better understanding of your evening routine and identify areas for improvement.

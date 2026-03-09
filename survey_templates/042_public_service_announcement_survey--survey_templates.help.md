@@ -1,11 +1,3 @@
-<thinking>
-The form is designed to collect feedback from users regarding public service announcements. This information will help the organization understand what users recall from these announcements and how effective they are in conveying the message. The form will be used to gather data on the quality of the message, the intended actions users are likely to take as a result of the announcement, and other relevant metrics.
-
-This form is intended to be completed by users who have seen or heard a public service announcement. It is not a requirement to complete this form, and users may answer as many or as few questions as they like.
-
-This guide will walk you through how to complete the form and what each field means.
-</thinking>
-
 # Public Service Announcement Survey - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to gather information about the design preferences and needs of educators and researchers when creating an OMR (Optical Mark Recognition) sheet. It's a survey to collect feedback on the design elements and processes that are most suitable for them. The form is used to understand the optimal design elements (font, layout, and color) and processes (design process and assessment team size) that are preferred by educators and researchers for their OMR sheet design needs.
-This form is not meant for general public use and is intended for internal use within a specific organization.
-There might be other forms with similar goals, however, the specific focus on OMR sheet design makes it a unique and specific case.
-We are not aware of any other forms that exactly replicate this content, so this form's purpose is distinct and singular.
-</thinking>
-
 # OMR Sheet Design Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your preferences and needs for designing an OMR sheet. Your input will help us understand what elements and processes are most suitable for OMR sheet design.

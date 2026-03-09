@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Functionalities Selection Survey - Help Guide
 ## Purpose
 This form is designed to gather information from users about their selection of functionalities, overall satisfaction, and any improvement ideas they may have. It consists of 8 fields that cover various aspects of the user's experience.

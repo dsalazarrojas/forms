@@ -1,8 +1,3 @@
-<thinking> 
-This help guide is intended to provide a clear and concise explanation of the mental health awareness initiative claim form. The form is used to collect information from individuals who are seeking support or sponsorship for mental health initiatives. To ensure the form is completed accurately and efficiently, the following guide will walk you through each section and explain what to expect.
-
-</thinking>
-
 # mental_health_awareness_initiative_claim_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from individuals who are seeking support or sponsorship for mental health initiatives. This form helps to understand their needs, goals, and requirements for mental health initiatives.

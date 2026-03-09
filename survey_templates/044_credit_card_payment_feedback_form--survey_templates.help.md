@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # credit_card_payment_feedback_form - Help Guide
 
 ## Purpose

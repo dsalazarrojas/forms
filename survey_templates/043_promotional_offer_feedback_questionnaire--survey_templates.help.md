@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about a promotional offer they have experienced. The purpose of this form is to understand the customer's perception of the offer, their expectations, and any issues they may have encountered during the process. The form is meant to be completed by customers who have received the promotional offer and are willing to share their honest feedback.
-</thinking>
-
 # Promotional Offer Feedback Questionnaire - Help Guide
 ## Purpose
 This form is used to gather feedback from customers about a promotional offer they have experienced. Please take a few minutes to share your thoughts and help us improve our offers in the future.

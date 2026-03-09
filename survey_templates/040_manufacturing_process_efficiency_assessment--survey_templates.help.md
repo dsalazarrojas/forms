@@ -1,9 +1,3 @@
-<thinking>
-Is the form purpose to be used for evaluating the efficiency of manufacturing processes? It is likely to be used for quality control or process improvement within a factory? Are there any specific bottlenecks or areas to focus on during the assessment? What is the relationship between production capacity, production time, and production cost? Are these fields related to inventory management or supply chain optimization? How does this form fit into the broader context of factory operations? 
-
-Please ensure that this form is not being used for duplicate purposes. For example, if the factory already has a similar assessment form in place, this form should be used for a different or more specific goal. If the goal of this form is not clearly defined, please revisit the form's purpose and ensure it's not a duplication of effort.
-</thinking>
-
 # Manufacturing Process Efficiency Assessment - Help Guide
 ## Purpose
 The Manufacturing Process Efficiency Assessment is a form designed to evaluate the efficiency of a manufacturing process. It aims to help factory personnel identify areas of improvement, bottlenecks, and potential opportunities for optimization.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To avoid duplication, this form should be relevant to the field of social justice, particularly focused on metrics and surveys. A social justice survey is used to gauge the level of awareness, experiences, and perceptions related to social justice practices within an organization, community, or group. This form will help users understand their level of understanding and engagement in promoting social justice metrics.
 
 </thinking>

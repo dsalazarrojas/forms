@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather input from community residents on their development priorities and issues, community satisfaction, and feedback. It is crucial that you fill this form out only once in a calendar year to provide the most accurate and up-to-date information. Please ensure that the information provided is accurate and honest, as it will be used to inform the community development initiatives.
-</thinking>
-
 # Community Development Initiative Poll - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from community residents on their development priorities, issues, and satisfaction. This information will help us understand your needs and preferences, which will be taken into account when planning community development initiatives.

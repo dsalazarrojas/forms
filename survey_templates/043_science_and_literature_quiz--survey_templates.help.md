@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a "Science And Literature Quiz" form designed to collect information from students, teachers, and other stakeholders to gauge their understanding of scientific and literary concepts. It appears to be part of a larger system for managing educational data. The form is structured to collect various types of information, including classroom settings, subject matter, and individual details of students, teachers, and other submitters. 
-
-The purpose of this form is likely to support educational research, policy-making, or resource allocation within schools or universities. The form fields are designed to be comprehensive but also user-friendly, with most fields being required to ensure accuracy and consistency of data.
-
-</thinking>
-
 # Science And Literature Quiz - Help Guide
 ## Purpose
 

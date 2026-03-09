@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather feedback and opinions from attendees of a music festival on their favorite headliner and overall experience at the event. The purpose of this form is to help event organizers understand what attendees enjoyed most about the festival, who they would recommend as a headliner, and what aspects of the festival they found valuable or lacking. This will help inform future event planning and execution.
-
-To ensure the accuracy of the data collected, it is essential that each form is filled out by a single attendee with their genuine feedback and opinions. If you're not the one who attended the festival, please refrain from filling out this form.
-
-Please take a moment to read through the form carefully before answering. The answers will help us improve future music festivals!
-
-</thinking>
-
 # Music Festival Headliner Voting - Help Guide
 ## Purpose
 The Music Festival Headliner Voting form is designed to gather opinions from attendees on their favorite headliner and overall festival experience.
