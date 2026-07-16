@@ -9,6 +9,8 @@
 
 Browse the full library at: **[forms.gic.mx](https://forms.gic.mx)** 🌐
 
+Social preview asset in use: [`docs/assets/social-preview-v2-compatibility.svg`](docs/assets/social-preview-v2-compatibility.svg)
+
 ---
 
 ## 👉 [Browse All Categories →](https://forms.gic.mx/browse.html)
@@ -30,10 +32,10 @@ Explore 7,460+ templates across 40+ categories — filter, preview, and deploy i
 | Platform | How to Use |
 |----------|------------|
 | **ODK Collect** | Download `.xlsx` XLSForm file → Import into ODK Collect or GicCollect app |
-| **Google Forms** | Use [GicCollectCreator](https://apps.apple.com/app/giccollectcreator) to convert YAML → Google Forms in one tap |
-| **Tally** | Compatible with Tally forms - export via GicCollectCreator or manual copy |
+| **Google Forms** | Use [GIC XLSForm Creation](https://apps.apple.com/ec/app/gic-xlsform-creation/id6754113283) to convert YAML → Google Forms in one tap |
+| **Tally** | Compatible with Tally forms - export via GIC XLSForm Creation or manual copy |
 | **Formbricks** | Use YAML as template for Formbricks surveys |
-| **Cloudflare Workers** | Deploy with [OneTimeUseWebApp](https://github.com/dsalazarrojas/oneTimeUseWebApp) for serverless survey collection |
+| **Cloudflare Workers** | Deploy with [gicFormsForCloudflare](https://github.com/dsalazarrojas/gicFormsForCloudflare) for serverless survey collection |
 
 ### Download a Form
 
@@ -75,10 +77,10 @@ Forms are organized into **418 categories** covering every industry and use case
 
 This forms library is part of the **GIC Ecosystem** - a suite of tools for form creation, data collection, and analytics:
 
-### GicCollectCreator (iOS)
+### GIC XLSForm Creation (iOS)
 **Convert YAML to Google Forms, Tally, Formbricks in one tap**
 
-[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](https://apps.apple.com/app/giccollectcreator)
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](https://apps.apple.com/ec/app/gic-xlsform-creation/id6754113283)
 
 - Browse the full 100k form library in-app
 - Preview forms before importing
@@ -95,10 +97,10 @@ This forms library is part of the **GIC Ecosystem** - a suite of tools for form 
 - GPS, photos, signatures support
 - Sync data when online
 
-### OneTimeUseWebApp (macOS)
+### gicFormsForCloudflare (macOS)
 **Deploy Cloudflare Workers surveys**
 
-[Download for macOS](https://github.com/dsalazarrojas/oneTimeUseWebApp)
+[Download for macOS](https://github.com/dsalazarrojas/gicFormsForCloudflare)
 
 - Select any form from the library
 - Configure branding and webhooks
@@ -222,8 +224,8 @@ Each form has a rich preview page at **forms.gic.mx** with:
 3. **XLSForm Download** - One-click `.xlsx` download
 4. **PDF Printable** - Print-optimized layout
 5. **Deploy Buttons**:
-   - 🚀 Open in GicCollectCreator (iOS)
-   - ⚡ Deploy to Cloudflare (OneTimeUseWebApp)
+   - 🚀 Open in GIC XLSForm Creation (iOS)
+   - ⚡ Deploy to Cloudflare (gicFormsForCloudflare)
    - 📥 Import to GicCollect (iOS)
 6. **Embed Code** - Embed the preview on your own site
 
@@ -328,9 +330,9 @@ Support the project and get exclusive form packs:
 
 This forms library is part of the GIC Ecosystem:
 
-- **[GicCollectCreator](https://apps.apple.com/app/giccollectcreator)** - iOS app to convert YAML to Google Forms, Tally, Formbricks
+- **[GIC XLSForm Creation](https://apps.apple.com/ec/app/gic-xlsform-creation/id6754113283)** - iOS app to convert YAML to Google Forms, Tally, Formbricks
 - **[GicCollect](https://apps.apple.com/app/giccollect)** - iOS offline ODK data collection
-- **[OneTimeUseWebApp](https://github.com/dsalazarrojas/oneTimeUseWebApp)** - macOS app to deploy Cloudflare Workers surveys
+- **[gicFormsForCloudflare](https://github.com/dsalazarrojas/gicFormsForCloudflare)** - macOS app to deploy Cloudflare Workers surveys
 - **[gic.mx](https://gic.mx)** - Central hub for all GIC apps and services
 
 ---
@@ -402,10 +404,10 @@ Explora la biblioteca completa en: **[forms.gic.mx](https://forms.gic.mx)** 🌐
 | Plataforma | Cómo Usar |
 |------------|-----------|
 | **ODK Collect** | Descarga el archivo `.xlsx` XLSForm → Importa en ODK Collect o la app GicCollect |
-| **Google Forms** | Usa [GicCollectCreator](https://apps.apple.com/app/giccollectcreator) para convertir YAML → Google Forms en un toque |
-| **Tally** | Compatible con formularios Tally - exporta vía GicCollectCreator o copia manual |
+| **Google Forms** | Usa [GIC XLSForm Creation](https://apps.apple.com/ec/app/gic-xlsform-creation/id6754113283) para convertir YAML → Google Forms en un toque |
+| **Tally** | Compatible con formularios Tally - exporta vía GIC XLSForm Creation o copia manual |
 | **Formbricks** | Usa YAML como plantilla para encuestas de Formbricks |
-| **Cloudflare Workers** | Despliega con [OneTimeUseWebApp](https://github.com/dsalazarrojas/oneTimeUseWebApp) para recopilación serverless |
+| **Cloudflare Workers** | Despliega con [gicFormsForCloudflare](https://github.com/dsalazarrojas/gicFormsForCloudflare) para recopilación serverless |
 
 ### Descargar un Formulario
 

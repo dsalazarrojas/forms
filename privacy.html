@@ -1,38 +1,153 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Privacy Policy | GIC Forms</title>
   <meta name="description" content="Privacy information for visitors using the GIC Forms website and template library.">
   <link rel="canonical" href="https://forms.gic.mx/privacy.html">
+
+  <!-- Content Security Policy -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.tailwindcss.com https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https://www.google-analytics.com; frame-src 'none'; object-src 'none';">
+
+  <!-- Dark mode FOUC prevention -->
+  <script>if(localStorage.getItem('gic-theme')==='dark'||(!localStorage.getItem('gic-theme')&&window.matchMedia('(prefers-color-scheme: dark)').matches)){document.documentElement.classList.add('dark')}</script>
+
+  <!-- Google Fonts: Public Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Material Symbols -->
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
+
+  <!-- Tailwind CSS CDN — no SRI: dynamic CDN bundle -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: { primary: '#ec5b13' },
+          fontFamily: { sans: ['Public Sans', 'sans-serif'] }
+        }
+      }
+    }
+  </script>
   <style>
-    body { margin: 0; font-family: "Public Sans", "Segoe UI", sans-serif; color: #0f172a; background: #f8fafc; line-height: 1.7; }
-    .wrap { max-width: 860px; margin: 0 auto; padding: 0 1.25rem; }
-    header, footer { background: #fff; border-bottom: 1px solid #e2e8f0; }
-    footer { border-top: 1px solid #e2e8f0; border-bottom: 0; margin-top: 3rem; }
-    .nav { display: flex; gap: 1rem; flex-wrap: wrap; padding: 1rem 0; }
-    .nav a { color: #ec5b13; text-decoration: none; font-weight: 600; }
-    main { padding: 3rem 0; }
-    p, li { color: #475569; }
+    .material-symbols-outlined { font-variation-settings:'FILL' 0,'wght' 400,'GRAD' 0,'opsz' 24; vertical-align:middle; line-height:1; }
+    article h2 { margin-top:2rem; margin-bottom:0.5rem; font-size:1.125rem; font-weight:700; color:inherit; }
+    article p, article li { color:#475569; line-height:1.75; }
+    .dark article p, .dark article li { color:#94a3b8; }
+    article ul { list-style:disc; padding-left:1.5rem; margin:0.5rem 0; }
+    article a { color:#ec5b13; text-decoration:underline; }
+    article code { background:#f1f5f9; padding:1px 5px; border-radius:4px; font-size:0.85em; }
+    .dark article code { background:#1e293b; color:#cbd5e1; }
   </style>
 </head>
-<body>
-  <header><div class="wrap"><nav class="nav"><a href="/">Home</a><a href="/browse.html">Browse</a><a href="/about.html">About</a><a href="/contact.html">Contact</a></nav></div></header>
-  <main class="wrap">
-    <h1>Privacy Policy</h1>
-    <p>GIC Forms is a public template library. The site may collect basic analytics and standard web server logs to understand aggregate traffic, page usage, and deployment health.</p>
-    <h2>What This Site Does Not Do</h2>
-    <ul>
-      <li>It does not sell template downloads as user accounts.</li>
-      <li>It does not require visitors to submit personal information to browse the public library.</li>
-      <li>It does not claim that template fields are appropriate for every jurisdiction or workflow.</li>
-    </ul>
-    <h2>Third-Party Services</h2>
-    <p>The site may use analytics, CDN, and hosting providers to deliver pages and measure aggregate performance. Templates themselves may link to external raw files hosted on GitHub.</p>
-    <h2>Your Responsibility</h2>
-    <p>If you download and deploy a template, you are responsible for your own privacy notices, data handling, consent language, and compliance requirements.</p>
+<body class="font-sans bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 min-h-screen flex flex-col">
+
+  <!-- Nav -->
+  <header class="border-b border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900">
+    <div class="max-w-4xl mx-auto px-5 h-14 flex items-center justify-between gap-4">
+      <a href="/" class="flex items-center gap-2 hover:opacity-80 transition-opacity">
+        <div class="w-7 h-7 rounded-md flex items-center justify-center flex-shrink-0" style="background:#ec5b13;">
+          <span class="material-symbols-outlined text-white" style="font-size:15px;">assignment</span>
+        </div>
+        <span class="font-bold text-base tracking-tight">GIC Forms</span>
+      </a>
+      <nav class="flex items-center gap-4">
+        <a href="/browse.html" class="text-sm text-slate-600 dark:text-slate-400 hover:text-primary dark:hover:text-primary transition-colors">Browse</a>
+        <a href="/preview.html" class="text-sm text-slate-600 dark:text-slate-400 hover:text-primary dark:hover:text-primary transition-colors">Editor</a>
+        <button onclick="toggleDarkMode()" class="w-8 h-8 flex items-center justify-center rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors text-slate-500 dark:text-slate-400" title="Toggle dark mode">
+          <span id="dark-icon" class="material-symbols-outlined" style="font-size:18px;">dark_mode</span>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="flex-1">
+    <div class="max-w-4xl mx-auto px-5 py-12">
+      <article>
+        <h1 class="text-3xl font-bold tracking-tight text-slate-900 dark:text-slate-100 mb-6">Privacy Policy</h1>
+        <p><strong>Effective date:</strong> March 25, 2026.</p>
+        <p>GIC Forms is a public template library and browser-based form editor operated from <code>forms.gic.mx</code>. This notice describes what information is processed when you browse the site, preview templates, save forms locally, or deploy a form to a third-party platform.</p>
+        <h2>Who Controls This Site</h2>
+        <p>The controller for the website content and browser application is the GIC Forms project. For privacy questions or rights requests, use the contact paths listed on <a href="/contact.html">Contact</a> or open an issue in the public repository if your request relates to site behavior.</p>
+        <h2>Information Processed</h2>
+        <ul>
+          <li><strong>Server and CDN logs:</strong> hosting, CDN, and network providers may process IP address, user agent, request URL, referrer, and timestamp information needed to deliver and secure the site.</li>
+          <li><strong>Optional analytics:</strong> Google Analytics 4 is loaded only after you opt in through the site's consent banner. When enabled, analytics may process pseudonymous usage information such as page views, device/browser metadata, approximate geography, and interaction events.</li>
+          <li><strong>Browser storage:</strong> the site uses <code>localStorage</code> for non-sensitive preferences and locally saved forms, and <code>sessionStorage</code> for deployment tokens and similar session-only secrets. Saved forms remain in your browser until you delete them. Session-stored tokens are cleared when the browser session ends.</li>
+          <li><strong>Form content you save locally:</strong> if you use "My Forms," the YAML content, title, category, and save timestamps are stored only in your browser on your device unless you separately export or deploy them.</li>
+          <li><strong>Third-party deployment data:</strong> when you choose to deploy to Cloudflare Workers, Google Forms, Google Sheets, Tally, Formbricks, ONA, or KoboToolbox, the credentials and form payload you provide are sent directly to the selected platform or to the configured bridge worker needed to complete that action.</li>
+          <li><strong>GitHub-hosted content:</strong> preview pages fetch YAML and help-guide files from the public GitHub repository and GitHub raw-content infrastructure.</li>
+          <li><strong>Subscription data:</strong> if you purchase a Pro or Business subscription, payment is processed by Stripe. GIC Forms receives a subscription status token (JWT) stored in <code>localStorage</code>. No payment card details are stored by this site.</li>
+        </ul>
+        <h2>Cookies And Similar Technologies</h2>
+        <p>The site uses browser storage technologies rather than an account system. Analytics cookies or equivalent analytics storage are not activated unless you consent. Functional storage may still be used for theme preference, saved local forms, and session-only deployment state.</p>
+        <h2>Purposes Of Processing</h2>
+        <ul>
+          <li>To deliver pages, templates, and preview functionality.</li>
+          <li>To remember your browser-side preferences and locally saved work.</li>
+          <li>To execute a deployment or export action that you explicitly request.</li>
+          <li>To measure site usage only when analytics consent has been granted.</li>
+          <li>To secure, debug, and maintain the service.</li>
+        </ul>
+        <h2>Legal Bases</h2>
+        <p>Where GDPR-style rules apply, GIC Forms relies on consent for optional analytics and legitimate interests for basic site delivery, security logging, debugging, and local browser functionality requested by the user. If Mexican privacy law applies, this notice also serves as an <em>Aviso de Privacidad</em> for the website's own processing activities.</p>
+        <h2>Sharing And Processors</h2>
+        <p>Depending on the feature you use, data may be processed by infrastructure and service providers such as GitHub, CDN/hosting providers, Google (for Analytics or Google Workspace deployment), Cloudflare, Stripe, Tally, Formbricks, ONA, or KoboToolbox. Those providers act under their own terms and privacy notices for the services they operate.</p>
+        <h2>Advertising Networks</h2>
+        <p>Display advertisements may appear on this site in the future, served by the following advertising networks. These networks may use cookies and similar tracking technologies to serve ads relevant to your interests.</p>
+        <ul>
+          <li><strong>Google AdSense</strong> (Publisher ID: pub-1384946079798757) — <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy Policy</a></li>
+          <li><strong>Facebook Audience Network</strong> (App ID: 1934771063562486) — <a href="https://www.facebook.com/privacy/policy/" target="_blank" rel="noopener">Meta Privacy Policy</a></li>
+        </ul>
+        <p>You may opt out of interest-based advertising through your browser settings, the <a href="https://optout.aboutads.info/" target="_blank" rel="noopener">Digital Advertising Alliance</a>, or your device's ad preferences.</p>
+        <h2>International Transfers</h2>
+        <p>The site and its service providers may process data outside your country of residence, including in the United States and other jurisdictions where the relevant providers operate.</p>
+        <h2>Your Rights</h2>
+        <p>Depending on your location, you may have rights to access, correct, delete, restrict, object to, or port personal data, and to withdraw consent for analytics at any time. Under Mexican law, you may also exercise ARCO rights: access, rectification, cancellation, and opposition. California residents may request disclosure of categories processed and request deletion, subject to applicable exceptions. GIC Forms does not sell personal information in exchange for money.</p>
+        <h2>How To Exercise Rights</h2>
+        <p>For browser-stored data under your control, you can clear local site data directly in your browser. For project-level requests, contact the project through the channels listed on <a href="/contact.html">Contact</a> and include enough detail to identify the relevant page, action, or data element.</p>
+        <h2>Data Retention</h2>
+        <p>Analytics data retention is governed by Google Analytics settings once consent is granted. Browser-stored YAML, preferences, and saved forms remain on your device until deleted by you. Session tokens are intended to expire at the end of the browser session.</p>
+        <h2>Children</h2>
+        <p>This site is not directed to children under 13, and the project does not intentionally collect personal information from children through the public template library.</p>
+        <h2>Your Responsibility When You Deploy A Template</h2>
+        <p>If you download or deploy a template, you are responsible for your own privacy notices, consent language, data retention, processor contracts, and regulatory compliance for the actual form you publish.</p>
+        <h2>Changes To This Notice</h2>
+        <p>This page may be updated when the site's data flows, analytics behavior, or deployment features change. Material changes will be reflected by updating the effective date above.</p>
+      </article>
+    </div>
   </main>
-  <footer><div class="wrap"><nav class="nav"><a href="/terms.html">Terms</a><a href="/editorial-methodology.html">Methodology</a></nav></div></footer>
+
+  <!-- Footer -->
+  <footer class="border-t border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900">
+    <div class="max-w-4xl mx-auto px-5 py-5 flex flex-wrap gap-4 items-center justify-between">
+      <p class="text-xs text-slate-400 dark:text-slate-600">© 2026 GIC Forms &bull; CC BY 4.0</p>
+      <nav class="flex flex-wrap gap-4">
+        <a href="/terms.html" class="text-xs text-slate-500 hover:text-primary dark:text-slate-400 dark:hover:text-primary transition-colors">Terms</a>
+        <a href="/privacy.html" class="text-xs text-slate-500 hover:text-primary dark:text-slate-400 dark:hover:text-primary transition-colors">Privacy</a>
+        <a href="/editorial-methodology.html" class="text-xs text-slate-500 hover:text-primary dark:text-slate-400 dark:hover:text-primary transition-colors">Methodology</a>
+      </nav>
+    </div>
+  </footer>
+
+  <script>
+    function toggleDarkMode() {
+      const html = document.documentElement;
+      const isDark = html.classList.toggle('dark');
+      localStorage.setItem('gic-theme', isDark ? 'dark' : 'light');
+      const icon = document.getElementById('dark-icon');
+      if (icon) icon.textContent = isDark ? 'light_mode' : 'dark_mode';
+    }
+    // Init icon
+    (function() {
+      const icon = document.getElementById('dark-icon');
+      if (icon) icon.textContent = document.documentElement.classList.contains('dark') ? 'light_mode' : 'dark_mode';
+    })();
+  </script>
 </body>
 </html>

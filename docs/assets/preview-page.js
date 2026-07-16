@@ -6,13 +6,21 @@
     cfSubdomain: 'gic-cf-workers-subdomain'
   };
 
+  const PLATFORM_TOKEN_FIELDS = [
+    { inputId: 'dp-tally-token', storageKey: 'gic-tally-token' },
+    { inputId: 'dp-formbricks-key', storageKey: 'gic-formbricks-key' },
+    { inputId: 'dp-ona-token', storageKey: 'gic-ona-token' },
+    { inputId: 'dp-kobo-token', storageKey: 'gic-kobo-token' }
+  ];
+
   let currentForm = null;
   let currentYaml = '';
   let currentFormPath = null;
   let currentFormMeta = {};
   let currentLocalFormId = null;
+  let responsesPanelState = { formId: null, mgmtToken: null, cursor: null, items: [], hasMore: false, localFormId: null };
+  const responseCountsByFormId = Object.create(null);
   let originalYaml = '';
-  let hasXlsForm = false;
   let viewMode = 'desktop';
   let currentTab = 'preview';
   let editor = null;
@@ -52,6 +60,99 @@
 
   function normalizeOptionLabel(option) {
     return codec().normalizeOptionLabel(option);
+  }
+
+  function getClipboardFailureMessage() {
+    return window.isSecureContext
+      ? 'Copy unavailable'
+      : 'HTTPS required';
+  }
+
+  function renderInlineMarkdown(text) {
+    return escapeHtml(String(text || ''))
+      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+      .replace(/\*(.+?)\*/g, '<em>$1</em>');
+  }
+
+  function renderHelpMarkdown(markdown) {
+    const lines = String(markdown || '').split(/\r?\n/);
+    const blocks = [];
+    let paragraph = [];
+    let listType = '';
+
+    function flushParagraph() {
+      if (!paragraph.length) {
+        return;
+      }
+      blocks.push(`<p class="mb-3">${renderInlineMarkdown(paragraph.join(' '))}</p>`);
+      paragraph = [];
+    }
+
+    function closeList() {
+      if (!listType) {
+        return;
+      }
+      blocks.push(listType === 'ol' ? '</ol>' : '</ul>');
+      listType = '';
+    }
+
+    function openList(nextType) {
+      if (listType === nextType) {
+        return;
+      }
+      closeList();
+      listType = nextType;
+      blocks.push(nextType === 'ol'
+        ? '<ol class="my-2 ml-5 list-decimal space-y-1">'
+        : '<ul class="my-2 ml-5 list-disc space-y-1">');
+    }
+
+    lines.forEach(line => {
+      const trimmed = line.trim();
+      if (!trimmed) {
+        flushParagraph();
+        closeList();
+        return;
+      }
+
+      const headingMatch = trimmed.match(/^(#{1,4})\s+(.+)$/);
+      if (headingMatch) {
+        flushParagraph();
+        closeList();
+        const level = headingMatch[1].length;
+        const classes = {
+          1: 'text-xl font-bold text-slate-900 dark:text-slate-100 mt-0 mb-3',
+          2: 'text-lg font-semibold text-slate-900 dark:text-slate-100 mt-6 mb-2',
+          3: 'text-base font-semibold text-slate-800 dark:text-slate-200 mt-5 mb-1',
+          4: 'text-sm font-semibold text-slate-800 dark:text-slate-200 mt-4 mb-1'
+        };
+        blocks.push(`<h${level} class="${classes[level]}">${renderInlineMarkdown(headingMatch[2])}</h${level}>`);
+        return;
+      }
+
+      const orderedMatch = trimmed.match(/^\d+\.\s+(.+)$/);
+      if (orderedMatch) {
+        flushParagraph();
+        openList('ol');
+        blocks.push(`<li>${renderInlineMarkdown(orderedMatch[1])}</li>`);
+        return;
+      }
+
+      const bulletMatch = trimmed.match(/^[-*]\s+(.+)$/);
+      if (bulletMatch) {
+        flushParagraph();
+        openList('ul');
+        blocks.push(`<li>${renderInlineMarkdown(bulletMatch[1])}</li>`);
+        return;
+      }
+
+      closeList();
+      paragraph.push(trimmed);
+    });
+
+    flushParagraph();
+    closeList();
+    return blocks.join('');
   }
 
   function isValidRemoteFormPath(formPath) {
@@ -119,6 +220,9 @@
             markOriginal: false,
             editorStatus: 'Changes applied to the live preview and YAML source.'
           });
+        },
+        onAutosave: () => {
+          return autosaveCurrentFormSilently();
         },
         onStateChange: () => {
           updateDeploySummary();
@@ -255,7 +359,12 @@
     if (success) {
       flashCopyState(document.getElementById('btn-copy-yaml'), '<span class="material-symbols-outlined icon-sm">check</span><span class="hidden sm:inline text-xs">Copied!</span>');
       flashCopyState(document.getElementById('copy-yaml-inner'), '<span class="material-symbols-outlined icon-sm">check</span>Copied!');
+      return;
     }
+
+    const failureLabel = `<span class="material-symbols-outlined icon-sm">error</span><span class="hidden sm:inline text-xs">${escapeHtml(getClipboardFailureMessage())}</span>`;
+    flashCopyState(document.getElementById('btn-copy-yaml'), failureLabel);
+    flashCopyState(document.getElementById('copy-yaml-inner'), `<span class="material-symbols-outlined icon-sm">error</span>${escapeHtml(getClipboardFailureMessage())}`);
   }
 
   function editYaml() {
@@ -331,11 +440,22 @@
   }
 
   function downloadXlsx() {
-    if (!currentFormPath) {
+    if (currentFormPath) {
+      const xlsxPath = currentFormPath.replace(/\.(yaml|yml)$/i, '.xlsx');
+      window.open(`https://raw.githubusercontent.com/dsalazarrojas/forms/main/${xlsxPath}`, '_blank');
       return;
     }
-    const xlsxPath = currentFormPath.replace(/\.(yaml|yml)$/i, '.xlsx');
-    window.open(`https://raw.githubusercontent.com/dsalazarrojas/forms/main/${xlsxPath}`, '_blank');
+    // Custom/editor form: generate XLSX in-browser using SheetJS
+    if (!currentForm || !window.XLSX || !window.GICDeployIntegrations) {
+      return;
+    }
+    try {
+      const wb = window.GICDeployIntegrations.buildXlsFormWorkbook(currentForm);
+      const filename = getSuggestedFileName().replace(/\.(yaml|yml)$/i, '.xlsx') || 'form.xlsx';
+      window.XLSX.writeFile(wb, filename);
+    } catch (_) {
+      // ignore
+    }
   }
 
   function renderPreviewError(message) {
@@ -344,6 +464,15 @@
         <span class="material-symbols-outlined mb-3" style="font-size:32px;">error</span>
         <p class="text-sm font-semibold">Unable to load this form</p>
         <p class="mt-2 text-sm">${escapeHtml(message)}</p>
+      </div>`;
+  }
+
+  function renderPreviewLoading(message) {
+    document.getElementById('form-renderer').innerHTML = `
+      <div class="flex flex-col items-center justify-center rounded-2xl border border-slate-200 bg-white px-6 py-12 text-center text-slate-600 dark:border-slate-800 dark:bg-slate-900 dark:text-slate-300">
+        <span class="material-symbols-outlined mb-3 animate-pulse" style="font-size:32px;">progress_activity</span>
+        <p class="text-sm font-semibold">${escapeHtml(message || 'Loading form...')}</p>
+        <p class="mt-2 text-sm text-slate-500 dark:text-slate-400">Fetching the YAML source from GitHub.</p>
       </div>`;
   }
 
@@ -363,42 +492,42 @@
 
       switch (type) {
         case 'text':
-          inputHtml = `<input type="text" class="preview-input" ${required ? 'required' : ''}>`;
+          inputHtml = `<input type="text" class="preview-input" data-testid="question-input" data-question-index="${index}" ${required ? 'required' : ''}>`;
           break;
         case 'email':
-          inputHtml = `<input type="email" class="preview-input" placeholder="name@example.com" ${required ? 'required' : ''}>`;
+          inputHtml = `<input type="email" class="preview-input" data-testid="question-input" data-question-index="${index}" placeholder="name@example.com" ${required ? 'required' : ''}>`;
           break;
         case 'integer':
         case 'number':
-          inputHtml = `<input type="number" step="1" class="preview-input" ${required ? 'required' : ''}>`;
+          inputHtml = `<input type="number" step="1" class="preview-input" data-testid="question-input" data-question-index="${index}" ${required ? 'required' : ''}>`;
           break;
         case 'decimal':
-          inputHtml = `<input type="number" step="0.01" class="preview-input" ${required ? 'required' : ''}>`;
+          inputHtml = `<input type="number" step="0.01" class="preview-input" data-testid="question-input" data-question-index="${index}" ${required ? 'required' : ''}>`;
           break;
         case 'date':
-          inputHtml = `<input type="date" class="preview-input" ${required ? 'required' : ''}>`;
+          inputHtml = `<input type="date" class="preview-input" data-testid="question-input" data-question-index="${index}" ${required ? 'required' : ''}>`;
           break;
         case 'time':
-          inputHtml = `<input type="time" class="preview-input" ${required ? 'required' : ''}>`;
+          inputHtml = `<input type="time" class="preview-input" data-testid="question-input" data-question-index="${index}" ${required ? 'required' : ''}>`;
           break;
         case 'datetime':
-          inputHtml = `<input type="datetime-local" class="preview-input" ${required ? 'required' : ''}>`;
+          inputHtml = `<input type="datetime-local" class="preview-input" data-testid="question-input" data-question-index="${index}" ${required ? 'required' : ''}>`;
           break;
         case 'audio':
-          inputHtml = `<input type="file" accept="audio/*" class="preview-input" ${required ? 'required' : ''}>`;
+          inputHtml = `<input type="file" accept="audio/*" class="preview-input" data-testid="question-input" data-question-index="${index}" ${required ? 'required' : ''}>`;
           break;
         case 'image':
-          inputHtml = `<input type="file" accept="image/*" class="preview-input" ${required ? 'required' : ''}>`;
+          inputHtml = `<input type="file" accept="image/*" class="preview-input" data-testid="question-input" data-question-index="${index}" ${required ? 'required' : ''}>`;
           break;
         case 'video':
-          inputHtml = `<input type="file" accept="video/*" class="preview-input" ${required ? 'required' : ''}>`;
+          inputHtml = `<input type="file" accept="video/*" class="preview-input" data-testid="question-input" data-question-index="${index}" ${required ? 'required' : ''}>`;
           break;
         case 'file':
-          inputHtml = `<input type="file" class="preview-input" ${required ? 'required' : ''}>`;
+          inputHtml = `<input type="file" class="preview-input" data-testid="question-input" data-question-index="${index}" ${required ? 'required' : ''}>`;
           break;
         case 'select_one': {
           const options = Array.isArray(page.options) ? page.options : [];
-          inputHtml = `<select class="preview-input" ${required ? 'required' : ''}><option value="">Select an option…</option>${options.map(option => {
+          inputHtml = `<select class="preview-input" data-testid="question-input" data-question-index="${index}" ${required ? 'required' : ''}><option value="">Select an option…</option>${options.map(option => {
             const labelValue = escapeHtml(normalizeOptionLabel(option));
             return `<option value="${labelValue}">${labelValue}</option>`;
           }).join('')}</select>`;
@@ -406,7 +535,7 @@
         }
         case 'select_multiple': {
           const options = Array.isArray(page.options) ? page.options : [];
-          inputHtml = `<div class="space-y-2 mt-1">${options.map(option => {
+          inputHtml = `<div class="space-y-2 mt-1" data-testid="question-input" data-question-index="${index}">${options.map(option => {
             const labelValue = escapeHtml(normalizeOptionLabel(option));
             return `
               <label class="flex items-center gap-2 text-sm cursor-pointer">
@@ -444,7 +573,7 @@
               ${hint ? `<p class="preview-hint">${hint}</p>` : ''}
             </div>`;
         default:
-          inputHtml = `<input type="text" class="preview-input" ${required ? 'required' : ''}>`;
+          inputHtml = `<input type="text" class="preview-input" data-testid="question-input" data-question-index="${index}" ${required ? 'required' : ''}>`;
       }
 
       return `
@@ -462,6 +591,7 @@
           <button type="submit" class="rounded-lg px-6 py-2.5 text-sm font-semibold text-white transition-opacity hover:opacity-90" style="background:#ec5b13;">Submit Form</button>
         </div>
       </form>`;
+    container.setAttribute('data-testid', 'form-renderer-ready');
   }
 
   function inferUseCase(categorySlug, pages) {
@@ -699,18 +829,7 @@
       let text = await res.text();
       text = text.replace(/<thinking>[\s\S]*?<\/thinking>/g, '').trim();
       if (!text) return;
-      const html = text
-        .replace(/^#### (.+)$/gm, '<h4 class="text-sm font-semibold text-slate-800 dark:text-slate-200 mt-4 mb-1">$1</h4>')
-        .replace(/^### (.+)$/gm, '<h3 class="text-base font-semibold text-slate-800 dark:text-slate-200 mt-5 mb-1">$1</h3>')
-        .replace(/^## (.+)$/gm, '<h2 class="text-lg font-semibold text-slate-900 dark:text-slate-100 mt-6 mb-2">$1</h2>')
-        .replace(/^# (.+)$/gm, '<h1 class="text-xl font-bold text-slate-900 dark:text-slate-100 mt-0 mb-3">$1</h1>')
-        .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-        .replace(/\*(.+?)\*/g, '<em>$1</em>')
-        .replace(/^[-*] (.+)$/gm, '<li class="ml-4 list-disc">$1</li>')
-        .replace(/^\d+\. (.+)$/gm, '<li class="ml-4 list-decimal">$1</li>')
-        .replace(/(<li[\s\S]*?<\/li>\n?)+/g, m => `<ul class="space-y-1 my-2">${m}</ul>`)
-        .replace(/\n\n+/g, '</p><p class="mb-3">')
-        .replace(/^(?!<[hul])(.+)$/gm, '<p class="mb-3">$1</p>');
+      const html = renderHelpMarkdown(text);
       setHelpGuideContent(html);
     } catch (_) {
       // If fetch fails, silently skip
@@ -750,39 +869,6 @@
     } catch (_) {
       container.innerHTML = '<p class="text-xs text-slate-400 dark:text-slate-500">Related forms are unavailable right now.</p>';
     }
-  }
-
-  function updateStats(pages) {
-    const questionCount = pages.length;
-    const minutes = Math.max(1, Math.ceil(questionCount * 0.5));
-    const types = [...new Set(pages.map(page => page.type || 'text'))];
-    const typeCounts = {};
-    pages.forEach(page => {
-      const key = page.type || 'text';
-      typeCounts[key] = (typeCounts[key] || 0) + 1;
-    });
-
-    document.getElementById('stat-est-time').textContent = `${minutes} min${minutes === 1 ? '' : 's'}`;
-    document.getElementById('stat-total-fields').textContent = questionCount;
-    document.getElementById('stat-unique-types').textContent = types.length;
-    document.getElementById('stat-types-list').innerHTML = Object.entries(typeCounts).map(([type, count]) => `
-      <div class="flex justify-between text-sm">
-        <span class="text-xs capitalize text-slate-600 dark:text-slate-400">${escapeHtml(type.replace(/_/g, ' '))}</span>
-        <span class="text-xs font-bold text-slate-900 dark:text-slate-100">${count}</span>
-      </div>`).join('');
-
-    const category = getCurrentCategorySlug().toLowerCase();
-    let tip = 'Keep required fields to a minimum for better completion rates.';
-    if (category.includes('health') || category.includes('medical')) {
-      tip = 'Include a consent section at the start for compliance.';
-    } else if (category.includes('business') || category.includes('commerce')) {
-      tip = 'Add email validation for client contact fields.';
-    } else if (category.includes('survey') || category.includes('research')) {
-      tip = 'Use scale questions and clear labels to improve analysis later.';
-    } else if (category.includes('education') || category.includes('school')) {
-      tip = 'Group related questions into logical sections or note cards.';
-    }
-    document.getElementById('stat-tip').textContent = tip;
   }
 
   function setUrlForPath(formPath) {
@@ -844,7 +930,7 @@
   function hydrateAppLinks(rawUrl) {
     const encodedUrl = rawUrl ? encodeURIComponent(rawUrl) : '';
     const appStoreUrl = 'https://apps.apple.com/us/app/gic-collect/id1485932698';
-    const creatorStoreUrl = 'https://apps.apple.com/app/gic-xlsform-creation/id6737851526';
+    const creatorStoreUrl = 'https://apps.apple.com/ec/app/gic-xlsform-creation/id6754113283';
 
     setLinkState('btn-giccollect', rawUrl ? `giccollect://import-form?url=${encodedUrl}` : '', appStoreUrl);
     setLinkState('btn-giccollectcreator', rawUrl ? `giccollectcreator://open-form?id=${encodedUrl}` : '', creatorStoreUrl);
@@ -863,8 +949,6 @@
     const categoryTitle = slugToTitle(categorySlug);
     const rawUrl = currentFormPath ? `https://raw.githubusercontent.com/dsalazarrojas/forms/main/${currentFormPath}` : '';
 
-    hasXlsForm = Boolean(currentFormPath);
-
     document.getElementById('form-title-sidebar').textContent = title;
     document.getElementById('form-category-sidebar').textContent = categoryTitle;
     document.getElementById('form-meta-sidebar').innerHTML = `
@@ -875,26 +959,21 @@
         <span class="material-symbols-outlined" style="font-size:12px;">language</span>${escapeHtml(language)}
       </span>`;
 
-    document.getElementById('btn-download-yaml').onclick = () => downloadFile(getSuggestedFileName(), currentYaml, 'text/yaml');
-    const xlsxButton = document.getElementById('btn-download-xlsx');
-    if (hasXlsForm) {
-      xlsxButton.classList.remove('hidden');
-      xlsxButton.onclick = () => downloadXlsx();
-    } else {
-      xlsxButton.classList.add('hidden');
-      xlsxButton.onclick = null;
-    }
-
     hydrateAppLinks(rawUrl);
     renderForm(pages);
     document.getElementById('yaml-code').textContent = currentYaml;
     Prism.highlightElement(document.getElementById('yaml-code'));
-    updateStats(pages);
     updateSeoContent(title, categorySlug, pages, language);
     await updateRelatedForms(categorySlug, currentFormPath);
     await fetchAndRenderHelpMd(currentFormPath);
     renderMyForms();
     updateDeploySummary();
+    const publishedRecord = currentLocalFormId && findMyForm(currentLocalFormId);
+    if (publishedRecord && publishedRecord.formId) {
+      renderSharePublishSuccess(publishedRecord);
+    } else {
+      setSharePublishUiState('idle');
+    }
 
     const editorStatus = config.editorStatus || (currentLocalFormId ? 'Saved form ready to edit.' : currentFormPath ? 'Library form ready. Save it to My Forms when you want a local copy.' : 'New form ready. Save it to My Forms when you want to keep it.');
     getCurrentEditor().loadYaml(currentYaml, { markClean: true, statusMessage: editorStatus });
@@ -920,6 +999,14 @@
 
   function saveMyForms(list) {
     localStorage.setItem(STORAGE_KEYS.myForms, JSON.stringify(list));
+  }
+
+  function persistPublishState(localFormId, patch) {
+    const list = getMyForms();
+    const item = list.find(record => record.id === localFormId);
+    if (!item) return;
+    Object.assign(item, patch);
+    saveMyForms(list);
   }
 
   function formatSavedAt(savedAt) {
@@ -951,6 +1038,9 @@
       const parsed = safeParseSavedForm(item.yaml || '');
       const questionCount = parsed.questions.length;
       const title = item.title || parsed.title || 'Untitled Survey';
+      const publishBadge = item.formId
+        ? `<span class="rounded-full ${item.publishStatus === 'paused' ? 'bg-amber-50 text-amber-700 dark:bg-amber-950/40 dark:text-amber-300' : 'bg-emerald-50 text-emerald-700 dark:bg-emerald-950/40 dark:text-emerald-300'} px-2.5 py-1 font-semibold">${item.publishStatus === 'paused' ? 'Paused' : 'Live'}</span><span class="rounded-full bg-slate-100 px-2.5 py-1 font-semibold dark:bg-slate-800" data-response-count-for="${escapeHtml(item.formId)}">…</span>`
+        : '';
       return `
         <article class="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm dark:border-slate-800 dark:bg-slate-900" data-myform-id="${escapeHtml(item.id)}">
           <div class="flex flex-col gap-4 lg:flex-row lg:items-start lg:justify-between">
@@ -960,6 +1050,7 @@
               <div class="mt-2 flex flex-wrap items-center gap-2 text-xs text-slate-500 dark:text-slate-400">
                 <span class="rounded-full bg-slate-100 px-2.5 py-1 font-semibold dark:bg-slate-800">${questionCount} question${questionCount === 1 ? '' : 's'}</span>
                 <span class="rounded-full bg-slate-100 px-2.5 py-1 font-semibold dark:bg-slate-800">Saved ${escapeHtml(formatSavedAt(item.savedAt))}</span>
+                ${publishBadge}
               </div>
             </div>
             <div class="flex flex-wrap gap-2">
@@ -970,14 +1061,11 @@
                 <span class="material-symbols-outlined icon-sm">visibility</span>Preview
               </button>
               <button type="button" data-myforms-action="deploy" data-myform-id="${escapeHtml(item.id)}" class="btn-outline" style="width:auto;padding:8px 12px;">
-                <span class="material-symbols-outlined icon-sm">rocket_launch</span>Deploy to Cloudflare
+                <span class="material-symbols-outlined icon-sm">rocket_launch</span>Share
               </button>
-              <button type="button" data-myforms-action="download" data-myform-id="${escapeHtml(item.id)}" class="btn-outline" style="width:auto;padding:8px 12px;">
-                <span class="material-symbols-outlined icon-sm">download</span>Download YAML
-              </button>
-              <button type="button" data-myforms-action="copy" data-myform-id="${escapeHtml(item.id)}" class="btn-outline" style="width:auto;padding:8px 12px;">
-                <span class="material-symbols-outlined icon-sm">content_copy</span>Copy YAML
-              </button>
+              ${item.formId ? `<button type="button" data-myforms-action="responses" data-myform-id="${escapeHtml(item.id)}" class="btn-outline" style="width:auto;padding:8px 12px;">
+                <span class="material-symbols-outlined icon-sm">inbox</span>Responses
+              </button>` : ''}
               <button type="button" data-myforms-action="delete" data-myform-id="${escapeHtml(item.id)}" class="btn-outline" style="width:auto;padding:8px 12px;">
                 <span class="material-symbols-outlined icon-sm">delete</span>Delete
               </button>
@@ -985,6 +1073,23 @@
           </div>
         </article>`;
     }).join('');
+    refreshMyFormsResponseCounts();
+  }
+
+  async function refreshMyFormsResponseCounts() {
+    const forms = getMyForms().filter(item => item.formId && item.mgmtToken);
+    await Promise.all(forms.map(async item => {
+      let displayed = '—';
+      try {
+        const result = await window.GICDeployIntegrations.listResponses(item.formId, item.mgmtToken, { limit: 100 });
+        displayed = `${result.responses.length}${result.hasMore ? '+' : ''}`;
+      } catch (_) {
+        // A missing browser-local management credential is an expected outcome.
+      }
+      responseCountsByFormId[item.formId] = displayed;
+      const countNode = Array.from(document.querySelectorAll('[data-response-count-for]')).find(node => node.dataset.responseCountFor === item.formId);
+      if (countNode) countNode.textContent = displayed;
+    }));
   }
 
   function findMyForm(id) {
@@ -1013,7 +1118,10 @@
       setUrlForPath(currentFormPath);
     }
     await hydrateUiFromCurrentForm({ editorStatus: config.editorStatus });
-    if (config.switchTab) {
+    if (config.switchTab === 'deploy') {
+      switchTab('editor', true);
+      openShareSheet();
+    } else if (config.switchTab) {
       switchTab(config.switchTab, true);
     }
   }
@@ -1045,12 +1153,27 @@
     return true;
   }
 
-  async function saveCurrentFormToMyForms() {
+  async function saveCurrentFormToMyForms(options) {
+    const config = options || {};
+    const silent = Boolean(config.silent);
+    const gate = window.GICProGate;
     const currentEditor = getCurrentEditor();
     const yaml = currentEditor.buildYaml();
     const form = currentEditor.getForm();
     const list = getMyForms();
+
+    // 5-form limit gate for free users
+    const isExisting = list.some(item => item.id === currentLocalFormId);
+    if (silent && !isExisting) {
+      return;
+    }
+    if (!isExisting && gate && !gate.hasProAccess() && list.length >= 5) {
+      gate.showUpgradeModal('pro', 'my_forms_limit');
+      return;
+    }
+
     const id = currentLocalFormId || (typeof crypto !== 'undefined' && crypto.randomUUID ? crypto.randomUUID() : `local-${Date.now()}`);
+    const existingRecord = list.find(item => item.id === id);
     const record = {
       id,
       title: form.title || 'Untitled Survey',
@@ -1059,6 +1182,15 @@
       category: getCurrentCategorySlug(),
       sourcePath: currentFormPath || null
     };
+    const publishPatch = existingRecord && existingRecord.formId
+      ? {
+        formId: existingRecord.formId,
+        mgmtToken: existingRecord.mgmtToken,
+        publishUrl: existingRecord.publishUrl,
+        publishStatus: existingRecord.publishStatus,
+        lastPublishedAt: existingRecord.lastPublishedAt
+      }
+      : null;
     const existingIndex = list.findIndex(item => item.id === id);
     if (existingIndex >= 0) {
       list.splice(existingIndex, 1, record);
@@ -1067,9 +1199,19 @@
     }
     currentLocalFormId = id;
     saveMyForms(list);
+    if (publishPatch) persistPublishState(id, publishPatch);
     renderMyForms();
-    currentEditor.setStatus('Saved to My Forms.');
+    if (!silent) {
+      currentEditor.setStatus('Saved to My Forms.');
+    }
     updateDeploySummary();
+  }
+
+  async function autosaveCurrentFormSilently() {
+    if (!currentLocalFormId) {
+      return;
+    }
+    await saveCurrentFormToMyForms({ silent: true });
   }
 
   async function createNewBlankForm() {
@@ -1103,19 +1245,13 @@
   }
 
   function setupMyFormsHandlers() {
-    const saveButton = document.getElementById('myforms-save-current');
     const newButton = document.getElementById('myforms-new-blank');
     const list = document.getElementById('myforms-list');
 
-    if (saveButton) {
-      saveButton.addEventListener('click', () => {
-        saveCurrentFormFromPage();
-      });
-    }
-
     if (newButton) {
-      newButton.addEventListener('click', () => {
-        createNewBlankForm();
+      newButton.addEventListener('click', async () => {
+        await createNewBlankForm();
+        switchTab('editor', true);
       });
     }
 
@@ -1141,11 +1277,8 @@
           case 'deploy':
             await loadSavedForm(item, 'deploy');
             return;
-          case 'download':
-            downloadFile(`${codec().generateSlug(item.title || 'saved-form') || 'saved-form'}.yaml`, item.yaml, 'text/yaml');
-            return;
-          case 'copy':
-            await copyText(item.yaml || '');
+          case 'responses':
+            openResponsesPanel(item);
             return;
           case 'delete':
             deleteMyForm(item.id);
@@ -1155,6 +1288,257 @@
         }
       });
     }
+  }
+
+  function setSharePublishUiState(state) {
+    const idle = document.getElementById('share-publish-idle');
+    const busy = document.getElementById('share-publish-busy');
+    const success = document.getElementById('share-publish-success');
+    if (!idle || !busy || !success) return;
+    idle.classList.toggle('hidden', state !== 'idle');
+    busy.classList.toggle('hidden', state !== 'busy');
+    success.classList.toggle('hidden', state !== 'success');
+  }
+
+  function friendlyPublishError(error) {
+    const status = error && error.status;
+    if (status === 429) return 'Too many forms published from this network today. Try again tomorrow.';
+    if (status === 403) return (error && error.body && error.body.error) || 'You’ve reached your active form limit. Pause or delete an existing form, or upgrade.';
+    if (status === 404) return 'This form is no longer available to manage from this browser.';
+    if (status === 400) return (error && error.body && error.body.error) || 'This form could not be published — check it has at least one question.';
+    return 'Something went wrong publishing this form. Please try again.';
+  }
+
+  function renderSharePublishSuccess(record) {
+    if (!record || !record.formId || !record.publishUrl) return;
+    const link = document.getElementById('share-publish-link');
+    const qrHolder = document.getElementById('share-qr-holder');
+    const badge = document.getElementById('share-publish-status-badge');
+    if (link) link.value = record.publishUrl;
+    if (qrHolder && window.GICQr) qrHolder.innerHTML = window.GICQr.renderSvg(record.publishUrl, { size: 160 });
+    if (badge) {
+      const paused = record.publishStatus === 'paused';
+      badge.classList.toggle('bg-emerald-50', !paused);
+      badge.classList.toggle('text-emerald-700', !paused);
+      badge.classList.toggle('dark:bg-emerald-950/40', !paused);
+      badge.classList.toggle('dark:text-emerald-300', !paused);
+      badge.classList.toggle('bg-amber-50', paused);
+      badge.classList.toggle('text-amber-700', paused);
+      badge.classList.toggle('dark:bg-amber-950/40', paused);
+      badge.classList.toggle('dark:text-amber-300', paused);
+      badge.innerHTML = `<span class="material-symbols-outlined" style="font-size:14px;">${paused ? 'pause_circle' : 'check_circle'}</span>${paused ? 'Paused' : 'Live'}`;
+    }
+    setSharePublishUiState('success');
+  }
+
+  async function handlePublishClick() {
+    const form = getCurrentEditor().getForm();
+    if (!currentLocalFormId) {
+      await saveCurrentFormToMyForms();
+      if (!currentLocalFormId) return;
+    }
+    const errorEl = document.getElementById('share-publish-error');
+    setSharePublishUiState('busy');
+    if (errorEl) {
+      errorEl.classList.add('hidden');
+      errorEl.textContent = '';
+    }
+    try {
+      const record = findMyForm(currentLocalFormId);
+      if (record && record.formId && record.mgmtToken) {
+        await window.GICDeployIntegrations.updateForm(record.formId, record.mgmtToken, form);
+        persistPublishState(currentLocalFormId, { publishStatus: 'live', lastPublishedAt: new Date().toISOString() });
+      } else {
+        const result = await window.GICDeployIntegrations.publishForm(form);
+        persistPublishState(currentLocalFormId, { formId: result.formId, mgmtToken: result.mgmtToken, publishUrl: result.url, publishStatus: 'live', lastPublishedAt: new Date().toISOString() });
+      }
+      renderSharePublishSuccess(findMyForm(currentLocalFormId));
+      renderMyForms();
+    } catch (error) {
+      if (errorEl) {
+        errorEl.innerHTML = escapeHtml(friendlyPublishError(error));
+        errorEl.classList.remove('hidden');
+      }
+      setSharePublishUiState('idle');
+    }
+  }
+
+  function initSharePublish() {
+    const publishButton = document.getElementById('share-publish-btn');
+    const copyButton = document.getElementById('share-copy-link-btn');
+    const republishButton = document.getElementById('share-republish-btn');
+    if (publishButton) publishButton.addEventListener('click', handlePublishClick);
+    if (republishButton) republishButton.addEventListener('click', handlePublishClick);
+    if (copyButton) copyButton.addEventListener('click', async () => {
+      const link = document.getElementById('share-publish-link');
+      const copied = await copyText(link ? link.value : '');
+      flashCopyState(copyButton, copied ? '<span class="material-symbols-outlined icon-sm">check</span>Copied' : `<span class="material-symbols-outlined icon-sm">error</span>${escapeHtml(getClipboardFailureMessage())}`);
+    });
+  }
+
+  function updateResponsesPauseButton(status) {
+    const button = document.getElementById('responses-pause-btn');
+    if (!button) return;
+    const paused = status === 'paused';
+    button.dataset.publishStatus = paused ? 'paused' : 'live';
+    button.innerHTML = `<span class="material-symbols-outlined icon-sm">${paused ? 'play_circle' : 'pause_circle'}</span>${paused ? 'Resume' : 'Pause'}`;
+  }
+
+  async function openResponsesPanel(myFormsItem) {
+    responsesPanelState = { formId: myFormsItem.formId, mgmtToken: myFormsItem.mgmtToken, cursor: null, items: [], hasMore: false, localFormId: myFormsItem.id };
+    const title = document.getElementById('responses-panel-title');
+    if (title) title.innerHTML = `Responses: ${escapeHtml(myFormsItem.title || 'Untitled Survey')}`;
+    updateResponsesPauseButton(myFormsItem.publishStatus);
+    const panel = document.getElementById('panel-responses');
+    if (panel) {
+      panel.classList.remove('translate-x-full');
+      panel.classList.add('translate-x-0');
+    }
+    const overlay = document.getElementById('responses-overlay');
+    if (overlay) overlay.classList.remove('hidden');
+    await loadResponsesPage();
+  }
+
+  function closeResponsesPanel() {
+    const panel = document.getElementById('panel-responses');
+    if (panel) {
+      panel.classList.remove('translate-x-0');
+      panel.classList.add('translate-x-full');
+    }
+    const overlay = document.getElementById('responses-overlay');
+    if (overlay) overlay.classList.add('hidden');
+  }
+
+  function openShareSheet() {
+    const panel = document.getElementById('panel-share');
+    if (panel) {
+      panel.classList.remove('translate-x-full');
+      panel.classList.add('translate-x-0');
+    }
+    const overlay = document.getElementById('share-overlay');
+    if (overlay) overlay.classList.remove('hidden');
+  }
+
+  function closeShareSheet() {
+    const panel = document.getElementById('panel-share');
+    if (panel) {
+      panel.classList.remove('translate-x-0');
+      panel.classList.add('translate-x-full');
+    }
+    const overlay = document.getElementById('share-overlay');
+    if (overlay) overlay.classList.add('hidden');
+  }
+
+  function openYamlSourceModal() {
+    const modal = document.getElementById('modal-yaml-source');
+    if (modal) modal.classList.remove('hidden');
+  }
+
+  function closeYamlSourceModal() {
+    const modal = document.getElementById('modal-yaml-source');
+    if (modal) modal.classList.add('hidden');
+  }
+
+  function setupShareSheetHandlers() {
+    const shareButton = document.getElementById('btn-share');
+    const closeButton = document.getElementById('share-close-btn');
+    const overlay = document.getElementById('share-overlay');
+    if (shareButton) shareButton.addEventListener('click', openShareSheet);
+    if (closeButton) closeButton.addEventListener('click', closeShareSheet);
+    if (overlay) overlay.addEventListener('click', closeShareSheet);
+  }
+
+  function setupYamlSourceModalHandlers() {
+    const viewButton = document.getElementById('btn-view-yaml-source');
+    const closeButton = document.getElementById('yaml-source-close-btn');
+    const overlay = document.getElementById('yaml-source-overlay');
+    if (viewButton) viewButton.addEventListener('click', openYamlSourceModal);
+    if (closeButton) closeButton.addEventListener('click', closeYamlSourceModal);
+    if (overlay) overlay.addEventListener('click', closeYamlSourceModal);
+  }
+
+  async function loadResponsesPage(append) {
+    const body = document.getElementById('responses-list-body');
+    try {
+      const result = await window.GICDeployIntegrations.listResponses(responsesPanelState.formId, responsesPanelState.mgmtToken, { limit: 25, cursor: append ? responsesPanelState.cursor : null });
+      responsesPanelState.items = append ? responsesPanelState.items.concat(result.responses) : result.responses;
+      responsesPanelState.cursor = result.cursor;
+      responsesPanelState.hasMore = result.hasMore;
+      renderResponsesList();
+    } catch (_) {
+      if (body) body.innerHTML = '<p class="text-sm text-slate-500 dark:text-slate-400">Couldn’t load responses — try again.</p>';
+    }
+  }
+
+  function renderResponsesList() {
+    const body = document.getElementById('responses-list-body');
+    const loadMore = document.getElementById('responses-load-more-btn');
+    if (!body) return;
+    if (!responsesPanelState.items.length) {
+      body.innerHTML = '<div class="rounded-xl border border-dashed border-slate-300 p-5 text-center dark:border-slate-700"><p class="text-sm text-slate-500 dark:text-slate-400">No responses yet. Share your form to get your first one.</p><button type="button" data-responses-share class="btn-outline mt-3" style="width:auto;padding:7px 12px;font-size:12px;">Share form</button></div>';
+    } else {
+      body.innerHTML = responsesPanelState.items.map(item => {
+        const answerSummary = Object.entries(item.answers || {}).slice(0, 3).map(([key, value]) => `${escapeHtml(key)}: ${escapeHtml(Array.isArray(value) ? value.join(', ') : value)}`).join(' · ');
+        return `<div class="flex items-start justify-between gap-3 border-b border-slate-200 py-3 last:border-0 dark:border-slate-800"><div class="min-w-0"><p class="text-xs text-slate-500 dark:text-slate-400">${escapeHtml(formatSavedAt(item.submittedAt))}</p><p class="mt-1 truncate text-sm text-slate-700 dark:text-slate-200">${answerSummary || 'No answers recorded'}</p></div><button type="button" data-response-key="${escapeHtml(item.key)}" class="btn-outline flex-shrink-0" style="width:auto;padding:6px 10px;font-size:12px;">Delete</button></div>`;
+      }).join('');
+    }
+    if (loadMore) loadMore.classList.toggle('hidden', !responsesPanelState.hasMore);
+  }
+
+  function setupResponsesPanelHandlers() {
+    const closeButton = document.getElementById('responses-close-btn');
+    const overlay = document.getElementById('responses-overlay');
+    const loadMore = document.getElementById('responses-load-more-btn');
+    const pauseButton = document.getElementById('responses-pause-btn');
+    const exportButton = document.getElementById('responses-export-btn');
+    const body = document.getElementById('responses-list-body');
+    if (closeButton) closeButton.addEventListener('click', closeResponsesPanel);
+    if (overlay) overlay.addEventListener('click', closeResponsesPanel);
+    if (loadMore) loadMore.addEventListener('click', () => loadResponsesPage(true));
+    if (body) body.addEventListener('click', async event => {
+      if (event.target.closest('[data-responses-share]')) {
+        closeResponsesPanel();
+        openShareSheet();
+        return;
+      }
+      const deleteButton = event.target.closest('[data-response-key]');
+      if (!deleteButton || !window.confirm('Delete this response?')) return;
+      const key = deleteButton.dataset.responseKey;
+      try {
+        await window.GICDeployIntegrations.deleteResponse(responsesPanelState.formId, responsesPanelState.mgmtToken, key);
+        responsesPanelState.items = responsesPanelState.items.filter(item => item.key !== key);
+        renderResponsesList();
+      } catch (error) {
+        window.alert(friendlyPublishError(error));
+      }
+    });
+    if (pauseButton) pauseButton.addEventListener('click', async () => {
+      const resume = pauseButton.dataset.publishStatus === 'paused';
+      try {
+        const result = await window.GICDeployIntegrations.pauseForm(responsesPanelState.formId, responsesPanelState.mgmtToken, resume);
+        persistPublishState(responsesPanelState.localFormId, { publishStatus: result.status });
+        updateResponsesPauseButton(result.status);
+        renderMyForms();
+        if (currentLocalFormId === responsesPanelState.localFormId) renderSharePublishSuccess(findMyForm(currentLocalFormId));
+      } catch (error) {
+        window.alert(friendlyPublishError(error));
+      }
+    });
+    if (exportButton) exportButton.addEventListener('click', async () => {
+      try {
+        const result = await window.GICDeployIntegrations.exportResponsesCsv(responsesPanelState.formId, responsesPanelState.mgmtToken);
+        const url = URL.createObjectURL(result.blob);
+        const anchor = document.createElement('a');
+        anchor.href = url;
+        anchor.download = result.filename;
+        document.body.appendChild(anchor);
+        anchor.click();
+        document.body.removeChild(anchor);
+        URL.revokeObjectURL(url);
+      } catch (error) {
+        window.alert(friendlyPublishError(error));
+      }
+    });
   }
 
   function sanitizeWorkerName(input) {
@@ -1185,6 +1569,13 @@
       return payload.message;
     }
     return fallback || `Cloudflare request failed (HTTP ${status}).`;
+  }
+
+  function getDeployWebhooks() {
+    return getWebhooks().map(hook => ({
+      url: String(hook?.url || '').trim(),
+      secret: String(hook?.secret || '').trim()
+    })).filter(hook => hook.url);
   }
 
   function setDeployStatus(options) {
@@ -1222,7 +1613,9 @@
           const copied = await copyText(options.url);
           if (copied) {
             copyButton.innerHTML = '<span class="material-symbols-outlined icon-sm">check</span>Copied';
+            return;
           }
+          copyButton.innerHTML = `<span class="material-symbols-outlined icon-sm">error</span>${escapeHtml(getClipboardFailureMessage())}`;
         }, { once: true });
       }
     }
@@ -1256,8 +1649,16 @@
       workerNameField.value = workerName;
     }
 
-    const script = window.GICCloudflareWorker.createWorkerScript(form, { yaml });
+    const webhooks = getDeployWebhooks();
+    const script = window.GICCloudflareWorker.createWorkerScript(form, { yaml, webhooks });
     const endpoint = `https://api.cloudflare.com/client/v4/accounts/${encodeURIComponent(accountId)}/workers/scripts/${encodeURIComponent(workerName)}`;
+    const metadata = {
+      main_module: 'worker.js',
+      compatibility_date: '2024-01-01'
+    };
+    const payloadBody = new FormData();
+    payloadBody.append('metadata', JSON.stringify(metadata));
+    payloadBody.append('worker.js', new Blob([script], { type: 'application/javascript' }), 'worker.js');
 
     if (deployButton) {
       deployButton.disabled = true;
@@ -1269,10 +1670,9 @@
       const response = await fetch(endpoint, {
         method: 'PUT',
         headers: {
-          Authorization: `Bearer ${apiToken}`,
-          'Content-Type': 'application/javascript'
+          Authorization: `Bearer ${apiToken}`
         },
-        body: script
+        body: payloadBody
       });
 
       const responseText = await response.text();
@@ -1288,6 +1688,8 @@
       }
 
       const deployedUrl = inferDeployUrl(workerName, subdomain, payload);
+      localStorage.setItem('gic-last-deployed-url', deployedUrl);
+      hydrateAppLinks(deployedUrl);
       setDeployStatus({
         type: 'success',
         message: 'Your questionnaire is now deployed to Cloudflare Workers.',
@@ -1304,7 +1706,92 @@
     }
   }
 
+  function setPlatformStatus(statusId, type, message, url) {
+    const el = document.getElementById(statusId);
+    if (!el) return;
+    el.classList.remove('hidden');
+    const tones = {
+      success: 'bg-green-50 text-green-800 dark:bg-green-950/40 dark:text-green-300',
+      error: 'bg-red-50 text-red-800 dark:bg-red-950/40 dark:text-red-300',
+      info: 'bg-slate-50 text-slate-700 dark:bg-slate-800 dark:text-slate-300'
+    };
+    el.className = `mt-3 rounded-xl px-4 py-3 text-sm ${tones[type] || tones.info}`;
+    el.innerHTML = escapeHtml(message) + (url ? ` <a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer" class="ml-2 underline font-medium">Open →</a>` : '');
+  }
+
+  function setPlatformBusy(btnId, busy) {
+    const btn = document.getElementById(btnId);
+    if (!btn) return;
+    btn.disabled = busy;
+    btn.classList.toggle('opacity-70', busy);
+    btn.classList.toggle('cursor-not-allowed', busy);
+  }
+
+  function persistField(inputId, storageKey, useSession) {
+    const el = document.getElementById(inputId);
+    if (!el) return;
+    el.value = (useSession ? sessionStorage : localStorage).getItem(storageKey) || '';
+    el.addEventListener('input', () => {
+      (useSession ? sessionStorage : localStorage).setItem(storageKey, el.value);
+    });
+  }
+
+  function updatePlatformTokenConsentCopy() {
+    const helper = document.getElementById('remember-platform-tokens-helper');
+    if (!helper) return;
+    helper.textContent = 'Tally, Formbricks, ONA, Kobo, and Cloudflare tokens are stored in session storage only and are cleared when the browser session ends.';
+  }
+
+  function syncPlatformTokenStorage() {
+    const primary = sessionStorage;
+    const secondary = localStorage;
+
+    const cloudflareToken = localStorage.getItem(STORAGE_KEYS.cfApiToken);
+    if (cloudflareToken && !sessionStorage.getItem(STORAGE_KEYS.cfApiToken)) {
+      sessionStorage.setItem(STORAGE_KEYS.cfApiToken, cloudflareToken);
+    }
+    localStorage.removeItem(STORAGE_KEYS.cfApiToken);
+
+    PLATFORM_TOKEN_FIELDS.forEach(({ inputId, storageKey }) => {
+      const input = document.getElementById(inputId);
+      const currentValue = (input?.value || '').trim();
+      const storedValue = currentValue || primary.getItem(storageKey) || secondary.getItem(storageKey) || '';
+
+      primary.removeItem(storageKey);
+      secondary.removeItem(storageKey);
+
+      if (storedValue) {
+        primary.setItem(storageKey, storedValue);
+      }
+
+      if (input) {
+        input.value = storedValue;
+      }
+    });
+  }
+
+  function persistSecretField(inputId, storageKey) {
+    const el = document.getElementById(inputId);
+    if (!el) return;
+
+    const primary = sessionStorage;
+    const secondary = localStorage;
+    el.value = primary.getItem(storageKey) || secondary.getItem(storageKey) || '';
+
+    el.addEventListener('input', () => {
+      const value = el.value;
+
+      localStorage.removeItem(storageKey);
+      if (value) {
+        sessionStorage.setItem(storageKey, value);
+      } else {
+        sessionStorage.removeItem(storageKey);
+      }
+    });
+  }
+
   function initDeployControls() {
+    // ── Cloudflare Workers (existing) ────────────────────────────────────
     const accountIdField = document.getElementById('cf-account-id');
     const apiTokenField = document.getElementById('cf-api-token');
     const subdomainField = document.getElementById('cf-workers-subdomain');
@@ -1318,9 +1805,15 @@
     }
 
     if (apiTokenField) {
-      apiTokenField.value = sessionStorage.getItem(STORAGE_KEYS.cfApiToken) || '';
+      apiTokenField.value = sessionStorage.getItem(STORAGE_KEYS.cfApiToken) || localStorage.getItem(STORAGE_KEYS.cfApiToken) || '';
+      localStorage.removeItem(STORAGE_KEYS.cfApiToken);
       apiTokenField.addEventListener('input', () => {
-        sessionStorage.setItem(STORAGE_KEYS.cfApiToken, apiTokenField.value);
+        if (apiTokenField.value) {
+          sessionStorage.setItem(STORAGE_KEYS.cfApiToken, apiTokenField.value);
+        } else {
+          sessionStorage.removeItem(STORAGE_KEYS.cfApiToken);
+        }
+        localStorage.removeItem(STORAGE_KEYS.cfApiToken);
       });
     }
 
@@ -1337,6 +1830,212 @@
       });
     }
 
+    // ── YAML download button in deploy tab ───────────────────────────────
+    const yamlDeployBtn = document.getElementById('btn-download-yaml-deploy');
+    if (yamlDeployBtn) {
+      yamlDeployBtn.addEventListener('click', () => {
+        downloadFile(getSuggestedFileName(), currentYaml, 'text/yaml');
+      });
+    }
+
+    // ── Platform panel toggles ───────────────────────────────────────────
+    document.querySelectorAll('.dp-toggle-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const targetId = btn.getAttribute('data-target');
+        const panel = document.getElementById(targetId);
+        if (!panel) return;
+        panel.classList.toggle('hidden');
+        const isOpen = !panel.classList.contains('hidden');
+        btn.innerHTML = btn.innerHTML.replace(
+          /(settings|login|close)/,
+          isOpen ? 'close' : (targetId.includes('gform') || targetId.includes('gsheet') ? 'login' : 'settings')
+        );
+      });
+    });
+
+    // ── Persist platform credentials ─────────────────────────────────────
+    persistSecretField('dp-tally-token', 'gic-tally-token');
+    persistSecretField('dp-formbricks-key', 'gic-formbricks-key');
+    persistField('dp-formbricks-env', 'gic-formbricks-env', false);
+    persistField('dp-formbricks-host', 'gic-formbricks-host', false);
+    persistSecretField('dp-ona-token', 'gic-ona-token');
+    persistField('dp-ona-project', 'gic-ona-project', false);
+    persistSecretField('dp-kobo-token', 'gic-kobo-token');
+    persistField('dp-kobo-server', 'gic-kobo-server', false);
+    syncPlatformTokenStorage();
+    updatePlatformTokenConsentCopy();
+
+    // ── Tally deploy ─────────────────────────────────────────────────────
+    const tallyBtn = document.getElementById('dp-tally-btn');
+    if (tallyBtn) {
+      tallyBtn.addEventListener('click', async () => {
+        const token = document.getElementById('dp-tally-token')?.value?.trim();
+        if (!token) {
+          setPlatformStatus('dp-tally-status', 'error', 'Please enter your Tally API token.');
+          return;
+        }
+        if (!currentForm) {
+          setPlatformStatus('dp-tally-status', 'error', 'Load a form before deploying.');
+          return;
+        }
+        if (!window.GICDeployIntegrations) {
+          setPlatformStatus('dp-tally-status', 'error', 'Deploy integrations not loaded.');
+          return;
+        }
+        setPlatformBusy('dp-tally-btn', true);
+        setPlatformStatus('dp-tally-status', 'info', 'Creating Tally form…');
+        try {
+          const result = await window.GICDeployIntegrations.deployToTally(currentForm, token);
+          setPlatformStatus('dp-tally-status', 'success', 'Tally form created!', result.url);
+        } catch (err) {
+          setPlatformStatus('dp-tally-status', 'error', err.message || 'Tally deployment failed.');
+        } finally {
+          setPlatformBusy('dp-tally-btn', false);
+        }
+      });
+    }
+
+    // ── Formbricks deploy ─────────────────────────────────────────────────
+    const formbricksBtn = document.getElementById('dp-formbricks-btn');
+    if (formbricksBtn) {
+      formbricksBtn.addEventListener('click', async () => {
+        const key = document.getElementById('dp-formbricks-key')?.value?.trim();
+        const env = document.getElementById('dp-formbricks-env')?.value?.trim();
+        const host = document.getElementById('dp-formbricks-host')?.value?.trim();
+        if (!key || !env) {
+          setPlatformStatus('dp-formbricks-status', 'error', 'Please enter your Formbricks API key and Environment ID.');
+          return;
+        }
+        if (!currentForm) {
+          setPlatformStatus('dp-formbricks-status', 'error', 'Load a form before deploying.');
+          return;
+        }
+        if (!window.GICDeployIntegrations) {
+          setPlatformStatus('dp-formbricks-status', 'error', 'Deploy integrations not loaded.');
+          return;
+        }
+        setPlatformBusy('dp-formbricks-btn', true);
+        setPlatformStatus('dp-formbricks-status', 'info', 'Creating Formbricks survey…');
+        try {
+          const result = await window.GICDeployIntegrations.deployToFormbricks(currentForm, key, env, host);
+          setPlatformStatus('dp-formbricks-status', 'success', 'Formbricks survey created!', result.url);
+        } catch (err) {
+          setPlatformStatus('dp-formbricks-status', 'error', err.message || 'Formbricks deployment failed.');
+        } finally {
+          setPlatformBusy('dp-formbricks-btn', false);
+        }
+      });
+    }
+
+    // ── ONA.io upload ─────────────────────────────────────────────────────
+    const onaBtn = document.getElementById('dp-ona-btn');
+    if (onaBtn) {
+      onaBtn.addEventListener('click', async () => {
+        const token = document.getElementById('dp-ona-token')?.value?.trim();
+        const project = document.getElementById('dp-ona-project')?.value?.trim();
+        if (!token) {
+          setPlatformStatus('dp-ona-status', 'error', 'Please enter your ONA.io API token.');
+          return;
+        }
+        if (!currentForm || !window.GICDeployIntegrations) {
+          setPlatformStatus('dp-ona-status', 'error', 'Load a form before uploading.');
+          return;
+        }
+        setPlatformBusy('dp-ona-btn', true);
+        setPlatformStatus('dp-ona-status', 'info', 'Uploading XLSForm to ONA.io…');
+        try {
+          const result = await window.GICDeployIntegrations.uploadToONA(currentForm, token, project);
+          const msg = result.enketoUrl
+            ? 'Uploaded! Enketo preview available.'
+            : 'Form uploaded to ONA.io.';
+          setPlatformStatus('dp-ona-status', 'success', msg, result.enketoUrl || result.url);
+        } catch (err) {
+          setPlatformStatus('dp-ona-status', 'error', err.message || 'ONA upload failed.');
+        } finally {
+          setPlatformBusy('dp-ona-btn', false);
+        }
+      });
+    }
+
+    // ── KoboToolbox upload ────────────────────────────────────────────────
+    const koboBtn = document.getElementById('dp-kobo-btn');
+    if (koboBtn) {
+      koboBtn.addEventListener('click', async () => {
+        const token = document.getElementById('dp-kobo-token')?.value?.trim();
+        const server = document.getElementById('dp-kobo-server')?.value?.trim();
+        if (!token) {
+          setPlatformStatus('dp-kobo-status', 'error', 'Please enter your KoboToolbox API token.');
+          return;
+        }
+        if (!currentForm || !window.GICDeployIntegrations) {
+          setPlatformStatus('dp-kobo-status', 'error', 'Load a form before uploading.');
+          return;
+        }
+        setPlatformBusy('dp-kobo-btn', true);
+        setPlatformStatus('dp-kobo-status', 'info', 'Uploading XLSForm to KoboToolbox…');
+        try {
+          const result = await window.GICDeployIntegrations.uploadToKobo(currentForm, token, server);
+          setPlatformStatus('dp-kobo-status', 'success', 'Form uploaded to KoboToolbox!', result.url);
+        } catch (err) {
+          setPlatformStatus('dp-kobo-status', 'error', err.message || 'Kobo upload failed.');
+        } finally {
+          setPlatformBusy('dp-kobo-btn', false);
+        }
+      });
+    }
+
+    // ── Google OAuth + Forms + Sheets ─────────────────────────────────────
+    const googleConnectBtn = document.getElementById('dp-google-connect-btn');
+    const gformsBtn = document.getElementById('dp-gforms-btn');
+    const gsheetsBtn = document.getElementById('dp-gsheets-btn');
+
+    if (googleConnectBtn && window.GICDeployIntegrations) {
+      googleConnectBtn.addEventListener('click', async () => {
+        try {
+          await window.GICDeployIntegrations.connectGoogle();
+          const el = document.getElementById('dp-google-status');
+          if (el) el.textContent = 'Connected to Google.';
+          if (gformsBtn) { gformsBtn.disabled = false; gformsBtn.classList.remove('opacity-50', 'cursor-not-allowed'); }
+          if (gsheetsBtn) { gsheetsBtn.disabled = false; gsheetsBtn.classList.remove('opacity-50', 'cursor-not-allowed'); }
+        } catch (err) {
+          const el = document.getElementById('dp-google-status');
+          if (el) el.textContent = 'Google sign-in failed: ' + (err.message || 'Unknown error');
+        }
+      });
+    }
+
+    if (gformsBtn && window.GICDeployIntegrations) {
+      gformsBtn.addEventListener('click', async () => {
+        if (!currentForm) { setPlatformStatus('dp-gforms-status', 'error', 'Load a form first.'); return; }
+        setPlatformBusy('dp-gforms-btn', true);
+        setPlatformStatus('dp-gforms-status', 'info', 'Creating Google Form…');
+        try {
+          const result = await window.GICDeployIntegrations.createGoogleForm(currentForm);
+          setPlatformStatus('dp-gforms-status', 'success', 'Google Form created!', result.url);
+        } catch (err) {
+          setPlatformStatus('dp-gforms-status', 'error', err.message || 'Google Forms failed.');
+        } finally {
+          setPlatformBusy('dp-gforms-btn', false);
+        }
+      });
+    }
+
+    if (gsheetsBtn && window.GICDeployIntegrations) {
+      gsheetsBtn.addEventListener('click', async () => {
+        if (!currentForm) { setPlatformStatus('dp-gsheets-status', 'error', 'Load a form first.'); return; }
+        setPlatformBusy('dp-gsheets-btn', true);
+        setPlatformStatus('dp-gsheets-status', 'info', 'Exporting to Google Sheets…');
+        try {
+          const result = await window.GICDeployIntegrations.createGoogleSheet(currentForm);
+          setPlatformStatus('dp-gsheets-status', 'success', 'Google Sheet created!', result.url);
+        } catch (err) {
+          setPlatformStatus('dp-gsheets-status', 'error', err.message || 'Google Sheets export failed.');
+        } finally {
+          setPlatformBusy('dp-gsheets-btn', false);
+        }
+      });
+    }
+
     updateDeploySummary();
   }
 
@@ -1344,6 +2043,7 @@
     if (!isValidRemoteFormPath(formPath)) {
       throw new Error('Invalid form path specified.');
     }
+    renderPreviewLoading('Loading form from GitHub...');
     const response = await fetch(`https://raw.githubusercontent.com/dsalazarrojas/forms/main/${formPath}`);
     if (!response.ok) {
       throw new Error(`Form not found (HTTP ${response.status}).`);
@@ -1363,13 +2063,29 @@
     setupTabs();
     setupMyFormsHandlers();
     initDeployControls();
-    document.getElementById('btn-copy-yaml').addEventListener('click', copyYaml);
+    initSharePublish();
+    setupShareSheetHandlers();
+    setupYamlSourceModalHandlers();
+    setupResponsesPanelHandlers();
+    initCreateTab();
+    initAiEditPanel();
+    initSmImport();
+    initSmExport();
+    initEmbedCode();
+    initWebhooks();
+    initPlanBadge();
+    const copyYamlButton = document.getElementById('btn-copy-yaml');
+    if (copyYamlButton) copyYamlButton.addEventListener('click', copyYaml);
 
     getCurrentEditor();
 
     const formPath = new URLSearchParams(window.location.search).get('form');
     if (formPath) {
       currentFormPath = isValidRemoteFormPath(formPath) ? formPath : null;
+      const titleEl = document.getElementById('form-title-sidebar');
+      if (titleEl) {
+        titleEl.textContent = 'Loading form...';
+      }
       try {
         await loadRemoteForm(formPath);
       } catch (error) {
@@ -1387,9 +2103,529 @@
         document.getElementById('form-title-sidebar').textContent = 'Error loading form';
       }
     } else {
-      await createNewBlankForm();
       const requestedTab = parseRequestedTab();
-      switchTab(requestedTab === 'preview' ? 'editor' : requestedTab, false);
+      const validTabs = ['preview', 'editor', 'myforms'];
+      const safeTab = validTabs.includes(requestedTab) ? requestedTab : 'myforms';
+      if (safeTab === 'myforms' || safeTab === 'preview') {
+        const titleEl = document.getElementById('form-title-sidebar');
+        if (titleEl) titleEl.textContent = 'My Forms';
+        renderMyForms();
+        switchTab('myforms', false);
+      } else {
+        await createNewBlankForm();
+        switchTab(safeTab, false);
+      }
+    }
+  }
+
+  // ─── AI Create Tab ───────────────────────────────────────────────────────────
+
+  function initCreateTab() {
+    const generateBtn = document.getElementById('btn-generate');
+    const loadBtn = document.getElementById('btn-load-generated');
+    const promptEl = document.getElementById('create-prompt');
+    const bridgeNote = document.getElementById('create-bridge-note');
+
+    // Show bridge note if not configured
+    if (window.GICDeployIntegrations && !window.GICDeployIntegrations.getBridgeUrl()) {
+      bridgeNote?.classList.remove('hidden');
+    }
+
+    if (generateBtn) {
+      generateBtn.addEventListener('click', handleGenerate);
+    }
+
+    if (loadBtn) {
+      loadBtn.addEventListener('click', loadGeneratedForm);
+    }
+
+    if (promptEl) {
+      promptEl.addEventListener('keydown', event => {
+        if (event.key === 'Enter' && (event.ctrlKey || event.metaKey)) {
+          handleGenerate();
+        }
+      });
+    }
+  }
+
+  let lastGeneratedYaml = '';
+
+  async function handleGenerate() {
+    const gate = window.GICProGate;
+    const integrations = window.GICDeployIntegrations;
+    const promptEl = document.getElementById('create-prompt');
+    const prompt = (promptEl?.value || '').trim();
+
+    if (!prompt) {
+      promptEl?.focus();
+      return;
+    }
+
+    // Access check
+    if (gate && !gate.hasAIAccess()) {
+      gate.showUpgradeModal('pro', 'ai_credits_exhausted');
+      return;
+    }
+
+    // Bridge not configured — show informational note only
+    if (!integrations || !integrations.getBridgeUrl()) {
+      document.getElementById('create-bridge-note')?.classList.remove('hidden');
+      return;
+    }
+
+    const generateBtn = document.getElementById('btn-generate');
+    const btnLabel = document.getElementById('btn-generate-label');
+    const outputPanel = document.getElementById('create-output-panel');
+    const outputCode = document.getElementById('create-output-code');
+    const outputPre = document.getElementById('create-output-pre');
+    const statusLabel = document.getElementById('create-status-label');
+    const loadBtn = document.getElementById('btn-load-generated');
+
+    generateBtn.disabled = true;
+    if (btnLabel) btnLabel.textContent = 'Generating…';
+    outputPanel?.classList.remove('hidden');
+    if (outputCode) outputCode.textContent = '';
+    if (statusLabel) { statusLabel.textContent = 'Generating…'; statusLabel.classList.remove('hidden'); }
+    loadBtn?.classList.add('hidden');
+    lastGeneratedYaml = '';
+
+    let isFreeCreditUser = gate && !gate.hasProAccess() && !gate.getBYOKey();
+
+    try {
+      const fullYaml = await integrations.aiCreateStream(prompt, (chunk, full) => {
+        streamToPanel(full, outputCode);
+      });
+
+      lastGeneratedYaml = fullYaml;
+      if (statusLabel) { statusLabel.textContent = 'Done'; statusLabel.classList.remove('animate-pulse'); }
+      loadBtn?.classList.remove('hidden');
+
+      // Decrement free credit if applicable
+      if (isFreeCreditUser && gate) {
+        const remaining = gate.useFreeCredit();
+        gate.updateCreditBadge();
+        if (remaining === 0) {
+          gate.showUpgradeModal('pro', 'ai_credits_exhausted');
+        }
+      }
+    } catch (err) {
+      if (err.authRequired && gate) {
+        gate.showUpgradeModal('pro', 'ai_credits_exhausted');
+      } else {
+        if (statusLabel) statusLabel.textContent = `Error: ${err.message || 'Generation failed'}`;
+      }
+    } finally {
+      generateBtn.disabled = false;
+      if (btnLabel) btnLabel.textContent = 'Generate Form';
+    }
+  }
+
+  function streamToPanel(fullText, codeEl) {
+    if (!codeEl) return;
+    codeEl.textContent = fullText;
+    if (window.Prism) {
+      codeEl.className = 'language-yaml text-sm';
+      window.Prism.highlightElement(codeEl);
+    }
+    const pre = codeEl.closest('pre');
+    if (pre) pre.scrollTop = pre.scrollHeight;
+  }
+
+  async function loadGeneratedForm() {
+    if (!lastGeneratedYaml) return;
+    try {
+      await loadYamlDocument(lastGeneratedYaml, {
+        formPath: null,
+        localFormId: null,
+        category: 'custom_forms',
+        updateUrl: true,
+        editorStatus: 'AI-generated form loaded. Save it to My Forms to keep it.',
+        switchTab: 'editor'
+      });
+    } catch (err) {
+      alert('Could not load generated form: ' + err.message);
+    }
+  }
+
+  // ─── AI Edit Panel ────────────────────────────────────────────────────────────
+
+  let preAiEditYaml = '';
+
+  function initAiEditPanel() {
+    const applyBtn = document.getElementById('btn-ai-apply');
+    const undoBtn = document.getElementById('btn-ai-undo');
+    const statusEl = document.getElementById('ai-edit-status');
+    const creditBadge = document.getElementById('ai-edit-credit-badge');
+
+    function updateEditCreditBadge() {
+      if (!creditBadge) return;
+      const gate = window.GICProGate;
+      if (!gate || gate.hasProAccess() || gate.getBYOKey()) {
+        creditBadge.textContent = '';
+        return;
+      }
+      const credits = gate.getFreeCredits();
+      creditBadge.textContent = `${credits} free use${credits !== 1 ? 's' : ''} left`;
+    }
+    updateEditCreditBadge();
+
+    if (applyBtn) {
+      applyBtn.addEventListener('click', async () => {
+        const gate = window.GICProGate;
+        const integrations = window.GICDeployIntegrations;
+        const promptEl = document.getElementById('ai-edit-prompt');
+        const instruction = (promptEl?.value || '').trim();
+
+        if (!instruction) { promptEl?.focus(); return; }
+
+        if (gate && !gate.hasAIAccess()) {
+          gate.showUpgradeModal('pro', 'ai_credits_exhausted');
+          return;
+        }
+
+        if (!integrations || !integrations.getBridgeUrl()) {
+          if (statusEl) statusEl.textContent = 'AI not configured yet.';
+          return;
+        }
+
+        const yaml = currentYaml;
+        if (!yaml) { if (statusEl) statusEl.textContent = 'No form loaded.'; return; }
+
+        preAiEditYaml = yaml;
+        applyBtn.disabled = true;
+        if (statusEl) statusEl.textContent = 'Applying…';
+
+        let isFreeCreditUser = gate && !gate.hasProAccess() && !gate.getBYOKey();
+
+        try {
+          const result = await integrations.aiEditStream(yaml, instruction, (chunk, full) => {
+            // update status
+            if (statusEl) statusEl.textContent = 'Streaming…';
+          });
+
+          await loadYamlDocument(result, {
+            formPath: currentFormPath,
+            localFormId: currentLocalFormId,
+            updateUrl: false,
+            markOriginal: false,
+            editorStatus: 'AI edit applied.'
+          });
+
+          undoBtn?.classList.remove('hidden');
+          if (statusEl) statusEl.textContent = 'Edit applied!';
+
+          if (isFreeCreditUser && gate) {
+            const remaining = gate.useFreeCredit();
+            gate.updateCreditBadge();
+            updateEditCreditBadge();
+            if (remaining === 0) {
+              gate.showUpgradeModal('pro', 'ai_credits_exhausted');
+            }
+          }
+        } catch (err) {
+          if (err.authRequired && gate) {
+            gate.showUpgradeModal('pro', 'ai_credits_exhausted');
+          } else {
+            if (statusEl) statusEl.textContent = `Error: ${err.message || 'Edit failed'}`;
+          }
+          preAiEditYaml = '';
+        } finally {
+          applyBtn.disabled = false;
+        }
+      });
+    }
+
+    if (undoBtn) {
+      undoBtn.addEventListener('click', async () => {
+        if (!preAiEditYaml) return;
+        await loadYamlDocument(preAiEditYaml, {
+          formPath: currentFormPath,
+          localFormId: currentLocalFormId,
+          updateUrl: false,
+          markOriginal: false,
+          editorStatus: 'AI edit undone.'
+        });
+        preAiEditYaml = '';
+        undoBtn.classList.add('hidden');
+        if (statusEl) statusEl.textContent = 'Reverted.';
+      });
+    }
+  }
+
+  // ─── SurveyMonkey Import ──────────────────────────────────────────────────────
+
+  function initSmImport() {
+    const toggleBtn = document.getElementById('sm-import-toggle-btn');
+    const panel = document.getElementById('sm-import-panel');
+    const listBtn = document.getElementById('sm-list-btn');
+    const surveyList = document.getElementById('sm-survey-list');
+    const statusEl = document.getElementById('sm-import-status');
+
+    if (toggleBtn) {
+      toggleBtn.addEventListener('click', () => {
+        const gate = window.GICProGate;
+        if (gate && !gate.hasProAccess()) {
+          gate.showUpgradeModal('pro', 'pro_feature');
+          return;
+        }
+        panel?.classList.toggle('hidden');
+        toggleBtn.classList.add('hidden');
+      });
+    }
+
+    if (listBtn) {
+      listBtn.addEventListener('click', async () => {
+        const gate = window.GICProGate;
+        if (gate && !gate.hasProAccess()) {
+          gate.showUpgradeModal('pro', 'pro_feature');
+          return;
+        }
+        const token = (document.getElementById('sm-import-token')?.value || '').trim();
+        if (!token) { setSmStatus('sm-import-status', 'error', 'Enter your SurveyMonkey access token.'); return; }
+
+        listBtn.disabled = true;
+        setSmStatus('sm-import-status', 'info', 'Loading surveys…');
+        try {
+          const result = await window.GICDeployIntegrations.smListSurveys(token);
+          const surveys = result.surveys || result.data || [];
+          if (!surveys.length) { setSmStatus('sm-import-status', 'info', 'No surveys found.'); return; }
+
+          surveyList?.classList.remove('hidden');
+          if (surveyList) {
+            surveyList.innerHTML = surveys.map(s => `
+              <div class="flex items-center justify-between gap-2 rounded-lg border border-slate-200 dark:border-slate-700 p-2.5">
+                <span class="text-xs text-slate-700 dark:text-slate-300 truncate">${escapeHtml(s.title || s.id)}</span>
+                <button class="sm-import-one flex-shrink-0 text-xs text-primary font-medium hover:underline" data-survey-id="${escapeHtml(String(s.id || ''))}" data-sm-token="${escapeHtml(token)}">Import</button>
+              </div>`).join('');
+
+            surveyList.querySelectorAll('.sm-import-one').forEach(btn => {
+              btn.addEventListener('click', async () => {
+                const surveyId = btn.dataset.surveyId;
+                const tkn = btn.dataset.smToken;
+                setSmStatus('sm-import-status', 'info', 'Importing survey…');
+                try {
+                  const imported = await window.GICDeployIntegrations.smImport(tkn, surveyId);
+                  if (imported.yaml) {
+                    await loadYamlDocument(imported.yaml, {
+                      formPath: null, localFormId: null, category: 'imported', updateUrl: true,
+                      editorStatus: 'SurveyMonkey survey imported.', switchTab: 'editor'
+                    });
+                    setSmStatus('sm-import-status', 'success', 'Survey imported successfully!');
+                  }
+                } catch (err) {
+                  setSmStatus('sm-import-status', 'error', err.message || 'Import failed.');
+                }
+              });
+            });
+          }
+          statusEl?.classList.add('hidden');
+        } catch (err) {
+          setSmStatus('sm-import-status', 'error', err.message || 'Failed to list surveys.');
+        } finally {
+          listBtn.disabled = false;
+        }
+      });
+    }
+  }
+
+  function setSmStatus(id, type, message) {
+    const el = document.getElementById(id);
+    if (!el) return;
+    const tone = type === 'success'
+      ? 'border-emerald-200 bg-emerald-50 text-emerald-700 dark:border-emerald-900 dark:bg-emerald-950/40 dark:text-emerald-300'
+      : type === 'error'
+        ? 'border-red-200 bg-red-50 text-red-700 dark:border-red-900 dark:bg-red-950/40 dark:text-red-300'
+        : 'border-slate-200 bg-slate-50 text-slate-700 dark:border-slate-800 dark:bg-slate-900 dark:text-slate-200';
+    el.className = `mt-3 rounded-xl border px-4 py-3 text-sm ${tone}`;
+    el.textContent = message;
+    el.classList.remove('hidden');
+  }
+
+  // ─── SurveyMonkey Export ──────────────────────────────────────────────────────
+
+  function initSmExport() {
+    const exportBtn = document.getElementById('sm-export-btn');
+    if (!exportBtn) return;
+
+    exportBtn.addEventListener('click', () => {
+      setSmStatus(
+        'sm-export-status',
+        'info',
+        'SurveyMonkey export is not enabled on this deployment yet. Survey import is available today.'
+      );
+    });
+  }
+
+  // ─── Embed Code ───────────────────────────────────────────────────────────────
+
+  function initEmbedCode() {
+    const widthEl = document.getElementById('embed-width');
+    const heightEl = document.getElementById('embed-height');
+    const responsiveEl = document.getElementById('embed-responsive');
+    const previewEl = document.getElementById('embed-code-preview');
+    const copyBtn = document.getElementById('btn-copy-embed');
+
+    function buildEmbedUrl() {
+      const deployedUrl = localStorage.getItem('gic-last-deployed-url') || window.location.href;
+      return deployedUrl;
+    }
+
+    function buildEmbedCode() {
+      const width = widthEl?.value || '100%';
+      const height = heightEl?.value || '600px';
+      const url = buildEmbedUrl();
+      const iframe = `<iframe src="${url}" width="${width}" height="${height}" frameborder="0" allowfullscreen loading="lazy" title="Form"></iframe>`;
+      if (responsiveEl?.checked) {
+        return `<div style="position:relative;width:${width};padding-bottom:0;overflow:hidden;">\n  ${iframe}\n</div>`;
+      }
+      return iframe;
+    }
+
+    function updateEmbedPreview() {
+      if (previewEl) previewEl.textContent = buildEmbedCode();
+    }
+
+    [widthEl, heightEl, responsiveEl].forEach(el => {
+      if (el) el.addEventListener('input', updateEmbedPreview);
+    });
+    updateEmbedPreview();
+
+    if (copyBtn) {
+      copyBtn.addEventListener('click', async () => {
+        const code = buildEmbedCode();
+        const copied = await copyText(code);
+        flashCopyState(copyBtn, copied
+          ? '<span class="material-symbols-outlined icon-sm">check</span>Copied!'
+          : '<span class="material-symbols-outlined icon-sm">error</span>Failed');
+      });
+    }
+  }
+
+  // ─── Webhook Config ───────────────────────────────────────────────────────────
+
+  const WEBHOOK_STORAGE_KEY = 'gic-webhooks';
+
+  function getWebhooks() {
+    try {
+      return JSON.parse(localStorage.getItem(WEBHOOK_STORAGE_KEY) || '[]');
+    } catch (_) {
+      return [];
+    }
+  }
+
+  function saveWebhooks(list) {
+    localStorage.setItem(WEBHOOK_STORAGE_KEY, JSON.stringify(list));
+  }
+
+  function initWebhooks() {
+    const addBtn = document.getElementById('btn-add-webhook');
+    const listEl = document.getElementById('webhook-list');
+    const limitNote = document.getElementById('webhook-limit-note');
+    const regenBtn = document.getElementById('btn-regen-worker');
+
+    function getMaxWebhooks() {
+      const gate = window.GICProGate;
+      if (!gate) return 0;
+      if (gate.hasBusinessAccess()) return Infinity;
+      if (gate.hasProAccess()) return 3;
+      return 0;
+    }
+
+    function renderWebhookList() {
+      const hooks = getWebhooks();
+      if (!listEl) return;
+      if (regenBtn) {
+        regenBtn.classList.toggle('hidden', !hooks.length);
+      }
+      if (!hooks.length) {
+        listEl.innerHTML = '<p class="text-xs text-slate-400 dark:text-slate-600">No webhooks configured.</p>';
+        return;
+      }
+      listEl.innerHTML = hooks.map((hook, i) => `
+        <div class="flex items-center gap-2 rounded-lg border border-slate-200 dark:border-slate-700 p-2.5">
+          <div class="flex-1 min-w-0">
+            <p class="text-xs font-medium text-slate-700 dark:text-slate-300 truncate">${escapeHtml(hook.url)}</p>
+            ${hook.secret ? '<p class="text-xs text-slate-400">HMAC secret set</p>' : ''}
+          </div>
+          <button class="webhook-delete flex-shrink-0 text-xs text-red-500 hover:text-red-600" data-idx="${i}">Remove</button>
+        </div>`).join('');
+
+      listEl.querySelectorAll('.webhook-delete').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const idx = parseInt(btn.dataset.idx, 10);
+          const hooks = getWebhooks();
+          hooks.splice(idx, 1);
+          saveWebhooks(hooks);
+          renderWebhookList();
+        });
+      });
+    }
+
+    function showAddWebhookForm() {
+      const gate = window.GICProGate;
+      if (gate && !gate.hasProAccess()) {
+        gate.showUpgradeModal('pro', 'pro_feature');
+        return;
+      }
+      const max = getMaxWebhooks();
+      const current = getWebhooks().length;
+      if (current >= max) {
+        const gate = window.GICProGate;
+        gate?.showUpgradeModal('business', 'business_feature');
+        return;
+      }
+
+      const url = window.prompt('Webhook URL:');
+      if (!url) return;
+      let parsedUrl;
+      try {
+        parsedUrl = new URL(url.trim(), window.location.href);
+      } catch (_) {
+        window.alert('Enter a valid absolute webhook URL.');
+        return;
+      }
+      const isLocalDev = parsedUrl.protocol === 'http:' && (parsedUrl.hostname === 'localhost' || parsedUrl.hostname === '127.0.0.1');
+      if (parsedUrl.protocol !== 'https:' && !isLocalDev) {
+        window.alert('Webhook URLs must use HTTPS unless you are testing on localhost.');
+        return;
+      }
+      const secret = window.prompt('HMAC secret (optional, press Cancel to skip):');
+      const hooks = getWebhooks();
+      hooks.push({ url: parsedUrl.toString(), secret: secret || '' });
+      saveWebhooks(hooks);
+      renderWebhookList();
+    }
+
+    addBtn?.addEventListener('click', showAddWebhookForm);
+    regenBtn?.addEventListener('click', () => {
+      const form = getCurrentEditor().getForm();
+      const yaml = getCurrentEditor().buildYaml();
+      const script = window.GICCloudflareWorker.createWorkerScript(form, {
+        yaml,
+        webhooks: getDeployWebhooks()
+      });
+      const filename = `${sanitizeWorkerName(codec().generateSlug(form.title || 'gic-form').replace(/_/g, '-'))}.worker.js`;
+      downloadFile(filename, script, 'application/javascript');
+    });
+    renderWebhookList();
+  }
+
+  // ─── Billing tab sync for annual toggle buttons in modal ─────────────────────
+  // The checkout buttons have both annual and monthly variants — sync their visibility
+
+  function syncModalCheckoutButtons() {
+    const modal = document.getElementById('modal-upgrade');
+    if (!modal) return;
+    // Handled by GICProGate.selectBillingTab already
+  }
+
+  // ─── Plan Badge ───────────────────────────────────────────────────────────────
+
+  function initPlanBadge() {
+    const container = document.getElementById('plan-badge-container');
+    if (container && window.GICProGate) {
+      window.GICProGate.renderProBadge(container);
+      container.classList.remove('hidden');
     }
   }
 
@@ -1399,9 +2635,11 @@
   window.editYaml = editYaml;
   window.saveYamlEdit = saveYamlEdit;
   window.cancelYamlEdit = cancelYamlEdit;
+  window.openYamlSourceModal = openYamlSourceModal;
   window.downloadXlsx = downloadXlsx;
   window.saveCurrentFormFromPage = saveCurrentFormFromPage;
   window.saveCurrentFormToMyForms = saveCurrentFormToMyForms;
+  window.autosaveCurrentFormSilently = autosaveCurrentFormSilently;
   window.openFormGuideModal = openFormGuideModal;
   window.closeFormGuideModal = closeFormGuideModal;
   window.createNewBlankForm = createNewBlankForm;

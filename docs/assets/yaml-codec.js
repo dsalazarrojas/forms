@@ -28,6 +28,33 @@
 
   const QUESTION_TYPE_SET = new Set(QUESTION_TYPES.map(type => type.value));
 
+  const HUMAN_TYPE_LABELS = {
+    text: 'Short answer',
+    select_one: 'Multiple choice',
+    select_multiple: 'Checkboxes',
+    date: 'Date',
+    time: 'Time',
+    datetime: 'Date & time',
+    integer: 'Number',
+    decimal: 'Decimal number',
+    image: 'Photo',
+    file: 'File',
+    audio: 'Audio',
+    video: 'Video'
+  };
+
+  function getTypeLabel(value) {
+    if (Object.prototype.hasOwnProperty.call(HUMAN_TYPE_LABELS, value)) {
+      return HUMAN_TYPE_LABELS[value];
+    }
+    const type = QUESTION_TYPES.find(entry => entry.value === value);
+    return type ? type.label : String(value || 'text').replace(/_/g, ' ');
+  }
+
+  function isAdvancedType(value) {
+    return QUESTION_TYPE_SET.has(value) && !Object.prototype.hasOwnProperty.call(HUMAN_TYPE_LABELS, value);
+  }
+
   function clone(value) {
     if (typeof structuredClone === 'function') {
       return structuredClone(value);
@@ -284,9 +311,12 @@
     CORE_QUESTION_TYPES,
     LEGACY_QUESTION_TYPES,
     QUESTION_TYPES,
+    HUMAN_TYPE_LABELS,
     createBlankForm,
     extractMetadata,
     generateSlug,
+    getTypeLabel,
+    isAdvancedType,
     isOptionType,
     normalizeOption,
     normalizeOptionLabel,

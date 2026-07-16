@@ -1,38 +1,142 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Terms Of Use | GIC Forms</title>
   <meta name="description" content="Terms of use for the public GIC Forms website, templates, and guide pages.">
   <link rel="canonical" href="https://forms.gic.mx/terms.html">
+
+  <!-- Content Security Policy -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.tailwindcss.com https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https://www.google-analytics.com; frame-src 'none'; object-src 'none';">
+
+  <!-- Dark mode FOUC prevention -->
+  <script>if(localStorage.getItem('gic-theme')==='dark'||(!localStorage.getItem('gic-theme')&&window.matchMedia('(prefers-color-scheme: dark)').matches)){document.documentElement.classList.add('dark')}</script>
+
+  <!-- Google Fonts: Public Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Material Symbols -->
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
+
+  <!-- Tailwind CSS CDN — no SRI: dynamic CDN bundle -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: { primary: '#ec5b13' },
+          fontFamily: { sans: ['Public Sans', 'sans-serif'] }
+        }
+      }
+    }
+  </script>
   <style>
-    body { margin: 0; font-family: "Public Sans", "Segoe UI", sans-serif; color: #0f172a; background: #f8fafc; line-height: 1.7; }
-    .wrap { max-width: 860px; margin: 0 auto; padding: 0 1.25rem; }
-    header, footer { background: #fff; border-bottom: 1px solid #e2e8f0; }
-    footer { border-top: 1px solid #e2e8f0; border-bottom: 0; margin-top: 3rem; }
-    .nav { display: flex; gap: 1rem; flex-wrap: wrap; padding: 1rem 0; }
-    .nav a { color: #ec5b13; text-decoration: none; font-weight: 600; }
-    main { padding: 3rem 0; }
-    p, li { color: #475569; }
+    .material-symbols-outlined { font-variation-settings:'FILL' 0,'wght' 400,'GRAD' 0,'opsz' 24; vertical-align:middle; line-height:1; }
+    article h2 { margin-top:2rem; margin-bottom:0.5rem; font-size:1.125rem; font-weight:700; color:inherit; }
+    article p, article li { color:#475569; line-height:1.75; }
+    .dark article p, .dark article li { color:#94a3b8; }
+    article ul { list-style:disc; padding-left:1.5rem; margin:0.5rem 0; }
+    article a { color:#ec5b13; text-decoration:underline; }
+    article code { background:#f1f5f9; padding:1px 5px; border-radius:4px; font-size:0.85em; }
+    .dark article code { background:#1e293b; color:#cbd5e1; }
   </style>
 </head>
-<body>
-  <header><div class="wrap"><nav class="nav"><a href="/">Home</a><a href="/browse.html">Browse</a><a href="/about.html">About</a><a href="/contact.html">Contact</a></nav></div></header>
-  <main class="wrap">
-    <h1>Terms Of Use</h1>
-    <p>The GIC Forms site publishes form templates and guide material for informational and operational use. Templates are starting points, not legal, medical, tax, or regulatory advice.</p>
-    <h2>Template Use</h2>
-    <ul>
-      <li>Review and customize every template before production use.</li>
-      <li>Do not assume a template is accurate for your jurisdiction, industry, or process without review.</li>
-      <li>You are responsible for compliance, consent language, and downstream data handling.</li>
-    </ul>
-    <h2>Content Status</h2>
-    <p>Some templates and descriptions are programmatically generated and then selectively curated. Inclusion in the library does not mean a template has been legally or professionally approved.</p>
-    <h2>Licenses</h2>
-    <p>Forms are licensed under CC BY 4.0 and site code is licensed under MIT, subject to the repository license files.</p>
+<body class="font-sans bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 min-h-screen flex flex-col">
+
+  <!-- Nav -->
+  <header class="border-b border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900">
+    <div class="max-w-4xl mx-auto px-5 h-14 flex items-center justify-between gap-4">
+      <a href="/" class="flex items-center gap-2 hover:opacity-80 transition-opacity">
+        <div class="w-7 h-7 rounded-md flex items-center justify-center flex-shrink-0" style="background:#ec5b13;">
+          <span class="material-symbols-outlined text-white" style="font-size:15px;">assignment</span>
+        </div>
+        <span class="font-bold text-base tracking-tight">GIC Forms</span>
+      </a>
+      <nav class="flex items-center gap-4">
+        <a href="/browse.html" class="text-sm text-slate-600 dark:text-slate-400 hover:text-primary dark:hover:text-primary transition-colors">Browse</a>
+        <a href="/preview.html" class="text-sm text-slate-600 dark:text-slate-400 hover:text-primary dark:hover:text-primary transition-colors">Editor</a>
+        <button onclick="toggleDarkMode()" class="w-8 h-8 flex items-center justify-center rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors text-slate-500 dark:text-slate-400" title="Toggle dark mode">
+          <span id="dark-icon" class="material-symbols-outlined" style="font-size:18px;">dark_mode</span>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="flex-1">
+    <div class="max-w-4xl mx-auto px-5 py-12">
+      <article>
+        <h1 class="text-3xl font-bold tracking-tight text-slate-900 dark:text-slate-100 mb-6">Terms Of Use</h1>
+        <p><strong>Effective date:</strong> March 25, 2026.</p>
+        <p>These Terms of Use govern access to the public GIC Forms website, template library, browser editor, and related guide pages at <code>forms.gic.mx</code>. By using the site, you agree to these terms.</p>
+        <h2>Service Scope</h2>
+        <p>GIC Forms provides free access to public YAML form templates, previews, local browser editing, and deployment helpers. Pro and Business subscription plans are available and provide additional AI-powered features, unlimited saved forms, and other benefits as described at the time of purchase. Subscription terms, pricing, and features may change; current terms are published alongside the relevant checkout flow.</p>
+        <h2>Template Use And Your Responsibilities</h2>
+        <ul>
+          <li>Review and customize every template before production use.</li>
+          <li>Do not assume a template is accurate for your jurisdiction, industry, language, or workflow without review.</li>
+          <li>You are responsible for compliance, consent language, notices, downstream data handling, and operational validation after deployment.</li>
+          <li>You must verify imports, required fields, branching, calculations, and deployment behavior before sharing a live form.</li>
+        </ul>
+        <h2>Acceptable Use</h2>
+        <ul>
+          <li>Do not use the site to break the law, infringe rights, distribute malware, probe for vulnerabilities, or interfere with site operation.</li>
+          <li>Do not use deployment helpers with credentials or target accounts that you are not authorized to use.</li>
+          <li>Do not misrepresent templates as legally approved, medically validated, or regulator-endorsed solely because they appear in this library.</li>
+        </ul>
+        <h2>Content Status And No Professional Advice</h2>
+        <p>Templates, descriptions, and guides may be programmatically generated, AI-assisted, or selectively curated. They are starting points only and are not legal, medical, tax, accounting, or regulatory advice. Inclusion in the library does not mean a template has been professionally reviewed or approved for your use case.</p>
+        <h2>Third-Party Services</h2>
+        <p>The site may integrate with or link to third-party services such as GitHub, Cloudflare, Google, Stripe, Tally, Formbricks, ONA, and KoboToolbox. Your use of those services is governed by their own terms and privacy notices. GIC Forms is not responsible for third-party outages, policy changes, or data practices.</p>
+        <h2>Licenses</h2>
+        <p>Forms are licensed under CC BY 4.0 and site code is licensed under MIT, subject to the repository license files.</p>
+        <h2>Intellectual Property</h2>
+        <p>Except where an open license says otherwise, site branding, layout, and non-template content remain protected by applicable intellectual property law. Open-source license notices continue to apply to the underlying repository materials.</p>
+        <h2>Refunds</h2>
+        <p>Subscription refund terms are published alongside the relevant checkout flow at the time of purchase. If no specific refund terms are stated, no refunds are provided for partial subscription periods.</p>
+        <h2>Disclaimer Of Warranties</h2>
+        <p>The site and templates are provided on an "as is" and "as available" basis without warranties of accuracy, fitness for a particular purpose, non-infringement, uninterrupted availability, or security.</p>
+        <h2>Limitation Of Liability</h2>
+        <p>To the maximum extent permitted by law, GIC Forms and its operators will not be liable for indirect, incidental, consequential, special, exemplary, or punitive damages, or for lost revenue, lost data, business interruption, or deployment errors arising from use of the site or templates. If liability cannot be excluded, it is limited to the amount you paid directly to the site for the relevant service in the three months preceding the claim.</p>
+        <h2>Indemnity</h2>
+        <p>You agree to indemnify and hold the project and its operators harmless from claims arising out of your deployed forms, your misuse of the site, your violation of these terms, or your violation of applicable law or third-party rights.</p>
+        <h2>Suspension And Changes</h2>
+        <p>Features may be modified, restricted, or removed at any time, including deployment integrations, without liability for resulting disruption.</p>
+        <h2>Governing Law And Disputes</h2>
+        <p>Unless mandatory local consumer law requires otherwise, these terms are governed by the laws of Mexico. The parties submit disputes to the competent courts located in Mexico City, waiving any other venue that may otherwise apply.</p>
+        <h2>Contact</h2>
+        <p>Questions about these terms can be directed through the channels listed on <a href="/contact.html">Contact</a>.</p>
+      </article>
+    </div>
   </main>
-  <footer><div class="wrap"><nav class="nav"><a href="/privacy.html">Privacy</a><a href="/editorial-methodology.html">Methodology</a></nav></div></footer>
+
+  <!-- Footer -->
+  <footer class="border-t border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900">
+    <div class="max-w-4xl mx-auto px-5 py-5 flex flex-wrap gap-4 items-center justify-between">
+      <p class="text-xs text-slate-400 dark:text-slate-600">© 2026 GIC Forms &bull; CC BY 4.0</p>
+      <nav class="flex flex-wrap gap-4">
+        <a href="/terms.html" class="text-xs text-slate-500 hover:text-primary dark:text-slate-400 dark:hover:text-primary transition-colors">Terms</a>
+        <a href="/privacy.html" class="text-xs text-slate-500 hover:text-primary dark:text-slate-400 dark:hover:text-primary transition-colors">Privacy</a>
+        <a href="/editorial-methodology.html" class="text-xs text-slate-500 hover:text-primary dark:text-slate-400 dark:hover:text-primary transition-colors">Methodology</a>
+      </nav>
+    </div>
+  </footer>
+
+  <script>
+    function toggleDarkMode() {
+      const html = document.documentElement;
+      const isDark = html.classList.toggle('dark');
+      localStorage.setItem('gic-theme', isDark ? 'dark' : 'light');
+      const icon = document.getElementById('dark-icon');
+      if (icon) icon.textContent = isDark ? 'light_mode' : 'dark_mode';
+    }
+    (function() {
+      const icon = document.getElementById('dark-icon');
+      if (icon) icon.textContent = document.documentElement.classList.contains('dark') ? 'light_mode' : 'dark_mode';
+    })();
+  </script>
 </body>
 </html>

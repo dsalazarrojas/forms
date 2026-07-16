@@ -24,6 +24,14 @@
     return JSON.parse(JSON.stringify(value));
   }
 
+  function debounce(fn, wait) {
+    let t;
+    return (...args) => {
+      clearTimeout(t);
+      t = setTimeout(() => fn(...args), wait);
+    };
+  }
+
   class FormEditor {
     constructor(options) {
       this.options = options || {};
@@ -49,7 +57,13 @@
       this.draggingOption = null;
       this.bound = false;
       this.yamlEditMode = false;
+      this.showAdvanced = false;
       this.yamlEditError = '';
+      this.autosaveState = 'idle';
+      this._applyInFlight = false;
+      this.autosaveBadgeTimer = null;
+      this.debouncedApplyText = debounce(() => this.applyToPreview(), 700);
+      this.debouncedApplyStructural = debounce(() => this.applyToPreview(), 150);
 
       this.attachDelegatedEvents();
       this.render();
@@ -194,13 +208,28 @@
 
     loadYaml(yaml, options) {
       const config = options || {};
-      const parsed = this.codec.parse(yaml);
-      this.setForm(parsed, {
-        markClean: Boolean(config.markClean),
-        statusMessage: config.statusMessage,
-        statusIsError: config.statusIsError,
-        documentMeta: parsed.metadata || {}
-      });
+      try {
+        const parsed = this.codec.parse(yaml);
+        this.setForm(parsed, {
+          markClean: Boolean(config.markClean),
+          statusMessage: config.statusMessage,
+          statusIsError: config.statusIsError,
+          documentMeta: parsed.metadata || {}
+        });
+        return true;
+      } catch (error) {
+        if (config.throwOnError) {
+          throw error;
+        }
+
+        this.setForm(this.codec.createBlankForm(), {
+          markClean: true,
+          statusMessage: `Invalid YAML could not be loaded: ${error.message || 'Unknown parse error.'}`,
+          statusIsError: true,
+          documentMeta: {}
+        });
+        return false;
+      }
     }
 
     getForm() {
@@ -250,14 +279,82 @@
       }
 
       if (dirtyEl) {
-        dirtyEl.textContent = this.dirty ? 'Unsaved changes' : 'Applied state';
-        dirtyEl.className = this.dirty
-          ? 'inline-flex items-center gap-1 rounded-full bg-amber-100 px-2.5 py-1 text-xs font-semibold text-amber-700 dark:bg-amber-500/20 dark:text-amber-300'
-          : 'inline-flex items-center gap-1 rounded-full bg-emerald-100 px-2.5 py-1 text-xs font-semibold text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300';
+        const badgeClasses = 'inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-xs font-semibold';
+        const states = {
+          saving: ['Saving…', `${badgeClasses} bg-slate-100 text-slate-600 dark:bg-slate-800 dark:text-slate-300`],
+          saved: ['Saved', `${badgeClasses} bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300`],
+          failed: ['Save failed', `${badgeClasses} bg-red-100 text-red-700 dark:bg-red-500/20 dark:text-red-300`],
+          idle: ['Applied state', `${badgeClasses} bg-emerald-100 text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300`]
+        };
+        const [label, className] = states[this.autosaveState] || states.idle;
+        dirtyEl.textContent = label;
+        dirtyEl.className = className;
       }
 
       if (countEl) {
         countEl.textContent = `${this.getQuestionCount()} question${this.getQuestionCount() === 1 ? '' : 's'}`;
+      }
+    }
+
+    showSavingIndicator() {
+      clearTimeout(this.autosaveBadgeTimer);
+      this.autosaveState = 'saving';
+      this.refreshHeader();
+    }
+
+    showSavedIndicator() {
+      this.autosaveState = 'saved';
+      this.refreshHeader();
+      clearTimeout(this.autosaveBadgeTimer);
+      this.autosaveBadgeTimer = setTimeout(() => {
+        this.autosaveState = 'idle';
+        this.refreshHeader();
+      }, 1500);
+    }
+
+    showSaveFailedIndicator() {
+      clearTimeout(this.autosaveBadgeTimer);
+      this.autosaveState = 'failed';
+      this.refreshHeader();
+    }
+
+    async applyToPreview() {
+      if (this._applyInFlight) {
+        return;
+      }
+
+      this._applyInFlight = true;
+      this.showSavingIndicator();
+      try {
+        const validation = this.validate();
+        if (validation.issues.length) {
+          this.setStatus('Please fix validation errors before applying changes.', true);
+          this.refreshValidationUI();
+          this.showSaveFailedIndicator();
+          return;
+        }
+
+        const yaml = this.buildYaml();
+        const form = this.getForm();
+        const documentMeta = this.getDocumentMeta();
+        if (typeof this.options.onApply === 'function') {
+          await this.options.onApply(yaml, form, documentMeta);
+        }
+        if (typeof this.options.onAutosave === 'function') {
+          try {
+            await this.options.onAutosave(yaml, form, documentMeta);
+          } catch (error) {
+            console.error('Unable to autosave form.', error);
+          }
+        }
+        this.dirty = false;
+        this.setStatus('Changes applied to the live preview and YAML source.');
+        this.showSavedIndicator();
+      } catch (error) {
+        this.setStatus(error.message || 'Unable to apply changes.', true);
+        this.showSaveFailedIndicator();
+      } finally {
+        this._applyInFlight = false;
       }
     }
 
@@ -390,6 +487,8 @@
       this.render();
       this.setStatus('Question added.');
       this.notifyStateChange();
+      this.debouncedApplyStructural();
+      this.showSavingIndicator();
     }
 
     removeQuestion(index) {
@@ -407,6 +506,8 @@
       this.render();
       this.setStatus('Question removed.');
       this.notifyStateChange();
+      this.debouncedApplyStructural();
+      this.showSavingIndicator();
     }
 
     duplicateQuestion(index) {
@@ -428,6 +529,8 @@
       this.render();
       this.setStatus('Question duplicated.');
       this.notifyStateChange();
+      this.debouncedApplyStructural();
+      this.showSavingIndicator();
     }
 
     moveQuestion(fromIndex, toIndex) {
@@ -445,6 +548,8 @@
       this.render();
       this.setStatus('Question order updated.');
       this.notifyStateChange();
+      this.debouncedApplyStructural();
+      this.showSavingIndicator();
     }
 
     moveQuestionStep(index, direction) {
@@ -469,6 +574,8 @@
       this.render();
       this.setStatus('Option order updated.');
       this.notifyStateChange();
+      this.debouncedApplyStructural();
+      this.showSavingIndicator();
     }
 
     moveOptionStep(questionIndex, optionIndex, direction) {
@@ -497,6 +604,8 @@
       this.render();
       this.setStatus('Option added.');
       this.notifyStateChange();
+      this.debouncedApplyStructural();
+      this.showSavingIndicator();
     }
 
     removeOption(questionIndex, optionIndex) {
@@ -509,6 +618,8 @@
       this.render();
       this.setStatus('Option removed.');
       this.notifyStateChange();
+      this.debouncedApplyStructural();
+      this.showSavingIndicator();
     }
 
     ensureSelectOptions(question) {
@@ -548,8 +659,11 @@
     renderQuestion(question, index, validation) {
       const requiresOptions = this.codec.isOptionType(question.type);
       const errors = validation.fieldErrors.questions[index] || {};
-      const typeOptions = this.codec.QUESTION_TYPES.map(type => `
-        <option value="${escapeHtml(type.value)}" ${type.value === question.type ? 'selected' : ''}>${escapeHtml(type.label)}</option>`).join('');
+      const availableTypes = this.showAdvanced
+        ? this.codec.QUESTION_TYPES
+        : this.codec.QUESTION_TYPES.filter(type => !this.codec.isAdvancedType(type.value) || type.value === question.type);
+      const typeOptions = availableTypes.map(type => `
+        <option value="${escapeHtml(type.value)}" ${type.value === question.type ? 'selected' : ''}>${escapeHtml(this.codec.getTypeLabel(type.value))}</option>`).join('');
 
       return `
         <article class="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm dark:border-slate-800 dark:bg-slate-900" data-question-index="${index}">
@@ -562,7 +676,7 @@
                 <div class="min-w-0">
                   <p class="text-xs font-semibold uppercase tracking-wide text-primary">Question ${question.id}</p>
                   <h3 class="truncate text-base font-semibold text-slate-900 dark:text-slate-100">${escapeHtml(question.label || 'Untitled question')}</h3>
-                  <p class="mt-1 text-xs text-slate-500 dark:text-slate-400">${escapeHtml((question.type || 'text').replace(/_/g, ' '))}${question.required ? ' • required' : ''}</p>
+                  <p class="mt-1 text-xs text-slate-500 dark:text-slate-400">${escapeHtml(this.codec.getTypeLabel(question.type || 'text'))}${question.required ? ' • required' : ''}</p>
                 </div>
               </div>
               <div class="flex flex-wrap gap-2">
@@ -588,11 +702,11 @@
                 <input type="text" class="preview-input" data-role="question-label" data-question-index="${index}" value="${escapeHtml(question.label)}" placeholder="What should respondents see?">
                 <p data-error-for="label" class="mt-1 text-xs text-red-500 ${errors.label ? '' : 'hidden'}">${escapeHtml(errors.label || '')}</p>
               </div>
-              <div>
+              ${this.showAdvanced ? `<div>
                 <label class="mb-1 block text-sm font-medium text-slate-700 dark:text-slate-300">Name</label>
                 <input type="text" class="preview-input" data-role="question-name" data-question-index="${index}" value="${escapeHtml(question.name)}" placeholder="question_slug">
                 <p data-error-for="name" class="mt-1 text-xs text-red-500 ${errors.name ? '' : 'hidden'}">${escapeHtml(errors.name || '')}</p>
-              </div>
+              </div>` : ''}
               <div>
                 <label class="mb-1 block text-sm font-medium text-slate-700 dark:text-slate-300">Type</label>
                 <select class="preview-input" data-role="question-type" data-question-index="${index}">
@@ -703,6 +817,7 @@
               <div class="flex flex-wrap items-center gap-2 text-xs">
                 <span data-editor-dirty class="inline-flex items-center gap-1 rounded-full bg-emerald-100 px-2.5 py-1 text-xs font-semibold text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300">Applied state</span>
                 <span data-editor-count class="inline-flex items-center gap-1 rounded-full bg-slate-100 px-2.5 py-1 font-semibold text-slate-600 dark:bg-slate-800 dark:text-slate-300">${this.getQuestionCount()} question${this.getQuestionCount() === 1 ? '' : 's'}</span>
+                <button type="button" data-action="toggle-advanced" class="inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-xs font-semibold ${this.showAdvanced ? 'bg-primary text-white' : 'bg-slate-100 text-slate-600 dark:bg-slate-800 dark:text-slate-300'}">${this.showAdvanced ? 'Hide advanced fields' : 'Show advanced fields'}</button>
               </div>
 
               <p data-editor-status class="text-sm ${this.statusIsError ? 'text-red-500' : 'text-slate-500 dark:text-slate-400'}">${escapeHtml(this.statusMessage)}</p>
@@ -742,6 +857,8 @@
         this.form.title = target.value;
         this.setDirty(true);
         this.notifyStateChange();
+        this.debouncedApplyText();
+        this.showSavingIndicator();
         return;
       }
 
@@ -787,6 +904,8 @@
 
       this.setDirty(true);
       this.notifyStateChange();
+      this.debouncedApplyText();
+      this.showSavingIndicator();
     }
 
     handleChange(event) {
@@ -809,11 +928,15 @@
           this.setDirty(true);
           this.render();
           this.notifyStateChange();
+          this.debouncedApplyStructural();
+          this.showSavingIndicator();
           return;
         case 'question-required':
           question.required = Boolean(target.checked);
           this.setDirty(true);
           this.notifyStateChange();
+          this.debouncedApplyStructural();
+          this.showSavingIndicator();
           return;
         default:
           return;
@@ -826,24 +949,12 @@
       const optionIndex = Number(actionEl.dataset.optionIndex);
 
       switch (action) {
+        case 'toggle-advanced':
+          this.showAdvanced = !this.showAdvanced;
+          this.render();
+          return;
         case 'apply': {
-          const validation = this.validate();
-          if (validation.issues.length) {
-            this.setStatus('Please fix validation errors before applying changes.', true);
-            this.refreshValidationUI();
-            return;
-          }
-          try {
-            const yaml = this.buildYaml();
-            if (typeof this.options.onApply === 'function') {
-              await this.options.onApply(yaml, this.getForm(), this.getDocumentMeta());
-            }
-            this.dirty = false;
-            this.setStatus('Changes applied to the live preview and YAML source.');
-            this.refreshHeader();
-          } catch (error) {
-            this.setStatus(error.message || 'Unable to apply changes.', true);
-          }
+          await this.applyToPreview();
           return;
         }
         case 'add-question':
@@ -911,8 +1022,10 @@
             if (!clipboardText.trim()) {
               throw new Error('Clipboard is empty.');
             }
-            this.loadYaml(clipboardText, { markClean: false, statusMessage: 'YAML imported from the clipboard.' });
+            this.loadYaml(clipboardText, { markClean: false, statusMessage: 'YAML imported from the clipboard.', throwOnError: true });
             this.notifyStateChange();
+            this.debouncedApplyStructural();
+            this.showSavingIndicator();
           } catch (error) {
             this.setStatus(error.message || 'Clipboard import failed.', true);
           }

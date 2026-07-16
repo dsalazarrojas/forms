@@ -25,8 +25,8 @@ class FormRenderer {
         // Handle note fields (section headers)
         if (type === 'note') {
             return `<div class="section-header bg-gray-50 border-l-4 border-indigo-500 p-4 my-4">
-                <h3 class="text-lg font-semibold text-gray-800">${label}</h3>
-                ${hint ? `<p class="text-gray-600 mt-2">${hint}</p>` : ''}
+                <h3 class="text-lg font-semibold text-gray-800">${this.escapeHtml(label)}</h3>
+                ${hint ? `<p class="text-gray-600 mt-2">${this.escapeHtml(hint)}</p>` : ''}
             </div>`;
         }
 
@@ -38,20 +38,26 @@ class FormRenderer {
                 const options = field.options || [];
                 inputHtml = `<select class="w-full border border-gray-300 rounded-md px-3 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-500" ${required}>
                     <option value="">Select an option</option>
-                    ${options.map(opt => `<option value="${this.escapeHtml(opt)}">${this.escapeHtml(opt)}</option>`).join('')}
+                    ${options.map(opt => {
+                        const optionLabel = this.normalizeOptionLabel(opt);
+                        return `<option value="${this.escapeHtml(optionLabel)}">${this.escapeHtml(optionLabel)}</option>`;
+                    }).join('')}
                 </select>`;
                 break;
 
             case 'select_multiple':
                 const multiOptions = field.options || [];
                 inputHtml = `<div class="space-y-2">
-                    ${multiOptions.map((opt, i) => `
+                    ${multiOptions.map(opt => {
+                        const optionLabel = this.normalizeOptionLabel(opt);
+                        return `
                         <label class="flex items-center">
-                            <input type="checkbox" name="${this.escapeHtml(field.name)}" value="${this.escapeHtml(opt)}"
+                            <input type="checkbox" name="${this.escapeHtml(field.name)}" value="${this.escapeHtml(optionLabel)}"
                                    class="rounded border-gray-300 text-indigo-600 focus:ring-indigo-500">
-                            <span class="ml-2">${this.escapeHtml(opt)}</span>
+                            <span class="ml-2">${this.escapeHtml(optionLabel)}</span>
                         </label>
-                    `).join('')}
+                    `;
+                    }).join('')}
                 </div>`;
                 break;
 
@@ -75,6 +81,20 @@ class FormRenderer {
         const div = document.createElement('div');
         div.textContent = text;
         return div.innerHTML;
+    }
+
+    normalizeOptionLabel(option) {
+        if (window.GICYamlCodec?.normalizeOptionLabel) {
+            return window.GICYamlCodec.normalizeOptionLabel(option);
+        }
+
+        if (option && typeof option === 'object') {
+            if (option.label !== undefined) return String(option.label);
+            if (option.value !== undefined) return String(option.value);
+            if (option.name !== undefined) return String(option.name);
+        }
+
+        return String(option ?? '');
     }
 }
 

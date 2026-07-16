@@ -4,18 +4,48 @@
     return codec ? codec.sanitizeForm(form) : form;
   }
 
+  function sanitizeWebhooks(webhooks) {
+    if (!Array.isArray(webhooks)) {
+      return [];
+    }
+    return webhooks.map(hook => {
+      const rawUrl = String(hook?.url || '').trim();
+      if (!rawUrl) {
+        return null;
+      }
+      let parsed;
+      try {
+        parsed = new URL(rawUrl, window.location.href);
+      } catch (_) {
+        return null;
+      }
+      const isLocalDev = parsed.protocol === 'http:' && (parsed.hostname === 'localhost' || parsed.hostname === '127.0.0.1');
+      if (parsed.protocol !== 'https:' && !isLocalDev) {
+        return null;
+      }
+      return {
+        url: parsed.toString(),
+        secret: String(hook?.secret || '').trim()
+      };
+    }).filter(Boolean);
+  }
+
   function createWorkerScript(form, options) {
     const safeForm = sanitizeForm(form || { title: 'Untitled Survey', questions: [] });
     const yaml = String(options?.yaml || '');
+    const webhooksLiteral = JSON.stringify(sanitizeWebhooks(options?.webhooks));
     const payload = JSON.stringify(safeForm);
     const yamlLiteral = JSON.stringify(yaml);
 
     return `const SURVEY = ${payload};
 const YAML_SOURCE = ${yamlLiteral};
+const WEBHOOKS = ${webhooksLiteral};
 
-addEventListener('fetch', event => {
-  event.respondWith(handleRequest(event.request));
-});
+export default {
+  async fetch(request) {
+    return handleRequest(request);
+  }
+};
 
 async function handleRequest(request) {
   const url = new URL(request.url);
@@ -54,12 +84,52 @@ async function handleSubmit(request) {
     }
   }
 
+  // Dispatch webhooks (GIC Pro feature — webhooks injected at deploy time)
+  await dispatchWebhooks(entries, request);
+
   return new Response(renderThankYou(entries), {
     headers: {
       'content-type': 'text/html; charset=UTF-8',
       'cache-control': 'no-store'
     }
   });
+}
+
+// ─── Webhook dispatch ─────────────────────────────────────────────────────────
+// WEBHOOKS is injected as a JSON literal when the worker is generated.
+// Format: [{ url: "https://...", secret: "optional-hmac-secret" }, ...]
+async function dispatchWebhooks(entries, originalRequest) {
+  if (!WEBHOOKS || !WEBHOOKS.length) return;
+
+  const payload = JSON.stringify({
+    formId: SURVEY.title || 'form',
+    submittedAt: new Date().toISOString(),
+    data: entries,
+    sourceUrl: originalRequest ? originalRequest.url : ''
+  });
+
+  const dispatches = WEBHOOKS.map(async (hook) => {
+    try {
+      const headers = { 'Content-Type': 'application/json' };
+      if (hook.secret) {
+        // HMAC-SHA256 signature for verification
+        const key = await crypto.subtle.importKey(
+          'raw',
+          new TextEncoder().encode(hook.secret),
+          { name: 'HMAC', hash: 'SHA-256' },
+          false,
+          ['sign']
+        );
+        const sig = await crypto.subtle.sign('HMAC', key, new TextEncoder().encode(payload));
+        headers['X-GIC-Signature'] = 'sha256=' + Array.from(new Uint8Array(sig)).map(b => b.toString(16).padStart(2, '0')).join('');
+      }
+      await fetch(hook.url, { method: 'POST', headers, body: payload });
+    } catch (_) {
+      // Fire-and-forget — webhook failures don't break form submission
+    }
+  });
+
+  await Promise.allSettled(dispatches);
 }
 
 function renderPage() {
@@ -115,7 +185,7 @@ function renderQuestion(question, index) {
   } else if (type === 'geopoint' || type === 'geoshape' || type === 'geotrace') {
     control = '<textarea name="' + name + '" rows="3" ' + required + ' placeholder="Enter coordinates or a location description"></textarea>';
   } else if (type === 'trigger') {
-    control = '<button type="button" class="secondary-button" onclick="this.closest(\'section\').classList.toggle(\'triggered\')">Trigger action</button>';
+    control = '<button type="button" class="secondary-button" data-trigger-toggle="1">Trigger action</button>';
   } else {
     control = '<input type="text" name="' + name + '" ' + required + '>';
   }
@@ -141,7 +211,7 @@ function actionPanel(title, body) {
 }
 
 function template(title, body) {
-  return '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>' + escapeHtml(SURVEY.title || title) + '</title><style>' + styles() + '</style></head><body><main class="page"><header class="hero"><p class="eyebrow">Cloudflare deployment</p><h1>' + escapeHtml(SURVEY.title || title) + '</h1><p class="muted">Generated from forms.gic.mx using the PRD-aligned graphical editor.</p></header>' + body + '</main></body></html>';
+  return '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>' + escapeHtml(SURVEY.title || title) + '</title><style>' + styles() + '</style></head><body><main class="page"><header class="hero"><p class="eyebrow">Cloudflare deployment</p><h1>' + escapeHtml(SURVEY.title || title) + '</h1><p class="muted">Generated from forms.gic.mx using the PRD-aligned graphical editor.</p></header>' + body + '</main><script>' + behaviorScript() + '</script></body></html>';
 }
 
 function styles() {
@@ -181,6 +251,10 @@ function escapeHtml(text) {
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#39;');
+}
+
+function behaviorScript() {
+  return "(function(){document.addEventListener('click',function(event){var button=event.target.closest('[data-trigger-toggle]');if(!button){return;}var section=button.closest('section');if(section){section.classList.toggle('triggered');}});})();";
 }
 `;
   }

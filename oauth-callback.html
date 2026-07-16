@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Connecting…</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Inter, system-ui, -apple-system, sans-serif;
+      background: #f8fafc;
+      color: #0f172a;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+    }
+    .card {
+      background: #fff;
+      border: 1px solid #e2e8f0;
+      border-radius: 22px;
+      padding: 32px 40px;
+      box-shadow: 0 12px 40px rgba(15, 23, 42, .08);
+      text-align: center;
+      max-width: 380px;
+    }
+    .eyebrow {
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      font-size: 11px;
+      font-weight: 700;
+      color: #ec5b13;
+      margin: 0 0 10px;
+    }
+    h1 { font-size: 1.4rem; margin: 0 0 8px; }
+    p  { color: #475569; font-size: .9rem; margin: 0; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <p class="eyebrow">forms.gic.mx</p>
+    <h1 id="title">Connecting…</h1>
+    <p id="desc">Completing Google sign-in. This window will close automatically.</p>
+  </div>
+  <script>
+    (function () {
+      var params = new URLSearchParams(window.location.search);
+      var code = params.get('code');
+      var state = params.get('state');
+      var error = params.get('error');
+
+      if (error) {
+        document.getElementById('title').textContent = 'Access denied';
+        document.getElementById('desc').textContent = 'Google sign-in was cancelled or denied. You may close this window.';
+        return;
+      }
+
+      if (!code) {
+        var hash = new URLSearchParams(window.location.hash.replace(/^#/, ''));
+        var token = hash.get('access_token');
+        if (token) {
+          sendMessage({ type: 'google-token', token: token });
+          return;
+        }
+        document.getElementById('title').textContent = 'Something went wrong';
+        document.getElementById('desc').textContent = 'No authorization code was received. You may close this window.';
+        return;
+      }
+
+      sendMessage({ type: 'google-code', code: code, state: state });
+    })();
+
+    function sendMessage(payload) {
+      var sent = false;
+      if (window.opener && !window.opener.closed) {
+        try {
+          window.opener.postMessage(payload, 'https://forms.gic.mx');
+          sent = true;
+        } catch (_) {}
+      }
+      if (sent) {
+        document.getElementById('title').textContent = 'Connected!';
+        document.getElementById('desc').textContent = 'Google account linked. Closing…';
+        setTimeout(function () { window.close(); }, 1200);
+      } else {
+        document.getElementById('title').textContent = 'Return to forms.gic.mx';
+        document.getElementById('desc').textContent = 'Connection complete. You can close this tab and return to the editor.';
+      }
+    }
+  </script>
+</body>
+</html>
