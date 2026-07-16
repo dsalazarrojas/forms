@@ -8,14 +8,11 @@
   <link rel="canonical" href="https://forms.gic.mx/browse.html" />
   <script>window.GIC_FORMS_INDEX_URL='/docs/forms-index.json';</script>
 
-  <!-- Google Analytics (GA4) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-KE41D4D58D"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-KE41D4D58D');
-  </script>
+  <!-- Content Security Policy -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.tailwindcss.com https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https://*.workers.dev https://raw.githubusercontent.com https://www.google-analytics.com; frame-src 'none'; object-src 'none';">
+
+  <script>window.GIC_ANALYTICS_ID='G-KE41D4D58D';</script>
+  <script src="docs/assets/consent.js"></script>
 
   <!-- Dark mode FOUC prevention -->
   <script>if(localStorage.getItem('gic-theme')==='dark'||(!localStorage.getItem('gic-theme')&&window.matchMedia('(prefers-color-scheme: dark)').matches)){document.documentElement.classList.add('dark')}</script>
@@ -76,7 +73,7 @@
       <div class="flex items-center justify-between h-16 gap-6">
 
         <!-- Logo -->
-        <a href="index.html" class="flex items-center gap-2.5 shrink-0 group">
+        <a href="/" class="flex items-center gap-2.5 shrink-0 group">
           <div class="h-8 w-8 rounded-lg bg-primary flex items-center justify-center shadow-sm group-hover:shadow-primary/40 transition-shadow">
             <span class="material-symbols-outlined text-white text-[18px]" style="font-variation-settings:'FILL' 1,'wght' 600,'GRAD' 0,'opsz' 20">description</span>
           </div>
@@ -98,7 +95,7 @@
             <span class="material-symbols-outlined text-[20px] hidden dark:block">dark_mode</span>
           </button>
           <!-- Home link (replaces CTA on browse page) -->
-          <a href="index.html" class="hidden sm:flex items-center gap-1.5 px-4 py-2 rounded-xl bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 text-sm font-semibold hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors">
+          <a href="/" class="hidden sm:flex items-center gap-1.5 px-4 py-2 rounded-xl bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 text-sm font-semibold hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors">
             <span class="material-symbols-outlined text-[16px]">arrow_back</span>
             Home
           </a>
@@ -255,7 +252,7 @@
           <div class="flex flex-col sm:flex-row sm:items-center gap-2 shrink-0 sm:min-w-[420px]">
             <div class="relative flex-1 min-w-[240px]">
               <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-slate-400 text-[18px]">search</span>
-              <input id="fulltext-search" type="search" placeholder="Search title, category, filename, field types..."
+              <input id="fulltext-search" data-testid="search-input" type="search" placeholder="Search title, category, filename, field types..."
                 class="w-full text-sm rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 pl-10 pr-9 py-2 focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary transition-colors shadow-sm">
               <button id="clear-search" class="hidden absolute right-2 top-1/2 -translate-y-1/2 h-6 w-6 rounded-md text-slate-400 hover:text-slate-700 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors" aria-label="Clear search">
                 <span class="material-symbols-outlined text-[16px]">close</span>
@@ -273,7 +270,7 @@
         </div>
 
         <!-- Forms grid -->
-        <div id="forms-grid" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-5">
+        <div id="forms-grid" data-testid="forms-grid" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-5">
           <!-- Loading skeletons -->
           <div class="bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-2xl overflow-hidden h-52 skeleton text-slate-100 dark:text-slate-700"></div>
           <div class="bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-2xl overflow-hidden h-52 skeleton text-slate-100 dark:text-slate-700"></div>
@@ -465,6 +462,24 @@
       return 'description';
     }
 
+    function escapeHtml(text) {
+      if (text === null || text === undefined) return '';
+      return String(text)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+
+    function titleCaseCategory(category) {
+      return String(category || '').replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+    }
+
+    function categoryButtonId(category) {
+      return category ? `cat-${encodeURIComponent(category)}` : 'cat-all';
+    }
+
     function generateDescription(form) {
       if (form.helpSnippet) {
         return form.helpSnippet;
@@ -526,15 +541,15 @@
 
       const container = document.getElementById('sidebar-categories');
       container.innerHTML = `
-        <button onclick="setCategory('')" id="cat-all" class="sidebar-cat-btn flex items-center gap-3 w-full px-3 py-2.5 rounded-xl text-sm font-semibold bg-primary/10 text-primary">
+        <button type="button" data-category="" id="cat-all" class="sidebar-cat-btn flex items-center gap-3 w-full px-3 py-2.5 rounded-xl text-sm font-semibold bg-primary/10 text-primary">
           <span class="material-symbols-outlined text-[18px]">apps</span>
           <span class="flex-1 text-left">All Forms</span>
           <span class="text-xs font-medium">${allForms.length.toLocaleString()}</span>
         </button>
         ${sorted.map(cat => `
-          <button onclick="setCategory('${cat}')" id="cat-${cat}" class="sidebar-cat-btn flex items-center gap-3 w-full px-3 py-2.5 rounded-xl text-sm font-medium text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors">
-            <span class="material-symbols-outlined text-[18px] text-slate-400">${getCategoryIcon(cat)}</span>
-            <span class="flex-1 text-left truncate">${cat.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}</span>
+          <button type="button" data-category="${escapeHtml(cat)}" id="${categoryButtonId(cat)}" class="sidebar-cat-btn flex items-center gap-3 w-full px-3 py-2.5 rounded-xl text-sm font-medium text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors">
+            <span class="material-symbols-outlined text-[18px] text-slate-400">${escapeHtml(getCategoryIcon(cat))}</span>
+            <span class="flex-1 text-left truncate">${escapeHtml(titleCaseCategory(cat))}</span>
             <span class="text-xs text-slate-400 font-medium">${counts[cat].toLocaleString()}</span>
           </button>
         `).join('')}
@@ -558,7 +573,7 @@
         btn.classList.remove('bg-primary/10', 'text-primary', 'font-semibold');
         btn.classList.add('text-slate-600', 'dark:text-slate-400', 'font-medium');
       });
-      const activeId = currentCategory ? `cat-${currentCategory}` : 'cat-all';
+      const activeId = categoryButtonId(currentCategory);
       const activeBtn = document.getElementById(activeId);
       if (activeBtn) {
         activeBtn.classList.add('bg-primary/10', 'text-primary', 'font-semibold');
@@ -633,7 +648,7 @@
 
     function formCard(form) {
       const badgeStyle = getBadgeStyle(form.category);
-      const catLabel = form.category.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+      const catLabel = titleCaseCategory(form.category);
       const catShort = catLabel.split(' ').slice(0, 2).join(' ');
       const desc = generateDescription(form);
       const yamlUrl = `https://raw.githubusercontent.com/dsalazarrojas/forms/main/${form.filePath}`;
@@ -645,7 +660,7 @@
         : '';
 
       return `
-        <div class="bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-2xl overflow-hidden hover:shadow-xl hover:shadow-slate-200/60 dark:hover:shadow-slate-900/60 hover:-translate-y-0.5 transition-all duration-200 flex flex-col group">
+        <div data-testid="form-card" class="bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-2xl overflow-hidden hover:shadow-xl hover:shadow-slate-200/60 dark:hover:shadow-slate-900/60 hover:-translate-y-0.5 transition-all duration-200 flex flex-col group">
           <div class="p-5 flex-1 flex flex-col">
             <div class="flex justify-between items-start mb-3 gap-2">
               <span class="text-[10px] font-bold px-2.5 py-1 rounded-lg uppercase tracking-wider shrink-0" style="${badgeStyle}">${catShort}</span>
@@ -656,18 +671,18 @@
                 </span>
               </div>
             </div>
-            <h3 class="text-sm font-bold text-slate-900 dark:text-white mb-2 group-hover:text-primary transition-colors leading-snug line-clamp-2 flex-0">${form.title}</h3>
-            <p class="text-xs text-slate-500 dark:text-slate-400 line-clamp-2 mb-3 leading-relaxed flex-1">${desc}</p>
+            <h3 class="text-sm font-bold text-slate-900 dark:text-white mb-2 group-hover:text-primary transition-colors leading-snug line-clamp-2 flex-0">${escapeHtml(form.title)}</h3>
+            <p class="text-xs text-slate-500 dark:text-slate-400 line-clamp-2 mb-3 leading-relaxed flex-1">${escapeHtml(desc)}</p>
             <div class="flex flex-wrap gap-1 mt-auto">
               ${[...new Set(form.questionTypes)].slice(0, 3).map(t => `
-                <span class="text-[10px] px-2 py-0.5 bg-slate-100 dark:bg-slate-700 text-slate-500 dark:text-slate-400 rounded-full">${t.replace(/_/g, ' ')}</span>
+                <span class="text-[10px] px-2 py-0.5 bg-slate-100 dark:bg-slate-700 text-slate-500 dark:text-slate-400 rounded-full">${escapeHtml(t.replace(/_/g, ' '))}</span>
               `).join('')}
             </div>
           </div>
           <div class="px-4 py-3 bg-slate-50 dark:bg-slate-800/70 border-t border-slate-100 dark:border-slate-700/80 flex gap-2">
-            <a href="${previewUrl}" class="flex-1 py-2 text-xs font-bold text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-200 dark:hover:bg-slate-700 rounded-xl transition-colors text-center">Preview</a>
-            <a href="${editUrl}" class="flex-1 py-2 text-xs font-bold text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-200 dark:hover:bg-slate-700 rounded-xl transition-colors text-center">Edit</a>
-            <a href="${yamlUrl}" download="${filename}" class="flex-[1.5] py-2 text-xs font-bold bg-primary text-white rounded-xl hover:bg-orange-600 active:bg-orange-700 transition-colors text-center shadow-sm shadow-primary/30">Download YAML</a>
+            <a href="${escapeHtml(previewUrl)}" data-testid="form-card-preview-link" class="flex-1 py-2 text-xs font-bold text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-200 dark:hover:bg-slate-700 rounded-xl transition-colors text-center">Preview</a>
+            <a href="${escapeHtml(editUrl)}" class="flex-1 py-2 text-xs font-bold text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-200 dark:hover:bg-slate-700 rounded-xl transition-colors text-center">Edit</a>
+            <a href="${escapeHtml(yamlUrl)}" download="${escapeHtml(filename)}" class="flex-[1.5] py-2 text-xs font-bold bg-primary text-white rounded-xl hover:bg-orange-600 active:bg-orange-700 transition-colors text-center shadow-sm shadow-primary/30">Download YAML</a>
           </div>
         </div>
       `;
@@ -696,14 +711,14 @@
 
       paginationEl.innerHTML = `
         <nav class="flex items-center gap-1.5" aria-label="Pagination">
-          <button onclick="if(${currentPage}>1){renderPage(${currentPage}-1)}" ${currentPage === 1 ? 'disabled' : ''} class="${btnNav}" aria-label="Previous page">
+          <button type="button" data-pagination="prev" ${currentPage === 1 ? 'disabled' : ''} class="${btnNav}" aria-label="Previous page">
             <span class="material-symbols-outlined text-[20px]">chevron_left</span>
           </button>
           ${pages.map(p => p === '...'
             ? `<span class="px-2 text-slate-400 text-sm select-none">…</span>`
-            : `<button onclick="renderPage(${p})" class="${p === currentPage ? btnActive : btnInactive}" ${p === currentPage ? 'aria-current="page"' : ''}>${p}</button>`
+            : `<button type="button" data-page="${p}" class="${p === currentPage ? btnActive : btnInactive}" ${p === currentPage ? 'aria-current="page"' : ''}>${p}</button>`
           ).join('')}
-          <button onclick="if(${currentPage}<${totalPages}){renderPage(${currentPage}+1)}" ${currentPage === totalPages ? 'disabled' : ''} class="${btnNav}" aria-label="Next page">
+          <button type="button" data-pagination="next" ${currentPage === totalPages ? 'disabled' : ''} class="${btnNav}" aria-label="Next page">
             <span class="material-symbols-outlined text-[20px]">chevron_right</span>
           </button>
         </nav>
@@ -717,10 +732,10 @@
 
       document.getElementById('popular-cats').innerHTML = top.map(([cat, count], i) => `
         <li>
-          <button onclick="setCategory('${cat}'); window.scrollTo({top:0, behavior:'smooth'})" class="flex items-center justify-between w-full p-3 bg-white dark:bg-slate-800 rounded-xl border border-slate-100 dark:border-slate-700 hover:border-primary/40 hover:shadow-sm transition-all text-left group">
+          <button type="button" data-category="${escapeHtml(cat)}" data-scroll-top="true" class="flex items-center justify-between w-full p-3 bg-white dark:bg-slate-800 rounded-xl border border-slate-100 dark:border-slate-700 hover:border-primary/40 hover:shadow-sm transition-all text-left group">
             <div class="flex items-center gap-3">
               <div class="h-8 w-8 rounded-lg bg-primary/10 text-primary flex items-center justify-center text-xs font-extrabold shrink-0">#${i + 1}</div>
-              <span class="font-semibold text-sm text-slate-700 dark:text-slate-300 group-hover:text-primary transition-colors truncate">${cat.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}</span>
+              <span class="font-semibold text-sm text-slate-700 dark:text-slate-300 group-hover:text-primary transition-colors truncate">${escapeHtml(titleCaseCategory(cat))}</span>
             </div>
             <span class="text-xs text-slate-400 font-semibold ml-2 shrink-0">${count.toLocaleString()}</span>
           </button>
@@ -733,8 +748,8 @@
       document.getElementById('latest-added').innerHTML = latest.map(form => `
         <a href="preview.html?form=${encodeURIComponent(form.filePath)}" class="block group rounded-xl border border-transparent hover:border-primary/20 hover:bg-white dark:hover:bg-slate-800 transition-all">
           <div class="p-3">
-            <p class="text-[10px] text-primary font-bold uppercase tracking-wider mb-0.5">${form.category.replace(/_/g, ' ')}</p>
-            <h4 class="text-sm font-bold text-slate-900 dark:text-white group-hover:text-primary transition-colors leading-snug line-clamp-1">${form.title}</h4>
+            <p class="text-[10px] text-primary font-bold uppercase tracking-wider mb-0.5">${escapeHtml(form.category.replace(/_/g, ' '))}</p>
+            <h4 class="text-sm font-bold text-slate-900 dark:text-white group-hover:text-primary transition-colors leading-snug line-clamp-1">${escapeHtml(form.title)}</h4>
             <p class="text-xs text-slate-400 mt-0.5">${form.questionCount} questions</p>
           </div>
         </a>
@@ -785,6 +800,36 @@
       currentPage = 1;
       applyFiltersAndRender();
       searchInput.focus();
+    });
+
+    document.getElementById('sidebar-categories').addEventListener('click', event => {
+      const button = event.target.closest('[data-category]');
+      if (!button) return;
+      setCategory(button.getAttribute('data-category') || '');
+    });
+
+    document.getElementById('popular-cats').addEventListener('click', event => {
+      const button = event.target.closest('[data-category]');
+      if (!button) return;
+      setCategory(button.getAttribute('data-category') || '');
+      if (button.dataset.scrollTop === 'true') {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+    });
+
+    document.getElementById('pagination').addEventListener('click', event => {
+      const button = event.target.closest('[data-page],[data-pagination]');
+      if (!button || button.disabled) return;
+      if (button.dataset.page) {
+        renderPage(Number(button.dataset.page));
+        return;
+      }
+      if (button.dataset.pagination === 'prev' && currentPage > 1) {
+        renderPage(currentPage - 1);
+      }
+      if (button.dataset.pagination === 'next') {
+        renderPage(currentPage + 1);
+      }
     });
 
     window.addEventListener('hashchange', applyHashFilter);

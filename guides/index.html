@@ -12,88 +12,39 @@
   <meta property="og:url" content="https://forms.gic.mx/guides/">
   <meta name="twitter:card" content="summary_large_image">
   <style>
-    :root {
-      --bg: #f8fafc;
-      --card: #ffffff;
-      --text: #0f172a;
-      --muted: #475569;
-      --line: #e2e8f0;
-      --brand: #ec5b13;
-      --brand-soft: #fff1e9;
-    }
+    :root { --bg:#f8fafc; --card:#fff; --text:#0f172a; --muted:#475569; --line:#e2e8f0; --brand:#ec5b13; --brand-soft:#fff1e9; }
     * { box-sizing: border-box; }
-    body {
-      margin: 0;
-      font-family: "Public Sans", "Segoe UI", sans-serif;
-      color: var(--text);
-      background:
-        radial-gradient(circle at top, rgba(236,91,19,.08), transparent 32rem),
-        linear-gradient(180deg, #fff, var(--bg));
-      line-height: 1.6;
-    }
+    body { margin:0; font-family:"Public Sans","Segoe UI",sans-serif; color:var(--text);
+      background: radial-gradient(circle at top, rgba(236,91,19,.08), transparent 32rem), linear-gradient(180deg,#fff,var(--bg));
+      line-height:1.6; }
     a { color: var(--brand); text-decoration: none; }
     a:hover { text-decoration: underline; }
     .wrap { max-width: 1100px; margin: 0 auto; padding: 0 1.25rem; }
-    .topbar {
-      position: sticky; top: 0; z-index: 10;
-      backdrop-filter: blur(10px);
-      background: rgba(255,255,255,.88);
-      border-bottom: 1px solid rgba(226,232,240,.9);
-    }
-    .topbar-inner {
-      display: flex; align-items: center; justify-content: space-between; gap: 1rem;
-      min-height: 4rem;
-    }
-    .brand {
-      display: inline-flex; align-items: center; gap: .75rem; font-weight: 800; color: var(--text);
-    }
-    .brand-badge {
-      width: 2rem; height: 2rem; border-radius: .75rem; background: var(--brand);
-      display: inline-flex; align-items: center; justify-content: center; color: #fff; font-size: 1rem;
-    }
-    .nav { display: flex; gap: 1rem; flex-wrap: wrap; }
-    .nav a { color: var(--muted); font-weight: 600; }
-    .hero { padding: 4rem 0 2rem; }
-    .eyebrow {
-      display: inline-flex; align-items: center; gap: .5rem; font-size: .82rem; font-weight: 700;
-      color: var(--brand); background: var(--brand-soft); padding: .45rem .8rem; border-radius: 999px;
-    }
-    h1 { font-size: clamp(2rem, 4vw, 3.5rem); line-height: 1.08; margin: 1rem 0; }
-    h2 { font-size: 1.35rem; margin: 0 0 .85rem; }
-    h3 { font-size: 1.05rem; margin: 0 0 .65rem; }
+    .topbar { position: sticky; top: 0; z-index: 10; backdrop-filter: blur(10px); background: rgba(255,255,255,.88); border-bottom: 1px solid rgba(226,232,240,.9); }
+    .topbar-inner { display:flex; align-items:center; justify-content:space-between; gap:1rem; min-height:4rem; }
+    .brand { display:inline-flex; align-items:center; gap:.75rem; font-weight:800; color:var(--text); }
+    .brand-badge { width:2rem; height:2rem; border-radius:.75rem; background:var(--brand); display:inline-flex; align-items:center; justify-content:center; color:#fff; font-size:1rem; }
+    .nav { display:flex; gap:1rem; flex-wrap:wrap; }
+    .nav a { color:var(--muted); font-weight:600; }
+    .hero { padding: 3rem 0 1.5rem; }
+    .eyebrow { display:inline-flex; align-items:center; gap:.5rem; font-size:.82rem; font-weight:700; color:var(--brand); background:var(--brand-soft); padding:.45rem .8rem; border-radius:999px; }
+    h1 { font-size: clamp(1.8rem, 3.6vw, 3rem); line-height:1.1; margin:1rem 0; }
+    h3 { font-size:1.05rem; margin:0 0 .5rem; }
     p, li { color: var(--muted); }
     main { padding-bottom: 4rem; }
-    .grid { display: grid; gap: 1.25rem; }
-    .grid-2 { grid-template-columns: repeat(auto-fit, minmax(270px, 1fr)); }
-    .card {
-      background: var(--card); border: 1px solid var(--line); border-radius: 1.25rem;
-      padding: 1.25rem; box-shadow: 0 18px 50px rgba(15, 23, 42, 0.05);
-    }
-    .pill {
-      display: inline-block; padding: .22rem .55rem; border-radius: 999px;
-      font-size: .78rem; font-weight: 700; background: #f1f5f9; color: #334155;
-    }
-    .cta-row { display: flex; flex-wrap: wrap; gap: .75rem; margin-top: 1.25rem; }
-    .btn {
-      display: inline-flex; align-items: center; justify-content: center; gap: .5rem;
-      border-radius: .9rem; padding: .85rem 1.05rem; font-weight: 700;
-      border: 1px solid transparent;
-    }
-    .btn-primary { background: var(--brand); color: #fff; }
-    .btn-secondary { background: #fff; color: var(--text); border-color: var(--line); }
-    .list { margin: 0; padding-left: 1.1rem; }
-    .lede { font-size: 1.06rem; max-width: 68ch; }
-    footer { border-top: 1px solid var(--line); padding: 2rem 0 3rem; color: var(--muted); }
-    .muted { color: var(--muted); }
-    .section { margin-top: 1.5rem; }
-    .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1rem; }
-    .small { font-size: .92rem; }
-    @media (max-width: 720px) {
-      .topbar-inner { align-items: flex-start; padding: .8rem 0; flex-direction: column; }
-      .hero { padding-top: 2.5rem; }
-    }
+    .lede { font-size:1.06rem; max-width:68ch; }
+    .cards { display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap:1rem; }
+    .card { background:var(--card); border:1px solid var(--line); border-radius:1.25rem; padding:1.25rem; box-shadow: 0 18px 50px rgba(15,23,42,0.05); }
+    .pill { display:inline-block; padding:.22rem .55rem; border-radius:999px; font-size:.78rem; font-weight:700; background:#f1f5f9; color:#334155; }
+    .list-links { columns: 2; column-gap: 2rem; }
+    .list-links li { break-inside: avoid; margin-bottom: .4rem; }
+    .pager { display:flex; flex-wrap:wrap; gap:.5rem; margin: 2rem 0; }
+    .pager a, .pager span { display:inline-flex; align-items:center; justify-content:center; min-width:2.25rem; height:2.25rem; padding:0 .6rem; border-radius:.6rem; border:1px solid var(--line); font-weight:700; }
+    .pager .current { background:var(--brand); color:#fff; border-color:var(--brand); }
+    footer { border-top:1px solid var(--line); padding:2rem 0 3rem; color:var(--muted); }
+    .small { font-size:.92rem; }
+    @media (max-width:720px) { .list-links { columns: 1; } }
   </style>
-  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://forms.gic.mx/"}, {"@type": "ListItem", "position": 2, "name": "Guides", "item": "https://forms.gic.mx/guides/"}]}</script>
 </head>
 <body>
   <header class="topbar">
@@ -111,648 +62,369 @@
       </nav>
     </div>
   </header>
-  
+
   <main class="wrap">
     <section class="hero">
       <span class="eyebrow">Curated Guides</span>
       <h1>Template Guides For Stronger Crawlable Content</h1>
-      <p class="lede">These guide pages turn selected templates into editorial resources with summaries, review notes, download links, and clearer category context.</p>
+      <p class="lede">These guide pages turn selected templates into editorial resources with summaries, review notes, download links, and clearer category context. Showing 50 of 400 guides &mdash; page 1 of 8.</p>
     </section>
+    <nav class="pager" aria-label="Guide pages"><span class="current">1</span><a href="/guides/page-2.html">2</a><a href="/guides/page-3.html">3</a><a href="/guides/page-4.html">4</a><a href="/guides/page-5.html">5</a><a href="/guides/page-6.html">6</a><a href="/guides/page-7.html">7</a><a href="/guides/page-8.html">8</a><a href="/guides/page-2.html">Next &raquo;</a></nav>
     <section class="cards">
       
         <article class="card">
-          <p class="pill">Survey Templates</p>
-          <h3>Nail Salon Customer Retention Survey</h3>
-          <p>To prevent duplication of effort and ensure accurate information, I will review the form purpose and provide a concise, concrete, and practical help guide for the user. &lt;/thinking&gt; Nail Salon Customer Retention Survey -...</p>
-          <p><a href="/guides/050-nail-salon-customer-retention-survey-survey-templates.html">Read guide</a></p>
+          <p class="pill">Sponsorship Form Templates</p>
+          <h3>2016 Council For Life Fort Worth Beneficiary Application</h3>
+          <p>2016 Council For Life Fort Worth Beneficiary Application is a reusable sponsorship form templates template with 33 fields. Use it as a starting point when you n</p>
+          <p><a href="/guides/2016-council-for-life-fort-worth-beneficiary-application-sponsorship-form-templates.html">Read guide</a></p>
         </article>
 
         <article class="card">
-          <p class="pill">Assessment Forms</p>
-          <h3>German Vocabulary Quiz</h3>
-          <p>German Vocabulary Quiz - Help Guide Purpose This form is designed to test your knowledge of German vocabulary. It consists of a series of questions that will assess your understanding of German words and their meanings....</p>
-          <p><a href="/guides/044-german-vocabulary-quiz-assessment-forms.html">Read guide</a></p>
+          <p class="pill">Voting</p>
+          <h3>23 Slot Unique Ranking Form With Email Response</h3>
+          <p>23 Slot Unique Ranking Form With Email Response is a reusable voting template with 33 fields. Use it as a starting point when you need a structured workflow rat</p>
+          <p><a href="/guides/23-slot-unique-ranking-form-with-email-response-voting.html">Read guide</a></p>
         </article>
 
         <article class="card">
-          <p class="pill">Job Application Forms</p>
-          <h3>Fintech Role Aptitude Exam</h3>
-          <p>Fintech Role Aptitude Exam - Help Guide Purpose The Fintech Role Aptitude Exam is designed to assess a candidate&#x27;s experience, skills, and knowledge in various areas related to the fintech industry. This guide will walk...</p>
-          <p><a href="/guides/019-fintech-role-aptitude-exam-job-application-forms.html">Read guide</a></p>
+          <p class="pill">Sponsorship Form Templates</p>
+          <h3>Aerospace Conference Sponsorship Form</h3>
+          <p>Aerospace Conference Sponsorship Form is a reusable sponsorship form templates template with 31 fields. Use it as a starting point when you need a structured wo</p>
+          <p><a href="/guides/012-aerospace-conference-sponsorship-form-sponsorship-form-templates.html">Read guide</a></p>
         </article>
 
         <article class="card">
-          <p class="pill">Registration Forms</p>
-          <h3>College Camp Registration Form</h3>
-          <p>College Camp Registration Form - Help Guide Purpose The College Camp Registration Form is a comprehensive form used to collect information from students registering for the college camp. This form is used to ensure that...</p>
-          <p><a href="/guides/040-college-camp-registration-form-registration-forms.html">Read guide</a></p>
+          <p class="pill">Esthetician Forms</p>
+          <h3>Aesthetics Supplementary Assessment</h3>
+          <p>This form is part of an aesthetic assessment process for clients. The assessment is intended to gather information about the client&#x27;s background, medical histor</p>
+          <p><a href="/guides/017-aesthetics-supplementary-assessment-esthetician-forms.html">Read guide</a></p>
         </article>
 
         <article class="card">
-          <p class="pill">Registration Forms</p>
-          <h3>Animal Therapy Program Registration</h3>
-          <p>&lt;/thinking&gt; Animal Therapy Program Registration - Help Guide Purpose This form is for registering participants in the Animal Therapy Program. The goal of this program is to provide a supportive and inclusive environment...</p>
-          <p><a href="/guides/040-animal-therapy-program-registration-registration-forms.html">Read guide</a></p>
+          <p class="pill">Lawyer Forms</p>
+          <h3>Affidavit Witness Statement Form</h3>
+          <p>Affidavit Witness Statement Form is a reusable lawyer forms template with 37 fields. Use it as a starting point when you need a structured workflow rather than </p>
+          <p><a href="/guides/019-affidavit-witness-statement-form-lawyer-forms.html">Read guide</a></p>
         </article>
 
         <article class="card">
-          <p class="pill">Veterinarian Forms</p>
-          <h3>Animal Hospital Estimate Form Template</h3>
-          <p>Animal Hospital Estimate Form Template - Help Guide Purpose This form is designed for veterinarians to create an estimate for animal hospital services. It gathers information about the client, pet, and services required...</p>
-          <p><a href="/guides/047-animal-hospital-estimate-form-template-veterinarian-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Services Forms</p>
-          <h3>Solar Funnel Questionnaire</h3>
-          <p>Solar Funnel Questionnaire - Help Guide Purpose The Solar Funnel Questionnaire is a tool used to gather information and feedback from users on various topics. It is designed to be completed in multiple pages, with each...</p>
-          <p><a href="/guides/032-solar-funnel-questionnaire-services-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Caregiver Forms</p>
-          <h3>Nanny Reference Request Form</h3>
-          <p>Nanny Reference Request Form - Help Guide Purpose This form is used to collect information about a nanny&#x27;s employment history and experience. Please provide detailed and accurate information about the nanny&#x27;s job title...</p>
-          <p><a href="/guides/033-nanny-reference-request-form-caregiver-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Human Resources Forms</p>
-          <h3>Dtr Datc</h3>
-          <p>Dtr Datc - Help Guide Purpose This form is designed to track time-related data, likely for attendance or scheduling purposes. It is intended to be completed by a single user, possibly a supervisor or administrator, and...</p>
-          <p><a href="/guides/016-dtr-datc-human-resources-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Check Out Forms</p>
-          <h3>Cleaning Shift Checkout Form</h3>
-          <p>Cleaning Shift Checkout Form - Help Guide Purpose The Cleaning Shift Checkout Form is a tool used by cleaning staff to document their completion of a shift, including tasks, quality checks, and other essential details....</p>
-          <p><a href="/guides/046-cleaning-shift-checkout-form-check-out-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Rsvp Forms</p>
-          <h3>Birthday Party Reservation Form</h3>
-          <p>Birthday Party Reservation Form - Help Guide Purpose This form is designed to collect and process information about your birthday party reservation. Please take a few minutes to fill out this form and let us know about...</p>
-          <p><a href="/guides/045-birthday-party-reservation-form-rsvp-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Event Registration Forms</p>
-          <h3>Birthday Party Itinerary Form</h3>
-          <p>Birthday Party Itinerary Form - Help Guide Purpose The Birthday Party Itinerary Form is used to collect information about the birthday party, including the celebrant&#x27;s details, party schedule, and guests&#x27; expectations....</p>
-          <p><a href="/guides/044-birthday-party-itinerary-form-event-registration-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Education Forms</p>
-          <h3>After School Programs Enrollment Form</h3>
-          <p>After School Programs Enrollment Form - Help Guide Purpose This form is designed to provide the necessary information to enroll your child in our after-school programs. It will be reviewed by our team to ensure that we...</p>
-          <p><a href="/guides/050-after-school-programs-enrollment-form-education-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Technician Forms</p>
-          <h3>Hardware Issue Report Form</h3>
-          <p>Hardware Issue Report Form - Help Guide Purpose The Hardware Issue Report Form is designed to collect information about hardware issues that need to be reported to the technical team. This form helps to streamline the...</p>
-          <p><a href="/guides/020-hardware-issue-report-form-technician-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Checklist Forms</p>
-          <h3>Facility Maintenance Checklist Form</h3>
-          <p>Facility Maintenance Checklist Form - Help Guide Purpose The Facility Maintenance Checklist Form is a tool designed for users to report their maintenance activities and upload supporting documents. The form is used to...</p>
-          <p><a href="/guides/038-facility-maintenance-checklist-form-checklist-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Customer Service Forms</p>
-          <h3>Cleaning Customer Data Sheet</h3>
-          <p>Cleaning Customer Data Sheet - Help Guide Purpose This form is designed to collect essential information about the customer, including personal details, service preferences, and billing information. The data collected...</p>
-          <p><a href="/guides/023-cleaning-customer-data-sheet-customer-service-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Business Forms</p>
-          <h3>Building Management Cloud Registration</h3>
-          <p>Building Management Cloud Registration - Help Guide Purpose This form is designed to collect information about your property management business and its needs for cloud-based management. The data you provide will help...</p>
-          <p><a href="/guides/040-building-management-cloud-registration-business-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Appointment Forms</p>
-          <h3>Birth Control Appointment And Screening Form</h3>
-          <p>This help guide is designed to assist end-users in completing the &quot;Birth Control Appointment And Screening Form&quot; accurately and effectively. The form is intended to gather essential information from patients to better...</p>
-          <p><a href="/guides/030-birth-control-appointment-and-screening-form-appointment-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Employment Forms</p>
-          <h3>Biotechnology Sector Job Application Form</h3>
-          <p>Biotechnology Sector Job Application Form - Help Guide Purpose The Biotechnology Sector Job Application Form is designed to collect comprehensive information about your background, qualifications, and experience for a...</p>
-          <p><a href="/guides/017-biotechnology-sector-job-application-form-employment-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Checklist Forms</p>
-          <h3>Annual Inspection Form</h3>
-          <p>Annual Inspection Form - Help Guide Purpose The Annual Inspection Form is used to document the results of regular annual inspections of various facilities, including buildings, vehicles, equipment, and properties. The...</p>
-          <p><a href="/guides/035-annual-inspection-form-checklist-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Renewal Verification Forms</p>
-          <h3>Workforce Accreditation Renewal Application Form</h3>
-          <p>Workforce Accreditation Renewal Application Form - Help Guide Purpose The Workforce Accreditation Renewal Application Form is designed to collect information from users regarding their workforce accreditation renewal...</p>
-          <p><a href="/guides/042-workforce-accreditation-renewal-application-form-renewal-verification-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Administrative Forms</p>
-          <h3>Safety Standards Verification Form</h3>
-          <p>&gt; thinking This form is used to verify that an organization&#x27;s safety standards and procedures are in place to prevent and respond to incidents. The form should only be filled out once a year, as part of the company&#x27;s...</p>
-          <p><a href="/guides/011-safety-standards-verification-form-administrative-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Real Estate Forms</p>
-          <h3>Contract To Close</h3>
-          <p>Contract To Close - Help Guide Purpose The Contract To Close form is used to collect essential details about a real estate transaction, including buyer and seller information, property details, financing, and closing...</p>
-          <p><a href="/guides/050-contract-to-close-real-estate-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Administrative Forms</p>
-          <h3>Company Asset Purchase Request Form</h3>
-          <p>Company Asset Purchase Request Form - Help Guide Purpose The Company Asset Purchase Request Form is a crucial tool for employees to request company assets for work-related purposes. It helps ensure that all necessary...</p>
-          <p><a href="/guides/030-company-asset-purchase-request-form-administrative-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Insurance Agent Forms</p>
-          <h3>Annuity Licensing Request Form</h3>
-          <p>Annuity Licensing Request Form - Help Guide Purpose This form is designed to collect information from insurance agents applying for an annuity license. It is used by the licensing department to review and process the...</p>
-          <p><a href="/guides/048-annuity-licensing-request-form-insurance-agent-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Healthcare Surveys</p>
-          <h3>Patient Safety Assessment Survey</h3>
-          <p>Patient Safety Assessment Survey - Help Guide Purpose The Patient Safety Assessment Survey is designed to gather feedback from patients or their representatives about their experiences with our healthcare team. This...</p>
-          <p><a href="/guides/041-patient-safety-assessment-survey-healthcare-surveys.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Informed Consent Forms</p>
-          <h3>Chiropractic Treatment Consent Form</h3>
-          <p>Chiropractic Treatment Consent Form - Help Guide Purpose This form is a legal document that ensures you understand the nature of chiropractic care, potential risks, and benefits before starting treatment. Completing...</p>
-          <p><a href="/guides/027-chiropractic-treatment-consent-form-informed-consent-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Photography Forms</p>
-          <h3>Birth Photography Contract Form</h3>
-          <p>Birth Photography Contract Form - Help Guide Purpose This form is a standard contract for birth photography services, outlining the terms and conditions for both the photographer and the client. How To Complete This...</p>
-          <p><a href="/guides/034-birth-photography-contract-form-photography-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Education Forms</p>
-          <h3>Case Study Evaluation Form</h3>
-          <p>Case Study Evaluation Form - Help Guide Purpose The Case Study Evaluation Form is designed to help evaluators assess and provide feedback on a presentation or case study. This form is intended for use by presenters...</p>
-          <p><a href="/guides/035-case-study-evaluation-form-education-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Feedback Surveys</p>
-          <h3>Streaming Support Feedback Form</h3>
-          <p>Streaming Support Feedback Form - Help Guide Purpose This form is designed to collect feedback from users about their experience with our streaming service. We appreciate your input, which will help us improve our...</p>
-          <p><a href="/guides/049-streaming-support-feedback-form-feedback-surveys.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Survey Templates</p>
-          <h3>Bird Personality Assessment</h3>
-          <p>Bird Personality Assessment - Help Guide Purpose The Bird Personality Assessment is a 20-question survey designed to help you discover your unique personality type, represented by a bird species that reflects your...</p>
-          <p><a href="/guides/046-bird-personality-assessment-survey-templates.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Order Forms</p>
-          <h3>Web Hosting Contract Form</h3>
-          <p>Web Hosting Contract Form - Help Guide Purpose This form is used to create and manage multiple web hosting contracts. Each section of the form corresponds to a contract and collects different information for each...</p>
-          <p><a href="/guides/031-web-hosting-contract-form-order-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Healthcare Forms</p>
-          <h3>Chiropractic Survey</h3>
-          <p>Chiropractic Survey - Help Guide Purpose This form is designed to collect feedback from patients about their experience with a chiropractic office. The form is used to identify areas of satisfaction and areas for...</p>
-          <p><a href="/guides/024-chiropractic-survey-healthcare-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Business Surveys</p>
-          <h3>Amazon Experience Feedback Survey</h3>
-          <p>Amazon Experience Feedback Survey - Help Guide Purpose This form is a customer feedback survey designed to gather information about your experience with Amazon. The data collected will be used to improve Amazon&#x27;s...</p>
-          <p><a href="/guides/015-amazon-experience-feedback-survey-business-surveys.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Sports Forms</p>
-          <h3>Sports Media Interview Consent Form</h3>
-          <p>Sports Media Interview Consent Form - Help Guide Purpose The Sports Media Interview Consent Form is designed to obtain consent from sports media interview participants. It&#x27;s a simple form that collects essential...</p>
-          <p><a href="/guides/016-sports-media-interview-consent-form-sports-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Healthcare Forms</p>
-          <h3>Clinical Research Assessment Form</h3>
-          <p>This form is designed for clinical research assessments, typically used by medical professionals or researchers to collect patient eligibility and medical history data for clinical trials. This form ensures that...</p>
-          <p><a href="/guides/026-clinical-research-assessment-form-healthcare-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Registration Forms</p>
-          <h3>Birthday Event Registration Form</h3>
-          <p>Birthday Event Registration Form - Help Guide Purpose This form is designed to collect information for a birthday event registration process. It is intended for parents or guardians of children celebrating their...</p>
-          <p><a href="/guides/040-birthday-event-registration-form-registration-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Transportation Request Forms</p>
-          <h3>Animal Transport Company Liability Consent Form</h3>
-          <p>Animal Transport Company Liability Consent Form - Help Guide Purpose The Animal Transport Company Liability Consent Form is a critical document that ensures the safe and healthy transport of animals. It gathers...</p>
-          <p><a href="/guides/038-animal-transport-company-liability-consent-form-transportation-request-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Cleaning Forms</p>
-          <h3>Cleaning Knowledge Assessment</h3>
-          <p>Cleaning Knowledge Assessment - Help Guide Purpose This form is used to assess an employee&#x27;s knowledge and skills in the cleaning industry, focusing on safety, cleaning procedures, equipment operation, quality...</p>
-          <p><a href="/guides/028-cleaning-knowledge-assessment-cleaning-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Assessment Forms</p>
-          <h3>Antimicrobial Therapy Assessment</h3>
-          <p>Antimicrobial Therapy Assessment - Help Guide Purpose The Antimicrobial Therapy Assessment form is designed to collect information about a patient&#x27;s antimicrobial therapy, including details about the patient&#x27;s...</p>
-          <p><a href="/guides/026-antimicrobial-therapy-assessment-assessment-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Registration Forms</p>
-          <h3>Birthday Party Checklist Form</h3>
-          <p>By completing this form, you&#x27;ll have a comprehensive overview of your party planning progress, allowing you to stay organized and ensure a stress-free party experience for all.</p>
-          <p><a href="/guides/041-birthday-party-checklist-form-registration-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Building Inspector Forms</p>
-          <h3>Annual Vehicle Inspection Form</h3>
-          <p>&lt;figure: image of an annual vehicle inspection form, with arrows pointing to the various fields and rating scales.</p>
-          <p><a href="/guides/045-annual-vehicle-inspection-form-building-inspector-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Performance Tracking Forms</p>
-          <h3>Chipper Performance Assessment</h3>
-          <p>Chipper Performance Assessment - Help Guide Purpose</p>
-          <p><a href="/guides/016-chipper-performance-assessment-performance-tracking-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Registration Forms</p>
-          <h3>Corporate Retreat Waiver Form</h3>
-          <p>Corporate Retreat Waiver Form - Help Guide Purpose</p>
-          <p><a href="/guides/049-corporate-retreat-waiver-form-registration-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Services Forms</p>
-          <h3>Cleaning Inspection Checklist</h3>
-          <p>Cleaning Inspection Checklist - Help Guide Purpose</p>
-          <p><a href="/guides/025-cleaning-inspection-checklist-services-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Job Application Forms</p>
-          <h3>Chemist Job Application Form</h3>
-          <p>Chemist Job Application Form - Help Guide Purpose</p>
-          <p><a href="/guides/035-chemist-job-application-form-job-application-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">School Counselor Forms</p>
-          <h3>Career Cluster Survey</h3>
-          <p>Career Cluster Survey - Help Guide Purpose</p>
-          <p><a href="/guides/019-career-cluster-survey-school-counselor-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Marketing Surveys</p>
-          <h3>Donation Channel Trustworthiness Survey</h3>
-          <p>Donation Channel Trustworthiness Survey - Help Guide Purpose The Donation Channel Trustworthiness Survey is designed to collect information about your experience with different donation channels. The survey will ask you...</p>
-          <p><a href="/guides/002-donation-channel-trustworthiness-survey-marketing-surveys.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Education Forms</p>
-          <h3>Chores And Vocabulary Quiz</h3>
-          <p>Chores And Vocabulary Quiz - Help Guide Purpose This form is a quiz designed to test your understanding of household chores and vocabulary related to them. You will be presented with a series of questions that will help...</p>
-          <p><a href="/guides/049-chores-and-vocabulary-quiz-education-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Inspection Forms</p>
-          <h3>Building Inspection Entry Consent Form</h3>
-          <p>Note: The following fields are only required if they are relevant to the specific inspection: Unit number or apartment, Tenant name, Tenant contact information, Tenant phone number, Inspection purpose, Inspector license...</p>
-          <p><a href="/guides/033-building-inspection-entry-consent-form-inspection-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Tracking Forms</p>
-          <h3>Construction Time Sheet Form</h3>
-          <p>Construction Time Sheet Form - Help Guide Purpose The Construction Time Sheet Form is used to track employee work hours and pay periods for a week-long period. It includes fields for employee and supervisor signatures...</p>
-          <p><a href="/guides/045-construction-time-sheet-form-tracking-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Cleaning Forms</p>
-          <h3>Cleaning Routine Tracking Form</h3>
-          <p>Cleaning Routine Tracking Form - Help Guide Purpose This form is a tool for tracking and monitoring the cleaning routine of your facility. It helps you to gather information on different aspects of cleaning, including...</p>
-          <p><a href="/guides/033-cleaning-routine-tracking-form-cleaning-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Legal Forms</p>
-          <h3>Case Outcome Report Form</h3>
-          <p>&lt;thinking&gt; Purpose The Case Outcome Report Form is used to document and report on the outcome of a legal case. This form is a crucial tool for gathering and analyzing data on case outcomes, which can be used to inform...</p>
-          <p><a href="/guides/028-case-outcome-report-form-legal-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Intake Forms</p>
-          <h3>Car Seat Donation Intake Form</h3>
-          <p>Car Seat Donation Intake Form - Help Guide Purpose This form is designed to gather information about the car seat you are donating, ensuring that the seat is safe and suitable for use in our program. Please answer all...</p>
-          <p><a href="/guides/042-car-seat-donation-intake-form-intake-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Student Registration Forms</p>
-          <h3>Athletic Participation Form</h3>
-          <p>Athletic Participation Form - Help Guide Purpose The athletic participation form is used to gather information about students participating in school sports activities. It is essential to collect accurate and complete...</p>
-          <p><a href="/guides/035-athletic-participation-form-student-registration-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Hospitality Forms</p>
-          <h3>Hospitality Dining Experience Assessment</h3>
-          <p>Hospitality Dining Experience Assessment - Help Guide Purpose This form is designed to help us assess your overall dining experience at our establishment. Your feedback will help us improve our services and provide a...</p>
-          <p><a href="/guides/022-hospitality-dining-experience-assessment-hospitality-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Recording Consent Forms</p>
-          <h3>Clinical Workflow Research Recording Consent Form</h3>
-          <p>&gt; &lt;thinking&gt; This form, &quot;Clinical Workflow Research Recording Consent Form&quot;, is intended to obtain informed consent from participants in clinical research studies. The form is designed to cover various aspects of the...</p>
-          <p><a href="/guides/039-clinical-workflow-research-recording-consent-form-recording-consent-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Pharmacy Forms</p>
-          <h3>COVID 19 Vaccine Screening</h3>
-          <p>COVID 19 Vaccine Screening - Help Guide Purpose This form is designed to screen patients for potential risks and contraindications associated with COVID-19 vaccination. How To Complete This Form To complete this form...</p>
-          <p><a href="/guides/046-covid-19-vaccine-screening-pharmacy-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Conference Registration Forms</p>
-          <h3>Internal Audit Conference Registration</h3>
-          <p>Internal Audit Conference Registration - Help Guide Purpose The internal audit conference registration form is designed to collect essential information from attendees to ensure a smooth and successful event. Please...</p>
-          <p><a href="/guides/017-internal-audit-conference-registration-conference-registration-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Checklist Forms</p>
-          <h3>Closing Checklist</h3>
-          <p>&lt;/thinking&gt; Closing Checklist - Help Guide Purpose The Closing Checklist is a comprehensive form used to ensure that a retail store is properly closed at the end of the shift. This form helps to document and confirm...</p>
-          <p><a href="/guides/050-closing-checklist-checklist-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">File Upload Forms</p>
-          <h3>Chest X Ray Workflow Documentation</h3>
-          <p>Chest X Ray Workflow Documentation - Help Guide Purpose The purpose of this form is to capture and document the workflow and examination details for each chest X-ray examination. This form is used to ensure that all...</p>
-          <p><a href="/guides/045-chest-x-ray-workflow-documentation-file-upload-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Inspection Forms</p>
-          <h3>Building Occupancy Audit Registration</h3>
-          <p>Building Occupancy Audit Registration - Help Guide Purpose The Building Occupancy Audit Registration form is designed to gather information from building owners or facility managers to register their building for an...</p>
-          <p><a href="/guides/044-building-occupancy-audit-registration-inspection-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Recording Consent Forms</p>
-          <h3>Animal Training Session Filming Consent Form</h3>
-          <p>Animal Training Session Filming Consent Form - Help Guide Purpose This form is used to obtain consent from animal owners for filming and recording of their training sessions. It ensures that all parties involved are...</p>
-          <p><a href="/guides/035-animal-training-session-filming-consent-form-recording-consent-forms.html">Read guide</a></p>
+          <p class="pill">Request Forms</p>
+          <h3>Affordable Community Expansion Application Form</h3>
+          <p>Affordable Community Expansion Application Form is a reusable request forms template with 36 fields. Use it as a starting point when you need a structured workf</p>
+          <p><a href="/guides/025-affordable-community-expansion-application-form-request-forms.html">Read guide</a></p>
         </article>
 
         <article class="card">
           <p class="pill">Real Estate Forms</p>
           <h3>Affordable Homeownership Program Application</h3>
-          <p>&gt; thinking We will now create a user-facing help guide for the Affordable Homeownership Program Application form. Affordable Homeownership Program Application - Help Guide Purpose This form is for applicants who are...</p>
+          <p>Affordable Homeownership Program Application is a reusable real estate forms template with 39 fields. Use it as a starting point when you need a structured work</p>
           <p><a href="/guides/026-affordable-homeownership-program-application-real-estate-forms.html">Read guide</a></p>
         </article>
 
         <article class="card">
-          <p class="pill">Chiropractic Forms</p>
-          <h3>Chiropractic Wellness Talk Registration Form</h3>
-          <p>Chiropractic Wellness Talk Registration Form - Help Guide Purpose This form is for attendees to register for a chiropractic wellness talk. It gathers information about the attendee, including contact details, event...</p>
-          <p><a href="/guides/029-chiropractic-wellness-talk-registration-form-chiropractic-forms.html">Read guide</a></p>
+          <p class="pill">Rental Application Form Templates</p>
+          <h3>Affordable Lease Support Application Form</h3>
+          <p>Affordable Lease Support Application Form is a reusable rental application form templates template with 37 fields. Use it as a starting point when you need a st</p>
+          <p><a href="/guides/027-affordable-lease-support-application-form-rental-application-form-templates.html">Read guide</a></p>
         </article>
 
         <article class="card">
-          <p class="pill">Human Resources Forms</p>
-          <h3>Company Credit Card Issuance Form</h3>
-          <p>Company Credit Card Issuance Form - Help Guide Purpose This form is used to request a company credit card for business use. How To Complete This Form To complete this form, follow these steps: Enter your full name...</p>
-          <p><a href="/guides/033-company-credit-card-issuance-form-human-resources-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Nonprofit Employee Forms</p>
-          <h3>Bird Rescue Adoption Application Form</h3>
-          <p>&lt;/thinking&gt; Bird Rescue Adoption Application Form - Help Guide Purpose This guide will walk you through the Bird Rescue Adoption Application Form, a comprehensive guide to help you complete the form accurately and...</p>
-          <p><a href="/guides/022-bird-rescue-adoption-application-form-nonprofit-employee-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Consent Forms</p>
-          <h3>Athletic Training Waiver Form</h3>
-          <p>Athletic Training Waiver Form - Help Guide Purpose This is a waiver form for participants enrolling in the athletic training program. It contains information about the participant, their medical history, and their...</p>
-          <p><a href="/guides/048-athletic-training-waiver-form-consent-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Registration Forms</p>
-          <h3>Psa Form</h3>
-          <p>Children&#x27;s Information For each additional child, follow the same steps as above and fill out the First Name, Last Name, Date Of Birth, Age, Contact Number, and Email fields. Make sure to fill out a unique set of...</p>
-          <p><a href="/guides/028-psa-form-registration-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Quote Forms</p>
-          <h3>Smart Home Budget Calculator</h3>
-          <p>Smart Home Budget Calculator - Help Guide Purpose The Smart Home Budget Calculator form is designed to help users estimate and plan their smart home budgets and setups. It collects information related to project...</p>
-          <p><a href="/guides/011-smart-home-budget-calculator-quote-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Therapist Forms</p>
-          <h3>Animal Therapy Program Registration</h3>
-          <p>Animal Therapy Program Registration - Help Guide Purpose The Animal Therapy Program Registration form is designed to collect necessary information from individuals who wish to enroll in the program. This form is...</p>
-          <p><a href="/guides/033-animal-therapy-program-registration-therapist-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Medical Application Forms</p>
-          <h3>COVID 19 Client Health Questionnaire</h3>
-          <p>COVID 19 Client Health Questionnaire - Help Guide Purpose This form collects information about a patient&#x27;s health status, medical history, and contact information for COVID-19 assessment and treatment. It helps...</p>
-          <p><a href="/guides/045-covid-19-client-health-questionnaire-medical-application-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Information Request Forms</p>
-          <h3>Case Management Form</h3>
-          <p>Case Management Form - Help Guide Purpose The Case Management Form is designed to collect and store comprehensive case information for court proceedings. This form helps court personnel track and manage cases...</p>
-          <p><a href="/guides/022-case-management-form-information-request-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Satisfaction Surveys</p>
-          <h3>Car Service Satisfaction Survey</h3>
-          <p>This guide will help you complete the form in a few minutes. If you have any questions or concerns, please don&#x27;t hesitate to contact us. We appreciate your feedback and look forward to serving you better.</p>
-          <p><a href="/guides/048-car-service-satisfaction-survey-satisfaction-surveys.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Referral Form Templates</p>
-          <h3>Chiropractic Referral Marketing Software Evaluation Form</h3>
-          <p>By following this guide, you&#x27;ll be able to accurately and thoroughly provide feedback on your experience with the Chiropractic Referral Marketing Software.</p>
-          <p><a href="/guides/023-chiropractic-referral-marketing-software-evaluation-form-referral-form-templates.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Registration Forms</p>
-          <h3>Athletics Program Enrollment Form</h3>
-          <p>Note: All fields marked with &quot;required: true&quot; must be filled out, while fields not marked as required can be left blank if not applicable.</p>
-          <p><a href="/guides/049-athletics-program-enrollment-form-registration-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Request Forms</p>
-          <h3>Animal Welfare Data Integration Request Form</h3>
-          <p>Please fill out this form carefully and accurately, and we will review your request and follow up with you to discuss further details.</p>
-          <p><a href="/guides/043-animal-welfare-data-integration-request-form-request-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Business Forms</p>
-          <h3>Straight Truck Pre Trip Inspection Form</h3>
-          <p>Straight Truck Pre Trip Inspection Form - Help Guide Purpose The Straight Truck Pre Trip Inspection Form is designed to help ensure that a straight truck is safe for operation before a trip. How To Complete This Form To...</p>
-          <p><a href="/guides/020-straight-truck-pre-trip-inspection-form-business-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Salesforce Forms</p>
-          <h3>Confidential Patient Information Form</h3>
-          <p>Confidential Patient Information Form - Help Guide Purpose The Confidential Patient Information Form is a collection of personal and medical information about the patient. This form is used to gather essential data that...</p>
-          <p><a href="/guides/040-confidential-patient-information-form-salesforce-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">It Forms</p>
-          <h3>Building Information Model Access Application Form</h3>
-          <p>Building Information Model Access Application Form - Help Guide Purpose This form is used to request access to the project Building Information Model (BIM). Please fill out this form carefully to ensure that your access...</p>
-          <p><a href="/guides/031-building-information-model-access-application-form-it-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Consent Forms</p>
-          <h3>Airflow Testing Appointment Consent Form</h3>
-          <p>Airflow Testing Appointment Consent Form - Help Guide Purpose The Airflow Testing Appointment Consent Form is used to collect patient information and consent for testing appointments. This form is essential for ensuring...</p>
-          <p><a href="/guides/048-airflow-testing-appointment-consent-form-consent-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Customer Service Forms</p>
-          <h3>Customer And Contract Details Form</h3>
-          <p>Customer And Contract Details Form - Help Guide Purpose The Customer And Contract Details Form is used to collect customer information and contract details for general business purposes. This form is designed to gather...</p>
-          <p><a href="/guides/003-customer-and-contract-details-form-customer-service-forms.html">Read guide</a></p>
-        </article>
-
-        <article class="card">
-          <p class="pill">Order Forms</p>
-          <h3>Cleaning Service Quotation Form</h3>
-          <p>Cleaning Service Quotation Form - Help Guide Purpose This form is designed to gather information from customers about their cleaning needs for a specific property. It is meant to help customers provide accurate details...</p>
-          <p><a href="/guides/041-cleaning-service-quotation-form-order-forms.html">Read guide</a></p>
+          <p class="pill">Education Forms</p>
+          <h3>After School Multimedia Class Registration</h3>
+          <p>After School Multimedia Class Registration is a reusable education forms template with 38 fields. Use it as a starting point when you need a structured workflow</p>
+          <p><a href="/guides/042-after-school-multimedia-class-registration-education-forms.html">Read guide</a></p>
         </article>
 
         <article class="card">
           <p class="pill">Survey Templates</p>
-          <h3>Choir Survey</h3>
-          <p>Choir Survey - Help Guide Purpose This survey is designed to gather feedback and opinions from choir members and non-members about their experiences with the choir. Your input will help the choir leadership to identify...</p>
-          <p><a href="/guides/043-choir-survey-survey-templates.html">Read guide</a></p>
+          <h3>After School Program Student Development Impact Survey</h3>
+          <p>After School Program Student Development Impact Survey is a reusable survey templates template with 36 fields. Use it as a starting point when you need a struct</p>
+          <p><a href="/guides/047-after-school-program-student-development-impact-survey-survey-templates.html">Read guide</a></p>
         </article>
 
         <article class="card">
-          <p class="pill">Telehealth Forms</p>
-          <h3>COVID 19 Contact Investigation Form</h3>
-          <p>COVID 19 Contact Investigation Form - Help Guide Purpose This form is designed to gather information for the COVID-19 contact investigation process. It will help healthcare professionals to understand your interactions...</p>
-          <p><a href="/guides/048-covid-19-contact-investigation-form-telehealth-forms.html">Read guide</a></p>
+          <p class="pill">Education Forms</p>
+          <h3>After School Programs Enrollment Form</h3>
+          <p>After School Programs Enrollment Form is a reusable education forms template with 40 fields. Use it as a starting point when you need a structured workflow rath</p>
+          <p><a href="/guides/050-after-school-programs-enrollment-form-education-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Tracking Forms</p>
+          <h3>Agricultural Spray Records Checklist</h3>
+          <p>Agricultural Spray Records Checklist is a reusable tracking forms template with 34 fields. Use it as a starting point when you need a structured workflow rather</p>
+          <p><a href="/guides/009-agricultural-spray-records-checklist-tracking-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Safety Inspection Forms</p>
+          <h3>Air Conditioner (HVAC) Installation Checklist</h3>
+          <p>Air Conditioner (HVAC) Installation Checklist is a reusable safety inspection forms template with 34 fields. Use it as a starting point when you need a structur</p>
+          <p><a href="/guides/021-air-conditioner-hvac-installation-checklist-safety-inspection-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Report Forms</p>
+          <h3>Air Quality Monitoring Report Form</h3>
+          <p>&gt; thinking &gt; This is a form to help collect and document data on the air quality in a specific location, which is critical for monitoring and improving public h</p>
+          <p><a href="/guides/028-air-quality-monitoring-report-form-report-forms.html">Read guide</a></p>
         </article>
 
         <article class="card">
           <p class="pill">Automotive Forms</p>
-          <h3>Auto Repair Services Lead Generation Form</h3>
-          <p>Auto Repair Services Lead Generation Form - Help Guide Purpose The purpose of this form is to collect information from potential customers about their automotive needs, allowing the auto repair services team to provide...</p>
-          <p><a href="/guides/020-auto-repair-services-lead-generation-form-automotive-forms.html">Read guide</a></p>
+          <h3>Airbag Control Unit Claim Form</h3>
+          <p>Airbag Control Unit Claim Form is a reusable automotive forms template with 37 fields. Use it as a starting point when you need a structured workflow rather tha</p>
+          <p><a href="/guides/030-airbag-control-unit-claim-form-automotive-forms.html">Read guide</a></p>
         </article>
 
         <article class="card">
-          <p class="pill">Membership Application Form Templates</p>
-          <h3>Airline Alliance Membership Application</h3>
-          <p>Airline Alliance Membership Application - Help Guide Purpose This guide is designed to assist airlines in completing the membership application form for the airline alliance of their choice. The purpose of this form is...</p>
-          <p><a href="/guides/049-airline-alliance-membership-application-membership-application-form-templates.html">Read guide</a></p>
+          <p class="pill">Real Estate Forms</p>
+          <h3>Airbnb Check In Check Out Policies Agreement Form</h3>
+          <p>Airbnb Check In Check Out Policies Agreement Form is a reusable real estate forms template with 32 fields. Use it as a starting point when you need a structured</p>
+          <p><a href="/guides/033-airbnb-check-incheck-out-policies-agreement-form-real-estate-forms.html">Read guide</a></p>
         </article>
 
         <article class="card">
           <p class="pill">Registration Forms</p>
           <h3>Airbnb Reservation Information Form</h3>
-          <p>... Airbnb Reservation Information Form - Help Guide Purpose This form is designed to collect and track essential information for each Airbnb reservation, ensuring accurate communication between hosts and guests. It is...</p>
+          <p>Airbnb Reservation Information Form is a reusable registration forms template with 38 fields. Use it as a starting point when you need a structured workflow rat</p>
           <p><a href="/guides/035-airbnb-reservation-information-form-registration-forms.html">Read guide</a></p>
         </article>
 
         <article class="card">
-          <p class="pill">Education Forms</p>
-          <h3>College Application Intake Form</h3>
-          <p>College Application Intake Form - Help Guide Purpose The &quot;College Application Intake Form&quot; is a required form for students who are applying to college. This form is designed to gather information about the applicant&#x27;s...</p>
-          <p><a href="/guides/037-college-application-intake-form-education-forms.html">Read guide</a></p>
+          <p class="pill">Technician Forms</p>
+          <h3>Aircraft Annual Inspection Form</h3>
+          <p>After reviewing the form, I did not identify any major issues or concerns. However, I will make some minor suggestions for improvement: It would be beneficial t</p>
+          <p><a href="/guides/036-aircraft-annual-inspection-form-technician-forms.html">Read guide</a></p>
         </article>
 
         <article class="card">
-          <p class="pill">Checklist Forms</p>
-          <h3>Cleaning Service Checklist</h3>
-          <p>Cleaning Service Checklist - Help Guide Purpose This form is designed to collect information about a cleaning service provided to a client. It helps track the details of the service, including the client&#x27;s information...</p>
-          <p><a href="/guides/036-cleaning-service-checklist-checklist-forms.html">Read guide</a></p>
+          <p class="pill">Broker Forms</p>
+          <h3>Aircraft Brokerage Agreement Form</h3>
+          <p>Aircraft Brokerage Agreement Form is a reusable broker forms template with 36 fields. Use it as a starting point when you need a structured workflow rather than</p>
+          <p><a href="/guides/037-aircraft-brokerage-agreement-form-broker-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Safety Inspection Forms</p>
+          <h3>Aircraft Cabin Safety Inspection Form</h3>
+          <p>Aircraft Cabin Safety Inspection Form is a reusable safety inspection forms template with 35 fields. Use it as a starting point when you need a structured workf</p>
+          <p><a href="/guides/038-aircraft-cabin-safety-inspection-form-safety-inspection-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Transportation Request Forms</p>
+          <h3>Aircraft General Declaration Form</h3>
+          <p>Aircraft General Declaration Form is a reusable transportation request forms template with 38 fields. Use it as a starting point when you need a structured work</p>
+          <p><a href="/guides/040-aircraft-general-declaration-form-transportation-request-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Education Forms</p>
+          <h3>Aircraft Maintenance Engineering Application Form</h3>
+          <p>Aircraft Maintenance Engineering Application Form is a reusable education forms template with 38 fields. Use it as a starting point when you need a structured w</p>
+          <p><a href="/guides/043-aircraft-maintenance-engineering-application-form-education-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Consent Forms</p>
+          <h3>Airflow Testing Appointment Consent Form</h3>
+          <p>Airflow Testing Appointment Consent Form is a reusable consent forms template with 38 fields. Use it as a starting point when you need a structured workflow rat</p>
+          <p><a href="/guides/048-airflow-testing-appointment-consent-form-consent-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Membership Application Form Templates</p>
+          <h3>Airline Alliance Membership Application</h3>
+          <p>Airline Alliance Membership Application is a reusable membership application form templates template with 38 fields. Use it as a starting point when you need a </p>
+          <p><a href="/guides/049-airline-alliance-membership-application-membership-application-form-templates.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Scholarship Application Forms</p>
+          <h3>Aleyris Martinez Memorial Scholarship Form</h3>
+          <p>Aleyris Martinez Memorial Scholarship Form is a reusable scholarship application forms template with 35 fields. Use it as a starting point when you need a struc</p>
+          <p><a href="/guides/017-aleyris-mart-nez-memorial-scholarship-form-scholarship-application-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Education Forms</p>
+          <h3>All State Band Audition Application</h3>
+          <p>All State Band Audition Application is a reusable education forms template with 38 fields. Use it as a starting point when you need a structured workflow rather</p>
+          <p><a href="/guides/035-all-state-band-audition-application-education-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Assessment Forms</p>
+          <h3>Allergy Risk Assessment Form</h3>
+          <p>Allergy Risk Assessment Form is a reusable assessment forms template with 38 fields. Use it as a starting point when you need a structured workflow rather than </p>
+          <p><a href="/guides/045-allergy-risk-assessment-form-assessment-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Survey Templates</p>
+          <h3>Alternatives Evaluation Quiz</h3>
+          <p>Alternatives Evaluation Quiz is a reusable survey templates template with 38 fields. Use it as a starting point when you need a structured workflow rather than </p>
+          <p><a href="/guides/050-alternatives-evaluation-quiz-survey-templates.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Alumni Forms</p>
+          <h3>Alumni Information Form</h3>
+          <p>Alumni Information Form is a reusable alumni forms template with 37 fields. Use it as a starting point when you need a structured workflow rather than building </p>
+          <p><a href="/guides/003-alumni-information-form-alumni-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Student Registration Forms</p>
+          <h3>Alumni Membership Registration Form</h3>
+          <p>Alumni Membership Registration Form is a reusable student registration forms template with 38 fields. Use it as a starting point when you need a structured work</p>
+          <p><a href="/guides/004-alumni-membership-registration-form-student-registration-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Event Registration Forms</p>
+          <h3>Alumni Reunion Registration Form</h3>
+          <p>Alumni Reunion Registration Form is a reusable event registration forms template with 36 fields. Use it as a starting point when you need a structured workflow </p>
+          <p><a href="/guides/007-alumni-reunion-registration-form-event-registration-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Rsvp Forms</p>
+          <h3>Alumni Sports Event RSVP Form</h3>
+          <p>Alumni Sports Event RSVP Form is a reusable rsvp forms template with 32 fields. Use it as a starting point when you need a structured workflow rather than build</p>
+          <p><a href="/guides/008-alumni-sports-event-rsvp-form-rsvp-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Release Forms</p>
+          <h3>Alumni Testimonial Release Form</h3>
+          <p>Alumni Testimonial Release Form is a reusable release forms template with 36 fields. Use it as a starting point when you need a structured workflow rather than </p>
+          <p><a href="/guides/010-alumni-testimonial-release-form-release-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Business Surveys</p>
+          <h3>Amazon Experience Feedback Survey</h3>
+          <p>Amazon Experience Feedback Survey is a reusable business surveys template with 40 fields. Use it as a starting point when you need a structured workflow rather </p>
+          <p><a href="/guides/015-amazon-experience-feedback-survey-business-surveys.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Signup Forms</p>
+          <h3>Amazon Gift Card Drawing Entry</h3>
+          <p>Thinking We need to ensure that the form is clear and easy to understand for end-users. This is a critical step in making sure that users have a positive experi</p>
+          <p><a href="/guides/016-amazon-gift-card-drawing-entry-signup-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Feedback Forms</p>
+          <h3>Amazon Order Return Form</h3>
+          <p>Amazon Order Return Form is a reusable feedback forms template with 38 fields. Use it as a starting point when you need a structured workflow rather than buildi</p>
+          <p><a href="/guides/017-amazon-order-return-form-feedback-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Veterinarian Forms</p>
+          <h3>Animal Breeder Job Application Form</h3>
+          <p>Animal Breeder Job Application Form is a reusable veterinarian forms template with 31 fields. Use it as a starting point when you need a structured workflow rat</p>
+          <p><a href="/guides/019-animal-breeder-job-application-form-veterinarian-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Employee Information Forms</p>
+          <h3>Animal Breeding Intake Form</h3>
+          <p>Animal Breeding Intake Form is a reusable employee information forms template with 36 fields. Use it as a starting point when you need a structured workflow rat</p>
+          <p><a href="/guides/020-animal-breeding-intake-form-employee-information-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Software Developer Forms</p>
+          <h3>Animal Care App Developer Partnership Application Form</h3>
+          <p>Animal Care App Developer Partnership Application Form is a reusable software developer forms template with 32 fields. Use it as a starting point when you need </p>
+          <p><a href="/guides/022-animal-care-app-developer-partnership-application-form-software-developer-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Insurance Forms</p>
+          <h3>Animal Care Insurance Claim Request</h3>
+          <p>Animal Care Insurance Claim Request is a reusable insurance forms template with 38 fields. Use it as a starting point when you need a structured workflow rather</p>
+          <p><a href="/guides/026-animal-care-insurance-claim-request-insurance-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Chiropractic Forms</p>
+          <h3>Animal Chiropractic Intake Form</h3>
+          <p>Animal Chiropractic Intake Form is a reusable chiropractic forms template with 36 fields. Use it as a starting point when you need a structured workflow rather </p>
+          <p><a href="/guides/029-animal-chiropractic-intake-form-chiropractic-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Report Forms</p>
+          <h3>Animal Cruelty Report Form</h3>
+          <p>Animal Cruelty Report Form is a reusable report forms template with 33 fields. Use it as a starting point when you need a structured workflow rather than buildi</p>
+          <p><a href="/guides/038-animal-cruelty-report-form-report-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Consent Forms</p>
+          <h3>Animal Euthanasia Authorization Form</h3>
+          <p>Animal Euthanasia Authorization Form is a reusable consent forms template with 35 fields. Use it as a starting point when you need a structured workflow rather </p>
+          <p><a href="/guides/040-animal-euthanasia-authorization-form-consent-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Pet Adoption Application Form Templates</p>
+          <h3>Animal Foster Application Form</h3>
+          <p>Animal Foster Application Form is a reusable pet adoption application form templates template with 34 fields. Use it as a starting point when you need a structu</p>
+          <p><a href="/guides/045-animal-foster-application-form-pet-adoption-application-form-templates.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Veterinarian Forms</p>
+          <h3>Animal Hospital Estimate Form Template</h3>
+          <p>Animal Hospital Estimate Form Template is a reusable veterinarian forms template with 40 fields. Use it as a starting point when you need a structured workflow </p>
+          <p><a href="/guides/047-animal-hospital-estimate-form-template-veterinarian-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Veterinary Service Forms</p>
+          <h3>Animal Intake Form</h3>
+          <p>Animal Intake Form is a reusable veterinary service forms template with 37 fields. Use it as a starting point when you need a structured workflow rather than bu</p>
+          <p><a href="/guides/050-animal-intake-form-veterinary-service-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Volunteer Application Forms</p>
+          <h3>Animal Shelter Volunteer Application Form</h3>
+          <p>Animal Shelter Volunteer Application Form is a reusable volunteer application forms template with 31 fields. Use it as a starting point when you need a structur</p>
+          <p><a href="/guides/029-animal-shelter-volunteer-application-form-volunteer-application-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Volunteer Registration Forms</p>
+          <h3>Animal Shelter Volunteer Registration Form</h3>
+          <p>Animal Shelter Volunteer Registration Form is a reusable volunteer registration forms template with 32 fields. Use it as a starting point when you need a struct</p>
+          <p><a href="/guides/031-animal-shelter-volunteer-registration-form-volunteer-registration-forms.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Sponsorship Form Templates</p>
+          <h3>Animal Sponsorship Application Form</h3>
+          <p>&lt;thinking&gt; This guide is intended for animal lovers who want to sponsor an animal in need through our organization&#x27;s sponsorship program. This form is used to c</p>
+          <p><a href="/guides/033-animal-sponsorship-application-form-sponsorship-form-templates.html">Read guide</a></p>
+        </article>
+
+        <article class="card">
+          <p class="pill">Consent Forms</p>
+          <h3>Animal Sterilization Agreement</h3>
+          <p>Animal Sterilization Agreement is a reusable consent forms template with 36 fields. Use it as a starting point when you need a structured workflow rather than b</p>
+          <p><a href="/guides/034-animal-sterilization-agreement-consent-forms.html">Read guide</a></p>
         </article>
 
     </section>
+    <nav class="pager" aria-label="Guide pages"><span class="current">1</span><a href="/guides/page-2.html">2</a><a href="/guides/page-3.html">3</a><a href="/guides/page-4.html">4</a><a href="/guides/page-5.html">5</a><a href="/guides/page-6.html">6</a><a href="/guides/page-7.html">7</a><a href="/guides/page-8.html">8</a><a href="/guides/page-2.html">Next &raquo;</a></nav>
   </main>
-
   <footer>
     <div class="wrap small">
       <p>GIC Forms publishes YAML form templates, guides, and deployment resources for data collection workflows. Forms are licensed under CC BY 4.0 and code is licensed under MIT.</p>

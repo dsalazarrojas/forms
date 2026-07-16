@@ -17,9 +17,10 @@ CATEGORIES_DIR = ROOT / "categories"
 SITE_URL = "https://forms.gic.mx"
 TODAY = date.today().isoformat()
 
-MAX_GUIDES = 240
+MAX_GUIDES = 400
 MAX_PER_CATEGORY = 8
 MIN_CATEGORY_GUIDES = 3
+GUIDES_PER_PAGE = 50
 
 
 def slugify(value: str) -> str:
@@ -273,6 +274,13 @@ def page_shell(*, title: str, description: str, canonical_path: str, body: str, 
     .section {{ margin-top: 1.5rem; }}
     .cards {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1rem; }}
     .small {{ font-size: .92rem; }}
+    .pager {{ display: flex; flex-wrap: wrap; gap: .5rem; margin: 2rem 0; }}
+    .pager a, .pager span {{
+      display: inline-flex; align-items: center; justify-content: center;
+      min-width: 2.25rem; height: 2.25rem; padding: 0 .6rem; border-radius: .6rem;
+      border: 1px solid var(--line); font-weight: 700;
+    }}
+    .pager .current {{ background: var(--brand); color: #fff; border-color: var(--brand); }}
     @media (max-width: 720px) {{
       .topbar-inner {{ align-items: flex-start; padding: .8rem 0; flex-direction: column; }}
       .hero {{ padding-top: 2.5rem; }}
@@ -356,6 +364,7 @@ def write_page(path: Path, html_text: str) -> None:
 def build_guides(forms: list[dict]) -> tuple[list[dict], dict[str, list[dict]]]:
     selected = select_guides(forms)
     by_category: dict[str, list[dict]] = defaultdict(list)
+    category_counts: Counter[str] = Counter(form.get("category") or "other_forms" for form in selected)
 
     for form in selected:
         title = clean_title(form["title"])
@@ -384,6 +393,11 @@ def build_guides(forms: list[dict]) -> tuple[list[dict], dict[str, list[dict]]]:
         form["guideSlug"] = slug
         form["guideUrl"] = f"/guides/{slug}.html"
         by_category[category].append(form)
+        category_link = (
+            f"/categories/{slugify(category)}.html"
+            if category_counts[category] >= MIN_CATEGORY_GUIDES
+            else "/categories/"
+        )
 
         body = f"""
   <main class="wrap">
@@ -427,7 +441,7 @@ def build_guides(forms: list[dict]) -> tuple[list[dict], dict[str, list[dict]]]:
         <h2>Related Paths</h2>
         <p><span class="pill">YAML</span> {html.escape(form_path)}</p>
         <p><span class="pill">Preview</span> /preview.html?form={html.escape(form_path)}</p>
-        <p><span class="pill">Category</span> <a href="/categories/{slugify(category)}.html">{html.escape(category_label)}</a></p>
+        <p><span class="pill">Category</span> <a href="{category_link}">{html.escape(category_label)}</a></p>
       </article>
     </section>
   </main>
@@ -494,13 +508,35 @@ def build_guides(forms: list[dict]) -> tuple[list[dict], dict[str, list[dict]]]:
     return selected, by_category
 
 
+def _guide_index_pager(current: int, total_pages: int) -> str:
+    def href(n: int) -> str:
+        return "/guides/" if n == 1 else f"/guides/page-{n}.html"
+
+    links = []
+    if current > 1:
+        links.append(f'<a href="{href(current - 1)}">&laquo; Prev</a>')
+    for n in range(1, total_pages + 1):
+        if n == current:
+            links.append(f'<span class="current">{n}</span>')
+        else:
+            links.append(f'<a href="{href(n)}">{n}</a>')
+    if current < total_pages:
+        links.append(f'<a href="{href(current + 1)}">Next &raquo;</a>')
+    return '<nav class="pager" aria-label="Guide pages">' + "".join(links) + "</nav>"
+
+
 def build_guide_index(selected: list[dict]) -> None:
-    cards = []
-    for form in selected[:90]:
-        title = clean_title(form["title"])
-        cat = humanize_category(form["category"])
-        cards.append(
-            f"""
+    ordered = sorted(selected, key=lambda form: clean_title(form["title"]).lower())
+    total_pages = max(1, (len(ordered) + GUIDES_PER_PAGE - 1) // GUIDES_PER_PAGE)
+
+    for page_num in range(1, total_pages + 1):
+        chunk = ordered[(page_num - 1) * GUIDES_PER_PAGE : page_num * GUIDES_PER_PAGE]
+        cards = []
+        for form in chunk:
+            title = clean_title(form["title"])
+            cat = humanize_category(form["category"])
+            cards.append(
+                f"""
         <article class="card">
           <p class="pill">{html.escape(cat)}</p>
           <h3>{html.escape(title)}</h3>
@@ -508,28 +544,34 @@ def build_guide_index(selected: list[dict]) -> None:
           <p><a href="{html.escape(form['guideUrl'])}">Read guide</a></p>
         </article>
 """
-        )
+            )
 
-    body = f"""
+        pager = _guide_index_pager(page_num, total_pages)
+        body = f"""
   <main class="wrap">
     <section class="hero">
       <span class="eyebrow">Curated Guides</span>
       <h1>Template Guides For Stronger Crawlable Content</h1>
-      <p class="lede">These guide pages turn selected templates into editorial resources with summaries, review notes, download links, and clearer category context.</p>
+      <p class="lede">These guide pages turn selected templates into editorial resources with summaries, review notes, download links, and clearer category context. Showing {len(chunk)} of {len(ordered)} guides &mdash; page {page_num} of {total_pages}.</p>
     </section>
+    {pager}
     <section class="cards">
       {''.join(cards)}
     </section>
+    {pager}
   </main>
 """
-    page = page_shell(
-        title="Template Guides | GIC Forms",
-        description="Browse curated form template guides with clearer summaries, live preview links, and download paths.",
-        canonical_path="/guides/",
-        body=body,
-        json_ld=[breadcrumb_ld([("Home", SITE_URL + "/"), ("Guides", SITE_URL + "/guides/")])],
-    )
-    write_page(GUIDES_DIR / "index.html", page)
+        canonical_path = "/guides/" if page_num == 1 else f"/guides/page-{page_num}.html"
+        title = "Template Guides | GIC Forms" if page_num == 1 else f"Template Guides (Page {page_num}) | GIC Forms"
+        page = page_shell(
+            title=title,
+            description="Browse curated form template guides with clearer summaries, live preview links, and download paths.",
+            canonical_path=canonical_path,
+            body=body,
+            json_ld=[breadcrumb_ld([("Home", SITE_URL + "/"), ("Guides", SITE_URL + "/guides/")])],
+        )
+        filename = "index.html" if page_num == 1 else f"page-{page_num}.html"
+        write_page(GUIDES_DIR / filename, page)
 
 
 def build_categories(by_category: dict[str, list[dict]]) -> list[tuple[str, str]]:
@@ -633,8 +675,10 @@ def build_sitemap(selected: list[dict], category_pages: list[tuple[str, str]]) -
         "/editorial-methodology.html",
     ]
     guide_paths = [form["guideUrl"] for form in selected]
+    guide_pages_total = max(1, (len(selected) + GUIDES_PER_PAGE - 1) // GUIDES_PER_PAGE)
+    guide_index_paths = [f"/guides/page-{n}.html" for n in range(2, guide_pages_total + 1)]
     category_paths = [path for _, path in category_pages]
-    all_paths = static_paths + category_paths + guide_paths
+    all_paths = static_paths + category_paths + guide_paths + guide_index_paths
 
     xml = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for path in all_paths:
