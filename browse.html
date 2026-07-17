@@ -163,25 +163,6 @@
       ================================================= -->
       <aside class="hidden lg:flex flex-col gap-6 w-64 shrink-0 sticky top-24">
 
-        <!-- Categories -->
-        <div class="bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 p-4">
-          <div class="flex items-center gap-2 mb-3 px-1">
-            <span class="material-symbols-outlined text-[16px] text-slate-400">folder</span>
-            <span class="text-[11px] font-bold text-slate-400 dark:text-slate-500 uppercase tracking-widest">Categories</span>
-          </div>
-          <div id="sidebar-categories" class="space-y-0.5 max-h-96 overflow-y-auto sidebar-scroll">
-            <!-- Loading skeleton -->
-            <div class="space-y-1.5 p-1">
-              <div class="h-9 skeleton text-slate-200 dark:text-slate-700 rounded-xl"></div>
-              <div class="h-9 skeleton text-slate-100 dark:text-slate-800 rounded-xl"></div>
-              <div class="h-9 skeleton text-slate-100 dark:text-slate-800 rounded-xl"></div>
-              <div class="h-9 skeleton text-slate-100 dark:text-slate-800 rounded-xl"></div>
-              <div class="h-9 skeleton text-slate-100 dark:text-slate-800 rounded-xl"></div>
-              <div class="h-9 skeleton text-slate-100 dark:text-slate-800 rounded-xl"></div>
-            </div>
-          </div>
-        </div>
-
         <!-- Filters -->
         <div class="bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 p-4">
           <div class="flex items-center gap-2 mb-4 px-1">
@@ -244,27 +225,32 @@
       <div class="flex-1 min-w-0">
 
         <!-- Toolbar -->
-        <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 mb-6">
-          <div>
-            <h2 id="content-title" class="text-xl font-bold text-slate-900 dark:text-white">All Forms</h2>
-            <p id="content-count" class="text-sm text-slate-500 dark:text-slate-400 mt-0.5"></p>
+        <div class="flex flex-col gap-3 mb-6">
+          <div class="relative w-full">
+            <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-slate-400 text-[18px]">search</span>
+            <input id="fulltext-search" data-testid="search-input" type="search" placeholder="Search title, category, filename, field types..."
+              class="w-full text-base rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 pl-10 pr-9 py-3 focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary transition-colors shadow-sm">
+            <button id="clear-search" class="hidden absolute right-2 top-1/2 -translate-y-1/2 h-6 w-6 rounded-md text-slate-400 hover:text-slate-700 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors" aria-label="Clear search">
+              <span class="material-symbols-outlined text-[16px]">close</span>
+            </button>
           </div>
-          <div class="flex flex-col sm:flex-row sm:items-center gap-2 shrink-0 sm:min-w-[420px]">
-            <div class="relative flex-1 min-w-[240px]">
-              <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-slate-400 text-[18px]">search</span>
-              <input id="fulltext-search" data-testid="search-input" type="search" placeholder="Search title, category, filename, field types..."
-                class="w-full text-sm rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 pl-10 pr-9 py-2 focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary transition-colors shadow-sm">
-              <button id="clear-search" class="hidden absolute right-2 top-1/2 -translate-y-1/2 h-6 w-6 rounded-md text-slate-400 hover:text-slate-700 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors" aria-label="Clear search">
-                <span class="material-symbols-outlined text-[16px]">close</span>
-              </button>
+          <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
+            <div>
+              <h2 id="content-title" class="text-xl font-bold text-slate-900 dark:text-white">All Forms</h2>
+              <p id="content-count" class="text-sm text-slate-500 dark:text-slate-400 mt-0.5"></p>
             </div>
-            <div class="flex items-center gap-2">
-              <span class="text-xs text-slate-500 hidden sm:block">Sort:</span>
-              <select id="sort-select" class="text-sm rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary transition-colors cursor-pointer shadow-sm">
-                <option value="newest">Newest First</option>
-                <option value="az">A – Z</option>
-                <option value="most">Most Questions</option>
+            <div class="flex flex-wrap items-center gap-2 shrink-0">
+              <select id="filter-category" class="text-sm rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary transition-colors cursor-pointer shadow-sm">
+                <option value="">All Categories</option>
               </select>
+              <div class="flex items-center gap-2">
+                <span class="text-xs text-slate-500 hidden sm:block">Sort:</span>
+                <select id="sort-select" class="text-sm rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-700 dark:text-slate-300 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary transition-colors cursor-pointer shadow-sm">
+                  <option value="newest">Newest First</option>
+                  <option value="az">A – Z</option>
+                  <option value="most">Most Questions</option>
+                </select>
+              </div>
             </div>
           </div>
         </div>
@@ -515,7 +501,7 @@
         const cats = new Set(allForms.map(f => f.category));
         document.getElementById('banner-categories').textContent = cats.size.toLocaleString();
 
-        // Build sidebar categories
+        // Build category filter
         buildSidebar(cats);
 
         // Render bottom sections
@@ -539,21 +525,14 @@
       allForms.forEach(f => { counts[f.category] = (counts[f.category] || 0) + 1; });
       const sorted = Array.from(cats).sort((a, b) => counts[b] - counts[a]);
 
-      const container = document.getElementById('sidebar-categories');
-      container.innerHTML = `
-        <button type="button" data-category="" id="cat-all" class="sidebar-cat-btn flex items-center gap-3 w-full px-3 py-2.5 rounded-xl text-sm font-semibold bg-primary/10 text-primary">
-          <span class="material-symbols-outlined text-[18px]">apps</span>
-          <span class="flex-1 text-left">All Forms</span>
-          <span class="text-xs font-medium">${allForms.length.toLocaleString()}</span>
-        </button>
+      const select = document.getElementById('filter-category');
+      select.innerHTML = `
+        <option value="">All Categories</option>
         ${sorted.map(cat => `
-          <button type="button" data-category="${escapeHtml(cat)}" id="${categoryButtonId(cat)}" class="sidebar-cat-btn flex items-center gap-3 w-full px-3 py-2.5 rounded-xl text-sm font-medium text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors">
-            <span class="material-symbols-outlined text-[18px] text-slate-400">${escapeHtml(getCategoryIcon(cat))}</span>
-            <span class="flex-1 text-left truncate">${escapeHtml(titleCaseCategory(cat))}</span>
-            <span class="text-xs text-slate-400 font-medium">${counts[cat].toLocaleString()}</span>
-          </button>
+          <option value="${escapeHtml(cat)}">${escapeHtml(titleCaseCategory(cat))} (${counts[cat].toLocaleString()})</option>
         `).join('')}
       `;
+      select.value = currentCategory;
     }
 
     function setCategory(cat) {
@@ -569,6 +548,7 @@
     }
 
     function updateSidebarActive() {
+      document.getElementById('filter-category').value = currentCategory;
       document.querySelectorAll('.sidebar-cat-btn').forEach(btn => {
         btn.classList.remove('bg-primary/10', 'text-primary', 'font-semibold');
         btn.classList.add('text-slate-600', 'dark:text-slate-400', 'font-medium');
@@ -651,16 +631,13 @@
       const catLabel = titleCaseCategory(form.category);
       const catShort = catLabel.split(' ').slice(0, 2).join(' ');
       const desc = generateDescription(form);
-      const yamlUrl = `https://raw.githubusercontent.com/dsalazarrojas/forms/main/${form.filePath}`;
       const previewUrl = `preview.html?form=${encodeURIComponent(form.filePath)}`;
-      const editUrl = `${previewUrl}#tab=editor`;
-      const filename = form.filePath.split('/').pop();
       const langBadge = form.language === 'es'
         ? `<span class="text-[10px] px-2 py-0.5 bg-amber-100 text-amber-700 rounded-full font-bold">ES</span>`
         : '';
 
       return `
-        <div data-testid="form-card" class="bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-2xl overflow-hidden hover:shadow-xl hover:shadow-slate-200/60 dark:hover:shadow-slate-900/60 hover:-translate-y-0.5 transition-all duration-200 flex flex-col group">
+        <a href="${escapeHtml(previewUrl)}" data-testid="form-card" class="block bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-2xl overflow-hidden hover:shadow-xl hover:shadow-slate-200/60 dark:hover:shadow-slate-900/60 hover:-translate-y-0.5 transition-all duration-200 flex flex-col group">
           <div class="p-5 flex-1 flex flex-col">
             <div class="flex justify-between items-start mb-3 gap-2">
               <span class="text-[10px] font-bold px-2.5 py-1 rounded-lg uppercase tracking-wider shrink-0" style="${badgeStyle}">${catShort}</span>
@@ -680,11 +657,9 @@
             </div>
           </div>
           <div class="px-4 py-3 bg-slate-50 dark:bg-slate-800/70 border-t border-slate-100 dark:border-slate-700/80 flex gap-2">
-            <a href="${escapeHtml(previewUrl)}" data-testid="form-card-preview-link" class="flex-1 py-2 text-xs font-bold text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-200 dark:hover:bg-slate-700 rounded-xl transition-colors text-center">Preview</a>
-            <a href="${escapeHtml(editUrl)}" class="flex-1 py-2 text-xs font-bold text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-200 dark:hover:bg-slate-700 rounded-xl transition-colors text-center">Edit</a>
-            <a href="${escapeHtml(yamlUrl)}" download="${escapeHtml(filename)}" class="flex-[1.5] py-2 text-xs font-bold bg-primary text-white rounded-xl hover:bg-orange-600 active:bg-orange-700 transition-colors text-center shadow-sm shadow-primary/30">Download YAML</a>
+            <span class="block w-full py-2 text-xs font-bold bg-primary text-white rounded-xl text-center shadow-sm shadow-primary/30">Use template</span>
           </div>
-        </div>
+        </a>
       `;
     }
 
@@ -802,10 +777,8 @@
       searchInput.focus();
     });
 
-    document.getElementById('sidebar-categories').addEventListener('click', event => {
-      const button = event.target.closest('[data-category]');
-      if (!button) return;
-      setCategory(button.getAttribute('data-category') || '');
+    document.getElementById('filter-category').addEventListener('change', e => {
+      setCategory(e.target.value || '');
     });
 
     document.getElementById('popular-cats').addEventListener('click', event => {

@@ -1249,9 +1249,8 @@
     const list = document.getElementById('myforms-list');
 
     if (newButton) {
-      newButton.addEventListener('click', async () => {
-        await createNewBlankForm();
-        switchTab('editor', true);
+      newButton.addEventListener('click', () => {
+        openCreateSheet();
       });
     }
 
@@ -1446,6 +1445,62 @@
     if (shareButton) shareButton.addEventListener('click', openShareSheet);
     if (closeButton) closeButton.addEventListener('click', closeShareSheet);
     if (overlay) overlay.addEventListener('click', closeShareSheet);
+  }
+
+  function openCreateSheet() {
+    const panel = document.getElementById('panel-create');
+    if (panel) {
+      panel.classList.remove('translate-x-full');
+      panel.classList.add('translate-x-0');
+    }
+    document.getElementById('create-overlay')?.classList.remove('hidden');
+    showCreateStep('create-choice-step');
+  }
+
+  function closeCreateSheet() {
+    const panel = document.getElementById('panel-create');
+    if (panel) {
+      panel.classList.remove('translate-x-0');
+      panel.classList.add('translate-x-full');
+    }
+    document.getElementById('create-overlay')?.classList.add('hidden');
+  }
+
+  function showCreateStep(stepId) {
+    ['create-choice-step', 'create-describe-panel', 'create-import-panel'].forEach(id => {
+      document.getElementById(id)?.classList.toggle('hidden', id !== stepId);
+    });
+  }
+
+  function setupCreateSheetHandlers() {
+    const overlay = document.getElementById('create-overlay');
+    const closeBtn = document.getElementById('create-close-btn');
+    if (closeBtn) closeBtn.addEventListener('click', closeCreateSheet);
+    if (overlay) overlay.addEventListener('click', closeCreateSheet);
+
+    document.getElementById('create-choice-describe')?.addEventListener('click', () => showCreateStep('create-describe-panel'));
+    document.getElementById('create-choice-import')?.addEventListener('click', () => showCreateStep('create-import-panel'));
+    document.getElementById('create-choice-template')?.addEventListener('click', () => { window.location.href = 'browse.html'; });
+
+    document.querySelectorAll('.create-back-btn').forEach(btn => {
+      btn.addEventListener('click', () => showCreateStep(btn.dataset.backTo));
+    });
+
+    document.getElementById('create-blank-link')?.addEventListener('click', async () => {
+      closeCreateSheet();
+      await createNewBlankForm();
+      switchTab('editor', true);
+    });
+
+    document.getElementById('create-yaml-toggle')?.addEventListener('click', () => {
+      const wrap = document.getElementById('create-yaml-wrap');
+      const toggle = document.getElementById('create-yaml-toggle');
+      if (!wrap) return;
+      const isHidden = wrap.classList.toggle('hidden');
+      if (toggle) toggle.textContent = isHidden ? 'View YAML' : 'Hide YAML';
+    });
+
+    document.getElementById('btn-load-generated')?.addEventListener('click', closeCreateSheet);
   }
 
   function setupYamlSourceModalHandlers() {
@@ -2065,6 +2120,7 @@
     initDeployControls();
     initSharePublish();
     setupShareSheetHandlers();
+    setupCreateSheetHandlers();
     setupYamlSourceModalHandlers();
     setupResponsesPanelHandlers();
     initCreateTab();

@@ -502,7 +502,6 @@
                   <span class="material-symbols-outlined icon-sm">add_circle</span>
                   Create form
                 </button>
-                <a href="browse.html" class="inline-flex items-center gap-1 text-sm text-primary hover:opacity-80 transition-opacity">Browse templates</a>
               </div>
             </div>
           </div>
@@ -969,6 +968,65 @@
             </div>
           </div>
 
+        </div>
+      </aside>
+
+      <!-- CREATE SLIDE-OVER PANEL -->
+      <div id="create-overlay" class="hidden fixed inset-0 bg-slate-950/40 backdrop-blur-sm z-40" aria-hidden="true"></div>
+      <aside id="panel-create" class="fixed top-0 right-0 h-full w-full max-w-2xl bg-white dark:bg-slate-900 shadow-2xl z-50 flex flex-col transform translate-x-full transition-transform duration-300 border-l border-slate-200 dark:border-slate-800 overflow-y-auto" role="dialog" aria-modal="true" aria-label="Create a form">
+        <div class="flex items-center justify-between px-5 py-4 border-b border-slate-200 dark:border-slate-800 flex-shrink-0">
+          <h2 class="text-base font-semibold text-slate-900 dark:text-slate-100">Create a form</h2>
+          <button id="create-close-btn" type="button" class="inline-flex h-8 w-8 items-center justify-center rounded-lg border border-slate-200 dark:border-slate-700 text-slate-500 hover:border-primary hover:text-primary transition-colors">
+            <span class="material-symbols-outlined icon-sm">close</span>
+          </button>
+        </div>
+        <div class="max-w-3xl mx-auto p-6 sm:p-8 w-full">
+          <div id="create-choice-step">
+            <div class="grid grid-cols-1 sm:grid-cols-3 gap-3 mb-5">
+              <button type="button" id="create-choice-describe" class="create-choice-card flex flex-col items-start gap-2 rounded-2xl border border-slate-200 dark:border-slate-800 p-4 text-left hover:border-primary hover:shadow-sm transition-all">
+                <span class="material-symbols-outlined text-primary" style="font-size:24px;">auto_awesome</span>
+                <span class="font-semibold text-sm text-slate-900 dark:text-slate-100">Describe it</span>
+                <span class="text-xs text-slate-500 dark:text-slate-400">Tell us what you need — AI builds the form.</span>
+              </button>
+              <button type="button" id="create-choice-template" class="create-choice-card flex flex-col items-start gap-2 rounded-2xl border border-slate-200 dark:border-slate-800 p-4 text-left hover:border-primary hover:shadow-sm transition-all">
+                <span class="material-symbols-outlined text-primary" style="font-size:24px;">grid_view</span>
+                <span class="font-semibold text-sm text-slate-900 dark:text-slate-100">Use a template</span>
+                <span class="text-xs text-slate-500 dark:text-slate-400">Start from thousands of ready-made forms.</span>
+              </button>
+              <button type="button" id="create-choice-import" class="create-choice-card flex flex-col items-start gap-2 rounded-2xl border border-slate-200 dark:border-slate-800 p-4 text-left hover:border-primary hover:shadow-sm transition-all">
+                <span class="material-symbols-outlined text-primary" style="font-size:24px;">upload_file</span>
+                <span class="font-semibold text-sm text-slate-900 dark:text-slate-100">Import</span>
+                <span class="text-xs text-slate-500 dark:text-slate-400">Bring in a survey from SurveyMonkey.</span>
+              </button>
+            </div>
+            <div class="text-center"><button type="button" id="create-blank-link" class="text-sm text-slate-500 hover:text-primary transition-colors">Or start with a blank form</button></div>
+          </div>
+
+          <div id="create-describe-panel" class="hidden">
+            <button type="button" class="create-back-btn text-xs text-slate-500 hover:text-primary mb-4 flex items-center gap-1" data-back-to="create-choice-step"><span class="material-symbols-outlined icon-sm">arrow_back</span>Back</button>
+            <label for="create-prompt" class="block text-sm font-semibold text-slate-900 dark:text-slate-100 mb-2">Describe the form you need</label>
+            <textarea id="create-prompt" rows="3" placeholder="e.g. A customer satisfaction survey for a coffee shop with 8 questions" class="w-full text-sm rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 p-3 focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary transition-colors"></textarea>
+            <div id="create-bridge-note" class="hidden mt-2 text-xs text-amber-600 dark:text-amber-400">AI features are being configured. Subscribe now to be ready when they launch.</div>
+            <button type="button" id="btn-generate" class="btn-primary mt-3" style="width:auto;padding:8px 16px;"><span class="material-symbols-outlined icon-sm">auto_awesome</span><span id="btn-generate-label">Generate Form</span></button>
+            <div id="create-output-panel" class="hidden mt-4">
+              <div id="create-status-label" class="hidden text-xs text-slate-500 mb-2 animate-pulse">Generating…</div>
+              <button type="button" id="create-yaml-toggle" class="text-xs text-primary hover:underline mb-2">View YAML</button>
+              <div id="create-yaml-wrap" class="hidden"><pre id="create-output-pre" class="max-h-72 overflow-auto m-0 rounded-xl border border-slate-200 dark:border-slate-700"><code id="create-output-code" class="language-yaml text-sm"></code></pre></div>
+              <button type="button" id="btn-load-generated" class="hidden btn-primary mt-3" style="width:auto;padding:8px 16px;">Use this form</button>
+            </div>
+          </div>
+
+          <div id="create-import-panel" class="hidden">
+            <button type="button" class="create-back-btn text-xs text-slate-500 hover:text-primary mb-4 flex items-center gap-1" data-back-to="create-choice-step"><span class="material-symbols-outlined icon-sm">arrow_back</span>Back</button>
+            <button type="button" id="sm-import-toggle-btn" class="btn-outline" style="width:auto;padding:8px 16px;">Connect SurveyMonkey</button>
+            <div id="sm-import-panel" class="hidden mt-4">
+              <label for="sm-import-token" class="block text-sm font-semibold text-slate-900 dark:text-slate-100 mb-2">SurveyMonkey access token</label>
+              <input id="sm-import-token" type="password" class="w-full text-sm rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 p-3 focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary transition-colors" placeholder="Paste your token">
+              <button type="button" id="sm-list-btn" class="btn-primary mt-3" style="width:auto;padding:8px 16px;">List my surveys</button>
+              <div id="sm-survey-list" class="hidden mt-3 space-y-2"></div>
+              <div id="sm-import-status" class="hidden mt-3"></div>
+            </div>
+          </div>
         </div>
       </aside>
 
