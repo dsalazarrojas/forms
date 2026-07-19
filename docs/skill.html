@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Claude / Codex Skill — GIC Forms</title>
+  <meta name="description" content="Drive GIC Forms from your own AI assistant: create, validate, and deploy forms from Claude, Codex, or any CLI with one API key.">
+  <link rel="canonical" href="https://forms.gic.mx/skill.html">
+  <style>
+    body { margin: 0; font-family: "Public Sans", "Segoe UI", sans-serif; color: #0f172a; background: #f8fafc; line-height: 1.7; }
+    .wrap { max-width: 860px; margin: 0 auto; padding: 0 1.25rem; }
+    header, footer { background: #fff; border-bottom: 1px solid #e2e8f0; }
+    footer { border-top: 1px solid #e2e8f0; border-bottom: 0; margin-top: 3rem; }
+    .nav { display: flex; gap: 1rem; flex-wrap: wrap; padding: 1rem 0; }
+    .nav a { color: #ec5b13; text-decoration: none; font-weight: 600; }
+    main { padding: 3rem 0; }
+    h1 { font-size: clamp(2rem, 4vw, 3rem); line-height: 1.1; margin-bottom: 1rem; }
+    h2 { margin-top: 2rem; }
+    p, li { color: #475569; }
+    .card { background: #fff; border: 1px solid #e2e8f0; border-radius: 1rem; padding: 1.25rem; margin-top: 1.5rem; }
+    pre { background: #0f172a; color: #f1f5f9; border-radius: 0.75rem; padding: 1rem; overflow-x: auto; font-size: 0.875rem; }
+    code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+    a { color: #ec5b13; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <nav class="nav">
+        <a href="/">Home</a>
+        <a href="/browse.html">Browse</a>
+        <a href="/guides/">Guides</a>
+        <a href="/categories/">Categories</a>
+        <a href="/skill.html">Skill</a>
+      </nav>
+    </div>
+  </header>
+  <main class="wrap">
+    <h1>Use GIC Forms from your own AI</h1>
+    <p>Install the skill and tell Claude or Codex: <em>"Create a patient intake form and deploy it to Tally."</em> Your assistant creates the form from a plain-language prompt, validates it, and deploys it — no dashboard needed.</p>
+
+    <div class="card">
+      <h2>Install (Claude Code)</h2>
+      <pre><code>mkdir -p .claude/commands cli
+curl -o .claude/commands/gic-forms.md https://forms.gic.mx/downloads/gic-forms-skill.md
+curl -o cli/gic-forms.js https://forms.gic.mx/downloads/gic-forms.js
+export GIC_API_KEY=gic_live_...   # from Settings → API Keys (Pro), or a gift key</code></pre>
+      <p>Downloads: <a href="/downloads/gic-forms-skill.md">skill file</a> · <a href="/downloads/gic-forms.js">CLI (zero-dependency Node)</a></p>
+    </div>
+
+    <div class="card">
+      <h2>What it can do</h2>
+      <ul>
+        <li>Create a form from a prompt (<code>createForm</code>) and edit it in plain language (<code>editForm</code>).</li>
+        <li>Validate YAML before anything ships (<code>validateForm</code>).</li>
+        <li>Deploy to Tally, Formbricks, ONA, or KoboToolbox with your platform token.</li>
+        <li>Import SurveyMonkey surveys as GIC YAML (Pro/Business).</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>How GIC apps handle access</h2>
+      <p>No accounts, no passwords. Three lightweight keys cover everything: a <code>GIC_API_KEY</code> for programmatic access to a product's bridge, your own Cloudflare credentials (<code>CF_ACCOUNT_ID</code> / <code>CF_API_TOKEN</code>) when you deploy to or transform with your own Cloudflare account, and — on the web — short-lived tokens issued after Stripe checkout. Credentials you bring stay on your machine or in your browser; GIC never stores them server-side.</p>
+      <p>Sibling skills: <a href="https://onePageApps.gic.mx/skill.html">One-Page Apps</a> · <a href="https://photofilters.gic.mx/advanced.html">GIC Photo Filters</a></p>
+    </div>
+  </main>
+  <footer>
+    <div class="wrap">
+      <nav class="nav">
+        <a href="/">Home</a>
+        <a href="/about.html">About</a>
+        <a href="/skill.html">Skill</a>
+        <a href="/privacy.html">Privacy</a>
+        <a href="/terms.html">Terms</a>
+      </nav>
+    </div>
+  </footer>
+</body>
+</html>
