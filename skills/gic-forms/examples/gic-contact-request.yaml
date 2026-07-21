@@ -1,0 +1,70 @@
+title: "Contact GIC — Form, GIC Collect, or Custom Project Request"
+pages:
+  - id: 1
+    name: full_name
+    label: "Your name"
+    hint: "Tell us who we should reply to."
+    type: text
+    required: true
+  - id: 2
+    name: email
+    label: "Email address"
+    hint: "We will use this only to respond to your request."
+    type: email
+    required: true
+  - id: 3
+    name: organization
+    label: "Organization"
+    hint: "Optional — company, nonprofit, school, government office, or team."
+    type: text
+    required: false
+  - id: 4
+    name: request_type
+    label: "What can we help you with?"
+    type: select_one
+    required: true
+    options:
+      - name: new_form
+        label: "Create a new form or survey"
+      - name: import_form
+        label: "Import an existing form"
+      - name: embed_form
+        label: "Embed a form on a website"
+      - name: collect_support
+        label: "GIC Collect or ODK Collect support"
+      - name: custom_project
+        label: "Custom software or data project"
+      - name: other
+        label: "Other"
+  - id: 5
+    name: project_details
+    label: "What do you need?"
+    hint: "Describe the form, workflow, current provider, deadline, or desired result. Do not include passwords or sensitive records."
+    type: text
+    required: true
+  - id: 6
+    name: preferred_contact
+    label: "Preferred reply method"
+    type: select_one
+    required: true
+    options:
+      - name: email
+        label: "Email"
+      - name: phone
+        label: "Phone"
+      - name: whatsapp
+        label: "WhatsApp"
+  - id: 7
+    name: phone
+    label: "Phone or WhatsApp number"
+    hint: "Optional. Include country code if you prefer a phone or WhatsApp reply."
+    type: text
+    required: false
+  - id: 8
+    name: consent
+    label: "May GIC use this information to respond to your request?"
+    type: select_one
+    required: true
+    options:
+      - name: yes
+        label: "Yes"

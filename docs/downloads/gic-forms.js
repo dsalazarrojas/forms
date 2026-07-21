@@ -23,6 +23,8 @@
 
 const https = require('https');
 const http  = require('http');
+const dns   = require('dns');
+const net   = require('net');
 const fs    = require('fs');
 const path  = require('path');
 
@@ -30,7 +32,7 @@ const path  = require('path');
 // Configuration
 // ─────────────────────────────────────────────────────────────────────────────
 
-const DEFAULT_BRIDGE_URL = 'https://gic-forms-bridge.dsalazar.workers.dev';
+const DEFAULT_BRIDGE_URL = 'https://f.gic.mx';
 
 function getBridgeUrl() {
   return (process.env.GIC_BRIDGE_URL || DEFAULT_BRIDGE_URL).replace(/\/$/, '');
@@ -107,6 +109,27 @@ function post(urlString, body, headers) {
   });
 }
 
+function request(urlString, method, body, headers) {
+  if (method === 'POST') return post(urlString, body || {}, headers);
+  return new Promise((resolve, reject) => {
+    const url = new URL(urlString);
+    const lib = url.protocol === 'https:' ? https : http;
+    const req = lib.request({ hostname: url.hostname, port: url.port || (url.protocol === 'https:' ? 443 : 80), path: url.pathname + url.search, method, headers: { Accept: 'application/json', ...(headers || {}) } }, res => {
+      let data = '';
+      res.on('data', chunk => { data += chunk; });
+      res.on('end', () => {
+        let parsed;
+        try { parsed = data ? JSON.parse(data) : {}; } catch (_) { parsed = { raw: data }; }
+        if (res.statusCode >= 400) {
+          const err = new Error(parsed.error || parsed.message || `HTTP ${res.statusCode}`);
+          err.status = res.statusCode; err.response = parsed; reject(err);
+        } else resolve(parsed);
+      });
+    });
+    req.on('error', reject); req.end();
+  });
+}
+
 function bridgePost(path, body, apiKey) {
   const key = apiKey || getApiKey();
   if (!key) {
@@ -117,6 +140,12 @@ function bridgePost(path, body, apiKey) {
     ));
   }
   return post(`${getBridgeUrl()}${path}`, body, { 'X-GIC-API-Key': key });
+}
+
+function bridgeRequest(method, route, body, apiKey) {
+  const key = apiKey || getApiKey();
+  if (!key) return Promise.reject(new Error('No GIC API key found. Set GIC_API_KEY or configure ~/.config/gic/credentials.json.'));
+  return request(`${getBridgeUrl()}${route}`, method, body, { 'X-GIC-API-Key': key });
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -424,7 +453,7 @@ function parseYamlToForm(yamlText) {
       continue;
     }
 
-    if (indent <= 4 && !trimmed.startsWith('-')) {
+    if (!currentQuestion && indent <= 4 && !trimmed.startsWith('-')) {
       flushQuestion();
       inPages = false;
       continue;
@@ -532,6 +561,182 @@ function parseYamlToForm(yamlText) {
   return form;
 }
 
+// Hosted lifecycle API -------------------------------------------------------
+function formRoute(action) { return `/forms/${action}`; }
+function responseRoute(action) { return `/forms/responses/${action}`; }
+
+async function publishForm(yamlOrPath, options = {}, apiKey) {
+  const yaml = await resolveYamlInput(yamlOrPath);
+  return bridgeRequest('POST', formRoute('publish'), { yaml, schema: parseYamlToForm(yaml), slug: options.slug, title: options.title }, apiKey);
+}
+async function listForms(options = {}, apiKey) { return bridgeRequest('POST', formRoute('list'), options, apiKey); }
+async function updateForm(id, yamlOrPath, options = {}, apiKey) {
+  if (!id) throw new Error('Missing form id');
+  const yaml = await resolveYamlInput(yamlOrPath);
+  return bridgeRequest('POST', formRoute('update'), { formId: id, yaml, schema: parseYamlToForm(yaml), ...options }, apiKey);
+}
+async function setFormState(action, id, apiKey) {
+  if (!id) throw new Error('Missing form id');
+  const resume = action === 'resume' || action === 'resumeForm';
+  return bridgeRequest('POST', formRoute('pause'), { formId: id, resume }, apiKey);
+}
+async function deleteForm(id, apiKey) { if (!id) throw new Error('Missing form id'); return bridgeRequest('POST', formRoute('delete'), { formId: id }, apiKey); }
+async function listResponses(id, options = {}, apiKey) { if (!id) throw new Error('Missing form id'); return bridgeRequest('POST', responseRoute('list'), { formId: id, ...options }, apiKey); }
+async function deleteResponse(id, responseKey, apiKey) { if (!id || !responseKey) throw new Error('Missing form id or response key'); return bridgeRequest('POST', responseRoute('delete'), { formId: id, responseKey }, apiKey); }
+
+async function exportResponses(id, options = {}, apiKey) {
+  if (!id) throw new Error('Missing form id');
+  const result = await bridgeRequest('POST', responseRoute('export'), { formId: id, ...options }, apiKey);
+  return result.raw != null ? result.raw : result;
+}
+
+function escapeHtml(value) {
+  return String(value == null ? '' : value).replace(/[&<>"']/g, ch => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[ch]));
+}
+function generateEmbed(options = {}) {
+  const mode = options.mode || 'link';
+  if (!['link', 'button', 'iframe'].includes(mode)) throw new Error('Embed mode must be link, button, or iframe');
+  const url = String(options.url || (options.id ? `${getBridgeUrl()}/f/${encodeURIComponent(options.id)}` : '')).trim();
+  if (!/^https?:\/\//i.test(url)) throw new Error('Embed URL must be an absolute http(s) URL');
+  const safeUrl = escapeHtml(url);
+  const label = escapeHtml(options.label || 'Open form');
+  if (mode === 'iframe') return `<iframe src="${safeUrl}" title="${label}" loading="lazy" style="width:100%;min-height:640px;border:0" allow="clipboard-write"></iframe>`;
+  if (mode === 'button') return `<a href="${safeUrl}" role="button" class="gic-forms-button">${label}</a>`;
+  return `<a href="${safeUrl}">${label}</a>`;
+}
+
+const MARKER_START = '<!-- GIC_FORMS_MANAGED_START -->';
+const MARKER_END = '<!-- GIC_FORMS_MANAGED_END -->';
+function managedBlock(options = {}) {
+  const html = generateEmbed(options);
+  return `${MARKER_START}\n${options.html ? `<section data-gic-forms="managed" aria-label="GIC Forms">${html}</section>` : html}\n${MARKER_END}`;
+}
+function inspectSite(file) {
+  if (!file) throw new Error('Explicit --file is required');
+  const content = fs.readFileSync(path.resolve(file), 'utf8');
+  const starts = (content.match(new RegExp(MARKER_START, 'g')) || []).length;
+  const ends = (content.match(new RegExp(MARKER_END, 'g')) || []).length;
+  return { file: path.resolve(file), kind: /\.html?$/i.test(file) ? 'html' : 'markdown', managedBlocks: starts, balanced: starts === ends, installed: starts === 1 && starts === ends };
+}
+function installSite(file, options = {}) {
+  if (!file) throw new Error('Explicit --file is required');
+  const target = path.resolve(file); const before = fs.readFileSync(target, 'utf8');
+  const block = managedBlock({ ...options, html: /\.html?$/i.test(target) });
+  const re = new RegExp(`${MARKER_START}[\\s\\S]*?${MARKER_END}`, 'g');
+  let after;
+  if (/\.html?$/i.test(target) && /<\/body\s*>/i.test(before)) {
+    const withoutManagedBlock = before.replace(re, '').replace(/\n{3,}/g, '\n\n');
+    after = withoutManagedBlock.replace(/<\/body\s*>/i, `${block}\n</body>`);
+  } else if (re.test(before)) {
+    after = before.replace(re, block);
+  } else {
+    after = `${before.replace(/\s*$/, '')}\n\n${block}\n`;
+  }
+  if (!options.dryRun && after !== before) fs.writeFileSync(target, after);
+  return { file: target, changed: after !== before, dryRun: Boolean(options.dryRun), content: options.dryRun ? after : undefined };
+}
+function removeSite(file, options = {}) {
+  if (!file) throw new Error('Explicit --file is required');
+  const target = path.resolve(file); const before = fs.readFileSync(target, 'utf8');
+  const after = before.replace(new RegExp(`\\n?${MARKER_START}[\\s\\S]*?${MARKER_END}\\n?`, 'g'), '\n').replace(/\n{3,}/g, '\n\n');
+  if (!options.dryRun && after !== before) fs.writeFileSync(target, after);
+  return { file: target, changed: after !== before, dryRun: Boolean(options.dryRun), content: options.dryRun ? after : undefined };
+}
+function verifySite(file) { const report = inspectSite(file); return { ...report, ok: report.balanced && report.managedBlocks <= 1 }; }
+
+function normalizeImported(value) {
+  const source = value && typeof value === 'object' ? value : {};
+  const form = source.form && typeof source.form === 'object' ? source.form : source;
+  const questions = Array.isArray(form.questions) ? form.questions : Array.isArray(form.fields) ? form.fields : [];
+  return { title: String(form.title || form.name || 'Untitled Survey'), questions: questions.map((q, i) => finalizeQuestion({ ...q, label: q.label || q.title || q.question || q.name }, i)) };
+}
+function isPrivateAddress(address) {
+  let value = String(address || '').toLowerCase().split('%')[0];
+  if (net.isIP(value) === 6) {
+    let normalized = value;
+    const dottedTail = normalized.match(/(\d+\.\d+\.\d+\.\d+)$/);
+    if (dottedTail && net.isIP(dottedTail[1]) === 4) {
+      const octets = dottedTail[1].split('.').map(Number);
+      normalized = normalized.slice(0, -dottedTail[1].length) +
+        `${((octets[0] << 8) | octets[1]).toString(16)}:${((octets[2] << 8) | octets[3]).toString(16)}`;
+    }
+    const halves = normalized.split('::');
+    const left = halves[0] ? halves[0].split(':').filter(Boolean) : [];
+    const right = halves.length > 1 && halves[1] ? halves[1].split(':').filter(Boolean) : [];
+    const fill = halves.length > 1 ? Math.max(0, 8 - left.length - right.length) : 0;
+    const words = [...left, ...Array(fill).fill('0'), ...right].map(part => parseInt(part, 16));
+    if (words.length === 8 && words.slice(0, 5).every(word => word === 0) && words[5] === 0xffff) {
+      value = `${words[6] >>> 8}.${words[6] & 255}.${words[7] >>> 8}.${words[7] & 255}`;
+    }
+  }
+  if (net.isIP(value) === 4) {
+    const octets = value.split('.').map(Number);
+    const [a, b] = octets;
+    return a === 0 || a === 10 || a === 127 || a >= 224 ||
+      (a === 100 && b >= 64 && b <= 127) ||
+      (a === 169 && b === 254) ||
+      (a === 172 && b >= 16 && b <= 31) ||
+      (a === 192 && (b === 0 || b === 168)) ||
+      (a === 198 && (b === 18 || b === 19));
+  }
+  if (net.isIP(value) === 6) {
+    return value === '::' || value === '::1' || /^f[cd]/.test(value) || /^fe[89ab]/.test(value);
+  }
+  return true;
+}
+
+async function resolvePublicAddress(hostname) {
+  const host = String(hostname || '').replace(/^\[|\]$/g, '').toLowerCase();
+  if (!host || host === 'localhost' || host.endsWith('.localhost') || host.endsWith('.local')) throw new Error('Remote import target must be a public host');
+  if (net.isIP(host)) {
+    if (isPrivateAddress(host)) throw new Error('Remote import target must be a public host');
+    return { address: host, family: net.isIP(host) };
+  }
+  const records = await dns.promises.lookup(host, { all: true, verbatim: true });
+  if (!records.length || records.some(record => isPrivateAddress(record.address))) throw new Error('Remote import target must resolve only to public addresses');
+  return records[0];
+}
+
+async function fetchUrl(urlString) {
+  const url = new URL(urlString);
+  if (!['http:', 'https:'].includes(url.protocol)) throw new Error('Only http(s) URLs are supported');
+  if (url.username || url.password) throw new Error('Remote import URLs cannot contain credentials');
+  const resolved = await resolvePublicAddress(url.hostname);
+  return new Promise((resolve, reject) => {
+    const lib = url.protocol === 'https:' ? https : http;
+    const req = lib.get(url, {
+      headers: { Accept: 'text/html, application/json, text/plain' },
+      lookup: (_hostname, options, callback) => {
+        const done = typeof options === 'function' ? options : callback;
+        if (options && typeof options === 'object' && options.all) done(null, [resolved]);
+        else done(null, resolved.address, resolved.family);
+      }
+    }, res => {
+      let data = '';
+      res.on('data', chunk => {
+        data += chunk;
+        if (data.length > 5 * 1024 * 1024) req.destroy(new Error('Remote import is too large'));
+      });
+      res.on('end', () => res.statusCode >= 400 ? reject(Object.assign(new Error(`HTTP ${res.statusCode}`), { status: res.statusCode })) : resolve(data));
+    });
+    req.setTimeout(10000, () => req.destroy(new Error('Remote import timed out')));
+    req.on('error', reject);
+  });
+}
+async function importForm(source, options = {}) {
+  if (!source) throw new Error('Missing import source');
+  let text = source;
+  if (/^https?:\/\//i.test(source)) {
+    const url = new URL(source);
+    if (url.hostname !== 'forms.gic.mx' && url.hostname !== 'f.gic.mx' && !options.authorizeRemote) throw new Error('Remote generic URL import requires --authorize-remote');
+    text = await fetchUrl(source);
+  } else if (fs.existsSync(path.resolve(source))) text = fs.readFileSync(path.resolve(source), 'utf8');
+  try { return normalizeImported(JSON.parse(text)); } catch (_) {}
+  const embedded = String(text).match(/<script[^>]+type=["']application\/json["'][^>]*>([\s\S]*?)<\/script>/i);
+  if (embedded) { try { return normalizeImported(JSON.parse(embedded[1])); } catch (_) {} }
+  return normalizeImported(parseYamlToForm(text));
+}
+
 function getCliOutputMode(flags) {
   const requested = String(flags.output || flags.format || '').trim().toLowerCase();
   if (requested === 'yaml' || requested === 'raw') return 'yaml';
@@ -539,13 +744,28 @@ function getCliOutputMode(flags) {
 }
 
 function printCliResult(command, result, flags) {
+  if (flags.out) {
+    const safe = typeof result === 'string' ? result : JSON.stringify(result, (key, value) => /rawKey|apiKey|token|secret|password|authorization/i.test(key) ? '[REDACTED]' : value, 2);
+    fs.writeFileSync(path.resolve(flags.out), safe);
+    return;
+  }
+  if (command === 'responses-export' || command === 'responsesExport') {
+    process.stdout.write(typeof result === 'string' ? result : JSON.stringify(result, null, 2));
+    if (!String(result).endsWith('\n')) process.stdout.write('\n');
+    return;
+  }
+  if (command === 'embed' || command === 'embed-generate') {
+    process.stdout.write(`${result}\n`);
+    return;
+  }
   const outputMode = getCliOutputMode(flags);
   if ((command === 'createForm' || command === 'editForm') && outputMode === 'yaml') {
     const yaml = typeof result?.yaml === 'string' ? result.yaml : '';
     process.stdout.write(yaml.endsWith('\n') ? yaml : `${yaml}\n`);
     return;
   }
-  process.stdout.write(`${JSON.stringify(result, null, 2)}\n`);
+  const safe = JSON.parse(JSON.stringify(result, (key, value) => /rawKey|apiKey|token|secret|password|authorization/i.test(key) ? '[REDACTED]' : value));
+  process.stdout.write(`${JSON.stringify(safe, null, 2)}\n`);
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -559,8 +779,9 @@ function parseCliArgs(argv) {
 
   for (let i = 0; i < args.length; i++) {
     if (args[i].startsWith('--')) {
-      const key = args[i].slice(2);
-      const val = args[i + 1] && !args[i + 1].startsWith('--') ? args[++i] : true;
+      const raw = args[i].slice(2); const equal = raw.indexOf('=');
+      const key = equal >= 0 ? raw.slice(0, equal) : raw;
+      const val = equal >= 0 ? raw.slice(equal + 1) : (args[i + 1] && !args[i + 1].startsWith('--') ? args[++i] : true);
       flags[key] = val;
     } else {
       positional.push(args[i]);
@@ -580,7 +801,7 @@ Environment variables:
   GIC_API_KEY     Required. Your API key (gic_live_* or gic_admin_*)
   GIC_BRIDGE_URL  Optional. Override bridge URL.
 
-Commands (user):
+  Commands (user):
   createForm   "<prompt>" [--output yaml|json]
   editForm     <yaml|file|-> "<instruction>" [--output yaml|json]
   validateForm <yaml|file|->
@@ -590,6 +811,17 @@ Commands (user):
   uploadToKobo <yaml|file|-> --kobo-token <TOKEN> [--kobo-server <URL>]
   smListSurveys --sm-token <TOKEN>
   smImport     --sm-token <TOKEN> --survey-id <ID>
+  publish      <yaml|file|-> [--slug <slug>]
+  forms-list   [--status <status>]
+  update       <formId> <yaml|file|->
+  pause|resume <formId>
+  delete       <formId>
+  responses-list   <formId>
+  responses-delete <formId> <responseKey>
+  responses-export <formId> [--out responses.csv]
+  embed        <formId|url> --mode link|button|iframe [--label <text>]
+  site-inspect|site-install|site-remove|site-verify --file <path> [--dry-run]
+  import       <file|url> [--authorize-remote]
 
 Commands (admin — requires gic_admin_* key):
   adminCreateKey --label "<name>" --plan <pro|business> [--note "<note>"]
@@ -643,6 +875,44 @@ Commands (admin — requires gic_admin_* key):
       result = await smImport(flags['sm-token'], flags['survey-id']);
       break;
 
+    case 'publish': case 'publishForm':
+      result = await publishForm(positional[0], { slug: flags.slug, title: flags.title });
+      break;
+    case 'forms-list': case 'formsList':
+      result = await listForms({ status: flags.status, limit: flags.limit });
+      break;
+    case 'update': case 'updateForm':
+      result = await updateForm(positional[0], positional[1], { slug: flags.slug, title: flags.title });
+      break;
+    case 'pause': case 'pauseForm': case 'resume': case 'resumeForm':
+      result = await setFormState(command, positional[0]);
+      break;
+    case 'delete': case 'deleteForm':
+      result = await deleteForm(positional[0]);
+      break;
+    case 'responses-list': case 'responsesList':
+      result = await listResponses(positional[0], { limit: flags.limit, cursor: flags.cursor });
+      break;
+    case 'responses-delete': case 'responsesDelete':
+      result = await deleteResponse(positional[0], positional[1]);
+      break;
+    case 'responses-export': case 'responsesExport':
+      result = await exportResponses(positional[0], { format: flags.format || 'csv', limit: flags.limit });
+      break;
+    case 'embed': case 'embed-generate':
+      result = generateEmbed({ id: positional[0], url: /^https?:\/\//i.test(positional[0] || '') ? positional[0] : undefined, mode: flags.mode, label: flags.label });
+      break;
+    case 'site-inspect':
+      result = inspectSite(flags.file); break;
+    case 'site-install':
+      result = installSite(flags.file, { mode: flags.mode, id: flags.id, url: flags.url, label: flags.label, dryRun: flags['dry-run'] }); break;
+    case 'site-remove':
+      result = removeSite(flags.file, { dryRun: flags['dry-run'] }); break;
+    case 'site-verify':
+      result = verifySite(flags.file); break;
+    case 'import':
+      result = await importForm(positional[0], { authorizeRemote: Boolean(flags['authorize-remote']) }); break;
+
     case 'adminCreateKey':
       result = await adminCreateKey(flags.label, flags.plan, flags.note);
       break;
@@ -669,8 +939,12 @@ Commands (admin — requires gic_admin_* key):
 
 if (require.main === module) {
   runCli(process.argv).catch(err => {
-    const message = err.message || String(err);
-    const extra = err.response ? `\nResponse: ${JSON.stringify(err.response)}` : '';
+    const status = Number(err.status || 0);
+    const mapped = status === 401 ? 'Authentication failed (check GIC_API_KEY).' : status === 402 ? 'This operation requires a paid plan.' : status === 403 ? 'This operation is not permitted for this key or plan.' : status === 404 ? 'The requested form or response was not found.' : status === 409 ? 'The request conflicts with the current form state.' : status === 429 ? 'Rate limited by GIC Forms; retry later.' : status >= 500 ? 'GIC Forms is temporarily unavailable.' : (err.message || String(err));
+    const message = mapped;
+    const safeResponse = err.response && typeof err.response === 'object' ? { ...err.response } : null;
+    if (safeResponse) for (const key of Object.keys(safeResponse)) if (/key|token|secret|authorization|password/i.test(key)) safeResponse[key] = '[REDACTED]';
+    const extra = safeResponse ? `\nResponse: ${JSON.stringify(safeResponse)}` : '';
     console.error(`Error: ${message}${extra}`);
     process.exit(1);
   });
@@ -695,8 +969,26 @@ module.exports = {
   adminCreateKey,
   adminListKeys,
   adminRevokeKey,
+  publishForm,
+  listForms,
+  updateForm,
+  setFormState,
+  deleteForm,
+  listResponses,
+  deleteResponse,
+  exportResponses,
+  generateEmbed,
+  escapeHtml,
+  inspectSite,
+  installSite,
+  removeSite,
+  verifySite,
+  normalizeImported,
+  importForm,
   // Internals (useful for custom integrations)
   bridgePost,
+  bridgeRequest,
+  parseCliArgs,
   resolveYamlInput,
   parseYamlToForm,
   getBridgeUrl

@@ -25,12 +25,58 @@ Optionally override the bridge URL (leave unset to use production):
 export GIC_BRIDGE_URL=https://your-worker.workers.dev
 ```
 
+The canonical hosted bridge is `https://f.gic.mx` when `GIC_BRIDGE_URL` is unset.
+
 Get a key from: GIC Forms → Settings → API Keys (requires Pro/Business subscription).
 Or ask the admin to create a gift key for you.
 
 **Google Forms/Sheets are NOT available via API key** — they require browser OAuth.
 
 ## Commands
+
+### Hosted lifecycle
+
+Publish and manage hosted forms with readable names (the older camelCase commands remain available):
+```bash
+node cli/gic-forms.js publish form.yaml --slug employee-onboarding
+node cli/gic-forms.js forms-list --status published
+node cli/gic-forms.js update FORM_ID form.updated.yaml
+node cli/gic-forms.js pause FORM_ID
+node cli/gic-forms.js resume FORM_ID
+node cli/gic-forms.js delete FORM_ID
+node cli/gic-forms.js responses-list FORM_ID
+node cli/gic-forms.js responses-delete FORM_ID RESPONSE_KEY
+node cli/gic-forms.js responses-export FORM_ID --out responses.csv
+```
+Use `--output json` for structured output. CSV export is written verbatim to `--out`; secrets are redacted from JSON output.
+
+### Embeds
+
+Generate accessible HTML as a link, button, or lazy iframe:
+```bash
+node cli/gic-forms.js embed FORM_ID --mode link
+node cli/gic-forms.js embed FORM_ID --mode button --label "Apply now"
+node cli/gic-forms.js embed FORM_ID --mode iframe --label "Employee onboarding"
+```
+
+### Install into a site file
+
+Target one Markdown or HTML file explicitly. Managed markers make repeated installs deterministic and idempotent; use `--dry-run` to preview. No git operation is performed.
+```bash
+node cli/gic-forms.js site-inspect --file README.md
+node cli/gic-forms.js site-install --file README.md --mode button --url https://f.gic.mx/f/FORM_ID
+node cli/gic-forms.js site-verify --file README.md
+node cli/gic-forms.js site-remove --file README.md --dry-run
+```
+
+### Import
+
+Import local GIC YAML/JSON or a public GIC Forms HTML URL. Generic remote URLs require an explicit ownership/authorization acknowledgement:
+```bash
+node cli/gic-forms.js import form.yaml
+node cli/gic-forms.js import https://f.gic.mx/f/FORM_ID
+node cli/gic-forms.js import https://example.com/form.html --authorize-remote
+```
 
 ### Create a form from a prompt
 ```bash

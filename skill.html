@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Claude / Codex Skill — GIC Forms</title>
-  <meta name="description" content="Drive GIC Forms from your own AI assistant: create, validate, and deploy forms from Claude, Codex, or any CLI with one API key.">
+  <meta name="description" content="Drive hosted GIC Forms from your own AI assistant: publish, embed, manage responses, import, and install forms from Claude, Codex, or any CLI.">
   <link rel="canonical" href="https://forms.gic.mx/skill.html">
   <style>
     body { margin: 0; font-family: "Public Sans", "Segoe UI", sans-serif; color: #0f172a; background: #f8fafc; line-height: 1.7; }
@@ -37,7 +37,7 @@
   </header>
   <main class="wrap">
     <h1>Use GIC Forms from your own AI</h1>
-    <p>Install the skill and tell Claude or Codex: <em>"Create a patient intake form and deploy it to Tally."</em> Your assistant creates the form from a plain-language prompt, validates it, and deploys it — no dashboard needed.</p>
+    <p>Install the skill and tell Claude or Codex: <em>"Create and publish a patient intake form, then add an accessible embed to my README."</em> Your assistant can create, validate, publish, pause, resume, and manage hosted forms and responses — no dashboard needed.</p>
 
     <div class="card">
       <h2>Install (Claude Code)</h2>
@@ -53,9 +53,23 @@ export GIC_API_KEY=gic_live_...   # from Settings → API Keys (Pro), or a gift 
       <ul>
         <li>Create a form from a prompt (<code>createForm</code>) and edit it in plain language (<code>editForm</code>).</li>
         <li>Validate YAML before anything ships (<code>validateForm</code>).</li>
+        <li>Publish and manage hosted forms with <code>publish</code>, <code>forms-list</code>, <code>update</code>, <code>pause</code>, <code>resume</code>, and <code>delete</code>.</li>
+        <li>Generate accessible link, button, or iframe embeds, and list, delete, or export responses to CSV.</li>
+        <li>Inspect, idempotently install, verify, or remove a managed form block in one Markdown or HTML file; use <code>--dry-run</code> to preview.</li>
+        <li>Import local GIC YAML/JSON or safely authorized public HTML form URLs.</li>
         <li>Deploy to Tally, Formbricks, ONA, or KoboToolbox with your platform token.</li>
         <li>Import SurveyMonkey surveys as GIC YAML (Pro/Business).</li>
       </ul>
+    </div>
+
+    <div class="card">
+      <h2>Hosted lifecycle and embeds</h2>
+      <pre><code>node cli/gic-forms.js publish form.yaml --slug intake
+node cli/gic-forms.js embed FORM_ID --mode iframe --label "Patient intake"
+node cli/gic-forms.js responses-export FORM_ID --out responses.csv
+node cli/gic-forms.js site-install --file README.md --mode button --url https://f.gic.mx/f/FORM_ID
+node cli/gic-forms.js site-verify --file README.md</code></pre>
+      <p>The CLI uses <code>https://f.gic.mx</code> by default. Set <code>GIC_BRIDGE_URL</code> only for an intentional override. Site commands edit only the explicitly targeted file and never run git push.</p>
     </div>
 
     <div class="card">
