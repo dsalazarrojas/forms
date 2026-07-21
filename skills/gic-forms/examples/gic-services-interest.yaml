@@ -1,0 +1,89 @@
+title: "GIC Services Interest Form"
+pages:
+  - id: 1
+    name: name
+    label: "Name (First Last)"
+    hint: "Thank you for your interest in GIC's partner services. GIC can assist at any stage of survey development, connect surveys to mobile apps, add features to existing surveys, add features for ODK or GIC Collect, and provide maintenance and support. GIC Collect is available on the Apple App Store at https://apps.apple.com/mx/app/gic-collect/id1485932698. Please complete this form and we will respond within three to five business days."
+    type: text
+    required: true
+  - id: 2
+    name: contact
+    label: "Email and/or Phone Number"
+    type: text
+    required: true
+  - id: 3
+    name: company_and_job_title
+    label: "Company name and job title"
+    type: text
+    required: true
+  - id: 4
+    name: country_and_city
+    label: "Country and city"
+    type: text
+    required: true
+  - id: 5
+    name: number_of_employees
+    label: "Number of employees"
+    type: select_one
+    required: true
+    options:
+      - name: employees_1_5
+        label: "1-5"
+      - name: employees_5_25
+        label: "5-25"
+      - name: employees_25_50
+        label: "25-50"
+      - name: employees_50_100
+        label: "50-100"
+      - name: employees_100_500
+        label: "100-500"
+      - name: employees_500_1000
+        label: "500-1000"
+      - name: employees_over_1000
+        label: "Over 1000"
+  - id: 6
+    name: partner_services
+    label: "Describe the partner services you are interested in"
+    type: select_multiple
+    required: true
+    options:
+      - name: survey_design_and_implementation
+        label: "Survey design and implementation"
+      - name: mobile_survey_support
+        label: "Survey support on mobile apps (either ODK or GIC Collect)"
+      - name: survey_features
+        label: "Add features to survey"
+      - name: odk_mobile_app_features
+        label: "Add features to mobile app (ODK)"
+      - name: gic_collect_mobile_app_features
+        label: "Add features to mobile app (GIC Collect) (can be present in ODK or not)"
+      - name: maintenance_and_support
+        label: "Maintenance and support"
+      - name: other
+        label: "Other (please specify)"
+  - id: 7
+    name: other_service
+    label: "Other service (please specify)"
+    type: text
+    required: false
+  - id: 8
+    name: more_information
+    label: "Do you have more information on the services you require?"
+    type: text
+    required: false
+  - id: 9
+    name: budget_range
+    label: "Do you have a budget range (in USD) for your project?"
+    type: select_one
+    required: false
+    options:
+      - name: no_budget_set
+        label: "No budget set"
+      - name: budget_500_1000
+        label: "$500 to $1,000"
+      - name: budget_1000_5000
+        label: "$1,000 to $5,000"
+      - name: budget_5000_10000
+        label: "$5,000 to $10,000"
+      - name: budget_above_10000
+        label: "Above $10,000"
