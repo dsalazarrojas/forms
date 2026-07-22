@@ -325,21 +325,20 @@
     const tabs = modal.querySelectorAll('[data-billing-tab]');
     tabs.forEach(tab => {
       const isActive = tab.dataset.billingTab === interval;
-      tab.classList.toggle('bg-white', isActive);
-      tab.classList.toggle('dark:bg-slate-700', isActive);
-      tab.classList.toggle('shadow-sm', isActive);
-      tab.classList.toggle('font-semibold', isActive);
-      tab.classList.toggle('text-slate-900', isActive);
-      tab.classList.toggle('dark:text-slate-100', isActive);
-      tab.classList.toggle('text-slate-500', !isActive);
-      tab.classList.toggle('dark:text-slate-400', !isActive);
+      tab.classList.toggle('bg-primary', isActive);
+      tab.classList.toggle('text-white', isActive);
+      tab.classList.toggle('border-primary', isActive);
+      tab.classList.toggle('border-slate-200', !isActive);
+      tab.classList.toggle('dark:border-slate-700', !isActive);
+      tab.classList.toggle('text-slate-600', !isActive);
+      tab.classList.toggle('dark:text-slate-300', !isActive);
     });
 
-    // Show/hide price sets
-    const monthlyPrices = modal.querySelectorAll('[data-billing="month"]');
-    const annualPrices = modal.querySelectorAll('[data-billing="year"]');
-    monthlyPrices.forEach(el => el.classList.toggle('hidden', interval !== 'month'));
-    annualPrices.forEach(el => el.classList.toggle('hidden', interval !== 'year'));
+    // Show/hide price sets and checkout buttons
+    const monthlyEls = modal.querySelectorAll('.price-month, .period-month, .checkout-btn-month');
+    const annualEls = modal.querySelectorAll('.price-year, .period-year, .checkout-btn-year');
+    monthlyEls.forEach(el => el.classList.toggle('hidden', interval !== 'month'));
+    annualEls.forEach(el => el.classList.toggle('hidden', interval !== 'year'));
   }
 
   // ─── Pro Badge ────────────────────────────────────────────────────────────
