@@ -199,9 +199,10 @@
     const successUrl = new URL('/success.html', window.location.origin).toString();
     const cancelUrl = window.location.href;
     try {
+      const csrfToken = await window.GICDeployIntegrations.getBridgeCsrfToken();
       const response = await fetch(`${bridge}/stripe/checkout`, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 'Content-Type': 'application/json', 'X-CSRF-Token': csrfToken },
         body: JSON.stringify({ plan: normalizedPlan, successUrl, cancelUrl })
       });
       const data = await response.json();
@@ -221,9 +222,10 @@
     if (!bridge) throw new Error('Bridge not configured');
     const stateToken = getCheckoutStateToken();
     if (!stateToken) throw new Error('Missing checkout state. Retry checkout from the editor.');
+    const csrfToken = await window.GICDeployIntegrations.getBridgeCsrfToken();
     const response = await fetch(`${bridge}/stripe/verify`, {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: { 'Content-Type': 'application/json', 'X-CSRF-Token': csrfToken },
       body: JSON.stringify({ sessionId, stateToken })
     });
     const data = await response.json();
@@ -248,11 +250,13 @@
     const bridge = getBridgeUrl();
     if (!bridge) return;
     try {
+      const csrfToken = await window.GICDeployIntegrations.getBridgeCsrfToken();
       const response = await fetch(`${bridge}/stripe/renew`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': `Bearer ${jwt}`
+          'Authorization': `Bearer ${jwt}`,
+          'X-CSRF-Token': csrfToken
         },
         body: '{}'
       });
