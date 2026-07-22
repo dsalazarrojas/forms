@@ -1,0 +1,42 @@
+name: Deploy to Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Assemble deployable site
+        run: |
+          set -e
+          mkdir -p _site
+          cp -r about.html browse.html contact.html editorial-methodology.html \
+                index.html oauth-callback.html preview.html privacy.html \
+                skill.html success.html terms.html \
+                CNAME robots.txt app-ads.txt sitemap.xml \
+                _site/
+          cp -r categories guides downloads docs _site/
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
