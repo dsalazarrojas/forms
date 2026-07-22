@@ -8,8 +8,10 @@
 
   // ─── Constants ────────────────────────────────────────────────────────────
   const FREE_AI_LIMIT = 3;
+  const FREE_SM_LIMIT = 3;
   const STORAGE = {
     freeCredits: 'gic-free-ai-credits',
+    freeSmImports: 'gic-free-sm-imports',
     jwt: 'gic-pro-jwt',
     checkoutState: 'gic-stripe-checkout-state',
     byoKey: 'gic-byo-llm-key',
@@ -38,6 +40,24 @@
 
   function resetFreeCredits() {
     localStorage.removeItem(STORAGE.freeCredits);
+  }
+
+  function getFreeSmImports() {
+    const stored = localStorage.getItem(STORAGE.freeSmImports);
+    if (stored === null) return FREE_SM_LIMIT;
+    const n = parseInt(stored, 10);
+    return isNaN(n) ? FREE_SM_LIMIT : Math.max(0, n);
+  }
+
+  function useFreeSmImport() {
+    const current = getFreeSmImports();
+    const next = Math.max(0, current - 1);
+    localStorage.setItem(STORAGE.freeSmImports, String(next));
+    return next;
+  }
+
+  function hasFreeSmImports() {
+    return getFreeSmImports() > 0;
   }
 
   // ─── JWT Management ───────────────────────────────────────────────────────
@@ -162,6 +182,10 @@
     return hasProAccess() || !!getBYOKey() || hasFreeCredits();
   }
 
+  function hasSmImportAccess() {
+    return hasProAccess() || hasFreeSmImports();
+  }
+
   // ─── Current Plan Label ───────────────────────────────────────────────────
   function getCurrentPlan() {
     const jwt = getJWT();
@@ -271,6 +295,7 @@
   // ─── Upgrade Modal ────────────────────────────────────────────────────────
   const MODAL_HEADLINES = {
     ai_credits_exhausted: 'Unlock Unlimited AI Form Building',
+    sm_imports_exhausted: 'Unlock Unlimited SurveyMonkey Imports',
     pro_feature: 'Upgrade to Pro',
     business_feature: 'Upgrade to Business',
     my_forms_limit: 'Unlimited Saved Forms',
@@ -280,6 +305,7 @@
 
   const MODAL_SUBTEXT = {
     ai_credits_exhausted: "You've used your 3 free AI uses. Upgrade for unlimited AI-powered form creation and editing.",
+    sm_imports_exhausted: "You've used your 3 free SurveyMonkey imports. Upgrade for unlimited imports.",
     pro_feature: 'This feature requires a Pro or Business plan.',
     business_feature: 'This feature requires the Business plan.',
     my_forms_limit: "You've reached the 5-form limit. Upgrade Pro for unlimited saved forms.",
@@ -745,6 +771,9 @@
     getFreeCredits,
     useFreeCredit,
     hasFreeCredits,
+    getFreeSmImports,
+    useFreeSmImport,
+    hasFreeSmImports,
     resetFreeCredits,
     // JWT
     getJWT,
@@ -755,6 +784,7 @@
     hasProAccess,
     hasBusinessAccess,
     hasAIAccess,
+    hasSmImportAccess,
     getCurrentPlan,
     // BYOK
     getBYOKey,

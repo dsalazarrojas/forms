@@ -1439,6 +1439,7 @@
   }
 
   function setupShareSheetHandlers() {
+    document.getElementById('btn-create-new')?.addEventListener('click', openCreateSheet);
     const shareButton = document.getElementById('btn-share');
     const closeButton = document.getElementById('share-close-btn');
     const overlay = document.getElementById('share-overlay');
@@ -2172,6 +2173,17 @@
         switchTab(safeTab, false);
       }
     }
+    const pendingAiPrompt = (() => {
+      try { return sessionStorage.getItem('gic-pending-ai-prompt'); } catch (_) { return null; }
+    })();
+    if (pendingAiPrompt) {
+      try { sessionStorage.removeItem('gic-pending-ai-prompt'); } catch (_) {}
+      openCreateSheet();
+      showCreateStep('create-describe-panel');
+      const promptEl = document.getElementById('create-prompt');
+      if (promptEl) promptEl.value = pendingAiPrompt;
+      handleGenerate();
+    }
   }
 
   // ─── AI Create Tab ───────────────────────────────────────────────────────────
@@ -2254,6 +2266,10 @@
 
       lastGeneratedYaml = fullYaml;
       if (statusLabel) { statusLabel.textContent = 'Done'; statusLabel.classList.remove('animate-pulse'); }
+      const yamlWrap = document.getElementById('create-yaml-wrap');
+      const yamlToggle = document.getElementById('create-yaml-toggle');
+      if (yamlWrap) yamlWrap.classList.remove('hidden');
+      if (yamlToggle) yamlToggle.textContent = 'Hide YAML';
       loadBtn?.classList.remove('hidden');
 
       // Decrement free credit if applicable
@@ -2288,7 +2304,14 @@
   }
 
   async function loadGeneratedForm() {
-    if (!lastGeneratedYaml) return;
+    if (!lastGeneratedYaml) {
+      const statusLabel = document.getElementById('create-status-label');
+      if (statusLabel) {
+        statusLabel.textContent = 'No generated form to load — try generating again.';
+        statusLabel.classList.remove('hidden');
+      }
+      return;
+    }
     try {
       await loadYamlDocument(lastGeneratedYaml, {
         formPath: null,
@@ -2420,8 +2443,8 @@
     if (toggleBtn) {
       toggleBtn.addEventListener('click', () => {
         const gate = window.GICProGate;
-        if (gate && !gate.hasProAccess()) {
-          gate.showUpgradeModal('pro', 'pro_feature');
+        if (gate && !gate.hasSmImportAccess()) {
+          gate.showUpgradeModal('pro', 'sm_imports_exhausted');
           return;
         }
         panel?.classList.toggle('hidden');
@@ -2432,8 +2455,8 @@
     if (listBtn) {
       listBtn.addEventListener('click', async () => {
         const gate = window.GICProGate;
-        if (gate && !gate.hasProAccess()) {
-          gate.showUpgradeModal('pro', 'pro_feature');
+        if (gate && !gate.hasSmImportAccess()) {
+          gate.showUpgradeModal('pro', 'sm_imports_exhausted');
           return;
         }
         const token = (document.getElementById('sm-import-token')?.value || '').trim();
@@ -2467,6 +2490,13 @@
                       editorStatus: 'SurveyMonkey survey imported.', switchTab: 'editor'
                     });
                     setSmStatus('sm-import-status', 'success', 'Survey imported successfully!');
+                    const gate = window.GICProGate;
+                    if (gate && !gate.hasProAccess()) {
+                      const remaining = gate.useFreeSmImport();
+                      if (remaining === 0) {
+                        gate.showUpgradeModal('pro', 'sm_imports_exhausted');
+                      }
+                    }
                   }
                 } catch (err) {
                   setSmStatus('sm-import-status', 'error', err.message || 'Import failed.');

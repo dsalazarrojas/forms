@@ -551,22 +551,30 @@
         if (line.startsWith('data: ')) {
           const data = line.slice(6).trim();
           if (data === '[DONE]') continue;
+          let parsed;
           try {
-            const parsed = JSON.parse(data);
-            const chunk = parsed.text || parsed.delta || parsed.content || '';
-            if (chunk) {
-              fullText += chunk;
-              if (typeof onChunk === 'function') onChunk(chunk, fullText);
-            }
+            parsed = JSON.parse(data);
           } catch (_) {
             // non-JSON SSE line, treat as raw text
             if (data) {
               fullText += data;
               if (typeof onChunk === 'function') onChunk(data, fullText);
             }
+            continue;
+          }
+          if (parsed && parsed.error) {
+            throw new Error(parsed.error);
+          }
+          const chunk = parsed.text || parsed.delta || parsed.content || '';
+          if (chunk) {
+            fullText += chunk;
+            if (typeof onChunk === 'function') onChunk(chunk, fullText);
           }
         }
       }
+    }
+    if (fullText === '') {
+      throw new Error('AI stream ended with no content. The AI service may be temporarily unavailable — please try again.');
     }
     return fullText;
   }
