@@ -32,7 +32,7 @@
       darkMode: 'class',
       theme: {
         extend: {
-          colors: { primary: '#ec5b13' },
+          colors: { primary: '#ff6b47', 'gic-navy-dark': '#0f1f3d', 'gic-navy-light': '#1e3a6e', 'gic-navy-light2': '#2a4a8a' },
           fontFamily: { sans: ['Public Sans', 'sans-serif'] }
         }
       }
@@ -59,7 +59,7 @@
     .sidebar-scroll::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 2px; }
     .dark .sidebar-scroll::-webkit-scrollbar-thumb { background: #475569; }
     /* Custom radio style */
-    input[type="radio"] { accent-color: #ec5b13; }
+    input[type="radio"] { accent-color: #ff6b47; }
   </style>
 </head>
 
@@ -94,6 +94,24 @@
             <span class="material-symbols-outlined text-[20px] dark:hidden">light_mode</span>
             <span class="material-symbols-outlined text-[20px] hidden dark:block">dark_mode</span>
           </button>
+          <div class="relative">
+            <button id="header-ai-btn" type="button" aria-haspopup="true" aria-expanded="false"
+              class="hidden sm:inline-flex items-center gap-1.5 border-2 border-primary text-primary hover:bg-primary hover:text-white text-sm font-semibold px-4 py-2 rounded-lg transition-colors">
+              <span class="material-symbols-outlined text-[16px]">auto_awesome</span>
+              Build with AI
+            </button>
+            <div id="header-ai-popover" class="hidden absolute right-0 top-full mt-2 w-80 rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 shadow-xl p-4 z-50">
+              <form id="header-ai-form" class="flex flex-col gap-2">
+                <label for="header-ai-prompt" class="text-xs font-semibold text-slate-700 dark:text-slate-300">Describe your form</label>
+                <textarea id="header-ai-prompt" rows="2" placeholder="e.g. A job application form with 10 fields"
+                  class="w-full text-sm rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 p-2.5 focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary transition-colors"></textarea>
+                <button type="submit" class="inline-flex items-center justify-center gap-1.5 bg-primary hover:bg-orange-600 text-white text-sm font-semibold px-3 py-2 rounded-lg transition-colors">
+                  <span class="material-symbols-outlined text-[16px]">auto_awesome</span>Build it
+                </button>
+                <p id="header-ai-credits" class="text-xs text-slate-500 dark:text-slate-400 text-center"></p>
+              </form>
+            </div>
+          </div>
           <!-- Home link (replaces CTA on browse page) -->
           <a href="/" class="hidden sm:flex items-center gap-1.5 px-4 py-2 rounded-xl bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 text-sm font-semibold hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors">
             <span class="material-symbols-outlined text-[16px]">arrow_back</span>
@@ -815,5 +833,6 @@
     // ---- Bootstrap ----
     init().catch(console.error);
   </script>
+  <script src="docs/assets/landing-ai.js"></script>
 </body>
 </html>

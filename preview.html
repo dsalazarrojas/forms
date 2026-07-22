@@ -35,7 +35,7 @@
       darkMode: 'class',
       theme: {
         extend: {
-          colors: { primary: '#ec5b13' },
+          colors: { primary: '#ff6b47', 'gic-navy-dark': '#0f1f3d', 'gic-navy-light': '#1e3a6e', 'gic-navy-light2': '#2a4a8a' },
           fontFamily: { sans: ['Public Sans', 'sans-serif'] }
         }
       }
@@ -94,7 +94,7 @@
 
     /* Tab active/inactive */
     .tab-active-pill {
-      background-color: #ec5b13;
+      background-color: #ff6b47;
       color: white;
       border-radius: 6px;
     }
@@ -140,8 +140,8 @@
       color: #f1f5f9;
     }
     .preview-input:focus {
-      border-color: #ec5b13;
-      box-shadow: 0 0 0 3px rgba(236, 91, 19, 0.15);
+      border-color: #ff6b47;
+      box-shadow: 0 0 0 3px rgba(255, 107, 71, 0.15);
     }
     .preview-label {
       display: block;
@@ -194,9 +194,9 @@
       color: #cbd5e1;
     }
     .btn-outline:hover {
-      border-color: #ec5b13;
-      color: #ec5b13;
-      background: rgba(236, 91, 19, 0.04);
+      border-color: #ff6b47;
+      color: #ff6b47;
+      background: rgba(255, 107, 71, 0.04);
     }
 
     /* App button style */
@@ -216,8 +216,8 @@
     }
     .dark .btn-app { border-color: #334155; }
     .btn-app:hover {
-      border-color: #ec5b13;
-      background: rgba(236, 91, 19, 0.04);
+      border-color: #ff6b47;
+      background: rgba(255, 107, 71, 0.04);
     }
     .btn-app .btn-app-title {
       font-size: 13px;
@@ -262,7 +262,7 @@
 
       <!-- Logo -->
       <div class="flex items-center gap-2 mb-4">
-        <div class="w-7 h-7 rounded-md flex items-center justify-center flex-shrink-0" style="background:#ec5b13;">
+        <div class="w-7 h-7 rounded-md flex items-center justify-center flex-shrink-0" style="background:#ff6b47;">
           <span class="material-symbols-outlined icon-sm text-white" style="font-size:15px;">assignment</span>
         </div>
         <span class="font-bold text-base tracking-tight">GIC Forms</span>
@@ -342,6 +342,10 @@
         <!-- Plan badge -->
         <span id="plan-badge-container" class="hidden"></span>
 
+        <button id="btn-create-new" type="button" class="btn-outline" style="width:auto;padding:6px 12px;" title="Create a new form">
+          <span class="material-symbols-outlined icon-sm">add_circle</span>
+          <span class="hidden sm:inline text-xs">Create</span>
+        </button>
         <button id="btn-share" type="button" class="btn-primary" style="width:auto;padding:6px 12px;">
           <span class="material-symbols-outlined icon-sm">ios_share</span>
           <span class="hidden sm:inline text-xs">Share</span>
@@ -387,6 +391,23 @@
                 </div>
               </div>
             </div>
+          </div>
+
+          <div id="ai-edit-card" class="bg-white dark:bg-slate-900 rounded-xl shadow-sm border border-slate-200 dark:border-slate-800 p-6 sm:p-8">
+            <div class="flex items-center justify-between mb-3">
+              <div class="flex items-center gap-2">
+                <span class="material-symbols-outlined text-primary" style="font-size:22px;">auto_awesome</span>
+                <h2 class="text-lg font-semibold text-slate-900 dark:text-slate-100">Edit with AI</h2>
+              </div>
+              <span id="ai-edit-credit-badge" class="text-xs text-slate-500 dark:text-slate-400"></span>
+            </div>
+            <label for="ai-edit-prompt" class="block text-sm font-semibold text-slate-900 dark:text-slate-100 mb-2">Describe the change you want</label>
+            <textarea id="ai-edit-prompt" rows="2" placeholder="e.g. Add a phone number field and make email required" class="w-full text-sm rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 p-3 focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary transition-colors"></textarea>
+            <div class="flex items-center gap-3 mt-3">
+              <button type="button" id="btn-ai-apply" class="btn-primary" style="width:auto;padding:8px 16px;"><span class="material-symbols-outlined icon-sm">auto_awesome</span><span>Apply edit</span></button>
+              <button type="button" id="btn-ai-undo" class="hidden btn-outline" style="width:auto;padding:8px 16px;">Undo</button>
+            </div>
+            <div id="ai-edit-status" class="mt-2 text-xs text-slate-500 dark:text-slate-400"></div>
           </div>
 
           <!-- Help.md card (shown when form has a .help.md file) -->
@@ -529,8 +550,8 @@
             <!-- Idle state: default visible -->
             <div id="share-publish-idle">
               <div class="flex items-center gap-3 mb-1">
-                <div class="w-10 h-10 rounded-xl flex items-center justify-center flex-shrink-0" style="background:rgba(236,91,19,0.1);">
-                  <span class="material-symbols-outlined" style="color:#ec5b13;">ios_share</span>
+                <div class="w-10 h-10 rounded-xl flex items-center justify-center flex-shrink-0" style="background:rgba(255,107,71,0.1);">
+                  <span class="material-symbols-outlined" style="color:#ff6b47;">ios_share</span>
                 </div>
                 <div>
                   <p class="font-semibold text-slate-900 dark:text-slate-100">Publish this form</p>
@@ -576,10 +597,54 @@
 
           </div>
 
+          <!-- B: Serverless Hosting -->
+          <div class="mb-8">
+            <h3 class="mb-3 text-xs font-semibold uppercase tracking-wider text-slate-400 dark:text-slate-500">Serverless Hosting</h3>
+            <div class="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm dark:border-slate-800 dark:bg-slate-900">
+              <div class="flex items-center gap-3 mb-4">
+                <div class="w-10 h-10 rounded-xl flex items-center justify-center flex-shrink-0" style="background:rgba(245,158,11,0.1);">
+                  <span class="material-symbols-outlined" style="color:#f59e0b;">cloud</span>
+                </div>
+                <div class="flex-1 min-w-0">
+                  <p class="font-semibold text-slate-900 dark:text-slate-100">Cloudflare Workers</p>
+                  <p class="text-xs text-slate-500 dark:text-slate-400">Deploy as a serverless endpoint — your account, your data</p>
+                </div>
+                <a id="deploy-cloudflare" href="#" class="flex-shrink-0 flex items-center gap-1 text-xs text-amber-600 dark:text-amber-400 hover:underline">
+                  <span class="material-symbols-outlined" style="font-size:14px;">open_in_new</span>Use App
+                </a>
+              </div>
+              <div id="deploy-target-summary" class="mb-4 rounded-xl bg-slate-50 px-4 py-3 text-sm text-slate-600 dark:bg-slate-950/70 dark:text-slate-300"></div>
+              <div class="grid gap-3 md:grid-cols-2 mb-4">
+                <div>
+                  <label for="cf-account-id" class="block text-xs font-medium text-slate-700 dark:text-slate-300 mb-1">Account ID</label>
+                  <input id="cf-account-id" type="text" class="preview-input" placeholder="32-character hex">
+                </div>
+                <div>
+                  <label for="cf-api-token" class="block text-xs font-medium text-slate-700 dark:text-slate-300 mb-1">API Token</label>
+                  <input id="cf-api-token" type="password" class="preview-input" placeholder="Cloudflare API token">
+                </div>
+                <div>
+                  <label for="cf-workers-subdomain" class="block text-xs font-medium text-slate-700 dark:text-slate-300 mb-1">Workers Subdomain <span class="font-normal text-slate-400">(optional)</span></label>
+                  <input id="cf-workers-subdomain" type="text" class="preview-input" placeholder="your-subdomain">
+                </div>
+                <div>
+                  <label for="cf-worker-name" class="block text-xs font-medium text-slate-700 dark:text-slate-300 mb-1">Worker Name <span class="font-normal text-slate-400">(optional)</span></label>
+                  <input id="cf-worker-name" type="text" class="preview-input" placeholder="auto-generated">
+                </div>
+              </div>
+              <div class="flex flex-wrap gap-2 mb-3">
+                <button id="deploy-direct-btn" class="btn-primary" style="width:auto;padding:8px 14px;">
+                  <span class="material-symbols-outlined icon-sm">rocket_launch</span>Deploy to Cloudflare
+                </button>
+              </div>
+              <div id="deploy-status"></div>
+            </div>
+          </div>
+
           <details id="share-advanced" class="group">
             <summary class="mb-4 flex cursor-pointer select-none items-center gap-1.5 text-xs font-semibold uppercase tracking-wider text-slate-400 dark:text-slate-500">
               <span class="material-symbols-outlined icon-sm transition-transform group-open:rotate-90" style="font-size:14px;">chevron_right</span>
-              Advanced — platform exports, Cloudflare, BYOK
+              Advanced — platform exports, BYOK
             </summary>
             <div class="mt-2">
           <div class="mb-6 rounded-xl border border-slate-200 bg-slate-50 px-4 py-4 dark:border-slate-800 dark:bg-slate-900">
@@ -629,50 +694,6 @@
                   <span class="material-symbols-outlined icon-sm">download</span>Download
                 </button>
               </div>
-            </div>
-          </div>
-
-          <!-- B: Serverless Hosting -->
-          <div class="mb-8">
-            <h3 class="mb-3 text-xs font-semibold uppercase tracking-wider text-slate-400 dark:text-slate-500">Serverless Hosting</h3>
-            <div class="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm dark:border-slate-800 dark:bg-slate-900">
-              <div class="flex items-center gap-3 mb-4">
-                <div class="w-10 h-10 rounded-xl flex items-center justify-center flex-shrink-0" style="background:rgba(245,158,11,0.1);">
-                  <span class="material-symbols-outlined" style="color:#f59e0b;">cloud</span>
-                </div>
-                <div class="flex-1 min-w-0">
-                  <p class="font-semibold text-slate-900 dark:text-slate-100">Cloudflare Workers</p>
-                  <p class="text-xs text-slate-500 dark:text-slate-400">Deploy as a serverless endpoint — your account, your data</p>
-                </div>
-                <a id="deploy-cloudflare" href="#" class="flex-shrink-0 flex items-center gap-1 text-xs text-amber-600 dark:text-amber-400 hover:underline">
-                  <span class="material-symbols-outlined" style="font-size:14px;">open_in_new</span>Use App
-                </a>
-              </div>
-              <div id="deploy-target-summary" class="mb-4 rounded-xl bg-slate-50 px-4 py-3 text-sm text-slate-600 dark:bg-slate-950/70 dark:text-slate-300"></div>
-              <div class="grid gap-3 md:grid-cols-2 mb-4">
-                <div>
-                  <label for="cf-account-id" class="block text-xs font-medium text-slate-700 dark:text-slate-300 mb-1">Account ID</label>
-                  <input id="cf-account-id" type="text" class="preview-input" placeholder="32-character hex">
-                </div>
-                <div>
-                  <label for="cf-api-token" class="block text-xs font-medium text-slate-700 dark:text-slate-300 mb-1">API Token</label>
-                  <input id="cf-api-token" type="password" class="preview-input" placeholder="Cloudflare API token">
-                </div>
-                <div>
-                  <label for="cf-workers-subdomain" class="block text-xs font-medium text-slate-700 dark:text-slate-300 mb-1">Workers Subdomain <span class="font-normal text-slate-400">(optional)</span></label>
-                  <input id="cf-workers-subdomain" type="text" class="preview-input" placeholder="your-subdomain">
-                </div>
-                <div>
-                  <label for="cf-worker-name" class="block text-xs font-medium text-slate-700 dark:text-slate-300 mb-1">Worker Name <span class="font-normal text-slate-400">(optional)</span></label>
-                  <input id="cf-worker-name" type="text" class="preview-input" placeholder="auto-generated">
-                </div>
-              </div>
-              <div class="flex flex-wrap gap-2 mb-3">
-                <button id="deploy-direct-btn" class="btn-outline" style="width:auto;padding:8px 14px;">
-                  <span class="material-symbols-outlined icon-sm">rocket_launch</span>Deploy to Cloudflare
-                </button>
-              </div>
-              <div id="deploy-status"></div>
             </div>
           </div>
 
@@ -880,8 +901,8 @@
               <!-- GIC Collect -->
               <div class="deploy-card rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 p-5">
                 <div class="flex items-center gap-3 mb-3">
-                  <div class="w-9 h-9 rounded-lg flex items-center justify-center flex-shrink-0" style="background:rgba(236,91,19,0.1);">
-                    <span class="material-symbols-outlined" style="color:#ec5b13;font-size:20px;">phone_iphone</span>
+                  <div class="w-9 h-9 rounded-lg flex items-center justify-center flex-shrink-0" style="background:rgba(255,107,71,0.1);">
+                    <span class="material-symbols-outlined" style="color:#ff6b47;font-size:20px;">phone_iphone</span>
                   </div>
                   <div class="flex-1 min-w-0">
                     <p class="text-sm font-semibold text-slate-900 dark:text-slate-100">GIC Collect</p>
@@ -890,7 +911,7 @@
                   <span class="inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium bg-orange-50 text-orange-700 dark:bg-orange-950/50 dark:text-orange-400 flex-shrink-0">iOS</span>
                 </div>
                 <p class="text-xs text-slate-600 dark:text-slate-400 mb-3 leading-relaxed">Import this form for offline data collection. Compatible with GIC Collect and ODK Collect.</p>
-                <a id="deploy-giccollect" href="#" class="w-full flex items-center justify-center gap-2 py-2 px-4 rounded-lg text-sm font-medium text-white transition-colors" style="background:#ec5b13;">
+                <a id="deploy-giccollect" href="#" class="w-full flex items-center justify-center gap-2 py-2 px-4 rounded-lg text-sm font-medium text-white transition-colors" style="background:#ff6b47;">
                   <span class="material-symbols-outlined icon-sm">open_in_new</span>Open in GIC Collect
                 </a>
               </div>
@@ -922,8 +943,8 @@
             <div class="flex flex-col gap-2">
               <!-- GIC Collect -->
               <a id="btn-giccollect" href="#" class="btn-app">
-                <div class="btn-app-icon" style="background:rgba(236,91,19,0.1);">
-                  <span class="material-symbols-outlined" style="color:#ec5b13;font-size:20px;">phone_iphone</span>
+                <div class="btn-app-icon" style="background:rgba(255,107,71,0.1);">
+                  <span class="material-symbols-outlined" style="color:#ff6b47;font-size:20px;">phone_iphone</span>
                 </div>
                 <div>
                   <span class="btn-app-title">GIC Collect</span>
@@ -997,6 +1018,7 @@
                 <span class="material-symbols-outlined text-primary" style="font-size:24px;">upload_file</span>
                 <span class="font-semibold text-sm text-slate-900 dark:text-slate-100">Import</span>
                 <span class="text-xs text-slate-500 dark:text-slate-400">Bring in a survey from SurveyMonkey.</span>
+                <p id="sm-import-free-badge" class="text-xs text-slate-500 dark:text-slate-400 mt-1"></p>
               </button>
             </div>
             <div class="text-center"><button type="button" id="create-blank-link" class="text-sm text-slate-500 hover:text-primary transition-colors">Or start with a blank form</button></div>
@@ -1132,7 +1154,7 @@
         </div>
         <div>
           <label for="settings-brand-color" class="block text-xs font-medium text-slate-700 dark:text-slate-300 mb-1">Primary Color</label>
-          <input id="settings-brand-color" type="color" class="h-9 w-full rounded-lg border border-slate-200 dark:border-slate-700 cursor-pointer" value="#ec5b13">
+          <input id="settings-brand-color" type="color" class="h-9 w-full rounded-lg border border-slate-200 dark:border-slate-700 cursor-pointer" value="#ff6b47">
         </div>
         <div>
           <label for="settings-brand-footer" class="block text-xs font-medium text-slate-700 dark:text-slate-300 mb-1">Footer Text</label>
@@ -1252,8 +1274,8 @@
               <li class="flex items-center gap-1"><span class="material-symbols-outlined text-green-500" style="font-size:14px;">check</span> SurveyMonkey import</li>
               <li class="flex items-center gap-1"><span class="material-symbols-outlined text-green-500" style="font-size:14px;">check</span> API key access</li>
             </ul>
-            <button data-checkout-plan="pro" data-checkout-interval="year" class="w-full py-2 px-3 rounded-lg text-sm font-semibold text-white transition-colors checkout-btn-year" style="background:#ec5b13;">Get Pro</button>
-            <button data-checkout-plan="pro" data-checkout-interval="month" class="hidden w-full py-2 px-3 rounded-lg text-sm font-semibold text-white transition-colors checkout-btn-month" style="background:#ec5b13;">Get Pro</button>
+            <button data-checkout-plan="pro" data-checkout-interval="year" class="w-full py-2 px-3 rounded-lg text-sm font-semibold text-white transition-colors checkout-btn-year" style="background:#ff6b47;">Get Pro</button>
+            <button data-checkout-plan="pro" data-checkout-interval="month" class="hidden w-full py-2 px-3 rounded-lg text-sm font-semibold text-white transition-colors checkout-btn-month" style="background:#ff6b47;">Get Pro</button>
           </div>
 
           <!-- Business plan -->

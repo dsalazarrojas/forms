@@ -204,7 +204,10 @@ def page_shell(*, title: str, description: str, canonical_path: str, body: str, 
       --text: #0f172a;
       --muted: #475569;
       --line: #e2e8f0;
-      --brand: #ec5b13;
+      --brand: #ff6b47;
+      --navy-dark: #0f1f3d;
+      --navy-light: #1e3a6e;
+      --navy-light2: #2a4a8a;
       --brand-soft: #fff1e9;
     }}
     * {{ box-sizing: border-box; }}
@@ -213,7 +216,7 @@ def page_shell(*, title: str, description: str, canonical_path: str, body: str, 
       font-family: "Public Sans", "Segoe UI", sans-serif;
       color: var(--text);
       background:
-        radial-gradient(circle at top, rgba(236,91,19,.08), transparent 32rem),
+        radial-gradient(circle at top, rgba(255,107,71,.08), transparent 32rem),
         linear-gradient(180deg, #fff, var(--bg));
       line-height: 1.6;
     }}
