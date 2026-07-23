@@ -82,6 +82,10 @@
 
         <!-- Nav -->
         <nav class="hidden md:flex items-center gap-1">
+          <a href="preview.html#myforms" id="nav-my-forms" class="px-4 py-2 rounded-lg text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors inline-flex items-center gap-1.5">
+            My Forms
+            <span id="nav-my-forms-count" class="hidden inline-flex items-center justify-center min-w-[18px] h-[18px] px-1 rounded-full bg-primary text-white text-[11px] font-semibold leading-none">0</span>
+          </a>
           <a href="browse.html" class="px-4 py-2 rounded-lg text-sm font-semibold text-primary bg-primary/8 transition-colors">Browse Forms</a>
           <a href="index.html#app-suite" class="px-4 py-2 rounded-lg text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors">App Suite</a>
           <a href="index.html#platforms" class="px-4 py-2 rounded-lg text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors">Platforms</a>
@@ -832,6 +836,22 @@
 
     // ---- Bootstrap ----
     init().catch(console.error);
+  </script>
+  <script>
+    (function () {
+      try {
+        var raw = localStorage.getItem('gic-my-forms');
+        var forms = raw ? JSON.parse(raw) : [];
+        var count = Array.isArray(forms) ? forms.length : 0;
+        if (count > 0) {
+          var badge = document.getElementById('nav-my-forms-count');
+          if (badge) {
+            badge.textContent = count > 99 ? '99+' : String(count);
+            badge.classList.remove('hidden');
+          }
+        }
+      } catch (_) {}
+    })();
   </script>
   <script src="docs/assets/landing-ai.js"></script>
 </body>

@@ -119,6 +119,10 @@
 
         <!-- Nav links (desktop) -->
         <nav class="hidden md:flex items-center gap-6">
+          <a href="preview.html#myforms" id="nav-my-forms" class="text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-primary dark:hover:text-primary transition-colors inline-flex items-center gap-1.5">
+            My Forms
+            <span id="nav-my-forms-count" class="hidden inline-flex items-center justify-center min-w-[18px] h-[18px] px-1 rounded-full bg-primary text-white text-[11px] font-semibold leading-none">0</span>
+          </a>
           <a href="browse.html" class="text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-primary dark:hover:text-primary transition-colors">Browse Forms</a>
           <a href="#app-suite" class="text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-primary dark:hover:text-primary transition-colors">App Suite</a>
           <a href="#platforms" class="text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-primary dark:hover:text-primary transition-colors">Platforms</a>
@@ -726,6 +730,22 @@
       } catch (e) {
         // forms-index.json not available — defaults remain displayed
       }
+    })();
+  </script>
+  <script>
+    (function () {
+      try {
+        var raw = localStorage.getItem('gic-my-forms');
+        var forms = raw ? JSON.parse(raw) : [];
+        var count = Array.isArray(forms) ? forms.length : 0;
+        if (count > 0) {
+          var badge = document.getElementById('nav-my-forms-count');
+          if (badge) {
+            badge.textContent = count > 99 ? '99+' : String(count);
+            badge.classList.remove('hidden');
+          }
+        }
+      } catch (_) {}
     })();
   </script>
   <script src="docs/assets/landing-ai.js"></script>

@@ -1366,8 +1366,16 @@
     const publishButton = document.getElementById('share-publish-btn');
     const copyButton = document.getElementById('share-copy-link-btn');
     const republishButton = document.getElementById('share-republish-btn');
+    const viewResponsesButton = document.getElementById('share-view-responses-btn');
     if (publishButton) publishButton.addEventListener('click', handlePublishClick);
     if (republishButton) republishButton.addEventListener('click', handlePublishClick);
+    if (viewResponsesButton) viewResponsesButton.addEventListener('click', () => {
+      const record = findMyForm(currentLocalFormId);
+      if (record) {
+        closeShareSheet();
+        openResponsesPanel(record);
+      }
+    });
     if (copyButton) copyButton.addEventListener('click', async () => {
       const link = document.getElementById('share-publish-link');
       const copied = await copyText(link ? link.value : '');
