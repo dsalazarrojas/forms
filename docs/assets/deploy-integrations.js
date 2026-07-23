@@ -5,6 +5,7 @@
   const DEFAULT_BRIDGE_URL = 'https://f.gic.mx';
   let BRIDGE_URL = '';
   let BRIDGE_CONFIG_ERROR = '';
+  let _lastAiDiagnostics = null;
 
   // After registering at console.cloud.google.com, set your OAuth client ID here.
   const GOOGLE_CLIENT_ID = '704840528244-3ai3u4vhj3dlqdfs7spj2kdfgbt9quja.apps.googleusercontent.com';
@@ -172,6 +173,13 @@
 
     handleAuthError(response.status);
     return response;
+  }
+
+  function makeRequestId() {
+    if (window.crypto && typeof window.crypto.randomUUID === 'function') {
+      return window.crypto.randomUUID();
+    }
+    return `gic-${Date.now()}-${Math.random().toString(16).slice(2)}`;
   }
 
   async function fetchAuthedBridgeJson(path, payload, extraHeaders, retried) {
@@ -514,12 +522,31 @@
   }
 
   async function aiCreateStream(prompt, onChunk, options) {
-    const response = await fetchAuthedBridgeResponse('/ai/create/stream', { prompt, options: options || {} });
+    const requestId = makeRequestId();
+    _lastAiDiagnostics = {
+      requestId,
+      endpoint: `${BRIDGE_URL}/ai/create/stream`,
+      startedAt: new Date().toISOString()
+    };
+    const response = await fetchAuthedBridgeResponse(
+      '/ai/create/stream',
+      { prompt, options: options || {} },
+      { 'X-Request-ID': requestId }
+    );
+    const workerRequestId = response.headers.get('x-request-id')
+      || response.headers.get('x-correlation-id')
+      || response.headers.get('x-ai-request-id');
+    _lastAiDiagnostics.status = response.status;
+    _lastAiDiagnostics.workerRequestId = workerRequestId || null;
     if (!response.ok) {
       const text = await response.text().catch(() => '');
-      throw new Error(`AI create stream error (${response.status}): ${text.slice(0, 300)}`);
+      const error = new Error(`AI create stream error (${response.status}) [${requestId}]: ${text.slice(0, 300)}`);
+      error.requestId = requestId;
+      error.workerRequestId = workerRequestId || null;
+      error.status = response.status;
+      throw error;
     }
-    return consumeSSE(response, onChunk);
+    return consumeSSE(response, onChunk, _lastAiDiagnostics);
   }
 
   async function aiEdit(yaml, instruction, options) {
@@ -527,19 +554,66 @@
   }
 
   async function aiEditStream(yaml, instruction, onChunk, options) {
-    const response = await fetchAuthedBridgeResponse('/ai/edit/stream', { yaml, instruction, options: options || {} });
+    const requestId = makeRequestId();
+    _lastAiDiagnostics = {
+      requestId,
+      endpoint: `${BRIDGE_URL}/ai/edit/stream`,
+      startedAt: new Date().toISOString()
+    };
+    const response = await fetchAuthedBridgeResponse(
+      '/ai/edit/stream',
+      { yaml, instruction, options: options || {} },
+      { 'X-Request-ID': requestId }
+    );
+    const workerRequestId = response.headers.get('x-request-id')
+      || response.headers.get('x-correlation-id')
+      || response.headers.get('x-ai-request-id');
+    _lastAiDiagnostics.status = response.status;
+    _lastAiDiagnostics.workerRequestId = workerRequestId || null;
     if (!response.ok) {
       const text = await response.text().catch(() => '');
-      throw new Error(`AI edit stream error (${response.status}): ${text.slice(0, 300)}`);
+      const error = new Error(`AI edit stream error (${response.status}) [${requestId}]: ${text.slice(0, 300)}`);
+      error.requestId = requestId;
+      error.workerRequestId = workerRequestId || null;
+      error.status = response.status;
+      throw error;
     }
-    return consumeSSE(response, onChunk);
+    return consumeSSE(response, onChunk, _lastAiDiagnostics);
   }
 
-  async function consumeSSE(response, onChunk) {
+  async function consumeSSE(response, onChunk, diagnostics) {
     const reader = response.body.getReader();
     const decoder = new TextDecoder();
     let buffer = '';
     let fullText = '';
+
+    function processLine(rawLine) {
+      const line = rawLine.replace(/\r$/, '');
+      if (!line.startsWith('data:')) return;
+      const data = line.slice(5).replace(/^\s/, '').trim();
+      if (data === '[DONE]') return;
+      let parsed;
+      try {
+        parsed = JSON.parse(data);
+      } catch (_) {
+        if (data) {
+          fullText += data;
+          if (typeof onChunk === 'function') onChunk(data, fullText);
+        }
+        return;
+      }
+      if (parsed && parsed.error) {
+        const error = new Error(String(parsed.error));
+        error.requestId = diagnostics?.requestId || null;
+        error.workerRequestId = diagnostics?.workerRequestId || null;
+        throw error;
+      }
+      const chunk = parsed?.text || parsed?.delta || parsed?.content || '';
+      if (chunk) {
+        fullText += chunk;
+        if (typeof onChunk === 'function') onChunk(chunk, fullText);
+      }
+    }
 
     while (true) {
       const { done, value } = await reader.read();
@@ -547,36 +621,32 @@
       buffer += decoder.decode(value, { stream: true });
       const lines = buffer.split('\n');
       buffer = lines.pop() || '';
-      for (const line of lines) {
-        if (line.startsWith('data: ')) {
-          const data = line.slice(6).trim();
-          if (data === '[DONE]') continue;
-          let parsed;
-          try {
-            parsed = JSON.parse(data);
-          } catch (_) {
-            // non-JSON SSE line, treat as raw text
-            if (data) {
-              fullText += data;
-              if (typeof onChunk === 'function') onChunk(data, fullText);
-            }
-            continue;
-          }
-          if (parsed && parsed.error) {
-            throw new Error(parsed.error);
-          }
-          const chunk = parsed.text || parsed.delta || parsed.content || '';
-          if (chunk) {
-            fullText += chunk;
-            if (typeof onChunk === 'function') onChunk(chunk, fullText);
-          }
-        }
-      }
+      for (const line of lines) processLine(line);
     }
+    buffer += decoder.decode();
+    if (buffer) processLine(buffer);
+    if (diagnostics) diagnostics.completedAt = new Date().toISOString();
     if (fullText === '') {
-      throw new Error('AI stream ended with no content. The AI service may be temporarily unavailable — please try again.');
+      const requestId = diagnostics?.requestId ? ` [${diagnostics.requestId}]` : '';
+      const error = new Error(`AI stream ended with no content${requestId}. The AI service may be temporarily unavailable — please try again.`);
+      error.requestId = diagnostics?.requestId || null;
+      error.workerRequestId = diagnostics?.workerRequestId || null;
+      throw error;
     }
     return fullText;
+  }
+
+  async function checkBridgeHealth() {
+    requireBridge();
+    const startedAt = Date.now();
+    const response = await fetch(`${BRIDGE_URL}/health`, { method: 'GET', cache: 'no-store' });
+    const text = await response.text().catch(() => '');
+    return {
+      ok: response.ok,
+      status: response.status,
+      latencyMs: Date.now() - startedAt,
+      body: text.slice(0, 500)
+    };
   }
 
   // ─── SurveyMonkey endpoints ───────────────────────────────────────────────────
@@ -661,6 +731,8 @@
     // AI
     aiCreate,
     aiCreateStream,
+    checkBridgeHealth,
+    getLastAiDiagnostics: () => _lastAiDiagnostics ? { ..._lastAiDiagnostics } : null,
     aiEdit,
     aiEditStream,
     openStripePortal,

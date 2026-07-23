@@ -2183,6 +2183,9 @@
       const promptEl = document.getElementById('create-prompt');
       if (promptEl) promptEl.value = pendingAiPrompt;
       handleGenerate();
+    } else if (String(window.location.hash || '').replace(/^#/, '').trim() === 'import') {
+      openCreateSheet();
+      showCreateStep('create-import-panel');
     }
   }
 
@@ -2197,6 +2200,18 @@
     // Show bridge note if not configured
     if (window.GICDeployIntegrations && !window.GICDeployIntegrations.getBridgeUrl()) {
       bridgeNote?.classList.remove('hidden');
+    } else if (window.GICDeployIntegrations && typeof window.GICDeployIntegrations.checkBridgeHealth === 'function') {
+      window.GICDeployIntegrations.checkBridgeHealth().then(health => {
+        if (!bridgeNote) return;
+        bridgeNote.classList.remove('hidden');
+        bridgeNote.textContent = health.ok
+          ? `AI bridge online (${health.latencyMs} ms); ${health.body ? 'provider configuration is available.' : 'health response received.'}`
+          : `AI bridge health check returned HTTP ${health.status}. Generation may be unavailable.`;
+      }).catch(err => {
+        if (!bridgeNote) return;
+        bridgeNote.classList.remove('hidden');
+        bridgeNote.textContent = `AI bridge health check failed: ${err.message || 'service unavailable'}`;
+      });
     }
 
     if (generateBtn) {
@@ -2264,6 +2279,13 @@
         streamToPanel(full, outputCode);
       });
 
+      // A non-empty stream is not necessarily a usable form. Validate before
+      // marking the generation successful or consuming a free credit.
+      const parsedForm = window.GICYamlCodec?.parse(fullYaml);
+      if (!parsedForm || !parsedForm.title || !Array.isArray(parsedForm.questions) || !parsedForm.questions.length) {
+        throw new Error('The AI returned content, but it was not a valid form YAML. Please try again.');
+      }
+
       lastGeneratedYaml = fullYaml;
       if (statusLabel) { statusLabel.textContent = 'Done'; statusLabel.classList.remove('animate-pulse'); }
       const yamlWrap = document.getElementById('create-yaml-wrap');
@@ -2284,7 +2306,16 @@
       if (err.authRequired && gate) {
         gate.showUpgradeModal('pro', 'ai_credits_exhausted');
       } else {
-        if (statusLabel) statusLabel.textContent = `Error: ${err.message || 'Generation failed'}`;
+        const requestId = err.requestId || integrations.getLastAiDiagnostics?.()?.requestId;
+        const suffix = requestId && !String(err.message || '').includes(requestId) ? ` (request ${requestId})` : '';
+        if (statusLabel) statusLabel.textContent = `Error: ${err.message || 'Generation failed'}${suffix}`;
+        console.error('AI form generation failed', {
+          message: err.message,
+          requestId,
+          workerRequestId: err.workerRequestId || integrations.getLastAiDiagnostics?.()?.workerRequestId || null,
+          status: err.status || integrations.getLastAiDiagnostics?.()?.status || null,
+          endpoint: integrations.getLastAiDiagnostics?.()?.endpoint || null
+        });
       }
     } finally {
       generateBtn.disabled = false;
@@ -2382,6 +2413,13 @@
             if (statusEl) statusEl.textContent = 'Streaming…';
           });
 
+          // A non-empty stream is not necessarily a usable form. Validate before
+          // marking the edit successful or consuming a free credit.
+          const parsedResult = window.GICYamlCodec?.parse(result);
+          if (!parsedResult || !parsedResult.title || !Array.isArray(parsedResult.questions) || !parsedResult.questions.length) {
+            throw new Error('The AI returned content, but it was not a valid form YAML. Please try again.');
+          }
+
           await loadYamlDocument(result, {
             formPath: currentFormPath,
             localFormId: currentLocalFormId,
@@ -2405,7 +2443,16 @@
           if (err.authRequired && gate) {
             gate.showUpgradeModal('pro', 'ai_credits_exhausted');
           } else {
-            if (statusEl) statusEl.textContent = `Error: ${err.message || 'Edit failed'}`;
+            const requestId = err.requestId || integrations.getLastAiDiagnostics?.()?.requestId;
+            const suffix = requestId && !String(err.message || '').includes(requestId) ? ` (request ${requestId})` : '';
+            if (statusEl) statusEl.textContent = `Error: ${err.message || 'Edit failed'}${suffix}`;
+            console.error('AI form edit failed', {
+              message: err.message,
+              requestId,
+              workerRequestId: err.workerRequestId || integrations.getLastAiDiagnostics?.()?.workerRequestId || null,
+              status: err.status || integrations.getLastAiDiagnostics?.()?.status || null,
+              endpoint: integrations.getLastAiDiagnostics?.()?.endpoint || null
+            });
           }
           preAiEditYaml = '';
         } finally {
