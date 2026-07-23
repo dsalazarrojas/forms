@@ -35,7 +35,7 @@
       darkMode: 'class',
       theme: {
         extend: {
-          colors: { primary: '#ff6b47', 'gic-navy-dark': '#0f1f3d', 'gic-navy-light': '#1e3a6e', 'gic-navy-light2': '#2a4a8a' },
+          colors: { primary: '#2563eb', 'gic-navy-dark': '#0f1f3d', 'gic-navy-light': '#1e3a6e', 'gic-navy-light2': '#2a4a8a' },
           fontFamily: { sans: ['Public Sans', 'sans-serif'] }
         }
       }
@@ -94,7 +94,7 @@
 
     /* Tab active/inactive */
     .tab-active-pill {
-      background-color: #ff6b47;
+      background-color: #2563eb;
       color: white;
       border-radius: 6px;
     }
@@ -140,8 +140,8 @@
       color: #f1f5f9;
     }
     .preview-input:focus {
-      border-color: #ff6b47;
-      box-shadow: 0 0 0 3px rgba(255, 107, 71, 0.15);
+      border-color: #2563eb;
+      box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.15);
     }
     .preview-label {
       display: block;
@@ -171,6 +171,28 @@
       box-shadow: 0 4px 20px rgba(0,0,0,0.3);
     }
 
+    /* Primary button style */
+    .btn-primary {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      padding: 8px 14px;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.15s;
+      background: #2563eb;
+      color: #fff;
+      border: 1.5px solid #2563eb;
+      font-family: 'Public Sans', sans-serif;
+    }
+    .btn-primary:hover {
+      background: #1d4ed8;
+      border-color: #1d4ed8;
+    }
+
     /* Outlined button style */
     .btn-outline {
       display: flex;
@@ -194,9 +216,9 @@
       color: #cbd5e1;
     }
     .btn-outline:hover {
-      border-color: #ff6b47;
-      color: #ff6b47;
-      background: rgba(255, 107, 71, 0.04);
+      border-color: #2563eb;
+      color: #2563eb;
+      background: rgba(37, 99, 235, 0.04);
     }
 
     /* App button style */
@@ -216,8 +238,8 @@
     }
     .dark .btn-app { border-color: #334155; }
     .btn-app:hover {
-      border-color: #ff6b47;
-      background: rgba(255, 107, 71, 0.04);
+      border-color: #2563eb;
+      background: rgba(37, 99, 235, 0.04);
     }
     .btn-app .btn-app-title {
       font-size: 13px;
@@ -262,7 +284,7 @@
 
       <!-- Logo -->
       <div class="flex items-center gap-2 mb-4">
-        <div class="w-7 h-7 rounded-md flex items-center justify-center flex-shrink-0" style="background:#ff6b47;">
+        <div class="w-7 h-7 rounded-md flex items-center justify-center flex-shrink-0" style="background:#2563eb;">
           <span class="material-symbols-outlined icon-sm text-white" style="font-size:15px;">assignment</span>
         </div>
         <span class="font-bold text-base tracking-tight">GIC Forms</span>
@@ -493,7 +515,7 @@
               <textarea id="yaml-textarea" class="w-full font-mono text-sm bg-slate-900 text-slate-100 border-0 outline-none resize-none p-4 min-h-[calc(100vh-18rem)]" spellcheck="false" autocomplete="off" autocorrect="off" autocapitalize="off"></textarea>
               <div id="yaml-edit-error" class="hidden px-4 py-2 bg-red-900/80 text-red-200 text-xs border-t border-red-700"></div>
               <div class="flex items-center gap-2 px-4 py-2 bg-slate-800 dark:bg-slate-950 border-t border-slate-700">
-                <button onclick="saveYamlEdit()" class="text-xs bg-primary text-white rounded-lg px-3 py-1.5 font-semibold hover:bg-orange-600 transition-colors flex items-center gap-1">
+                <button onclick="saveYamlEdit()" class="text-xs bg-primary text-white rounded-lg px-3 py-1.5 font-semibold hover:bg-blue-700 transition-colors flex items-center gap-1">
                   <span class="material-symbols-outlined icon-sm">save</span>Save
                 </button>
                 <button onclick="cancelYamlEdit()" class="text-xs text-slate-400 hover:text-white flex items-center gap-1 transition-colors">
@@ -550,12 +572,13 @@
             <!-- Idle state: default visible -->
             <div id="share-publish-idle">
               <div class="flex items-center gap-3 mb-1">
-                <div class="w-10 h-10 rounded-xl flex items-center justify-center flex-shrink-0" style="background:rgba(255,107,71,0.1);">
-                  <span class="material-symbols-outlined" style="color:#ff6b47;">ios_share</span>
+                <div class="w-10 h-10 rounded-xl flex items-center justify-center flex-shrink-0" style="background:rgba(37,99,235,0.1);">
+                  <span class="material-symbols-outlined" style="color:#2563eb;">ios_share</span>
                 </div>
                 <div>
                   <p class="font-semibold text-slate-900 dark:text-slate-100">Publish this form</p>
                   <p class="text-xs text-slate-500 dark:text-slate-400">Get a link anyone can open on their phone or computer to submit a response.</p>
+                  <p class="text-xs text-slate-400 dark:text-slate-500 mt-1">Free plan: up to 100 responses per form. <a href="#" class="text-primary hover:underline" onclick="event.preventDefault();openUpgradeModal()">Upgrade to Pro</a> for unlimited responses.</p>
                 </div>
               </div>
               <button id="share-publish-btn" type="button" class="btn-primary w-full sm:w-auto mt-4">
@@ -612,6 +635,9 @@
                 <a id="deploy-cloudflare" href="#" class="flex-shrink-0 flex items-center gap-1 text-xs text-amber-600 dark:text-amber-400 hover:underline">
                   <span class="material-symbols-outlined" style="font-size:14px;">open_in_new</span>Use App
                 </a>
+                <button type="button" onclick="document.getElementById('cf-help-text').classList.toggle('hidden')" class="flex-shrink-0 flex items-center gap-1 text-xs text-slate-400 hover:text-primary transition-colors" title="Help">
+                  <span class="material-symbols-outlined" style="font-size:14px;">help_outline</span>
+                </button>
               </div>
               <div id="deploy-target-summary" class="mb-4 rounded-xl bg-slate-50 px-4 py-3 text-sm text-slate-600 dark:bg-slate-950/70 dark:text-slate-300"></div>
               <div class="grid gap-3 md:grid-cols-2 mb-4">
@@ -638,10 +664,21 @@
                 </button>
               </div>
               <div id="deploy-status"></div>
+              <div id="cf-help-text" class="hidden mt-4 rounded-xl bg-sky-50 dark:bg-sky-950/30 border border-sky-200 dark:border-sky-900 p-4 text-xs text-sky-800 dark:text-sky-300 space-y-2">
+                <p class="font-semibold">How to get your Cloudflare credentials (free):</p>
+                <ol class="list-decimal pl-4 space-y-1">
+                  <li>Sign up for a free Cloudflare account at <a href="https://dash.cloudflare.com/sign-up" target="_blank" rel="noopener" class="text-primary hover:underline">dash.cloudflare.com</a> (no credit card required).</li>
+                  <li>Go to the <strong>Workers &amp; Pages</strong> section in the dashboard.</li>
+                  <li>Your <strong>Account ID</strong> is on the right sidebar of the Workers overview page — it&apos;s a 32-character hex string.</li>
+                  <li>Create an <strong>API Token</strong>: go to <strong>My Profile → API Tokens</strong>, click <strong>Create Token</strong>, choose <strong>Edit Cloudflare Workers</strong> template, and copy the token.</li>
+                  <li>Optionally set a <strong>Workers Subdomain</strong> (e.g. <code>my-forms</code>) under Workers &amp; Pages → Your subdomain.</li>
+                </ol>
+                <p class="text-sky-600 dark:text-sky-400">All Cloudflare plans include a free tier with 100k requests/day on Workers.</p>
+              </div>
             </div>
           </div>
 
-          <details id="share-advanced" class="group">
+          <details id="share-advanced" class="group" open>
             <summary class="mb-4 flex cursor-pointer select-none items-center gap-1.5 text-xs font-semibold uppercase tracking-wider text-slate-400 dark:text-slate-500">
               <span class="material-symbols-outlined icon-sm transition-transform group-open:rotate-90" style="font-size:14px;">chevron_right</span>
               Advanced — platform exports, BYOK
@@ -901,17 +938,17 @@
               <!-- GIC Collect -->
               <div class="deploy-card rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 p-5">
                 <div class="flex items-center gap-3 mb-3">
-                  <div class="w-9 h-9 rounded-lg flex items-center justify-center flex-shrink-0" style="background:rgba(255,107,71,0.1);">
-                    <span class="material-symbols-outlined" style="color:#ff6b47;font-size:20px;">phone_iphone</span>
+                  <div class="w-9 h-9 rounded-lg flex items-center justify-center flex-shrink-0" style="background:rgba(37,99,235,0.1);">
+                    <span class="material-symbols-outlined" style="color:#2563eb;font-size:20px;">phone_iphone</span>
                   </div>
                   <div class="flex-1 min-w-0">
                     <p class="text-sm font-semibold text-slate-900 dark:text-slate-100">GIC Collect</p>
                     <p class="text-xs text-slate-500 dark:text-slate-400">Offline field collection</p>
                   </div>
-                  <span class="inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium bg-orange-50 text-orange-700 dark:bg-orange-950/50 dark:text-orange-400 flex-shrink-0">iOS</span>
+                  <span class="inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium bg-blue-50 text-blue-700 dark:bg-blue-950/50 dark:text-blue-400 flex-shrink-0">iOS</span>
                 </div>
                 <p class="text-xs text-slate-600 dark:text-slate-400 mb-3 leading-relaxed">Import this form for offline data collection. Compatible with GIC Collect and ODK Collect.</p>
-                <a id="deploy-giccollect" href="#" class="w-full flex items-center justify-center gap-2 py-2 px-4 rounded-lg text-sm font-medium text-white transition-colors" style="background:#ff6b47;">
+                <a id="deploy-giccollect" href="#" class="w-full flex items-center justify-center gap-2 py-2 px-4 rounded-lg text-sm font-medium text-white transition-colors" style="background:#2563eb;">
                   <span class="material-symbols-outlined icon-sm">open_in_new</span>Open in GIC Collect
                 </a>
               </div>
@@ -943,8 +980,8 @@
             <div class="flex flex-col gap-2">
               <!-- GIC Collect -->
               <a id="btn-giccollect" href="#" class="btn-app">
-                <div class="btn-app-icon" style="background:rgba(255,107,71,0.1);">
-                  <span class="material-symbols-outlined" style="color:#ff6b47;font-size:20px;">phone_iphone</span>
+                <div class="btn-app-icon" style="background:rgba(37,99,235,0.1);">
+                  <span class="material-symbols-outlined" style="color:#2563eb;font-size:20px;">phone_iphone</span>
                 </div>
                 <div>
                   <span class="btn-app-title">GIC Collect</span>
@@ -1154,7 +1191,7 @@
         </div>
         <div>
           <label for="settings-brand-color" class="block text-xs font-medium text-slate-700 dark:text-slate-300 mb-1">Primary Color</label>
-          <input id="settings-brand-color" type="color" class="h-9 w-full rounded-lg border border-slate-200 dark:border-slate-700 cursor-pointer" value="#ff6b47">
+          <input id="settings-brand-color" type="color" class="h-9 w-full rounded-lg border border-slate-200 dark:border-slate-700 cursor-pointer" value="#2563eb">
         </div>
         <div>
           <label for="settings-brand-footer" class="block text-xs font-medium text-slate-700 dark:text-slate-300 mb-1">Footer Text</label>
@@ -1274,8 +1311,8 @@
               <li class="flex items-center gap-1"><span class="material-symbols-outlined text-green-500" style="font-size:14px;">check</span> SurveyMonkey import</li>
               <li class="flex items-center gap-1"><span class="material-symbols-outlined text-green-500" style="font-size:14px;">check</span> API key access</li>
             </ul>
-            <button data-checkout-plan="pro" data-checkout-interval="year" class="w-full py-2 px-3 rounded-lg text-sm font-semibold text-white transition-colors checkout-btn-year" style="background:#ff6b47;">Get Pro</button>
-            <button data-checkout-plan="pro" data-checkout-interval="month" class="hidden w-full py-2 px-3 rounded-lg text-sm font-semibold text-white transition-colors checkout-btn-month" style="background:#ff6b47;">Get Pro</button>
+            <button data-checkout-plan="pro" data-checkout-interval="year" class="w-full py-2 px-3 rounded-lg text-sm font-semibold text-white transition-colors checkout-btn-year" style="background:#2563eb;">Get Pro</button>
+            <button data-checkout-plan="pro" data-checkout-interval="month" class="hidden w-full py-2 px-3 rounded-lg text-sm font-semibold text-white transition-colors checkout-btn-month" style="background:#2563eb;">Get Pro</button>
           </div>
 
           <!-- Business plan -->

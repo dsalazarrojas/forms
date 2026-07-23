@@ -30,7 +30,7 @@
       theme: {
         extend: {
           colors: {
-            primary: '#ff6b47',
+            primary: '#2563eb',
             'gic-navy-dark': '#0f1f3d',
             'gic-navy-light': '#1e3a6e',
             'gic-navy-light2': '#2a4a8a'
@@ -48,7 +48,7 @@
       font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
     }
 
-    /* Animated orange dot pulse */
+    /* Animated dot pulse */
     @keyframes pulse-dot {
       0%, 100% { opacity: 1; transform: scale(1); }
       50% { opacity: 0.6; transform: scale(1.4); }
@@ -137,14 +137,14 @@
             <button id="header-ai-btn" type="button" aria-haspopup="true" aria-expanded="false"
               class="hidden sm:inline-flex items-center gap-1.5 border-2 border-primary text-primary hover:bg-primary hover:text-white text-sm font-semibold px-4 py-2 rounded-lg transition-colors">
               <span class="material-symbols-outlined text-[16px]">auto_awesome</span>
-              Build with AI
+              Build it
             </button>
             <div id="header-ai-popover" class="hidden absolute right-0 top-full mt-2 w-80 rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 shadow-xl p-4 z-50">
               <form id="header-ai-form" class="flex flex-col gap-2">
                 <label for="header-ai-prompt" class="text-xs font-semibold text-slate-700 dark:text-slate-300">Describe your form</label>
                 <textarea id="header-ai-prompt" rows="2" placeholder="e.g. A job application form with 10 fields"
                   class="w-full text-sm rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 p-2.5 focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary transition-colors"></textarea>
-                <button type="submit" class="inline-flex items-center justify-center gap-1.5 bg-primary hover:bg-orange-600 text-white text-sm font-semibold px-3 py-2 rounded-lg transition-colors">
+                <button type="submit" class="inline-flex items-center justify-center gap-1.5 bg-primary hover:bg-blue-700 text-white text-sm font-semibold px-3 py-2 rounded-lg transition-colors">
                   <span class="material-symbols-outlined text-[16px]">auto_awesome</span>Build it
                 </button>
                 <p id="header-ai-credits" class="text-xs text-slate-500 dark:text-slate-400 text-center"></p>
@@ -154,7 +154,7 @@
 
           <!-- Browse Forms CTA -->
           <a href="browse.html"
-            class="hidden sm:inline-flex items-center gap-1.5 bg-primary hover:bg-orange-600 text-white text-sm font-semibold px-4 py-2 rounded-lg transition-colors shadow-sm">
+            class="hidden sm:inline-flex items-center gap-1.5 bg-primary hover:bg-blue-700 text-white text-sm font-semibold px-4 py-2 rounded-lg transition-colors shadow-sm">
             <span class="material-symbols-outlined text-[16px]" style="font-variation-settings:'FILL' 1,'wght' 600,'GRAD' 0,'opsz' 20;">folder_open</span>
             Browse Forms
           </a>
@@ -170,7 +170,7 @@
   <section class="relative overflow-hidden bg-white dark:bg-slate-950 pt-16 pb-20 lg:pt-24 lg:pb-28">
     <!-- Subtle background radial gradient -->
     <div class="pointer-events-none absolute inset-0 flex items-start justify-center">
-      <div class="w-[900px] h-[600px] rounded-full bg-orange-50 dark:bg-orange-950/20 blur-3xl opacity-60 -translate-y-1/4"></div>
+      <div class="w-[900px] h-[600px] rounded-full bg-blue-50 dark:bg-blue-950/20 blur-3xl opacity-60 -translate-y-1/4"></div>
     </div>
 
     <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -180,7 +180,7 @@
         <div class="mb-14 lg:mb-0">
 
           <!-- Badge -->
-          <div class="inline-flex items-center gap-2 bg-orange-50 dark:bg-orange-950/40 border border-orange-200 dark:border-orange-800 text-primary text-sm font-semibold px-3.5 py-1.5 rounded-full mb-6">
+          <div class="inline-flex items-center gap-2 bg-blue-50 dark:bg-blue-950/40 border border-blue-200 dark:border-blue-800 text-primary text-sm font-semibold px-3.5 py-1.5 rounded-full mb-6">
             <span class="w-2 h-2 rounded-full bg-primary animate-pulse-dot flex-shrink-0"></span>
             AI-Powered Form Ecosystem
           </div>
@@ -200,12 +200,25 @@
             <form id="hero-ai-form" class="flex flex-col sm:flex-row gap-3 max-w-xl">
               <input id="hero-ai-prompt" type="text" placeholder="Describe your form… e.g. A customer satisfaction survey for a coffee shop"
                 class="flex-1 min-w-0 rounded-xl border-2 border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 px-4 py-3 text-sm sm:text-base text-slate-900 dark:text-slate-100 placeholder:text-slate-400 focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary transition-colors">
-              <button type="submit" id="hero-ai-submit" class="inline-flex items-center justify-center gap-2 bg-primary hover:bg-orange-600 text-white font-bold px-6 py-3 rounded-xl shadow-lg shadow-orange-200 dark:shadow-orange-950 transition-all hover:scale-105 flex-shrink-0">
+              <button type="submit" id="hero-ai-submit" class="inline-flex items-center justify-center gap-2 bg-primary hover:bg-blue-700 text-white font-bold px-6 py-3 rounded-xl shadow-lg shadow-blue-200 dark:shadow-blue-950 transition-all hover:scale-105 flex-shrink-0">
                 <span class="material-symbols-outlined text-[20px]">auto_awesome</span>
                 Build it
               </button>
             </form>
             <p id="hero-ai-credits" class="mt-2 text-xs text-slate-500 dark:text-slate-400"></p>
+          </div>
+
+          <div class="flex flex-wrap gap-3 mb-5">
+            <a href="browse.html"
+              class="inline-flex items-center gap-2 bg-white dark:bg-slate-800 border-2 border-primary text-primary hover:bg-primary hover:text-white font-semibold px-5 py-2.5 rounded-xl transition-all hover:scale-105">
+              <span class="material-symbols-outlined text-[18px]">grid_view</span>
+              Use a template
+            </a>
+            <a href="preview.html#import"
+              class="inline-flex items-center gap-2 bg-white dark:bg-slate-800 border-2 border-slate-300 dark:border-slate-600 text-slate-700 dark:text-slate-200 hover:border-primary hover:text-primary font-semibold px-5 py-2.5 rounded-xl transition-all hover:scale-105">
+              <span class="material-symbols-outlined text-[18px]">upload_file</span>
+              Import
+            </a>
           </div>
 
           <!-- CTA Buttons -->
@@ -235,7 +248,7 @@
             </div>
             <div class="w-px bg-slate-200 dark:bg-slate-800 hidden sm:block"></div>
             <div class="text-center sm:text-left">
-              <div class="text-2xl font-extrabold text-primary">5</div>
+              <div class="text-2xl font-extrabold text-primary">9</div>
               <div class="text-xs font-medium text-slate-500 dark:text-slate-400 uppercase tracking-wide mt-0.5">Platforms</div>
             </div>
           </div>
@@ -318,19 +331,19 @@
   <!-- ============================================================
        BROWSE ALL CATEGORIES BANNER
   ============================================================ -->
-  <section class="bg-[#ff6b47]">
+  <section class="bg-primary">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 flex flex-col sm:flex-row items-center justify-between gap-6">
       <div class="flex items-start gap-4">
         <span class="text-4xl flex-shrink-0" aria-hidden="true">📂</span>
         <div>
           <h2 class="text-xl sm:text-2xl font-extrabold text-white leading-tight">Browse the full form library</h2>
-          <p class="mt-1 text-orange-100 text-sm sm:text-base leading-relaxed">
+          <p class="mt-1 text-blue-100 text-sm sm:text-base leading-relaxed">
             Explore 84,298+ templates across 418 categories — filter, preview, deploy.
           </p>
         </div>
       </div>
       <a href="browse.html"
-        class="flex-shrink-0 inline-flex items-center gap-2 bg-white hover:bg-orange-50 text-[#ff6b47] font-bold text-base px-6 py-3 rounded-xl shadow-lg transition-all hover:scale-105 whitespace-nowrap">
+        class="flex-shrink-0 inline-flex items-center gap-2 bg-white hover:bg-blue-50 text-blue-600 font-bold text-base px-6 py-3 rounded-xl shadow-lg transition-all hover:scale-105 whitespace-nowrap">
         <span class="material-symbols-outlined text-[20px]" style="font-variation-settings:'FILL' 1,'wght' 700,'GRAD' 0,'opsz' 20;">arrow_forward</span>
         Browse All Categories →
       </a>
@@ -407,60 +420,95 @@
           Integrations
         </div>
         <h2 class="text-3xl sm:text-4xl font-extrabold text-slate-900 dark:text-white">Use with Your Favorite Platforms</h2>
-        <p class="mt-4 text-slate-500 dark:text-slate-400 max-w-xl mx-auto text-lg">
-          Every form template is ready to deploy across five platforms — mobile-first or web-first, your choice.
-        </p>
-      </div>
-
-      <!-- 5 platform cards -->
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-5 max-w-6xl mx-auto">
-
-        <!-- GIC Collect & ODK -->
-        <div class="bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 flex flex-col items-center text-center hover:border-primary dark:hover:border-primary hover:shadow-lg transition-all duration-200">
-          <div class="w-12 h-12 rounded-xl bg-blue-100 dark:bg-blue-900/40 flex items-center justify-center mb-4">
-            <span class="material-symbols-outlined text-blue-600 dark:text-blue-400 text-[24px]">smartphone</span>
-          </div>
-          <h3 class="font-bold text-slate-900 dark:text-white text-sm mb-1">GIC Collect &amp; ODK</h3>
-          <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">Download .xlsx → Import</p>
+          <p class="mt-4 text-slate-500 dark:text-slate-400 max-w-xl mx-auto text-lg">
+            Every form template is ready to deploy across platforms — mobile-first or web-first, your choice.
+          </p>
         </div>
 
-        <!-- Google Forms -->
-        <div class="bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 flex flex-col items-center text-center hover:border-primary dark:hover:border-primary hover:shadow-lg transition-all duration-200">
-          <div class="w-12 h-12 rounded-xl bg-red-100 dark:bg-red-900/40 flex items-center justify-center mb-4">
-            <span class="material-symbols-outlined text-red-500 dark:text-red-400 text-[24px]">description</span>
-          </div>
-          <h3 class="font-bold text-slate-900 dark:text-white text-sm mb-1">Google Forms</h3>
-          <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">Via XLSForm Creation</p>
-        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-5 max-w-6xl mx-auto">
 
-        <!-- Tally -->
-        <div class="bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 flex flex-col items-center text-center hover:border-primary dark:hover:border-primary hover:shadow-lg transition-all duration-200">
-          <div class="w-12 h-12 rounded-xl bg-slate-200 dark:bg-slate-700 flex items-center justify-center mb-4">
-            <span class="material-symbols-outlined text-slate-600 dark:text-slate-300 text-[24px]">list_alt</span>
+          <!-- GIC Collect & ODK -->
+          <div class="bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 flex flex-col items-center text-center hover:border-primary dark:hover:border-primary hover:shadow-lg transition-all duration-200">
+            <div class="w-12 h-12 rounded-xl bg-blue-100 dark:bg-blue-900/40 flex items-center justify-center mb-4">
+              <span class="material-symbols-outlined text-blue-600 dark:text-blue-400 text-[24px]">smartphone</span>
+            </div>
+            <h3 class="font-bold text-slate-900 dark:text-white text-sm mb-1">GIC Collect &amp; ODK</h3>
+            <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">Download .xlsx → Import</p>
           </div>
-          <h3 class="font-bold text-slate-900 dark:text-white text-sm mb-1">Tally</h3>
-          <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">Via XLSForm Creation</p>
-        </div>
 
-        <!-- Formbricks -->
-        <div class="bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 flex flex-col items-center text-center hover:border-primary dark:hover:border-primary hover:shadow-lg transition-all duration-200">
-          <div class="w-12 h-12 rounded-xl bg-purple-100 dark:bg-purple-900/40 flex items-center justify-center mb-4">
-            <span class="material-symbols-outlined text-purple-600 dark:text-purple-400 text-[24px]">grid_view</span>
+          <!-- Google Forms -->
+          <div class="bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 flex flex-col items-center text-center hover:border-primary dark:hover:border-primary hover:shadow-lg transition-all duration-200">
+            <div class="w-12 h-12 rounded-xl bg-red-100 dark:bg-red-900/40 flex items-center justify-center mb-4">
+              <span class="material-symbols-outlined text-red-500 dark:text-red-400 text-[24px]">description</span>
+            </div>
+            <h3 class="font-bold text-slate-900 dark:text-white text-sm mb-1">Google Forms</h3>
+            <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">Via XLSForm Creation</p>
           </div>
-          <h3 class="font-bold text-slate-900 dark:text-white text-sm mb-1">Formbricks</h3>
-          <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">Via XLSForm Creation</p>
-        </div>
 
-        <!-- Cloudflare Workers -->
-        <div class="bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 flex flex-col items-center text-center hover:border-primary dark:hover:border-primary hover:shadow-lg transition-all duration-200">
-          <div class="w-12 h-12 rounded-xl bg-orange-100 dark:bg-orange-900/40 flex items-center justify-center mb-4">
-            <span class="material-symbols-outlined text-orange-500 dark:text-orange-400 text-[24px]">cloud</span>
+          <!-- Google Sheets -->
+          <div class="bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 flex flex-col items-center text-center hover:border-primary dark:hover:border-primary hover:shadow-lg transition-all duration-200">
+            <div class="w-12 h-12 rounded-xl bg-green-100 dark:bg-green-900/40 flex items-center justify-center mb-4">
+              <span class="material-symbols-outlined text-green-600 dark:text-green-400 text-[24px]">table_chart</span>
+            </div>
+            <h3 class="font-bold text-slate-900 dark:text-white text-sm mb-1">Google Sheets</h3>
+            <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">XLSForm in Sheets</p>
           </div>
-          <h3 class="font-bold text-slate-900 dark:text-white text-sm mb-1">Cloudflare Workers</h3>
-          <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">Via OneTimeUseWebApp</p>
-        </div>
 
-      </div>
+          <!-- Tally -->
+          <div class="bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 flex flex-col items-center text-center hover:border-primary dark:hover:border-primary hover:shadow-lg transition-all duration-200">
+            <div class="w-12 h-12 rounded-xl bg-violet-100 dark:bg-violet-900/40 flex items-center justify-center mb-4">
+              <span class="material-symbols-outlined text-violet-600 dark:text-violet-400 text-[24px]">list_alt</span>
+            </div>
+            <h3 class="font-bold text-slate-900 dark:text-white text-sm mb-1">Tally</h3>
+            <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">Via XLSForm Creation</p>
+          </div>
+
+          <!-- Formbricks -->
+          <div class="bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 flex flex-col items-center text-center hover:border-primary dark:hover:border-primary hover:shadow-lg transition-all duration-200">
+            <div class="w-12 h-12 rounded-xl bg-purple-100 dark:bg-purple-900/40 flex items-center justify-center mb-4">
+              <span class="material-symbols-outlined text-purple-600 dark:text-purple-400 text-[24px]">grid_view</span>
+            </div>
+            <h3 class="font-bold text-slate-900 dark:text-white text-sm mb-1">Formbricks</h3>
+            <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">Via XLSForm Creation</p>
+          </div>
+
+          <!-- Cloudflare Workers -->
+          <div class="bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 flex flex-col items-center text-center hover:border-primary dark:hover:border-primary hover:shadow-lg transition-all duration-200">
+            <div class="w-12 h-12 rounded-xl bg-amber-100 dark:bg-amber-900/40 flex items-center justify-center mb-4">
+              <span class="material-symbols-outlined text-amber-600 dark:text-amber-400 text-[24px]">cloud</span>
+            </div>
+            <h3 class="font-bold text-slate-900 dark:text-white text-sm mb-1">Cloudflare Workers</h3>
+            <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">Via OneTimeUseWebApp</p>
+          </div>
+
+          <!-- ONA.io -->
+          <div class="bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 flex flex-col items-center text-center hover:border-primary dark:hover:border-primary hover:shadow-lg transition-all duration-200">
+            <div class="w-12 h-12 rounded-xl bg-teal-100 dark:bg-teal-900/40 flex items-center justify-center mb-4">
+              <span class="material-symbols-outlined text-teal-600 dark:text-teal-400 text-[24px]">cloud_upload</span>
+            </div>
+            <h3 class="font-bold text-slate-900 dark:text-white text-sm mb-1">ONA.io</h3>
+            <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">ODK + Enketo hosting</p>
+          </div>
+
+          <!-- KoboToolbox -->
+          <div class="bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 flex flex-col items-center text-center hover:border-primary dark:hover:border-primary hover:shadow-lg transition-all duration-200">
+            <div class="w-12 h-12 rounded-xl bg-amber-100 dark:bg-amber-900/40 flex items-center justify-center mb-4">
+              <span class="material-symbols-outlined text-amber-600 dark:text-amber-400 text-[24px]">public</span>
+            </div>
+            <h3 class="font-bold text-slate-900 dark:text-white text-sm mb-1">KoboToolbox</h3>
+            <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">Humanitarian data collection</p>
+          </div>
+
+          <!-- GIC XLSForm Creation -->
+          <div class="bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 flex flex-col items-center text-center hover:border-primary dark:hover:border-primary hover:shadow-lg transition-all duration-200">
+            <div class="w-12 h-12 rounded-xl bg-blue-100 dark:bg-blue-900/40 flex items-center justify-center mb-4">
+              <span class="material-symbols-outlined text-blue-600 dark:text-blue-400 text-[24px]">transform</span>
+            </div>
+            <h3 class="font-bold text-slate-900 dark:text-white text-sm mb-1">GIC XLSForm Creation</h3>
+            <p class="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">iOS app for conversions</p>
+          </div>
+
+        </div>
     </div>
   </section>
 
@@ -519,12 +567,12 @@
       <h2 class="text-3xl sm:text-4xl font-extrabold text-white mb-4 leading-tight">
         Ready to collect better data?
       </h2>
-      <p class="text-orange-100 text-lg mb-10 max-w-xl mx-auto">
+      <p class="text-blue-100 text-lg mb-10 max-w-xl mx-auto">
         84,298+ free YAML templates — no account needed.
       </p>
       <div class="flex flex-col sm:flex-row gap-4 justify-center">
         <a href="browse.html"
-          class="inline-flex items-center justify-center gap-2 bg-white hover:bg-orange-50 text-primary font-bold px-7 py-3.5 rounded-xl shadow-lg transition-all hover:scale-105">
+          class="inline-flex items-center justify-center gap-2 bg-white hover:bg-blue-50 text-primary font-bold px-7 py-3.5 rounded-xl shadow-lg transition-all hover:scale-105">
           <span class="material-symbols-outlined text-[20px]" style="font-variation-settings:'FILL' 1,'wght' 600,'GRAD' 0,'opsz' 20;">folder_open</span>
           Browse the Repository
         </a>

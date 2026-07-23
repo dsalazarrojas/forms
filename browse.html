@@ -32,7 +32,7 @@
       darkMode: 'class',
       theme: {
         extend: {
-          colors: { primary: '#ff6b47', 'gic-navy-dark': '#0f1f3d', 'gic-navy-light': '#1e3a6e', 'gic-navy-light2': '#2a4a8a' },
+          colors: { primary: '#2563eb', 'gic-navy-dark': '#0f1f3d', 'gic-navy-light': '#1e3a6e', 'gic-navy-light2': '#2a4a8a' },
           fontFamily: { sans: ['Public Sans', 'sans-serif'] }
         }
       }
@@ -59,7 +59,7 @@
     .sidebar-scroll::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 2px; }
     .dark .sidebar-scroll::-webkit-scrollbar-thumb { background: #475569; }
     /* Custom radio style */
-    input[type="radio"] { accent-color: #ff6b47; }
+    input[type="radio"] { accent-color: #2563eb; }
   </style>
 </head>
 
@@ -98,14 +98,14 @@
             <button id="header-ai-btn" type="button" aria-haspopup="true" aria-expanded="false"
               class="hidden sm:inline-flex items-center gap-1.5 border-2 border-primary text-primary hover:bg-primary hover:text-white text-sm font-semibold px-4 py-2 rounded-lg transition-colors">
               <span class="material-symbols-outlined text-[16px]">auto_awesome</span>
-              Build with AI
+              Build it
             </button>
             <div id="header-ai-popover" class="hidden absolute right-0 top-full mt-2 w-80 rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 shadow-xl p-4 z-50">
               <form id="header-ai-form" class="flex flex-col gap-2">
                 <label for="header-ai-prompt" class="text-xs font-semibold text-slate-700 dark:text-slate-300">Describe your form</label>
                 <textarea id="header-ai-prompt" rows="2" placeholder="e.g. A job application form with 10 fields"
                   class="w-full text-sm rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 p-2.5 focus:outline-none focus:ring-2 focus:ring-primary/40 focus:border-primary transition-colors"></textarea>
-                <button type="submit" class="inline-flex items-center justify-center gap-1.5 bg-primary hover:bg-orange-600 text-white text-sm font-semibold px-3 py-2 rounded-lg transition-colors">
+                <button type="submit" class="inline-flex items-center justify-center gap-1.5 bg-primary hover:bg-blue-700 text-white text-sm font-semibold px-3 py-2 rounded-lg transition-colors">
                   <span class="material-symbols-outlined text-[16px]">auto_awesome</span>Build it
                 </button>
                 <p id="header-ai-credits" class="text-xs text-slate-500 dark:text-slate-400 text-center"></p>
@@ -126,7 +126,7 @@
   <!-- ======================================================
        PAGE BANNER
   ====================================================== -->
-  <div class="relative overflow-hidden bg-gradient-to-br from-orange-500 via-primary to-orange-700">
+  <div class="relative overflow-hidden bg-gradient-to-br from-blue-500 via-primary to-blue-700">
     <!-- Decorative blobs -->
     <div class="absolute inset-0 overflow-hidden pointer-events-none">
       <div class="absolute -top-20 -right-20 h-64 w-64 rounded-full bg-white/10 blur-3xl"></div>
@@ -140,29 +140,29 @@
           Open Source Repository
         </div>
         <h1 class="text-4xl sm:text-5xl font-extrabold text-white mb-4 leading-tight">Browse the Repository</h1>
-        <p class="text-orange-100 text-lg mb-8 max-w-xl">Explore thousands of free YAML form templates across dozens of categories. Filter, preview, and download in seconds.</p>
+        <p class="text-blue-100 text-lg mb-8 max-w-xl">Explore thousands of free YAML form templates across dozens of categories. Filter, preview, and download in seconds.</p>
 
         <!-- Stats chips -->
         <div class="flex flex-wrap gap-3">
           <div class="flex items-center gap-2 bg-white/15 backdrop-blur-sm rounded-2xl px-5 py-3 border border-white/20">
-            <span class="material-symbols-outlined text-[20px] text-orange-200" style="font-variation-settings:'FILL' 1,'wght' 500,'GRAD' 0,'opsz' 24">article</span>
+            <span class="material-symbols-outlined text-[20px] text-blue-200" style="font-variation-settings:'FILL' 1,'wght' 500,'GRAD' 0,'opsz' 24">article</span>
             <div>
               <div class="text-2xl font-extrabold text-white leading-none" id="banner-total">...</div>
-              <div class="text-orange-200 text-xs font-medium mt-0.5">Templates</div>
+              <div class="text-blue-200 text-xs font-medium mt-0.5">Templates</div>
             </div>
           </div>
           <div class="flex items-center gap-2 bg-white/15 backdrop-blur-sm rounded-2xl px-5 py-3 border border-white/20">
-            <span class="material-symbols-outlined text-[20px] text-orange-200" style="font-variation-settings:'FILL' 1,'wght' 500,'GRAD' 0,'opsz' 24">category</span>
+            <span class="material-symbols-outlined text-[20px] text-blue-200" style="font-variation-settings:'FILL' 1,'wght' 500,'GRAD' 0,'opsz' 24">category</span>
             <div>
               <div class="text-2xl font-extrabold text-white leading-none" id="banner-categories">...</div>
-              <div class="text-orange-200 text-xs font-medium mt-0.5">Categories</div>
+              <div class="text-blue-200 text-xs font-medium mt-0.5">Categories</div>
             </div>
           </div>
           <div class="flex items-center gap-2 bg-white/15 backdrop-blur-sm rounded-2xl px-5 py-3 border border-white/20">
-            <span class="material-symbols-outlined text-[20px] text-orange-200" style="font-variation-settings:'FILL' 1,'wght' 500,'GRAD' 0,'opsz' 24">public</span>
+            <span class="material-symbols-outlined text-[20px] text-blue-200" style="font-variation-settings:'FILL' 1,'wght' 500,'GRAD' 0,'opsz' 24">public</span>
             <div>
               <div class="text-2xl font-extrabold text-white leading-none">Free</div>
-              <div class="text-orange-200 text-xs font-medium mt-0.5">CC BY 4.0</div>
+              <div class="text-blue-200 text-xs font-medium mt-0.5">CC BY 4.0</div>
             </div>
           </div>
         </div>
@@ -331,15 +331,15 @@
         </div>
 
         <!-- Export CTA -->
-        <div class="bg-gradient-to-br from-primary to-orange-700 rounded-2xl p-8 flex flex-col justify-between min-h-[220px] shadow-lg shadow-primary/20">
+        <div class="bg-gradient-to-br from-primary to-blue-700 rounded-2xl p-8 flex flex-col justify-between min-h-[220px] shadow-lg shadow-primary/20">
           <div>
             <div class="h-10 w-10 rounded-xl bg-white/20 flex items-center justify-center mb-4">
               <span class="material-symbols-outlined text-white text-[22px]" style="font-variation-settings:'FILL' 1,'wght' 500,'GRAD' 0,'opsz' 24">upload</span>
             </div>
             <h3 class="font-bold text-white text-xl mb-2">Export to any platform</h3>
-            <p class="text-orange-100 text-sm leading-relaxed">Convert YAML templates to Google Forms, Tally, Formbricks, and ODK Collect in one tap using GIC XLSForm Creation.</p>
+            <p class="text-blue-100 text-sm leading-relaxed">Convert YAML templates to Google Forms, Tally, Formbricks, and ODK Collect in one tap using GIC XLSForm Creation.</p>
           </div>
-          <a href="index.html#platforms" class="mt-6 inline-flex items-center gap-2 bg-white text-primary font-bold text-sm py-3 px-6 rounded-xl hover:bg-orange-50 transition-colors self-start shadow-sm">
+          <a href="index.html#platforms" class="mt-6 inline-flex items-center gap-2 bg-white text-primary font-bold text-sm py-3 px-6 rounded-xl hover:bg-blue-50 transition-colors self-start shadow-sm">
             Learn how
             <span class="material-symbols-outlined text-[16px]">arrow_forward</span>
           </a>
@@ -412,7 +412,7 @@
 
       <div class="border-t border-slate-800 pt-8 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
         <p class="text-sm text-slate-500">&copy; 2026 Daniel Salazar Rojas. Licensed under CC BY 4.0 (forms) and MIT (code).</p>
-        <a href="browse.html" class="text-sm text-primary hover:text-orange-400 font-semibold transition-colors">Browse all forms &rarr;</a>
+        <a href="browse.html" class="text-sm text-primary hover:text-blue-400 font-semibold transition-colors">Browse all forms &rarr;</a>
       </div>
     </div>
   </footer>
