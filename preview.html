@@ -372,6 +372,10 @@
           <span class="material-symbols-outlined icon-sm">ios_share</span>
           <span class="hidden sm:inline text-xs">Share</span>
         </button>
+        <button id="btn-responses" type="button" class="btn-outline" style="width:auto;padding:6px 12px;" title="Responses" disabled>
+          <span class="material-symbols-outlined icon-sm">inbox</span>
+          <span class="hidden sm:inline text-xs">Responses</span>
+        </button>
         <details class="relative">
           <summary id="btn-overflow-menu" class="btn-outline list-none cursor-pointer" style="width:auto;padding:6px 10px;" title="More actions">
             <span class="material-symbols-outlined icon-sm">more_horiz</span>
@@ -578,7 +582,7 @@
                 <div>
                   <p class="font-semibold text-slate-900 dark:text-slate-100">Publish this form</p>
                   <p class="text-xs text-slate-500 dark:text-slate-400">Get a link anyone can open on their phone or computer to submit a response.</p>
-                  <p class="text-xs text-slate-400 dark:text-slate-500 mt-1">Free plan: up to 100 responses per form. <a href="#" class="text-primary hover:underline" onclick="event.preventDefault();openUpgradeModal()">Upgrade to Pro</a> for unlimited responses.</p>
+                  <p class="text-xs text-slate-400 dark:text-slate-500 mt-1">Unlimited responses on the free plan.</p>
                   <p class="text-xs text-slate-400 dark:text-slate-500 mt-1">After publishing, view submissions any time from here or the My Forms tab.</p>
                 </div>
               </div>
@@ -756,6 +760,9 @@
                   <span class="inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium bg-purple-50 text-purple-700 dark:bg-purple-950/50 dark:text-purple-400 flex-shrink-0">API</span>
                 </div>
                 <p class="text-xs text-slate-600 dark:text-slate-400 mb-3 leading-relaxed">Create a Tally form with your questions automatically. Requires a Tally API token.</p>
+                <a href="https://tally.cello.so/xzoPrh2z4rx" target="_blank" rel="noopener noreferrer sponsored" class="btn-outline w-full mb-2 flex items-center justify-center gap-2" style="padding:7px 12px;font-size:12px;text-decoration:none;">
+                  <span class="material-symbols-outlined icon-sm">open_in_new</span>Try Tally free
+                </a>
                 <button class="dp-toggle-btn btn-outline w-full" style="padding:7px 12px;font-size:12px;" data-target="dp-tally-panel">
                   <span class="material-symbols-outlined icon-sm">settings</span>Configure &amp; Deploy
                 </button>
@@ -866,6 +873,7 @@
               </div>
 
             </div>
+            <p class="text-xs text-slate-400 mt-1">Some platform links are affiliate links. We may earn a commission at no extra cost to you.</p>
           </div>
 
           <!-- D: ODK / Mobile Collection -->

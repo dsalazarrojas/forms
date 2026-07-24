@@ -1096,6 +1096,15 @@
     return getMyForms().find(item => item.id === id) || null;
   }
 
+  function updateResponsesButtonState() {
+    const btn = document.getElementById('btn-responses');
+    if (!btn) return;
+    const record = currentLocalFormId && findMyForm(currentLocalFormId);
+    const isPublished = !!(record && record.formId && record.mgmtToken);
+    btn.disabled = !isPublished;
+    btn.title = isPublished ? 'Responses' : 'Publish this form to collect and view responses.';
+  }
+
   async function loadYamlDocument(yaml, options) {
     const config = options || {};
     const parsed = window.jsyaml.load(yaml);
@@ -1110,6 +1119,7 @@
     }
     if (Object.prototype.hasOwnProperty.call(config, 'localFormId')) {
       currentLocalFormId = config.localFormId;
+      updateResponsesButtonState();
     }
     if (config.markOriginal !== false) {
       originalYaml = yaml;
@@ -1198,7 +1208,9 @@
       list.unshift(record);
     }
     currentLocalFormId = id;
+    updateResponsesButtonState();
     saveMyForms(list);
+    updateResponsesButtonState();
     if (publishPatch) persistPublishState(id, publishPatch);
     renderMyForms();
     if (!silent) {
@@ -1218,6 +1230,7 @@
     const blank = codec().createBlankForm('Untitled Survey');
     const yaml = codec().serialize(blank, {});
     currentLocalFormId = null;
+    updateResponsesButtonState();
     await loadYamlDocument(yaml, {
       formPath: null,
       localFormId: null,
@@ -1240,6 +1253,7 @@
     saveMyForms(remaining);
     if (currentLocalFormId === id) {
       currentLocalFormId = null;
+      updateResponsesButtonState();
     }
     renderMyForms();
   }
@@ -1351,6 +1365,7 @@
         const result = await window.GICDeployIntegrations.publishForm(form);
         persistPublishState(currentLocalFormId, { formId: result.formId, mgmtToken: result.mgmtToken, publishUrl: result.url, publishStatus: 'live', lastPublishedAt: new Date().toISOString() });
       }
+      updateResponsesButtonState();
       renderSharePublishSuccess(findMyForm(currentLocalFormId));
       renderMyForms();
     } catch (error) {
@@ -1448,6 +1463,10 @@
 
   function setupShareSheetHandlers() {
     document.getElementById('btn-create-new')?.addEventListener('click', openCreateSheet);
+    document.getElementById('btn-responses')?.addEventListener('click', () => {
+      const record = currentLocalFormId && findMyForm(currentLocalFormId);
+      if (record) openResponsesPanel(record);
+    });
     const shareButton = document.getElementById('btn-share');
     const closeButton = document.getElementById('share-close-btn');
     const overlay = document.getElementById('share-overlay');
@@ -2114,6 +2133,7 @@
     }
     const yaml = await response.text();
     currentLocalFormId = null;
+    updateResponsesButtonState();
     await loadYamlDocument(yaml, {
       formPath,
       localFormId: null,
@@ -2139,6 +2159,7 @@
     initEmbedCode();
     initWebhooks();
     initPlanBadge();
+    updateResponsesButtonState();
     const copyYamlButton = document.getElementById('btn-copy-yaml');
     if (copyYamlButton) copyYamlButton.addEventListener('click', copyYaml);
 
@@ -2158,6 +2179,7 @@
         const blankYaml = codec().serialize(codec().createBlankForm('Untitled Survey'), {});
         currentFormPath = null;
         currentLocalFormId = null;
+        updateResponsesButtonState();
         await loadYamlDocument(blankYaml, {
           formPath: null,
           localFormId: null,
